@@ -1,0 +1,737 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SENE 제작</title>
+<meta name="description" content="SENE 콘텐츠 제작 도구">
+<meta name="robots" content="noindex, nofollow">
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" rel="stylesheet">
+<link rel="manifest" href="manifest.webmanifest?v=37">
+<meta name="theme-color" content="#0A0A0C">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="SENE">
+<meta name="mobile-web-app-capable" content="yes">
+<style>
+/* 잡지 목차의 문법으로 짠다.
+   큰 활자는 '제작' 같은 껍데기 낱말이 아니라 실제 항목 이름이 갖는다.
+   구조는 번호 · 괘선 · 여백이 만들고, 색은 흑백에 앰버 하나.
+   8px 배수로 수직 리듬을 맞춘다. */
+:root{
+  --bg:#0A0A0C; --panel:#131318; --raise:#1B1B22;
+  --line:#20202A; --hair:#17171E;
+  --text:#ECECF1; --muted:#8A8A96; --dim:#565663;
+  --amber:#E8B34A;
+  --u:8px;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,monospace;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg); color:var(--text); min-height:100dvh;
+  font-family:Pretendard,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  font-size:15px; line-height:1.55;
+  -webkit-text-size-adjust:100%; -webkit-font-smoothing:antialiased;
+  padding:calc(var(--u)*4 + env(safe-area-inset-top)) 22px
+          calc(var(--u)*5 + env(safe-area-inset-bottom));
+}
+/* 종이 느낌의 아주 옅은 결. 3.5% 라 '보이지는 않고 느껴지는' 정도. */
+body::after{
+  content:''; position:fixed; inset:0; pointer-events:none; z-index:99; opacity:.035;
+  background-size:170px 170px;
+  background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='170' height='170'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='3'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+}
+[hidden]{display:none!important}
+.wrap{max-width:560px; margin:0 auto; position:relative}
+
+/* ── 제호: 마크 · 괘선 · 작은 대문자 ── */
+.masthead{display:flex; align-items:center; gap:14px; padding-bottom:calc(var(--u)*2)}
+.masthead .mark{flex:none; font-weight:900; font-size:24px; letter-spacing:-.03em; line-height:1; color:var(--text)}
+.masthead .mark i{font-style:normal; color:#6E1E2C}          /* SENE 워드마크 — 종이 위 마침표는 버건디 (7/17 dove) */
+:root[data-theme="dark"] .masthead .mark i{color:#E8CDD2}
+.masthead .rule{flex:1; height:1px; background:var(--line)}
+/* 테마 버튼이 갈 자리. 없으면 화면 오른쪽 위에 떠서 제호를 덮는다. */
+.masthead .hbtns{flex:none; display:flex; gap:8px; align-items:center}
+/* 넓은 자간은 라틴에만 맞다. 한글에 .18em 을 주면 낱자가 흩어져 보인다.
+   그래서 마이크로 활자를 둘로 나눈다 — .lat 는 넓게, 한글은 촘촘하게. */
+.masthead .kicker{
+  flex:none; font-size:12px; font-weight:700; color:var(--dim);
+  letter-spacing:.02em;
+}
+.lat{font-family:var(--mono); letter-spacing:.14em; text-transform:uppercase}
+
+/* ── 목차 ── */
+.index{border-top:1px solid var(--line)}
+.row{
+  display:block; text-decoration:none; color:inherit; position:relative;
+  border-bottom:1px solid var(--hair);
+  padding:calc(var(--u)*3.5) 0 calc(var(--u)*3.5);
+  transition:opacity .2s ease;
+}
+.num{
+  display:flex; align-items:center; gap:10px;
+  font-family:var(--mono); font-size:12px; font-weight:500;
+  color:var(--dim); letter-spacing:.1em;
+}
+.num i{flex:0 0 22px; height:1px; background:var(--line); font-style:normal;
+  transition:flex-basis .24s ease, background .2s ease}
+.row:hover .num i{flex-basis:42px; background:var(--amber)}
+.row h2{
+  margin:calc(var(--u)*1.5) 0 0; font-size:29px; font-weight:800;
+  letter-spacing:-.045em; line-height:1.12;
+  transition:color .2s ease;
+}
+.row p{
+  margin:calc(var(--u)*1.25) 0 0; color:var(--muted);
+  font-size:13.5px; line-height:1.6; letter-spacing:-.012em;
+  max-width:40ch;
+}
+.row .meta{
+  margin-top:calc(var(--u)*2); font-size:12px; font-weight:700; color:var(--dim);
+  letter-spacing:.015em;
+}
+.row .meta.warn{color:var(--amber)}
+.row:active{opacity:.6}
+@media(hover:hover){ .row:hover h2{color:#fff} }
+
+/* ── 아래 동작 ── */
+.acts{display:flex; flex-direction:column; gap:8px}
+.acts:has(.act:not([hidden])){margin-top:calc(var(--u)*4)}
+.act{
+  width:100%; text-align:left; cursor:pointer; position:relative;
+  background:none; border:0; border-bottom:1px solid var(--hair);
+  color:var(--text); font:inherit; font-size:14px; font-weight:700;
+  letter-spacing:-.015em; padding:calc(var(--u)*1.75) 0;
+  transition:border-color .2s ease;
+}
+.act::after{content:'→'; position:absolute; right:2px; top:calc(var(--u)*1.6);
+  color:var(--dim); font-size:13px; transition:transform .2s ease}
+.act:hover{border-color:var(--line)}
+.act:hover::after{transform:translateX(3px)}
+.act[disabled]{cursor:default}
+.act[disabled]::after{content:''}
+.act small{display:block; margin-top:4px; color:var(--dim); font-size:12.5px;
+  font-weight:400; letter-spacing:-.005em}
+.act b{color:var(--muted); font-weight:700}
+
+/* ── 꼬리 ── */
+.foot{
+  margin-top:calc(var(--u)*4); color:var(--dim); font-size:13px;
+  line-height:1.75; letter-spacing:-.005em;
+}
+.foot b{color:var(--muted); font-weight:600}
+.foot code{font-family:var(--mono); font-size:12.5px; color:var(--muted)}
+</style>
+
+<style id="plotTheme">
+:root{ --accent:#E8CDD2; --glass:rgba(18,19,26,.93); }
+/* 흐린 보조 글씨가 어두운 바탕에서 2.3~2.9:1 이었다 — 해 아래 폰에서 안 읽힌다.
+   세 화면이 이름만 다를 뿐 같은 자리라 한 군데서 올린다. */
+html:root[data-theme="dark"]{ --dim:#82828F; --faint:#82828F; --skip:#82828F;
+  --bad:#E0786A }
+@media (prefers-color-scheme: dark){
+  html:root[data-theme="system"]{ --dim:#82828F; --faint:#82828F;
+    --skip:#82828F; --bad:#E0786A }
+}
+html:root[data-accent="burgundy"]{ --accent:#E8CDD2; --amber:#E8CDD2 }
+html:root[data-accent="amber"]{ --accent:#E8B34A; --amber:#E8B34A }
+html:root[data-accent="blue"]{ --accent:#5B8DEF; --amber:#5B8DEF }
+html:root[data-accent="green"]{ --accent:#4FB477; --amber:#4FB477 }
+html:root[data-accent="violet"]{ --accent:#8B7CF0; --amber:#8B7CF0 }
+html:root[data-accent="mono"]{ --accent:#ECECF1; --amber:#ECECF1 }
+html:root[data-accent="neon"]{ --accent:#00F0FF; --amber:#00F0FF }
+html:root .plotThemeBox .sw[data-accent="burgundy"]{ background:#E8CDD2; color:#E8CDD2 }
+html:root .plotThemeBox .sw[data-accent="amber"]{ background:#E8B34A; color:#E8B34A }
+html:root .plotThemeBox .sw[data-accent="blue"]{ background:#5B8DEF; color:#5B8DEF }
+html:root .plotThemeBox .sw[data-accent="green"]{ background:#4FB477; color:#4FB477 }
+html:root .plotThemeBox .sw[data-accent="violet"]{ background:#8B7CF0; color:#8B7CF0 }
+html:root .plotThemeBox .sw[data-accent="mono"]{ background:#ECECF1; color:#ECECF1 }
+html:root .plotThemeBox .sw[data-accent="neon"]{ background:linear-gradient(135deg,#00F0FF 0%,#FF2BD6 45%,#B6FF3B 100%); color:#00F0FF }
+html:root[data-theme="light"]{
+  --bg:#F5F2EC; --panel:#FBF9F5; --raise:#EFEAE1; --panel-2:#EFEAE1;
+  --line:#DDD6CB; --text:#242220; --ink:#242220;
+  --muted:#5E5750; --dim:#6F6860; --faint:#6F6860; --skip:#6F6878;
+  --glass:rgba(245,242,236,.94); --bad:#A63A2B; --warn:#8A6B12; --danger:#A63A2B;
+  color-scheme:light;
+}
+html:root[data-theme="light"][data-accent="burgundy"]{ --accent:#6E1E2C; --amber:#6E1E2C }
+html:root[data-theme="light"][data-accent="amber"]{ --accent:#7A6B10; --amber:#7A6B10 }
+html:root[data-theme="light"][data-accent="blue"]{ --accent:#2B5BC4; --amber:#2B5BC4 }
+html:root[data-theme="light"][data-accent="green"]{ --accent:#216E45; --amber:#216E45 }
+html:root[data-theme="light"][data-accent="violet"]{ --accent:#5240B8; --amber:#5240B8 }
+html:root[data-theme="light"][data-accent="mono"]{ --accent:#1A1A1E; --amber:#1A1A1E }
+html:root[data-theme="light"][data-accent="neon"]{ --accent:#B5008C; --amber:#B5008C }
+html:root[data-theme="light"] input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=color]),
+html:root[data-theme="light"] textarea,
+html:root[data-theme="light"] select{
+  background:var(--panel)!important; color:var(--text)!important;
+  -webkit-text-fill-color:var(--text)!important;
+}
+html:root[data-theme="light"] input:focus, html:root[data-theme="light"] textarea:focus{ background:var(--bg)!important }
+html:root[data-theme="light"] ::placeholder{ color:var(--dim)!important; opacity:1 }
+html:root[data-theme="light"] .err{ background:#FBEFEF!important; border-color:#E2BDBD!important;
+  color:#8A2F2F!important }
+html:root[data-theme="light"] .send{ color:var(--bg)!important }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="burgundy"]{ background:#6E1E2C; color:#6E1E2C }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="amber"]{ background:#7A6B10; color:#7A6B10 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="blue"]{ background:#2B5BC4; color:#2B5BC4 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="green"]{ background:#216E45; color:#216E45 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="violet"]{ background:#5240B8; color:#5240B8 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="mono"]{ background:#1A1A1E; color:#1A1A1E }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="neon"]{ background:linear-gradient(135deg,#00F0FF 0%,#FF2BD6 45%,#B6FF3B 100%); color:#B5008C }
+@media (prefers-color-scheme: light){
+html:root[data-theme="system"]{
+  --bg:#F5F2EC; --panel:#FBF9F5; --raise:#EFEAE1; --panel-2:#EFEAE1;
+  --line:#DDD6CB; --text:#242220; --ink:#242220;
+  --muted:#5E5750; --dim:#6F6860; --faint:#6F6860; --skip:#6F6878;
+  --glass:rgba(245,242,236,.94); --bad:#A63A2B; --warn:#8A6B12; --danger:#A63A2B;
+  color-scheme:light;
+}
+html:root[data-theme="system"][data-accent="burgundy"]{ --accent:#6E1E2C; --amber:#6E1E2C }
+html:root[data-theme="system"][data-accent="amber"]{ --accent:#7A6B10; --amber:#7A6B10 }
+html:root[data-theme="system"][data-accent="blue"]{ --accent:#2B5BC4; --amber:#2B5BC4 }
+html:root[data-theme="system"][data-accent="green"]{ --accent:#216E45; --amber:#216E45 }
+html:root[data-theme="system"][data-accent="violet"]{ --accent:#5240B8; --amber:#5240B8 }
+html:root[data-theme="system"][data-accent="mono"]{ --accent:#1A1A1E; --amber:#1A1A1E }
+html:root[data-theme="system"][data-accent="neon"]{ --accent:#B5008C; --amber:#B5008C }
+html:root[data-theme="system"] input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=color]),
+html:root[data-theme="system"] textarea,
+html:root[data-theme="system"] select{
+  background:var(--panel)!important; color:var(--text)!important;
+  -webkit-text-fill-color:var(--text)!important;
+}
+html:root[data-theme="system"] input:focus, html:root[data-theme="system"] textarea:focus{ background:var(--bg)!important }
+html:root[data-theme="system"] ::placeholder{ color:var(--dim)!important; opacity:1 }
+html:root[data-theme="system"] .err{ background:#FBEFEF!important; border-color:#E2BDBD!important;
+  color:#8A2F2F!important }
+html:root[data-theme="system"] .send{ color:var(--bg)!important }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="burgundy"]{ background:#6E1E2C; color:#6E1E2C }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="amber"]{ background:#7A6B10; color:#7A6B10 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="blue"]{ background:#2B5BC4; color:#2B5BC4 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="green"]{ background:#216E45; color:#216E45 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="violet"]{ background:#5240B8; color:#5240B8 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="mono"]{ background:#1A1A1E; color:#1A1A1E }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="neon"]{ background:linear-gradient(135deg,#00F0FF 0%,#FF2BD6 45%,#B6FF3B 100%); color:#B5008C }
+}
+/* 네온 — 바탕째 갈아 끼우므로 밝은 한 벌보다 뒤에 온다 */
+html:root[data-theme="dark"][data-accent="neon"]{
+  --bg:#06040F; --panel:#0E0A1C; --raise:#161029; --panel-2:#161029;
+  --line:#2B1D52; --hair:#14102A; --text:#EAE6FF; --ink:#EAE6FF;
+  --muted:#B9AEE8; --dim:#8E85C9; --faint:#8E85C9; --skip:#8E85C9;
+  --bad:#FF5C8A; --warn:#FFD166; --danger:#FF5C8A;
+  --glass:rgba(10,7,22,.93); --pick:#3DFFA8;
+  color-scheme:dark;
+}
+html:root[data-theme="dark"][data-accent="neon"] .chip.on, html:root[data-theme="dark"][data-accent="neon"] .btn.primary, html:root[data-theme="dark"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="dark"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="dark"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="dark"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(0,240,255,.35) }
+html:root[data-theme="dark"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(0,240,255,.5) }
+html:root[data-theme="dark"][data-accent="neon"] header, html:root[data-theme="dark"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="cyan"]{ --accent:#00F0FF; --amber:#00F0FF; --neonrgb:0,240,255 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="magenta"]{ --accent:#FF2BD6; --amber:#FF2BD6; --neonrgb:255,43,214 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="lime"]{ --accent:#B6FF3B; --amber:#B6FF3B; --neonrgb:182,255,59 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="orange"]{ --accent:#FF9F43; --amber:#FF9F43; --neonrgb:255,159,67 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="violet"]{ --accent:#B08CFF; --amber:#B08CFF; --neonrgb:176,140,255 }
+html:root[data-theme="dark"][data-accent="neon"] body{
+  background-image:
+    radial-gradient(120% 60% at 50% -10%, rgba(var(--neonrgb,0,240,255),.16), transparent 60%),
+    linear-gradient(rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px);
+  background-size:100% 420px, 36px 36px, 36px 36px;
+  background-attachment:fixed;
+}
+html:root[data-theme="dark"][data-accent="neon"] .pwhy, html:root[data-theme="dark"][data-accent="neon"] .fwNew, html:root[data-theme="dark"][data-accent="neon"] .lat, html:root[data-theme="dark"][data-accent="neon"] .stamp,
+html:root[data-theme="dark"][data-accent="neon"] .badge, html:root[data-theme="dark"][data-accent="neon"] .pkLbl{ text-shadow:0 0 8px rgba(var(--neonrgb,0,240,255),.45) }
+html:root[data-theme="dark"][data-accent="neon"] .pcard, html:root[data-theme="dark"][data-accent="neon"] .card, html:root[data-theme="dark"][data-accent="neon"] .fw, html:root[data-theme="dark"][data-accent="neon"] .block{
+  border-color:rgba(var(--neonrgb,0,240,255),.22) }
+html:root[data-theme="dark"][data-accent="neon"] header{ border-bottom-color:rgba(var(--neonrgb,0,240,255),.35) }
+html:root[data-theme="light"][data-accent="neon"]{
+  --bg:#FBF6FF; --panel:#F2E9FF; --raise:#E9DCFF; --panel-2:#E9DCFF;
+  --line:#DCC9F5; --hair:#EDE3FB; --text:#14082A; --ink:#14082A;
+  --muted:#4A2E70; --dim:#5F4490; --faint:#5F4490; --skip:#5F4490;
+  --bad:#A6112E; --warn:#7A4E00; --danger:#A6112E;
+  --glass:rgba(248,242,255,.93); --pick:#136B45;
+  color-scheme:light;
+}
+html:root[data-theme="light"][data-accent="neon"] .chip.on, html:root[data-theme="light"][data-accent="neon"] .btn.primary, html:root[data-theme="light"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="light"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="light"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="light"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(181,0,140,.22) }
+html:root[data-theme="light"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(181,0,140,.35) }
+html:root[data-theme="light"][data-accent="neon"] header, html:root[data-theme="light"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="light"][data-accent="neon"][data-neon="cyan"]{ --accent:#0A6C78; --amber:#0A6C78; --neonrgb:0,240,255 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="magenta"]{ --accent:#A3007E; --amber:#A3007E; --neonrgb:255,43,214 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="lime"]{ --accent:#4C6B00; --amber:#4C6B00; --neonrgb:182,255,59 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="orange"]{ --accent:#8A4B00; --amber:#8A4B00; --neonrgb:255,159,67 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="violet"]{ --accent:#5A3BC4; --amber:#5A3BC4; --neonrgb:176,140,255 }
+html:root[data-theme="light"][data-accent="neon"] body{ background-image:linear-gradient(rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px),linear-gradient(90deg, rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px); background-size:36px 36px; background-attachment:fixed }
+@media (prefers-color-scheme: dark){
+html:root[data-theme="system"][data-accent="neon"]{
+  --bg:#06040F; --panel:#0E0A1C; --raise:#161029; --panel-2:#161029;
+  --line:#2B1D52; --hair:#14102A; --text:#EAE6FF; --ink:#EAE6FF;
+  --muted:#B9AEE8; --dim:#8E85C9; --faint:#8E85C9; --skip:#8E85C9;
+  --bad:#FF5C8A; --warn:#FFD166; --danger:#FF5C8A;
+  --glass:rgba(10,7,22,.93); --pick:#3DFFA8;
+  color-scheme:dark;
+}
+html:root[data-theme="system"][data-accent="neon"] .chip.on, html:root[data-theme="system"][data-accent="neon"] .btn.primary, html:root[data-theme="system"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="system"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="system"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(0,240,255,.35) }
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(0,240,255,.5) }
+html:root[data-theme="system"][data-accent="neon"] header, html:root[data-theme="system"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="system"][data-accent="neon"][data-neon="cyan"]{ --accent:#00F0FF; --amber:#00F0FF; --neonrgb:0,240,255 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="magenta"]{ --accent:#FF2BD6; --amber:#FF2BD6; --neonrgb:255,43,214 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="lime"]{ --accent:#B6FF3B; --amber:#B6FF3B; --neonrgb:182,255,59 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="orange"]{ --accent:#FF9F43; --amber:#FF9F43; --neonrgb:255,159,67 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="violet"]{ --accent:#B08CFF; --amber:#B08CFF; --neonrgb:176,140,255 }
+html:root[data-theme="system"][data-accent="neon"] body{
+  background-image:
+    radial-gradient(120% 60% at 50% -10%, rgba(var(--neonrgb,0,240,255),.16), transparent 60%),
+    linear-gradient(rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px);
+  background-size:100% 420px, 36px 36px, 36px 36px;
+  background-attachment:fixed;
+}
+html:root[data-theme="system"][data-accent="neon"] .pwhy, html:root[data-theme="system"][data-accent="neon"] .fwNew, html:root[data-theme="system"][data-accent="neon"] .lat, html:root[data-theme="system"][data-accent="neon"] .stamp,
+html:root[data-theme="system"][data-accent="neon"] .badge, html:root[data-theme="system"][data-accent="neon"] .pkLbl{ text-shadow:0 0 8px rgba(var(--neonrgb,0,240,255),.45) }
+html:root[data-theme="system"][data-accent="neon"] .pcard, html:root[data-theme="system"][data-accent="neon"] .card, html:root[data-theme="system"][data-accent="neon"] .fw, html:root[data-theme="system"][data-accent="neon"] .block{
+  border-color:rgba(var(--neonrgb,0,240,255),.22) }
+html:root[data-theme="system"][data-accent="neon"] header{ border-bottom-color:rgba(var(--neonrgb,0,240,255),.35) }
+}
+@media (prefers-color-scheme: light){
+html:root[data-theme="system"][data-accent="neon"]{
+  --bg:#FBF6FF; --panel:#F2E9FF; --raise:#E9DCFF; --panel-2:#E9DCFF;
+  --line:#DCC9F5; --hair:#EDE3FB; --text:#14082A; --ink:#14082A;
+  --muted:#4A2E70; --dim:#5F4490; --faint:#5F4490; --skip:#5F4490;
+  --bad:#A6112E; --warn:#7A4E00; --danger:#A6112E;
+  --glass:rgba(248,242,255,.93); --pick:#136B45;
+  color-scheme:light;
+}
+html:root[data-theme="system"][data-accent="neon"] .chip.on, html:root[data-theme="system"][data-accent="neon"] .btn.primary, html:root[data-theme="system"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="system"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="system"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(181,0,140,.22) }
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(181,0,140,.35) }
+html:root[data-theme="system"][data-accent="neon"] header, html:root[data-theme="system"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="system"][data-accent="neon"][data-neon="cyan"]{ --accent:#0A6C78; --amber:#0A6C78; --neonrgb:0,240,255 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="magenta"]{ --accent:#A3007E; --amber:#A3007E; --neonrgb:255,43,214 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="lime"]{ --accent:#4C6B00; --amber:#4C6B00; --neonrgb:182,255,59 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="orange"]{ --accent:#8A4B00; --amber:#8A4B00; --neonrgb:255,159,67 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="violet"]{ --accent:#5A3BC4; --amber:#5A3BC4; --neonrgb:176,140,255 }
+html:root[data-theme="system"][data-accent="neon"] body{ background-image:linear-gradient(rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px),linear-gradient(90deg, rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px); background-size:36px 36px; background-attachment:fixed }
+}
+/* 강조색이 여섯이 되면서 한 줄에 안 들어간다 */
+.plotThemeBox .row{flex-wrap:wrap}
+.plotThemeBtn{border:1px solid var(--line); border-radius:6px; background:none;
+  color:var(--muted,#8A8A96); font:inherit; font-size:13px; padding:5px 9px; cursor:pointer}
+/* 머리줄에 붙을 자리가 없으면 화면 오른쪽 위에 떠 있는다. 이 배경을 인라인으로
+   까맣게 박아 두면 밝은 테마에서 글자가 묻는다 — 변수로 둔다. */
+.plotThemeBtn.float{position:fixed; right:12px; top:calc(12px + env(safe-area-inset-top)); z-index:9998;
+  background:var(--panel); color:var(--text); backdrop-filter:blur(8px)}
+/* 숏폼은 버튼 줄에 붙는다. 그 줄은 한 줄로 고정돼 있어서 하나 더 얹으면 390px 에서
+   18px 밀려났다 — 넘치면 접히게 한다. */
+.addRow{flex-wrap:wrap}
+.addRow .plotThemeBtn{flex:0 0 auto}
+.plotThemeBox{position:fixed; right:12px; z-index:9999; background:var(--panel,#131318);
+  border:1px solid var(--line); border-radius:10px; padding:11px 12px; min-width:186px;
+  box-shadow:0 12px 34px rgba(0,0,0,.4); font-size:13px; color:var(--text,#ECECF1)}
+.plotThemeBox b{display:block; font-size:12.5px; color:var(--muted,#8A8A96);
+  font-weight:600; margin:0 0 6px}
+.plotThemeBox .row{display:flex; gap:6px; margin-bottom:10px; align-items:center}
+.plotThemeBox .row:last-child{margin-bottom:0}
+.plotThemeBox button{flex:1; border:1px solid var(--line); border-radius:7px; background:none;
+  color:inherit; font:inherit; font-size:13px; padding:7px 4px; cursor:pointer}
+.plotThemeBox button.on{border-color:var(--accent); color:var(--accent)}
+.plotThemeBox .sw{width:26px; height:26px; flex:none; border-radius:50%; padding:0; border:0}
+.plotThemeBox .sw.on{box-shadow:0 0 0 2px var(--bg,#0A0A0C), 0 0 0 4px currentColor}
+.plotThemeBox .hues{display:none}
+html:root[data-accent="neon"] .plotThemeBox .hues{display:flex}
+.plotThemeBox .hue{width:22px; height:22px; flex:none; border-radius:50%; padding:0; border:0}
+.plotThemeBox .hue.on{box-shadow:0 0 0 2px var(--bg,#0A0A0C), 0 0 0 4px currentColor,
+  0 0 12px currentColor}
+/* 글자 크기 — 브라우저 확대와 같은 방식(칸도 같이 큰다). 기기마다 따로 기억한다. */
+html:root[data-fs="s"] body{ zoom:.92 }
+html:root[data-fs="l"] body{ zoom:1.12 }
+html:root[data-fs="xl"] body{ zoom:1.26 }
+.plotThemeBox .hue[data-hue="cyan"]{ background:#00F0FF; color:#00F0FF }
+.plotThemeBox .hue[data-hue="magenta"]{ background:#FF2BD6; color:#FF2BD6 }
+.plotThemeBox .hue[data-hue="lime"]{ background:#B6FF3B; color:#B6FF3B }
+.plotThemeBox .hue[data-hue="orange"]{ background:#FF9F43; color:#FF9F43 }
+.plotThemeBox .hue[data-hue="violet"]{ background:#B08CFF; color:#B08CFF }
+</style>
+<script>
+/* 첫 그림이 그려지기 전에 얹는다 — 안 그러면 어두운 화면이 한 번 번쩍인다. */
+(function () {
+  try {
+    // SENE 는 밝은 종이 화면이 기본이다 — 고른 적이 없으면 light. '기기' 는 system 으로 적힌다.
+    var t = localStorage.getItem('sene.app.theme') || 'light';
+    var a = localStorage.getItem('sene.app.accent') || 'burgundy';
+    if (t === 'light' || t === 'dark' || t === 'system') document.documentElement.setAttribute('data-theme', t);
+    document.documentElement.setAttribute('data-accent', a);
+    var n = localStorage.getItem('sene.app.neon');
+    document.documentElement.setAttribute('data-neon', n || 'cyan');
+    var g = localStorage.getItem('sene.app.gap');
+    document.documentElement.setAttribute('data-gap', g || 'normal');
+    var f = localStorage.getItem('sene.app.fs');
+    document.documentElement.setAttribute('data-fs', f || 'm');
+  } catch (e) {}
+})();
+</script>
+
+<style id="plotGap">
+html:root[data-gap="tight"]{ --u:6px }
+html:root[data-gap="wide"]{ --u:10px }
+html:root[data-gap="tight"] body{ padding-left:12px; padding-right:12px }
+html:root[data-gap="normal"] body{ padding-left:22px; padding-right:22px }
+html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="masthead">
+    <div class="mark" id="mark"></div>
+    <div class="rule"></div>
+    <div class="kicker">제작 도구</div>
+    <div class="hbtns"></div>
+  </header>
+
+  <nav class="index">
+    <a class="row" href="carousel.html">
+      <div class="num">01<i></i><span class="lat">Carousel</span></div>
+      <h2>캐러셀 스튜디오</h2>
+      <p>제목·본문·사진을 넣으면 화면에서 바로 슬라이드가 됩니다.
+         봇과 같은 렌더 규칙.</p>
+      <div class="meta" id="cMeta"></div>
+    </a>
+    <a class="row" href="shorts.html">
+      <div class="num">02<i></i><span class="lat">Shorts</span></div>
+      <h2>숏폼 양식</h2>
+      <p>영상·구간·세 줄을 채우면 글자 배치가 바로 보입니다.
+         다 쓰면 제작 대기열로.</p>
+      <div class="meta" id="sMeta"></div>
+    </a>
+    <a class="row" href="sources.html">
+      <div class="num">03<i></i><span class="lat">Sources</span></div>
+      <h2>오늘의 소재</h2>
+      <p>패션·뷰티·공간·푸드·컬처에서 먼저 알릴 소식과 오늘의 초안.
+         고르면 제작으로 넘어갑니다.</p>
+      <div class="meta" id="mMeta"></div>
+    </a>
+    <a class="row" href="perf.html">
+      <div class="num">04<i></i><span class="lat">Performance</span></div>
+      <h2>SENE 성과</h2>
+      <p>주간 도달과 팔로워, 결별로 본 성과.
+         무엇을 더 만들지 정할 때 봅니다.</p>
+      <div class="meta" id="pMeta"></div>
+    </a>
+    <a class="row" href="photos.html">
+      <div class="num">05<i></i><span class="lat">Photos</span></div>
+      <h2>사진 DB</h2>
+      <p>브랜드·공간·사람별로 미리 모아 둔 공식 사진.
+         초안 표지가 여기서 나옵니다.</p>
+    </a>
+  </nav>
+
+  <div class="acts">
+    <button class="act" id="openWide" hidden></button>
+    <button class="act" id="install" hidden></button>
+  </div>
+
+  <div class="foot" id="foot"></div>
+</div>
+
+<script>
+const LOGO = "data:image/png;base64,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";
+
+if ('serviceWorker' in navigator) {
+  addEventListener('load', function () {
+    // updateViaCache:'none' — 워커 파일 자체가 HTTP 캐시에 걸리지 않게.
+    navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' })
+      .then(function (r) { r.update(); })
+      .catch(function () {});
+  });
+}
+
+(function () {
+  document.getElementById('mark').innerHTML = 'SENE<i>.</i>';
+
+  const TG = window.Telegram && window.Telegram.WebApp;
+  const inTG = !!(TG && TG.initData !== undefined && TG.platform && TG.platform !== 'unknown');
+
+  const cMeta = document.getElementById('cMeta');
+  const sMeta = document.getElementById('sMeta');
+  const wide  = document.getElementById('openWide');
+  const foot  = document.getElementById('foot');
+
+  if (inTG) {
+    TG.ready(); TG.expand();
+    try { TG.setHeaderColor('#0A0A0C'); TG.setBackgroundColor('#0A0A0C'); } catch (e) {}
+
+    cMeta.className = 'meta warn';
+    cMeta.textContent = '저장은 브라우저에서';
+    sMeta.textContent = '여기서 대기열까지';
+
+    wide.hidden = false;
+    wide.innerHTML = '브라우저에서 열기' +
+      '<small>텔레그램 창은 폰 크기로 고정됩니다. 컴퓨터에서는 이쪽이 넓어요.</small>';
+    wide.onclick = () => {
+      try { TG.openLink(location.href); } catch (e) { window.open(location.href, '_blank'); }
+    };
+
+    foot.innerHTML =
+      '진행 상황은 채팅에서 <code>/queue</code>. ' +
+      '완성본은 만들어지는 대로 <b>폰으로 · 레이어만 · 리프레임 수정</b> 버튼과 함께 도착합니다.';
+  } else {
+    cMeta.textContent = '브라우저에서 완결 · 오프라인';
+    sMeta.className = 'meta warn';
+    sMeta.textContent = '제작까지 가려면 텔레그램에서';
+
+    foot.innerHTML =
+      '숏폼 양식은 봇에 작업을 거는 것이 목적이라, 일반 브라우저에서는 ' +
+      '<b>양식 텍스트 복사</b>까지만 됩니다. 채팅 하단 키보드의 ' +
+      '<b>숏폼 양식</b> 버튼으로 열면 쓴 내용이 곧장 제작 대기열로 넘어갑니다.';
+    setupInstall();
+  }
+
+  /* 목차 줄에 지금 숫자를 한 줄씩 얹는다 — 들어가 보기 전에 뭐가 있는지 알게.
+     둘 다 곁다리라, 못 받아도 목차는 그대로 뜬다. */
+  fetch('./performance.json', { cache: 'no-cache' })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((d) => {
+      if (!d) return;
+      const ws = (d.weeks || []).filter((w) => (w.reach || 0) > 0);
+      const w = ws[ws.length - 1];
+      if (!w) return;
+      const dl = w.followers_delta;
+      document.getElementById('pMeta').textContent =
+        '팔로워 ' + (w.followers || 0).toLocaleString('ko-KR') +
+        (dl ? (dl > 0 ? ' (+' + dl + ')' : ' (' + dl + ')') : '') +
+        ' · 이번 주 도달 ' + (w.reach || 0).toLocaleString('ko-KR');
+    })
+    .catch(() => {});
+
+  fetch('./magazines.json', { cache: 'no-cache' })
+    .then((r) => (r.ok ? r.json() : null))
+    .then((d) => {
+      if (!d) return;
+      const n = (d.candidates || []).length;
+      if (n) document.getElementById('mMeta').textContent =
+        '오늘 후보 ' + n + '건' + (d.generated_at ? ' · ' + d.generated_at : '');
+    })
+    .catch(() => {});
+
+  function setupInstall() {
+    const btn = document.getElementById('install');
+    if (window.matchMedia('(display-mode: standalone)').matches ||
+        window.navigator.standalone === true) return;
+
+    let prompt = null;
+    window.addEventListener('beforeinstallprompt', (e) => {
+      e.preventDefault(); prompt = e;
+      btn.hidden = false;
+      btn.innerHTML = '앱으로 설치' +
+        '<small>독·홈 화면에 아이콘이 생기고 자체 창으로 열립니다.</small>';
+      btn.onclick = async () => {
+        btn.disabled = true;
+        try { await prompt.prompt(); } catch (_) {}
+        prompt = null; btn.hidden = true;
+      };
+    });
+
+    const ua = navigator.userAgent;
+    if (/iPad|iPhone|iPod/.test(ua) && !/CriOS|FxiOS|EdgiOS/.test(ua)) {
+      btn.hidden = false; btn.disabled = true;
+      btn.innerHTML = '앱으로 설치하려면' +
+        '<small>아래 공유 버튼 → <b>홈 화면에 추가</b></small>';
+    }
+  }
+})();
+</script>
+<div style="text-align:center;font:500 12.5px/1.6 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);padding:4px 0 18px">판 10.22 16:18</div>
+
+<script>
+(function () {
+  var TK = 'sene.app.theme', AK = 'sene.app.accent', NK = 'sene.app.neon',
+      GK = 'sene.app.gap', FK = 'sene.app.fs';
+  var GAPS = [['tight', '좁게'], ['normal', '보통'], ['wide', '넓게']];
+  var FSIZES = [['s', '작게'], ['m', '보통'], ['l', '크게'], ['xl', '더 크게']];
+  var HUES = ['cyan', 'magenta', 'lime', 'orange', 'violet'];
+  var MODES = [['system', '기기'], ['light', '밝게'], ['dark', '어둡게']];
+  var ACCENTS = [['burgundy', '#6E1E2C'], ['amber', '#E8B34A'], ['blue', '#5B8DEF'], ['green', '#4FB477'],
+                 ['violet', '#8B7CF0'], ['mono', '#ECECF1'], ['neon', '#00F0FF']];
+  var box = null;
+
+  function get(k, d) { try { return localStorage.getItem(k) || d; } catch (e) { return d; } }
+  function set(k, v) { try { v ? localStorage.setItem(k, v) : localStorage.removeItem(k); } catch (e) {} }
+  function mode() { var t = get(TK, 'light'); return (t === 'light' || t === 'dark' || t === 'system') ? t : 'light'; }
+  function accent() { return get(AK, 'burgundy'); }
+  function hue() { var h = get(NK, 'cyan'); return HUES.indexOf(h) < 0 ? 'cyan' : h; }
+  function gap() { var g = get(GK, 'normal'); return /^(tight|normal|wide)$/.test(g) ? g : 'normal'; }
+  function fsize() { var f = get(FK, 'm'); return /^(s|m|l|xl)$/.test(f) ? f : 'm'; }
+
+  function apply() {
+    var r = document.documentElement, m = mode();
+    r.setAttribute('data-theme', m);
+    r.setAttribute('data-accent', accent());
+    r.setAttribute('data-neon', hue());
+    r.setAttribute('data-gap', gap());
+    r.setAttribute('data-fs', fsize());
+    var meta = document.querySelector('meta[name=theme-color]');
+    if (meta) {
+      var dark = m === 'dark' ||
+        (m === 'system' && !matchMedia('(prefers-color-scheme: light)').matches);
+      meta.setAttribute('content', dark ? '#0A0A0C' : '#F5F2EC');
+    }
+    if (box) paint();
+  }
+
+  function paint() {
+    [].forEach.call(box.querySelectorAll('[data-mode]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-mode') === mode());
+    });
+    [].forEach.call(box.querySelectorAll('[data-accent]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-accent') === accent());
+    });
+    [].forEach.call(box.querySelectorAll('[data-hue]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-hue') === hue());
+    });
+    [].forEach.call(box.querySelectorAll('[data-gap]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-gap') === gap());
+    });
+    [].forEach.call(box.querySelectorAll('[data-fs]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-fs') === fsize());
+    });
+  }
+
+  function close() {
+    if (box) { box.remove(); box = null; document.removeEventListener('click', away); }
+  }
+  function away(e) {
+    if (box && !box.contains(e.target) && !e.target.closest('.plotThemeBtn')) close();
+  }
+
+  function open(btn) {
+    if (box) { close(); return; }
+    box = document.createElement('div');
+    box.className = 'plotThemeBox';
+    box.innerHTML = '<b>밝기</b><div class="row">' +
+      MODES.map(function (m) {
+        return '<button type="button" data-mode="' + m[0] + '">' + m[1] + '</button>';
+      }).join('') + '</div><b>강조색</b><div class="row">' +
+      ACCENTS.map(function (a) {
+        return '<button type="button" class="sw" data-accent="' + a[0] +
+               '" title="' + a[0] + '"></button>';
+      }).join('') + '</div>' +
+      // 네온을 골랐을 때만 열리는 줄 — 색이 하나면 사이버펑크가 안 산다
+      '<div class="row hues">' + HUES.map(function (h) {
+        return '<button type="button" class="hue" data-hue="' + h +
+               '" title="' + h + '"></button>';
+      }).join('') + '</div>' +
+      '<b>글자 크기</b><div class="row">' + FSIZES.map(function (f) {
+        return '<button type="button" data-fs="' + f[0] + '">' + f[1] + '</button>';
+      }).join('') + '</div>' +
+      '<b>여백</b><div class="row">' + GAPS.map(function (g) {
+        return '<button type="button" data-gap="' + g[0] + '">' + g[1] + '</button>';
+      }).join('') + '</div>';
+    document.body.appendChild(box);
+    // body 에 배율이 걸려 있으면 getBoundingClientRect 는 이미 곱해진 값을 준다.
+    // 상자는 그 배율 안에 놓이므로 되나눠야 제자리에 선다.
+    var z = parseFloat(getComputedStyle(document.body).zoom) || 1;
+    box.style.top = Math.round(btn.getBoundingClientRect().bottom / z + 8) + 'px';
+    box.onclick = function (e) {
+      var m = e.target.closest('[data-mode]'), a = e.target.closest('[data-accent]');
+      if (m) { set(TK, m.getAttribute('data-mode')); apply(); }
+      if (a) { set(AK, a.getAttribute('data-accent')); apply(); }
+      var h = e.target.closest('[data-hue]');
+      if (h) { set(NK, h.getAttribute('data-hue')); apply(); }
+      var g = e.target.closest('[data-gap]');
+      if (g) { set(GK, g.getAttribute('data-gap')); apply(); }
+      var f = e.target.closest('[data-fs]');
+      if (f) { set(FK, f.getAttribute('data-fs')); apply(); }
+    };
+    paint();
+    setTimeout(function () { document.addEventListener('click', away); }, 0);
+  }
+
+  function put() {
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'plotThemeBtn';
+    btn.textContent = '◐ 테마';
+    btn.title = '밝기와 강조색';
+    btn.onclick = function (e) { e.stopPropagation(); open(btn); };
+    var own = document.getElementById('theme');
+    var h = document.querySelector('header .hbtns') || document.querySelector('.addRow')
+            || (own && own.parentElement);
+    if (h) { h.appendChild(btn); return; }
+    btn.className += ' float';
+    document.body.appendChild(btn);
+  }
+
+  apply();
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', put);
+  else put();
+})();
+</script>
+
+<script>
+(function () {
+  var KEY = 'sene.app.installHint';
+  var ua = navigator.userAgent;
+  var iOS = /iPad|iPhone|iPod/.test(ua) ||
+            (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  if (!iOS) return;
+  if (window.navigator.standalone === true ||
+      matchMedia('(display-mode: standalone)').matches) return;   // 이미 앱으로 열었다
+  try { if (localStorage.getItem(KEY) === 'off') return; } catch (e) {}
+
+  var TG = window.Telegram && window.Telegram.WebApp;
+  var inTG = !!(TG && TG.initData !== undefined && TG.platform && TG.platform !== 'unknown');
+  var safari = /Safari/.test(ua) && !/CriOS|FxiOS|EdgiOS|OPiOS|Chrome/.test(ua);
+
+  function show() {
+    var box = document.createElement('div');
+    box.style.cssText =
+      'position:fixed; left:10px; right:10px; bottom:calc(10px + env(safe-area-inset-bottom));' +
+      'z-index:9997; background:var(--panel,#131318); color:var(--text,#ECECF1);' +
+      'border:1px solid var(--line,#2A2A34); border-radius:12px; padding:12px 13px;' +
+      'font:14px/1.55 -apple-system,BlinkMacSystemFont,sans-serif;' +
+      'box-shadow:0 14px 40px rgba(0,0,0,.45)';
+    var msg = inTG
+      ? '홈 화면에 추가하려면 <b>사파리에서 열어야</b> 합니다 — 텔레그램 안에는 그 메뉴가 없어요.'
+      : safari
+        ? '아래 <b>공유 버튼(↑)</b> → <b>홈 화면에 추가</b> 를 누르면 앱처럼 열립니다.'
+        : '홈 화면에 추가는 <b>사파리에서만</b> 됩니다 — 이 주소를 사파리로 열어 주세요.';
+    box.innerHTML = '<div style="margin-bottom:9px">' + msg + '</div>' +
+      '<div style="display:flex; gap:7px">' +
+      (inTG ? '<button id="plotOpenSafari" style="flex:1; border:0; border-radius:8px;' +
+              'padding:9px; font:inherit; font-weight:700; background:var(--text,#ECECF1);' +
+              'color:var(--bg,#0A0A0C)">브라우저에서 열기</button>' : '') +
+      '<button id="plotHintNo" style="flex:' + (inTG ? '0 0 92px' : '1') + ';' +
+      'border:1px solid var(--line,#2A2A34); border-radius:8px; padding:9px; font:inherit;' +
+      'background:none; color:var(--muted,#8A8A96)">다시 안 보기</button></div>';
+    document.body.appendChild(box);
+    var go = document.getElementById('plotOpenSafari');
+    if (go) go.onclick = function () {
+      try { TG.openLink(location.href); } catch (e) { window.open(location.href, '_blank'); }
+    };
+    document.getElementById('plotHintNo').onclick = function () {
+      try { localStorage.setItem(KEY, 'off'); } catch (e) {}
+      box.remove();
+    };
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', show);
+  else show();
+})();
+</script>
+</body>
+</html>

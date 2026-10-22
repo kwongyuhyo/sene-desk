@@ -1,0 +1,62 @@
+{
+ "schema": 1,
+ "generated_at": "2026-10-22T16:18+09:00",
+ "range": [
+  "2026-10-16",
+  "2026-10-22"
+ ],
+ "prev_range": [
+  "2026-10-09",
+  "2026-10-15"
+ ],
+ "cur": {
+  "drafts": 0,
+  "lanes": {},
+  "forms": {},
+  "evaluated": 0,
+  "eval_rate": null,
+  "go": {
+   "바로 올림": 0,
+   "손보면 올림": 0,
+   "안 올림": 0
+  },
+  "why_top": [],
+  "published": 0,
+  "publish_rate": null,
+  "reach_mult": [],
+  "verify_touched": 0,
+  "orders": {
+   "만듦": 0,
+   "못 만듦": 0
+  },
+  "runs": 1,
+  "run_fail": 0,
+  "avg_secs": 20,
+  "denied": 0
+ },
+ "prev": {
+  "drafts": 0,
+  "lanes": {},
+  "forms": {},
+  "evaluated": 0,
+  "eval_rate": null,
+  "go": {
+   "바로 올림": 0,
+   "손보면 올림": 0,
+   "안 올림": 0
+  },
+  "why_top": [],
+  "published": 0,
+  "publish_rate": null,
+  "reach_mult": [],
+  "verify_touched": 0,
+  "orders": {
+   "만듦": 0,
+   "못 만듦": 0
+  },
+  "runs": 0,
+  "run_fail": 0,
+  "avg_secs": null,
+  "denied": 0
+ }
+}

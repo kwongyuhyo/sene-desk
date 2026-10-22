@@ -1,0 +1,926 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>SENE 성과 — SENE</title>
+<meta name="description" content="주간 도달·팔로워·결별 성과">
+<meta name="robots" content="noindex, nofollow">
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.css" rel="stylesheet">
+<style>
+:root{
+  --bg:#0A0A0C; --panel:#131318; --raise:#1B1B22;
+  --line:#20202A; --hair:#17171E;
+  --text:#ECECF1; --muted:#8A8A96; --dim:#565663;
+  --amber:#E8B34A; --pick:#6FBF8B; --skip:#4A4A57; --bad:#E0786A;
+  --u:8px;
+  --mono:ui-monospace,SFMono-Regular,"SF Mono",Menlo,monospace;
+  color-scheme:dark;
+}
+:root[data-theme="light"]{
+  --bg:#FBFAF7; --panel:#F2F0EA; --raise:#E9E6DE;
+  --line:#DCD8CE; --hair:#E6E3DA;
+  --text:#1A1A1F; --muted:#5E5E6B; --dim:#746E7C;
+  --amber:#7A6B10; --pick:#2E7D51; --skip:#8C8C99; --bad:#A63A2B;
+  color-scheme:light;
+}
+@media (prefers-color-scheme: light){
+  :root:not([data-theme="dark"]){
+    --bg:#FBFAF7; --panel:#F2F0EA; --raise:#E9E6DE;
+    --line:#DCD8CE; --hair:#E6E3DA;
+    --text:#1A1A1F; --muted:#5E5E6B; --dim:#746E7C;
+    --amber:#7A6B10; --pick:#2E7D51; --skip:#8C8C99; --bad:#A63A2B;
+    color-scheme:light;
+  }
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:var(--bg); color:var(--text); min-height:100dvh;
+  font-family:Pretendard,-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  font-size:15px; line-height:1.6;
+  -webkit-text-size-adjust:100%; -webkit-font-smoothing:antialiased;
+  padding:calc(var(--u)*4 + env(safe-area-inset-top)) 22px
+          calc(var(--u)*10 + env(safe-area-inset-bottom));
+}
+[hidden]{display:none!important}
+.wrap{max-width:620px; margin:0 auto}
+.lat{font-family:var(--mono); letter-spacing:.14em; text-transform:uppercase}
+
+header{display:flex; align-items:center; gap:14px; padding-bottom:calc(var(--u)*2)}
+header .rule{flex:1; height:1px; background:var(--line)}
+header .kicker{flex:none; font-size:12px; font-weight:700; color:var(--dim)}
+.hbtns{display:flex; gap:8px; align-items:center; flex:none}
+
+h1{font-size:29px; line-height:1.15; letter-spacing:-.03em; margin:0 0 6px}
+.stamp{font-family:var(--mono); font-size:12px; color:var(--dim);
+  letter-spacing:.02em; margin-bottom:calc(var(--u)*3)}
+
+h2{font-size:14px; font-weight:700; color:var(--muted); margin:0 0 10px;
+  letter-spacing:-.01em}
+section{border-top:1px solid var(--line); padding:calc(var(--u)*3) 0}
+
+/* ── 요약 세 칸 ── */
+.sum{display:grid; grid-template-columns:repeat(3,1fr); gap:9px; margin-bottom:calc(var(--u)*2)}
+.sum .box{background:var(--panel); border:1px solid var(--line); border-radius:12px;
+  padding:13px 12px}
+.sum .lab{font-size:12px; color:var(--dim); font-weight:600; margin-bottom:5px}
+.sum .big{font-size:23px; font-weight:800; letter-spacing:-.03em; line-height:1.1}
+.sum .delta{font-size:13px; font-weight:700; margin-top:3px}
+.sum .up{color:var(--pick)} .sum .down{color:var(--bad)} .sum .flat{color:var(--dim)}
+/* 요약 바로 밑 — '이번 주' 가 정확히 며칠인지. 줄임말만 있으면 아무도 모른다. */
+.wkline{font-size:13px; color:var(--dim); margin:-4px 0 calc(var(--u)*1)}
+.stale{font-size:13px; line-height:1.6; color:var(--bad); border:1px solid var(--bad);
+  border-radius:9px; padding:9px 11px; margin:8px 0 calc(var(--u)*1)}
+
+/* ── 주간 막대 ── */
+.wk{display:flex; align-items:flex-end; gap:9px; height:152px; margin-bottom:10px}
+.wk .col{flex:1; display:flex; flex-direction:column; justify-content:flex-end;
+  align-items:center; gap:5px; min-width:0}
+.wk .bar{width:100%; background:var(--amber); border-radius:4px 4px 0 0; min-height:3px;
+  opacity:.9}
+.wk .col.last .bar{opacity:1; box-shadow:0 0 0 1px var(--amber)}
+.wk .tag{font-size:12px; font-weight:700; color:var(--muted); white-space:nowrap}
+.wk .tag2{font-family:var(--mono); font-size:11px; color:var(--dim); white-space:nowrap;
+  margin-top:-3px}
+.wk .col.last .tag{color:var(--text)}
+.wk .val{font-size:12px; font-weight:700; color:var(--muted); white-space:nowrap}
+
+/* ── 줄 목록 ── */
+.rows{display:flex; flex-direction:column; gap:1px}
+.ln{display:flex; align-items:center; gap:10px; padding:10px 0;
+  border-bottom:1px solid var(--hair)}
+.ln:last-child{border-bottom:0}
+.ln .nm{flex:1; min-width:0; font-size:14px; overflow:hidden; text-overflow:ellipsis;
+  white-space:nowrap}
+.ln .nm a{color:inherit; text-decoration:none}
+.ln .nm a:hover{color:var(--amber)}
+.ln b{flex:none; font-size:14px; font-weight:800; letter-spacing:-.02em}
+.ln .sub{flex:none; font-size:12px; color:var(--dim); font-family:var(--mono)}
+
+/* 배수 막대 (결별 성과) */
+.mb{flex:none; width:92px; height:7px; background:var(--raise); border-radius:4px;
+  position:relative; overflow:hidden}
+.mb i{position:absolute; left:0; top:0; bottom:0; background:var(--amber); border-radius:4px}
+
+/* 두 줄 비교 막대 (발행 대비 도달) */
+.cmp .ln{flex-wrap:wrap}
+.cmp .two{flex:1 0 100%; display:flex; flex-direction:column; gap:4px; margin-top:6px}
+.cmp .t{display:flex; align-items:center; gap:8px}
+.cmp .t span{flex:none; width:44px; font-size:11.5px; color:var(--dim)}
+.cmp .t i{height:8px; border-radius:4px; display:block; min-width:2px}
+.cmp .t .pub{background:var(--skip)}
+.cmp .t .rch{background:var(--amber)}
+.cmp .t em{font-style:normal; font-size:12px; color:var(--muted); font-weight:700}
+.gapUp{color:var(--pick); font-weight:800}
+.gapDn{color:var(--bad); font-weight:800}
+
+.note{font-size:13px; color:var(--dim); line-height:1.7; margin:10px 0 0}
+.empty{background:var(--panel); border:1px solid var(--line); border-radius:12px;
+  padding:22px 18px; color:var(--muted); font-size:14px; line-height:1.7}
+.err{background:var(--panel); border:1px solid var(--bad); border-radius:10px;
+  padding:12px 14px; color:var(--bad); font-size:13px; margin-bottom:14px}
+</style>
+
+<link rel="manifest" href="manifest.webmanifest?v=37">
+<meta name="theme-color" content="#F5F2EC">
+<link rel="icon" href="icon-192.png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="SENE">
+<meta name="mobile-web-app-capable" content="yes">
+
+<style id="plotTheme">
+:root{ --accent:#E8CDD2; --glass:rgba(18,19,26,.93); }
+/* 흐린 보조 글씨가 어두운 바탕에서 2.3~2.9:1 이었다 — 해 아래 폰에서 안 읽힌다.
+   세 화면이 이름만 다를 뿐 같은 자리라 한 군데서 올린다. */
+html:root[data-theme="dark"]{ --dim:#82828F; --faint:#82828F; --skip:#82828F;
+  --bad:#E0786A }
+@media (prefers-color-scheme: dark){
+  html:root[data-theme="system"]{ --dim:#82828F; --faint:#82828F;
+    --skip:#82828F; --bad:#E0786A }
+}
+html:root[data-accent="burgundy"]{ --accent:#E8CDD2; --amber:#E8CDD2 }
+html:root[data-accent="amber"]{ --accent:#E8B34A; --amber:#E8B34A }
+html:root[data-accent="blue"]{ --accent:#5B8DEF; --amber:#5B8DEF }
+html:root[data-accent="green"]{ --accent:#4FB477; --amber:#4FB477 }
+html:root[data-accent="violet"]{ --accent:#8B7CF0; --amber:#8B7CF0 }
+html:root[data-accent="mono"]{ --accent:#ECECF1; --amber:#ECECF1 }
+html:root[data-accent="neon"]{ --accent:#00F0FF; --amber:#00F0FF }
+html:root .plotThemeBox .sw[data-accent="burgundy"]{ background:#E8CDD2; color:#E8CDD2 }
+html:root .plotThemeBox .sw[data-accent="amber"]{ background:#E8B34A; color:#E8B34A }
+html:root .plotThemeBox .sw[data-accent="blue"]{ background:#5B8DEF; color:#5B8DEF }
+html:root .plotThemeBox .sw[data-accent="green"]{ background:#4FB477; color:#4FB477 }
+html:root .plotThemeBox .sw[data-accent="violet"]{ background:#8B7CF0; color:#8B7CF0 }
+html:root .plotThemeBox .sw[data-accent="mono"]{ background:#ECECF1; color:#ECECF1 }
+html:root .plotThemeBox .sw[data-accent="neon"]{ background:linear-gradient(135deg,#00F0FF 0%,#FF2BD6 45%,#B6FF3B 100%); color:#00F0FF }
+html:root[data-theme="light"]{
+  --bg:#F5F2EC; --panel:#FBF9F5; --raise:#EFEAE1; --panel-2:#EFEAE1;
+  --line:#DDD6CB; --text:#242220; --ink:#242220;
+  --muted:#5E5750; --dim:#6F6860; --faint:#6F6860; --skip:#6F6878;
+  --glass:rgba(245,242,236,.94); --bad:#A63A2B; --warn:#8A6B12; --danger:#A63A2B;
+  color-scheme:light;
+}
+html:root[data-theme="light"][data-accent="burgundy"]{ --accent:#6E1E2C; --amber:#6E1E2C }
+html:root[data-theme="light"][data-accent="amber"]{ --accent:#7A6B10; --amber:#7A6B10 }
+html:root[data-theme="light"][data-accent="blue"]{ --accent:#2B5BC4; --amber:#2B5BC4 }
+html:root[data-theme="light"][data-accent="green"]{ --accent:#216E45; --amber:#216E45 }
+html:root[data-theme="light"][data-accent="violet"]{ --accent:#5240B8; --amber:#5240B8 }
+html:root[data-theme="light"][data-accent="mono"]{ --accent:#1A1A1E; --amber:#1A1A1E }
+html:root[data-theme="light"][data-accent="neon"]{ --accent:#B5008C; --amber:#B5008C }
+html:root[data-theme="light"] input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=color]),
+html:root[data-theme="light"] textarea,
+html:root[data-theme="light"] select{
+  background:var(--panel)!important; color:var(--text)!important;
+  -webkit-text-fill-color:var(--text)!important;
+}
+html:root[data-theme="light"] input:focus, html:root[data-theme="light"] textarea:focus{ background:var(--bg)!important }
+html:root[data-theme="light"] ::placeholder{ color:var(--dim)!important; opacity:1 }
+html:root[data-theme="light"] .err{ background:#FBEFEF!important; border-color:#E2BDBD!important;
+  color:#8A2F2F!important }
+html:root[data-theme="light"] .send{ color:var(--bg)!important }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="burgundy"]{ background:#6E1E2C; color:#6E1E2C }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="amber"]{ background:#7A6B10; color:#7A6B10 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="blue"]{ background:#2B5BC4; color:#2B5BC4 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="green"]{ background:#216E45; color:#216E45 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="violet"]{ background:#5240B8; color:#5240B8 }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="mono"]{ background:#1A1A1E; color:#1A1A1E }
+html:root[data-theme="light"] .plotThemeBox .sw[data-accent="neon"]{ background:linear-gradient(135deg,#00F0FF 0%,#FF2BD6 45%,#B6FF3B 100%); color:#B5008C }
+@media (prefers-color-scheme: light){
+html:root[data-theme="system"]{
+  --bg:#F5F2EC; --panel:#FBF9F5; --raise:#EFEAE1; --panel-2:#EFEAE1;
+  --line:#DDD6CB; --text:#242220; --ink:#242220;
+  --muted:#5E5750; --dim:#6F6860; --faint:#6F6860; --skip:#6F6878;
+  --glass:rgba(245,242,236,.94); --bad:#A63A2B; --warn:#8A6B12; --danger:#A63A2B;
+  color-scheme:light;
+}
+html:root[data-theme="system"][data-accent="burgundy"]{ --accent:#6E1E2C; --amber:#6E1E2C }
+html:root[data-theme="system"][data-accent="amber"]{ --accent:#7A6B10; --amber:#7A6B10 }
+html:root[data-theme="system"][data-accent="blue"]{ --accent:#2B5BC4; --amber:#2B5BC4 }
+html:root[data-theme="system"][data-accent="green"]{ --accent:#216E45; --amber:#216E45 }
+html:root[data-theme="system"][data-accent="violet"]{ --accent:#5240B8; --amber:#5240B8 }
+html:root[data-theme="system"][data-accent="mono"]{ --accent:#1A1A1E; --amber:#1A1A1E }
+html:root[data-theme="system"][data-accent="neon"]{ --accent:#B5008C; --amber:#B5008C }
+html:root[data-theme="system"] input:not([type=checkbox]):not([type=radio]):not([type=range]):not([type=color]),
+html:root[data-theme="system"] textarea,
+html:root[data-theme="system"] select{
+  background:var(--panel)!important; color:var(--text)!important;
+  -webkit-text-fill-color:var(--text)!important;
+}
+html:root[data-theme="system"] input:focus, html:root[data-theme="system"] textarea:focus{ background:var(--bg)!important }
+html:root[data-theme="system"] ::placeholder{ color:var(--dim)!important; opacity:1 }
+html:root[data-theme="system"] .err{ background:#FBEFEF!important; border-color:#E2BDBD!important;
+  color:#8A2F2F!important }
+html:root[data-theme="system"] .send{ color:var(--bg)!important }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="burgundy"]{ background:#6E1E2C; color:#6E1E2C }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="amber"]{ background:#7A6B10; color:#7A6B10 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="blue"]{ background:#2B5BC4; color:#2B5BC4 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="green"]{ background:#216E45; color:#216E45 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="violet"]{ background:#5240B8; color:#5240B8 }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="mono"]{ background:#1A1A1E; color:#1A1A1E }
+html:root[data-theme="system"] .plotThemeBox .sw[data-accent="neon"]{ background:linear-gradient(135deg,#00F0FF 0%,#FF2BD6 45%,#B6FF3B 100%); color:#B5008C }
+}
+/* 네온 — 바탕째 갈아 끼우므로 밝은 한 벌보다 뒤에 온다 */
+html:root[data-theme="dark"][data-accent="neon"]{
+  --bg:#06040F; --panel:#0E0A1C; --raise:#161029; --panel-2:#161029;
+  --line:#2B1D52; --hair:#14102A; --text:#EAE6FF; --ink:#EAE6FF;
+  --muted:#B9AEE8; --dim:#8E85C9; --faint:#8E85C9; --skip:#8E85C9;
+  --bad:#FF5C8A; --warn:#FFD166; --danger:#FF5C8A;
+  --glass:rgba(10,7,22,.93); --pick:#3DFFA8;
+  color-scheme:dark;
+}
+html:root[data-theme="dark"][data-accent="neon"] .chip.on, html:root[data-theme="dark"][data-accent="neon"] .btn.primary, html:root[data-theme="dark"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="dark"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="dark"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="dark"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(0,240,255,.35) }
+html:root[data-theme="dark"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(0,240,255,.5) }
+html:root[data-theme="dark"][data-accent="neon"] header, html:root[data-theme="dark"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="cyan"]{ --accent:#00F0FF; --amber:#00F0FF; --neonrgb:0,240,255 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="magenta"]{ --accent:#FF2BD6; --amber:#FF2BD6; --neonrgb:255,43,214 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="lime"]{ --accent:#B6FF3B; --amber:#B6FF3B; --neonrgb:182,255,59 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="orange"]{ --accent:#FF9F43; --amber:#FF9F43; --neonrgb:255,159,67 }
+html:root[data-theme="dark"][data-accent="neon"][data-neon="violet"]{ --accent:#B08CFF; --amber:#B08CFF; --neonrgb:176,140,255 }
+html:root[data-theme="dark"][data-accent="neon"] body{
+  background-image:
+    radial-gradient(120% 60% at 50% -10%, rgba(var(--neonrgb,0,240,255),.16), transparent 60%),
+    linear-gradient(rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px);
+  background-size:100% 420px, 36px 36px, 36px 36px;
+  background-attachment:fixed;
+}
+html:root[data-theme="dark"][data-accent="neon"] .pwhy, html:root[data-theme="dark"][data-accent="neon"] .fwNew, html:root[data-theme="dark"][data-accent="neon"] .lat, html:root[data-theme="dark"][data-accent="neon"] .stamp,
+html:root[data-theme="dark"][data-accent="neon"] .badge, html:root[data-theme="dark"][data-accent="neon"] .pkLbl{ text-shadow:0 0 8px rgba(var(--neonrgb,0,240,255),.45) }
+html:root[data-theme="dark"][data-accent="neon"] .pcard, html:root[data-theme="dark"][data-accent="neon"] .card, html:root[data-theme="dark"][data-accent="neon"] .fw, html:root[data-theme="dark"][data-accent="neon"] .block{
+  border-color:rgba(var(--neonrgb,0,240,255),.22) }
+html:root[data-theme="dark"][data-accent="neon"] header{ border-bottom-color:rgba(var(--neonrgb,0,240,255),.35) }
+html:root[data-theme="light"][data-accent="neon"]{
+  --bg:#FBF6FF; --panel:#F2E9FF; --raise:#E9DCFF; --panel-2:#E9DCFF;
+  --line:#DCC9F5; --hair:#EDE3FB; --text:#14082A; --ink:#14082A;
+  --muted:#4A2E70; --dim:#5F4490; --faint:#5F4490; --skip:#5F4490;
+  --bad:#A6112E; --warn:#7A4E00; --danger:#A6112E;
+  --glass:rgba(248,242,255,.93); --pick:#136B45;
+  color-scheme:light;
+}
+html:root[data-theme="light"][data-accent="neon"] .chip.on, html:root[data-theme="light"][data-accent="neon"] .btn.primary, html:root[data-theme="light"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="light"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="light"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="light"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(181,0,140,.22) }
+html:root[data-theme="light"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(181,0,140,.35) }
+html:root[data-theme="light"][data-accent="neon"] header, html:root[data-theme="light"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="light"][data-accent="neon"][data-neon="cyan"]{ --accent:#0A6C78; --amber:#0A6C78; --neonrgb:0,240,255 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="magenta"]{ --accent:#A3007E; --amber:#A3007E; --neonrgb:255,43,214 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="lime"]{ --accent:#4C6B00; --amber:#4C6B00; --neonrgb:182,255,59 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="orange"]{ --accent:#8A4B00; --amber:#8A4B00; --neonrgb:255,159,67 }
+html:root[data-theme="light"][data-accent="neon"][data-neon="violet"]{ --accent:#5A3BC4; --amber:#5A3BC4; --neonrgb:176,140,255 }
+html:root[data-theme="light"][data-accent="neon"] body{ background-image:linear-gradient(rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px),linear-gradient(90deg, rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px); background-size:36px 36px; background-attachment:fixed }
+@media (prefers-color-scheme: dark){
+html:root[data-theme="system"][data-accent="neon"]{
+  --bg:#06040F; --panel:#0E0A1C; --raise:#161029; --panel-2:#161029;
+  --line:#2B1D52; --hair:#14102A; --text:#EAE6FF; --ink:#EAE6FF;
+  --muted:#B9AEE8; --dim:#8E85C9; --faint:#8E85C9; --skip:#8E85C9;
+  --bad:#FF5C8A; --warn:#FFD166; --danger:#FF5C8A;
+  --glass:rgba(10,7,22,.93); --pick:#3DFFA8;
+  color-scheme:dark;
+}
+html:root[data-theme="system"][data-accent="neon"] .chip.on, html:root[data-theme="system"][data-accent="neon"] .btn.primary, html:root[data-theme="system"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="system"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="system"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(0,240,255,.35) }
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(0,240,255,.5) }
+html:root[data-theme="system"][data-accent="neon"] header, html:root[data-theme="system"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="system"][data-accent="neon"][data-neon="cyan"]{ --accent:#00F0FF; --amber:#00F0FF; --neonrgb:0,240,255 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="magenta"]{ --accent:#FF2BD6; --amber:#FF2BD6; --neonrgb:255,43,214 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="lime"]{ --accent:#B6FF3B; --amber:#B6FF3B; --neonrgb:182,255,59 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="orange"]{ --accent:#FF9F43; --amber:#FF9F43; --neonrgb:255,159,67 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="violet"]{ --accent:#B08CFF; --amber:#B08CFF; --neonrgb:176,140,255 }
+html:root[data-theme="system"][data-accent="neon"] body{
+  background-image:
+    radial-gradient(120% 60% at 50% -10%, rgba(var(--neonrgb,0,240,255),.16), transparent 60%),
+    linear-gradient(rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(var(--neonrgb,0,240,255),.055) 1px, transparent 1px);
+  background-size:100% 420px, 36px 36px, 36px 36px;
+  background-attachment:fixed;
+}
+html:root[data-theme="system"][data-accent="neon"] .pwhy, html:root[data-theme="system"][data-accent="neon"] .fwNew, html:root[data-theme="system"][data-accent="neon"] .lat, html:root[data-theme="system"][data-accent="neon"] .stamp,
+html:root[data-theme="system"][data-accent="neon"] .badge, html:root[data-theme="system"][data-accent="neon"] .pkLbl{ text-shadow:0 0 8px rgba(var(--neonrgb,0,240,255),.45) }
+html:root[data-theme="system"][data-accent="neon"] .pcard, html:root[data-theme="system"][data-accent="neon"] .card, html:root[data-theme="system"][data-accent="neon"] .fw, html:root[data-theme="system"][data-accent="neon"] .block{
+  border-color:rgba(var(--neonrgb,0,240,255),.22) }
+html:root[data-theme="system"][data-accent="neon"] header{ border-bottom-color:rgba(var(--neonrgb,0,240,255),.35) }
+}
+@media (prefers-color-scheme: light){
+html:root[data-theme="system"][data-accent="neon"]{
+  --bg:#FBF6FF; --panel:#F2E9FF; --raise:#E9DCFF; --panel-2:#E9DCFF;
+  --line:#DCC9F5; --hair:#EDE3FB; --text:#14082A; --ink:#14082A;
+  --muted:#4A2E70; --dim:#5F4490; --faint:#5F4490; --skip:#5F4490;
+  --bad:#A6112E; --warn:#7A4E00; --danger:#A6112E;
+  --glass:rgba(248,242,255,.93); --pick:#136B45;
+  color-scheme:light;
+}
+html:root[data-theme="system"][data-accent="neon"] .chip.on, html:root[data-theme="system"][data-accent="neon"] .btn.primary, html:root[data-theme="system"][data-accent="neon"] .grp button[aria-selected="true"],
+html:root[data-theme="system"][data-accent="neon"] .tab[aria-selected="true"], html:root[data-theme="system"][data-accent="neon"] .pcard .pbtn:hover,
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox button.on{ box-shadow:0 0 10px rgba(181,0,140,.22) }
+html:root[data-theme="system"][data-accent="neon"] .plotThemeBox .sw.on{ box-shadow:0 0 0 2px var(--bg), 0 0 0 4px currentColor,
+  0 0 12px rgba(181,0,140,.35) }
+html:root[data-theme="system"][data-accent="neon"] header, html:root[data-theme="system"][data-accent="neon"] .bar{ border-color:var(--line) }
+html:root[data-theme="system"][data-accent="neon"][data-neon="cyan"]{ --accent:#0A6C78; --amber:#0A6C78; --neonrgb:0,240,255 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="magenta"]{ --accent:#A3007E; --amber:#A3007E; --neonrgb:255,43,214 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="lime"]{ --accent:#4C6B00; --amber:#4C6B00; --neonrgb:182,255,59 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="orange"]{ --accent:#8A4B00; --amber:#8A4B00; --neonrgb:255,159,67 }
+html:root[data-theme="system"][data-accent="neon"][data-neon="violet"]{ --accent:#5A3BC4; --amber:#5A3BC4; --neonrgb:176,140,255 }
+html:root[data-theme="system"][data-accent="neon"] body{ background-image:linear-gradient(rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px),linear-gradient(90deg, rgba(var(--neonrgb,181,0,140),.05) 1px, transparent 1px); background-size:36px 36px; background-attachment:fixed }
+}
+/* 강조색이 여섯이 되면서 한 줄에 안 들어간다 */
+.plotThemeBox .row{flex-wrap:wrap}
+.plotThemeBtn{border:1px solid var(--line); border-radius:6px; background:none;
+  color:var(--muted,#8A8A96); font:inherit; font-size:13px; padding:5px 9px; cursor:pointer}
+/* 머리줄에 붙을 자리가 없으면 화면 오른쪽 위에 떠 있는다. 이 배경을 인라인으로
+   까맣게 박아 두면 밝은 테마에서 글자가 묻는다 — 변수로 둔다. */
+.plotThemeBtn.float{position:fixed; right:12px; top:calc(12px + env(safe-area-inset-top)); z-index:9998;
+  background:var(--panel); color:var(--text); backdrop-filter:blur(8px)}
+/* 숏폼은 버튼 줄에 붙는다. 그 줄은 한 줄로 고정돼 있어서 하나 더 얹으면 390px 에서
+   18px 밀려났다 — 넘치면 접히게 한다. */
+.addRow{flex-wrap:wrap}
+.addRow .plotThemeBtn{flex:0 0 auto}
+.plotThemeBox{position:fixed; right:12px; z-index:9999; background:var(--panel,#131318);
+  border:1px solid var(--line); border-radius:10px; padding:11px 12px; min-width:186px;
+  box-shadow:0 12px 34px rgba(0,0,0,.4); font-size:13px; color:var(--text,#ECECF1)}
+.plotThemeBox b{display:block; font-size:12.5px; color:var(--muted,#8A8A96);
+  font-weight:600; margin:0 0 6px}
+.plotThemeBox .row{display:flex; gap:6px; margin-bottom:10px; align-items:center}
+.plotThemeBox .row:last-child{margin-bottom:0}
+.plotThemeBox button{flex:1; border:1px solid var(--line); border-radius:7px; background:none;
+  color:inherit; font:inherit; font-size:13px; padding:7px 4px; cursor:pointer}
+.plotThemeBox button.on{border-color:var(--accent); color:var(--accent)}
+.plotThemeBox .sw{width:26px; height:26px; flex:none; border-radius:50%; padding:0; border:0}
+.plotThemeBox .sw.on{box-shadow:0 0 0 2px var(--bg,#0A0A0C), 0 0 0 4px currentColor}
+.plotThemeBox .hues{display:none}
+html:root[data-accent="neon"] .plotThemeBox .hues{display:flex}
+.plotThemeBox .hue{width:22px; height:22px; flex:none; border-radius:50%; padding:0; border:0}
+.plotThemeBox .hue.on{box-shadow:0 0 0 2px var(--bg,#0A0A0C), 0 0 0 4px currentColor,
+  0 0 12px currentColor}
+/* 글자 크기 — 브라우저 확대와 같은 방식(칸도 같이 큰다). 기기마다 따로 기억한다. */
+html:root[data-fs="s"] body{ zoom:.92 }
+html:root[data-fs="l"] body{ zoom:1.12 }
+html:root[data-fs="xl"] body{ zoom:1.26 }
+.plotThemeBox .hue[data-hue="cyan"]{ background:#00F0FF; color:#00F0FF }
+.plotThemeBox .hue[data-hue="magenta"]{ background:#FF2BD6; color:#FF2BD6 }
+.plotThemeBox .hue[data-hue="lime"]{ background:#B6FF3B; color:#B6FF3B }
+.plotThemeBox .hue[data-hue="orange"]{ background:#FF9F43; color:#FF9F43 }
+.plotThemeBox .hue[data-hue="violet"]{ background:#B08CFF; color:#B08CFF }
+</style>
+<script>
+/* 첫 그림이 그려지기 전에 얹는다 — 안 그러면 어두운 화면이 한 번 번쩍인다. */
+(function () {
+  try {
+    // SENE 는 밝은 종이 화면이 기본이다 — 고른 적이 없으면 light. '기기' 는 system 으로 적힌다.
+    var t = localStorage.getItem('sene.app.theme') || 'light';
+    var a = localStorage.getItem('sene.app.accent') || 'burgundy';
+    if (t === 'light' || t === 'dark' || t === 'system') document.documentElement.setAttribute('data-theme', t);
+    document.documentElement.setAttribute('data-accent', a);
+    var n = localStorage.getItem('sene.app.neon');
+    document.documentElement.setAttribute('data-neon', n || 'cyan');
+    var g = localStorage.getItem('sene.app.gap');
+    document.documentElement.setAttribute('data-gap', g || 'normal');
+    var f = localStorage.getItem('sene.app.fs');
+    document.documentElement.setAttribute('data-fs', f || 'm');
+  } catch (e) {}
+})();
+</script>
+
+<style id="plotGap">
+html:root[data-gap="tight"]{ --u:6px }
+html:root[data-gap="wide"]{ --u:10px }
+html:root[data-gap="tight"] body{ padding-left:12px; padding-right:12px }
+html:root[data-gap="normal"] body{ padding-left:22px; padding-right:22px }
+html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="hbtns" id="hbtns"></div>
+    <div class="rule"></div>
+    <div class="kicker lat">Performance</div>
+  </header>
+
+  <h1>SENE 성과</h1>
+  <div class="stamp" id="stamp">불러오는 중…</div>
+
+  <div id="err" class="err" hidden></div>
+  <div id="body"></div>
+
+</div>
+
+<script>
+(function () {
+  'use strict';
+  var P = null;
+
+  function esc(s) {
+    return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
+    });
+  }
+  function num(n) {
+    n = Number(n) || 0;
+    if (n >= 10000) return (n / 10000).toFixed(n >= 100000 ? 0 : 1).replace(/\.0$/, '') + '만';
+    return n.toLocaleString('ko-KR');
+  }
+  function pct(x) { return (Math.round(x * 1000) / 10) + '%'; }
+
+  /* ── 주 이름 ──────────────────────────────────────────────────────────
+     성과 데이터는 ISO 주(2026-W38)로 쌓인다. 기계끼리는 그게 제일 안 헷갈리지만
+     사람은 그게 며칠인지 모른다. 화면에서만 사람 말로 바꾼다 — 데이터는 그대로 둔다.
+
+     '몇 주차' 는 그 주의 목요일이 드는 달을 기준으로 센다(ISO 와 같은 규칙).
+     목요일끼리는 정확히 7일 간격이라, 그 날짜를 7로 나눠 올리면 곧 몇째 주다.
+     한 주가 달을 걸치면(8월 31일~9월 6일) 목요일이 있는 달로 간다 — 그래야
+     '9월 1주' 가 9월에 한 번만 나온다. */
+  function weekMon(tag) {
+    var m = /^(\d{4})-W(\d{1,2})$/.exec(String(tag || ''));
+    if (!m) return null;
+    var y = +m[1], w = +m[2];
+    var jan4 = new Date(Date.UTC(y, 0, 4));          // 1월 4일은 언제나 1주차다
+    var dow = (jan4.getUTCDay() + 6) % 7;            // 월=0
+    return new Date(jan4.getTime() - dow * 864e5 + (w - 1) * 7 * 864e5);
+  }
+  function nowWeekTag(d) {
+    d = d || new Date();
+    var u = new Date(Date.UTC(d.getFullYear(), d.getMonth(), d.getDate()));
+    var dow = (u.getUTCDay() + 6) % 7;                 // 월=0
+    var thu = new Date(u.getTime() + (3 - dow) * 864e5);   // 그 주의 목요일
+    var y = thu.getUTCFullYear();
+    var jan4 = new Date(Date.UTC(y, 0, 4));
+    var j = (jan4.getUTCDay() + 6) % 7;
+    var wk1 = new Date(jan4.getTime() - j * 864e5);
+    var n = Math.round((thu - wk1) / (7 * 864e5)) + 1;
+    return y + '-W' + (n < 10 ? '0' + n : String(n));
+  }
+  function weekGap(a, b) {
+    var x = weekMon(a), y = weekMon(b);
+    return (x && y) ? Math.round((y - x) / (7 * 864e5)) : 0;
+  }
+
+  function weekName(tag) {
+    var mon = weekMon(tag);
+    if (!mon) return { short: String(tag || ''), days: '', full: String(tag || '') };
+    var sun = new Date(mon.getTime() + 6 * 864e5);
+    var thu = new Date(mon.getTime() + 3 * 864e5);
+    var Y = thu.getUTCFullYear(), M = thu.getUTCMonth() + 1;
+    var nth = Math.ceil(thu.getUTCDate() / 7);
+    var m1 = mon.getUTCMonth() + 1, d1 = mon.getUTCDate();
+    var m2 = sun.getUTCMonth() + 1, d2 = sun.getUTCDate();
+    return {
+      short: M + '월 ' + nth + '주',
+      days: m1 === m2 ? (m1 + '.' + d1 + '~' + d2) : (m1 + '.' + d1 + '~' + m2 + '.' + d2),
+      full: Y + '년 ' + M + '월 ' + nth + '주차 (' + m1 + '월 ' + d1 + '일~' +
+            m2 + '월 ' + d2 + '일)',
+    };
+  }
+
+  /* 주간 — 값이 0 인 주가 섞여 있다(수집 전). 그건 막대에서 뺀다. */
+  function weeks() {
+    return (P.weeks || []).filter(function (w) { return (w.reach || 0) > 0 || (w.posts || 0) > 0; });
+  }
+
+  function sumBox() {
+    var ws = weeks();
+    if (!ws.length) return '';
+    var last = ws[ws.length - 1];
+    var cur = nowWeekTag();
+    var gap = weekGap(last.week, cur);              // 몇 주가 비었나
+    var d = last.followers_delta;
+    var cls = d == null ? 'flat' : (d > 0 ? 'up' : (d < 0 ? 'down' : 'flat'));
+    var dtx = d == null ? '지난주 기록 없음' : (d > 0 ? '+' + num(d) : (d < 0 ? num(d) : '변화 없음'));
+    return '<div class="sum">' +
+      '<div class="box"><div class="lab">' + (gap > 0 ? '마지막 주 도달' : '이번 주 도달') + '</div>' +
+        '<div class="big">' + num(last.reach) + '</div></div>' +
+      '<div class="box"><div class="lab">팔로워</div>' +
+        '<div class="big">' + num(last.followers) + '</div>' +
+        '<div class="delta ' + cls + '">' + esc(dtx) + '</div></div>' +
+      '<div class="box"><div class="lab">발행</div>' +
+        '<div class="big">' + (last.posts || 0) + '</div>' +
+        '<div class="delta flat">건 · ' + esc(weekName(last.week).short) + '</div></div>' +
+      '</div>' +
+      '<div class="wkline">' + esc(weekName(last.week).full) + '</div>' +
+      /* 주간 스냅샷은 목요일 아침에 한 번만 돈다. 그날 봇이 자고 있으면 그 주가
+         통째로 빈다 — 화면이 아무 말도 안 하면 옛 숫자를 이번 주로 읽게 된다. */
+      (gap > 0
+        ? '<div class="stale">기록이 ' + gap + '주 밀려 있습니다 — 지금은 ' +
+          esc(weekName(cur).short) + '차. 주간 스냅샷은 목요일 아침에 돌고, ' +
+          '놓치면 다음 날 아침에 채웁니다.</div>'
+        : '');
+  }
+
+  function weekBars() {
+    var ws = weeks().slice(-6);        // 여덟 주를 넣으면 칸이 좁아 날짜가 안 들어간다
+    if (ws.length < 2) return '';
+    var hi = Math.max.apply(null, ws.map(function (w) { return w.reach || 0; })) || 1;
+    var cols = ws.map(function (w, i) {
+      var h = Math.max(3, Math.round(((w.reach || 0) / hi) * 96));
+      var n = weekName(w.week);
+      return '<div class="col' + (i === ws.length - 1 ? ' last' : '') +
+        '" title="' + esc(n.full) + '">' +
+        '<div class="val">' + num(w.reach) + '</div>' +
+        '<div class="bar" style="height:' + h + 'px"></div>' +
+        '<div class="tag">' + esc(n.short) + '</div>' +
+        '<div class="tag2">' + esc(n.days) + '</div></div>';
+    }).join('');
+    return '<section><h2>주간 도달</h2><div class="wk">' + cols + '</div>' +
+      '<p class="note">막대는 그 주에 올린 글이 닿은 사람 수다. 발행 건수가 다르면 ' +
+      '높낮이만 보고 잘했다 못했다 하기 어렵다 — 아래 결별 성과가 그걸 보정한 값이다.</p></section>';
+  }
+
+  function kindBars() {
+    var solid = (P.kinds || []).filter(function (k) { return k.stable; });
+    var shaky = (P.kinds || []).filter(function (k) { return !k.stable; });
+    if (!solid.length && !shaky.length) return '';
+    var hi = Math.max.apply(null, solid.map(function (k) { return k.multiple || 0; })) || 1;
+    var rows = solid.map(function (k) {
+      var w = Math.round(((k.multiple || 0) / hi) * 100);
+      return '<div class="ln"><span class="nm">' + esc(k.kind) + '</span>' +
+        '<span class="sub">' + k.n + '건</span>' +
+        '<span class="mb"><i style="width:' + w + '%"></i></span>' +
+        '<b>' + k.multiple + '배</b></div>';
+    }).join('');
+    return '<section><h2>결별 성과 — 주차 보정</h2><div class="rows">' + rows + '</div>' +
+      '<p class="note">그 주의 중앙값을 1로 놓고 잰 값이다. 3배면 같은 주 다른 글보다 ' +
+      '세 배 멀리 갔다는 뜻. 한 주를 빼도 순서가 안 바뀌는 결만 실었다.' +
+      (shaky.length ? ' 아직 흔들려서 뺀 결: ' +
+        shaky.map(function (k) { return esc(k.kind); }).join(', ') + '.' : '') +
+      '</p></section>';
+  }
+
+  /* 발행 대비 도달 — 손이 많이 간 결과 실제로 멀리 간 결이 같은지 본다.
+     이게 어긋나 있으면 제작 배분을 바꿔야 한다는 신호다. */
+  function balance() {
+    var pub = P.published || [];
+    if (pub.length < 10) return '';
+    var by = {};
+    pub.forEach(function (p) {
+      var k = p.kind || '기타';
+      if (!by[k]) by[k] = { n: 0, reach: 0 };
+      by[k].n += 1; by[k].reach += (p.reach || 0);
+    });
+    var tn = pub.length;
+    var tr = pub.reduce(function (a, p) { return a + (p.reach || 0); }, 0) || 1;
+    var ks = Object.keys(by).sort(function (a, b) { return by[b].reach - by[a].reach; });
+    var rows = ks.map(function (k) {
+      var o = by[k], pn = o.n / tn, pr = o.reach / tr;
+      var gap = pr - pn;
+      var mark = Math.abs(gap) < 0.04 ? ''
+        : (gap > 0 ? '<span class="gapUp">더 써도 된다</span>'
+                   : '<span class="gapDn">줄여도 된다</span>');
+      return '<div class="ln"><span class="nm">' + esc(k) + '</span>' + mark +
+        '<div class="two">' +
+          '<div class="t"><span>발행</span><i class="pub" style="width:' +
+            Math.max(2, Math.round(pn * 100)) + '%"></i><em>' + pct(pn) + ' · ' + o.n + '건</em></div>' +
+          '<div class="t"><span>도달</span><i class="rch" style="width:' +
+            Math.max(2, Math.round(pr * 100)) + '%"></i><em>' + pct(pr) + '</em></div>' +
+        '</div></div>';
+    }).join('');
+    return '<section class="cmp"><h2>손이 간 곳과 멀리 간 곳</h2><div class="rows">' + rows + '</div>' +
+      '<p class="note">위 막대는 최근 ' + tn + '건 중 그 결이 차지한 비율, 아래는 그 결이 가져온 ' +
+      '도달의 비율이다. 아래가 위보다 길면 적게 만들고도 멀리 간 결 — 더 만들 자리가 있다.</p></section>';
+  }
+
+  function topPosts() {
+    var top = (P.top || []).slice(0, 10);
+    if (!top.length) return '';
+    var rows = top.map(function (t) {
+      var head = (t.head || '').replace(/\n+/g, ' ').trim().slice(0, 42);
+      var nm = t.permalink
+        ? '<a href="' + esc(t.permalink) + '" target="_blank" rel="noopener">' + esc(head) + '</a>'
+        : esc(head);
+      return '<div class="ln"><span class="nm">' + nm + '</span>' +
+        '<span class="sub">' + esc(t.kind || '') + '</span>' +
+        '<b>' + num(t.reach) + '</b></div>';
+    }).join('');
+    return '<section><h2>가장 멀리 간 글</h2><div class="rows">' + rows + '</div></section>';
+  }
+
+  /* 오늘의 초안 → 발행 (2026-10-11) — 자동으로 만든 초안이 실제로 올라갔나, 올라간 건 잘 됐나 */
+  function drafts() {
+    var D = P.drafts;
+    if (!D || !D.drafts) return '';
+    var ks = Object.keys(D.lanes || {});
+    var rows = ks.map(function (k) {
+      var v = D.lanes[k], w = v.drafts ? Math.round(100 * v.posted / v.drafts) : 0;
+      return '<div class="ln"><span class="nm">' + esc(k) + '</span>' +
+        '<span class="sub">초안 ' + v.drafts + ' · 발행 ' + v.posted + '</span>' +
+        '<span class="mb"><i style="width:' + w + '%"></i></span>' +
+        '<b>' + (v.mult != null ? v.mult + '배' : '—') + '</b></div>';
+    }).join('');
+    var rec = (D.recent || []).map(function (d) {
+      return '<div class="ln"><span class="nm">' + (d.url ? '<a href="' + esc(d.url) + '" target="_blank" rel="noopener">' + esc(d.head || d.who) + '</a>' : esc(d.head || d.who)) +
+        '</span><span class="sub">' + esc(d.day.slice(5)) + ' ' + esc(d.lane) + '</span><b>' + (d.mult != null ? d.mult + '배' : '집계 전') + '</b></div>';
+    }).join('');
+    return '<section><h2>오늘의 초안 → 발행</h2>' +
+      '<p class="note">최근 ' + D.days + '일 초안 ' + D.drafts + '건 중 ' + D.posted + '건 발행 (채택률 ' + Math.round((D.rate || 0) * 100) + '%) · ' +
+      '같은 기간 전체 발행 ' + D.posts + '건. 채택 글 배수 ' + (D.adopted_mult != null ? D.adopted_mult + '배' : '—') +
+      ' · 직접 만든 글 ' + (D.own_mult != null ? D.own_mult + '배' : '—') + ' (그 주 중앙값 = 1)</p>' +
+      '<div class="rows">' + rows + '</div>' + (rec ? '<div class="rows" style="margin-top:10px">' + rec + '</div>' : '') +
+      '<p class="note">초안 날짜부터 나흘 안에 올라간 글 중 주인공 이름이 첫머리에 있거나 초안 캡션과 많이 겹치면 그 초안에서 나온 글로 셉니다. ' +
+      '배수는 주간 성과표가 나온 주만.</p></section>';
+  }
+
+  // SENE (10/22) — 발행 길 비교: 앱에서 바로 올린 글 vs 폰으로 받아 인스타 앱에서 직접 올린 글
+  function viaBox() {
+    var v = P.by_via || {}, a = v.api || {}, m = v.manual || {};
+    if (!a.n && !m.n) return '';
+    function ln(name, x) {
+      return '<div class="ln"><span class="nm">' + esc(name) + '</span><span class="sub">' + (x.n || 0) + '건 · 도달 중앙 ' +
+        (x.reach_median != null ? num(x.reach_median) : '—') + ' · 주차 보정 ' + (x.mult_median != null ? x.mult_median + '배' : '—') + '</span></div>';
+    }
+    return '<section><h2>발행 길 비교</h2><div class="rows">' + ln('앱에서 발행', a) + ln('폰으로 받아 직접', m) + '</div>' +
+      '<p class="note">주차 보정 = 그 주 전체 도달 중앙값 대비. 한쪽이 10건이 안 되면 아직 판단하지 않습니다.</p></section>';
+  }
+
+  function runs() {
+    if (!P.runs) return '';
+    var rows = Object.keys(P.runs).map(function (k) {
+      return '<div class="ln"><span class="nm">' + esc(k) + '</span>' +
+        '<span class="sub">' + esc(P.runs[k]) + '</span></div>';
+    }).join('');
+    return '<section><h2>마지막 실행</h2><div class="rows">' + rows + '</div>' +
+      (P.note ? '<p class="note">' + esc(P.note) + '</p>' : '') + '</section>';
+  }
+
+  function render() {
+    var host = document.getElementById('body');
+    document.getElementById('stamp').textContent = (P.generated_at || '') + ' 기준';
+    var out = sumBox() + weekBars() + drafts() + viaBox() + kindBars() + balance() + topPosts() + runs();
+    host.innerHTML = out || '<div class="empty">아직 실을 숫자가 없습니다.</div>';
+  }
+
+  fetch('./performance.json', { cache: 'no-cache' })
+    .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function (j) { P = j; render(); })
+    .catch(function (e) {
+      document.getElementById('stamp').textContent = '';
+      document.getElementById('body').innerHTML =
+        '<div class="empty">성과 데이터가 아직 배포되지 않았습니다.<br>' +
+        '맥에서 스캔이 한 번 더 돌면 여기에 올라옵니다.</div>';
+    });
+})();
+</script>
+</body>
+</html>
+
+<script>
+(function () {
+  function put() {
+    var a = document.createElement('a');
+    a.href = './';
+    a.textContent = '← SENE 제작';
+    a.setAttribute('aria-label', 'SENE 제작 홈으로');
+    a.title = '판 10.22 16:18';
+    var ver = document.createElement('span');
+    ver.textContent = '10.22 16:18';
+    ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
+                        'margin-left:7px;letter-spacing:0;';
+    a.appendChild(ver);
+    // 이 링크가 화면을 빠져나가는 유일한 길이다. 작게 두면 못 찾는다(규효 9/29).
+    // 손가락이 닿는 크기(44px)를 세로로 확보하고, 흐린 색 대신 본문색을 쓴다.
+    var base = 'font:700 16px/1 Pretendard,-apple-system,BlinkMacSystemFont,sans-serif;' +
+               'color:var(--text,#ECECF1);text-decoration:none;white-space:nowrap;letter-spacing:-.02em;' +
+               'display:inline-flex;align-items:center;min-height:44px;' +
+               'padding:6px 2px;border:0;background:none;flex:none;cursor:pointer;';
+    // 텔레그램 데스크톱은 미니앱을 폰 크기 창으로 띄운다 — 화면이 넓어도 창은 그대로다.
+    // 그래서 컴퓨터에서는 브라우저로 넘어가는 길을 한 번에 열어준다.
+    var TG = window.Telegram && window.Telegram.WebApp;
+    var inTG = !!(TG && TG.initData !== undefined && TG.platform && TG.platform !== 'unknown');
+    var wide = null;
+    if (inTG) {
+      wide = document.createElement('button');
+      wide.type = 'button';
+      wide.textContent = '🖥 브라우저에서';
+      wide.title = '넓은 화면에서 열기';
+      wide.onclick = function () {
+        try { TG.openLink(location.href); } catch (e) { window.open(location.href, '_blank'); }
+      };
+    }
+
+    var h = document.querySelector('header');
+    if (h) {
+      a.style.cssText = base + 'margin-right:14px;';
+      h.insertBefore(a, h.firstChild);
+      if (wide) {
+        wide.style.cssText = base + 'margin-right:14px;cursor:pointer;';
+        h.insertBefore(wide, a.nextSibling);
+      }
+    } else {
+      a.style.cssText = base +
+        'position:fixed;left:12px;top:calc(12px + env(safe-area-inset-top));z-index:9999;padding:8px 14px;' +
+        'border-radius:10px;background:var(--glass,rgba(10,10,12,.72));color:var(--text,var(--ink,#ECECF1));' +
+        'border:1px solid var(--line,#20202A);box-shadow:0 6px 18px rgba(0,0,0,.28);' +
+        'backdrop-filter:blur(8px);';
+      document.body.appendChild(a);
+      if (wide) {
+        wide.style.cssText = base +
+          'position:fixed;left:150px;top:calc(12px + env(safe-area-inset-top));z-index:9999;padding:8px 14px;' +
+          'border-radius:10px;background:var(--glass,rgba(10,10,12,.72));color:var(--text,var(--ink,#ECECF1));' +
+          'border:1px solid var(--line,#20202A);cursor:pointer;' +
+          'backdrop-filter:blur(8px);';
+        document.body.appendChild(wide);
+      }
+    }
+  }
+  if (document.readyState === 'loading')
+    document.addEventListener('DOMContentLoaded', put);
+  else put();
+})();
+</script>
+
+<script>
+(function () {
+  var TK = 'sene.app.theme', AK = 'sene.app.accent', NK = 'sene.app.neon',
+      GK = 'sene.app.gap', FK = 'sene.app.fs';
+  var GAPS = [['tight', '좁게'], ['normal', '보통'], ['wide', '넓게']];
+  var FSIZES = [['s', '작게'], ['m', '보통'], ['l', '크게'], ['xl', '더 크게']];
+  var HUES = ['cyan', 'magenta', 'lime', 'orange', 'violet'];
+  var MODES = [['system', '기기'], ['light', '밝게'], ['dark', '어둡게']];
+  var ACCENTS = [['burgundy', '#6E1E2C'], ['amber', '#E8B34A'], ['blue', '#5B8DEF'], ['green', '#4FB477'],
+                 ['violet', '#8B7CF0'], ['mono', '#ECECF1'], ['neon', '#00F0FF']];
+  var box = null;
+
+  function get(k, d) { try { return localStorage.getItem(k) || d; } catch (e) { return d; } }
+  function set(k, v) { try { v ? localStorage.setItem(k, v) : localStorage.removeItem(k); } catch (e) {} }
+  function mode() { var t = get(TK, 'light'); return (t === 'light' || t === 'dark' || t === 'system') ? t : 'light'; }
+  function accent() { return get(AK, 'burgundy'); }
+  function hue() { var h = get(NK, 'cyan'); return HUES.indexOf(h) < 0 ? 'cyan' : h; }
+  function gap() { var g = get(GK, 'normal'); return /^(tight|normal|wide)$/.test(g) ? g : 'normal'; }
+  function fsize() { var f = get(FK, 'm'); return /^(s|m|l|xl)$/.test(f) ? f : 'm'; }
+
+  function apply() {
+    var r = document.documentElement, m = mode();
+    r.setAttribute('data-theme', m);
+    r.setAttribute('data-accent', accent());
+    r.setAttribute('data-neon', hue());
+    r.setAttribute('data-gap', gap());
+    r.setAttribute('data-fs', fsize());
+    var meta = document.querySelector('meta[name=theme-color]');
+    if (meta) {
+      var dark = m === 'dark' ||
+        (m === 'system' && !matchMedia('(prefers-color-scheme: light)').matches);
+      meta.setAttribute('content', dark ? '#0A0A0C' : '#F5F2EC');
+    }
+    if (box) paint();
+  }
+
+  function paint() {
+    [].forEach.call(box.querySelectorAll('[data-mode]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-mode') === mode());
+    });
+    [].forEach.call(box.querySelectorAll('[data-accent]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-accent') === accent());
+    });
+    [].forEach.call(box.querySelectorAll('[data-hue]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-hue') === hue());
+    });
+    [].forEach.call(box.querySelectorAll('[data-gap]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-gap') === gap());
+    });
+    [].forEach.call(box.querySelectorAll('[data-fs]'), function (b) {
+      b.classList.toggle('on', b.getAttribute('data-fs') === fsize());
+    });
+  }
+
+  function close() {
+    if (box) { box.remove(); box = null; document.removeEventListener('click', away); }
+  }
+  function away(e) {
+    if (box && !box.contains(e.target) && !e.target.closest('.plotThemeBtn')) close();
+  }
+
+  function open(btn) {
+    if (box) { close(); return; }
+    box = document.createElement('div');
+    box.className = 'plotThemeBox';
+    box.innerHTML = '<b>밝기</b><div class="row">' +
+      MODES.map(function (m) {
+        return '<button type="button" data-mode="' + m[0] + '">' + m[1] + '</button>';
+      }).join('') + '</div><b>강조색</b><div class="row">' +
+      ACCENTS.map(function (a) {
+        return '<button type="button" class="sw" data-accent="' + a[0] +
+               '" title="' + a[0] + '"></button>';
+      }).join('') + '</div>' +
+      // 네온을 골랐을 때만 열리는 줄 — 색이 하나면 사이버펑크가 안 산다
+      '<div class="row hues">' + HUES.map(function (h) {
+        return '<button type="button" class="hue" data-hue="' + h +
+               '" title="' + h + '"></button>';
+      }).join('') + '</div>' +
+      '<b>글자 크기</b><div class="row">' + FSIZES.map(function (f) {
+        return '<button type="button" data-fs="' + f[0] + '">' + f[1] + '</button>';
+      }).join('') + '</div>' +
+      '<b>여백</b><div class="row">' + GAPS.map(function (g) {
+        return '<button type="button" data-gap="' + g[0] + '">' + g[1] + '</button>';
+      }).join('') + '</div>';
+    document.body.appendChild(box);
+    // body 에 배율이 걸려 있으면 getBoundingClientRect 는 이미 곱해진 값을 준다.
+    // 상자는 그 배율 안에 놓이므로 되나눠야 제자리에 선다.
+    var z = parseFloat(getComputedStyle(document.body).zoom) || 1;
+    box.style.top = Math.round(btn.getBoundingClientRect().bottom / z + 8) + 'px';
+    box.onclick = function (e) {
+      var m = e.target.closest('[data-mode]'), a = e.target.closest('[data-accent]');
+      if (m) { set(TK, m.getAttribute('data-mode')); apply(); }
+      if (a) { set(AK, a.getAttribute('data-accent')); apply(); }
+      var h = e.target.closest('[data-hue]');
+      if (h) { set(NK, h.getAttribute('data-hue')); apply(); }
+      var g = e.target.closest('[data-gap]');
+      if (g) { set(GK, g.getAttribute('data-gap')); apply(); }
+      var f = e.target.closest('[data-fs]');
+      if (f) { set(FK, f.getAttribute('data-fs')); apply(); }
+    };
+    paint();
+    setTimeout(function () { document.addEventListener('click', away); }, 0);
+  }
+
+  function put() {
+    var btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'plotThemeBtn';
+    btn.textContent = '◐ 테마';
+    btn.title = '밝기와 강조색';
+    btn.onclick = function (e) { e.stopPropagation(); open(btn); };
+    var own = document.getElementById('theme');
+    var h = document.querySelector('header .hbtns') || document.querySelector('.addRow')
+            || (own && own.parentElement);
+    if (h) { h.appendChild(btn); return; }
+    btn.className += ' float';
+    document.body.appendChild(btn);
+  }
+
+  apply();
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', put);
+  else put();
+})();
+</script>
+
+<script>
+(function () {
+  var KEY = 'sene.app.installHint';
+  var ua = navigator.userAgent;
+  var iOS = /iPad|iPhone|iPod/.test(ua) ||
+            (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1);
+  if (!iOS) return;
+  if (window.navigator.standalone === true ||
+      matchMedia('(display-mode: standalone)').matches) return;   // 이미 앱으로 열었다
+  try { if (localStorage.getItem(KEY) === 'off') return; } catch (e) {}
+
+  var TG = window.Telegram && window.Telegram.WebApp;
+  var inTG = !!(TG && TG.initData !== undefined && TG.platform && TG.platform !== 'unknown');
+  var safari = /Safari/.test(ua) && !/CriOS|FxiOS|EdgiOS|OPiOS|Chrome/.test(ua);
+
+  function show() {
+    var box = document.createElement('div');
+    box.style.cssText =
+      'position:fixed; left:10px; right:10px; bottom:calc(10px + env(safe-area-inset-bottom));' +
+      'z-index:9997; background:var(--panel,#131318); color:var(--text,#ECECF1);' +
+      'border:1px solid var(--line,#2A2A34); border-radius:12px; padding:12px 13px;' +
+      'font:14px/1.55 -apple-system,BlinkMacSystemFont,sans-serif;' +
+      'box-shadow:0 14px 40px rgba(0,0,0,.45)';
+    var msg = inTG
+      ? '홈 화면에 추가하려면 <b>사파리에서 열어야</b> 합니다 — 텔레그램 안에는 그 메뉴가 없어요.'
+      : safari
+        ? '아래 <b>공유 버튼(↑)</b> → <b>홈 화면에 추가</b> 를 누르면 앱처럼 열립니다.'
+        : '홈 화면에 추가는 <b>사파리에서만</b> 됩니다 — 이 주소를 사파리로 열어 주세요.';
+    box.innerHTML = '<div style="margin-bottom:9px">' + msg + '</div>' +
+      '<div style="display:flex; gap:7px">' +
+      (inTG ? '<button id="plotOpenSafari" style="flex:1; border:0; border-radius:8px;' +
+              'padding:9px; font:inherit; font-weight:700; background:var(--text,#ECECF1);' +
+              'color:var(--bg,#0A0A0C)">브라우저에서 열기</button>' : '') +
+      '<button id="plotHintNo" style="flex:' + (inTG ? '0 0 92px' : '1') + ';' +
+      'border:1px solid var(--line,#2A2A34); border-radius:8px; padding:9px; font:inherit;' +
+      'background:none; color:var(--muted,#8A8A96)">다시 안 보기</button></div>';
+    document.body.appendChild(box);
+    var go = document.getElementById('plotOpenSafari');
+    if (go) go.onclick = function () {
+      try { TG.openLink(location.href); } catch (e) { window.open(location.href, '_blank'); }
+    };
+    document.getElementById('plotHintNo').onclick = function () {
+      try { localStorage.setItem(KEY, 'off'); } catch (e) {}
+      box.remove();
+    };
+  }
+
+  if (document.readyState === 'loading') document.addEventListener('DOMContentLoaded', show);
+  else show();
+})();
+</script>
+
+<script>
+if ('serviceWorker' in navigator) {
+  addEventListener('load', function () {
+    // updateViaCache:'none' — 이게 없으면 sw.js 자체가 HTTP 캐시에 걸린다.
+    // 캐시 규칙을 고친 새 워커가 옛 캐시 때문에 안 실리는, 웃기지만 실제로 겪은 일.
+    navigator.serviceWorker.register('sw.js', { updateViaCache: 'none' })
+      .then(function (r) { r.update(); })
+      .catch(function () {});
+  });
+}
+</script>
