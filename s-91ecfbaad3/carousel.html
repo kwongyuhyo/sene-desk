@@ -1346,7 +1346,7 @@ function titlePx(title, photo) {
 }
 
 /* ── 장의 형태 ────────────────────────────────────────────────────────────
- * 커버: 'cover-type'(버건디 판면 타이포) | 'cover-photo'(고정 자리 사진 + 버건디 띠)
+ * 커버: 'cover-type'(버건디 판면 타이포) | 'cover-photo'(사진 꽉 + 위아래 그라데이션 · 10/22 B안)
  * 본문: 'text' | 'photo' | 'data'(수치 스트립) | 'quote'
  * s.form 이 비면 자동 — 사진·영상이 있으면 사진(수치가 있으면 수치), 수치·해설이 있으면 수치, 아니면 글.
  * 사진 형태를 골랐어도 사진이 없으면 글(수치) 형태로 그린다 — dove 렌더러와 같다(빈 액자 금지).
@@ -1411,18 +1411,23 @@ function coverPhotoLayout(s) {
   const bottom = 1200;
   const titleTop = bottom - subH - r.h;
   const blockTop = titleTop - (tag ? tl.h + 28 : 0);
-  const band = Math.max(400, Math.ceil(H - blockTop + 40));
+  const band = Math.max(640, Math.ceil(H - blockTop + 260));   // B안 (10/22): 그라데이션 높이 — 사진은 카드 전체
   return { tag, tl, r, sub, ss, str, sl, titleTop, blockTop, band,
-           slot: { x: 0, y: 176, w: W, h: H - band - 176 } };
+           slot: { x: 0, y: 0, w: W, h: H } };
 }
 function slideCoverPhoto(ctx, s, img, fit) {
   ctx.fillStyle = INK; ctx.fillRect(0, 0, W, H);
   const L = coverPhotoLayout(s);
   drawPhotoIn(ctx, img, fit, L.slot, "Cover Photo");
-  ctx.fillStyle = BURG;
-  ctx.fillRect(0, 0, W, 176);
-  ctx.fillRect(0, H - L.band, W, L.band);
-  chrome(ctx, true, .4);
+  // B안 (10/22 규효): 버건디 띠 대신 위·아래 그라데이션 — 맥 렌더(generators/dove_render .covp)와 같은 값
+  const sc = Number(s.scrim || .82);
+  let g = ctx.createLinearGradient(0, 0, 0, 300);
+  g.addColorStop(0, "rgba(20,18,17,.55)"); g.addColorStop(.6, "rgba(20,18,17,.18)"); g.addColorStop(1, "rgba(20,18,17,0)");
+  ctx.fillStyle = g; ctx.fillRect(0, 0, W, 300);
+  g = ctx.createLinearGradient(0, H - L.band, 0, H);
+  g.addColorStop(0, "rgba(20,18,17,0)"); g.addColorStop(.38, "rgba(20,18,17," + (sc * .78).toFixed(3) + ")"); g.addColorStop(1, "rgba(20,18,17," + sc + ")");
+  ctx.fillStyle = g; ctx.fillRect(0, H - L.band, W, L.band);
+  chrome(ctx, true, .5);
   if (L.tag) drawRun(ctx, MX, L.blockTop + L.tl.base, up(L.tag), "a7", 20, ROSE, trackFor(L.tag, .2, 20));
   EM = { em: { fk: "nb", fill: ROSE } };
   drawLines(ctx, L.r.lines, MX, L.titleTop, "nb", L.r.s, 1.12, PAPER, -.05 * L.r.s);
@@ -3832,9 +3837,9 @@ document.getElementById("clearSample").onclick = () => document.getElementById("
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.22 17:47';
+    a.title = '판 10.22 18:01';
     var ver = document.createElement('span');
-    ver.textContent = '10.22 17:47';
+    ver.textContent = '10.22 18:01';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
