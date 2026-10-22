@@ -785,7 +785,7 @@ const W = 1080, H = 1350;
 const F = ASSETS.fonts;          // nb Pretendard Black · eb ExtraBold · sb Regular · a9w/a9/a7/a5 Archivo
 const FB = { a9w: "nb", a9: "nb", a7: "eb", a5: "sb" };   // Archivo 에 없는 글자(한글 등)는 Pretendard 로
 const PAPER = "#F5F2EC", INK = "#242220", BURG = "#6E1E2C", ROSE = "#E8CDD2", GREY = "#9A9289", SLOTBG = "#ECE7DD";
-const pa = (a) => `rgba(245,242,236,${a})`;     // 판면(버건디) 위 종이색
+const pa = (a) => `rgba(245,242,236,${a})`;     // 판면(먹색)·사진 위 종이색
 const ia = (a) => `rgba(36,34,32,${a})`;        // 종이 위 잉크
 const MX = 64, RX = W - 64, CW = W - 128;       // 여백 64 · 판면 폭 952
 const SLOGAN_EN = "Select Every New Edit";
@@ -1201,7 +1201,7 @@ function idxText() {
 }
 /* 커버 태그 — 한글판은 한글 표기("패션 · FILA") */
 const tagText = () => parseCat(deck && deck.category).label;
-function chrome(ctx, field, ruleA) {
+function chrome(ctx, field, ruleA, idxA) {
   // SENE. — Archivo 900 · wdth 112 · 58px · 자간 -.035em · line-height .9 · top 54 · left 64. 마침표만 로즈/버건디
   const ms = 58, mtr = -0.035 * ms;
   EM = { em: { fk: "a9w", fill: field ? ROSE : BURG } };
@@ -1210,7 +1210,7 @@ function chrome(ctx, field, ruleA) {
   // 색인 — Archivo 700 · 19px · 자간 .18em(한글이면 .04em) · 대문자 · 오른쪽 64 · top 64
   const t = up(idxText()), s = 19, tr = trackFor(t, .18, s);
   const w = twTracked(t, "a7", s, tr) + tr;
-  drawRun(ctx, RX - w, 64 + lineBox("a7", s, null).base, t, "a7", s, field ? pa(.72) : BURG, tr);
+  drawRun(ctx, RX - w, 64 + lineBox("a7", s, null).base, t, "a7", s, field ? pa(idxA || .72) : BURG, tr);
   hit("category", RX - Math.max(w, 160) - 10, 54, Math.max(w, 160) + 20, 40);
   // 룰선 — y 140, 2px
   ctx.fillStyle = field ? pa(ruleA || .42) : INK;
@@ -1290,7 +1290,8 @@ function slotOf(i) {
 
 /* ── 커버 · 판면 타이포 ─────────────────────────────────────────────────── */
 function slideCoverType(ctx, s) {
-  ctx.fillStyle = BURG; ctx.fillRect(0, 0, W, H);
+  ctx.fillStyle = INK;                                           // 10/22 v2: 판면은 먹색, 버건디는 점·번호·강조만
+  ctx.fillRect(0, 0, W, H);
   chrome(ctx, true);
   // 태그 — Archivo 700 · 20px · 자간 .2em(한글이면 .04em) · 로즈 · top 196
   const tag = tagText(), tl = lineBox("a7", 20, null);
@@ -1443,8 +1444,8 @@ function drawStrip(ctx, s) {
 }
 
 /* ── 본문 · 사진 ────────────────────────────────────────────────────────────
- * 액자 top 224 · 높이 660(1.5px 테두리 포함) · 머리줄(번호 52 + 24 + 소제목 46, 두 줄까지) 위 32 · 본문 31px 위 28.
- * 본문이 1236 을 넘으면 액자를 520 까지 4px 씩 줄이고, 그래도 넘치면 글자를 25px 까지 줄인 뒤 자른다 (dove). */
+ * 10/22 v2 (dove .pf): 사진을 위·좌우 끝까지 높이 760, 테두리 없음, 마스트헤드는 사진 위 · 머리줄(번호 52 + 24 + 소제목 46, 두 줄까지) 위 40 · 본문 31px 위 26.
+ * 본문이 1236 을 넘으면 사진을 520 까지 4px 씩 줄이고, 그래도 넘치면 글자를 25px 까지 줄인 뒤 자른다 (dove). */
 function bodyPhotoLayout(s, i) {
   const num = numOf(s, i);
   const nlb = lineBox("a9", 52, 1);
@@ -1458,25 +1459,28 @@ function bodyPhotoLayout(s, i) {
   const body = rich(lit(s.body), "b");
   const bs = 31, bl = lineBox("sb", bs, 1.55);
   const nLines = paraLines(body, "sb", bs, 940, -.022 * bs).length;
-  let h = 660;
-  const bottomAt = (hh) => 224 + hh + 32 + headH + 28 + nLines * bl.h;
+  let h = 760;
+  const bottomAt = (hh) => hh + 40 + headH + 26 + nLines * bl.h;
   while (String(s.body || "").trim() && bottomAt(h) > 1236 && h > 520) h -= 4;
-  return { num, nw, kw, k, klb, nlb, base, headH, body, slot: { x: 64, y: 224, w: 952, h } };
+  return { num, nw, kw, k, klb, nlb, base, headH, body, slot: { x: 0, y: 0, w: W, h } };
 }
 function slideBodyPhoto(ctx, s, i, img, fit) {
   ctx.fillStyle = PAPER; ctx.fillRect(0, 0, W, H);
-  chrome(ctx, false);
   const L = bodyPhotoLayout(s, i), R = L.slot;
-  drawPhotoIn(ctx, img, fit, R, "Photo");
-  ctx.strokeStyle = ia(.5); ctx.lineWidth = 1.5;                 // 액자 테두리 1.5px (영상 장도 같다)
-  ctx.strokeRect(R.x + .75, R.y + .75, R.w - 1.5, R.h - 1.5);
-  const headTop = R.y + R.h + 32, base = headTop + L.base;
+  drawPhotoIn(ctx, img, fit, R, "Photo");                        // 10/22 v2: 사진을 위·좌우 끝까지, 테두리 없이
+  {                                                              // 위 그라데이션 260px — 마스트헤드가 사진(영상) 위에서 읽히게
+    const g = ctx.createLinearGradient(0, 0, 0, 260);
+    g.addColorStop(0, "rgba(20,18,17,.5)"); g.addColorStop(.6, "rgba(20,18,17,.14)"); g.addColorStop(1, "rgba(20,18,17,0)");
+    ctx.fillStyle = g; ctx.fillRect(0, 0, W, Math.min(260, R.h));
+  }
+  chrome(ctx, true, .5, .88);
+  const headTop = R.y + R.h + 40, base = headTop + L.base;
   const nx = drawRun(ctx, MX, base, L.num, "a9", 52, BURG, -.03 * 52);
   if (L.k) drawLines(ctx, L.k.lines, nx + 24, base - L.klb.base, "nb", L.k.s, 1.1, INK, -.04 * L.k.s);
   hit("num", MX - 6, headTop - 6, nx - MX + 12, 64);
   hit("heading", nx + 18, headTop - 6, L.kw + 6, Math.max(60, L.headH + 12));
   // 본문 — 31px(25 까지 줄임) · line-height 1.55 · 자간 -.022em · 폭 940 · 아래 1236 까지
-  const bTop = headTop + L.headH + 28;
+  const bTop = headTop + L.headH + 26;
   EM = { b: { fk: "nb", fill: BURG } };
   const b = fitBox(L.body, "sb", 31, 25, 1, 940, -.022, 1.55, bTop, 1236, "body");
   drawLines(ctx, b.lines, MX, bTop, "sb", b.s, 1.55, INK, -.022 * b.s);
@@ -1495,7 +1499,7 @@ function attrOf(s) {
   return v ? "— " + v : "";
 }
 function slideQuote(ctx, s) {
-  ctx.fillStyle = BURG; ctx.fillRect(0, 0, W, H);
+  ctx.fillStyle = INK; ctx.fillRect(0, 0, W, H);
   chrome(ctx, true);
   // 따옴표 — Archivo 900 · 90px · line-height .6 · 로즈 · top 196
   drawRun(ctx, MX, 196 + lineBox("a9", 90, .6).base, "“", "a9", 90, ROSE, 0);
@@ -1540,7 +1544,7 @@ function outroSources() {
   return out.slice(0, 8);
 }
 function slideOutro(ctx) {
-  ctx.fillStyle = BURG; ctx.fillRect(0, 0, W, H);
+  ctx.fillStyle = INK; ctx.fillRect(0, 0, W, H);
   // 320px 상자 · 로즈 2px 테두리 · 가운데에서 위로 6% (translate(-50%,-56%))
   const bx = 380, by = 675 - 0.56 * 320;
   ctx.strokeStyle = ROSE; ctx.lineWidth = 2;
