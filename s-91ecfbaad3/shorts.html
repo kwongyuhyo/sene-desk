@@ -177,6 +177,107 @@ header .count{
 .previewCol.big .stage{max-width:none; width:auto; height:76vh; cursor:zoom-out}
 .previewCol.big .side{text-align:center; max-width:420px}
 
+/* ── 재생 미리보기 (10/22 규효 "미리보기가 잘 안 되는 게 불편 — 편하게") ───────────
+   고른 구간을 9:16 으로 잘라 돌리고 그 위에 완성본 글자(로고·카테고리·1~3줄·출처)를
+   얹는다. 1~3줄은 완성본처럼 처음 6초(글자시간이 있으면 그 때)만 보인다.
+   렌더(3~7분)를 기다리지 않고 '이렇게 나온다' 를 바로 본다. */
+.ppSheet{position:fixed; inset:0; z-index:75; background:#000; display:flex; flex-direction:column;
+  padding:env(safe-area-inset-top) 0 calc(8px + env(safe-area-inset-bottom)); overscroll-behavior:contain}
+.ppSheet[hidden]{display:none}
+.ppTop{display:flex; align-items:center; gap:10px; padding:10px 14px; color:#fff; flex:none}
+.ppTop b{font-size:14px; font-weight:800; flex:1; min-width:0; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+.ppTop span{font-size:12.5px; color:rgba(255,255,255,.6); font-family:ui-monospace,Menlo,monospace}
+.ppBtn{background:rgba(255,255,255,.1); border:1px solid rgba(255,255,255,.18); color:#fff; border-radius:8px;
+  font:inherit; font-size:13.5px; padding:8px 12px; cursor:pointer; flex:none}
+.ppBtn:disabled{opacity:.35}
+.ppStage{flex:1; min-height:0; display:flex; align-items:center; justify-content:center; padding:0 10px}
+.ppFrame{position:relative; height:100%; max-height:100%; aspect-ratio:1080/1920; max-width:100%;
+  overflow:hidden; border-radius:10px; background:#111}
+.ppVideo{position:absolute; inset:0; overflow:hidden}
+.ppVideo>div,.ppVideo iframe{position:absolute; top:0; border:0; pointer-events:none; max-width:none}
+.ppVideo video,.ppVideo img{position:absolute; inset:0; width:100%; height:100%; object-fit:cover}
+.ppOver{background:none; transform-origin:0 0; pointer-events:none}
+.ppOver::after{display:none}
+.ppOver .photo{display:none}
+.ppOver .line{transition:opacity .35s ease}
+.ppOver.metaOff .line{opacity:0}
+.ppTap{position:absolute; inset:0; background:none; border:0; cursor:pointer}
+.ppBig{position:absolute; left:50%; top:50%; transform:translate(-50%,-50%); font-size:54px; color:#fff;
+  text-shadow:0 2px 16px rgba(0,0,0,.6); pointer-events:none; opacity:0; transition:opacity .2s}
+.ppFrame.paused .ppBig{opacity:.9}
+.ppBar{height:4px; margin:10px 14px 0; background:rgba(255,255,255,.18); border-radius:2px; flex:none; position:relative; cursor:pointer}
+.ppBar i{position:absolute; left:0; top:0; bottom:0; background:#fff; border-radius:2px; width:0}
+.ppBar u{position:absolute; top:-3px; bottom:-3px; background:rgba(255,214,0,.35); border-radius:2px}
+.ppCtl{display:flex; gap:8px; justify-content:center; align-items:center; padding:10px 14px 0; flex:none; flex-wrap:wrap}
+.ppNote{color:rgba(255,255,255,.62); font-size:12.5px; text-align:center; padding:8px 18px 0; line-height:1.45; flex:none}
+.pvPlayBtn{margin-top:8px; width:100%; background:var(--accent); color:var(--bg); border:0; border-radius:9px;
+  font:inherit; font-size:14px; font-weight:800; padding:10px 12px; cursor:pointer}
+.pvPlayBtn[hidden]{display:none}
+@media(max-width:899px){ .pvPlayBtn{margin-top:6px; padding:9px 10px} }
+
+
+/* ── 10/22 탭 정리 (규효 "직관성이 떨어진다") ─────────────────────── */
+header .hbtns{display:flex; gap:6px; margin-left:8px; flex:none}
+header h1{white-space:nowrap}
+header .count{white-space:nowrap}
+header .hbtns .plotThemeBtn{white-space:nowrap; padding:4px 8px; font-size:12px}
+/* SENE 머리줄은 이름이 길다 — 좁은 폰에서는 편 수를 빼고 테마는 ◐ 하나로 */
+@media(max-width:430px){
+  header .count{display:none}
+  header .hbtns .plotThemeBtn{font-size:0; padding:4px 7px}
+  header .hbtns .plotThemeBtn::before{content:'\25D0'; font-size:14px}
+}
+.summary .ok{color:var(--ink)}
+.pvStatus.ok{color:var(--ink)}
+/* 잘 안 쓰는 칸은 '더 보기' 안으로 */
+details.more{margin-top:16px; border:1px dashed var(--line); border-radius:9px; padding:0 12px}
+details.more>summary{cursor:pointer; padding:11px 0; font-size:13.5px; font-weight:700; color:var(--dim); list-style:none}
+details.more>summary::-webkit-details-marker{display:none}
+details.more>summary::before{content:'▸ '; color:var(--faint)}
+details.more[open]>summary::before{content:'▾ '}
+details.more[open]{padding-bottom:12px}
+details.formFold{margin-top:10px}
+details.formFold>summary{cursor:pointer; font-size:12.5px; color:var(--faint); padding:4px 0}
+/* 편마다 버튼 줄 — 다섯 개를 한 줄에 몰지 않는다 */
+.bfoot{flex-wrap:wrap}
+.bfoot .btn{flex:1 1 calc(33.3% - 8px); white-space:nowrap; min-width:0; padding:10px 6px; font-size:13.5px}
+/* 아래 버튼 줄 — '+ 영상 추가' 는 한 줄 다 쓴다 (좁아져 세로로 꺾이던 것) */
+.addRow .addBtn:first-child{flex:1 1 100%}
+.addRow .addBtn.ghost{flex:1 1 auto}
+#outsideBar .btn.primary.make{width:100%; padding:13px; font-size:15px; font-weight:800}
+#outsideBar .copySmall{background:none; border:0; color:var(--dim); font-size:13px; padding:8px 0; width:100%; text-decoration:underline}
+/* 폰: 위 미리보기를 한 줄로 — 쓸 자리가 화면의 1/3 에서 1/8 로 */
+@media(max-width:899px){
+  .previewCol{grid-template-columns:52px minmax(0,1fr); gap:10px; padding:7px 16px}
+  .previewCol .stage{max-width:52px}
+  .previewCol .pvHead, .previewCol .pvNote{display:none}
+  .previewCol .side{display:flex; align-items:center; gap:8px; min-width:0}
+  .previewCol .pvStatus{flex:1; min-width:0; margin:0; font-size:12.5px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap}
+  .previewCol .pvPlayBtn{margin:0; width:auto; flex:none; padding:9px 12px; font-size:13.5px}
+  .previewCol.big .side{display:block}
+}
+
+
+/* 재생 미리보기 — 완성본 / 구간 칸, 말자막 (SENE 말자막 규격: Pretendard Bold 56 · 종이색 · 먹색 외곽선 · 왼쪽 x72 · 폭 808 · y1030) */
+.ppTabs{display:flex; gap:6px; padding:0 14px 8px; flex:none}
+.ppTabs[hidden]{display:none}
+.ppTab{flex:1; background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.16); color:rgba(255,255,255,.75);
+  border-radius:8px; font:inherit; font-size:13.5px; font-weight:700; padding:8px; cursor:pointer}
+.ppTab.on{background:#fff; color:#000; border-color:#fff}
+.ppTab[hidden]{display:none}
+.ppOver .sub{position:absolute; left:72px; width:808px; top:1030px; transform:translateY(-50%);
+  text-align:left; color:#F5F2EC; font-family:PlotPre,Pretendard,sans-serif; font-weight:700; font-size:56px; line-height:1.3;
+  -webkit-text-stroke:6px rgba(36,34,32,.84); paint-order:stroke fill; text-shadow:0 4px 12px rgba(0,0,0,.6);
+  text-wrap:balance; white-space:pre-line}
+.ppOver[hidden]{display:none}
+.ppSubList{max-height:30vh; overflow:auto; margin:8px 14px 0; flex:none; -webkit-overflow-scrolling:touch}
+.ppSubList[hidden]{display:none}
+.ppSubRow{display:flex; gap:6px; align-items:center; margin-bottom:5px}
+.ppSubRow.on input{border-color:#fff}
+.ppSubT{flex:none; width:48px; background:none; border:0; color:rgba(255,255,255,.6); font-family:ui-monospace,Menlo,monospace; font-size:12px; cursor:pointer}
+.ppSubRow input{flex:1; min-width:0; background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.18); color:#fff;
+  border-radius:7px; padding:7px 9px; font:inherit; font-size:14px}
+
 /* ── 블록 ─────────────────────────────────────────────── */
 .block{
   background:var(--panel); border:1px solid var(--line); border-radius:var(--radius);
@@ -871,7 +972,7 @@ html:root[data-fs="xl"] body{ zoom:1.26 }
         return r.status === 204 ? null : r.text().then(function (t) { return t ? JSON.parse(t) : null; });
       });
   }
-  var LIMIT = { shorts: 3 * 60e3, caption: 5 * 60e3, cut: 40 * 60e3, carousel: 10 * 60e3, special: 3 * 60e3, raw: 15 * 60e3, cardvid: 30 * 60e3 };
+  var LIMIT = { shorts: 3 * 60e3, caption: 5 * 60e3, cut: 40 * 60e3, carousel: 10 * 60e3, special: 3 * 60e3, raw: 15 * 60e3, cardvid: 30 * 60e3, subs: 8 * 60e3 };
   function send(op, data, onStep) {
     var id = 'st:' + Date.now() + '-' + Math.random().toString(36).slice(2, 6);
     var sn = { op: op, at: new Date().toISOString() };
@@ -879,7 +980,7 @@ html:root[data-fs="xl"] body{ zoom:1.26 }
     var rec = { id: id, kind: 'studio', draft_date: null, draft_key: null, source_id: op, verdict: {}, reason: '', rewrite: {},
       device: (navigator.userAgent.match(/iPhone|iPad|Android|Mac/) || ['?'])[0], snapshot: sn };
     return req('sene_evals', { method: 'POST', body: JSON.stringify(rec), prefer: 'resolution=merge-duplicates,return=minimal' })
-      .then(function () { return wait(id, LIMIT[op] || 5 * 60e3, onStep); });
+      .then(function () { return wait(id, LIMIT[op] || 5 * 60e3, onStep).then(function (sn) { sn._id = id; return sn; }); });
   }
   function wait(id, limit, onStep) {
     var t0 = Date.now();
@@ -942,6 +1043,7 @@ html:root[data-gap="wide"] .wrap{ padding-left:24px; padding-right:24px }
   <a class="home" data-home href="index.html">← 홈</a>
   <h1>SENE 숏폼 양식</h1>
   <span class="count" id="count">0편</span>
+  <span class="hbtns"></span>
 </header>
 
 <div class="wrap">
@@ -970,7 +1072,9 @@ html:root[data-gap="wide"] .wrap{ padding-left:24px; padding-right:24px }
         <button class="btn" id="capBtn" title="봇에게 캡션을 부탁하는 명령을 복사합니다">✍️ 캡션 만들기</button>
         <button class="btn" id="ovBtn" hidden title="영상 없이 SENE 정보 레이어(워드마크·카테고리·헤드라인·출처)만 투명 배경 .mov 로 뽑습니다 — 편집 프로그램에서 영상 위에 얹어 씁니다">🧾 레이어만</button>
       </div>
+      <details class="formFold"><summary>양식 원문 보기</summary>
       <pre class="form" id="formOut"></pre>
+      </details>
     </div>
   </div>
 
@@ -989,7 +1093,8 @@ html:root[data-gap="wide"] .wrap{ padding-left:24px; padding-right:24px }
     <div class="side">
       <div class="pvHead"><b>미리보기</b><span id="pvWhich"></span></div>
       <div class="pvStatus" id="pvStatus"></div>
-      <div class="pvNote">SENE A안 · 1080×1920 기준 글자 배치입니다.<br>실제 영상·애니메이션은 제작 후 확인하세요.</div>
+      <div class="pvNote" id="pvNote">SENE A안 · 1080×1920 기준 글자 배치입니다.</div>
+      <button class="pvPlayBtn" id="pvPlay" type="button" hidden>▶ 구간 재생해서 보기</button>
     </div>
   </div>
 </div>
@@ -1165,6 +1270,48 @@ html:root[data-gap="wide"] .wrap{ padding-left:24px; padding-right:24px }
   </div>
 </div>
 
+<!-- 재생 미리보기 — 고른 구간을 완성본 글자와 같이 돌려 본다 -->
+<div class="ppSheet" id="pp" tabindex="-1" hidden>
+  <div class="ppTop">
+    <button class="ppBtn" id="ppClose" aria-label="닫기">✕</button>
+    <b id="ppWho"></b><span id="ppTime"></span>
+  </div>
+  <div class="ppTabs" id="ppTabs" hidden>
+    <button class="ppTab" id="ppTabDone" type="button">완성본</button>
+    <button class="ppTab" id="ppTabSeg" type="button">구간 미리보기</button>
+  </div>
+  <div class="ppStage"><div class="ppFrame" id="ppFrame">
+    <div class="ppVideo" id="ppVideo"><div id="ppYT"></div></div>
+    <div class="frame ppOver" id="ppOver">
+      <div class="photo"></div>
+      <div class="grad"></div>
+      <div class="logo">SENE<i>.</i></div>
+      <div class="catBar"></div>
+      <div class="cat"></div>
+      <div class="line hook"></div>
+      <div class="line artist"></div>
+      <div class="line title"></div>
+      <div class="src"></div>
+      <div class="sub"></div>
+    </div>
+    <div class="ppBig">▶</div>
+    <button class="ppTap" id="ppTap" aria-label="재생·멈춤"></button>
+  </div></div>
+  <div class="ppBar" id="ppBar"><u id="ppMeta"></u><i id="ppFill"></i></div>
+  <div class="ppCtl">
+    <button class="ppBtn" id="ppPrev">◀ 이전 편</button>
+    <button class="ppBtn" id="ppSound">🔇 소리 켜기</button>
+    <button class="ppBtn" id="ppEdit">✂️ 구간 고치기</button>
+    <button class="ppBtn" id="ppNext">다음 편 ▶</button>
+  </div>
+  <div class="ppCtl">
+    <button class="ppBtn" id="ppSubs" hidden>💬 말자막 미리 받기</button>
+    <button class="ppBtn" id="ppSubEdit" hidden>✏️ 자막 고치기</button>
+  </div>
+  <div class="ppSubList" id="ppSubList" hidden></div>
+  <div class="ppNote" id="ppNote"></div>
+</div>
+
 <div class="toast" id="toast"></div>
 <script>
 const LOGO = "data:image/png;base64,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";
@@ -1265,7 +1412,7 @@ const DRAFT = 'sene.shorts.draft';
 const KEEP = ['cat', 'custom', 'tag', 'url', 'send', 'start', 'end',
               'title', 'artist', 'feat', 'hook', 'source', 'crop', 'check',
               'story', 'storyClip', 'storyCredit', 'storyCrop', 'storyZoom', 'lyr', 'joins', 'trans', 'metaTime',
-              'frames', 'cta', 'storyBed', 'subs'];
+              'frames', 'cta', 'storyBed', 'subs', 'done', 'subsRef'];
 
 function hasContent(b) {
   return !!(b.url.trim() || b.title.trim() || b.artist.trim() ||
@@ -1359,6 +1506,7 @@ function fromSlim(list) {
       b[k] = (k === 'send' || k === 'check' || k === 'subs') ? !!o[k]
            : (k === 'storyBed') ? !(o[k] === false || o[k] === 'false')
            : (k === 'crop') ? cropOf(o[k])
+           : (k === 'done' || k === 'subsRef') ? (typeof o[k] === 'object' ? o[k] : null)
            : String(o[k]);
     });
     return b;
@@ -1823,7 +1971,7 @@ function blockText(b) {
     ...((b.storyClip || '').trim() && (b.storyZoom || '').trim() ? ['서사확대: ' + b.storyZoom.trim()] : []),
     // [가사] 정했을 때만 — 안 적으면 봇은 지금까지처럼 가사 없이 만든다.
     ...((b.lyr || '').trim() ? ['가사: ' + b.lyr.trim()] : []),
-    ...(b.subs ? ['자막: 자동'] : []),
+    ...(b.subs ? ['자막: ' + subsSpec(b)] : []),
     ...(joinList(b).length ? ['이어붙이기: ' + (b.joins || '').trim(), '전환: ' + (b.trans || '디졸브 0.5').trim()] : []),
     ...((b.metaTime || '').trim() ? ['글자시간: ' + b.metaTime.trim()] : []),
     ...((b.storyClip || '').trim() && b.storyBed === false ? ['서사배경음: 끔'] : []),
@@ -1878,40 +2026,11 @@ function buildBlock(b) {
     <input type="text" data-f="custom" placeholder="카테고리 직접 입력" hidden>
     <input type="text" data-f="tag" placeholder="키워드 (선택) · 예: FILA → 「패션 · FILA」" style="margin-top:7px">
 
-    <label>원본 <span class="opt">— 유튜브 등 주소, 또는 영상 직접 전송</span></label>
+    <label>원본 <span class="opt">— 유튜브 등 주소, 또는 휴대폰에서 올리기</span></label>
     <input type="text" data-f="url" inputmode="url" placeholder="https://...">
     <button class="pickBtn upBtn" data-a="up" type="button">📁 휴대폰·컴퓨터에서 영상·사진 올리기</button>
     <input type="file" data-r="upFile" accept="video/*,image/*" hidden>
     <div class="hint" data-r="upMsg" hidden></div>
-    <div class="joinBox">
-      <label>이어 붙이기 <span class="opt">— 원본 뒤에 사진·영상을 더 붙이고 그 사이를 전환으로 잇습니다 · 사진은 4초</span></label>
-      <div data-r="joinList"></div>
-      <button class="pickBtn" data-a="joinUp" type="button">＋ 사진·영상 올려서 붙이기</button>
-      <input type="file" data-r="joinFile" accept="video/*,image/*" multiple hidden>
-      <input type="text" data-r="joinUrl" inputmode="url" placeholder="또는 주소를 붙여넣고 엔터 (유튜브 등 · 뒤에 0:03-0:07 처럼 구간)">
-      <div class="chips" data-r="transKind"></div>
-      <div class="chips" data-r="transDur"></div>
-      <div class="hint" data-r="joinMsg" hidden></div>
-    </div>
-    <div class="srcToggle" data-r="toggle">
-      <input type="checkbox" data-f="send">
-      <span>영상 직접 전송
-        <small>주소 대신 텔레그램으로 영상 파일을 보냅니다. 구간을 비우면 영상 전체를 씁니다.</small>
-      </span>
-    </div>
-    <div class="srcToggle" data-r="checkToggle">
-      <input type="checkbox" data-f="check">
-      <span>만들기 전에 컷 확인
-        <small>컷을 나눈 뒤 위치를 보여주고 기다립니다. 고칠 컷을 고친 뒤 제작이 시작돼,
-          마음에 안 들어 다시 만드는 왕복이 없습니다. 분석에 30초쯤 더 걸립니다.</small>
-      </span>
-    </div>
-    <div class="srcToggle" data-r="subsToggle">
-      <input type="checkbox" data-f="subs">
-      <span>말자막 자동
-        <small>사람이 말하는 장면이면 켜세요. 맥이 구간 말소리를 받아써(무료) 이름·띄어쓰기를 다듬어 입힙니다. 1분쯤 더 걸립니다.</small>
-      </span>
-    </div>
     <div class="hint" data-r="urlErr" hidden></div>
     <div class="pull" data-r="pull" hidden></div>
 
@@ -1923,6 +2042,12 @@ function buildBlock(b) {
     <button class="pickBtn" data-a="pick" type="button" disabled>영상 보면서 구간 고르기</button>
     <button class="pickBtn cutBtn" data-a="cut" type="button" disabled>✂️ 재밌는 구간 추천받기</button>
     <div class="hint" data-r="spanErr" hidden></div>
+    <div class="srcToggle" data-r="subsToggle">
+      <input type="checkbox" data-f="subs">
+      <span>말자막 자동
+        <small>사람이 말하는 장면이면 켜세요. 맥이 구간 말소리를 받아써(무료) 이름·띄어쓰기를 다듬어 입힙니다. 위 「▶ 구간 재생」 화면에서 「말자막 미리 받기」로 먼저 보고 고칠 수도 있어요.</small>
+      </span>
+    </div>
 
     <label>헤드라인 윗줄 <span class="opt">— 선택 · 두 줄로 쓸 때 위</span></label>
     <input type="text" data-f="hook" placeholder="한소희가 직접 그린">
@@ -1961,11 +2086,37 @@ function buildBlock(b) {
     <input type="text" data-f="source" placeholder="패션엔 / 제공 | 브랜드 / 촬영 | SENE">
     <div class="hint" data-r="srcErr" hidden></div>
 
+    <details class="more" data-r="more">
+      <summary>더 보기 <span class="opt">— 끝 화면 · 이어 붙이기 · 컷 확인 · 텔레그램 전송</span></summary>
     <div data-r="ctaBox" hidden>
     <label>끝 화면 (CTA) <span class="opt">— 비우면 카테고리에 맞춰 자동</span></label>
     <div class="chips" data-r="ctaChips"></div>
     </div>
     <div class="hint" data-r="frameNote" hidden></div>
+    <div class="joinBox">
+      <label>이어 붙이기 <span class="opt">— 원본 뒤에 사진·영상을 더 붙이고 그 사이를 전환으로 잇습니다 · 사진은 4초</span></label>
+      <div data-r="joinList"></div>
+      <button class="pickBtn" data-a="joinUp" type="button">＋ 사진·영상 올려서 붙이기</button>
+      <input type="file" data-r="joinFile" accept="video/*,image/*" multiple hidden>
+      <input type="text" data-r="joinUrl" inputmode="url" placeholder="또는 주소를 붙여넣고 엔터 (유튜브 등 · 뒤에 0:03-0:07 처럼 구간)">
+      <div class="chips" data-r="transKind"></div>
+      <div class="chips" data-r="transDur"></div>
+      <div class="hint" data-r="joinMsg" hidden></div>
+    </div>
+    <div class="srcToggle" data-r="checkToggle">
+      <input type="checkbox" data-f="check">
+      <span>만들기 전에 컷 확인
+        <small>컷을 나눈 뒤 위치를 보여주고 기다립니다. 고칠 컷을 고친 뒤 제작이 시작돼,
+          마음에 안 들어 다시 만드는 왕복이 없습니다. 분석에 30초쯤 더 걸립니다.</small>
+      </span>
+    </div>
+    <div class="srcToggle" data-r="toggle">
+      <input type="checkbox" data-f="send">
+      <span>영상 직접 전송
+        <small>주소 대신 텔레그램으로 영상 파일을 보냅니다. 구간을 비우면 영상 전체를 씁니다.</small>
+      </span>
+    </div>
+    </details>
 
     <div class="bfoot">
       <button class="btn" data-a="tl" title="이 편을 타임라인 편집 화면에서 엽니다 — 클립 자르기·순서·전환·미리보기">🎞 타임라인</button>
@@ -1975,6 +2126,8 @@ function buildBlock(b) {
       <button class="btn danger" data-a="del">🗑 삭제</button>
     </div>`;
 
+  { const mo = $('[data-r=more]', body);
+    if (mo) mo.querySelector('summary').addEventListener('click', () => { mo._touched = true; }); }
   // 카테고리 칩
   const chips = $('[data-r=chips]', body);
   CATS.concat(['__custom__']).forEach(c => {
@@ -2360,6 +2513,8 @@ function refresh() {
     put('spanErr', e.span);
     { const jm = $('[data-r=joinMsg]', body); if (e.join) { jm.hidden = false; jm.textContent = e.join; jm.classList.add('bad'); }
       else if (jm.classList.contains('bad')) { jm.hidden = true; jm.textContent = ''; jm.classList.remove('bad'); } }
+    { const mo = $('[data-r=more]', body);
+      if (mo && !mo._touched && (e.join || joinList(b).length || b.send || b.check || (b.cta || '').trim() || (b.frames || '').trim())) mo.open = true; }
     put('titleErr', e.title, 'title');
     put('srcErr', e.source, 'source');
     put('storyErr', e.story, 'storyClip');
@@ -2560,6 +2715,7 @@ function drawPreview(b) {
     photo.style.backgroundImage = '';
     frame.classList.remove('hasPhoto');
   }
+  ppSide(b);
 
 }
 let overflow = [];
@@ -4124,6 +4280,15 @@ function boot() {
     var cb = $('#capBtn'); if (cb) cb.onclick = askCaption;
     if (studioOn()) {                  // 텔레그램을 안 거치니 이름도 바꾼다
       if (tg) { tg.textContent = '🎬 맥으로 바로 제작'; tg.title = '양식을 맥으로 보내 제작 대기열에 넣습니다 — 완성 영상은 텔레그램 대화로 옵니다'; }
+      // 10/22 — 실제로 누르는 건 '맥으로 바로 제작'. 주 버튼으로 올리고 복사는 작은 글씨로 내린다.
+      var cp = $('#copyBtn'), bar = $('#outsideBar');
+      if (tg && cp && bar) {
+        tg.classList.add('primary', 'make');
+        bar.insertBefore(tg, bar.firstChild);
+        cp.classList.remove('primary'); cp.classList.add('copySmall'); cp.removeAttribute('style');
+        cp.textContent = '양식 텍스트만 복사';
+        var row = bar.querySelector('.tgRow'); if (row) row.after(cp);
+      }
       if (cb) cb.title = '맥이 캡션 초안을 써서 이 화면에 띄웁니다';
       var ov = $('#ovBtn'); if (ov) { ov.hidden = false; ov.onclick = makeLayers; }
     }
@@ -4132,6 +4297,9 @@ function boot() {
   // 폰에서는 썸네일이 작다 — 탭하면 전체화면으로 키운다.
   const col = $('.previewCol');
   $('.stage').addEventListener('click', () => {
+    // 재생할 수 있으면 바로 재생 미리보기로 (10/22) — 아니면 예전처럼 크게
+    const cur = blocks[active] || blocks[0];
+    if (!col.classList.contains('big') && ppKind(cur)) { openPlay(blocks.indexOf(cur)); return; }
     col.classList.toggle('big');
     requestAnimationFrame(fitStage);
   });
@@ -4195,6 +4363,348 @@ function boot() {
 unitLoad();
 document.addEventListener('DOMContentLoaded', boot);
 
+/* ── 재생 미리보기 (10/22 규효 "미리보기가 잘 안 되는 게 불편 — 편하게") ──────────
+ * 작은 정지 그림 대신, 고른 구간을 9:16 으로 잘라 돌리고 완성본 글자를 그 위에 얹는다.
+ * 헤드라인은 완성본처럼 처음 6초(글자시간이 있으면 그 때)만 보이고,
+ * 로고·카테고리·출처는 계속 있다. 구간 끝에 닿으면 처음으로 돌아간다.
+ *  · 초안에서 넘어온 편은 미리 렌더한 완성본을 바로 튼다 (「완성본」 칸).
+ *  · 「말자막 미리 받기」 — 맥이 그 구간만 받아써 다듬어 돌려준다. SENE 말자막 규격(종이색·왼쪽 정렬)으로 얹어 보고
+ *    그 자리에서 고친다. 양식에는 '자막: 받음 <id>' 로 실려 렌더가 다시 받아쓰지 않고 그대로 쓴다.
+ */
+const PP = { i: -1, b: null, yt: null, ytReady: false, vid: null, a: 0, e: 0, mw: [0, 6], timer: null,
+             muted: true, paused: false, kind: '', mode: 'seg', subsBusy: false, editOpen: false };
+
+function ppSrcKind(b) {
+  if (!b) return '';
+  if (ytId(b.url)) return 'yt';
+  if (isUpload(b.url)) return /\/image\/upload\//.test(b.url) ? 'img' : 'file';
+  return '';
+}
+function ppKind(b) { return (b && b.done && b.done.url) ? 'done' : ppSrcKind(b); }
+function coreSig(b) {
+  return [b.cat, b.custom, b.url, b.start, b.end, b.title, b.artist, b.feat, b.hook, b.source, b.crop, b.metaTime]
+    .map(x => String(x == null ? '' : x).trim()).join('|');
+}
+function doneStale(b) { return !!(b && b.done && b.done.sig && b.done.sig !== coreSig(b)); }
+function subsOk(b) {
+  const r = b && b.subsRef;
+  return !!(r && r.id && r.segs && r.segs.length && r.url === (b.url || '').trim() &&
+            r.start === (b.start || '').trim() && r.end === (b.end || '').trim());
+}
+function subsSpec(b) { return subsOk(b) ? '받음 ' + b.subsRef.id : '자동'; }
+
+function ppRange(b, dur) {
+  const a = toSec(b.start);
+  const e = toSec(b.end);
+  const A = a != null ? a : 0;
+  let E = e != null && e > A ? e : (dur ? dur : A + 15);
+  if (dur && E > dur) E = dur;
+  return [A, E];
+}
+function ppMetaWin(b, len) {
+  const t = (b.metaTime || '').trim();
+  const m = /^(.+?)\s*-\s*(.+)$/.exec(t);
+  if (!m) return [0, Math.min(6, len)];
+  const a = toSec(m[1].trim());
+  const e = /끝/.test(m[2]) ? len : toSec(m[2].trim());
+  return [a != null ? a : 0, e != null ? Math.min(e, len) : len];
+}
+function ppSide(b) {
+  const btn = $('#pvPlay'); if (!btn) return;
+  const k = ppKind(b);
+  btn.hidden = !k;
+  btn.textContent = k === 'done' ? (doneStale(b) ? '▶ 완성본(고치기 전)' : '▶ 완성본 보기')
+                  : k === 'img' ? '▶ 크게 보기' : '▶ 구간 재생해서 보기';
+  const note = $('#pvNote');
+  if (note) note.textContent = k === 'done' ? '미리 만들어 둔 완성본이 있습니다. 구간 미리보기로도 바꿔 볼 수 있어요.'
+                             : k ? '누르면 고른 구간이 완성본 글자와 같이 돌아갑니다.'
+                                 : '원본 주소를 넣으면 구간을 재생해서 볼 수 있어요.';
+}
+function ppNav() {
+  const ok = (j) => j >= 0 && j < blocks.length && ppKind(blocks[j]);
+  let p = -1, n = -1;
+  for (let j = PP.i - 1; j >= 0; j--) if (ok(j)) { p = j; break; }
+  for (let j = PP.i + 1; j < blocks.length; j++) if (ok(j)) { n = j; break; }
+  $('#ppPrev').disabled = p < 0; $('#ppNext').disabled = n < 0;
+  $('#ppPrev').hidden = $('#ppNext').hidden = blocks.length < 2;
+  $('#ppPrev').onclick = () => { if (p >= 0) openPlay(p); };
+  $('#ppNext').onclick = () => { if (n >= 0) openPlay(n); };
+}
+function ppFit() {
+  const fr = $('#ppFrame'); if (!fr || $('#pp').hidden) return;
+  const w = fr.clientWidth, h = fr.clientHeight;
+  $('#ppOver').style.transform = 'scale(' + (w / 1080) + ')';
+  if (PP.kind !== 'yt') return;
+  const node = document.getElementById('ppYT'); if (!node) return;
+  const fw = h * 16 / 9;
+  const shorts = /\/shorts\//.test(PP.b.url || '');
+  const c = cropOf(PP.b.crop);
+  const r = (shorts || c == null) ? 0.5 : c;
+  node.style.width = fw + 'px'; node.style.height = h + 'px';
+  node.style.left = (-r * Math.max(0, fw - w)) + 'px';
+}
+function ppNow() {
+  try {
+    if (PP.kind === 'yt') return PP.ytReady ? (PP.yt.getCurrentTime() || 0) : PP.a;
+    if ((PP.kind === 'file' || PP.kind === 'done') && PP.vid) return PP.vid.currentTime || 0;
+  } catch (_) {}
+  return PP.a;
+}
+function ppSeek(t) {
+  try {
+    if (PP.kind === 'yt' && PP.ytReady) PP.yt.seekTo(t, true);
+    if ((PP.kind === 'file' || PP.kind === 'done') && PP.vid) PP.vid.currentTime = t;
+  } catch (_) {}
+}
+function ppSetPaused(v) {
+  PP.paused = v;
+  $('#ppFrame').classList.toggle('paused', v);
+  try {
+    if (PP.kind === 'yt' && PP.ytReady) v ? PP.yt.pauseVideo() : PP.yt.playVideo();
+    if ((PP.kind === 'file' || PP.kind === 'done') && PP.vid) v ? PP.vid.pause() : PP.vid.play().catch(() => {});
+  } catch (_) {}
+}
+function ppSetMuted(v) {
+  PP.muted = v;
+  $('#ppSound').textContent = v ? '🔇 소리 켜기' : '🔊 소리 끄기';
+  try {
+    if (PP.kind === 'yt' && PP.ytReady) v ? PP.yt.mute() : PP.yt.unMute();
+    if ((PP.kind === 'file' || PP.kind === 'done') && PP.vid) PP.vid.muted = v;
+  } catch (_) {}
+}
+function ppFmt(x) { x = Math.max(0, x); return Math.floor(x / 60) + ':' + String(Math.floor(x % 60)).padStart(2, '0'); }
+function ppTick() {
+  const len = Math.max(0.1, PP.e - PP.a);
+  let t = ppNow();
+  if (PP.kind !== 'img' && !PP.paused && (t > PP.e + 0.05 || t < PP.a - 0.6)) { ppSeek(PP.a); t = PP.a; }
+  const rel = Math.max(0, Math.min(len, t - PP.a));
+  $('#ppFill').style.width = (rel / len * 100) + '%';
+  $('#ppTime').textContent = PP.kind === 'img' ? '' : ppFmt(rel) + ' / ' + ppFmt(len);
+  const seg = PP.kind !== 'done';
+  $('#ppOver').classList.toggle('metaOff', seg && PP.kind !== 'img' && !(rel >= PP.mw[0] && rel < PP.mw[1]));
+  // 말자막 — 받아 둔 줄을 시간에 맞춰 (원래 가사 자막 규격)
+  const sub = $('#ppOver .sub');
+  if (sub) {
+    let txt = '';
+    if (seg && subsOk(PP.b)) {
+      const c = PP.b.subsRef.segs.find(s => rel >= s.start && rel < s.end);
+      txt = c ? c.text : '';
+      const rows = $('#ppSubList') ? $('#ppSubList').children : [];
+      PP.b.subsRef.segs.forEach((s, k) => { if (rows[k]) rows[k].classList.toggle('on', s === c); });
+    }
+    if (sub.textContent !== txt) sub.textContent = txt;
+  }
+}
+function ppSubsPaint() {
+  const b = PP.b, btn = $('#ppSubs'), ed = $('#ppSubEdit');
+  if (!btn) return;
+  const can = PP.mode === 'seg' && (PP.kind === 'yt' || PP.kind === 'file') && typeof plotStudio !== 'undefined' && plotStudio.on();
+  btn.hidden = !can;
+  ed.hidden = !(can && subsOk(b));
+  if (PP.subsBusy) return;
+  btn.disabled = false;
+  btn.textContent = subsOk(b) ? '💬 말자막 다시 받기'
+                  : (b.subsRef && b.subsRef.id) ? '💬 구간이 바뀌어 다시 받기' : '💬 말자막 미리 받기';
+  $('#ppSubList').hidden = !PP.editOpen;
+  ed.textContent = PP.editOpen ? '✏️ 고치기 닫기' : '✏️ 자막 고치기';
+}
+function ppSubsList() {
+  const box = $('#ppSubList'); box.innerHTML = '';
+  const b = PP.b; if (!subsOk(b)) return;
+  b.subsRef.segs.forEach((s, k) => {
+    const row = el('div', 'ppSubRow');
+    const t = el('button', 'ppSubT'); t.type = 'button'; t.textContent = ppFmt(s.start);
+    t.onclick = () => { ppSeek(PP.a + s.start + 0.05); ppSetPaused(false); };
+    const inp = el('input'); inp.type = 'text'; inp.value = s.text;
+    inp.oninput = () => { s.text = inp.value; b.subsRef.edited = true; ppSubsSave(); };
+    row.append(t, inp); box.append(row);
+  });
+}
+let ppSaveT = null;
+function ppSubsSave() {
+  clearTimeout(ppSaveT);
+  ppSaveT = setTimeout(() => {
+    const r = PP.b && PP.b.subsRef; if (!r || !r.sn) return;
+    if (typeof draftNow === 'function') draftNow();
+    plotStudio.post({ id: r.id, kind: 'studio', snapshot: Object.assign({}, r.sn, { subs: r.segs, edited: true, status: 'done' }) })
+      .then(() => toast('고친 자막을 맥에 남겼습니다 — 제작할 때 그대로 씁니다'))
+      .catch((e) => toast('고친 자막을 못 남겼습니다 — ' + String(e && e.message || e).slice(0, 60)));
+  }, 900);
+}
+function ppSubsFetch() {
+  const b = PP.b;
+  if (!b || PP.subsBusy) return;
+  if (!(b.start || '').trim() || !(b.end || '').trim()) { toast('구간(시작·끝)을 먼저 정해 주세요'); return; }
+  PP.subsBusy = true;
+  const btn = $('#ppSubs'); btn.disabled = true; btn.textContent = '💬 맥에 보내는 중…';
+  const cat = ((b.cat === '__custom__' ? b.custom : b.cat) || '').trim();
+  const want = { url: (b.url || '').trim(), start: (b.start || '').trim(), end: (b.end || '').trim(),
+                 artist: (b.artist || '').trim(), title: (b.title || '').trim(), hook: (b.hook || '').trim(),
+                 source: (b.source || '').trim(), category: cat };
+  plotStudio.send('subs', want, (step, ms) => { btn.textContent = '💬 ' + step + ' · ' + Math.round(ms / 1000) + '초'; })
+    .then((sn) => {
+      const segs = (sn.subs || []).map(s => ({ start: Number(s.start), end: Number(s.end), text: String(s.text || '') }));
+      const keep = Object.assign({}, sn); delete keep.subs;
+      delete keep._id;
+      b.subsRef = { id: sn._id || '', url: want.url, start: want.start, end: want.end, segs: segs, sn: keep, edited: false };
+      b.subs = true;
+      PP.subsBusy = false;
+      ppSubsList(); ppSubsPaint(); ppNotesPaint(); refresh();
+      toast('💬 ' + (sn.note || ('자막 ' + segs.length + '줄')) + ' — 재생하면서 보고 고칠 수 있어요');
+    })
+    .catch((e) => { PP.subsBusy = false; ppSubsPaint(); toast('말자막을 못 받았습니다 — ' + String(e && e.message || e).slice(0, 90)); });
+}
+function ppModePaint() {
+  const b = PP.b, tabs = $('#ppTabs');
+  const both = !!(b && b.done && b.done.url && ppSrcKind(b));
+  tabs.hidden = !(b && b.done && b.done.url);
+  $('#ppTabSeg').hidden = !both;
+  $('#ppTabDone').classList.toggle('on', PP.mode === 'done');
+  $('#ppTabSeg').classList.toggle('on', PP.mode === 'seg');
+  $('#ppTabDone').textContent = doneStale(b) ? '완성본 (고치기 전)' : '완성본';
+}
+function ppNotesPaint() {
+  const b = PP.b, kind = PP.kind;
+  const notes = [];
+  if (kind === 'done') {
+    notes.push(doneStale(b) ? '양식을 고치기 전에 만든 완성본입니다 — 고친 내용은 「구간 미리보기」에서 보세요.'
+                            : '미리 만들어 둔 완성본입니다' + (b.done.at ? ' (' + String(b.done.at).replace('T', ' ').slice(5, 16) + ')' : '') + '.');
+  } else {
+    if (b.subs && !subsOk(b)) notes.push('말자막은 「말자막 미리 받기」를 누르면 여기서 보입니다 (안 받아도 제작할 때 넣어요).');
+    if ((b.lyr || '').trim()) notes.push('가사 자막은 제작할 때 들어갑니다.');
+    if (joinList(b).length) notes.push('이어 붙일 영상은 여기선 안 나오고, 첫 원본만 돕니다.');
+    if (kind === 'yt' && cropOf(b.crop) == null && !/\/shorts\//.test(b.url)) notes.push('가로 위치는 가운데로 보여 줍니다 — 완성본은 얼굴을 따라 자동으로 잡아요.');
+  }
+  $('#ppNote').textContent = notes.join(' ');
+}
+async function openPlay(i, mode) {
+  const b = blocks[i];
+  if (!ppKind(b)) { toast('원본 주소를 먼저 넣어 주세요'); return; }
+  mode = mode || (b.done && b.done.url ? 'done' : 'seg');
+  if (mode === 'seg' && !ppSrcKind(b)) mode = 'done';
+  const kind = mode === 'done' ? 'done' : ppSrcKind(b);
+  ppStop(true);
+  PP.i = i; PP.b = b; PP.kind = kind; PP.mode = mode; PP.paused = false;
+  $('#pp').hidden = false;
+  document.body.style.overflow = 'hidden';
+  $('#ppWho').textContent = (blocks.length > 1 ? (i + 1) + '번 · ' : '') +
+    ((b.title || '').trim() || '제목 없음') + ((b.artist || '').trim() ? ' — ' + b.artist.trim() : '');
+  paintFrame($('#ppOver'), b);
+  $('#ppOver').hidden = kind === 'done';
+  $('#ppFrame').classList.remove('paused');
+  ppNotesPaint();
+  $('#ppEdit').hidden = kind !== 'yt';
+  PP.editOpen = false;
+  ppModePaint(); ppNav(); ppSubsList(); ppSubsPaint();
+  const box = $('#ppVideo');
+  [...box.querySelectorAll('video,img')].forEach(n => n.remove());
+  const ytNode = document.getElementById('ppYT');
+  if (ytNode) ytNode.style.display = kind === 'yt' ? '' : 'none';
+  requestAnimationFrame(ppFit);
+  if (kind === 'img') {
+    const im = el('img'); im.src = b.url; box.prepend(im);
+    PP.a = 0; PP.e = 4; PP.mw = [0, 4];
+    $('#ppFrame').classList.remove('paused');
+  } else if (kind === 'file' || kind === 'done') {
+    const v = el('video'); v.src = kind === 'done' ? b.done.url : b.url; v.playsInline = true; v.preload = 'auto';
+    v.setAttribute('playsinline', ''); box.prepend(v); PP.vid = v;
+    // 누른 그 순간에 틀어야 소리를 켠 채로 시작된다 (폰 브라우저 규칙). 막히면 소리 없이.
+    v.muted = false; PP.muted = false;
+    v.play().catch(() => { v.muted = true; PP.muted = true; ppSetMuted(true); v.play().catch(() => ppSetPaused(true)); });
+    ppSetMuted(PP.muted);
+    v.addEventListener('loadedmetadata', () => {
+      if (kind === 'done') { PP.a = 0; PP.e = v.duration || 30; PP.mw = [0, 0]; }
+      else { [PP.a, PP.e] = ppRange(b, v.duration || 0); PP.mw = ppMetaWin(b, PP.e - PP.a); v.currentTime = PP.a; }
+      ppBarPaint();
+    }, { once: true });
+    if (kind === 'done') { PP.a = 0; PP.e = 30; PP.mw = [0, 0]; }
+    else { [PP.a, PP.e] = ppRange(b, 0); PP.mw = ppMetaWin(b, PP.e - PP.a); }
+  } else {
+    [PP.a, PP.e] = ppRange(b, 0); PP.mw = ppMetaWin(b, PP.e - PP.a);
+    try { await ytApi(); } catch (e) { toast(e.message); return; }
+    const id = ytId(b.url);
+    if (!PP.yt) {
+      PP.ytReady = false;
+      PP.yt = new YT.Player('ppYT', {
+        videoId: id,
+        playerVars: { controls: 0, rel: 0, modestbranding: 1, playsinline: 1, disablekb: 1, iv_load_policy: 3,
+                      cc_load_policy: 0, autoplay: 1, mute: 1, start: Math.floor(PP.a), origin: location.origin },
+        events: {
+          onReady: () => {
+            PP.ytReady = true;
+            try { PP.yt.unloadModule('captions'); PP.yt.unloadModule('cc'); } catch (_) {}
+            const d = PP.yt.getDuration() || 0;
+            if (d) { [PP.a, PP.e] = ppRange(PP.b, d); PP.mw = ppMetaWin(PP.b, PP.e - PP.a); ppBarPaint(); }
+            PP.yt.seekTo(PP.a, true);
+            ppSetMuted(PP.muted);
+            if (!PP.paused) PP.yt.playVideo();
+            ppFit();
+          },
+          onError: () => toast('이 영상은 미리 볼 수 없습니다 (비공개·지역제한)'),
+        },
+      });
+    } else if (PP.ytReady) {
+      PP.yt.loadVideoById({ videoId: id, startSeconds: PP.a });
+      ppSetMuted(PP.muted);
+      setTimeout(() => { const d = PP.yt.getDuration() || 0;
+        if (d) { [PP.a, PP.e] = ppRange(PP.b, d); PP.mw = ppMetaWin(PP.b, PP.e - PP.a); ppBarPaint(); } }, 1200);
+    }
+  }
+  ppBarPaint();
+  clearInterval(PP.timer);
+  PP.timer = setInterval(() => { if (!$('#pp').hidden) ppTick(); }, 100);
+  ppTick();
+  $('#pp').focus();
+}
+function ppBarPaint() {
+  const len = Math.max(0.1, PP.e - PP.a), mu = $('#ppMeta');
+  mu.style.left = (PP.mw[0] / len * 100) + '%'; mu.style.width = (Math.max(0, PP.mw[1] - PP.mw[0]) / len * 100) + '%';
+}
+function ppStop(keep) {
+  clearInterval(PP.timer); PP.timer = null;
+  try { if (PP.yt && PP.ytReady) PP.yt.pauseVideo(); } catch (_) {}
+  if (PP.vid) { try { PP.vid.pause(); } catch (_) {} PP.vid.remove(); PP.vid = null; }
+  if (!keep) { $('#pp').hidden = true; document.body.style.overflow = ''; }
+}
+function takeDoneHandoff() {
+  let o = null;
+  try { o = JSON.parse(localStorage.getItem('sene.form.handoff.done') || 'null'); localStorage.removeItem('sene.form.handoff.done'); } catch (_) {}
+  if (!o || !o.url || !blocks.length) return;
+  const b = blocks[active] || blocks[0];
+  b.done = { url: String(o.url), at: String(o.at || ''), sig: coreSig(b) };
+  refresh();
+  toast('미리 만들어 둔 완성본이 있습니다 — 위 「▶ 완성본 보기」');
+}
+function bindPlay() {
+  if (!$('#pp')) return;
+  $('#ppClose').onclick = () => ppStop();
+  $('#ppTap').onclick = () => { if (PP.kind !== 'img') ppSetPaused(!PP.paused); };
+  $('#ppSound').onclick = () => ppSetMuted(!PP.muted);
+  $('#ppEdit').onclick = () => { const b = PP.b; ppStop(); if (b) openPicker(b); };
+  $('#ppSubs').onclick = ppSubsFetch;
+  $('#ppSubEdit').onclick = () => { PP.editOpen = !PP.editOpen; ppSubsPaint(); };
+  $('#ppTabDone').onclick = () => { if (PP.mode !== 'done') openPlay(PP.i, 'done'); };
+  $('#ppTabSeg').onclick = () => { if (PP.mode !== 'seg') openPlay(PP.i, 'seg'); };
+  $('#ppBar').onclick = (e) => {
+    const r = e.currentTarget.getBoundingClientRect();
+    ppSeek(PP.a + (e.clientX - r.left) / r.width * (PP.e - PP.a));
+  };
+  $('#pvPlay').onclick = () => openPlay(Math.max(0, blocks.indexOf(blocks[active] || blocks[0])));
+  window.addEventListener('resize', ppFit);
+  // 아래 버튼·자막 칸이 생기고 사라지면 화면 칸 크기가 바뀐다 — 그때마다 글자 판을 다시 맞춘다
+  try { new ResizeObserver(() => ppFit()).observe($('#ppFrame')); } catch (_) {}
+  document.addEventListener('keydown', (e) => {
+    if ($('#pp').hidden) return;
+    if (e.target && e.target.tagName === 'INPUT') return;
+    if (e.key === 'Escape') { e.preventDefault(); ppStop(); }
+    else if (e.key === ' ') { e.preventDefault(); $('#ppTap').click(); }
+    else if (e.key === 'ArrowRight' && !$('#ppNext').disabled) $('#ppNext').click();
+    else if (e.key === 'ArrowLeft' && !$('#ppPrev').disabled) $('#ppPrev').click();
+  });
+  setTimeout(takeDoneHandoff, 0);
+}
+document.addEventListener('DOMContentLoaded', bindPlay);
+
 </script>
 </body>
 </html>
@@ -4206,9 +4716,9 @@ document.addEventListener('DOMContentLoaded', boot);
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.22 21:46';
+    a.title = '판 10.22 22:45';
     var ver = document.createElement('span');
-    ver.textContent = '10.22 21:46';
+    ver.textContent = '10.22 22:45';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
