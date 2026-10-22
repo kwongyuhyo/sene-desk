@@ -876,6 +876,202 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:terarosa-house-seongsu",
+    "account": "@뉴스",
+    "url": "https://www.newswire.co.kr/newsRead.php?no=1045325",
+    "image": null,
+    "head": "테라로사, 10/24 성수동 '더 하우스 오브 테라로사 서울' 오픈 — 약 400평",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-22T21:45+09:00",
+   "key": "7b8d1808",
+   "by": "claude",
+   "subjects": [
+    "테라로사"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "테라로사가 '테라로사 2.0' 첫 매장이라 부른 400평 성수 플래그십, 토요일 오픈 — 생두를 골라 그 자리에서 볶는 곳",
+    "why": "모레 여는 곳이라 내일 아침 먼저 알리기 좋고, 오픈일·규모·구성이 기사 세 곳 이상과 보도자료에서 맞는다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-22T21:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n테라로사(@terarosacoffee)가 이번 토요일 성수동에 약 400평 규모의 새 매장을 엽니다.\n\n이름은 '더 하우스 오브 테라로사 서울' 인데요, 테라로사가 '테라로사 2.0' 의 출발점이라고 소개한 매장입니다. 붉은 벽돌과 콘크리트, 철제 구조로 성수동 공장 골목의 분위기를 살렸습니다.\n\n안에는 고른 생두를 그 자리에서 볶아 주는 로스터리와 산지별 원두를 비교해 마시는 '커피 저니 테이스팅 코스', 교육 공간 '커피 101' 이 있습니다. '블랙 잉크 커피' 와 '브릭 바움쿠헨' 같은 성수 전용 메뉴, 지구화학의 '미니 색연필 8색'·한아조의 '커피 비누' 성수 에디션은 이 매장에서만 팝니다.\n\n12월에는 알랭 뒤카스의 초콜릿 브랜드 '알랭 뒤카스 쇼콜라 파리' 가 매장 안에 들어옵니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n#SENE #테라로사 #성수카페 #성수동 #더하우스오브테라로사\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792673159/ptp0wbohcycheixixyve.jpg\n제목: 테라로사, 성수에|400평 새 매장\n부제: 더 하우스 오브 테라로사 서울 · 10월 24일(토) 오픈\n출처: @terarosacoffee\n",
+    "caption": "테라로사(@terarosacoffee)가 이번 토요일 성수동에 약 400평 규모의 새 매장을 엽니다.\n\n이름은 '더 하우스 오브 테라로사 서울' 인데요, 테라로사가 '테라로사 2.0' 의 출발점이라고 소개한 매장입니다. 붉은 벽돌과 콘크리트, 철제 구조로 성수동 공장 골목의 분위기를 살렸습니다.\n\n안에는 고른 생두를 그 자리에서 볶아 주는 로스터리와 산지별 원두를 비교해 마시는 '커피 저니 테이스팅 코스', 교육 공간 '커피 101' 이 있습니다. '블랙 잉크 커피' 와 '브릭 바움쿠헨' 같은 성수 전용 메뉴, 지구화학의 '미니 색연필 8색'·한아조의 '커피 비누' 성수 에디션은 이 매장에서만 팝니다.\n\n12월에는 알랭 뒤카스의 초콜릿 브랜드 '알랭 뒤카스 쇼콜라 파리' 가 매장 안에 들어옵니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n#SENE #테라로사 #성수카페 #성수동 #더하우스오브테라로사",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673159/ptp0wbohcycheixixyve.jpg",
+      "credit": "@terarosacoffee",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/858088800_18634861543019460_3757003646890490949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6e9umxkotScQ7kNvwGvx9Kp&_nc_oc=AdpYV4YM-ujkz3dlkoClOimyNvvxPwQZChobO2xQNHv_aSUgX_s_aCfOC054ExcYntk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=mQ3Rzlt2pN9M246qCes6rQ&_nc_tpa=Q5bMBQIw8VYg0G_773vUSQrvEq95Ha75zmMEBdQxG3uNQh5ipsStnc9i9JatFAIfHHoDxiT4ts2k6tDxoA&oh=00_AQMQ0Tr-s_Elek0pYup63L8_-D8VaxqLvuytvp4KWKi6OQ&oe=6ADFE156"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673161/bjggynuuiwklmqxahih3.jpg",
+      "credit": "테라로사",
+      "from": "https://img.hankyung.com/photo/202610/01.46154867.1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673163/vzngtb01vtwq05x7cpbn.jpg",
+      "credit": "테라로사",
+      "from": "https://i3n.news1.kr/system/photos/2026/10/22/8174169/high.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "테라로사, 성수에|400평 새 매장",
+      "sub": "더 하우스 오브 테라로사 서울 · 10월 24일(토) 오픈"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "생두 골라 볶아 주는|테라로사 성수",
+      "sub": "10월 24일(토) 오픈 · 약 400평"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진(공식 릴스 썸네일)은 실제 매장 사진이 아니라 외관 일러스트 렌더 + 성수 지도 그림임 — 오픈 후 실제 사진으로 바꿀지 볼 것. 기사 사진 2장은 카드에 안 들어감(뒷장이 로고 장)",
+     "상세 주소·운영 시간·테이스팅 코스 가격은 보도자료·기사 어디에도 없어 '성수동' 까지만 둠 — 오픈 전 공식 계정에 공지되면 넣을 것",
+     "첫 사진은 공식 인스타 10/21 릴스 썸네일(성수 매장 예고) — 매장 모습인지 볼 것"
+    ],
+    "research": [
+     {
+      "title": "테라로사, 성수에 '더 하우스 오브 테라로사 서울' 오픈… '테라로사 2.0' 본격화 - 뉴스와이어",
+      "link": "https://www.newswire.co.kr/newsRead.php?no=1045325"
+     },
+     {
+      "title": "성수동에 400평 커피 공장 뜬다…테라로사 새단장 - 한국경제",
+      "link": "https://www.hankyung.com/article/202610229069g"
+     },
+     {
+      "title": "\"스벅 꼼짝마\"…성수동 상륙 '강릉커피' 테라로사, 도심 확장 본격화 - 아시아경제",
+      "link": "https://view.asiae.co.kr/article/2026102216160344117"
+     },
+     {
+      "title": "테라로사, 성수에 플래그십 '더 하우스' 오픈 - 뉴스1",
+      "link": "https://www.news1.kr/industry/distribution/6328817"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673177/e8n7ho0ukopwz3k2nhrr.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673176/pdv4chxu4tbd5yrqt8ct.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673180/ku18ucsr8yv7d9sesdgm.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673177/e8n7ho0ukopwz3k2nhrr.jpg"
+     },
+     "at": "2026-10-22T21:46+09:00",
+     "v": {
+      "A": "53608502",
+      "B": "475afbff"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:vans-sza-vansza",
+    "account": "@검색",
+    "url": "https://www.mt.co.kr/living/2026/10/22/2026102220090934017",
+    "image": null,
+    "head": "반스, 시저와 협업한 VANSZA 첫 컬렉션 — 10/22 판매",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-22T21:45+09:00",
+   "key": "63c9ea30",
+   "by": "claude",
+   "subjects": [
+    "반스"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "뒤축을 구겨 신던 시저의 습관에서 나온 신발 — 반스×시저 첫 컬렉션 'VANSZA' 오늘부터 판매",
+    "why": "오늘부터 살 수 있는 협업이고, 신발이 만들어진 이유가 한 문장으로 서는 소식이라 하루를 정리하는 밤 회차에 맞다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-22T21:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n패션\n\n[캡션]\n이번 반스 신발은 뒤축을 구겨 신는 습관에서 시작했습니다.\n\n반스가 가수 시저(SZA)와 만든 첫 협업 컬렉션 'VANSZA' 가 22일부터 판매되는데요, 뒤꿈치를 접어 신던 시저의 습관에서 착안했다고 반스는 설명합니다. 'VANSZA LX 뉴 스쿨 뮬' 은 뒤꿈치 부분을 아예 없앴고, 'VANSZA LX 어센틱 44 킥다운' 은 뒤축을 접어 신을 수 있게 만들었습니다.\n\n킥다운에는 아티스트 세이지 아담스의 그림과 낡은 질감의 캔버스를 썼습니다. 함께 나온 옷은 오버사이즈 워크웨어 아우터와 카고 팬츠, 그리고 물고기 그래픽입니다.\n\n출시: 10월 22일(목)\n판매: 반스 공식 온라인 스토어 · 일부 온·오프라인 판매처\n#SENE #반스 #시저 #VANSZA #반스뮬\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792673168/evmdfttddcwoewzmft3c.jpg\n제목: 뒤축 접어 신는 반스,|시저와 첫 협업\n부제: VANSZA · 10월 22일부터 판매\n출처: 반스\n",
+    "caption": "이번 반스 신발은 뒤축을 구겨 신는 습관에서 시작했습니다.\n\n반스가 가수 시저(SZA)와 만든 첫 협업 컬렉션 'VANSZA' 가 22일부터 판매되는데요, 뒤꿈치를 접어 신던 시저의 습관에서 착안했다고 반스는 설명합니다. 'VANSZA LX 뉴 스쿨 뮬' 은 뒤꿈치 부분을 아예 없앴고, 'VANSZA LX 어센틱 44 킥다운' 은 뒤축을 접어 신을 수 있게 만들었습니다.\n\n킥다운에는 아티스트 세이지 아담스의 그림과 낡은 질감의 캔버스를 썼습니다. 함께 나온 옷은 오버사이즈 워크웨어 아우터와 카고 팬츠, 그리고 물고기 그래픽입니다.\n\n출시: 10월 22일(목)\n판매: 반스 공식 온라인 스토어 · 일부 온·오프라인 판매처\n#SENE #반스 #시저 #VANSZA #반스뮬",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673168/evmdfttddcwoewzmft3c.jpg",
+      "credit": "반스",
+      "from": "https://thumb.mt.co.kr/cdn-cgi/image/f=avif/21/2026/10/2026102220090934017_1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673171/gp3uv7guejlsrylnys9a.jpg",
+      "credit": "반스",
+      "from": "https://kor.theasian.asia/wp-content/uploads/2026/10/보도자료-반스-글로벌-RB-아티스트-시저SZA와-함께한-‘VANSZA-첫-번째-컬렉션-공개-1.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "뒤축 접어 신는 반스,|시저와 첫 협업",
+      "sub": "VANSZA · 10월 22일부터 판매"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "구겨 신던 습관이|신발이 됐다",
+      "sub": "반스 × 시저 'VANSZA'"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "가격·국내 판매 매장 이름은 기사에 없음 — 판매처는 '반스 공식 온라인 스토어와 일부 판매처' 까지만 (아시아엔 기준, 머니투데이는 판매처 미기재)",
+     "반스 코리아 공식 인스타는 메타 한도로 못 봄 — 사진은 기사 대표 사진(반스 제공)"
+    ],
+    "research": [
+     {
+      "title": "반스, 시저와 협업한 VANSZA 첫 컬렉션 공개 - 머니투데이",
+      "link": "https://www.mt.co.kr/living/2026/10/22/2026102220090934017"
+     },
+     {
+      "title": "반스, R&B 아티스트 시저와 협업한 'VANSZA' 컬렉션 공개 - 아시아엔",
+      "link": "https://kor.theasian.asia/archives/419316"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673182/btktx066yz3hspguywuy.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673182/n6d3rb2ouvjnlo0gsury.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673186/byfpkybvwsiqtkszxow9.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792673182/btktx066yz3hspguywuy.jpg"
+     },
+     "at": "2026-10-22T21:46+09:00",
+     "v": {
+      "A": "e2856c63",
+      "B": "c3a1c352"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -893,7 +1089,7 @@
     "left": 28,
     "need_today": 7,
     "next_no": null,
-    "drafts": 9,
+    "drafts": 11,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -974,7 +1170,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-22T18:52+09:00"
+  "at": "2026-10-22T21:45+09:00"
  },
  "slots": {
   "basis": 0,
