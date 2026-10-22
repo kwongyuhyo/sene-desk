@@ -792,12 +792,15 @@ const SLOGAN_EN = "Select Every New Edit";
 const SLOGAN = "트렌드를 만나는 곳, SENE";
 /* 카테고리 — 앱에서는 한글로 고르고, 카드에는 영문 대문자로 찍힌다 */
 const SENE_CATS = [["패션", "FASHION"], ["뷰티", "BEAUTY"], ["공간", "SPACE"],
-                   ["푸드", "FOOD"], ["컬처", "CULTURE"], ["이슈", "ISSUE"]];
+                   ["푸드", "FOOD"], ["컬처", "CULTURE"],
+                   ["트렌드", "TREND"], ["놀거리", "PLAY"], ["이슈", "ISSUE"]];
 /* generators/sene_brand.parse_category 와 같은 규칙 — "패션", "패션 · FILA", "fashion", "팝업"(→공간) …
    PLOT 이 쓰던 기본값(New Released! · News 는 이슈로)은 SENE 카테고리로 읽지 않는다. */
 const CAT_ALIAS = { "패션": "패션", fashion: "패션", "뷰티": "뷰티", beauty: "뷰티", "공간": "공간", space: "공간",
   "팝업": "공간", popup: "공간", "pop-up": "공간", "플레이스": "공간", place: "공간", "장소": "공간",
   "푸드": "푸드", food: "푸드", "음식": "푸드", "맛집": "푸드", "컬처": "컬처", culture: "컬처", "문화": "컬처",
+  "트렌드": "트렌드", trend: "트렌드", "밈": "트렌드", "굿즈": "트렌드",
+  "놀거리": "놀거리", play: "놀거리", leisure: "놀거리", "취미": "놀거리",
   "이슈": "이슈", issue: "이슈", news: "이슈", "뉴스": "이슈" };
 const CAT_LEFTOVER = new Set(["new released!", "new release!", "new released", "new release", "오늘의 노래",
   "daily", "k-pop", "indie", "hip-hop", "가요", "pop"]);
@@ -1793,7 +1796,7 @@ function runLint() {
   // SENE 카테고리는 여섯 칸 — 밖의 값은 그대로 대문자로 찍히지만, 소재·성과 화면의 분류와 어긋난다.
   const tag = (deck.category || "").trim();
   if (tag && !isSeneCat(tag))
-    items.push({ lv: "warn", m: `카테고리 — '${tag}' 는 SENE 칸이 아닙니다 (패션·뷰티·공간·푸드·컬처·이슈)` });
+    items.push({ lv: "warn", m: `카테고리 — '${tag}' 는 SENE 칸이 아닙니다 (패션·뷰티·공간·푸드·컬처·트렌드·놀거리·이슈)` });
   if (!tag) items.push({ lv: "tip", m: "카테고리 — 비어 있으면 커버 태그가 빠집니다" });
   if (sl && sl.form === "photo" && !sl.img && !vidOf(sl))
     items.push({ lv: "warn", m: "사진 형태로 골랐지만 사진이 없어 " + (cur === 0 ? "판면(타이포)" : "글") + " 형태로 그립니다 — 사진을 넣어 주세요" });
@@ -1916,7 +1919,7 @@ const KIND = {
   note:     { label: "해설",   hint: "스트립 아래 회색 한두 줄",           multi: false },
   attr:     { label: "화자",   hint: "인용 아래 — 비우면 출처 매체로 「— 매체」",  multi: false },
   credit:   { label: "출처",   hint: "‘제공 | 브랜드’ 처럼 라벨을 바꿀 수 있어요 · 꼬리줄 오른쪽", multi: false },
-  category: { label: "카테고리", hint: "패션·뷰티·공간·푸드·컬처·이슈", multi: false },
+  category: { label: "카테고리", hint: "패션·뷰티·공간·푸드·컬처·트렌드·놀거리·이슈", multi: false },
   date:     { label: "날짜",   hint: "커버 꼬리줄 오른쪽",                 multi: false },
   sources:  { label: "출처 목록", hint: "엔딩 장 아래 — 한 줄에 하나 · 비우면 장마다 적은 출처를 모읍니다", multi: true },
 };

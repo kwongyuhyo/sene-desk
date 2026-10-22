@@ -1333,7 +1333,7 @@ const IN_TG = !!(TG && TG.initData !== undefined && TG.platform && TG.platform !
 
 /* ── 카테고리: SENE 여섯 칸 (generators/sene_brand.CATEGORIES · collectors/auto_draft.STUDIO_CATS) ──
    화면 좌상단 워드마크 아래 로즈 글자로 그대로 그려진다. 키워드를 붙이면 「패션 · FILA」. */
-const CATS = ['패션', '뷰티', '공간', '푸드', '컬처', '이슈'];
+const CATS = ['패션', '뷰티', '공간', '푸드', '컬처', '트렌드', '놀거리', '이슈'];
 /* 「패션 · FILA」 → { cat:'패션', tag:'FILA' } — 여섯 칸 밖이면 직접 입력 */
 function splitCat(v) {
   const t = String(v || '').replace(/\|/g, '·').replace(/\s+/g, ' ').trim();
@@ -4716,9 +4716,9 @@ document.addEventListener('DOMContentLoaded', bindPlay);
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.23 03:19';
+    a.title = '판 10.23 04:13';
     var ver = document.createElement('span');
-    ver.textContent = '10.23 03:19';
+    ver.textContent = '10.23 04:13';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);

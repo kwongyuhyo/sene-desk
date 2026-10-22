@@ -1655,10 +1655,10 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     return t.slice(0, 40) || (c.account ? '@' + c.account + ' 소재' : '제목');
   }
   function srcOf(c) { return c.account ? '@' + c.account : ''; }
-  var SENE_CAT = { fashion: '패션', beauty: '뷰티', space: '공간', place: '공간', food: '푸드', culture: '컬처', issue: '이슈' };
+  var SENE_CAT = { fashion: '패션', beauty: '뷰티', space: '공간', place: '공간', food: '푸드', culture: '컬처', trend: '트렌드', play: '놀거리', issue: '이슈' };
   function cardCat(c) {                          // SENE 카테고리 (10/22) — 후보의 축이 있으면 그대로, 없으면 이슈
     var a = String(c.axis || c.category || (c.sene || {}).axis || '').toLowerCase();
-    return SENE_CAT[a] || (['패션', '뷰티', '공간', '푸드', '컬처', '이슈'].indexOf(c.axis) >= 0 ? c.axis : '이슈');
+    return SENE_CAT[a] || (['패션', '뷰티', '공간', '푸드', '컬처', '트렌드', '놀거리', '이슈'].indexOf(c.axis) >= 0 ? c.axis : '이슈');
   }
   function shortsCat(c) { return cardCat(c); }
   function cardForm(c) {
@@ -2508,7 +2508,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     ['lines', '작문', '숏폼 세 줄', '짧고 장면과 맞나', 'shorts'],
     ['cap', '작문', '캡션', '사람이 쓴 글처럼 자연스럽나', '']];
   var EV_MARK = { o: '○', t: '△', x: '✕' };
-  var EV_GENRE = [['fashion', '패션'], ['beauty', '뷰티'], ['space', '공간'], ['food', '푸드'], ['culture', '컬처'], ['issue', '이슈']];   // SENE 축 (10/22)
+  var EV_GENRE = [['fashion', '패션'], ['beauty', '뷰티'], ['space', '공간'], ['food', '푸드'], ['culture', '컬처'], ['trend', '트렌드'], ['play', '놀거리'], ['issue', '이슈']];   // SENE 축 (10/22)
   var EV_GO = [['now', '바로 올림'], ['fix', '손보면 올림'], ['no', '안 올림']];
   function evName(k) { var r = EV_ITEMS.filter(function (x) { return x[0] === k; })[0]; return r ? r[2] : k; }
   function evOpt(list, v) { var o = list.filter(function (x) { return x[0] === v; })[0]; return o ? o[1] : ''; }
@@ -3982,9 +3982,9 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.23 03:19';
+    a.title = '판 10.23 04:13';
     var ver = document.createElement('span');
-    ver.textContent = '10.23 03:19';
+    ver.textContent = '10.23 04:13';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
