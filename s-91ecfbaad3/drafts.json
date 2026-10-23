@@ -1435,6 +1435,122 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:ord-c0cf583d",
+    "account": "@규효 공유 · @decision_movie",
+    "url": "https://www.instagram.com/p/De1DMHYvzNJ/?psln=MWpkc3IwNjA3aXEwdw==",
+    "image": null,
+    "head": "〈기생충〉 제작사 바른손이앤에이, 상장폐지 사유로 10월 23일부터 주식 거래 정지",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-23T17:05+09:00",
+   "key": "a5fd9d3c",
+   "by": "claude",
+   "subjects": [
+    "바른손이앤에이",
+    "기생충"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "아카데미 4관왕 〈기생충〉을 만든 제작사의 주식 거래가 10월 23일부터 멈췄다 — 영화의 기록과 회사의 상장은 별개",
+    "why": "규효 맡기기 · 〈기생충〉이라는 모두가 아는 작품의 제작사 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-10-23T17:05+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n영화 〈기생충〉을 만든 제작사 바른손이앤에이의 주식 거래가 10월 23일부터 멈췄습니다.\n\n한국거래소 코스닥시장본부가 22일 이 회사에 상장폐지 사유가 생겼다고 공시했는데요, 주가가 1,000원 아래로 내려가 관리종목이 된 뒤 90거래일 안에 종가 1,000원 이상을 45거래일 연속 지키지 못한 것이 이유입니다.\n\n〈기생충〉은 2019년 한국 영화 처음으로 칸영화제 황금종려상을 받았고, 이듬해 아카데미에서 작품상·감독상·각본상·국제장편영화상을 받은 영화입니다. 영화가 남긴 기록과 제작사가 주식시장에 남는 일은 따로 정해집니다. 거래소는 최종 상장폐지일을 아직 밝히지 않았습니다.\n\n거래 정지: 10월 23일(금)부터\n해제: 한국거래소 추후 안내\n\n#SENE #기생충 #바른손이앤에이 #봉준호 #한국영화\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792742718/jalri0mjohcgntmcfbiz.jpg\n제목: 〈기생충〉 제작사|주식 거래 정지\n부제: 바른손이앤에이, 10월 23일부터\n출처: 영화 〈기생충〉\n",
+    "caption": "영화 〈기생충〉을 만든 제작사 바른손이앤에이의 주식 거래가 10월 23일부터 멈췄습니다.\n\n한국거래소 코스닥시장본부가 22일 이 회사에 상장폐지 사유가 생겼다고 공시했는데요, 주가가 1,000원 아래로 내려가 관리종목이 된 뒤 90거래일 안에 종가 1,000원 이상을 45거래일 연속 지키지 못한 것이 이유입니다.\n\n〈기생충〉은 2019년 한국 영화 처음으로 칸영화제 황금종려상을 받았고, 이듬해 아카데미에서 작품상·감독상·각본상·국제장편영화상을 받은 영화입니다. 영화가 남긴 기록과 제작사가 주식시장에 남는 일은 따로 정해집니다. 거래소는 최종 상장폐지일을 아직 밝히지 않았습니다.\n\n거래 정지: 10월 23일(금)부터\n해제: 한국거래소 추후 안내\n\n#SENE #기생충 #바른손이앤에이 #봉준호 #한국영화",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742718/jalri0mjohcgntmcfbiz.jpg",
+      "credit": "영화 〈기생충〉",
+      "from": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/10/23115117/CP-2022-0227-40597037-thumb.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742720/wyumsovacyg17ctlsexa.jpg",
+      "credit": "영화 〈기생충〉",
+      "from": "https://cdn.mhnse.com/mhnsports/2026/10/23151952/thumb_ccms_77801.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742718/jalri0mjohcgntmcfbiz.jpg",
+      "credit": "영화 〈기생충〉",
+      "from": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/10/23115117/CP-2022-0227-40597037-thumb.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742720/wyumsovacyg17ctlsexa.jpg",
+      "credit": "영화 〈기생충〉",
+      "from": "https://cdn.mhnse.com/mhnsports/2026/10/23151952/thumb_ccms_77801.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "〈기생충〉 제작사|주식 거래 정지",
+      "sub": "바른손이앤에이, 10월 23일부터"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "아카데미 4관왕 제작사,|상장폐지 사유 발생",
+      "sub": "바른손이앤에이 거래 정지"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "〈기생충〉을 만든 회사의|주식이 멈췄다",
+      "sub": "10월 23일부터 매매 정지"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "SENE 축(컬처·이슈)과 거리가 있는 주식 소식 — 투자 얘기 없이 '영화 기록과 상장은 별개' 각도로만 썼으니 올릴지 판단",
+     "거래 정지 해제·상장폐지 결정 공시가 새로 났는지 올리기 전 KIND 에서 다시 확인"
+    ],
+    "research": [
+     {
+      "title": "TV리포트 — '기생충' 제작사, 아카데미 4관왕에도 '상폐 위기'…바른손이앤에이 '주식 거래 정지'",
+      "link": "https://tvreport.co.kr/entertainment/article/1085354/"
+     },
+     {
+      "title": "MHN — '기생충' 만든 바른손이앤에이, 주식 거래 정지…상장폐지 위기",
+      "link": "https://mhnse.com/news/articleView.html?idxno=1610144"
+     },
+     {
+      "title": "디지털투데이 — 바른손이앤에이, 주권매매거래정지 (공시)",
+      "link": "https://www.digitaltoday.co.kr/disclosure/articleView.html?idxno=709373"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742725/fq4htha2bzl8jjp5rl22.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742725/scpiyz4eu2ft7bdqkjsv.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742728/om6utsqrz3m7cujyqsk9.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742728/blfuhrvlrbvixvpzprzp.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792742725/fq4htha2bzl8jjp5rl22.jpg"
+     },
+     "at": "2026-10-23T17:05+09:00",
+     "v": {
+      "A": "756d3398",
+      "B": "366ba551",
+      "C": "215fab0c"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -1453,7 +1569,7 @@
     "need_today": 10,
     "day": null,
     "next_no": null,
-    "drafts": 7,
+    "drafts": 8,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1565,7 +1681,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T16:22+09:00"
+  "at": "2026-10-23T17:05+09:00"
  },
  "slots": {
   "basis": 0,
