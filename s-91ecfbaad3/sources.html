@@ -559,7 +559,11 @@ details.fsum{display:block} details.fsum summary{display:list-item; margin-botto
 .sheet .dlg button{margin:0; padding:12px 0; text-align:center; font-size:14px; font-weight:700; border:1px solid var(--line); border-radius:10px}
 .sheet .dlg button.on{opacity:.55}
 .sheet .pn .dlnx{background:var(--text); color:var(--bg); text-align:center; font-weight:700; border-radius:12px; margin:0 20px 12px; width:calc(100% - 40px)}
-.sheet .pn .dlnx[disabled]{opacity:.5}
+.sheet .pn .dlnx[disabled], .sheet .pn .dlnx.done{opacity:.5}
+.sheet .pn a.btnlike{display:block; text-decoration:none; color:inherit}
+.sheet .pn a.dlnx{color:var(--bg); padding:14px 20px; font-size:15px; box-sizing:border-box}
+.sheet .dlg a.btnlike{padding:12px 0; text-align:center; font-size:14px; font-weight:700; border:1px solid var(--line); border-radius:10px}
+.sheet .dlg a.btnlike.on{opacity:.55}
 .ig .pubd{margin:6px 14px 0; font-size:13px; color:var(--ok, #2e9e5b)}
 .ig .pubd.sch{color:var(--amber)}
 .fu{border:1px solid var(--line); border-radius:12px; padding:12px 14px; margin:12px 0}
@@ -3379,7 +3383,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     // 인스타가 정사각형으로 자르고 비율 버튼을 안 준다. 갤러리에 받아 두고 인스타 앱 안에서 고르게 한다.
     if (fs && /Android/i.test(navigator.userAgent)) {
       toast('캡션을 복사했습니다');
-      dlSheet(fs, { after: ['인스타 열기', function () {
+      dlSheet(fs, { urls: sl, stem: 'sene', after: ['인스타 열기', function () {
         location.href = 'intent://instagram.com/#Intent;scheme=https;package=com.instagram.android;end'; }, '다 받은 뒤 — + → 게시물 → 첫 장 고르고 ⤢ 로 4:5 → 여러 장 선택'] });
       return;
     }
@@ -3400,12 +3404,20 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     a.href = u; a.download = name || f.name || 'sene.jpg'; document.body.appendChild(a); a.click(); a.remove();
     setTimeout(function () { URL.revokeObjectURL(u); }, 8000);
   }
+  /* 10/23 3차 — 폰 크롬이 이 사이트 '자동 다운로드' 를 막힘으로 기억하면 한 페이지에서 첫 장만 받아진다.
+     장마다 Cloudinary 받기 주소(fl_attachment)를 새 탭으로 연다 — 새 탭은 막힘이 따로라 한 장씩 받아진다. */
+  function attUrl(u, name) {
+    u = String(u || '');
+    return u.indexOf('/upload/') > 0 ? u.replace('/upload/', '/upload/fl_attachment:' + name + '/') : u;
+  }
   function dlSheet(fs, opts) {
     /* 10/23 2차 — 여러 장을 한꺼번에 받으려 하면 크롬이 그 탭의 다운로드를 통째로 막는다 (그 뒤엔 버튼도 안 먹는다).
        누른 순간 한 장만 받고, 다음 장은 「n장 받기」를 누를 때마다 한 장씩 — 사람이 누른 다운로드는 막지 않는다. */
     opts = opts || {};
     var n = fs.length, got = {}, next = 0;
-    function take(j) { dlOne(fs[j]); got[j] = 1; }
+    var urls = opts.urls && opts.urls.length === n ? opts.urls : null, stem = opts.stem || 'sene';
+    function att(j) { return attUrl(urls[j], stem + '_' + (j + 1)); }
+    function take(j) { if (!urls || j === 0 && !opts.manual && !got[0]) dlOne(fs[j]); got[j] = 1; }
     if (!opts.manual) { take(0); next = 1; }
     if (n < 2 && !opts.after && !opts.manual) return;
     var many = n > 1, sh = document.createElement('div'); sh.className = 'sheet';
@@ -3416,21 +3428,26 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     sh.innerHTML = '<div class="pn" style="padding-bottom:calc(env(safe-area-inset-bottom, 0px) + 28px)"><div class="hd"></div>' +
       '<div style="padding:0 20px 10px;font-size:13px;color:var(--dim);line-height:1.5">' +
       esc(opts.note || (many ? '한 번에 한 장씩 받습니다 (폰이 여러 장을 한꺼번에 받는 걸 막아서요). 아래 버튼을 장 수만큼 눌러 주세요.' : '받기를 눌러 주세요.')) + '</div>' +
-      '<button data-act="nx" class="dlnx"' + (next >= n ? ' disabled' : '') + '>' + esc(label()) + '</button>' +
+      (urls ? '<a data-act="nx" class="dlnx btnlike" target="_blank" rel="noopener" href="' + escU(next < n ? att(next) : '#') + '">' + esc(label()) + '</a>'
+        : '<button data-act="nx" class="dlnx"' + (next >= n ? ' disabled' : '') + '>' + esc(label()) + '</button>') +
       (many ? '<div class="dlg">' + fs.map(function (f, k) {
-        return '<button data-dl="' + k + '"' + (got[k] ? ' class="on"' : '') + '>' + (k + 1) + '장' + (got[k] ? ' ✓' : '') + '</button>'; }).join('') + '</div>' : '') +
+        return urls ? '<a data-dl="' + k + '" class="btnlike' + (got[k] ? ' on' : '') + '" target="_blank" rel="noopener" href="' + escU(att(k)) + '">' + (k + 1) + '장' + (got[k] ? ' ✓' : '') + '</a>'
+          : '<button data-dl="' + k + '"' + (got[k] ? ' class="on"' : '') + '>' + (k + 1) + '장' + (got[k] ? ' ✓' : '') + '</button>'; }).join('') + '</div>' : '') +
       (opts.after ? '<button data-act="go">' + esc(opts.after[0]) + (opts.after[2] ? '<small>' + esc(opts.after[2]) + '</small>' : '') + '</button>' : '') +
       '<button data-act="x">닫기</button></div>';
     function mark(k) {
       var c = sh.querySelector('[data-dl="' + k + '"]'); if (c) { c.classList.add('on'); c.textContent = (k + 1) + '장 ✓'; }
       while (next < n && got[next]) next++;
-      var b = sh.querySelector('.dlnx'); if (b) { b.textContent = label(); b.disabled = next >= n; }
+      var b = sh.querySelector('.dlnx');
+      if (b) { b.textContent = label(); if (urls) { b.setAttribute('href', next < n ? att(next) : '#'); b.classList.toggle('done', next >= n); } else b.disabled = next >= n; }
     }
     sh.addEventListener('click', function (e) {
       var d = e.target.closest('[data-dl]');
-      if (d) { var k = Number(d.getAttribute('data-dl')); take(k); mark(k); return; }
+      if (d) { var k = Number(d.getAttribute('data-dl')); take(k); setTimeout(function () { mark(k); }, 0); return; }   // 주소 받기는 링크가 그대로 연다
       var b = e.target.closest('[data-act]');
-      if (b && b.getAttribute('data-act') === 'nx') { if (next < n) { var k2 = next; take(k2); mark(k2); } return; }
+      if (b && b.getAttribute('data-act') === 'nx') {
+        if (next >= n) { e.preventDefault(); return; }
+        var k2 = next; take(k2); setTimeout(function () { mark(k2); }, 0); return; }
       if (e.target === sh || b) { sh.remove(); if (b && b.getAttribute('data-act') === 'go' && opts.after) opts.after[1](); }
     });
     document.body.appendChild(sh);
@@ -3467,7 +3484,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     if (!sl.length) { toast('아직 미리보기 이미지가 없습니다 — 캐러셀 스튜디오에서 열어 주세요'); return; }
     var pf = it.__pf && it.__pf.key === sl.join('|') && it.__pf.files;
     if (pf && /Android/i.test(navigator.userAgent)) {   // 10/23 — 공유 창 대신 바로 갤러리로 (인스타 1:1 자르기 피함)
-      dlSheet(pf);
+      dlSheet(pf, { urls: sl, stem: 'sene' });
       return;
     }
     if (pf && navigator.canShare && navigator.canShare({ files: pf })) {
@@ -4070,9 +4087,9 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.23 14:59';
+    a.title = '판 10.23 15:04';
     var ver = document.createElement('span');
-    ver.textContent = '10.23 14:59';
+    ver.textContent = '10.23 15:04';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
