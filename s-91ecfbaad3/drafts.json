@@ -1274,9 +1274,65 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724302/nkerjlsotrhck7de7gty.jpg",
      "key": "ePBZ8oF-0WI@61.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-23T14:53+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1792735151/sene_studio/xetklxsiinqf7hjdb9jc.mp4",
+     "at": "2026-10-23T14:59+09:00",
+     "file": "GeuLiGo_JaeHon_Seung_YoGuHabNiDa_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1792735152624-0a3722ca",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.54,
+        "text": "복수하면 되겠다"
+       },
+       {
+        "start": 2.54,
+        "end": 3.81,
+        "text": "아주 아름답고"
+       },
+       {
+        "start": 3.81,
+        "end": 6.62,
+        "text": "신분 높은 남자를 애인으로 만들어요"
+       },
+       {
+        "start": 6.62,
+        "end": 7.8,
+        "text": "동대제국 황궁에서"
+       },
+       {
+        "start": 7.8,
+        "end": 9.92,
+        "text": "치정사건을 일으키고 싶으십니까?"
+       },
+       {
+        "start": 9.92,
+        "end": 13.44,
+        "text": "이 삶은 왜 이렇게 변하고요?"
+       },
+       {
+        "start": 14.14,
+        "end": 17.44,
+        "text": "황후와 이혼을 해야겠다"
+       },
+       {
+        "start": 17.44,
+        "end": 20.18,
+        "text": "그럼 어떻게 되는 겁니까?"
+       },
+       {
+        "start": 20.18,
+        "end": 23.12,
+        "text": "이혼을 받아들이겠어요"
+       },
+       {
+        "start": 23.12,
+        "end": 26.28,
+        "text": "그리고 재혼 승인을 요구합니다"
+       }
+      ]
+     }
     }
    },
    "pick": {
@@ -1466,7 +1522,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T14:56+09:00"
+  "at": "2026-10-23T14:59+09:00"
  },
  "slots": {
   "basis": 0,
