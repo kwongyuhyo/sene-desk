@@ -1167,7 +1167,9 @@
      "at": "2026-10-23T11:55+09:00",
      "v": {
       "A": "7e4c3b1f",
-      "B": "88ceef85"
+      "B": "88ceef85",
+      "E": "72bd6447",
+      "J": "00330157"
      }
     }
    },
@@ -1222,7 +1224,57 @@
     "at": "2026-10-23T11:54+09:00"
    },
    "i18n_queued": "2026-10-23T11:54+09:00",
-   "corner_name": "그 말"
+   "corner_name": "그 말",
+   "i18n": {
+    "at": "2026-10-23T11:57+09:00",
+    "confirm": [
+     "일본어 제목: 일본 디즈니+ 공식 제목은 「再婚承認を要求します」(직역 '재혼 승인을 요구합니다'). 직역인 「再婚皇后」가 아니라 이것을 썼다. 숏폼 세 줄과 말이 맞아떨어진다.",
+     "영어 이름 표기: 영어 매체에 나온 디즈니 표기를 따랐다 — Heinrey(Heinley 아님), 감독 Cho Suwon, 작가 Yeoh Geena · Hyun Choongyeol. 배우 이름은 매체마다 Shin Mina / Shin Min-a 처럼 갈려서 하이픈 꼴을 썼다.",
+     "일본어 스태프 표기: 감독·작가의 공식 カタカナ 표기는 찾지 못했다. 로마자를 옮긴 チョ・スウォン · ヨ・ジナ · ヒョン・チュンヨル 에 처음 한 번 원어를 괄호로 붙였다.",
+     "일본 공개일: 할리우드 리포터 재팬은 11월 4일이라고 보도했지만, 디즈니+ 스타 공식 발표를 전한 기사에는 '2026년 가을'로만 나온다. 11월 4일(수)은 영어 매체와 원문으로 확인했다(첫 4화 공개 후 매주 수요일). 일본 공식 페이지도 확인이 필요하다.",
+     "예고편 장면(나비에가 이혼을 받아들이고 재혼 승인을 요구함)은 원문을 그대로 옮겼다. 영상 자막은 따로 확인하지 않았다."
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. It follows Navier (Shin Min-a), a flawless empress whose husband, Emperor Sovieshu (Ju Ji-hoon), tells her he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and demands approval to remarry in the same breath. Cho Suwon directs, from a script by Yeoh Geena and Hyun Choongyeol.\n\nPremiere: Wed, Nov 4 on Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #KDrama #ShinMinA #LeeJongSuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724074/secageza3ifxuo20oqeo.jpg\n제목: The Remarried Empress|On Disney+ Nov 4\n부제: Shin Min-a · Ju Ji-hoon · Lee Jong-suk · Lee Se-young\n출처: 디즈니플러스\n",
+      "caption": "The Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. It follows Navier (Shin Min-a), a flawless empress whose husband, Emperor Sovieshu (Ju Ji-hoon), tells her he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and demands approval to remarry in the same breath. Cho Suwon directs, from a script by Yeoh Geena and Hyun Choongyeol.\n\nPremiere: Wed, Nov 4 on Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #KDrama #ShinMinA #LeeJongSuk",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724242/tkmgqsc366kdwejg78xs.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724241/ux3lcfmre4vtlnxfukr1.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724242/tkmgqsc366kdwejg78xs.jpg"
+       },
+       "at": "2026-10-23T11:57+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:01-1:29\n곡: approval to remarry\n아티스트: And I demand\n피처링:\n후킹: I accept the divorce\n출처: Disney Plus Korea 디즈니 플러스 코리아\n자막: 자동",
+      "caption": "This is the scene where Empress Navier accepts the divorce.\n\nIt comes from the main trailer for the Disney+ series The Remarried Empress (@disneypluskr). After Emperor Sovieshu (Ju Ji-hoon) gives his heart to the runaway slave Rashta (Lee Se-young) and asks for a divorce, Navier (Shin Min-a) accepts it and demands approval to remarry in the same breath. Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nThe series is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Cho Suwon directs.\n\nPremiere: Wed, Nov 4 on Disney+\nVideo: Official trailer, Disney+ Korea\n#SENE #TheRemarriedEmpress #DisneyPlus #KDrama #ShinMinA #LeeJongSuk"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）が11月4日に配信されます。\n\n2018年にウェブ小説として連載が始まり、ウェブトゥーンへと続いた同名作品が原作です。皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた完璧な皇后ナビエ（シン・ミナ）の物語で、皇帝が心を寄せる逃亡奴隷ラスタをイ・セヨン、西王国の王子ハインリをイ・ジョンソクが演じます。\n\n予告編の最後で、ナビエは離婚を受け入れると告げ、あわせて再婚の承認を求めます。演出はチョ・スウォン（조수원）監督、脚本はヨ・ジナ（여지나）さんとヒョン・チュンヨル（현충열）さんです。\n\n配信：11月4日（水）ディズニープラス\n#SENE #再婚承認を要求します #ディズニープラス #韓国ドラマ #シンミナ #イジョンソク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724074/secageza3ifxuo20oqeo.jpg\n제목: 『再婚承認を要求します』|11月4日ディズニープラス配信\n부제: シン・ミナ・チュ・ジフン・イ・ジョンソク・イ・セヨン\n출처: 디즈니플러스\n",
+      "caption": "ディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）が11月4日に配信されます。\n\n2018年にウェブ小説として連載が始まり、ウェブトゥーンへと続いた同名作品が原作です。皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた完璧な皇后ナビエ（シン・ミナ）の物語で、皇帝が心を寄せる逃亡奴隷ラスタをイ・セヨン、西王国の王子ハインリをイ・ジョンソクが演じます。\n\n予告編の最後で、ナビエは離婚を受け入れると告げ、あわせて再婚の承認を求めます。演出はチョ・スウォン（조수원）監督、脚本はヨ・ジナ（여지나）さんとヒョン・チュンヨル（현충열）さんです。\n\n配信：11月4日（水）ディズニープラス\n#SENE #再婚承認を要求します #ディズニープラス #韓国ドラマ #シンミナ #イジョンソク",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724244/lchpi4u5grwvabhycmf4.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724244/ifiq4pydyacmihbqcvfa.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724244/lchpi4u5grwvabhycmf4.jpg"
+       },
+       "at": "2026-10-23T11:57+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:01-1:29\n곡: 要求します\n아티스트: そして再婚承認を\n피처링:\n후킹: 離婚を受け入れます\n출처: Disney Plus Korea 디즈니 플러스 코리아\n자막: 자동",
+      "caption": "皇后ナビエが離婚を受け入れる場面です。\n\nディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）の本予告の一場面です。皇帝ソビエシュ（チュ・ジフン）が逃亡奴隷ラスタ（イ・セヨン）に心を寄せて離婚を切り出すと、ナビエ（シン・ミナ）は離婚を受け入れ、あわせて再婚の承認を求めます。西王国の王子ハインリはイ・ジョンソクが演じます。\n\n2018年にウェブ小説として始まり、ウェブトゥーンへと続いた同名作品が原作で、演出はチョ・スウォン（조수원）監督です。\n\n配信：11月4日（水）ディズニープラス\n映像：ディズニープラス韓国 公式予告編\n#SENE #再婚承認を要求します #ディズニープラス #韓国ドラマ #シンミナ #イジョンソク"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1353,7 +1405,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T11:56+09:00"
+  "at": "2026-10-23T11:57+09:00"
  },
  "slots": {
   "basis": 0,
