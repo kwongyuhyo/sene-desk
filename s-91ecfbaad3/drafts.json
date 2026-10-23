@@ -2499,9 +2499,70 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760336/gykjxukmpxhaperea2ix.jpg",
      "key": "h10O7nFzQVQ@0.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-23T21:59+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1792760541/sene_studio/q1kxq1rge5jnmfqaadbk.mp4",
+     "at": "2026-10-23T22:02+09:00",
+     "file": "JamSuGyoE_ChaGa_Mos_DaNibNiDa_ISyu_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1792760542933-67f5cbe2",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 4.22,
+        "text": "서울시는 오는 26일부터 잠수교 차량 통행을"
+       },
+       {
+        "start": 4.22,
+        "end": 5.79,
+        "text": "전면 통제하고"
+       },
+       {
+        "start": 5.79,
+        "end": 8.86,
+        "text": "첫 한강 보행 전용교 조성 공사에"
+       },
+       {
+        "start": 8.86,
+        "end": 10.22,
+        "text": "들어갑니다"
+       },
+       {
+        "start": 10.22,
+        "end": 13.96,
+        "text": "잠수교는 1976년 한강 남북을 연결하는"
+       },
+       {
+        "start": 13.96,
+        "end": 16.41,
+        "text": "차량 통행 교량으로 개통했지만"
+       },
+       {
+        "start": 16.41,
+        "end": 20.26,
+        "text": "50년 만에 전면 보행 공간으로 전환됩니다"
+       },
+       {
+        "start": 20.26,
+        "end": 23.44,
+        "text": "서울시는 향후 조망 공간과 함께 한강이"
+       },
+       {
+        "start": 23.44,
+        "end": 25.43,
+        "text": "내려다보이는 투명 데크 등을"
+       },
+       {
+        "start": 25.43,
+        "end": 26.5,
+        "text": "설치할 예정입니다"
+       },
+       {
+        "start": 26.5,
+        "end": 29.98,
+        "text": "공사 시작 이후에도 보행자와 자전거 이용은"
+       }
+      ]
+     }
     }
    },
    "pick": {
@@ -2939,7 +3000,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T22:01+09:00"
+  "at": "2026-10-23T22:02+09:00"
  },
  "slots": {
   "basis": 0,
