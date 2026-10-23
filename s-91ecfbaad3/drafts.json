@@ -235,7 +235,9 @@
      "v": {
       "A": "77c4428e",
       "B": "2c332f00",
-      "C": "725c5ac3"
+      "C": "725c5ac3",
+      "E": "c25956df",
+      "J": "51a0240b"
      }
     }
    },
@@ -245,7 +247,48 @@
     "why": "저스틴 비버 방한과 SKYLRK 성수 팝업이 오늘 가장 많이 이야기되고, 일요일에 끝난다",
     "at": "2026-10-23T11:46+09:00"
    },
-   "i18n_queued": "2026-10-23T11:46+09:00"
+   "i18n_queued": "2026-10-23T11:46+09:00",
+   "i18n": {
+    "at": "2026-10-23T11:50+09:00",
+    "confirm": [
+     "번역 중 확인한 것: 브랜드 표기 SKYLRK(일본어 매체 표기 「SKYLRK（スカイラーク）」), 서울 팝업 10월 22일~25일·성수동 개최, 한국 첫 팝업이라는 점까지만. 이 내용은 보그 코리아 기사 한 곳에서만 봤습니다.",
+     "원문에 상세 주소가 없어 영어·일본어판 장소 줄도 '성동구 성수동' 까지만 적었습니다. 외국 독자를 위해 정확한 주소를 공식 계정에서 확인해 두면 좋겠습니다.",
+     "인천공항 도착(23일 새벽·헤일리 비버 동행), 13년 만의 방한, 인스타그램 'Made it to Seoul' 게시물은 원문 그대로 옮겼고 직접 확인하지 않았습니다.",
+     "현장에서 파는 품목(의류·신발·아이웨어·오디오)과 오전 10시 오픈도 원문 그대로입니다. 10월 20일 보그 코리아 기사에는 품목이 아직 공개되지 않았다고 나와 있으니 공식 계정의 최신 공지와 맞춰 봐 주세요."
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nJustin Bieber's brand SKYLRK is holding its first Seoul pop-up in Seongsu-dong.\n\nBieber landed at Incheon Airport early on the 23rd with Hailey Bieber, marking a first visit to Korea in 13 years, since the 2013 concert here. The same day, Bieber posted photos from the trip to Seoul on Instagram with the words 'Made it to Seoul.'\n\nAt the pop-up, the brand's apparel, footwear, eyewear and audio products are available to buy on site. It closes on Sunday.\n\nDates: Oct 22 (Thu) – Oct 25 (Sun)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nHours: Opens at 10 a.m.\n\n#SENE #SKYLRK #JustinBieber #SeoulPopup #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792712798/u7rzgjf1oq00bzjtvtcg.jpg\n제목: Justin Bieber's brand|Seongsu pop-up to Oct 25\n부제: SKYLRK's first Seoul pop-up · Oct 22–25\n출처: @skylrk\n",
+      "caption": "Justin Bieber's brand SKYLRK is holding its first Seoul pop-up in Seongsu-dong.\n\nBieber landed at Incheon Airport early on the 23rd with Hailey Bieber, marking a first visit to Korea in 13 years, since the 2013 concert here. The same day, Bieber posted photos from the trip to Seoul on Instagram with the words 'Made it to Seoul.'\n\nAt the pop-up, the brand's apparel, footwear, eyewear and audio products are available to buy on site. It closes on Sunday.\n\nDates: Oct 22 (Thu) – Oct 25 (Sun)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nHours: Opens at 10 a.m.\n\n#SENE #SKYLRK #JustinBieber #SeoulPopup #Seongsu",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723809/pnuxmkddg6ffruujnssf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723808/rztl3qbzzmsub32xvclv.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723809/pnuxmkddg6ffruujnssf.jpg"
+       },
+       "at": "2026-10-23T11:50+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nジャスティン・ビーバーのブランドSKYLRK（スカイラーク）が、ソウル・聖水洞（ソンスドン）でソウル初のポップアップを開いています。\n\nビーバーは23日未明、ヘイリー・ビーバーとともに仁川空港に到着しました。2013年の来韓公演以来、13年ぶりの韓国訪問です。同じ日、Instagramに「Made it to Seoul」という言葉とともに、ソウルへ向かう道中の写真を投稿しました。\n\nポップアップでは、ブランドのウェアやシューズ、アイウェア、オーディオ製品をその場で購入できます。最終日は日曜日です。\n\n期間：10月22日（木）〜10月25日（日）\n場所：ソウル・城東区（ソンドング）聖水洞\n営業時間：午前10時オープン\n\n#SENE #SKYLRK #ジャスティンビーバー #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792712798/u7rzgjf1oq00bzjtvtcg.jpg\n제목: ジャスティン・ビーバーの|聖水ポップアップ25日まで\n부제: SKYLRK ソウル初ポップアップ・10月22日〜25日\n출처: @skylrk\n",
+      "caption": "ジャスティン・ビーバーのブランドSKYLRK（スカイラーク）が、ソウル・聖水洞（ソンスドン）でソウル初のポップアップを開いています。\n\nビーバーは23日未明、ヘイリー・ビーバーとともに仁川空港に到着しました。2013年の来韓公演以来、13年ぶりの韓国訪問です。同じ日、Instagramに「Made it to Seoul」という言葉とともに、ソウルへ向かう道中の写真を投稿しました。\n\nポップアップでは、ブランドのウェアやシューズ、アイウェア、オーディオ製品をその場で購入できます。最終日は日曜日です。\n\n期間：10月22日（木）〜10月25日（日）\n場所：ソウル・城東区（ソンドング）聖水洞\n営業時間：午前10時オープン\n\n#SENE #SKYLRK #ジャスティンビーバー #聖水 #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723812/reumwpzekyxd9w0siuvg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723812/art0hnlqzpedcjwelef5.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723812/reumwpzekyxd9w0siuvg.jpg"
+       },
+       "at": "2026-10-23T11:50+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1348,7 +1391,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T11:49+09:00"
+  "at": "2026-10-23T11:50+09:00"
  },
  "slots": {
   "basis": 0,
