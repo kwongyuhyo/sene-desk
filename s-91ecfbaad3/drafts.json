@@ -1860,7 +1860,9 @@
      "at": "2026-10-23T17:45+09:00",
      "v": {
       "A": "60729766",
-      "B": "6649c625"
+      "B": "6649c625",
+      "E": "6bc1d133",
+      "J": "94d92eed"
      }
     }
    },
@@ -1923,7 +1925,57 @@
     "at": "2026-10-23T17:45+09:00"
    },
    "i18n_queued": "2026-10-23T17:45+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-23T17:47+09:00",
+    "confirm": [
+     "검색에서 'D'FESTA THE ORIGIN'(IFC몰 MPX 갤러리)의 영어·일본어 공식 표기 자료를 찾지 못했습니다. 그래서 전시명은 원문 영문 그대로 두었고, 'MPX Gallery / MPXギャラリー'와 'IFC Mall / IFCモール'은 직접 옮긴 표기입니다. 올리기 전에 공식 표기를 확인해 주세요.",
+     "'내년 1월 도쿄' 일정은 원문대로 옮겼지만, 검색에서는 이번 전시의 도쿄 일정 공지를 찾지 못했습니다(2024년 'D'FESTA JAPAN FINAL'만 나옵니다). 원문의 근거를 다시 확인해 주세요.",
+     "예매처 'NOL 티켓'은 영어 'NOL Ticket', 일본어 'NOLチケット'으로 적었습니다. 판매처의 공식 영어·일본어 표기는 확인하지 못했습니다.",
+     "주소의 영어 로마자 표기(10 Gukjegeumyung-ro, Yeongdeungpo-gu)와 일본어 표기(永登浦区国際金融路10)는 직접 옮긴 것입니다.",
+     "원문 시간은 '마감 오후 8시 40분, 입장 마감 오후 7시'로 간격이 꽤 깁니다. 그대로 옮겼으니 공식 안내와 한 번 대조해 주세요."
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n'D'FESTA THE ORIGIN', an exhibition featuring 48 K-pop artists, opens today in Yeouido, Seoul.\n\nNine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS. The photos and videos were shot over about two years on more than 30 sets, and they are now gathered in one gallery.\n\nOn the walls are 'HUES OF BLACK', black-and-white portraits measuring 4m × 8m, and 'KANON NO. 48', a large-scale film the 48 artists completed together. Drawings by the members and handwritten letters to fans hang alongside them. After Seoul, the exhibition goes to Tokyo next January.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu (Yeouido), Seoul\nHours: Daily 11 a.m. – 8:40 p.m. (last entry 7 p.m.)\nPrice: General admission KRW 32,000 · Tickets via NOL Ticket\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMallSeoul\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745115/ejw1lzquu1adbszng2zq.jpg\n제목: A 48-artist K-pop show|opens in Yeouido\n부제: D'FESTA THE ORIGIN · Oct 23 – Nov 30 · IFC Mall\n출처: 디페스타\n",
+      "caption": "'D'FESTA THE ORIGIN', an exhibition featuring 48 K-pop artists, opens today in Yeouido, Seoul.\n\nNine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS. The photos and videos were shot over about two years on more than 30 sets, and they are now gathered in one gallery.\n\nOn the walls are 'HUES OF BLACK', black-and-white portraits measuring 4m × 8m, and 'KANON NO. 48', a large-scale film the 48 artists completed together. Drawings by the members and handwritten letters to fans hang alongside them. After Seoul, the exhibition goes to Tokyo next January.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu (Yeouido), Seoul\nHours: Daily 11 a.m. – 8:40 p.m. (last entry 7 p.m.)\nPrice: General admission KRW 32,000 · Tickets via NOL Ticket\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMallSeoul",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745259/axputcxrigsyzbpgbnfm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745259/gbztsrwva61kbwxgoatd.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745259/axputcxrigsyzbpgbnfm.jpg"
+       },
+       "at": "2026-10-23T17:47+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: Yeouido, to Nov 30\n아티스트: in a single film\n피처링:\n후킹: 48 K-pop artists\n출처: 디스패치 / Dispatch\n자막: 자동",
+      "caption": "This is a scene from 'KANON NO. 48', a large-scale film the 48 artists completed together.\n\nIt is one of the works in 'D'FESTA THE ORIGIN', which opens today at MPX Gallery in IFC Mall, Yeouido. Nine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS.\n\nBlack-and-white portraits, drawings by the members and handwritten letters to fans are also on display.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, Yeongdeungpo-gu (Yeouido), Seoul\nPrice: General admission KRW 32,000 · Tickets via NOL Ticket\nVideo: Dispatch official YouTube\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMallSeoul"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nK-POPアーティスト48人が参加した展示「D'FESTA THE ORIGIN」が、本日ソウル・汝矣島（ヨイド）で開幕しました。\n\nG-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組です。約2年にわたり30以上の撮影セットで撮った写真と映像を、ひとつの会場に集めました。\n\n4m×8mのモノクロポートレート「HUES OF BLACK」、48人がともに完成させた大型映像「KANON NO. 48」、メンバー自身が描いた絵とファンへの手紙が展示されています。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・汝矣島（ヨイド） 永登浦区国際金融路10 IFCモール L3 MPXギャラリー\n営業時間：毎日11:00〜20:40（入場締切19:00）\n料金：一般32,000ウォン・予約はNOLチケット\n#SENE #ディフェスタ #韓国旅行 #汝矣島 #ソウル展示\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745115/ejw1lzquu1adbszng2zq.jpg\n제목: Kポップ48人の展示、|汝矣島で開幕\n부제: D'FESTA THE ORIGIN・10/23〜11/30・IFCモール\n출처: 디페스타\n",
+      "caption": "K-POPアーティスト48人が参加した展示「D'FESTA THE ORIGIN」が、本日ソウル・汝矣島（ヨイド）で開幕しました。\n\nG-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組です。約2年にわたり30以上の撮影セットで撮った写真と映像を、ひとつの会場に集めました。\n\n4m×8mのモノクロポートレート「HUES OF BLACK」、48人がともに完成させた大型映像「KANON NO. 48」、メンバー自身が描いた絵とファンへの手紙が展示されています。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・汝矣島（ヨイド） 永登浦区国際金融路10 IFCモール L3 MPXギャラリー\n営業時間：毎日11:00〜20:40（入場締切19:00）\n料金：一般32,000ウォン・予約はNOLチケット\n#SENE #ディフェスタ #韓国旅行 #汝矣島 #ソウル展示",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745262/yuqn4zosugz5a5rjjucy.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745262/iifgyekwtq1dzhm2zdj5.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745262/yuqn4zosugz5a5rjjucy.jpg"
+       },
+       "at": "2026-10-23T17:47+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: 汝矣島で11月30日まで\n아티스트: ひとつの映像に\n피처링:\n후킹: Kポップ48人が\n출처: 디스패치 / Dispatch\n자막: 자동",
+      "caption": "48人がともに完成させた大型映像「KANON NO. 48」のワンシーンです。\n\n本日、汝矣島（ヨイド）のIFCモール MPXギャラリーで開幕した展示「D'FESTA THE ORIGIN」の作品です。G-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組が参加しました。\n\nモノクロポートレート、メンバー自身が描いた絵、ファンへの手紙もあわせて展示されています。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・汝矣島（ヨイド） 永登浦区 IFCモール L3 MPXギャラリー\n料金：一般32,000ウォン・予約はNOLチケット\n映像：Dispatch公式YouTube\n#SENE #ディフェスタ #韓国旅行 #汝矣島 #ソウル展示"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -2054,7 +2106,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T17:46+09:00"
+  "at": "2026-10-23T17:47+09:00"
  },
  "slots": {
   "basis": 0,
