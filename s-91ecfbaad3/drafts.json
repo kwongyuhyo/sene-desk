@@ -1937,9 +1937,20 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745280/rucuxivb4eejck0a6lqi.jpg",
      "key": "M_VN5rC9CzU@15.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-23T17:48+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1792745575/sene_studio/q26m1mrvsm6pfnlgfx0i.mp4",
+     "at": "2026-10-23T17:52+09:00",
+     "file": "Han_JagPumE_MoYeossD_YeoUiDo_11Wol_30IlKk_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1792745576272-b82f1db7",
+      "segs": [
+       {
+        "start": 26.64,
+        "end": 29.84,
+        "text": "다음 영상에서 만나요"
+       }
+      ]
+     }
     }
    },
    "pick": {
@@ -2128,7 +2139,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T17:50+09:00"
+  "at": "2026-10-23T17:52+09:00"
  },
  "slots": {
   "basis": 0,
