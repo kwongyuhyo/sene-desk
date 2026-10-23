@@ -1536,11 +1536,54 @@
      "v": {
       "A": "756d3398",
       "B": "366ba551",
-      "C": "215fab0c"
+      "C": "215fab0c",
+      "E": "690e37e1",
+      "J": "e48e3f90"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-23T18:09+09:00",
+    "confirm": [
+     "회사명 영어 표기 'Barunson E&A' 는 Screen Daily·Deadline 등 여러 해외 보도에서 확인. 일본어 'バルンソンE&A' 는 검색 요약에만 나와 공식 일본어 표기는 확인 못 함 — 처음 한 번 원어(바른손이앤에이)를 괄호로 붙였습니다",
+     "일본어판 영화 제목은 일본 개봉명 『パラサイト 半地下の家族』로 처음 한 번 쓰고, 그 뒤는 『パラサイト』로 줄였습니다",
+     "'각본상'은 아카데미 정식 부문명에 맞춰 영어는 Best Original Screenplay, 일본어는 脚本賞으로 옮겼습니다",
+     "상장폐지 사유·거래 정지일 같은 사실은 번역 작업이라 한국어 원문대로 옮겼고 따로 다시 확인하지 않았습니다 — 올리기 전 한국거래소 공시를 다시 확인해 주세요"
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nTrading in shares of Barunson E&A, the production company behind the film \"Parasite,\" has been halted since Oct 23.\n\nOn Oct 22, the KOSDAQ Market Division of the Korea Exchange disclosed that the company now faces grounds for delisting. After its share price fell below KRW 1,000 and it was designated an administrative issue, it failed to hold a closing price of KRW 1,000 or more for 45 consecutive trading days within 90 trading days.\n\nIn 2019, \"Parasite\" became the first Korean film to win the Palme d'Or at the Cannes Film Festival, and the following year it won Best Picture, Best Director, Best Original Screenplay and Best International Feature Film at the Academy Awards. What the film achieved and whether its producer stays on the stock market are decided separately. The exchange has not yet announced a final delisting date.\n\nTrading halt: From Oct 23 (Fri)\nResumption: To be announced by the Korea Exchange\n\n#SENE #Parasite #BarunsonEA #BongJoonho #KoreanFilm\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792742718/jalri0mjohcgntmcfbiz.jpg\n제목: 'Parasite' Producer|Shares Halted\n부제: Barunson E&A, from Oct 23\n출처: 영화 〈기생충〉\n",
+      "caption": "Trading in shares of Barunson E&A, the production company behind the film \"Parasite,\" has been halted since Oct 23.\n\nOn Oct 22, the KOSDAQ Market Division of the Korea Exchange disclosed that the company now faces grounds for delisting. After its share price fell below KRW 1,000 and it was designated an administrative issue, it failed to hold a closing price of KRW 1,000 or more for 45 consecutive trading days within 90 trading days.\n\nIn 2019, \"Parasite\" became the first Korean film to win the Palme d'Or at the Cannes Film Festival, and the following year it won Best Picture, Best Director, Best Original Screenplay and Best International Feature Film at the Academy Awards. What the film achieved and whether its producer stays on the stock market are decided separately. The exchange has not yet announced a final delisting date.\n\nTrading halt: From Oct 23 (Fri)\nResumption: To be announced by the Korea Exchange\n\n#SENE #Parasite #BarunsonEA #BongJoonho #KoreanFilm",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746547/yuf177uxib82sv3sx8sh.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746546/mk89e3qjx9rcp5jas5lh.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746547/yuf177uxib82sv3sx8sh.jpg"
+       },
+       "at": "2026-10-23T18:09+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n映画『パラサイト 半地下の家族』を制作したバルンソンE&A（바른손이앤에이）の株式取引が、10月23日から停止されています。\n\n韓国取引所コスダック市場本部が22日、同社に上場廃止事由が発生したと公示しましたが、理由は株価が1,000ウォンを下回って管理銘柄に指定された後、90取引日以内に終値1,000ウォン以上を45取引日連続で維持できなかったことです。\n\n『パラサイト』は2019年、韓国映画として初めてカンヌ国際映画祭のパルム・ドールを受賞し、翌年のアカデミー賞では作品賞・監督賞・脚本賞・国際長編映画賞を受賞した作品です。映画が残した記録と、制作会社が株式市場に残るかどうかは別々に決まります。取引所は最終的な上場廃止日をまだ明らかにしていません。\n\n取引停止：10月23日（金）から\n解除：韓国取引所が追って案内\n\n#SENE #パラサイト #ポンジュノ #韓国映画 #バルンソンEA\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792742718/jalri0mjohcgntmcfbiz.jpg\n제목: 『パラサイト』制作会社|株式取引停止\n부제: バルンソンE&A、10月23日から\n출처: 영화 〈기생충〉\n",
+      "caption": "映画『パラサイト 半地下の家族』を制作したバルンソンE&A（바른손이앤에이）の株式取引が、10月23日から停止されています。\n\n韓国取引所コスダック市場本部が22日、同社に上場廃止事由が発生したと公示しましたが、理由は株価が1,000ウォンを下回って管理銘柄に指定された後、90取引日以内に終値1,000ウォン以上を45取引日連続で維持できなかったことです。\n\n『パラサイト』は2019年、韓国映画として初めてカンヌ国際映画祭のパルム・ドールを受賞し、翌年のアカデミー賞では作品賞・監督賞・脚本賞・国際長編映画賞を受賞した作品です。映画が残した記録と、制作会社が株式市場に残るかどうかは別々に決まります。取引所は最終的な上場廃止日をまだ明らかにしていません。\n\n取引停止：10月23日（金）から\n解除：韓国取引所が追って案内\n\n#SENE #パラサイト #ポンジュノ #韓国映画 #バルンソンEA",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746549/tr68yro7n8v9djiqzel8.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746549/o5wdmkpmbyilygu8x4f7.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746549/tr68yro7n8v9djiqzel8.jpg"
+       },
+       "at": "2026-10-23T18:09+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2139,7 +2182,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T17:52+09:00"
+  "at": "2026-10-23T18:09+09:00"
  },
  "slots": {
   "basis": 0,
