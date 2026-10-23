@@ -2445,8 +2445,8 @@
      "v": {
       "A": "e7055d70",
       "B": "6f603489",
-      "E": "b2385af9",
-      "J": "32478009"
+      "E": "38c5704d",
+      "J": "5ea15b7c"
      }
     }
    },
@@ -2512,70 +2512,57 @@
    "i18n_queued": "2026-10-23T21:58+09:00",
    "corner_name": "이슈",
    "i18n": {
-    "at": "2026-10-23T21:59+09:00",
+    "at": "2026-10-23T22:01+09:00",
     "confirm": [
-     "The bus stop names are my own translations: 'Banpo Hangang Park·Sebitseom' and 'Banpo Bridge South·Hangang Citizen Park Entrance' in English, and 「盤浦漢江公園・セビッソム」 and 「盤浦大橋南端・漢江市民公園入口」 in Japanese. Please check them against the official English and Japanese names before posting.",
-     "The festival's English spelling is inconsistent across articles (Ttubeok-ttubeok / Ttubeokttubeok and others). I used 'Car-Free Jamsugyo Ttubeok Ttubeok Festival'. The Japanese 「トゥボットゥボッ祭り」 is a katakana rendering with the Korean name added in brackets.",
-     "Some articles give the opening schedule differently (one says the first half of 2027). The translations follow the Korean original, which says the second half of 2027.",
-     "영어 · 축제 이름: 서울시 영문 표기는 'Car-free Jamsu Bridge Ttubeok-ttubeok Festival'(코리아헤럴드 게재 서울시 제공), 매체마다 Ttubuk ttubuk 등으로 갈림 — 번역문은 다리 이름을 Jamsugyo로 통일해 두었으니 공식 표기를 따를지 확인",
-     "영어 · 정류장 이름 'Banpo Hangang Park·Sebitseom' · 'Banpo Bridge South·Hangang Citizen Park Entrance'는 실제 버스 정류장 영문 표기와 다를 수 있음 (세빛섬의 공식 영문은 Some Sevit) — 서울 버스 정류장 영문명 확인 권장",
-     "빅 이슈성 교통 통제 소식 — 올리기 전 서울시 최신 공식 발표(통제 시각·우회 노선·폐쇄 정류장) 다시 확인"
+     "축제 영어 표기는 'Car-Free Jamsugyo Ttubeok Ttubeok Festival'로 했습니다. 코리아헤럴드에 'Car-free Jamsu Bridge Ttubeok-ttubeok Festival'로 나와 있어 띄어쓰기와 표기를 맞추면 좋겠습니다. 일본어 「トゥボットゥボッ祭り」는 공식 표기를 찾지 못해 소리 나는 대로 옮겼습니다.",
+     "정류장 이름 'Banpo Hangang Park·Some Sevit'과 'Banpo Bridge South End·Hangang Park Entrance'(일본어 「盤浦漢江公園・セビッソム」·「盤浦大橋南端・漢江市民公園入口」)는 공식 다국어 정류장 표기를 확인하지 못하고 옮긴 이름입니다.",
+     "출처 칸의 서울시와 연합뉴스TV는 각 언어의 통용 이름(Seoul Metropolitan Government / Yonhap News TV, ソウル市 / 聯合ニュースTV)으로 바꿨습니다. 한국어 그대로 두려면 되돌려 주세요."
     ],
     "review": {
-     "at": "2026-10-23T21:59+09:00",
+     "at": "2026-10-23T22:01+09:00",
      "fixes": [
-      "영어 · 숏폼 후킹 · From Monday midnight → From 12 a.m. Monday — 'Monday midnight'은 월요일 밤(끝)으로도 읽혀 하루가 어긋날 수 있음",
-      "영어 · 부제 · from midnight Oct 26 → from 12 a.m. Oct 26 — 같은 이유(자정 모호)",
-      "영어 · 캡션 첫 문장 · at midnight on the 26th → at 12 a.m. on Monday, Oct 26 — 자정 모호 해소, 요일은 원문 실용 정보 줄에 있는 사실",
-      "영어 · 캡션 실용 정보 · from midnight, Mon, Oct 26 → from 12 a.m., Mon, Oct 26 — 자정 모호",
-      "영어 · 숏폼 캡션 · 'From midnight on the 26th… That is when this year's last … ends this Sunday.' → 'From 12 a.m. on Monday, Oct 26, … right as this year's last … wraps up on Sunday.' — 자정 모호 + 'That is when … this Sunday' 직역투",
-      "영어 · 숏폼 캡션 실용 정보 · From midnight → From 12 a.m.",
-      "일본어 · 캡션 둘째 단락 · 「開通してから50年目のことですが、」→「開通してから50年、」 — '~ですが' 연결이 직역투이고 '50年目'은 51년째로도 읽혀 원문 '50년 만'과 어긋남"
+      "영어 · 숏폼 캡션 둘째 단락 · 'That is when this year's final Ttubeok Ttubeok Festival ends this Sunday.' → 앞 문장에 대시로 이어 '— the moment this year's final Ttubeok Ttubeok Festival ends on Sunday.' — 따로 떨어진 문장이라 어색한 직역투로 읽힘"
      ],
-     "doubt": [
-      "영어 · 축제 이름: 서울시 영문 표기는 'Car-free Jamsu Bridge Ttubeok-ttubeok Festival'(코리아헤럴드 게재 서울시 제공), 매체마다 Ttubuk ttubuk 등으로 갈림 — 번역문은 다리 이름을 Jamsugyo로 통일해 두었으니 공식 표기를 따를지 확인",
-      "영어 · 정류장 이름 'Banpo Hangang Park·Sebitseom' · 'Banpo Bridge South·Hangang Citizen Park Entrance'는 실제 버스 정류장 영문 표기와 다를 수 있음 (세빛섬의 공식 영문은 Some Sevit) — 서울 버스 정류장 영문명 확인 권장",
-      "빅 이슈성 교통 통제 소식 — 올리기 전 서울시 최신 공식 발표(통제 시각·우회 노선·폐쇄 정류장) 다시 확인"
-     ]
+     "doubt": []
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\nJamsugyo Bridge closes to all vehicles at 12 a.m. on Monday, Oct 26.\n\nThe bridge opened to cars in 1976, 50 years ago. The Seoul Metropolitan Government (@seoul_official) now begins work to turn it into Seoul's first pedestrian-only bridge over the Han River, aiming to open it in the second half of 2027. The closure starts when this year's last Car-Free Jamsugyo Ttubeok Ttubeok Festival ends this Sunday.\n\nDuring construction, people can still cross on foot or by bike. Pedestrians and cyclists are blocked only during paving work from May to August 2027. Bus routes 405 and 740, which used to cross Jamsugyo, will detour via Banpo Bridge. When finished, the bridge will have 22 viewing spots and a transparent deck over the section where boats pass.\n\nClosure: All vehicles banned from 12 a.m., Mon, Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge · 2 stops at the south end ('Banpo Hangang Park·Sebitseom') closed → use the 'Banpo Bridge South·Hangang Citizen Park Entrance' stops\nTarget opening: Second half of 2027\n#SENE #Jamsugyo #SeoulTravel #HanRiver #BanpoHangangPark\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792760212/jepgnwui5y5e6w38e95n.jpg\n제목: Jamsugyo Bridge Closes|to Cars From Monday\n부제: Full vehicle ban from 12 a.m. Oct 26 · Construction for a pedestrian-only bridge\n출처: Seoul Metropolitan Government\n",
-      "caption": "Jamsugyo Bridge closes to all vehicles at 12 a.m. on Monday, Oct 26.\n\nThe bridge opened to cars in 1976, 50 years ago. The Seoul Metropolitan Government (@seoul_official) now begins work to turn it into Seoul's first pedestrian-only bridge over the Han River, aiming to open it in the second half of 2027. The closure starts when this year's last Car-Free Jamsugyo Ttubeok Ttubeok Festival ends this Sunday.\n\nDuring construction, people can still cross on foot or by bike. Pedestrians and cyclists are blocked only during paving work from May to August 2027. Bus routes 405 and 740, which used to cross Jamsugyo, will detour via Banpo Bridge. When finished, the bridge will have 22 viewing spots and a transparent deck over the section where boats pass.\n\nClosure: All vehicles banned from 12 a.m., Mon, Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge · 2 stops at the south end ('Banpo Hangang Park·Sebitseom') closed → use the 'Banpo Bridge South·Hangang Citizen Park Entrance' stops\nTarget opening: Second half of 2027\n#SENE #Jamsugyo #SeoulTravel #HanRiver #BanpoHangangPark",
+      "form": "[카테고리]\n이슈\n\n[캡션]\nJamsugyo Bridge closes to all vehicle traffic from midnight on Monday, Oct 26.\n\nThe closure comes 50 years after the bridge opened to cars in 1976. The Seoul Metropolitan Government (@seoul_official) is starting work to turn Jamsugyo into Seoul's first pedestrian-only bridge over the Han River, with opening targeted for the second half of 2027. The closure begins as this year's final Car-Free Jamsugyo Ttubeok Ttubeok Festival ends this Sunday.\n\nPedestrians and cyclists can still cross during construction. Only during paving work from May to August 2027 will the bridge close to walkers and bikes as well. Bus routes 405 and 740, which used to cross Jamsugyo, will detour via Banpo Bridge. Once finished, the bridge will have 22 viewing spots and a transparent deck above the section where boats pass.\n\nClosure: All vehicles banned from midnight, Mon Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge · Two stops at the south end ('Banpo Hangang Park·Some Sevit') close → use the 'Banpo Bridge South End·Hangang Park Entrance' stop instead\nTarget opening: Second half of 2027\n#SENE #Jamsugyo #Seoul #HanRiver #BanpoHangangPark\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792760297/hndvxwl5wkijqgi6z5sa.jpg\n제목: Jamsugyo Bridge Closes|to Cars From Monday\n부제: Full vehicle closure from midnight Oct 26 · Pedestrian bridge works\n출처: Seoul Metropolitan Government\n",
+      "caption": "Jamsugyo Bridge closes to all vehicle traffic from midnight on Monday, Oct 26.\n\nThe closure comes 50 years after the bridge opened to cars in 1976. The Seoul Metropolitan Government (@seoul_official) is starting work to turn Jamsugyo into Seoul's first pedestrian-only bridge over the Han River, with opening targeted for the second half of 2027. The closure begins as this year's final Car-Free Jamsugyo Ttubeok Ttubeok Festival ends this Sunday.\n\nPedestrians and cyclists can still cross during construction. Only during paving work from May to August 2027 will the bridge close to walkers and bikes as well. Bus routes 405 and 740, which used to cross Jamsugyo, will detour via Banpo Bridge. Once finished, the bridge will have 22 viewing spots and a transparent deck above the section where boats pass.\n\nClosure: All vehicles banned from midnight, Mon Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge · Two stops at the south end ('Banpo Hangang Park·Some Sevit') close → use the 'Banpo Bridge South End·Hangang Park Entrance' stop instead\nTarget opening: Second half of 2027\n#SENE #Jamsugyo #Seoul #HanRiver #BanpoHangangPark",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760369/cryk26b7tbtmkerr4rjf.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760369/nyrh6x7xugxlj8lxzglw.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760468/qiifjnha5cr6tzr3nea0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760468/m2ldbfdqhgoe9s1a15lw.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760369/cryk26b7tbtmkerr4rjf.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760468/qiifjnha5cr6tzr3nea0.jpg"
        },
-       "at": "2026-10-23T21:59+09:00"
+       "at": "2026-10-23T22:01+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 이슈\nURL: https://www.youtube.com/watch?v=h10O7nFzQVQ\n구간: 0:00-0:30\n곡: closes to all cars\n아티스트: Jamsugyo Bridge\n피처링:\n후킹: From 12 a.m. Monday\n출처: Yonhap News TV\n자막: 자동",
-      "caption": "The Seoul Metropolitan Government (@seoul_official) begins work to turn Jamsugyo Bridge into the Han River's first pedestrian-only bridge.\n\nCars have used the bridge for 50 years since it opened in 1976. From 12 a.m. on Monday, Oct 26, all vehicle traffic is banned, right as this year's last Ttubeok Ttubeok Festival wraps up on Sunday.\n\nPeople can still cross on foot or by bike during construction, and bus routes 405 and 740 will detour via Banpo Bridge. The target opening is the second half of 2027.\n\nClosure: From 12 a.m., Mon, Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge\nVideo: Yonhap News TV\n#SENE #Jamsugyo #SeoulTravel #HanRiver #BanpoHangangPark"
+      "form": "[영상]\n카테고리: 이슈\nURL: https://www.youtube.com/watch?v=h10O7nFzQVQ\n구간: 0:00-0:30\n곡: closes to cars\n아티스트: Jamsugyo Bridge\n피처링:\n후킹: From midnight Monday\n출처: Yonhap News TV\n자막: 자동",
+      "caption": "The Seoul Metropolitan Government (@seoul_official) is starting work to turn Jamsugyo Bridge into the Han River's first pedestrian-only bridge.\n\nCars have used the bridge for 50 years, since it opened in 1976. From midnight on the 26th, all vehicle traffic will be stopped — the moment this year's final Ttubeok Ttubeok Festival ends on Sunday.\n\nPedestrians and cyclists can still cross during construction, and bus routes 405 and 740 will detour via Banpo Bridge. Opening is targeted for the second half of 2027.\n\nClosure: From midnight, Mon Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge\nVideo: Yonhap News TV\n#SENE #Jamsugyo #Seoul #HanRiver #BanpoHangangPark"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\n潜水橋（チャムスギョ、잠수교）が、26日0時から車両の通行を全面的に止めます。\n\n1976年に車が通る橋として開通してから50年、ソウル市（@seoul_official）は2027年下半期の開通を目標に、潜水橋をソウル初の漢江（ハンガン）歩行者専用橋に変える工事に入ります。通行止めは、今週日曜に今年最後の「車のない潜水橋トゥボットゥボッ祭り（뚜벅뚜벅 축제）」が終わる時刻に合わせて始まります。\n\n工事中も徒歩や自転車で渡ることができ、歩行者・自転車も通れなくなるのは2027年5〜8月の舗装工事のときだけです。潜水橋を通っていた405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。完成すると、眺望スペース22か所と、船が通る区間の上に透明デッキができます。\n\n通行止め：10月26日（月）0時から車両全面通行止め\nバス：405・740番は盤浦大橋へ迂回・南端の「盤浦漢江公園・セビッソム」停留所2か所は閉鎖 →「盤浦大橋南端・漢江市民公園入口」停留所を利用\n開通目標：2027年下半期\n#SENE #韓国旅行 #ソウル旅行 #潜水橋 #漢江\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792760212/jepgnwui5y5e6w38e95n.jpg\n제목: 潜水橋、月曜から|車が通れなくなる\n부제: 10月26日0時から車両全面通行止め・歩行者専用橋への工事\n출처: ソウル市\n",
-      "caption": "潜水橋（チャムスギョ、잠수교）が、26日0時から車両の通行を全面的に止めます。\n\n1976年に車が通る橋として開通してから50年、ソウル市（@seoul_official）は2027年下半期の開通を目標に、潜水橋をソウル初の漢江（ハンガン）歩行者専用橋に変える工事に入ります。通行止めは、今週日曜に今年最後の「車のない潜水橋トゥボットゥボッ祭り（뚜벅뚜벅 축제）」が終わる時刻に合わせて始まります。\n\n工事中も徒歩や自転車で渡ることができ、歩行者・自転車も通れなくなるのは2027年5〜8月の舗装工事のときだけです。潜水橋を通っていた405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。完成すると、眺望スペース22か所と、船が通る区間の上に透明デッキができます。\n\n通行止め：10月26日（月）0時から車両全面通行止め\nバス：405・740番は盤浦大橋へ迂回・南端の「盤浦漢江公園・セビッソム」停留所2か所は閉鎖 →「盤浦大橋南端・漢江市民公園入口」停留所を利用\n開通目標：2027年下半期\n#SENE #韓国旅行 #ソウル旅行 #潜水橋 #漢江",
+      "form": "[카테고리]\n이슈\n\n[캡션]\n潜水橋（チャムスギョ／잠수교）が10月26日（月）0時から車両の通行を全面的に止めます。\n\n1976年に車の通る橋として開通してから50年になりますが、ソウル市（@seoul_official）は2027年下半期の開通を目指し、潜水橋をソウル初の漢江（ハンガン）歩行者専用橋に変える工事に入ります。今週日曜、今年最後の「車のない潜水橋トゥボットゥボッ祭り」が終わる時刻に合わせて通行止めが始まります。\n\n工事中も徒歩や自転車では渡ることができ、2027年5〜8月の舗装工事の期間だけは歩行者・自転車も通れなくなります。潜水橋を通っていた405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。完成後は眺望スペース22か所と、船が通る区間の上に透明デッキが設けられます。\n\n通行止め：10月26日（月）0時から車両全面通行止め\nバス：405・740番は盤浦大橋へ迂回・南端の「盤浦漢江公園・セビッソム」停留所2か所は閉鎖 →「盤浦大橋南端・漢江市民公園入口」停留所を利用\n開通目標：2027年下半期\n#SENE #潜水橋 #韓国旅行 #ソウル旅行 #漢江\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792760297/hndvxwl5wkijqgi6z5sa.jpg\n제목: 潜水橋、月曜から|車が通れなくなる\n부제: 10月26日0時から車両全面通行止め・歩行者専用橋の工事\n출처: ソウル市\n",
+      "caption": "潜水橋（チャムスギョ／잠수교）が10月26日（月）0時から車両の通行を全面的に止めます。\n\n1976年に車の通る橋として開通してから50年になりますが、ソウル市（@seoul_official）は2027年下半期の開通を目指し、潜水橋をソウル初の漢江（ハンガン）歩行者専用橋に変える工事に入ります。今週日曜、今年最後の「車のない潜水橋トゥボットゥボッ祭り」が終わる時刻に合わせて通行止めが始まります。\n\n工事中も徒歩や自転車では渡ることができ、2027年5〜8月の舗装工事の期間だけは歩行者・自転車も通れなくなります。潜水橋を通っていた405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。完成後は眺望スペース22か所と、船が通る区間の上に透明デッキが設けられます。\n\n通行止め：10月26日（月）0時から車両全面通行止め\nバス：405・740番は盤浦大橋へ迂回・南端の「盤浦漢江公園・セビッソム」停留所2か所は閉鎖 →「盤浦大橋南端・漢江市民公園入口」停留所を利用\n開通目標：2027年下半期\n#SENE #潜水橋 #韓国旅行 #ソウル旅行 #漢江",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760375/g6k5qxrdnmz3m7ugyjrd.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760374/mezehavlynrcrszzpryz.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760471/h5w4kkfgpp2ldvak5ukm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760471/rf0zdfe9zojwxkoukyat.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760375/g6k5qxrdnmz3m7ugyjrd.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792760471/h5w4kkfgpp2ldvak5ukm.jpg"
        },
-       "at": "2026-10-23T21:59+09:00"
+       "at": "2026-10-23T22:01+09:00"
       }
      },
      "shorts": {
       "form": "[영상]\n카테고리: 이슈\nURL: https://www.youtube.com/watch?v=h10O7nFzQVQ\n구간: 0:00-0:30\n곡: 車が通れません\n아티스트: 潜水橋は\n피처링:\n후킹: 月曜0時から\n출처: 聯合ニュースTV\n자막: 자동",
-      "caption": "ソウル市（@seoul_official）が、潜水橋（チャムスギョ、잠수교）を漢江初の歩行者専用橋に変える工事に入ります。\n\n1976年の開通から50年間、車が通ってきた橋ですが、26日0時から車両の通行が全面的に止まります。今週日曜、今年最後の「トゥボットゥボッ祭り（뚜벅뚜벅 축제）」が終わる時刻です。\n\n工事中も徒歩や自転車では渡ることができ、405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。開通目標は2027年下半期です。\n\n通行止め：10月26日（月）0時から\nバス：405・740番は盤浦大橋へ迂回\n映像：聯合ニュースTV\n#SENE #韓国旅行 #ソウル旅行 #潜水橋 #漢江"
+      "caption": "ソウル市（@seoul_official）が潜水橋（チャムスギョ／잠수교）を漢江初の歩行者専用橋に変える工事に入ります。\n\n1976年の開通から50年間、車が通ってきた橋ですが、26日0時から車両の通行が全面的に止まります。今週日曜、今年最後の「トゥボットゥボッ祭り」が終わる時刻です。\n\n工事中も徒歩や自転車では渡ることができ、405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。開通目標は2027年下半期です。\n\n通行止め：10月26日（月）0時から\nバス：405・740番は盤浦大橋へ迂回\n映像：聯合ニュースTV\n#SENE #潜水橋 #韓国旅行 #ソウル旅行 #漢江"
      }
     }
    }
@@ -2952,7 +2939,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T21:59+09:00"
+  "at": "2026-10-23T22:01+09:00"
  },
  "slots": {
   "basis": 0,
