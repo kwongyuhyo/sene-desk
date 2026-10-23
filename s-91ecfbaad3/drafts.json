@@ -749,8 +749,8 @@
    },
    "pick": {
     "rank": 1,
-    "why": "금요일 고정 연재 — 퇴근길에 주말 동선을 저장해 두는 시간이고, 일요일에 끝나는 둘이 앞에 있다",
-    "at": "2026-10-23T17:47+09:00"
+    "why": "금요일 고정 연재 — 토요일 아침에 주말 동선을 저장해 두는 글이고, 일요일에 끝나는 둘이 앞에 있다",
+    "at": "2026-10-23T21:48+09:00"
    }
   },
   {
@@ -1846,11 +1846,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 2,
-    "why": "내일 문을 여는 성수 400평 플래그십 — 이번 주말 '가 볼 새 곳'으로 바로 이어진다",
-    "at": "2026-10-23T17:47+09:00"
-   },
    "i18n_queued": "2026-10-23T17:47+09:00",
    "corner_name": "소식",
    "i18n": {
@@ -1923,6 +1918,11 @@
       "caption": "テラロサ（@terarosacoffee）がソウル・聖水洞（ソンスドン）にオープンする新店舗の公式ティザーです。\n\n「ザ・ハウス・オブ・テラロサ・ソウル」はブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中に、コーヒーを学ぶ「コーヒー101」、お客さまが選んだ生豆をその場で焙煎するロースタリー、産地別のテイスティングコースが揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と、ペットと一緒に座れるペットテラスもあります。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n映像：テラロサ公式YouTube\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水"
      }
     }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "내일 문을 여는 성수 400평 플래그십 — 이번 주말 '가 볼 새 곳'으로 바로 이어진다",
+    "at": "2026-10-23T21:48+09:00"
    }
   },
   {
@@ -2101,11 +2101,6 @@
       ]
      }
     }
-   },
-   "pick": {
-    "rank": 3,
-    "why": "오늘 개막한 K팝 48인 전시 — 큰 이름 아홉 팀이 한 번에 걸려 도달이 크고, 숏폼이 함께 있다",
-    "at": "2026-10-23T17:47+09:00"
    },
    "i18n_queued": "2026-10-23T17:47+09:00",
    "corner_name": "소식",
@@ -2351,6 +2346,447 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:jamsugyo-car-free",
+    "account": "@서울시 내 손안에 서울",
+    "url": "https://mediahub.seoul.go.kr/archives/2019683",
+    "image": null,
+    "head": "잠수교 10/26 0시부터 차량 전면 통제 — 보행전용교 공사, 405·740번 반포대교 우회",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-23T21:48+09:00",
+   "key": "67f5cbe2",
+   "by": "claude",
+   "subjects": [
+    "잠수교"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "50년 차가 다닌 잠수교가 월요일 0시부터 걷는 다리 공사에 들어간다 — 버스 두 노선·정류장 두 곳이 바뀐다",
+    "why": "일요일 마지막 뚜벅뚜벅 축제와 맞물려 26일(월) 0시 차량 전면 통제 — 버스 우회·정류장 폐쇄까지 생활이 바뀌는 일. 서울시 공식 발표와 기사 둘에서 맞췄다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-23T21:48+09:00",
+   "corner": "issue",
+   "card": {
+    "form": "[카테고리]\n이슈\n\n[캡션]\n잠수교가 오는 26일 0시부터 차량 통행을 전면 멈춥니다.\n\n1976년 차가 다니는 다리로 개통한 지 50년 만인데요, 서울시(@seoul_official)는 2027년 하반기 개통을 목표로 잠수교를 서울의 첫 한강 보행전용교로 바꾸는 공사에 들어갑니다. 이번 일요일 올해 마지막 '차 없는 잠수교 뚜벅뚜벅 축제'가 끝나는 시각에 맞춰 통제가 시작됩니다.\n\n공사 중에도 걷거나 자전거로 건널 수 있고, 2027년 5~8월 포장공사 때만 보행·자전거도 막힙니다. 잠수교를 지나던 405번·740번 버스는 반포대교로 돌아갑니다. 완공되면 조망 공간 22곳과 배가 지나는 구간 위 투명 데크가 생깁니다.\n\n통제: 10월 26일(월) 0시부터 차량 전면 통제\n버스: 405·740번 반포대교 우회 · 남단 '반포한강공원·세빛섬' 정류장 2곳 폐쇄 → '반포대교남단·한강시민공원입구' 정류장 이용\n개통 목표: 2027년 하반기\n#SENE #잠수교 #보행전용교 #반포한강공원 #뚜벅뚜벅축제\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792759685/gvvjonybyiekxrwhhzwc.jpg\n제목: 잠수교, 월요일부터|차가 못 다닌다\n부제: 10월 26일 0시 차량 전면 통제 · 보행전용교 공사\n출처: 서울시\n",
+    "caption": "잠수교가 오는 26일 0시부터 차량 통행을 전면 멈춥니다.\n\n1976년 차가 다니는 다리로 개통한 지 50년 만인데요, 서울시(@seoul_official)는 2027년 하반기 개통을 목표로 잠수교를 서울의 첫 한강 보행전용교로 바꾸는 공사에 들어갑니다. 이번 일요일 올해 마지막 '차 없는 잠수교 뚜벅뚜벅 축제'가 끝나는 시각에 맞춰 통제가 시작됩니다.\n\n공사 중에도 걷거나 자전거로 건널 수 있고, 2027년 5~8월 포장공사 때만 보행·자전거도 막힙니다. 잠수교를 지나던 405번·740번 버스는 반포대교로 돌아갑니다. 완공되면 조망 공간 22곳과 배가 지나는 구간 위 투명 데크가 생깁니다.\n\n통제: 10월 26일(월) 0시부터 차량 전면 통제\n버스: 405·740번 반포대교 우회 · 남단 '반포한강공원·세빛섬' 정류장 2곳 폐쇄 → '반포대교남단·한강시민공원입구' 정류장 이용\n개통 목표: 2027년 하반기\n#SENE #잠수교 #보행전용교 #반포한강공원 #뚜벅뚜벅축제",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759685/gvvjonybyiekxrwhhzwc.jpg",
+      "credit": "서울시",
+      "from": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/10/mBmpOjDwkaRyQdLXoSUmQfFEVgNCIsYk.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759685/gvvjonybyiekxrwhhzwc.jpg",
+      "credit": "서울시",
+      "from": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/10/mBmpOjDwkaRyQdLXoSUmQfFEVgNCIsYk.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "잠수교, 월요일부터|차가 못 다닌다",
+      "sub": "10월 26일 0시 차량 전면 통제 · 보행전용교 공사"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "50년 만에|걷는 다리로",
+      "sub": "잠수교 · 10월 26일 0시부터 차량 통제"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — 연합뉴스TV (구간 0:00–0:30, 앵커 리포트 · 사람 발언 없음)",
+     "버스 우회·정류장 폐쇄는 서울시 발표(10/13) 기준 — 올리기 전 서울시·교통정보센터 최신 공지로 한 번 더",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "잠수교, 50년 만에 '보행전용교' 변신…26일부터 차량 전면 통제 — 내 손안에 서울",
+      "link": "https://mediahub.seoul.go.kr/archives/2019683"
+     },
+     {
+      "title": "잠수교, 개통 50년 만에 '전면 보행화'…26일부터 차량 통제 - 데일리안",
+      "link": "https://www.dailian.co.kr/news/view/1699441"
+     },
+     {
+      "title": "잠수교, 50년 만에 '차 없는 다리' 된다...26일부터 차량 통행 중단 / 연합뉴스TV",
+      "link": "https://www.youtube.com/watch?v=h10O7nFzQVQ"
+     },
+     {
+      "title": "잠수교 26일부터 차량 전면 통제…서울 첫 '보행전용 한강 다리' 변신 — TV조선",
+      "link": "https://www.youtube.com/watch?v=Cj2Sp4r2hKU"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759699/wked4hixbzwoz7zlkky8.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759699/hntkwokhej5tgdfda4fx.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759702/bxz6fxewmmunzlupjnt1.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759699/wked4hixbzwoz7zlkky8.jpg"
+     },
+     "at": "2026-10-23T21:48+09:00",
+     "v": {
+      "A": "a15a367c",
+      "B": "1b18df61",
+      "E": "f558a622",
+      "J": "a6cfcf99"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 이슈\nURL: https://www.youtube.com/watch?v=h10O7nFzQVQ\n구간: 0:00-0:30\n곡: 차가 못 다닙니다\n아티스트: 잠수교에\n피처링:\n후킹: 월요일 0시부터\n출처: 연합뉴스TV\n자막: 자동",
+    "caption": "서울시(@seoul_official)가 잠수교를 한강의 첫 보행전용교로 바꾸는 공사에 들어갑니다.\n\n1976년 개통 후 50년 동안 차가 다니던 다리인데요, 26일 0시부터 차량 통행이 전면 통제됩니다. 이번 일요일 올해 마지막 '뚜벅뚜벅 축제'가 끝나는 시각입니다.\n\n공사 중에도 걷거나 자전거로는 건널 수 있고, 405번·740번 버스는 반포대교로 돌아갑니다. 개통 목표는 2027년 하반기입니다.\n\n통제: 10월 26일(월) 0시부터\n버스: 405·740번 반포대교 우회\n영상: 연합뉴스TV\n#SENE #잠수교 #보행전용교 #반포한강공원 #뚜벅뚜벅축제",
+    "hooks": {
+     "A": "월요일 0시부터 / 잠수교에 / 차가 못 다닙니다",
+     "B": "차 다니던 잠수교 / 50년 만에 / 걷는 다리로",
+     "C": "405·740번 버스 / 26일부터 / 반포대교로 돕니다"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=h10O7nFzQVQ",
+     "credit": "연합뉴스TV",
+     "range": [
+      0.0,
+      30.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — 연합뉴스TV (구간 0:00–0:30, 앵커 리포트 · 사람 발언 없음)",
+     "버스 우회·정류장 폐쇄는 서울시 발표(10/13) 기준 — 올리기 전 서울시·교통정보센터 최신 공지로 한 번 더"
+    ],
+    "research": [
+     {
+      "title": "잠수교, 50년 만에 '보행전용교' 변신…26일부터 차량 전면 통제 — 내 손안에 서울",
+      "link": "https://mediahub.seoul.go.kr/archives/2019683"
+     },
+     {
+      "title": "잠수교, 개통 50년 만에 '전면 보행화'…26일부터 차량 통제 - 데일리안",
+      "link": "https://www.dailian.co.kr/news/view/1699441"
+     },
+     {
+      "title": "잠수교, 50년 만에 '차 없는 다리' 된다...26일부터 차량 통행 중단 / 연합뉴스TV",
+      "link": "https://www.youtube.com/watch?v=h10O7nFzQVQ"
+     },
+     {
+      "title": "잠수교 26일부터 차량 전면 통제…서울 첫 '보행전용 한강 다리' 변신 — TV조선",
+      "link": "https://www.youtube.com/watch?v=Cj2Sp4r2hKU"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/h10O7nFzQVQ/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759712/zdpbflcmx4c85p7g4qok.jpg",
+     "key": "h10O7nFzQVQ@0.0"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "월요일 0시부터 잠수교 차량 통제·버스 두 노선 우회 — 서울 독자 하루가 바로 바뀌는 소식이고 숏폼이 함께 있다",
+    "at": "2026-10-23T21:48+09:00"
+   },
+   "i18n_queued": "2026-10-23T21:48+09:00",
+   "corner_name": "이슈",
+   "i18n": {
+    "at": "2026-10-23T21:50+09:00",
+    "confirm": [
+     "개통 시기: 원문은 '2027년 하반기'인데, 코리아타임스·코리아헤럴드 영문 기사는 '2027년 8월 완공'이라고 씁니다. 번역은 원문대로 '하반기'로 두었습니다.",
+     "보행·자전거 전면 통제: 영문 기사는 '2027년 5~8월 중 약 6주'라고 씁니다. 원문에 없는 내용이라 넣지 않았습니다.",
+     "정류장 이름 '반포한강공원·세빛섬' · '반포대교남단·한강시민공원입구': 공식 영어·일본어 표기를 찾지 못해 영어는 풀어 옮기고 로마자로, 일본어는 漢字와 カタカナ로 적었습니다. 서울시 버스 정류장 표기로 확인이 필요합니다.",
+     "'뚜벅뚜벅 축제' 영어 표기는 코리아헤럴드가 쓴 서울시 사진 설명 'Car-free Jamsu Bridge Ttubeok-ttubeok Festival'을 따랐습니다. 일본어 공식 표기는 찾지 못했습니다.",
+     "생활 이슈 — 올리기 전에 서울시의 최신 공식 발표를 다시 확인해 주세요.",
+     "영어·일본어 · 버스 줄 · 'Banpo Hangang Park · Sebitseom' / 「盤浦漢江公園・セビッソム」 — 원문과 마찬가지로 이게 정류장 이름 하나(양방향 2곳)인지 정류장 두 곳인지 애매합니다. 서울시 공지로 확인해 주세요. 세빛섬의 공식 영어 이름은 'Some Sevit'입니다.",
+     "빅 이슈성 생활 정보 — 올리기 전에 서울시 최신 공지로 통제 시각(26일 0시)과 우회 노선을 다시 확인해 주세요."
+    ],
+    "review": {
+     "at": "2026-10-23T21:50+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 · 버스 줄 · 'Banpo Hangang Park · Sebitseom' / 「盤浦漢江公園・セビッソム」 — 원문과 마찬가지로 이게 정류장 이름 하나(양방향 2곳)인지 정류장 두 곳인지 애매합니다. 서울시 공지로 확인해 주세요. 세빛섬의 공식 영어 이름은 'Some Sevit'입니다.",
+      "빅 이슈성 생활 정보 — 올리기 전에 서울시 최신 공지로 통제 시각(26일 0시)과 우회 노선을 다시 확인해 주세요."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nJamsu Bridge closes to all vehicle traffic from 12 a.m. on the 26th.\n\nThe move comes 50 years after it opened as a road bridge in 1976. The Seoul Metropolitan Government (@seoul_official) is starting work to turn Jamsu Bridge into Seoul's first pedestrian-only bridge over the Han River, with an opening targeted for the second half of 2027. The closure begins right as this year's last Car-Free Jamsu Bridge Ttubeok-ttubeok Festival ends this Sunday.\n\nPedestrians and cyclists can still cross during construction, except during paving work between May and August 2027, when the bridge closes to them as well. Bus routes 405 and 740, which used Jamsu Bridge, will detour via Banpo Bridge. Once finished, the bridge will have 22 viewing spaces and a transparent deck over the section where boats pass.\n\nClosure: All vehicles banned from 12 a.m. Mon, Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge · 2 stops at the south end, 'Banpo Hangang Park · Sebitseom', close → use the 'Banpo Bridge South End · Hangang Park Entrance' stop\nTarget opening: Second half of 2027\n#SENE #JamsuBridge #Seoul #HanRiver #BanpoHangangPark\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792759685/gvvjonybyiekxrwhhzwc.jpg\n제목: Jamsu Bridge Closes|to Cars on Monday\n부제: Full vehicle ban from 12 a.m. Oct 26 · Pedestrian-bridge works begin\n출처: Seoul Metropolitan Government\n",
+      "caption": "Jamsu Bridge closes to all vehicle traffic from 12 a.m. on the 26th.\n\nThe move comes 50 years after it opened as a road bridge in 1976. The Seoul Metropolitan Government (@seoul_official) is starting work to turn Jamsu Bridge into Seoul's first pedestrian-only bridge over the Han River, with an opening targeted for the second half of 2027. The closure begins right as this year's last Car-Free Jamsu Bridge Ttubeok-ttubeok Festival ends this Sunday.\n\nPedestrians and cyclists can still cross during construction, except during paving work between May and August 2027, when the bridge closes to them as well. Bus routes 405 and 740, which used Jamsu Bridge, will detour via Banpo Bridge. Once finished, the bridge will have 22 viewing spaces and a transparent deck over the section where boats pass.\n\nClosure: All vehicles banned from 12 a.m. Mon, Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge · 2 stops at the south end, 'Banpo Hangang Park · Sebitseom', close → use the 'Banpo Bridge South End · Hangang Park Entrance' stop\nTarget opening: Second half of 2027\n#SENE #JamsuBridge #Seoul #HanRiver #BanpoHangangPark",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759813/lvpxuf6no8mzn0zwgokn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759815/bksfwf5dz6zvs2qa7gq0.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759813/lvpxuf6no8mzn0zwgokn.jpg"
+       },
+       "at": "2026-10-23T21:50+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 이슈\nURL: https://www.youtube.com/watch?v=h10O7nFzQVQ\n구간: 0:00-0:30\n곡: goes car-free\n아티스트: Jamsu Bridge\n피처링:\n후킹: From 12 a.m. Monday\n출처: Yonhap News TV\n자막: 자동",
+      "caption": "The Seoul Metropolitan Government (@seoul_official) is starting work to turn Jamsu Bridge into the first pedestrian-only bridge on the Han River.\n\nThe bridge has carried cars for 50 years since it opened in 1976. From 12 a.m. on the 26th, all vehicle traffic is banned, timed to the end of this year's last Ttubeok-ttubeok Festival this Sunday.\n\nPedestrians and cyclists can still cross during construction, and bus routes 405 and 740 will detour via Banpo Bridge. The target opening is the second half of 2027.\n\nClosure: From 12 a.m. Mon, Oct 26\nBuses: Routes 405 and 740 detour via Banpo Bridge\nVideo: Yonhap News TV\n#SENE #JamsuBridge #Seoul #HanRiver #BanpoHangangPark"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\n潜水橋（チャムスギョ）が26日0時から車両の通行を全面的に止めます。\n\n1976年に車の通る橋として開通してから50年になりますが、ソウル市（@seoul_official）は2027年下半期の開通を目指し、潜水橋をソウル初の漢江（ハンガン）歩行者専用橋に変える工事に入ります。今週日曜日、今年最後の「車のない潜水橋トゥボットゥボッ祭り」が終わる時刻に合わせて規制が始まります。\n\n工事中も徒歩や自転車では渡ることができ、2027年5〜8月の舗装工事の間だけ歩行者・自転車も通行止めになります。潜水橋を通っていた405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。完成すると、22か所の眺望スペースと、船が通る区間の上に透明デッキが設けられます。\n\n規制：10月26日（月）0時から車両全面通行止め\nバス：405・740番は盤浦大橋へ迂回・南端の「盤浦漢江公園・セビッソム」停留所2か所は閉鎖→「盤浦大橋南端・漢江市民公園入口」停留所を利用\n開通目標：2027年下半期\n#SENE #韓国旅行 #ソウル旅行 #漢江 #潜水橋\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792759685/gvvjonybyiekxrwhhzwc.jpg\n제목: 潜水橋、月曜から|車が通れなくなる\n부제: 10月26日0時から車両全面通行止め・歩行者専用橋への工事\n출처: ソウル市\n",
+      "caption": "潜水橋（チャムスギョ）が26日0時から車両の通行を全面的に止めます。\n\n1976年に車の通る橋として開通してから50年になりますが、ソウル市（@seoul_official）は2027年下半期の開通を目指し、潜水橋をソウル初の漢江（ハンガン）歩行者専用橋に変える工事に入ります。今週日曜日、今年最後の「車のない潜水橋トゥボットゥボッ祭り」が終わる時刻に合わせて規制が始まります。\n\n工事中も徒歩や自転車では渡ることができ、2027年5〜8月の舗装工事の間だけ歩行者・自転車も通行止めになります。潜水橋を通っていた405番・740番バスは盤浦大橋（パンポデギョ）へ迂回します。完成すると、22か所の眺望スペースと、船が通る区間の上に透明デッキが設けられます。\n\n規制：10月26日（月）0時から車両全面通行止め\nバス：405・740番は盤浦大橋へ迂回・南端の「盤浦漢江公園・セビッソム」停留所2か所は閉鎖→「盤浦大橋南端・漢江市民公園入口」停留所を利用\n開通目標：2027年下半期\n#SENE #韓国旅行 #ソウル旅行 #漢江 #潜水橋",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759818/p5vzn5trsmdc0cuyvjsv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759818/hkglpzzlu8tirti2uuhf.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759818/p5vzn5trsmdc0cuyvjsv.jpg"
+       },
+       "at": "2026-10-23T21:50+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 이슈\nURL: https://www.youtube.com/watch?v=h10O7nFzQVQ\n구간: 0:00-0:30\n곡: 車が通れません\n아티스트: 潜水橋は\n피처링:\n후킹: 月曜0時から\n출처: 聯合ニュースTV\n자막: 자동",
+      "caption": "ソウル市（@seoul_official）が潜水橋（チャムスギョ）を漢江初の歩行者専用橋に変える工事に入ります。\n\n1976年の開通から50年間、車が通ってきた橋ですが、26日0時から車両の通行が全面的に規制されます。今週日曜日、今年最後の「トゥボットゥボッ祭り」が終わる時刻です。\n\n工事中も徒歩や自転車では渡ることができ、405番・740番バスは盤浦大橋へ迂回します。開通目標は2027年下半期です。\n\n規制：10月26日（月）0時から\nバス：405・740番は盤浦大橋へ迂回\n映像：聯合ニュースTV\n#SENE #韓国旅行 #ソウル旅行 #漢江 #潜水橋"
+     }
+    }
+   }
+  },
+  {
+   "source": {
+    "id": "claude:seoul-food-festivals-1024",
+    "account": "@서울시 10월 주요 행사",
+    "url": "https://news.seoul.go.kr/gov/archives/581185",
+    "image": null,
+    "head": "10/24~25 한식대축제·서울마켓페어·서울 바비큐 페스티벌·잠수교 치킨데이",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-23T21:48+09:00",
+   "key": "2dca3c2c",
+   "by": "claude",
+   "subjects": [
+    "한식대축제",
+    "서울바비큐페스티벌",
+    "서울마켓페어"
+   ],
+   "lane": "정리",
+   "editor": {
+    "grade": "A",
+    "kind": "정리",
+    "angle": "첫 법정 '한식의 날' 주말에 서울 먹거리 축제 넷이 겹친다 — 날짜·장소·시간만 날짜순으로",
+    "why": "내일(10/24)이 처음 맞는 법정 한식의 날이고, 같은 주말 서울시 먹거리 행사 셋이 함께 열린다. 기간·장소·시간은 서울시 행사 안내·내 손안에 서울·기사 둘에서 맞췄다. 금요일 고정 연재(서소문·성수·서울숲·홍대·청량리)와 겹치는 곳 없음"
+   },
+   "added": "claude",
+   "added_at": "2026-10-23T21:48+09:00",
+   "corner": "roundup",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n이번 주말 서울 네 곳에서 먹거리 축제가 함께 열립니다.\n\n토요일인 24일은 올해 법정기념일로 처음 맞는 '한식의 날'인데요, 국립중앙박물관에서는 이를 기념하는 한식대축제가 일요일까지 이어집니다. 같은 이틀 동안 청계광장에는 서울 전통시장 상인들이, 난지캠핑장에는 바비큐 셰프와 맛집들이 모입니다.\n\n일요일 잠수교에서는 올해 마지막 '뚜벅뚜벅 축제'가 치킨데이로 열립니다. 차가 다니는 잠수교의 마지막 주말이기도 합니다.\n\n기간: 10월 24일(토) ~ 25일(일)\n장소: 국립중앙박물관 · 청계광장 · 난지캠핑장 · 잠수교\n#SENE #한식의날 #한식대축제 #서울바비큐페스티벌 #잠수교\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792759690/hhscgyrhnjb6sknbwtwu.jpg\n제목: 이번 주말 서울|먹거리 축제 넷\n부제: 10/24–25 · 용산·청계광장·난지·잠수교\n출처: 농림축산식품부\n\n[슬라이드]\n소스: \n소제목: 한식대축제 · 국립중앙박물관\n본문: 법정기념일로 처음 맞는 한식의 날(10월 24일)을 기념하는 축제입니다. 거울못 일대에서 명인·셰프 조리 시연, 쿠킹클래스, 한식 골든벨, 한식당 팝업스토어와 플리마켓이 열립니다.||기간: 10월 23일(금) ~ 25일(일)|장소: 서울 용산구 국립중앙박물관 대강당·거울못 일대\n출처: \n\n[슬라이드]\n소스: \n소제목: 서울마켓페어 · 청계광장\n본문: 서울 전통시장·상점가 상인들이 우수 상품을 내놓고 파는 장터입니다. 체험 이벤트도 함께 열립니다.||기간: 10월 24일(토) ~ 25일(일)|시간: 오전 10시 ~ 오후 9시|장소: 서울 종로구 청계광장 일대\n출처: \n\n[슬라이드]\n소스: \n소제목: 서울 바비큐 페스티벌 · 난지캠핑장\n본문: 직접 굽는 셀프바비큐존과 셰프·맛집 7곳이 참여하는 바비큐빌리지가 중심입니다. '유용욱 바베큐 연구소'·'혼고기'·'양문숯불갈비'·'메쯔거49' 등이 나옵니다. 셀프바비큐존 사전 예약은 마감됐고, 당일 일부 좌석만 현장 접수합니다.||기간: 10월 24일(토) ~ 25일(일)|시간: 낮 12시 ~ 오후 9시|장소: 서울 마포구 한강난지로 28 난지캠핑장|셔틀: DMC역 2번 출구 · 망원한강공원 1주차장\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792759692/rbyev0uinq3bmx7gdiqc.jpg\n소제목: 잠수교 치킨데이 · 잠수교\n본문: 올해 마지막 '차 없는 잠수교 뚜벅뚜벅 축제' 날, 잠수교 위 약 400m 구간에 치킨 테이블이 놓입니다. 축제가 끝나는 26일 0시부터 잠수교는 차량 통행을 멈추고 보행전용교 공사에 들어갑니다.||날짜: 10월 25일(일)|시간: 오후 2시 ~ 10시 (축제 운영 시간)|장소: 잠수교·반포한강공원 일대\n출처: 서울시\n",
+    "caption": "이번 주말 서울 네 곳에서 먹거리 축제가 함께 열립니다.\n\n토요일인 24일은 올해 법정기념일로 처음 맞는 '한식의 날'인데요, 국립중앙박물관에서는 이를 기념하는 한식대축제가 일요일까지 이어집니다. 같은 이틀 동안 청계광장에는 서울 전통시장 상인들이, 난지캠핑장에는 바비큐 셰프와 맛집들이 모입니다.\n\n일요일 잠수교에서는 올해 마지막 '뚜벅뚜벅 축제'가 치킨데이로 열립니다. 차가 다니는 잠수교의 마지막 주말이기도 합니다.\n\n기간: 10월 24일(토) ~ 25일(일)\n장소: 국립중앙박물관 · 청계광장 · 난지캠핑장 · 잠수교\n#SENE #한식의날 #한식대축제 #서울바비큐페스티벌 #잠수교",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759690/hhscgyrhnjb6sknbwtwu.jpg",
+      "credit": "농림축산식품부",
+      "from": "https://img.etoday.co.kr/pto_db/2026/10/20261007084231_2398018_1200_1698.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759690/hhscgyrhnjb6sknbwtwu.jpg",
+      "credit": "농림축산식품부",
+      "from": "https://img.etoday.co.kr/pto_db/2026/10/20261007084231_2398018_1200_1698.jpg"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "이번 주말 서울|먹거리 축제 넷",
+      "sub": "10/24–25 · 용산·청계광장·난지·잠수교"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "첫 '한식의 날' 주말|먹거리 축제 일정",
+      "sub": "10/24–25 · 서울 네 곳 날짜순"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "한식대축제 운영 시간·입장료, 잠수교 치킨 테이블 이용이 사전 신청인지 현장인지는 출처에 없어 뺐음 — 한식진흥원·뚜벅뚜벅 축제 공식 계정 확인",
+     "서울마켓페어 내용은 서울시 행사 안내 한 줄(우수상품 전시·판매·체험 이벤트)만 확인 — 서울시 인스타 10/23 게시물(청계광장 시장 맛집·야장)과 같은 행사인지 눈으로 확인",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요",
+     "사진이 모자라 3장(1, 2, 3번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "2026년 10월 주요 행사 — 서울특별시",
+      "link": "https://news.seoul.go.kr/gov/archives/581185"
+     },
+     {
+      "title": "손종원·옥동식 셰프 한자리에…첫 '한식의 날' 축제 열린다 - 이투데이",
+      "link": "https://www.etoday.co.kr/news/view/2633142"
+     },
+     {
+      "title": "첫 법정기념일 맞은 '한식의 날'…23∼25일 한식대축제 (연합뉴스) - 서플",
+      "link": "https://supple.kr/news/cmuxgu3iy002rgb9kzt191bv6"
+     },
+     {
+      "title": "보고, 맛보고, 즐기는 K-미식의 정수 — 농림축산식품부",
+      "link": "https://mafra.go.kr/bbs/home/792/579375/artclView.do"
+     },
+     {
+      "title": "K-바비큐 맛집 요리가 한자리에! 난지캠핑장 '바비큐페스티벌' — 내 손안에 서울",
+      "link": "https://mediahub.seoul.go.kr/archives/2019789"
+     },
+     {
+      "title": "지글지글~ 군침 꼴깍! '서울 바비큐 페스티벌' 예약은? — 내 손안에 서울",
+      "link": "https://mediahub.seoul.go.kr/archives/2019341"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759717/uhxnsyp5l3mncakiap56.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759717/ri0qga5mdbzi1xmx3pip.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759717/p2fhw7wg75dor9j7v2ue.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759717/djmsukluptpwqsm93xtb.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759719/svk5psm00mv4apqbzkrg.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759718/e1iaissemrjpdqvh9obv.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759721/jpfua7dcs7xvigwluylw.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759717/uhxnsyp5l3mncakiap56.jpg"
+     },
+     "at": "2026-10-23T21:48+09:00",
+     "v": {
+      "A": "12d32c76",
+      "B": "8ed5e250"
+     }
+    }
+   },
+   "corner_name": "정리",
+   "corner_no": 1
+  },
+  {
+   "source": {
+    "id": "claude:canon-hanbangdang-seochon",
+    "account": "@기사",
+    "url": "https://www.joongangenews.com/news/articleView.html?idxno=557767",
+    "image": null,
+    "head": "캐논 사진 한방당 10/23~11/1 서촌 유스퀘이크",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-23T21:48+09:00",
+   "key": "6058270c",
+   "by": "claude",
+   "subjects": [
+    "캐논코리아"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "카메라를 고르기 전에 '사진 체질'부터 — 오늘 서촌에 연 캐논 체험형 팝업, 찍은 한 장은 인화해 준다",
+    "why": "오늘 열어 11/1까지 열흘 — 주말 서촌 나들이로 이어진다. 기간·주소·운영 시간·예약은 기사 셋(중앙이코노미·통신일보·보드나라)에서 맞췄다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-23T21:48+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n캐논코리아가 서촌에 체험형 팝업 '캐논 사진 한방당'을 열었습니다.\n\n입장하면 평소 촬영 습관을 적는 리플렛부터 받는데요, 답에 따라 '사물인'·'인상인'·'찰나인'·'풍경인' 네 가지 사진 체질 가운데 하나를 확인하고, 체질별 공간에서 카메라와 렌즈를 직접 써 볼 수 있습니다. 옥상의 '풍경인' 공간에서는 경복궁 영추문과 서촌 풍경을 담습니다.\n\n프로그램을 다 마치면 직접 찍은 사진 한 장을 현장에서 인화해 줍니다. 서촌 산책·광화문 라이드·서울의 밤, 세 가지 출사 클래스도 따로 열립니다.\n\n기간: 10월 23일(금) ~ 11월 1일(일)\n장소: 서울 종로구 효자로 25 유스퀘이크\n시간: 평일 오전 11시~오후 7시 · 주말 오전 10시~오후 8시\n예약: 네이버 지도 '캐논 사진 한방당' (사전 예약자 우선 입장)\n#SENE #캐논 #서촌팝업 #캐논사진한방당 #서촌\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792759696/s52wmrzgjux6vfbngtah.jpg\n제목: 캐논, 서촌에|사진 체질 팝업\n부제: 캐논 사진 한방당 · 10/23~11/1 · 효자로 유스퀘이크\n출처:\n",
+    "caption": "캐논코리아가 서촌에 체험형 팝업 '캐논 사진 한방당'을 열었습니다.\n\n입장하면 평소 촬영 습관을 적는 리플렛부터 받는데요, 답에 따라 '사물인'·'인상인'·'찰나인'·'풍경인' 네 가지 사진 체질 가운데 하나를 확인하고, 체질별 공간에서 카메라와 렌즈를 직접 써 볼 수 있습니다. 옥상의 '풍경인' 공간에서는 경복궁 영추문과 서촌 풍경을 담습니다.\n\n프로그램을 다 마치면 직접 찍은 사진 한 장을 현장에서 인화해 줍니다. 서촌 산책·광화문 라이드·서울의 밤, 세 가지 출사 클래스도 따로 열립니다.\n\n기간: 10월 23일(금) ~ 11월 1일(일)\n장소: 서울 종로구 효자로 25 유스퀘이크\n시간: 평일 오전 11시~오후 7시 · 주말 오전 10시~오후 8시\n예약: 네이버 지도 '캐논 사진 한방당' (사전 예약자 우선 입장)\n#SENE #캐논 #서촌팝업 #캐논사진한방당 #서촌",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759696/s52wmrzgjux6vfbngtah.jpg",
+      "credit": "신뢰"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759696/s52wmrzgjux6vfbngtah.jpg",
+      "credit": "신뢰"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "캐논, 서촌에|사진 체질 팝업",
+      "sub": "캐논 사진 한방당 · 10/23~11/1 · 효자로 유스퀘이크"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "카메라 고르기 전|사진 체질부터",
+      "sub": "캐논 사진 한방당 · 서촌 · 11월 1일까지"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "입장료·현장 입장 가능 여부는 기사에 없음(사전 예약자 우선 입장만) — 캐논코리아 공식 계정 공지로 확인 후 예약 줄 보완",
+     "캐논코리아 공식 인스타 핸들 확인 못 함 — 사진은 기사 속 캐논코리아 제공 외관 사진",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "캐논코리아, 서울 서촌에 체험형 팝업 오픈 …나에게 맞는 카메라 찾는다 - 중앙이코노미뉴스",
+      "link": "https://www.joongangenews.com/news/articleView.html?idxno=557767"
+     },
+     {
+      "title": "캐논코리아, 팝업스토어 '캐논 사진 한방당' 23일 오픈… 사전예약 시작 - 통신일보",
+      "link": "http://www.cdnews.co.kr/news/articleView.html?idxno=201179"
+     },
+     {
+      "title": "캐논코리아, 서촌에 체험형 팝업 '캐논 사진 한방당' 문 열어 - 보드나라",
+      "link": "https://www.bodnara.co.kr/bbs/article.html?num=214965"
+     },
+     {
+      "title": "캐논코리아, 서촌에 체험형 팝업 `캐논 사진 한방당` 개장 - 디지털데일리",
+      "link": "https://www.ddaily.co.kr/page/view/2026102313115986502"
+     },
+     {
+      "title": "\"나에게 맞는 카메라는?\" 캐논코리아, 서촌에 체험형 팝업 '사진 한방당' 오픈 - 뉴스탭",
+      "link": "https://www.newstap.co.kr/news/articleView.html?idxno=336379"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759724/lbxytrcjjnj4tnfyuxs2.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759724/c0hykhgxfolbdvkpkkkn.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759726/inusym6pvipuoirdbxcs.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792759724/lbxytrcjjnj4tnfyuxs2.jpg"
+     },
+     "at": "2026-10-23T21:48+09:00",
+     "v": {
+      "A": "91a410c2",
+      "B": "0ddb8113"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -2369,7 +2805,7 @@
     "need_today": 10,
     "day": null,
     "next_no": null,
-    "drafts": 10,
+    "drafts": 11,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -2381,7 +2817,7 @@
     "need_today": 2,
     "day": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "날짜·장소·가격이 있는 모음 (이번 주 성수 팝업 · 이번 달 개봉작). 순위는 매기지 않는다"
    },
    {
@@ -2453,7 +2889,7 @@
     "need_today": 1,
     "day": null,
     "next_no": null,
-    "drafts": 2,
+    "drafts": 3,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
    },
    {
@@ -2481,7 +2917,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T20:42+09:00"
+  "at": "2026-10-23T21:50+09:00"
  },
  "slots": {
   "basis": 0,
