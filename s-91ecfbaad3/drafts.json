@@ -1168,7 +1168,9 @@
      "at": "2026-10-23T11:58+09:00",
      "v": {
       "A": "92112bac",
-      "B": "79e46aff"
+      "B": "79e46aff",
+      "E": "3fd6d491",
+      "J": "20bf1cff"
      }
     }
    },
@@ -1227,7 +1229,57 @@
     "at": "2026-10-23T11:57+09:00"
    },
    "i18n_queued": "2026-10-23T11:57+09:00",
-   "corner_name": "그 말"
+   "corner_name": "그 말",
+   "i18n": {
+    "at": "2026-10-23T11:59+09:00",
+    "confirm": [
+     "일본어 제목: 일본 기사(oricon·hollywoodreporter.jp)에서 『再婚承認を要求します』로 확인. 이 제목이 디즈니+ 재팬 페이지의 최종 표기와 같은지는 직접 확인하지 못했음",
+     "영어 인물명: 하인리를 'Heinrey'로 적었음(기사 다수 표기). 웹툰 영어판은 'Heinley', 라스타는 'Rashta'/'Rasta'로 매체마다 다르니 디즈니+ 공식 표기로 확인 필요",
+     "일본어 인물명(ソビエシュ・ナビエ・ラスタ・ハインリ)은 일본 웹툰판 표기 기준. 드라마 공식 표기는 확인하지 못했음",
+     "감독(조수원 → Jo Soo-won/チョ・スウォン)과 작가(여지나 → Yeo Ji-na/ヨ・ジナ, 현충열 → Hyun Chung-yeol/ヒョン・チュンヨル)의 영어·일본어 표기는 공식 출처에서 확인하지 못해 로마자·カタカナ로 옮겼음",
+     "숏폼 세 줄은 원문 순서(곡·아티스트·후킹)대로 돌려줌. 화면에서는 후킹 → 아티스트 → 곡 순서로 한 문장처럼 읽힘"
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Empress Navier (Shin Min-a), the perfect empress, is told by Emperor Sovieshu (Ju Ji-hoon) that he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and asks, in the same breath, for approval to remarry. Jo Soo-won directs, from a script by Yeo Ji-na and Hyun Chung-yeol.\n\nPremiere: Nov 4 (Wed), Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724258/nlc5gpnyasq2ofzdfcaf.jpg\n제목: The Remarried Empress|On Disney+ Nov 4\n부제: Shin Min-a · Ju Ji-hoon · Lee Jong-suk · Lee Se-young\n출처: 디즈니플러스\n",
+      "caption": "The Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Empress Navier (Shin Min-a), the perfect empress, is told by Emperor Sovieshu (Ju Ji-hoon) that he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and asks, in the same breath, for approval to remarry. Jo Soo-won directs, from a script by Yeo Ji-na and Hyun Chung-yeol.\n\nPremiere: Nov 4 (Wed), Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724370/ubilbilbes317tscunku.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724369/e37ev1pwnkjhvgk9smgz.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724370/ubilbilbes317tscunku.jpg"
+       },
+       "at": "2026-10-23T11:59+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:01-1:29\n곡: for my remarriage\n아티스트: and request approval\n피처링:\n후킹: I accept the divorce\n출처: Disney Plus Korea 디즈니 플러스 코리아\n자막: 자동",
+      "caption": "This is the scene where Empress Navier accepts the divorce.\n\nIt comes from the main trailer for the Disney+ series The Remarried Empress (@disneypluskr). After Emperor Sovieshu (Ju Ji-hoon) gives his heart to the runaway slave Rashta (Lee Se-young) and raises divorce, Navier (Shin Min-a) accepts it, and asks for approval to remarry at the same time. Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nThe series is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Jo Soo-won directs.\n\nPremiere: Nov 4 (Wed), Disney+\nVideo: Official Disney+ Korea trailer\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）が11月4日に配信されます。\n\n2018年にウェブ小説として連載が始まり、ウェブトゥーンへと続いた同名作品が原作で、皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた完璧な皇后ナビエ（シン・ミナ）の物語です。皇帝が心を寄せる逃亡奴隷ラスタはイ・セヨン、西王国の王子ハインリはイ・ジョンソクが演じます。\n\n予告編の最後で、ナビエは離婚を受け入れると告げ、あわせて再婚の承認を求めます。演出はチョ・スウォン監督、脚本はヨ・ジナ、ヒョン・チュンヨルです。\n\n配信：11月4日（水）ディズニープラス\n#SENE #再婚承認を要求します #ディズニープラス #シンミナ #イジョンソク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724258/nlc5gpnyasq2ofzdfcaf.jpg\n제목: 『再婚承認を要求します』|11月4日ディズニー＋配信\n부제: シン・ミナ／チュ・ジフン／イ・ジョンソク／イ・セヨン\n출처: 디즈니플러스\n",
+      "caption": "ディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）が11月4日に配信されます。\n\n2018年にウェブ小説として連載が始まり、ウェブトゥーンへと続いた同名作品が原作で、皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた完璧な皇后ナビエ（シン・ミナ）の物語です。皇帝が心を寄せる逃亡奴隷ラスタはイ・セヨン、西王国の王子ハインリはイ・ジョンソクが演じます。\n\n予告編の最後で、ナビエは離婚を受け入れると告げ、あわせて再婚の承認を求めます。演出はチョ・スウォン監督、脚本はヨ・ジナ、ヒョン・チュンヨルです。\n\n配信：11月4日（水）ディズニープラス\n#SENE #再婚承認を要求します #ディズニープラス #シンミナ #イジョンソク",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724372/kvrgw1tgzesjlcgssve0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724372/wusuzv0vjhbks6sf2i4b.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724372/kvrgw1tgzesjlcgssve0.jpg"
+       },
+       "at": "2026-10-23T11:59+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:01-1:29\n곡: 要求します\n아티스트: そして再婚の承認を\n피처링:\n후킹: 離婚を受け入れます\n출처: Disney Plus Korea 디즈니 플러스 코리아\n자막: 자동",
+      "caption": "皇后ナビエが離婚を受け入れる場面です。\n\nディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）のメイン予告編の一場面で、皇帝ソビエシュ（チュ・ジフン）が逃亡奴隷ラスタ（イ・セヨン）に心を寄せて離婚を切り出すと、ナビエ（シン・ミナ）は離婚を受け入れる代わりに再婚の承認をあわせて求めます。西王国の王子ハインリはイ・ジョンソクが演じます。\n\n2018年にウェブ小説として始まり、ウェブトゥーンへと続いた同名作品が原作で、チョ・スウォン監督が演出を手がけました。\n\n配信：11月4日（水）ディズニープラス\n映像：ディズニープラス コリア公式予告編\n#SENE #再婚承認を要求します #ディズニープラス #シンミナ #イジョンソク"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1358,7 +1410,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T11:58+09:00"
+  "at": "2026-10-23T11:59+09:00"
  },
  "slots": {
   "basis": 0,
