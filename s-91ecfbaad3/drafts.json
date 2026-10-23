@@ -2995,65 +2995,63 @@
       "A": "b922f7bf",
       "B": "923c4b6d",
       "C": "13c07d0b",
-      "E": "b0bfb57a",
-      "J": "5f14dc7c"
+      "E": "0a10aa41",
+      "J": "c41f99e4"
      }
     }
    },
    "i18n_queued": "2026-10-23T23:35+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-23T23:38+09:00",
+    "at": "2026-10-23T23:39+09:00",
     "confirm": [
-     "영어 메뉴 이름 'Same-Day Discount Ticket'는 예술의전당 영문 사이트에서 공식 표기를 확인하지 못해 뜻을 옮긴 이름입니다. 영문 사이트에 다른 표기가 있으면 그 표기로 바꿔 주세요.",
-     "'Service Plaza'(서비스플라자)도 공식 영문 표기를 확인하지 못했습니다.",
-     "일본어 '文化ヌリカード'는 음역입니다. 공식 일본어 표기는 확인하지 못했습니다.",
-     "영어판 프로그램 이름 'Same-Day Discount Ticket'은 예술의전당 영문 사이트에서 공식 표기를 확인하지 못함 — 올리기 전 sac.or.kr 영문 페이지 확인",
-     "영어·일본어판 표지 '24세까지'만 적혀 있음 — 만 69세 이상·문화누리카드 소지자도 대상이라는 점은 원문 표지와 같지만 캡션에서만 보임(원문 그대로라 고치지 않음)"
+     "영어 공식 이름 'Seoul Arts Center' 와 'Service Plaza' 는 예술의전당 영문 사이트에서 확인했습니다. 다만 '당일할인티켓'의 공식 영어 이름은 찾지 못해서 'Same-Day Discount Ticket' 으로 옮기고 한국어 원어를 함께 적었습니다.",
+     "일본어 '芸術の殿堂' 은 일본어권에서 흔히 쓰는 표기입니다. 일본어 공식 표기는 따로 확인하지 못했습니다.",
+     "문화누리카드의 영어(Munhwa Nuri Card)·일본어(文化ヌリカード) 표기는 공식 출처에서 확인하지 못했습니다. 그래서 두 판 모두 처음 나올 때 원어를 함께 적었습니다.",
+     "영어 표지 제목은 두 줄 구조와 22자 안팎 길이를 맞추려고 'Seats … Same Day' 로 풀어 썼습니다. 원문의 '아침' 은 부제의 'Released daily at 9 a.m.' 에 담았습니다.",
+     "출처: https://sac.or.kr/site/eng/content/directionGuide · https://www.sac.or.kr/site/eng/show/show_view?SN=62750",
+     "영어 · 예매 줄에 한글 '(당일할인티켓)'이 남아 있음 — 한국어 사이트에서 메뉴를 찾는 데 도움이 돼 그대로 두었음. 예술의전당 영어 사이트에 같은 메뉴가 있는지 확인한 뒤 뺄지 정할 것",
+     "영어 · 부제 'Ages up to 24' — 원문과 같지만 만 69세 이상·문화누리카드 소지자도 살 수 있다는 점은 캡션에만 있음 (원문과 같은 구조라 고치지 않았음)"
     ],
     "review": {
-     "at": "2026-10-23T23:38+09:00",
+     "at": "2026-10-23T23:39+09:00",
      "fixes": [
-      "영어 · 표지 제목 · 'Seoul Arts Center Shows,|KRW 5,000 Same Morning' → 'Seoul Arts Center:|KRW 5,000 Day-Of Seats' — 1줄이 22자를 넘고 'Same Morning'이 직역투라 뜻이 바로 안 읽힘",
-      "영어 · 부제 · 'Ages up to 24' → 'Ages 24 and under' — 어색한 연어",
-      "영어 · 캡션 · 'releases part of each day's seats' → 'releases some seats for that day's performances' — 직역투",
-      "영어 · 캡션 · 'show ID with your age' → 'show ID that confirms your age' — 어색한 표현",
-      "일본어 · 캡션 · 当日予約のため → 当日購入のため — 원문 '당일 예매'는 당일 구매 뜻이라 일본어로 더 자연스럽게"
+      "영어 · 캡션 둘째 단락 · releases part of the seats → releases some of the seats — 어색한 연어"
      ],
      "doubt": [
-      "영어판 프로그램 이름 'Same-Day Discount Ticket'은 예술의전당 영문 사이트에서 공식 표기를 확인하지 못함 — 올리기 전 sac.or.kr 영문 페이지 확인",
-      "영어·일본어판 표지 '24세까지'만 적혀 있음 — 만 69세 이상·문화누리카드 소지자도 대상이라는 점은 원문 표지와 같지만 캡션에서만 보임(원문 그대로라 고치지 않음)"
+      "영어 · 예매 줄에 한글 '(당일할인티켓)'이 남아 있음 — 한국어 사이트에서 메뉴를 찾는 데 도움이 돼 그대로 두었음. 예술의전당 영어 사이트에 같은 메뉴가 있는지 확인한 뒤 뺄지 정할 것",
+      "영어 · 부제 'Ages up to 24' — 원문과 같지만 만 69세 이상·문화누리카드 소지자도 살 수 있다는 점은 캡션에만 있음 (원문과 같은 구조라 고치지 않았음)"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nSeoul Arts Center sells some tickets only on the morning of the show.\n\nThe Same-Day Discount Ticket is a public program from Seoul Arts Center that releases some seats for that day's performances at a special price. It is open to ages 7 to 24, ages 69 and over, and Culture Nuri Card holders. Tickets with a regular price of KRW 30,000 or less cost KRW 5,000, and tickets above KRW 30,000 cost KRW 10,000.\n\nThe list of shows goes up every day at 9 a.m. Only participating productions that Seoul Arts Center presents or hosts are included, and seat grades and numbers vary by show. Because these are same-day sales, refunds and changes are not possible. You must show ID that confirms your age when you pick up the ticket and when you enter.\n\nReleased: Daily at 9 a.m.\nPrice: KRW 5,000 (regular price up to KRW 30,000) · KRW 10,000 (above KRW 30,000)\nReservations: 'Same-Day Discount Ticket' menu on the Seoul Arts Center website, Service Plaza, venue box offices\nLocation: Seoul Arts Center, Seocho-gu, Seoul\n\n#SENE #SeoulArtsCenter #SeoulConcert #Seocho #SeoulTravel #KoreaCulture\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792766129/scz955fafzpnhmcmowfn.jpg\n제목: Seoul Arts Center:|KRW 5,000 Day-Of Seats\n부제: Ages 24 and under · Released daily at 9 a.m.\n출처: Wikimedia Commons\n",
-      "caption": "Seoul Arts Center sells some tickets only on the morning of the show.\n\nThe Same-Day Discount Ticket is a public program from Seoul Arts Center that releases some seats for that day's performances at a special price. It is open to ages 7 to 24, ages 69 and over, and Culture Nuri Card holders. Tickets with a regular price of KRW 30,000 or less cost KRW 5,000, and tickets above KRW 30,000 cost KRW 10,000.\n\nThe list of shows goes up every day at 9 a.m. Only participating productions that Seoul Arts Center presents or hosts are included, and seat grades and numbers vary by show. Because these are same-day sales, refunds and changes are not possible. You must show ID that confirms your age when you pick up the ticket and when you enter.\n\nReleased: Daily at 9 a.m.\nPrice: KRW 5,000 (regular price up to KRW 30,000) · KRW 10,000 (above KRW 30,000)\nReservations: 'Same-Day Discount Ticket' menu on the Seoul Arts Center website, Service Plaza, venue box offices\nLocation: Seoul Arts Center, Seocho-gu, Seoul\n\n#SENE #SeoulArtsCenter #SeoulConcert #Seocho #SeoulTravel #KoreaCulture",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nSeoul Arts Center sells some tickets only on the morning of the performance.\n\nThe Same-Day Discount Ticket is a public program in which Seoul Arts Center releases some of the seats for that day's show at a special price. It is open to those aged 7 to 24, those aged 69 and over, and Munhwa Nuri Card (Culture Nuri Card) holders. Tickets with a regular price of KRW 30,000 or less cost KRW 5,000, and those above KRW 30,000 cost KRW 10,000.\n\nThe day's participating performances are announced every morning at 9 a.m. Only participating shows among Seoul Arts Center's own productions and rental performances are included, and seat grades and the number of seats vary by performance. Because these are same-day bookings, refunds and changes are not allowed, and you must show ID confirming your age when collecting the ticket and when entering.\n\nReleased: Daily at 9 a.m.\nPrice: KRW 5,000 for tickets KRW 30,000 or less · KRW 10,000 for tickets above KRW 30,000\nReservations: 'Same-Day Discount Ticket' (당일할인티켓) menu on the Seoul Arts Center website, Service Plaza and venue box offices\nLocation: Seoul Arts Center, Seocho-gu, Seoul\n\n#SENE #SeoulArtsCenter #SeoulConcerts #Seocho #SeoulCulture\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792766129/scz955fafzpnhmcmowfn.jpg\n제목: Seoul Arts Center Seats|for KRW 5,000, Same Day\n부제: Ages up to 24 · Released daily at 9 a.m.\n출처: Wikimedia Commons\n",
+      "caption": "Seoul Arts Center sells some tickets only on the morning of the performance.\n\nThe Same-Day Discount Ticket is a public program in which Seoul Arts Center releases some of the seats for that day's show at a special price. It is open to those aged 7 to 24, those aged 69 and over, and Munhwa Nuri Card (Culture Nuri Card) holders. Tickets with a regular price of KRW 30,000 or less cost KRW 5,000, and those above KRW 30,000 cost KRW 10,000.\n\nThe day's participating performances are announced every morning at 9 a.m. Only participating shows among Seoul Arts Center's own productions and rental performances are included, and seat grades and the number of seats vary by performance. Because these are same-day bookings, refunds and changes are not allowed, and you must show ID confirming your age when collecting the ticket and when entering.\n\nReleased: Daily at 9 a.m.\nPrice: KRW 5,000 for tickets KRW 30,000 or less · KRW 10,000 for tickets above KRW 30,000\nReservations: 'Same-Day Discount Ticket' (당일할인티켓) menu on the Seoul Arts Center website, Service Plaza and venue box offices\nLocation: Seoul Arts Center, Seocho-gu, Seoul\n\n#SENE #SeoulArtsCenter #SeoulConcerts #Seocho #SeoulCulture",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766294/vjrkaejdqo0ehszgxmcm.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766293/a4wiczlphtibzwzy2lez.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766356/bvzixvulm8xtgbdceqty.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766355/kaui8aqdb6b95hhldnbb.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766294/vjrkaejdqo0ehszgxmcm.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766356/bvzixvulm8xtgbdceqty.jpg"
        },
-       "at": "2026-10-23T23:38+09:00"
+       "at": "2026-10-23T23:39+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\n芸術の殿堂（イェスレチョンダン／예술의전당）には、公演当日の朝にだけ販売されるチケットがあります。\n\n「当日割引チケット」は、その日の公演の座席の一部を特別価格で販売する芸術の殿堂の公益事業です。購入できるのは満7歳から満24歳まで、満69歳以上、そして文化ヌリカード（문화누리카드）をお持ちの方です。定価3万ウォン以下のチケットは5,000ウォン、3万ウォンを超えるチケットは1万ウォンです。\n\nどの公演が対象になるかは毎日午前9時に公開されます。芸術の殿堂の企画・貸館公演のうち参加する公演だけが対象で、席の等級や席数も公演ごとに異なります。当日購入のため払い戻しや変更はできず、チケットの受け取り時と入場時に年齢を確認できる身分証の提示が必要です。\n\n公開：毎日午前9時\n価格：定価3万ウォン以下は5,000ウォン・3万ウォン超は1万ウォン\n予約：芸術の殿堂ホームページ「当日割引チケット」メニュー、サービスプラザ・各公演会場のチケット売り場\n場所：ソウル・瑞草区（ソチョグ） 芸術の殿堂\n\n#SENE #芸術の殿堂 #韓国旅行 #ソウル旅行 #韓国公演\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792766129/scz955fafzpnhmcmowfn.jpg\n제목: 芸術の殿堂の公演、|当日朝に5,000ウォン\n부제: 満24歳まで・毎朝9時に公開\n출처: Wikimedia Commons\n",
-      "caption": "芸術の殿堂（イェスレチョンダン／예술의전당）には、公演当日の朝にだけ販売されるチケットがあります。\n\n「当日割引チケット」は、その日の公演の座席の一部を特別価格で販売する芸術の殿堂の公益事業です。購入できるのは満7歳から満24歳まで、満69歳以上、そして文化ヌリカード（문화누리카드）をお持ちの方です。定価3万ウォン以下のチケットは5,000ウォン、3万ウォンを超えるチケットは1万ウォンです。\n\nどの公演が対象になるかは毎日午前9時に公開されます。芸術の殿堂の企画・貸館公演のうち参加する公演だけが対象で、席の等級や席数も公演ごとに異なります。当日購入のため払い戻しや変更はできず、チケットの受け取り時と入場時に年齢を確認できる身分証の提示が必要です。\n\n公開：毎日午前9時\n価格：定価3万ウォン以下は5,000ウォン・3万ウォン超は1万ウォン\n予約：芸術の殿堂ホームページ「当日割引チケット」メニュー、サービスプラザ・各公演会場のチケット売り場\n場所：ソウル・瑞草区（ソチョグ） 芸術の殿堂\n\n#SENE #芸術の殿堂 #韓国旅行 #ソウル旅行 #韓国公演",
+      "form": "[카테고리]\n컬처\n\n[캡션]\n芸術の殿堂（ソウル・アーツ・センター、예술의전당）には、公演当日の朝にだけ販売されるチケットがあります。\n\n「当日割引チケット（당일할인티켓）」は、その日の公演の座席の一部を特別価格で提供する芸術の殿堂の公益事業で、満7歳から満24歳まで、満69歳以上、そして文化ヌリカード（문화누리카드）の所持者が購入できます。定価3万ウォン以下のチケットは5,000ウォン、3万ウォンを超えるチケットは10,000ウォンです。\n\nどの公演が対象になるかは毎日午前9時に公開されます。芸術の殿堂の企画・貸館公演のうち参加する公演のみが対象で、席の等級や席数も公演ごとに異なります。当日予約のため払い戻し・変更はできず、チケットの受け取り時と入場時に年齢を確認できる身分証の提示が必要です。\n\n公開：毎日午前9時\n価格：3万ウォン以下は5,000ウォン・3万ウォン超は10,000ウォン\n予約：芸術の殿堂公式サイト「当日割引チケット」メニュー、サービスプラザ・公演会場チケット売り場\n場所：ソウル・瑞草区（ソチョグ）芸術の殿堂\n\n#SENE #芸術の殿堂 #韓国旅行 #ソウル観光 #韓国公演\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792766129/scz955fafzpnhmcmowfn.jpg\n제목: 芸術の殿堂の公演が|当日朝5,000ウォン\n부제: 満24歳まで・毎朝9時公開\n출처: Wikimedia Commons\n",
+      "caption": "芸術の殿堂（ソウル・アーツ・センター、예술의전당）には、公演当日の朝にだけ販売されるチケットがあります。\n\n「当日割引チケット（당일할인티켓）」は、その日の公演の座席の一部を特別価格で提供する芸術の殿堂の公益事業で、満7歳から満24歳まで、満69歳以上、そして文化ヌリカード（문화누리카드）の所持者が購入できます。定価3万ウォン以下のチケットは5,000ウォン、3万ウォンを超えるチケットは10,000ウォンです。\n\nどの公演が対象になるかは毎日午前9時に公開されます。芸術の殿堂の企画・貸館公演のうち参加する公演のみが対象で、席の等級や席数も公演ごとに異なります。当日予約のため払い戻し・変更はできず、チケットの受け取り時と入場時に年齢を確認できる身分証の提示が必要です。\n\n公開：毎日午前9時\n価格：3万ウォン以下は5,000ウォン・3万ウォン超は10,000ウォン\n予約：芸術の殿堂公式サイト「当日割引チケット」メニュー、サービスプラザ・公演会場チケット売り場\n場所：ソウル・瑞草区（ソチョグ）芸術の殿堂\n\n#SENE #芸術の殿堂 #韓国旅行 #ソウル観光 #韓国公演",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766296/carw1tu5rbthgqgwj9rx.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766296/zuocy6tmonu0xknydsqq.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766359/ypnyvkhfmoysmstwiwud.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766358/aqkzsk2e9q6afztazbcd.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766296/carw1tu5rbthgqgwj9rx.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766359/ypnyvkhfmoysmstwiwud.jpg"
        },
-       "at": "2026-10-23T23:38+09:00"
+       "at": "2026-10-23T23:39+09:00"
       }
      }
     }
@@ -3188,7 +3186,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T23:38+09:00"
+  "at": "2026-10-23T23:39+09:00"
  },
  "slots": {
   "basis": 0,
