@@ -339,11 +339,6 @@
       }
      }
     }
-   },
-   "pick": {
-    "rank": 2,
-    "why": "저스틴 비버 방한과 SKYLRK 성수 팝업이 오늘 가장 많이 이야기되고, 일요일에 끝난다",
-    "at": "2026-10-23T11:57+09:00"
    }
   },
   {
@@ -659,11 +654,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "금요일 낮 고정 연재 첫 회 — 일요일에 끝나는 전시·팝업을 앞에 둔 저장각 모음",
-    "at": "2026-10-23T11:57+09:00"
-   },
    "i18n_queued": "2026-10-23T11:57+09:00",
    "corner_name": "이번 주말 뭐 하지",
    "corner_no": 1,
@@ -720,6 +710,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "금요일 고정 연재 — 퇴근길에 주말 동선을 저장해 두는 시간이고, 일요일에 끝나는 둘이 앞에 있다",
+    "at": "2026-10-23T17:45+09:00"
    }
   },
   {
@@ -1378,11 +1373,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 3,
-    "why": "오늘 회차 숏폼 — 공식 예고편 속 '재혼 승인' 한 마디가 첫 화면에서 바로 선다",
-    "at": "2026-10-23T11:57+09:00"
-   },
    "i18n_queued": "2026-10-23T11:57+09:00",
    "corner_name": "그 말",
    "i18n": {
@@ -1551,6 +1541,389 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:terarosa-house-seongsu",
+    "account": "@보도자료",
+    "url": "https://www.newswire.co.kr/newsRead.php?no=1045325",
+    "image": null,
+    "head": "더 하우스 오브 테라로사 서울 10/24 성수 오픈 — 약 400평",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-23T17:45+09:00",
+   "key": "7b8d1808",
+   "by": "claude",
+   "subjects": [
+    "테라로사"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "마시는 자리보다 배우고 고르는 자리가 넓은 카페 — 테라로사 '2.0'의 첫 매장, 내일 성수에서",
+    "why": "내일(토) 여는 400평 플래그십이라 주말 갈 곳으로 바로 이어진다. 오픈일·규모·공간 구성·한정 메뉴가 보도자료와 기사 넷에서 맞는다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-23T17:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n테라로사(@terarosacoffee)가 내일 성수동에 플래그십 '더 하우스 오브 테라로사 서울'을 엽니다.\n\n강릉에서 시작한 커피 회사가 내건 '테라로사 2.0'의 첫 매장인데요, 약 400평 안에서 커피를 마시는 자리만큼 배우고 고르는 자리가 넓습니다. 스페셜티 커피 기초를 배우는 '커피 101', 손님이 고른 생두를 원하는 정도로 바로 볶아 주는 로스터리, 여러 산지의 커피를 견줘 마시는 테이스팅 코스가 한곳에 들어섰습니다.\n\n성수점에서만 파는 '성수 하프&풀 블렌드'와 '블랙 잉크 커피', 지구화학·한아조 같은 성수 이웃 브랜드와 만든 상품이 있고, 반려동물과 함께 앉는 펫 테라스도 있습니다. 12월에는 알랭 뒤카스의 초콜릿 브랜드가 들어옵니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n#SENE #테라로사 #성수카페 #더하우스오브테라로사 #성수동\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745112/kigrvycecpbqeieq9zlc.jpg\n제목: 테라로사, 성수에|400평 플래그십\n부제: 더 하우스 오브 테라로사 서울 · 10월 24일 오픈\n출처: @terarosacoffee\n",
+    "caption": "테라로사(@terarosacoffee)가 내일 성수동에 플래그십 '더 하우스 오브 테라로사 서울'을 엽니다.\n\n강릉에서 시작한 커피 회사가 내건 '테라로사 2.0'의 첫 매장인데요, 약 400평 안에서 커피를 마시는 자리만큼 배우고 고르는 자리가 넓습니다. 스페셜티 커피 기초를 배우는 '커피 101', 손님이 고른 생두를 원하는 정도로 바로 볶아 주는 로스터리, 여러 산지의 커피를 견줘 마시는 테이스팅 코스가 한곳에 들어섰습니다.\n\n성수점에서만 파는 '성수 하프&풀 블렌드'와 '블랙 잉크 커피', 지구화학·한아조 같은 성수 이웃 브랜드와 만든 상품이 있고, 반려동물과 함께 앉는 펫 테라스도 있습니다. 12월에는 알랭 뒤카스의 초콜릿 브랜드가 들어옵니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n#SENE #테라로사 #성수카페 #더하우스오브테라로사 #성수동",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745112/kigrvycecpbqeieq9zlc.jpg",
+      "credit": "@terarosacoffee",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/858088800_18634861543019460_3757003646890490949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6e9umxkotScQ7kNvwGvx9Kp&_nc_oc=AdpYV4YM-ujkz3dlkoClOimyNvvxPwQZChobO2xQNHv_aSUgX_s_aCfOC054ExcYntk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uHTq22ve_E_hf0Z3AQtDng&_nc_tpa=Q5bMBQKoditmxGeRzTfa-zLb84Bi4Y2HhL41GfDXmbojJSpF2H0zwEX-sTENyEfSn0oGVhBTtnbUJq4sCg&oh=00_AQOT278gLDcHKT_MFJBNldh3XzuHs_CIC3UFMrVcyyDBaQ&oe=6AE0FA96"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745112/kigrvycecpbqeieq9zlc.jpg",
+      "credit": "@terarosacoffee",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/858088800_18634861543019460_3757003646890490949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6e9umxkotScQ7kNvwGvx9Kp&_nc_oc=AdpYV4YM-ujkz3dlkoClOimyNvvxPwQZChobO2xQNHv_aSUgX_s_aCfOC054ExcYntk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uHTq22ve_E_hf0Z3AQtDng&_nc_tpa=Q5bMBQKoditmxGeRzTfa-zLb84Bi4Y2HhL41GfDXmbojJSpF2H0zwEX-sTENyEfSn0oGVhBTtnbUJq4sCg&oh=00_AQOT278gLDcHKT_MFJBNldh3XzuHs_CIC3UFMrVcyyDBaQ&oe=6AE0FA96"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "테라로사, 성수에|400평 플래그십",
+      "sub": "더 하우스 오브 테라로사 서울 · 10월 24일 오픈"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "고른 생두를 바로|볶아 주는 테라로사",
+      "sub": "성수 · 10월 24일(토) 오픈"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "도로명 주소·운영 시간·메뉴 가격은 보도자료와 기사 어디에도 없어 '성수동'까지만 씀 — 테라로사 공식 계정에 오픈 공지 뜨면 실용 정보 줄에 추가",
+     "숏폼 영상(공식 24초 티저)은 자막이 없어 장면을 못 봄 — 매장 장면이 나오는지 영상으로 확인"
+    ],
+    "research": [
+     {
+      "title": "테라로사, 성수에 '더 하우스 오브 테라로사 서울' 오픈… '테라로사 2.0' 본격화 - 뉴스와이어",
+      "link": "https://www.newswire.co.kr/newsRead.php?no=1045325"
+     },
+     {
+      "title": "'테라로사 2.0' 본격화, 성수에 '더 하우스 오브 테라로사 서울' 오픈 - 식품외식경제",
+      "link": "http://www.foodbank.co.kr/news/articleView.html?idxno=68687"
+     },
+     {
+      "title": "성수동에 400평 커피 공장 뜬다…테라로사 새단장 - 한국경제",
+      "link": "https://www.hankyung.com/article/202610229069g"
+     },
+     {
+      "title": "테라로사 김의열 \"가맹 없이 전국 출점\"…성수서 '2.0 시대' 연다 - 뉴스1",
+      "link": "https://www.news1.kr/industry/distribution/6328962"
+     },
+     {
+      "title": "성수에서 시작될 새로운 테라로사 | THE HOUSE OF TERAROSA SEOUL, Coming Soon — 테라로사",
+      "link": "https://www.youtube.com/watch?v=UqnG9fRqQ5A"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745120/krt5gzcfciwedbxokawk.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745119/w0hcim75tiydxiyycq2c.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745123/skjafhtawnvvz7lq95px.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745120/krt5gzcfciwedbxokawk.jpg"
+     },
+     "at": "2026-10-23T17:45+09:00",
+     "v": {
+      "A": "70c9f495",
+      "B": "b25b8ccf",
+      "E": "f2d7dd72",
+      "J": "f3ae6cf0"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: 내일 문을 엽니다\n아티스트: 테라로사 새 매장이\n피처링:\n후킹: 성수에 400평\n출처: 테라로사\n자막: 자동",
+    "caption": "테라로사(@terarosacoffee)가 성수동에 여는 새 매장의 공식 티저입니다.\n\n'더 하우스 오브 테라로사 서울'은 브랜드가 내건 '테라로사 2.0'의 첫 매장인데요, 약 400평 안에 커피를 배우는 '커피 101', 손님이 고른 생두를 바로 볶아 주는 로스터리, 산지별 테이스팅 코스가 함께 들어섰습니다.\n\n성수점 한정 '성수 하프&풀 블렌드'와 반려동물과 앉는 펫 테라스도 있습니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n영상: 테라로사 공식 유튜브\n#SENE #테라로사 #성수카페 #더하우스오브테라로사 #성수동",
+    "hooks": {
+     "A": "성수에 400평 / 테라로사 새 매장이 / 내일 문을 엽니다",
+     "B": "고른 생두를 / 그 자리에서 볶아 주는 / 성수 테라로사",
+     "C": "강릉 커피가 / 성수에 차린 400평 / 10월 24일 오픈"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=UqnG9fRqQ5A",
+     "credit": "테라로사",
+     "range": [
+      0.0,
+      24.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "도로명 주소·운영 시간·메뉴 가격은 보도자료와 기사 어디에도 없어 '성수동'까지만 씀 — 테라로사 공식 계정에 오픈 공지 뜨면 실용 정보 줄에 추가",
+     "숏폼 영상(공식 24초 티저)은 자막이 없어 장면을 못 봄 — 매장 장면이 나오는지 영상으로 확인"
+    ],
+    "research": [
+     {
+      "title": "테라로사, 성수에 '더 하우스 오브 테라로사 서울' 오픈… '테라로사 2.0' 본격화 - 뉴스와이어",
+      "link": "https://www.newswire.co.kr/newsRead.php?no=1045325"
+     },
+     {
+      "title": "'테라로사 2.0' 본격화, 성수에 '더 하우스 오브 테라로사 서울' 오픈 - 식품외식경제",
+      "link": "http://www.foodbank.co.kr/news/articleView.html?idxno=68687"
+     },
+     {
+      "title": "성수동에 400평 커피 공장 뜬다…테라로사 새단장 - 한국경제",
+      "link": "https://www.hankyung.com/article/202610229069g"
+     },
+     {
+      "title": "테라로사 김의열 \"가맹 없이 전국 출점\"…성수서 '2.0 시대' 연다 - 뉴스1",
+      "link": "https://www.news1.kr/industry/distribution/6328962"
+     },
+     {
+      "title": "성수에서 시작될 새로운 테라로사 | THE HOUSE OF TERAROSA SEOUL, Coming Soon — 테라로사",
+      "link": "https://www.youtube.com/watch?v=UqnG9fRqQ5A"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/UqnG9fRqQ5A/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745128/ww6wnwqe1fyueyqa4gun.jpg",
+     "key": "UqnG9fRqQ5A@0.0"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "내일 문을 여는 성수 400평 플래그십 — 이번 주말 '가 볼 새 곳'으로 바로 이어진다",
+    "at": "2026-10-23T17:45+09:00"
+   },
+   "i18n_queued": "2026-10-23T17:45+09:00",
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-23T17:45+09:00",
+    "confirm": [
+     "매장 이름 '더 하우스 오브 테라로사 서울'의 공식 영문·일문 표기(대소문자 포함)를 웹에서 확인하지 못해 영어는 'The House of Terarosa Seoul', 일본어는 カタカナ로 옮겼습니다. 공식 계정의 표기를 확인해 주세요.",
+     "지구화학·한아조의 공식 영문 표기를 찾지 못해 영어는 로마자(Jiguhwahak · Hanahzo)로, 일본어는 カタカナ 뒤 괄호에 원어를 넣었습니다.",
+     "알랭 뒤카스 초콜릿 브랜드는 원문처럼 브랜드 이름 없이 옮겼습니다. 국내 기사에는 '알랭 뒤카스 쇼콜라 파리'와 '르 쇼콜라 알랭 뒤카스' 두 이름이 함께 나옵니다.",
+     "영어판에만 400평을 1,320㎡ 정도로 바꾼 값을 괄호로 덧붙였습니다. 일본은 같은 단위(坪)를 써서 그대로 두었습니다. 원문에 없는 숫자를 빼야 하면 괄호를 지워 주세요.",
+     "숏폼 칸 길이 확인: 영어 'Terarosa's new store'(20자), '400 pyeong, Seongsu'(19자). 일본어는 셋 다 11자 안입니다.",
+     "부제는 매장 이름이 길어 일본어 한 줄 12자를 넘습니다."
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nTerarosa (@terarosacoffee) opens its flagship, 'The House of Terarosa Seoul', in Seongsu-dong tomorrow.\n\nIt is the first store under 'Terarosa 2.0', the vision set out by the coffee company that began in Gangneung. Across roughly 400 pyeong (about 1,320㎡), the space for learning and choosing is as large as the space for drinking. 'Coffee 101', a class in the basics of specialty coffee, a roastery that roasts green beans picked by customers to the degree they want on the spot, and a tasting course comparing coffees from different origins all sit under one roof.\n\nThere are the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', goods made with Seongsu neighbors such as Jiguhwahak and Hanahzo, and a pet terrace where guests can sit with their pets. In December, Alain Ducasse's chocolate brand moves in.\n\nOpening: Sat, Oct 24\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #Seongsu #SeoulCafe\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745053/ip2qviu65mkg4dpuynon.jpg\n제목: Terarosa in Seongsu:|a 400-pyeong flagship\n부제: The House of Terarosa Seoul · Opens Oct 24\n출처: @terarosacoffee\n",
+      "caption": "Terarosa (@terarosacoffee) opens its flagship, 'The House of Terarosa Seoul', in Seongsu-dong tomorrow.\n\nIt is the first store under 'Terarosa 2.0', the vision set out by the coffee company that began in Gangneung. Across roughly 400 pyeong (about 1,320㎡), the space for learning and choosing is as large as the space for drinking. 'Coffee 101', a class in the basics of specialty coffee, a roastery that roasts green beans picked by customers to the degree they want on the spot, and a tasting course comparing coffees from different origins all sit under one roof.\n\nThere are the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', goods made with Seongsu neighbors such as Jiguhwahak and Hanahzo, and a pet terrace where guests can sit with their pets. In December, Alain Ducasse's chocolate brand moves in.\n\nOpening: Sat, Oct 24\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #Seongsu #SeoulCafe",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745145/o3kiizzvb9zml4oxrjpe.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745145/tmawry0nga8iioczzyav.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745145/o3kiizzvb9zml4oxrjpe.jpg"
+       },
+       "at": "2026-10-23T17:45+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: Opens tomorrow\n아티스트: Terarosa's new store\n피처링:\n후킹: 400 pyeong, Seongsu\n출처: 테라로사\n자막: 자동",
+      "caption": "The official teaser for the new store Terarosa (@terarosacoffee) is opening in Seongsu-dong.\n\n'The House of Terarosa Seoul' is the first store under the brand's 'Terarosa 2.0'. Within roughly 400 pyeong (about 1,320㎡) are 'Coffee 101' for learning about coffee, a roastery that roasts customer-picked green beans on the spot, and a tasting course by origin.\n\nThere is also the Seongsu-only 'Seongsu Half & Full Blend' and a pet terrace for sitting with your pets.\n\nOpening: Sat, Oct 24\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nVideo: Terarosa official YouTube\n#SENE #Terarosa #SeongsuCafe #Seongsu #SeoulCafe"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nテラロサ（TERAROSA・테라로사）(@terarosacoffee)が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\n江陵（カンヌン）で始まったコーヒー会社が掲げる「テラロサ2.0」の最初の店舗で、約400坪の中に、コーヒーを飲む席と同じくらい学び、選ぶための場所が広くとられています。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、お客さんが選んだ生豆を好みの度合いでその場で焙煎するロースタリー、さまざまな産地のコーヒーを飲み比べるテイスティングコースが一か所に揃いました。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）といった聖水のご近所ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのチョコレートブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル・城東区（ソンドング）聖水洞\n#SENE #テラロサ #聖水 #ソウルカフェ #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745053/ip2qviu65mkg4dpuynon.jpg\n제목: テラロサ、聖水に|400坪の旗艦店\n부제: ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン\n출처: @terarosacoffee\n",
+      "caption": "テラロサ（TERAROSA・테라로사）(@terarosacoffee)が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\n江陵（カンヌン）で始まったコーヒー会社が掲げる「テラロサ2.0」の最初の店舗で、約400坪の中に、コーヒーを飲む席と同じくらい学び、選ぶための場所が広くとられています。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、お客さんが選んだ生豆を好みの度合いでその場で焙煎するロースタリー、さまざまな産地のコーヒーを飲み比べるテイスティングコースが一か所に揃いました。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）といった聖水のご近所ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのチョコレートブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル・城東区（ソンドング）聖水洞\n#SENE #テラロサ #聖水 #ソウルカフェ #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745148/psx1fafnayowyb0hnmeo.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745148/rqclqo0lcwswyo0boqzi.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745148/psx1fafnayowyb0hnmeo.jpg"
+       },
+       "at": "2026-10-23T17:45+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: 明日オープンします\n아티스트: テラロサ新店舗が\n피처링:\n후킹: 聖水に400坪\n출처: 테라로사\n자막: 자동",
+      "caption": "テラロサ（TERAROSA・테라로사）(@terarosacoffee)がソウル・聖水洞（ソンスドン）にオープンする新店舗の公式ティザーです。\n\n「ザ・ハウス・オブ・テラロサ・ソウル」はブランドが掲げる「テラロサ2.0」の最初の店舗で、約400坪の中に、コーヒーを学ぶ「コーヒー101」、お客さんが選んだ生豆をその場で焙煎するロースタリー、産地別のテイスティングコースが揃っています。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と、ペットと座れるペットテラスもあります。\n\nオープン：10月24日（土）\n場所：ソウル・城東区（ソンドング）聖水洞\n映像：テラロサ公式YouTube\n#SENE #テラロサ #聖水 #ソウルカフェ #韓国旅行"
+     }
+    }
+   }
+  },
+  {
+   "source": {
+    "id": "claude:dfesta-the-origin",
+    "account": "@예매처",
+    "url": "https://nol.yanolja.com/ticket/products/26014524",
+    "image": null,
+    "head": "D'FESTA THE ORIGIN 10/23~11/30 IFC몰 L3 MPX 갤러리",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-23T17:45+09:00",
+   "key": "b82f1db7",
+   "by": "claude",
+   "subjects": [
+    "디페스타"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "K팝 아홉 팀 48인을 음악 대신 사진·영상·그림으로 — 오늘 여의도에서 개막한 'D'FESTA THE ORIGIN'",
+    "why": "오늘 개막해 11월 30일까지 보러 갈 수 있는 전시. 기간·장소·참여 팀은 기사 셋, 운영 시간·가격은 NOL 티켓 예매 페이지에서 맞췄다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-23T17:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\nK팝 아티스트 48인이 참여한 전시 'D'FESTA THE ORIGIN'이 오늘 여의도에서 개막했습니다.\n\n지드래곤, 방탄소년단, 스트레이 키즈, 투모로우바이투게더, 에스파, 엔하이픈, 아이브, 라이즈, 코르티스까지 아홉 팀인데요, 약 2년에 걸쳐 30여 개 촬영 세트에서 찍은 사진과 영상을 한 전시장에 모았습니다.\n\n4m×8m 크기의 흑백 초상 'HUES OF BLACK', 48인이 함께 완성한 대형 영상 'KANON NO. 48', 멤버들이 직접 그린 그림과 팬에게 쓴 손편지가 걸렸습니다. 서울 다음은 내년 1월 도쿄입니다.\n\n기간: 10월 23일(금) ~ 11월 30일(월)\n장소: 서울 영등포구 국제금융로 10 IFC몰 L3 MPX 갤러리\n시간: 매일 오전 11시~오후 8시 40분 (입장 마감 오후 7시)\n가격: 일반 32,000원 · 예매 NOL 티켓\n#SENE #디페스타 #여의도전시 #IFC몰 #MPX갤러리\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745115/ejw1lzquu1adbszng2zq.jpg\n제목: K팝 48인 전시,|여의도에서 개막\n부제: D'FESTA THE ORIGIN · 10/23~11/30 · IFC몰\n출처: 디페스타\n",
+    "caption": "K팝 아티스트 48인이 참여한 전시 'D'FESTA THE ORIGIN'이 오늘 여의도에서 개막했습니다.\n\n지드래곤, 방탄소년단, 스트레이 키즈, 투모로우바이투게더, 에스파, 엔하이픈, 아이브, 라이즈, 코르티스까지 아홉 팀인데요, 약 2년에 걸쳐 30여 개 촬영 세트에서 찍은 사진과 영상을 한 전시장에 모았습니다.\n\n4m×8m 크기의 흑백 초상 'HUES OF BLACK', 48인이 함께 완성한 대형 영상 'KANON NO. 48', 멤버들이 직접 그린 그림과 팬에게 쓴 손편지가 걸렸습니다. 서울 다음은 내년 1월 도쿄입니다.\n\n기간: 10월 23일(금) ~ 11월 30일(월)\n장소: 서울 영등포구 국제금융로 10 IFC몰 L3 MPX 갤러리\n시간: 매일 오전 11시~오후 8시 40분 (입장 마감 오후 7시)\n가격: 일반 32,000원 · 예매 NOL 티켓\n#SENE #디페스타 #여의도전시 #IFC몰 #MPX갤러리",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745115/ejw1lzquu1adbszng2zq.jpg",
+      "credit": "디페스타",
+      "from": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/10/22112848/CP-2022-0227-40565992-thumb.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745115/ejw1lzquu1adbszng2zq.jpg",
+      "credit": "디페스타",
+      "from": "https://d3h3k01ny8mjr.cloudfront.net/tv-report/2026/10/22112848/CP-2022-0227-40565992-thumb.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "K팝 48인 전시,|여의도에서 개막",
+      "sub": "D'FESTA THE ORIGIN · 10/23~11/30 · IFC몰"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "아홉 팀 48인의|흑백 초상이 걸렸다",
+      "sub": "D'FESTA THE ORIGIN · 여의도 MPX 갤러리"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — 디스패치 / Dispatch (구간 0:15–0:45, 30초 · 자막 없음 — 장면 직접 확인)",
+     "주최는 기사·예매처 어디에도 안 나와 캡션에서 뺌 · 한 매체는 48인을 28인으로 적음 — 대다수와 예매처 소개 기준 48인 · 표지는 포스터+포토티켓 두 장 붙인 기사 사진이라 왼쪽 포스터 글자가 제목 뒤로 비침 — 공식 전시 사진 있으면 바꿀 것",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요",
+     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "D'FESTA THE ORIGIN — NOL 티켓",
+      "link": "https://nol.yanolja.com/ticket/products/26014524"
+     },
+     {
+      "title": "\"GD·BTS·SKZ·코르티스까지\"⋯'디페스타 디 오리진' 23일 개막 - 조이뉴스24",
+      "link": "https://www.joynews24.com/view/2017881"
+     },
+     {
+      "title": "지드래곤·BTS·스키즈·에스파 등 K팝 스타 한자리에…'디페스타' 23일 개막 - 싱글리스트",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=775486"
+     },
+     {
+      "title": "D'FESTA THE ORIGIN 전시 - 스페셜타임스",
+      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=476607"
+     },
+     {
+      "title": "[D'FESTA THE ORIGIN] KANON NO.48 — 디스패치",
+      "link": "https://www.youtube.com/watch?v=M_VN5rC9CzU"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745131/kmih4be49j5xq9nfwrmc.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745131/y6tar4godwn2edvizzrw.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745134/eeview3pjeicyacjsp2y.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745131/kmih4be49j5xq9nfwrmc.jpg"
+     },
+     "at": "2026-10-23T17:45+09:00",
+     "v": {
+      "A": "60729766",
+      "B": "6649c625"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: 여의도에서 11월 30일까지\n아티스트: 한 편의 영상에\n피처링:\n후킹: K팝 48인이\n출처: 디스패치 / Dispatch\n자막: 자동",
+    "caption": "48인이 함께 완성한 대형 영상 'KANON NO. 48'의 한 장면입니다.\n\n오늘 여의도 IFC몰 MPX 갤러리에서 개막한 전시 'D'FESTA THE ORIGIN'에 걸린 작품인데요, 지드래곤, 방탄소년단, 스트레이 키즈, 투모로우바이투게더, 에스파, 엔하이픈, 아이브, 라이즈, 코르티스 아홉 팀이 참여했습니다.\n\n흑백 초상과 멤버들이 직접 그린 그림, 팬에게 쓴 손편지도 함께 걸렸습니다.\n\n기간: 10월 23일(금) ~ 11월 30일(월)\n장소: 서울 영등포구 IFC몰 L3 MPX 갤러리\n가격: 일반 32,000원 · 예매 NOL 티켓\n영상: 디스패치 공식 유튜브\n#SENE #디페스타 #여의도전시 #IFC몰 #MPX갤러리",
+    "hooks": {
+     "A": "K팝 48인이 / 한 편의 영상에 / 여의도에서 11월 30일까지",
+     "B": "아홉 팀 48인의 / 사진과 영상이 / 한 전시장에 걸렸다",
+     "C": "음악 대신 / 사진으로 만나는 K팝 / 디페스타 디 오리진"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=M_VN5rC9CzU",
+     "credit": "디스패치 / Dispatch",
+     "range": [
+      15.0,
+      45.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — 디스패치 / Dispatch (구간 0:15–0:45, 30초 · 자막 없음 — 장면 직접 확인)",
+     "주최는 기사·예매처 어디에도 안 나와 캡션에서 뺌 · 한 매체는 48인을 28인으로 적음 — 대다수와 예매처 소개 기준 48인 · 표지는 포스터+포토티켓 두 장 붙인 기사 사진이라 왼쪽 포스터 글자가 제목 뒤로 비침 — 공식 전시 사진 있으면 바꿀 것"
+    ],
+    "research": [
+     {
+      "title": "D'FESTA THE ORIGIN — NOL 티켓",
+      "link": "https://nol.yanolja.com/ticket/products/26014524"
+     },
+     {
+      "title": "\"GD·BTS·SKZ·코르티스까지\"⋯'디페스타 디 오리진' 23일 개막 - 조이뉴스24",
+      "link": "https://www.joynews24.com/view/2017881"
+     },
+     {
+      "title": "지드래곤·BTS·스키즈·에스파 등 K팝 스타 한자리에…'디페스타' 23일 개막 - 싱글리스트",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=775486"
+     },
+     {
+      "title": "D'FESTA THE ORIGIN 전시 - 스페셜타임스",
+      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=476607"
+     },
+     {
+      "title": "[D'FESTA THE ORIGIN] KANON NO.48 — 디스패치",
+      "link": "https://www.youtube.com/watch?v=M_VN5rC9CzU"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/M_VN5rC9CzU/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745143/mqowvlngdmhisndj2i84.jpg",
+     "key": "M_VN5rC9CzU@15.0"
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "오늘 개막한 K팝 48인 전시 — 큰 이름 아홉 팀이 한 번에 걸려 도달이 크고, 숏폼이 함께 있다",
+    "at": "2026-10-23T17:45+09:00"
+   },
+   "i18n_queued": "2026-10-23T17:45+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -1569,7 +1942,7 @@
     "need_today": 10,
     "day": null,
     "next_no": null,
-    "drafts": 8,
+    "drafts": 10,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1681,7 +2054,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T17:05+09:00"
+  "at": "2026-10-23T17:45+09:00"
  },
  "slots": {
   "basis": 0,
