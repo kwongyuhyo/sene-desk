@@ -440,6 +440,7 @@ h1{margin:0 0 calc(var(--u)*0.5); font-size:29px; font-weight:800; letter-spacin
 .ytx .ys{color:var(--dim); font-size:12px; margin-top:3px; word-break:break-all} .ytx .yw{color:var(--amber); font-size:12px; margin-top:3px}
 .ytx .bt{display:flex; gap:6px; margin-top:6px}
 .odsc{font-size:12px; color:var(--dim); margin:4px 0 2px} .odsc a{color:var(--text)}
+.i18nck{margin:4px 0 6px; font-size:12.5px; color:var(--dim)} .i18nck summary{cursor:pointer} .i18nck .dbt{color:var(--amber)}
 .todo{margin:10px 14px 0; padding:9px 12px; border-radius:10px; background:var(--panel); font-size:13px} .todo b{color:var(--pick)} .todo.ok{color:var(--dim)}
 .ytx a.act{display:inline-block; border:1px solid var(--line); border-radius:8px; padding:7px 12px; font-size:13px; color:var(--text); text-decoration:none}
 .ytx .yr.new .yt::after{content:' · 새'; color:var(--pick); font-size:12px}
@@ -2337,7 +2338,17 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     var cur = langGet(it);
     return '<div class="covsel langsel">' + [['ko', 'KO'], ['en', 'EN'], ['ja', 'JA']].filter(function (x) { return x[0] === 'ko' || langCard(it, x[0]); })
       .map(function (x) { var pub = x[0] !== 'ko' && ((it.i18n[x[0]] || {}).published || {}).permalink;
-        return '<button class="' + (x[0] === cur ? 'on' : '') + '" data-lang="' + i + ':' + x[0] + '">' + x[1] + (pub ? ' ✓' : '') + '</button>'; }).join('') + '</div>';
+        return '<button class="' + (x[0] === cur ? 'on' : '') + '" data-lang="' + i + ':' + x[0] + '">' + x[1] + (pub ? ' ✓' : '') + '</button>'; }).join('') + '</div>' +
+      (cur !== 'ko' ? i18nCheck(it) : '');
+  }
+  /* 번역 검수 (10/23) — 맥이 번역 뒤에 원어민 눈으로 한 번 더 읽고 고친 것 · 사람이 볼 것 (it.i18n.review) */
+  function i18nCheck(it) {
+    var rv = (it.i18n || {}).review;
+    if (!rv) return '<div class="i18nck">번역 검수 전 판</div>';
+    var fx = rv.fixes || [], db = rv.doubt || [];
+    return '<div class="i18nck">' + (fx.length ? '<details><summary>번역 검수 — ' + fx.length + '곳 고침</summary>' +
+        fx.map(function (f) { return '<div>· ' + esc(f) + '</div>'; }).join('') + '</details>' : '<div>번역 검수 — 고칠 곳 없음</div>') +
+      db.map(function (f) { return '<div class="dbt">확인: ' + esc(f) + '</div>'; }).join('') + '</div>';
   }
   function slidesOf(it) {
     var lg = langGet(it);
@@ -4087,9 +4098,9 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.23 18:14';
+    a.title = '판 10.23 19:00';
     var ver = document.createElement('span');
-    ver.textContent = '10.23 18:14';
+    ver.textContent = '10.23 19:00';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);

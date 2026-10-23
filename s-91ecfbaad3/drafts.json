@@ -292,8 +292,8 @@
       "A": "77c4428e",
       "B": "2c332f00",
       "C": "725c5ac3",
-      "E": "c25956df",
-      "J": "51a0240b"
+      "E": "352eb8ae",
+      "J": "ed64e52b"
      }
     }
    },
@@ -305,37 +305,54 @@
      "번역 중 확인한 것: 브랜드 표기 SKYLRK(일본어 매체 표기 「SKYLRK（スカイラーク）」), 서울 팝업 10월 22일~25일·성수동 개최, 한국 첫 팝업이라는 점까지만. 이 내용은 보그 코리아 기사 한 곳에서만 봤습니다.",
      "원문에 상세 주소가 없어 영어·일본어판 장소 줄도 '성동구 성수동' 까지만 적었습니다. 외국 독자를 위해 정확한 주소를 공식 계정에서 확인해 두면 좋겠습니다.",
      "인천공항 도착(23일 새벽·헤일리 비버 동행), 13년 만의 방한, 인스타그램 'Made it to Seoul' 게시물은 원문 그대로 옮겼고 직접 확인하지 않았습니다.",
-     "현장에서 파는 품목(의류·신발·아이웨어·오디오)과 오전 10시 오픈도 원문 그대로입니다. 10월 20일 보그 코리아 기사에는 품목이 아직 공개되지 않았다고 나와 있으니 공식 계정의 최신 공지와 맞춰 봐 주세요."
+     "현장에서 파는 품목(의류·신발·아이웨어·오디오)과 오전 10시 오픈도 원문 그대로입니다. 10월 20일 보그 코리아 기사에는 품목이 아직 공개되지 않았다고 나와 있으니 공식 계정의 최신 공지와 맞춰 봐 주세요.",
+     "일본어 표지 첫 줄을 '비버'만 남기고 줄였습니다 — 피드에서 저스틴 비버로 바로 읽히는지 사람이 한 번 봐 주세요",
+     "일본어 카타카나 표기 スカイラーク 는 공식 일본어 표기를 확인하지 못했습니다",
+     "원문의 '13년 만의 방한'(2013년 이후 한 번도 안 왔다는 뜻)은 번역 검수에서 따로 확인하지 않았습니다 — 원문 쪽 확인 칸에 들어 있는지 봐 주세요"
     ],
+    "review": {
+     "at": "2026-10-23T18:56+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · Seongsu pop-up to Oct 25 → Seongsu Pop-Up Until Oct 25 — 'to' 가 날짜까지인지 바로 안 읽혀서 'Until' 로 바꾸고 기사 제목처럼 대문자로 씀",
+      "영어 · 캡션 둘째 단락 · 'marking a first visit to Korea in 13 years, since the 2013 concert here' → 문장을 둘로 나누고 'his 2013 concert in the country' 로 — 직역투에 'here' 가 어디인지 모호함",
+      "영어 · 캡션 둘째 단락 · 'Bieber posted photos from the trip to Seoul' → 'he posted photos from his trip to Seoul' — 같은 문단에서 이름이 반복되고 관사가 어색함",
+      "일본어 · 표지 제목 · ジャスティン・ビーバーの → ビーバーのブランド — 원문의 '브랜드'가 빠져 비버 본인의 팝업처럼 읽힘 (한 줄 12자 안에 맞추려고 이름을 줄임)"
+     ],
+     "doubt": [
+      "일본어 표지 첫 줄을 '비버'만 남기고 줄였습니다 — 피드에서 저스틴 비버로 바로 읽히는지 사람이 한 번 봐 주세요",
+      "일본어 카타카나 표기 スカイラーク 는 공식 일본어 표기를 확인하지 못했습니다",
+      "원문의 '13년 만의 방한'(2013년 이후 한 번도 안 왔다는 뜻)은 번역 검수에서 따로 확인하지 않았습니다 — 원문 쪽 확인 칸에 들어 있는지 봐 주세요"
+     ]
+    },
     "en": {
      "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nJustin Bieber's brand SKYLRK is holding its first Seoul pop-up in Seongsu-dong.\n\nBieber landed at Incheon Airport early on the 23rd with Hailey Bieber, marking a first visit to Korea in 13 years, since the 2013 concert here. The same day, Bieber posted photos from the trip to Seoul on Instagram with the words 'Made it to Seoul.'\n\nAt the pop-up, the brand's apparel, footwear, eyewear and audio products are available to buy on site. It closes on Sunday.\n\nDates: Oct 22 (Thu) – Oct 25 (Sun)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nHours: Opens at 10 a.m.\n\n#SENE #SKYLRK #JustinBieber #SeoulPopup #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792712798/u7rzgjf1oq00bzjtvtcg.jpg\n제목: Justin Bieber's brand|Seongsu pop-up to Oct 25\n부제: SKYLRK's first Seoul pop-up · Oct 22–25\n출처: @skylrk\n",
-      "caption": "Justin Bieber's brand SKYLRK is holding its first Seoul pop-up in Seongsu-dong.\n\nBieber landed at Incheon Airport early on the 23rd with Hailey Bieber, marking a first visit to Korea in 13 years, since the 2013 concert here. The same day, Bieber posted photos from the trip to Seoul on Instagram with the words 'Made it to Seoul.'\n\nAt the pop-up, the brand's apparel, footwear, eyewear and audio products are available to buy on site. It closes on Sunday.\n\nDates: Oct 22 (Thu) – Oct 25 (Sun)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nHours: Opens at 10 a.m.\n\n#SENE #SKYLRK #JustinBieber #SeoulPopup #Seongsu",
+      "form": "[카테고리]\n패션\n\n[캡션]\nJustin Bieber's brand SKYLRK is holding its first Seoul pop-up in Seongsu-dong.\n\nBieber landed at Incheon Airport early on the 23rd with Hailey Bieber. It is his first visit to Korea in 13 years, since his 2013 concert in the country. The same day, he posted photos from his trip to Seoul on Instagram with the words 'Made it to Seoul.'\n\nAt the pop-up, the brand's apparel, footwear, eyewear and audio products are available to buy on site. It closes on Sunday.\n\nDates: Oct 22 (Thu) – Oct 25 (Sun)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nHours: Opens at 10 a.m.\n\n#SENE #SKYLRK #JustinBieber #SeoulPopup #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792712798/u7rzgjf1oq00bzjtvtcg.jpg\n제목: Justin Bieber's Brand|Seongsu Pop-Up Until Oct 25\n부제: SKYLRK's first Seoul pop-up · Oct 22–25\n출처: @skylrk\n",
+      "caption": "Justin Bieber's brand SKYLRK is holding its first Seoul pop-up in Seongsu-dong.\n\nBieber landed at Incheon Airport early on the 23rd with Hailey Bieber. It is his first visit to Korea in 13 years, since his 2013 concert in the country. The same day, he posted photos from his trip to Seoul on Instagram with the words 'Made it to Seoul.'\n\nAt the pop-up, the brand's apparel, footwear, eyewear and audio products are available to buy on site. It closes on Sunday.\n\nDates: Oct 22 (Thu) – Oct 25 (Sun)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nHours: Opens at 10 a.m.\n\n#SENE #SKYLRK #JustinBieber #SeoulPopup #Seongsu",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723809/pnuxmkddg6ffruujnssf.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723808/rztl3qbzzmsub32xvclv.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749382/ypubkbumowjxwlehjjhj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749380/ugyjfqi8wzt5izhonxys.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723809/pnuxmkddg6ffruujnssf.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749382/ypubkbumowjxwlehjjhj.jpg"
        },
-       "at": "2026-10-23T11:50+09:00"
+       "at": "2026-10-23T18:56+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nジャスティン・ビーバーのブランドSKYLRK（スカイラーク）が、ソウル・聖水洞（ソンスドン）でソウル初のポップアップを開いています。\n\nビーバーは23日未明、ヘイリー・ビーバーとともに仁川空港に到着しました。2013年の来韓公演以来、13年ぶりの韓国訪問です。同じ日、Instagramに「Made it to Seoul」という言葉とともに、ソウルへ向かう道中の写真を投稿しました。\n\nポップアップでは、ブランドのウェアやシューズ、アイウェア、オーディオ製品をその場で購入できます。最終日は日曜日です。\n\n期間：10月22日（木）〜10月25日（日）\n場所：ソウル・城東区（ソンドング）聖水洞\n営業時間：午前10時オープン\n\n#SENE #SKYLRK #ジャスティンビーバー #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792712798/u7rzgjf1oq00bzjtvtcg.jpg\n제목: ジャスティン・ビーバーの|聖水ポップアップ25日まで\n부제: SKYLRK ソウル初ポップアップ・10月22日〜25日\n출처: @skylrk\n",
+      "form": "[카테고리]\n패션\n\n[캡션]\nジャスティン・ビーバーのブランドSKYLRK（スカイラーク）が、ソウル・聖水洞（ソンスドン）でソウル初のポップアップを開いています。\n\nビーバーは23日未明、ヘイリー・ビーバーとともに仁川空港に到着しました。2013年の来韓公演以来、13年ぶりの韓国訪問です。同じ日、Instagramに「Made it to Seoul」という言葉とともに、ソウルへ向かう道中の写真を投稿しました。\n\nポップアップでは、ブランドのウェアやシューズ、アイウェア、オーディオ製品をその場で購入できます。最終日は日曜日です。\n\n期間：10月22日（木）〜10月25日（日）\n場所：ソウル・城東区（ソンドング）聖水洞\n営業時間：午前10時オープン\n\n#SENE #SKYLRK #ジャスティンビーバー #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792712798/u7rzgjf1oq00bzjtvtcg.jpg\n제목: ビーバーのブランド|聖水ポップアップ25日まで\n부제: SKYLRK ソウル初ポップアップ・10月22日〜25日\n출처: @skylrk\n",
       "caption": "ジャスティン・ビーバーのブランドSKYLRK（スカイラーク）が、ソウル・聖水洞（ソンスドン）でソウル初のポップアップを開いています。\n\nビーバーは23日未明、ヘイリー・ビーバーとともに仁川空港に到着しました。2013年の来韓公演以来、13年ぶりの韓国訪問です。同じ日、Instagramに「Made it to Seoul」という言葉とともに、ソウルへ向かう道中の写真を投稿しました。\n\nポップアップでは、ブランドのウェアやシューズ、アイウェア、オーディオ製品をその場で購入できます。最終日は日曜日です。\n\n期間：10月22日（木）〜10月25日（日）\n場所：ソウル・城東区（ソンドング）聖水洞\n営業時間：午前10時オープン\n\n#SENE #SKYLRK #ジャスティンビーバー #聖水 #韓国旅行",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723812/reumwpzekyxd9w0siuvg.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723812/art0hnlqzpedcjwelef5.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749385/vf0gtah4pyico9emvxg6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749385/m1bsccpxlobnmrkjtcfx.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792723812/reumwpzekyxd9w0siuvg.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749385/vf0gtah4pyico9emvxg6.jpg"
        },
-       "at": "2026-10-23T11:50+09:00"
+       "at": "2026-10-23T18:56+09:00"
       }
      }
     }
@@ -649,8 +666,8 @@
      "v": {
       "A": "a3106ac6",
       "B": "e273cc06",
-      "E": "b4e695cc",
-      "J": "27b67ece"
+      "E": "67fd2070",
+      "J": "f8f9d70c"
      }
     }
    },
@@ -666,47 +683,66 @@
      "롯데몰 벨리타운 공식 영문 표기(Belli Town 추정) 확인 못 함",
      "겐츠베이커리(Gentz Bakery)·차지티(CHAGEE)·무신사 백&캡 클럽 영문·일본어 공식 표기 확인 못 함 — 로마자·カタカナ로 씀",
      "진격의 거인展 FINAL 일본어는 기존 2023년 서울 전시 일본어 표기 「進撃の巨人展 FINAL」에 맞춤, 영문 'Attack on Titan Exhibition FINAL'은 공식 영문 확인 못 함",
-     "DUEX(덕스) 일본어 읽기 「ドゥクス」는 한국어 발음을 옮긴 것"
+     "DUEX(덕스) 일본어 읽기 「ドゥクス」는 한국어 발음을 옮긴 것",
+     "유영국 전시는 언론 집계로 178점이라 원문의 '170여 점'과 어긋나지 않는다. 다만 SeMA 공식 페이지에서 점수와 영문 제목(A Mountain Within Me, Ocula 표기)을 한 번 더 확인할 것",
+     "롯데몰 벨리타운 영어 공식 표기 'Bellytown'은 지난 커밋 기준이므로 롯데 공식 영문 자료로 한 번 더 확인할 것",
+     "영어 캡션의 'opened today'는 10월 23일에 올릴 때만 맞다. 올리는 날이 늦어지면 한국어 원문의 '오늘'과 함께 고칠 것"
     ],
+    "review": {
+     "at": "2026-10-23T18:57+09:00",
+     "fixes": [
+      "영어 · 출처 칸 3·12번 · 서울시 → Seoul Metropolitan Government — 한글이 남아 있었음",
+      "영어 · 출처 칸 · 진격의 거인展 → Attack on Titan Exhibition — 한글이 남아 있었음",
+      "일본어 · 출처 칸 3·12번 · 서울시 → ソウル市 — 한글이 남아 있었음",
+      "일본어 · 출처 칸 · 진격의 거인展 → 進撃の巨人展 — 한글이 남아 있었음",
+      "영어 · 청량리 소제목·캡션 · Belli Town → Bellytown — 앞서 정한 영어 표기(8e8fc7c 커밋의 Bellitown → Bellytown)에 맞춤",
+      "일본어 · 진격의 거인展 본문 · DUEX（ドゥクス） → DUEX（ドクス） — 원문 읽기가 '덕스'라서"
+     ],
+     "doubt": [
+      "유영국 전시는 언론 집계로 178점이라 원문의 '170여 점'과 어긋나지 않는다. 다만 SeMA 공식 페이지에서 점수와 영문 제목(A Mountain Within Me, Ocula 표기)을 한 번 더 확인할 것",
+      "롯데몰 벨리타운 영어 공식 표기 'Bellytown'은 지난 커밋 기준이므로 롯데 공식 영문 자료로 한 번 더 확인할 것",
+      "영어 캡션의 'opened today'는 10월 23일에 올릴 때만 맞다. 올리는 날이 늦어지면 한국어 원문의 '오늘'과 함께 고칠 것"
+     ]
+    },
     "en": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nFive places in Seoul to go this weekend, listed in order of closing date.\n\nTwo close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Show around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Belli Town opened today in Cheongnyangni. Each slide lists the dates and location, plus hours and admission where confirmed.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #YooYoungkuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724233/tqbaszmw6xhz4dz1fogz.jpg\n제목: What to Do This Weekend|Oct 24 & 25\n부제: 5 spots: Seosomun, Seongsu, Seoul Forest, Hongdae, Cheongnyangni\n출처: 서울시\n\n[슬라이드]\n소스: \n소제목: Yoo Youngkuk: A Mountain Within Me\n본문: Through Sun, Oct 25|Seoul Museum of Art, Seosomun Main Building, 1F (Jung-gu)|Weekends 10 a.m.–7 p.m. · last entry 6 p.m.|Free · 110th-anniversary retrospective, 170-plus works\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: Sat, Oct 24 – Sun, Oct 25|Y173 cultural complex, Seongsu-dong (Seongdong-gu)|andar's first pop-up · yoga, Pilates and running classes|First look at the Air Cooling capsule collection\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724235/tj8xxv8t6kp79m29rzks.jpg\n소제목: Seoul International Garden Show\n본문: Through Tue, Oct 27|Around Seoul Forest (Seongdong-gu)|Artist gardens and participatory gardens · garden market|Final weekend of a six-month run that began in May\n출처: 서울시\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724237/umadwsu8zcarehvxmlev.jpg\n소제목: Attack on Titan Exhibition FINAL\n본문: Through Sun, Nov 1|LC Tower DUEX, Hongdae · Hongik Univ. Station Exit 4 (Mapo-gu)|11 a.m.–7 p.m. · last entry 6:20 p.m.|Adults KRW 26,000 · tickets via NOL Ticket and others\n출처: 진격의 거인展\n\n[슬라이드]\n소스: \n소제목: Lotte Mall Belli Town Cheongnyangni\n본문: Opened Fri, Oct 23|Lotte Castle SKY-L65 Landmark Tower (Dongdaemun-gu)|Gentz Bakery's first Seoul store · CHAGEE's first premium store|MUSINSA Bag & Cap Club · running-focused Decathlon\n출처:\n",
-      "caption": "Five places in Seoul to go this weekend, listed in order of closing date.\n\nTwo close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Show around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Belli Town opened today in Cheongnyangni. Each slide lists the dates and location, plus hours and admission where confirmed.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #YooYoungkuk",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nFive places in Seoul to go this weekend, listed in order of closing date.\n\nTwo close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Show around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Bellytown opened today in Cheongnyangni. Each slide lists the dates and location, plus hours and admission where confirmed.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #YooYoungkuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724233/tqbaszmw6xhz4dz1fogz.jpg\n제목: What to Do This Weekend|Oct 24 & 25\n부제: 5 spots: Seosomun, Seongsu, Seoul Forest, Hongdae, Cheongnyangni\n출처: Seoul Metropolitan Government\n\n[슬라이드]\n소스: \n소제목: Yoo Youngkuk: A Mountain Within Me\n본문: Through Sun, Oct 25|Seoul Museum of Art, Seosomun Main Building, 1F (Jung-gu)|Weekends 10 a.m.–7 p.m. · last entry 6 p.m.|Free · 110th-anniversary retrospective, 170-plus works\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: Sat, Oct 24 – Sun, Oct 25|Y173 cultural complex, Seongsu-dong (Seongdong-gu)|andar's first pop-up · yoga, Pilates and running classes|First look at the Air Cooling capsule collection\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724235/tj8xxv8t6kp79m29rzks.jpg\n소제목: Seoul International Garden Show\n본문: Through Tue, Oct 27|Around Seoul Forest (Seongdong-gu)|Artist gardens and participatory gardens · garden market|Final weekend of a six-month run that began in May\n출처: Seoul Metropolitan Government\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724237/umadwsu8zcarehvxmlev.jpg\n소제목: Attack on Titan Exhibition FINAL\n본문: Through Sun, Nov 1|LC Tower DUEX, Hongdae · Hongik Univ. Station Exit 4 (Mapo-gu)|11 a.m.–7 p.m. · last entry 6:20 p.m.|Adults KRW 26,000 · tickets via NOL Ticket and others\n출처: Attack on Titan Exhibition\n\n[슬라이드]\n소스: \n소제목: Lotte Mall Bellytown Cheongnyangni\n본문: Opened Fri, Oct 23|Lotte Castle SKY-L65 Landmark Tower (Dongdaemun-gu)|Gentz Bakery's first Seoul store · CHAGEE's first premium store|MUSINSA Bag & Cap Club · running-focused Decathlon\n출처: \n",
+      "caption": "Five places in Seoul to go this weekend, listed in order of closing date.\n\nTwo close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Show around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Bellytown opened today in Cheongnyangni. Each slide lists the dates and location, plus hours and admission where confirmed.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #YooYoungkuk",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/ord0nqb6qqfwtgapqp07.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/rceixh1wtmgr8zeh0kqw.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/armxma3sh55y3kf4uebs.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/qcphsckas7wswfji3xsu.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724455/oqndy4qjq9he022mczo1.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724455/zz4ucqd92rcfajjlmgyo.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724455/borjgmxqu92iioq5gklz.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749426/qgllwlogxt08zxnzvmam.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749426/gqdj0ygxdqzogh1dabse.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749426/vjkf9gi9mj3gf4y1dh4e.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749426/u9zsiq3w7wr5ths8gz83.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749428/wns73kc0ujyrss9vewdm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749428/triyxtxgulyzv2posdai.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749427/jdxj3dp3vgmszm1qhscy.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/ord0nqb6qqfwtgapqp07.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749426/qgllwlogxt08zxnzvmam.jpg"
        },
-       "at": "2026-10-23T12:00+09:00"
+       "at": "2026-10-23T18:57+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\n今週末ソウルで行ける5か所を、終わる日の順にまとめました。\n\n日曜日に幕を閉じる場所が二つあります。ソウル市立美術館のユ・ヨングク（유영국）回顧展と、ソウル・聖水洞（ソンスドン）のandar（アンダール）初のポップアップは、いずれも25日までです。ソウルの森一帯のソウル国際庭園博覧会も、27日で6か月の会期を終えます。\n\n弘大（ホンデ）の「進撃の巨人展 FINAL」は来週の日曜日まで続き、清凉里（チョンニャンニ）には今日、ロッテモール・ベリータウンが新たにオープンしました。各ページに期間と場所を、確認できた所は営業時間と入場料まで記しています。\n\n#SENE #韓国旅行 #ソウル旅行 #聖水 #弘大\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724233/tqbaszmw6xhz4dz1fogz.jpg\n제목: 今週末、何をしよう|10月24日・25日\n부제: 西小門・聖水・ソウルの森・弘大・清凉里の5か所\n출처: 서울시\n\n[슬라이드]\n소스: \n소제목: ユ・ヨングク：山は私の中にある\n본문: 10月25日（日）まで|ソウル市立美術館 西小門本館1階（中区）|週末 午前10時〜午後7時・入場は6時まで|無料・生誕110周年回顧展、170点余り\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: 10月24日（土）〜25日（日）|聖水洞の複合文化空間 Y173（城東区）|andar初のポップアップ・ヨガ、ピラティス、ランニングのクラス|エアクーリング・カプセルコレクションを初公開\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724235/tj8xxv8t6kp79m29rzks.jpg\n소제목: ソウル国際庭園博覧会\n본문: 10月27日（火）まで|ソウルの森一帯（城東区）|作家庭園・参加庭園・ガーデンマーケット|5月に始まった6か月の会期、最後の週末\n출처: 서울시\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724237/umadwsu8zcarehvxmlev.jpg\n소제목: 進撃の巨人展 FINAL\n본문: 11月1日（日）まで|弘大 LCタワー DUEX（ドゥクス）・弘大入口駅4番出口（麻浦区）|午前11時〜午後7時・入場締切6時20分|大人26,000ウォン・NOLチケットなどで予約\n출처: 진격의 거인展\n\n[슬라이드]\n소스: \n소제목: ロッテモール・ベリータウン清凉里\n본문: 10月23日（金）オープン|ロッテキャッスル SKY-L65 ランドマークタワー（東大門区）|ゲンツベーカリー ソウル1号店・CHAGEE プレミアム1号店|MUSINSA バッグ&キャップクラブ・ランニング特化のデカトロン\n출처:\n",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n今週末ソウルで行ける5か所を、終わる日の順にまとめました。\n\n日曜日に幕を閉じる場所が二つあります。ソウル市立美術館のユ・ヨングク（유영국）回顧展と、ソウル・聖水洞（ソンスドン）のandar（アンダール）初のポップアップは、いずれも25日までです。ソウルの森一帯のソウル国際庭園博覧会も、27日で6か月の会期を終えます。\n\n弘大（ホンデ）の「進撃の巨人展 FINAL」は来週の日曜日まで続き、清凉里（チョンニャンニ）には今日、ロッテモール・ベリータウンが新たにオープンしました。各ページに期間と場所を、確認できた所は営業時間と入場料まで記しています。\n\n#SENE #韓国旅行 #ソウル旅行 #聖水 #弘大\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724233/tqbaszmw6xhz4dz1fogz.jpg\n제목: 今週末、何をしよう|10月24日・25日\n부제: 西小門・聖水・ソウルの森・弘大・清凉里の5か所\n출처: ソウル市\n\n[슬라이드]\n소스: \n소제목: ユ・ヨングク：山は私の中にある\n본문: 10月25日（日）まで|ソウル市立美術館 西小門本館1階（中区）|週末 午前10時〜午後7時・入場は6時まで|無料・生誕110周年回顧展、170点余り\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: 10月24日（土）〜25日（日）|聖水洞の複合文化空間 Y173（城東区）|andar初のポップアップ・ヨガ、ピラティス、ランニングのクラス|エアクーリング・カプセルコレクションを初公開\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724235/tj8xxv8t6kp79m29rzks.jpg\n소제목: ソウル国際庭園博覧会\n본문: 10月27日（火）まで|ソウルの森一帯（城東区）|作家庭園・参加庭園・ガーデンマーケット|5月に始まった6か月の会期、最後の週末\n출처: ソウル市\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724237/umadwsu8zcarehvxmlev.jpg\n소제목: 進撃の巨人展 FINAL\n본문: 11月1日（日）まで|弘大 LCタワー DUEX（ドクス）・弘大入口駅4番出口（麻浦区）|午前11時〜午後7時・入場締切6時20分|大人26,000ウォン・NOLチケットなどで予約\n출처: 進撃の巨人展\n\n[슬라이드]\n소스: \n소제목: ロッテモール・ベリータウン清凉里\n본문: 10月23日（金）オープン|ロッテキャッスル SKY-L65 ランドマークタワー（東大門区）|ゲンツベーカリー ソウル1号店・CHAGEE プレミアム1号店|MUSINSA バッグ&キャップクラブ・ランニング特化のデカトロン\n출처: \n",
       "caption": "今週末ソウルで行ける5か所を、終わる日の順にまとめました。\n\n日曜日に幕を閉じる場所が二つあります。ソウル市立美術館のユ・ヨングク（유영국）回顧展と、ソウル・聖水洞（ソンスドン）のandar（アンダール）初のポップアップは、いずれも25日までです。ソウルの森一帯のソウル国際庭園博覧会も、27日で6か月の会期を終えます。\n\n弘大（ホンデ）の「進撃の巨人展 FINAL」は来週の日曜日まで続き、清凉里（チョンニャンニ）には今日、ロッテモール・ベリータウンが新たにオープンしました。各ページに期間と場所を、確認できた所は営業時間と入場料まで記しています。\n\n#SENE #韓国旅行 #ソウル旅行 #聖水 #弘大",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/yyokv9etcpux1l37kscq.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/ed1zujlw24xwc9nrbves.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/veeiru3k5fh5fat7kwlt.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/fay6qpuwarsc2lf8fvcr.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724461/n0s2mx9jkj8mfounsqxj.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724461/f46qjcgjnikwgmvszmpo.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724461/llhcukuhbsimsdb91q4h.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749432/sblehthsvbrd8mwn9kh8.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749432/mfks9ndoq3ivfwdleuol.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749432/vpheywx71o9uqsvyd4le.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749432/h29i0kdjuv9vjak0qaei.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749434/w375crefuqqe6nsrazeo.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749433/wawbvyspvmrqbev55t93.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749434/v8rol5wt7uei7l9fw0cz.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/yyokv9etcpux1l37kscq.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749432/sblehthsvbrd8mwn9kh8.jpg"
        },
-       "at": "2026-10-23T12:01+09:00"
+       "at": "2026-10-23T18:57+09:00"
       }
      }
     }
@@ -808,8 +844,8 @@
      "v": {
       "A": "77597ee6",
       "B": "8a0f2561",
-      "E": "8bbc6123",
-      "J": "b658f32e"
+      "E": "a876b0ea",
+      "J": "65cd08cd"
      }
     }
    },
@@ -820,37 +856,53 @@
      "'차지티'를 CHAGEE(霸王茶姬, 한국명 차지)로 보고 옮겼습니다. 기사마다 '차지티'·'차쥐티'로 표기가 달라 같은 브랜드인지 확인해 주세요.",
      "'무신사 백&캡 클럽'은 공식 영문 표기를 찾지 못해 'Musinsa Bag & Cap Club'(일본어 'バッグ＆キャップクラブ')으로 옮겼습니다.",
      "'청량 테라스' 영문 'Cheongnyang Terrace'·일본어 '清凉テラス'는 제가 옮긴 표기입니다. 공식 표기는 확인하지 못했습니다.",
-     "5,400평은 영어판에서 'pyeong' 그대로 두었습니다. ㎡로 바꾼 수치를 넣으면 원문에 없는 숫자가 더해지는 것이라 넣지 않았습니다."
+     "5,400평은 영어판에서 'pyeong' 그대로 두었습니다. ㎡로 바꾼 수치를 넣으면 원문에 없는 숫자가 더해지는 것이라 넣지 않았습니다.",
+     "영어 · 'pyeong'(평)은 영어권 독자에게 낯선 단위임 — 원문 사실만 옮긴다는 규칙 때문에 ㎡ 환산(5,400평 ≈ 약 17,850㎡, 600평 ≈ 약 1,980㎡)은 넣지 않았음. 넣을지 사람이 정해야 함",
+     "영어·일본어 · Bellytown/ベリータウン 공식 외국어 표기를 롯데 공식 발표로 한 번 더 확인할 것 (앞서 Bellitown → Bellytown으로 고친 이력 있음)"
     ],
+    "review": {
+     "at": "2026-10-23T18:57+09:00",
+     "fixes": [
+      "영어 · 출처 칸 · 롯데백화점 → Lotte Department Store — 한글이 남아 있었음",
+      "일본어 · 출처 칸 · 롯데백화점 → ロッテ百貨店 — 한글이 남아 있었음",
+      "영어 · 캡션 · 'in its first department-store placement' → 'making its first appearance at a major retailer' — 원문은 '유통업계에 처음'인데 '백화점 첫 입점'으로 뜻이 좁혀져 있었고 쉼표 삽입 때문에 나열이 헷갈리게 읽혔음",
+      "영어 · 캡션 · Musinsa Bag & Cap Club → MUSINSA Bag & Cap Club — 같은 글의 MUSINSA STANDARD와 표기를 맞춤",
+      "일본어 · 캡션 · 「流通業界に初めて入ったムシンサ（MUSINSA）の」 → 「流通業界初出店となるMUSINSA（ムシンサ）の」 — 직역투 풀어 씀"
+     ],
+     "doubt": [
+      "영어 · 'pyeong'(평)은 영어권 독자에게 낯선 단위임 — 원문 사실만 옮긴다는 규칙 때문에 ㎡ 환산(5,400평 ≈ 약 17,850㎡, 600평 ≈ 약 1,980㎡)은 넣지 않았음. 넣을지 사람이 정해야 함",
+      "영어·일본어 · Bellytown/ベリータウン 공식 외국어 표기를 롯데 공식 발표로 한 번 더 확인할 것 (앞서 Bellitown → Bellytown으로 고친 이력 있음)"
+     ]
+    },
     "en": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nLotte Department Store opened Lotte Mall Bellytown Cheongnyangni today in Cheongnyangni, Seoul.\n\nIt is the company's first new location in Seoul since the Gimpo Airport store in 2011. Around 50 brands fill about 5,400 pyeong across B1 to 4F of the Lotte Castle SKY-L65 Landmark Tower, and the mall connects directly to the existing Lotte Department Store Cheongnyangni.\n\nOn 1F, 'Cheongnyang Terrace' has GENTZ BAKERY's first Seoul store, CHAGEE's first premium store, and a TERAROSA (@terarosacoffee) hand-drip bar. 2F has Musinsa Bag & Cap Club, in its first department-store placement, a running-focused Decathlon, and OFF BEAUTY. Haidilao opens in November, and a 600-pyeong MUSINSA STANDARD follows in December.\n\nOpened: Oct 23 (Fri)\nLocation: B1–4F, Lotte Castle SKY-L65 Landmark Tower, Dongdaemun-gu, Seoul\n#SENE #Cheongnyangni #SeoulShopping #LotteMall #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724241/shqppcflbovfrxq9loig.jpg\n제목: Lotte's first new Seoul|mall in 15 years\n부제: Lotte Mall Bellytown Cheongnyangni · Opens Oct 23\n출처: 롯데백화점\n",
-      "caption": "Lotte Department Store opened Lotte Mall Bellytown Cheongnyangni today in Cheongnyangni, Seoul.\n\nIt is the company's first new location in Seoul since the Gimpo Airport store in 2011. Around 50 brands fill about 5,400 pyeong across B1 to 4F of the Lotte Castle SKY-L65 Landmark Tower, and the mall connects directly to the existing Lotte Department Store Cheongnyangni.\n\nOn 1F, 'Cheongnyang Terrace' has GENTZ BAKERY's first Seoul store, CHAGEE's first premium store, and a TERAROSA (@terarosacoffee) hand-drip bar. 2F has Musinsa Bag & Cap Club, in its first department-store placement, a running-focused Decathlon, and OFF BEAUTY. Haidilao opens in November, and a 600-pyeong MUSINSA STANDARD follows in December.\n\nOpened: Oct 23 (Fri)\nLocation: B1–4F, Lotte Castle SKY-L65 Landmark Tower, Dongdaemun-gu, Seoul\n#SENE #Cheongnyangni #SeoulShopping #LotteMall #SeoulTravel",
+      "form": "[카테고리]\n공간\n\n[캡션]\nLotte Department Store opened Lotte Mall Bellytown Cheongnyangni today in Cheongnyangni, Seoul.\n\nIt is the company's first new location in Seoul since the Gimpo Airport store in 2011. Around 50 brands fill about 5,400 pyeong across B1 to 4F of the Lotte Castle SKY-L65 Landmark Tower, and the mall connects directly to the existing Lotte Department Store Cheongnyangni.\n\nOn 1F, 'Cheongnyang Terrace' has GENTZ BAKERY's first Seoul store, CHAGEE's first premium store, and a TERAROSA (@terarosacoffee) hand-drip bar. 2F has MUSINSA Bag & Cap Club, making its first appearance at a major retailer, along with a running-focused Decathlon and OFF BEAUTY. Haidilao opens in November, and a 600-pyeong MUSINSA STANDARD follows in December.\n\nOpened: Oct 23 (Fri)\nLocation: B1–4F, Lotte Castle SKY-L65 Landmark Tower, Dongdaemun-gu, Seoul\n#SENE #Cheongnyangni #SeoulShopping #LotteMall #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724241/shqppcflbovfrxq9loig.jpg\n제목: Lotte's first new Seoul|mall in 15 years\n부제: Lotte Mall Bellytown Cheongnyangni · Opens Oct 23\n출처: Lotte Department Store\n",
+      "caption": "Lotte Department Store opened Lotte Mall Bellytown Cheongnyangni today in Cheongnyangni, Seoul.\n\nIt is the company's first new location in Seoul since the Gimpo Airport store in 2011. Around 50 brands fill about 5,400 pyeong across B1 to 4F of the Lotte Castle SKY-L65 Landmark Tower, and the mall connects directly to the existing Lotte Department Store Cheongnyangni.\n\nOn 1F, 'Cheongnyang Terrace' has GENTZ BAKERY's first Seoul store, CHAGEE's first premium store, and a TERAROSA (@terarosacoffee) hand-drip bar. 2F has MUSINSA Bag & Cap Club, making its first appearance at a major retailer, along with a running-focused Decathlon and OFF BEAUTY. Haidilao opens in November, and a 600-pyeong MUSINSA STANDARD follows in December.\n\nOpened: Oct 23 (Fri)\nLocation: B1–4F, Lotte Castle SKY-L65 Landmark Tower, Dongdaemun-gu, Seoul\n#SENE #Cheongnyangni #SeoulShopping #LotteMall #SeoulTravel",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792740164/utv2qqrh5lj71ak3wzxy.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792740163/nufqmv6dkopbemlkyurh.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749462/wj6voljnlhcmdsggyc5l.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749462/gdvmv3liplkzow53zfrv.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792740164/utv2qqrh5lj71ak3wzxy.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749462/wj6voljnlhcmdsggyc5l.jpg"
        },
-       "at": "2026-10-23T16:22+09:00"
+       "at": "2026-10-23T18:57+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nロッテ百貨店が本日、ソウル・清凉里（チョンニャンニ）に「ロッテモール ベリータウン清凉里（롯데몰 벨리타운 청량리）」をオープンしました。\n\n2011年の金浦空港店以来、15年ぶりにソウルで新たに出した店舗です。ロッテキャッスルSKY-L65ランドマークタワーの地下1階から地上4階まで、約5,400坪に50余りのブランドが入りました。既存のロッテ百貨店清凉里店と直結しています。\n\n1階「清凉テラス」には、GENTZ BAKERY（ゲンツベーカリー）のソウル1号店とCHAGEEのプレミアム1号店、TERAROSA（テラロサ・@terarosacoffee）のハンドドリップバーがあり、2階には流通業界に初めて入ったムシンサ（MUSINSA）のバッグ＆キャップクラブと、ランニングに特化したデカトロン、OFF BEAUTY（オフビューティー）が入りました。海底撈（ハイディラオ）は11月、600坪規模のMUSINSA STANDARDは12月にオープンします。\n\nオープン：10月23日（金）\n場所：ソウル・東大門区（トンデムング）ロッテキャッスルSKY-L65ランドマークタワー 地下1階〜地上4階\n#SENE #韓国旅行 #ソウル旅行 #清凉里 #ソウルショッピング\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724241/shqppcflbovfrxq9loig.jpg\n제목: ロッテ、清凉里に|15年ぶりソウル新モール\n부제: ロッテモール ベリータウン清凉里・10月23日オープン\n출처: 롯데백화점\n",
-      "caption": "ロッテ百貨店が本日、ソウル・清凉里（チョンニャンニ）に「ロッテモール ベリータウン清凉里（롯데몰 벨리타운 청량리）」をオープンしました。\n\n2011年の金浦空港店以来、15年ぶりにソウルで新たに出した店舗です。ロッテキャッスルSKY-L65ランドマークタワーの地下1階から地上4階まで、約5,400坪に50余りのブランドが入りました。既存のロッテ百貨店清凉里店と直結しています。\n\n1階「清凉テラス」には、GENTZ BAKERY（ゲンツベーカリー）のソウル1号店とCHAGEEのプレミアム1号店、TERAROSA（テラロサ・@terarosacoffee）のハンドドリップバーがあり、2階には流通業界に初めて入ったムシンサ（MUSINSA）のバッグ＆キャップクラブと、ランニングに特化したデカトロン、OFF BEAUTY（オフビューティー）が入りました。海底撈（ハイディラオ）は11月、600坪規模のMUSINSA STANDARDは12月にオープンします。\n\nオープン：10月23日（金）\n場所：ソウル・東大門区（トンデムング）ロッテキャッスルSKY-L65ランドマークタワー 地下1階〜地上4階\n#SENE #韓国旅行 #ソウル旅行 #清凉里 #ソウルショッピング",
+      "form": "[카테고리]\n공간\n\n[캡션]\nロッテ百貨店が本日、ソウル・清凉里（チョンニャンニ）に「ロッテモール ベリータウン清凉里（롯데몰 벨리타운 청량리）」をオープンしました。\n\n2011年の金浦空港店以来、15年ぶりにソウルで新たに出した店舗です。ロッテキャッスルSKY-L65ランドマークタワーの地下1階から地上4階まで、約5,400坪に50余りのブランドが入りました。既存のロッテ百貨店清凉里店と直結しています。\n\n1階「清凉テラス」には、GENTZ BAKERY（ゲンツベーカリー）のソウル1号店とCHAGEEのプレミアム1号店、TERAROSA（テラロサ・@terarosacoffee）のハンドドリップバーがあり、2階には流通業界初出店となるMUSINSA（ムシンサ）のバッグ＆キャップクラブと、ランニングに特化したデカトロン、OFF BEAUTY（オフビューティー）が入りました。海底撈（ハイディラオ）は11月、600坪規模のMUSINSA STANDARDは12月にオープンします。\n\nオープン：10月23日（金）\n場所：ソウル・東大門区（トンデムング）ロッテキャッスルSKY-L65ランドマークタワー 地下1階〜地上4階\n#SENE #韓国旅行 #ソウル旅行 #清凉里 #ソウルショッピング\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724241/shqppcflbovfrxq9loig.jpg\n제목: ロッテ、清凉里に|15年ぶりソウル新モール\n부제: ロッテモール ベリータウン清凉里・10月23日オープン\n출처: ロッテ百貨店\n",
+      "caption": "ロッテ百貨店が本日、ソウル・清凉里（チョンニャンニ）に「ロッテモール ベリータウン清凉里（롯데몰 벨리타운 청량리）」をオープンしました。\n\n2011年の金浦空港店以来、15年ぶりにソウルで新たに出した店舗です。ロッテキャッスルSKY-L65ランドマークタワーの地下1階から地上4階まで、約5,400坪に50余りのブランドが入りました。既存のロッテ百貨店清凉里店と直結しています。\n\n1階「清凉テラス」には、GENTZ BAKERY（ゲンツベーカリー）のソウル1号店とCHAGEEのプレミアム1号店、TERAROSA（テラロサ・@terarosacoffee）のハンドドリップバーがあり、2階には流通業界初出店となるMUSINSA（ムシンサ）のバッグ＆キャップクラブと、ランニングに特化したデカトロン、OFF BEAUTY（オフビューティー）が入りました。海底撈（ハイディラオ）は11月、600坪規模のMUSINSA STANDARDは12月にオープンします。\n\nオープン：10月23日（金）\n場所：ソウル・東大門区（トンデムング）ロッテキャッスルSKY-L65ランドマークタワー 地下1階〜地上4階\n#SENE #韓国旅行 #ソウル旅行 #清凉里 #ソウルショッピング",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739375/hrzjfiwqurbqwjtkmaz2.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739375/yxpsdha45od2m23iujo7.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749465/rhoxl26h7kaabvygbtej.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749465/lzs61k5hih2ikmxqv7ee.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739375/hrzjfiwqurbqwjtkmaz2.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749465/rhoxl26h7kaabvygbtej.jpg"
        },
-       "at": "2026-10-23T16:09+09:00"
+       "at": "2026-10-23T18:57+09:00"
       }
      }
     }
@@ -1263,8 +1315,8 @@
      "v": {
       "A": "92112bac",
       "B": "79e46aff",
-      "E": "3fd6d491",
-      "J": "20bf1cff"
+      "E": "e94860f3",
+      "J": "f4dfada2"
      }
     }
    },
@@ -1382,41 +1434,63 @@
      "영어 인물명: 하인리를 'Heinrey'로 적었음(기사 다수 표기). 웹툰 영어판은 'Heinley', 라스타는 'Rashta'/'Rasta'로 매체마다 다르니 디즈니+ 공식 표기로 확인 필요",
      "일본어 인물명(ソビエシュ・ナビエ・ラスタ・ハインリ)은 일본 웹툰판 표기 기준. 드라마 공식 표기는 확인하지 못했음",
      "감독(조수원 → Jo Soo-won/チョ・スウォン)과 작가(여지나 → Yeo Ji-na/ヨ・ジナ, 현충열 → Hyun Chung-yeol/ヒョン・チュンヨル)의 영어·일본어 표기는 공식 출처에서 확인하지 못해 로마자·カタカナ로 옮겼음",
-     "숏폼 세 줄은 원문 순서(곡·아티스트·후킹)대로 돌려줌. 화면에서는 후킹 → 아티스트 → 곡 순서로 한 문장처럼 읽힘"
+     "숏폼 세 줄은 원문 순서(곡·아티스트·후킹)대로 돌려줌. 화면에서는 후킹 → 아티스트 → 곡 순서로 한 문장처럼 읽힘",
+     "일본어 제목 『再婚承認を要求します』는 일본 웹툰판 제목입니다. 디즈니+ 일본이 드라마를 같은 제목으로 공개하는지는 확인하지 못했습니다. 올리기 전에 디즈니+ 재팬 작품 페이지에서 확인해 주세요",
+     "감독 이름 영어 표기가 Jo Soo-won인지 Cho Soo-won인지 매체마다 다릅니다. 디즈니+ 공식 영어 크레딧으로 확인해 주세요",
+     "영상 출처 칸 'Disney Plus Korea 디즈니 플러스 코리아'는 유튜브 채널 이름이라 영어판·일본어판 모두 그대로 두었습니다. 다만 한글이 남아 있으니 'Disney Plus Korea'만 쓸지 정해 주세요",
+     "영어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음"
     ],
+    "review": {
+     "at": "2026-10-23T18:58+09:00",
+     "fixes": [
+      "영어 · 출처(표지) · 디즈니플러스 → Disney+ — 한글이 남아 있었음",
+      "일본어 · 출처(표지) · 디즈니플러스 → ディズニープラス — 한글이 남아 있었음",
+      "영어 · 캡션 둘째 단락 · 'Empress Navier (Shin Min-a), the perfect empress, is told…' → 'It follows Navier (Shin Min-a), a flawless empress who is told…' — empress가 겹치고 직역투였음. 원문의 '~의 이야기입니다'도 살림",
+      "영어 · 숏폼 캡션 · 'raises divorce' → 'brings up divorce' — 영어에서 어색한 연어",
+      "영어 · 숏폼 캡션 · 'accepts it, and asks … at the same time' → 'accepts it and, in return, asks…' — 원문 '받아들이는 대신'의 뜻을 살림"
+     ],
+     "doubt": [
+      "일본어 제목 『再婚承認を要求します』는 일본 웹툰판 제목입니다. 디즈니+ 일본이 드라마를 같은 제목으로 공개하는지는 확인하지 못했습니다. 올리기 전에 디즈니+ 재팬 작품 페이지에서 확인해 주세요",
+      "감독 이름 영어 표기가 Jo Soo-won인지 Cho Soo-won인지 매체마다 다릅니다. 디즈니+ 공식 영어 크레딧으로 확인해 주세요",
+      "영상 출처 칸 'Disney Plus Korea 디즈니 플러스 코리아'는 유튜브 채널 이름이라 영어판·일본어판 모두 그대로 두었습니다. 다만 한글이 남아 있으니 'Disney Plus Korea'만 쓸지 정해 주세요",
+      "영어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음"
+     ]
+    },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Empress Navier (Shin Min-a), the perfect empress, is told by Emperor Sovieshu (Ju Ji-hoon) that he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and asks, in the same breath, for approval to remarry. Jo Soo-won directs, from a script by Yeo Ji-na and Hyun Chung-yeol.\n\nPremiere: Nov 4 (Wed), Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724258/nlc5gpnyasq2ofzdfcaf.jpg\n제목: The Remarried Empress|On Disney+ Nov 4\n부제: Shin Min-a · Ju Ji-hoon · Lee Jong-suk · Lee Se-young\n출처: 디즈니플러스\n",
-      "caption": "The Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Empress Navier (Shin Min-a), the perfect empress, is told by Emperor Sovieshu (Ju Ji-hoon) that he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and asks, in the same breath, for approval to remarry. Jo Soo-won directs, from a script by Yeo Ji-na and Hyun Chung-yeol.\n\nPremiere: Nov 4 (Wed), Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. It follows Navier (Shin Min-a), a flawless empress who is told by Emperor Sovieshu (Ju Ji-hoon) that he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and asks, in the same breath, for approval to remarry. Jo Soo-won directs, from a script by Yeo Ji-na and Hyun Chung-yeol.\n\nPremiere: Nov 4 (Wed), Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724258/nlc5gpnyasq2ofzdfcaf.jpg\n제목: The Remarried Empress|On Disney+ Nov 4\n부제: Shin Min-a · Ju Ji-hoon · Lee Jong-suk · Lee Se-young\n출처: Disney+\n",
+      "caption": "The Disney+ series The Remarried Empress (@disneypluskr) premieres on Nov 4.\n\nIt is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. It follows Navier (Shin Min-a), a flawless empress who is told by Emperor Sovieshu (Ju Ji-hoon) that he wants a divorce. Lee Se-young plays Rashta, the runaway slave the emperor falls for, and Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nAt the end of the trailer, Navier says she will accept the divorce and asks, in the same breath, for approval to remarry. Jo Soo-won directs, from a script by Yeo Ji-na and Hyun Chung-yeol.\n\nPremiere: Nov 4 (Wed), Disney+\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724370/ubilbilbes317tscunku.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724369/e37ev1pwnkjhvgk9smgz.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749515/hert5ptgcyhzloq9qsdm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749515/mys0i4kqfdnaho9gjr5d.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724370/ubilbilbes317tscunku.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749515/hert5ptgcyhzloq9qsdm.jpg"
        },
-       "at": "2026-10-23T11:59+09:00"
+       "at": "2026-10-23T18:58+09:00"
       }
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:01-1:29\n곡: for my remarriage\n아티스트: and request approval\n피처링:\n후킹: I accept the divorce\n출처: Disney Plus Korea 디즈니 플러스 코리아\n자막: 자동",
-      "caption": "This is the scene where Empress Navier accepts the divorce.\n\nIt comes from the main trailer for the Disney+ series The Remarried Empress (@disneypluskr). After Emperor Sovieshu (Ju Ji-hoon) gives his heart to the runaway slave Rashta (Lee Se-young) and raises divorce, Navier (Shin Min-a) accepts it, and asks for approval to remarry at the same time. Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nThe series is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Jo Soo-won directs.\n\nPremiere: Nov 4 (Wed), Disney+\nVideo: Official Disney+ Korea trailer\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk"
+      "caption": "This is the scene where Empress Navier accepts the divorce.\n\nIt comes from the main trailer for the Disney+ series The Remarried Empress (@disneypluskr). After Emperor Sovieshu (Ju Ji-hoon) gives his heart to the runaway slave Rashta (Lee Se-young) and brings up divorce, Navier (Shin Min-a) accepts it and, in return, asks for approval to remarry. Lee Jong-suk plays Heinrey, prince of the Western Kingdom.\n\nThe series is based on the story of the same name, which began as a web novel in 2018 and continued as a webtoon. Jo Soo-won directs.\n\nPremiere: Nov 4 (Wed), Disney+\nVideo: Official Disney+ Korea trailer\n#SENE #TheRemarriedEmpress #DisneyPlus #ShinMinA #LeeJongSuk"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）が11月4日に配信されます。\n\n2018年にウェブ小説として連載が始まり、ウェブトゥーンへと続いた同名作品が原作で、皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた完璧な皇后ナビエ（シン・ミナ）の物語です。皇帝が心を寄せる逃亡奴隷ラスタはイ・セヨン、西王国の王子ハインリはイ・ジョンソクが演じます。\n\n予告編の最後で、ナビエは離婚を受け入れると告げ、あわせて再婚の承認を求めます。演出はチョ・スウォン監督、脚本はヨ・ジナ、ヒョン・チュンヨルです。\n\n配信：11月4日（水）ディズニープラス\n#SENE #再婚承認を要求します #ディズニープラス #シンミナ #イジョンソク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724258/nlc5gpnyasq2ofzdfcaf.jpg\n제목: 『再婚承認を要求します』|11月4日ディズニー＋配信\n부제: シン・ミナ／チュ・ジフン／イ・ジョンソク／イ・セヨン\n출처: 디즈니플러스\n",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）が11月4日に配信されます。\n\n2018年にウェブ小説として連載が始まり、ウェブトゥーンへと続いた同名作品が原作で、皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた完璧な皇后ナビエ（シン・ミナ）の物語です。皇帝が心を寄せる逃亡奴隷ラスタはイ・セヨン、西王国の王子ハインリはイ・ジョンソクが演じます。\n\n予告編の最後で、ナビエは離婚を受け入れると告げ、あわせて再婚の承認を求めます。演出はチョ・スウォン監督、脚本はヨ・ジナ、ヒョン・チュンヨルです。\n\n配信：11月4日（水）ディズニープラス\n#SENE #再婚承認を要求します #ディズニープラス #シンミナ #イジョンソク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724258/nlc5gpnyasq2ofzdfcaf.jpg\n제목: 『再婚承認を要求します』|11月4日ディズニー＋配信\n부제: シン・ミナ／チュ・ジフン／イ・ジョンソク／イ・セヨン\n출처: ディズニープラス\n",
       "caption": "ディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후／@disneypluskr）が11月4日に配信されます。\n\n2018年にウェブ小説として連載が始まり、ウェブトゥーンへと続いた同名作品が原作で、皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた完璧な皇后ナビエ（シン・ミナ）の物語です。皇帝が心を寄せる逃亡奴隷ラスタはイ・セヨン、西王国の王子ハインリはイ・ジョンソクが演じます。\n\n予告編の最後で、ナビエは離婚を受け入れると告げ、あわせて再婚の承認を求めます。演出はチョ・スウォン監督、脚本はヨ・ジナ、ヒョン・チュンヨルです。\n\n配信：11月4日（水）ディズニープラス\n#SENE #再婚承認を要求します #ディズニープラス #シンミナ #イジョンソク",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724372/kvrgw1tgzesjlcgssve0.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724372/wusuzv0vjhbks6sf2i4b.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749518/d5unescnkwfu1ueh4vhe.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749517/idjwe2tej2lkf1mpwlep.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724372/kvrgw1tgzesjlcgssve0.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749518/d5unescnkwfu1ueh4vhe.jpg"
        },
-       "at": "2026-10-23T11:59+09:00"
+       "at": "2026-10-23T18:58+09:00"
       }
      },
      "shorts": {
@@ -1537,8 +1611,8 @@
       "A": "756d3398",
       "B": "366ba551",
       "C": "215fab0c",
-      "E": "df55a657",
-      "J": "187b67fc"
+      "E": "c7d8ae03",
+      "J": "e969e17b"
      }
     }
    },
@@ -1549,21 +1623,33 @@
      "회사명 영어 표기 'Barunson E&A' 는 Screen Daily·Deadline 등 여러 해외 보도에서 확인. 일본어 'バルンソンE&A' 는 검색 요약에만 나와 공식 일본어 표기는 확인 못 함 — 처음 한 번 원어(바른손이앤에이)를 괄호로 붙였습니다",
      "일본어판 영화 제목은 일본 개봉명 『パラサイト 半地下の家族』로 처음 한 번 쓰고, 그 뒤는 『パラサイト』로 줄였습니다",
      "'각본상'은 아카데미 정식 부문명에 맞춰 영어는 Best Original Screenplay, 일본어는 脚本賞으로 옮겼습니다",
-     "상장폐지 사유·거래 정지일 같은 사실은 번역 작업이라 한국어 원문대로 옮겼고 따로 다시 확인하지 않았습니다 — 올리기 전 한국거래소 공시를 다시 확인해 주세요"
+     "상장폐지 사유·거래 정지일 같은 사실은 번역 작업이라 한국어 원문대로 옮겼고 따로 다시 확인하지 않았습니다 — 올리기 전 한국거래소 공시를 다시 확인해 주세요",
+     "속보성 공시 기사 — 올리기 전에 한국거래소 KIND 공시로 거래 정지 시작일(10월 23일 금요일), 상장폐지 사유 문구, 최종 상장폐지일 발표 여부를 다시 확인해야 합니다",
+     "일본어판 회사명 'バルンソンE&A'는 공식 일본어 표기를 확인하지 못했습니다. 그래서 규칙대로 처음 한 번 괄호 안에 한글 원어를 남겼습니다",
+     "상장폐지 요건(관리종목 지정 뒤 90거래일 안에 45거래일 연속 종가 1,000원 이상)은 원문을 그대로 옮긴 것입니다. 이 요건 자체는 다시 확인하지 않았습니다"
     ],
+    "review": {
+     "at": "2026-10-23T18:58+09:00",
+     "fixes": [],
+     "doubt": [
+      "속보성 공시 기사 — 올리기 전에 한국거래소 KIND 공시로 거래 정지 시작일(10월 23일 금요일), 상장폐지 사유 문구, 최종 상장폐지일 발표 여부를 다시 확인해야 합니다",
+      "일본어판 회사명 'バルンソンE&A'는 공식 일본어 표기를 확인하지 못했습니다. 그래서 규칙대로 처음 한 번 괄호 안에 한글 원어를 남겼습니다",
+      "상장폐지 요건(관리종목 지정 뒤 90거래일 안에 45거래일 연속 종가 1,000원 이상)은 원문을 그대로 옮긴 것입니다. 이 요건 자체는 다시 확인하지 않았습니다"
+     ]
+    },
     "en": {
      "card": {
       "form": "[카테고리]\n컬처\n\n[캡션]\nTrading in shares of Barunson E&A, the production company behind the film \"Parasite,\" has been halted since Oct 23.\n\nOn Oct 22, the KOSDAQ Market Division of the Korea Exchange disclosed that the company now faces grounds for delisting. After its share price fell below KRW 1,000 and it was designated an administrative issue, it failed to hold a closing price of KRW 1,000 or more for 45 consecutive trading days within 90 trading days.\n\nIn 2019, \"Parasite\" became the first Korean film to win the Palme d'Or at the Cannes Film Festival, and the following year it won Best Picture, Best Director, Best Original Screenplay and Best International Feature Film at the Academy Awards. The film's record stands on its own; whether the company stays listed is a separate decision. The exchange has not yet announced a final delisting date.\n\nTrading halt: From Oct 23 (Fri)\nResumption: To be announced by the Korea Exchange\n\n#SENE #Parasite #BarunsonEA #BongJoonho #KoreanFilm\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792742718/jalri0mjohcgntmcfbiz.jpg\n제목: 'Parasite' Producer|Trading Halted\n부제: Barunson E&A, from Oct 23\n출처: Film 'Parasite'\n",
       "caption": "Trading in shares of Barunson E&A, the production company behind the film \"Parasite,\" has been halted since Oct 23.\n\nOn Oct 22, the KOSDAQ Market Division of the Korea Exchange disclosed that the company now faces grounds for delisting. After its share price fell below KRW 1,000 and it was designated an administrative issue, it failed to hold a closing price of KRW 1,000 or more for 45 consecutive trading days within 90 trading days.\n\nIn 2019, \"Parasite\" became the first Korean film to win the Palme d'Or at the Cannes Film Festival, and the following year it won Best Picture, Best Director, Best Original Screenplay and Best International Feature Film at the Academy Awards. The film's record stands on its own; whether the company stays listed is a separate decision. The exchange has not yet announced a final delisting date.\n\nTrading halt: From Oct 23 (Fri)\nResumption: To be announced by the Korea Exchange\n\n#SENE #Parasite #BarunsonEA #BongJoonho #KoreanFilm",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746879/ephsysd7xrrq4ogltob7.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746878/ki6ljecltpb1zmvzhpcf.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749539/iubsw6crpehvajv91xp6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749539/xqpzbwet0znq0cn8vlcb.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746879/ephsysd7xrrq4ogltob7.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749539/iubsw6crpehvajv91xp6.jpg"
        },
-       "at": "2026-10-23T18:14+09:00"
+       "at": "2026-10-23T18:59+09:00"
       }
      }
     },
@@ -1573,13 +1659,13 @@
       "caption": "映画『パラサイト 半地下の家族』を制作したバルンソンE&A（바른손이앤에이）の株式取引が、10月23日から停止されています。\n\n韓国取引所コスダック市場本部が22日、同社に上場廃止事由が発生したと公示しました。理由は株価が1,000ウォンを下回って管理銘柄に指定された後、90取引日以内に終値1,000ウォン以上を45取引日連続で維持できなかったことです。\n\n『パラサイト』は2019年、韓国映画として初めてカンヌ国際映画祭のパルム・ドールを受賞し、翌年のアカデミー賞では作品賞・監督賞・脚本賞・国際長編映画賞を受賞した作品です。映画が残した記録とは別に、制作会社が上場を維持できるかは改めて判断されます。取引所は最終的な上場廃止日をまだ明らかにしていません。\n\n取引停止：10月23日（金）から\n解除：韓国取引所が追って案内\n\n#SENE #パラサイト #ポンジュノ #韓国映画 #バルンソンEA",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746882/gypjsps4od3stytxnino.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746882/ihsl8aguqd9m5n9rd85l.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749542/ahposgxsecgkt8j7pevk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749542/v1ql0ed7axumuwzyraeg.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792746882/gypjsps4od3stytxnino.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749542/ahposgxsecgkt8j7pevk.jpg"
        },
-       "at": "2026-10-23T18:14+09:00"
+       "at": "2026-10-23T18:59+09:00"
       }
      }
     }
@@ -1686,8 +1772,8 @@
      "v": {
       "A": "f50fab13",
       "B": "c7cd03ff",
-      "E": "11b7436f",
-      "J": "bb59e39d"
+      "E": "c28cfd7d",
+      "J": "c5a852ba"
      }
     }
    },
@@ -1775,46 +1861,66 @@
      "'알랭 뒤카스의 초콜릿 브랜드' 는 원문대로 브랜드 이름 없이 옮겼습니다. 국내 보도에는 '르 쇼콜라 알랭 뒤카스' 와 '알랭 뒤카스 쇼콜라 파리' 가 둘 다 나오고, 성수점 입점 기사는 검색에서 나오지 않았습니다.",
      "400평은 영어판에서 'about 1,320㎡' 를 함께 적었습니다(1평 ≈ 3.306㎡). 일본어는 같은 단위인 坪 그대로 썼습니다. 영어 표지 제목은 ㎡ 로만 적었습니다.",
      "제품명 '성수 하프&풀 블렌드'·'블랙 잉크 커피' 와 'Coffee 101'·'Terarosa 2.0' 은 공식 영문·일문 표기를 확인하지 못해 원문을 옮긴 표기입니다.",
-     "10월 24일이 토요일인 것은 2026년 달력으로 맞습니다."
+     "10월 24일이 토요일인 것은 2026년 달력으로 맞습니다.",
+     "지구화학·한아조의 공식 영어 표기(Jiguhwahak·Hanajo)를 검색으로 확인하지 못함 — 브랜드 공식 계정에 대문자 표기(JIGUHWAHAK·HANAJO 등)가 따로 있는지 올리기 전에 확인",
+     "'더 하우스 오브 테라로사 서울'의 공식 영어·일본어 표기를 확인하지 못함 — 테라로사 공식 계정에서 영어 대소문자 표기를 확인하고, 일본어는 공식 표기가 없으면 지금의 カタカナ 표기를 그대로 쓴다",
+     "알랭 뒤카스의 초콜릿 브랜드는 원문대로 이름을 밝히지 않고 옮겼음 — 공식 브랜드명(Le Chocolat Alain Ducasse 등)을 넣을지는 한국어 원문을 정할 때 함께 결정"
     ],
+    "review": {
+     "at": "2026-10-23T18:59+09:00",
+     "fixes": [
+      "영어 · 숏폼 출처 칸 · 테라로사 → Terarosa — 한글이 남아 있었음",
+      "일본어 · 숏폼 출처 칸 · 테라로사 → テラロサ — 한글이 남아 있었음",
+      "영어 · 캡션 셋째 단락 · 'There are the Seongsu-only …' → 'The store also carries the Seongsu-only … and has a pet terrace …' — 직역투, 어색한 'There are the'",
+      "영어 · 캡션 둘째 단락 · 'to the level they want on the spot' → 'to the roast level they want, on the spot' — 무슨 정도인지 모호함",
+      "영어 · 숏폼 캡션 · 'There is also the … and a pet terrace' → 'The store also has the … and a pet terrace' — 수 일치가 어긋나고 직역투",
+      "영어 · 숏폼 캡션 · 'Video: Terarosa official YouTube' → 'Video: Terarosa's official YouTube channel' — 어색한 명사 나열",
+      "일본어 · 캡션·숏폼 캡션 · 客が選んだ → お客さまが選んだ — 매거진 글에서 '客' 단독은 딱딱하고 무뚝뚝하게 읽힘"
+     ],
+     "doubt": [
+      "지구화학·한아조의 공식 영어 표기(Jiguhwahak·Hanajo)를 검색으로 확인하지 못함 — 브랜드 공식 계정에 대문자 표기(JIGUHWAHAK·HANAJO 등)가 따로 있는지 올리기 전에 확인",
+      "'더 하우스 오브 테라로사 서울'의 공식 영어·일본어 표기를 확인하지 못함 — 테라로사 공식 계정에서 영어 대소문자 표기를 확인하고, 일본어는 공식 표기가 없으면 지금의 カタカナ 표기를 그대로 쓴다",
+      "알랭 뒤카스의 초콜릿 브랜드는 원문대로 이름을 밝히지 않고 옮겼음 — 공식 브랜드명(Le Chocolat Alain Ducasse 등)을 넣을지는 한국어 원문을 정할 때 함께 결정"
+     ]
+    },
     "en": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nTerarosa (@terarosacoffee) opens its flagship, The House of Terarosa Seoul, in Seongsu-dong tomorrow.\n\nIt is the first store under what the brand calls \"Terarosa 2.0,\" and its roughly 400 pyeong (about 1,320㎡) holds spaces for learning about and choosing coffee alongside seats for drinking it. Coffee 101, a class on specialty coffee basics; a roastery that roasts guests' chosen green beans to the level they want on the spot; and a tasting course comparing coffees from different origins all sit under one roof.\n\nThere are the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', goods made with neighboring Seongsu brands such as Jiguhwahak and Hanajo, and a pet terrace where guests can sit with their animals. In December, Alain Ducasse's chocolate brand moves in.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745250/inqf3d74s7c0b1l91fva.jpg\n제목: Terarosa in Seongsu|A 1,320㎡ flagship\n부제: The House of Terarosa Seoul · Opens Oct 24\n출처: @terarosacoffee\n",
-      "caption": "Terarosa (@terarosacoffee) opens its flagship, The House of Terarosa Seoul, in Seongsu-dong tomorrow.\n\nIt is the first store under what the brand calls \"Terarosa 2.0,\" and its roughly 400 pyeong (about 1,320㎡) holds spaces for learning about and choosing coffee alongside seats for drinking it. Coffee 101, a class on specialty coffee basics; a roastery that roasts guests' chosen green beans to the level they want on the spot; and a tasting course comparing coffees from different origins all sit under one roof.\n\nThere are the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', goods made with neighboring Seongsu brands such as Jiguhwahak and Hanajo, and a pet terrace where guests can sit with their animals. In December, Alain Ducasse's chocolate brand moves in.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu",
+      "form": "[카테고리]\n공간\n\n[캡션]\nTerarosa (@terarosacoffee) opens its flagship, The House of Terarosa Seoul, in Seongsu-dong tomorrow.\n\nIt is the first store under what the brand calls \"Terarosa 2.0,\" and its roughly 400 pyeong (about 1,320㎡) holds spaces for learning about and choosing coffee alongside seats for drinking it. Coffee 101, a class on specialty coffee basics; a roastery that roasts guests' chosen green beans to the roast level they want, on the spot; and a tasting course comparing coffees from different origins all sit under one roof.\n\nThe store also carries the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', along with goods made with neighboring Seongsu brands such as Jiguhwahak and Hanajo, and has a pet terrace where guests can sit with their animals. In December, Alain Ducasse's chocolate brand moves in.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745250/inqf3d74s7c0b1l91fva.jpg\n제목: Terarosa in Seongsu|A 1,320㎡ flagship\n부제: The House of Terarosa Seoul · Opens Oct 24\n출처: @terarosacoffee\n",
+      "caption": "Terarosa (@terarosacoffee) opens its flagship, The House of Terarosa Seoul, in Seongsu-dong tomorrow.\n\nIt is the first store under what the brand calls \"Terarosa 2.0,\" and its roughly 400 pyeong (about 1,320㎡) holds spaces for learning about and choosing coffee alongside seats for drinking it. Coffee 101, a class on specialty coffee basics; a roastery that roasts guests' chosen green beans to the roast level they want, on the spot; and a tasting course comparing coffees from different origins all sit under one roof.\n\nThe store also carries the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', along with goods made with neighboring Seongsu brands such as Jiguhwahak and Hanajo, and has a pet terrace where guests can sit with their animals. In December, Alain Ducasse's chocolate brand moves in.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745382/tgkq870l7513nui2zi7l.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745382/ifryueyao1srf5xvllfp.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749590/ebh2hiuf7p0mefuibvg4.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749589/kkd6rsecenss2ze1ukg4.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745382/tgkq870l7513nui2zi7l.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749590/ebh2hiuf7p0mefuibvg4.jpg"
        },
-       "at": "2026-10-23T17:49+09:00"
+       "at": "2026-10-23T18:59+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: opens tomorrow\n아티스트: Terarosa's new store\n피처링:\n후킹: 1,320㎡ in Seongsu\n출처: 테라로사\n자막: 자동",
-      "caption": "The official teaser for the new Terarosa (@terarosacoffee) store opening in Seongsu-dong.\n\nThe House of Terarosa Seoul is the first store under what the brand calls \"Terarosa 2.0.\" Its roughly 400 pyeong (about 1,320㎡) brings together Coffee 101, a class on coffee basics; a roastery that roasts guests' chosen green beans on the spot; and a tasting course by origin.\n\nThere is also the Seongsu-only 'Seongsu Half & Full Blend' and a pet terrace where guests can sit with their animals.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nVideo: Terarosa official YouTube\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu"
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: opens tomorrow\n아티스트: Terarosa's new store\n피처링:\n후킹: 1,320㎡ in Seongsu\n출처: Terarosa\n자막: 자동",
+      "caption": "The official teaser for the new Terarosa (@terarosacoffee) store opening in Seongsu-dong.\n\nThe House of Terarosa Seoul is the first store under what the brand calls \"Terarosa 2.0.\" Its roughly 400 pyeong (about 1,320㎡) brings together Coffee 101, a class on coffee basics; a roastery that roasts guests' chosen green beans on the spot; and a tasting course by origin.\n\nThe store also has the Seongsu-only 'Seongsu Half & Full Blend' and a pet terrace where guests can sit with their animals.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nVideo: Terarosa's official YouTube channel\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nテラロサ（@terarosacoffee）が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\nブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中にコーヒーを飲む席とあわせて、学び、選ぶための場所を設けました。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、客が選んだ生豆を好みの焙煎度合いでその場で焙煎するロースタリー、複数の産地のコーヒーを飲み比べるテイスティングコースが一か所に揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）など聖水の近隣ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのショコラブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745250/inqf3d74s7c0b1l91fva.jpg\n제목: テラロサ、聖水に|400坪の旗艦店\n부제: ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン\n출처: @terarosacoffee\n",
-      "caption": "テラロサ（@terarosacoffee）が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\nブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中にコーヒーを飲む席とあわせて、学び、選ぶための場所を設けました。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、客が選んだ生豆を好みの焙煎度合いでその場で焙煎するロースタリー、複数の産地のコーヒーを飲み比べるテイスティングコースが一か所に揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）など聖水の近隣ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのショコラブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水",
+      "form": "[카테고리]\n공간\n\n[캡션]\nテラロサ（@terarosacoffee）が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\nブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中にコーヒーを飲む席とあわせて、学び、選ぶための場所を設けました。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、お客さまが選んだ生豆を好みの焙煎度合いでその場で焙煎するロースタリー、複数の産地のコーヒーを飲み比べるテイスティングコースが一か所に揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）など聖水の近隣ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのショコラブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745250/inqf3d74s7c0b1l91fva.jpg\n제목: テラロサ、聖水に|400坪の旗艦店\n부제: ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン\n출처: @terarosacoffee\n",
+      "caption": "テラロサ（@terarosacoffee）が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\nブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中にコーヒーを飲む席とあわせて、学び、選ぶための場所を設けました。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、お客さまが選んだ生豆を好みの焙煎度合いでその場で焙煎するロースタリー、複数の産地のコーヒーを飲み比べるテイスティングコースが一か所に揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）など聖水の近隣ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのショコラブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745385/woa3hk9bdhswupfaqd1y.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745385/m33ayrvt7d2ahh2tt1fn.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749593/lvcuftf7huyce2aml4wm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749592/f4zdwysvrueinwyrht7u.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745385/woa3hk9bdhswupfaqd1y.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749593/lvcuftf7huyce2aml4wm.jpg"
        },
-       "at": "2026-10-23T17:49+09:00"
+       "at": "2026-10-23T18:59+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: 明日オープンします\n아티스트: テラロサの新店舗が\n피처링:\n후킹: 聖水に400坪\n출처: 테라로사\n자막: 자동",
-      "caption": "テラロサ（@terarosacoffee）がソウル・聖水洞（ソンスドン）にオープンする新店舗の公式ティザーです。\n\n「ザ・ハウス・オブ・テラロサ・ソウル」はブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中に、コーヒーを学ぶ「コーヒー101」、客が選んだ生豆をその場で焙煎するロースタリー、産地別のテイスティングコースが揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と、ペットと一緒に座れるペットテラスもあります。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n映像：テラロサ公式YouTube\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水"
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: 明日オープンします\n아티스트: テラロサの新店舗が\n피처링:\n후킹: 聖水に400坪\n출처: テラロサ\n자막: 자동",
+      "caption": "テラロサ（@terarosacoffee）がソウル・聖水洞（ソンスドン）にオープンする新店舗の公式ティザーです。\n\n「ザ・ハウス・オブ・テラロサ・ソウル」はブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中に、コーヒーを学ぶ「コーヒー101」、お客さまが選んだ生豆をその場で焙煎するロースタリー、産地別のテイスティングコースが揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と、ペットと一緒に座れるペットテラスもあります。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n映像：テラロサ公式YouTube\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水"
      }
     }
    }
@@ -1922,8 +2028,8 @@
      "v": {
       "A": "53807ca5",
       "B": "0b7f76b1",
-      "E": "44fffa0b",
-      "J": "a54381be"
+      "E": "076a9fc1",
+      "J": "acc33565"
      }
     }
    },
@@ -2009,46 +2115,64 @@
      "'D'FESTA THE ORIGIN'이라는 전시명, IFC몰 MPX 갤러리 개최는 웹 검색으로 확인하지 못했습니다. 원문 기준으로만 옮겼습니다.",
      "내년 1월 도쿄 개최도 확인하지 못했습니다. 일본에서 찾은 건 이전 회차인 'D'FESTA JAPAN FINAL'(데라다 창고 G1) 정보뿐입니다.",
      "일본어 표기 'ディフェスタ'는 이전 회차의 일본 판매 페이지 표기를 따랐습니다. 아티스트명은 영문 공식 표기 그대로 썼습니다.",
-     "NOL 티켓은 영어·일본어 모두 'NOL ticket'으로 적었습니다. 공식 표기와 맞는지 확인이 필요합니다."
+     "NOL 티켓은 영어·일본어 모두 'NOL ticket'으로 적었습니다. 공식 표기와 맞는지 확인이 필요합니다.",
+     "출처 칸 D'FESTA · NOL Ticket 표기는 이번 검수에서 웹으로 다시 확인하지 못했음 — 올리기 전 공식 계정·예매 페이지 표기(대소문자)를 한 번 확인",
+     "일본어 해시태그 #ディフェスタ — 일본 팬은 #DFESTA·#ディフェスタ 중 어느 쪽을 더 많이 쓰는지 확인 필요"
     ],
+    "review": {
+     "at": "2026-10-23T19:00+09:00",
+     "fixes": [
+      "영어·일본어 · 출처 칸 · 디페스타 → D'FESTA — 한글이 남아 있었고, 공식 영문 표기로 바꿈",
+      "영어·일본어 · 영상 출처 칸 · 디스패치 / Dispatch → Dispatch — 한글이 남아 있었음",
+      "영어 · 숏폼 세 줄 · '48 K-pop artists, / in a single work' → '48 K-pop artists / united in one work' — 동사가 빠져 '모였다'가 전해지지 않았음",
+      "일본어 · 숏폼 세 줄 · 一つの作品に → 一つの作品に集結 — '모였다'가 빠져 문장이 끝나지 않았음",
+      "영어·일본어 · 캡션·숏폼 캡션 · NOL ticket → NOL Ticket — 예매처 서비스 이름 표기",
+      "일본어 · 캡션·숏폼 장소 줄 · 「ソウル・汝矣島（ヨイド）永登浦区…」 → 「ソウル・永登浦区…MPXギャラリー（汝矣島）」 — 동네 이름이 시와 구 사이에 끼어 주소 순서가 어색했음",
+      "일본어 · 캡션·숏폼 캡션 · ファンへの手紙 → ファンへの手書きの手紙 — 원문 '손편지'의 '손으로 쓴'이 빠져 있었음"
+     ],
+     "doubt": [
+      "출처 칸 D'FESTA · NOL Ticket 표기는 이번 검수에서 웹으로 다시 확인하지 못했음 — 올리기 전 공식 계정·예매 페이지 표기(대소문자)를 한 번 확인",
+      "일본어 해시태그 #ディフェスタ — 일본 팬은 #DFESTA·#ディフェスタ 중 어느 쪽을 더 많이 쓰는지 확인 필요"
+     ]
+    },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\n'D'FESTA THE ORIGIN', an exhibition featuring 48 K-pop artists, opens today in Yeouido, Seoul.\n\nNine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS. Photos and videos shot over about four months on some 30 sets are gathered in one gallery.\n\nOn the walls are 'HUES OF BLACK', a black-and-white portrait 8 meters wide; 'KANON NO. 48', a large work completed by all 48 artists together; and drawings and handwritten letters to fans by the members themselves. After Seoul, the show heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul (Yeouido)\nHours: Daily 11 a.m. – 8:40 p.m. (last entry 7 p.m.)\nPrice: KRW 32,000 (adult) · Tickets via NOL ticket\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMall\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745254/eexu0ahbltslbxsaaup9.jpg\n제목: 48 K-pop artists' show|opens in Yeouido\n부제: D'FESTA THE ORIGIN · Oct 23–Nov 30 · IFC Mall\n출처: 디페스타\n",
-      "caption": "'D'FESTA THE ORIGIN', an exhibition featuring 48 K-pop artists, opens today in Yeouido, Seoul.\n\nNine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS. Photos and videos shot over about four months on some 30 sets are gathered in one gallery.\n\nOn the walls are 'HUES OF BLACK', a black-and-white portrait 8 meters wide; 'KANON NO. 48', a large work completed by all 48 artists together; and drawings and handwritten letters to fans by the members themselves. After Seoul, the show heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul (Yeouido)\nHours: Daily 11 a.m. – 8:40 p.m. (last entry 7 p.m.)\nPrice: KRW 32,000 (adult) · Tickets via NOL ticket\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMall",
+      "form": "[카테고리]\n컬처\n\n[캡션]\n'D'FESTA THE ORIGIN', an exhibition featuring 48 K-pop artists, opens today in Yeouido, Seoul.\n\nNine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS. Photos and videos shot over about four months on some 30 sets are gathered in one gallery.\n\nOn the walls are 'HUES OF BLACK', a black-and-white portrait 8 meters wide; 'KANON NO. 48', a large work completed by all 48 artists together; and drawings and handwritten letters to fans by the members themselves. After Seoul, the show heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul (Yeouido)\nHours: Daily 11 a.m. – 8:40 p.m. (last entry 7 p.m.)\nPrice: KRW 32,000 (adult) · Tickets via NOL Ticket\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMall\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745254/eexu0ahbltslbxsaaup9.jpg\n제목: 48 K-pop artists' show|opens in Yeouido\n부제: D'FESTA THE ORIGIN · Oct 23–Nov 30 · IFC Mall\n출처: D'FESTA\n",
+      "caption": "'D'FESTA THE ORIGIN', an exhibition featuring 48 K-pop artists, opens today in Yeouido, Seoul.\n\nNine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS. Photos and videos shot over about four months on some 30 sets are gathered in one gallery.\n\nOn the walls are 'HUES OF BLACK', a black-and-white portrait 8 meters wide; 'KANON NO. 48', a large work completed by all 48 artists together; and drawings and handwritten letters to fans by the members themselves. After Seoul, the show heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul (Yeouido)\nHours: Daily 11 a.m. – 8:40 p.m. (last entry 7 p.m.)\nPrice: KRW 32,000 (adult) · Tickets via NOL Ticket\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMall",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745431/bwiar8x3jg6c47voonbe.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745431/r580dqzee1dwgqokdw5u.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749631/wzs3oysabhheoqgtcro0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749631/zd3i2cxapdathygovif8.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745431/bwiar8x3jg6c47voonbe.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749631/wzs3oysabhheoqgtcro0.jpg"
        },
-       "at": "2026-10-23T17:50+09:00"
+       "at": "2026-10-23T19:00+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: Yeouido, to Nov 30\n아티스트: in a single work\n피처링:\n후킹: 48 K-pop artists,\n출처: 디스패치 / Dispatch\n자막: 자동",
-      "caption": "A scene from 'KANON NO. 48', a large work completed by 48 artists together.\n\nIt hangs in 'D'FESTA THE ORIGIN', the exhibition that opens today at MPX Gallery in IFC Mall, Yeouido. Nine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS.\n\nBlack-and-white portraits, drawings by the members and handwritten letters to fans are also on display.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, Yeongdeungpo-gu, Seoul (Yeouido)\nPrice: KRW 32,000 (adult) · Tickets via NOL ticket\nVideo: Dispatch official YouTube\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMall"
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: Yeouido, to Nov 30\n아티스트: united in one work\n피처링:\n후킹: 48 K-pop artists\n출처: Dispatch\n자막: 자동",
+      "caption": "A scene from 'KANON NO. 48', a large work completed by 48 artists together.\n\nIt hangs in 'D'FESTA THE ORIGIN', the exhibition that opens today at MPX Gallery in IFC Mall, Yeouido. Nine acts take part: G-DRAGON, BTS, Stray Kids, TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS.\n\nBlack-and-white portraits, drawings by the members and handwritten letters to fans are also on display.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, Yeongdeungpo-gu, Seoul (Yeouido)\nPrice: KRW 32,000 (adult) · Tickets via NOL Ticket\nVideo: Dispatch official YouTube\n#SENE #DFESTA #SeoulExhibition #Yeouido #IFCMall"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nK-POPアーティスト48人が参加した展示「D'FESTA THE ORIGIN」が、本日ソウル・汝矣島（ヨイド）で開幕しました。\n\nG-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組です。約4か月にわたり30ほどの撮影セットで撮った写真と映像を、一つの会場に集めました。\n\n横8メートルの白黒ポートレート「HUES OF BLACK」、48人が共に完成させた大型作品「KANON NO. 48」、メンバー自身が描いた絵やファンへの手紙が展示されています。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・汝矣島（ヨイド）永登浦区国際金融路10 IFCモール L3 MPXギャラリー\n営業時間：毎日11:00〜20:40（入場締切19:00）\n料金：一般32,000ウォン・予約はNOL ticket\n#SENE #ディフェスタ #韓国旅行 #ソウル展示 #汝矣島\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745254/eexu0ahbltslbxsaaup9.jpg\n제목: K-POP48人の展示、|汝矣島で開幕\n부제: D'FESTA THE ORIGIN・10/23〜11/30・IFCモール\n출처: 디페스타\n",
-      "caption": "K-POPアーティスト48人が参加した展示「D'FESTA THE ORIGIN」が、本日ソウル・汝矣島（ヨイド）で開幕しました。\n\nG-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組です。約4か月にわたり30ほどの撮影セットで撮った写真と映像を、一つの会場に集めました。\n\n横8メートルの白黒ポートレート「HUES OF BLACK」、48人が共に完成させた大型作品「KANON NO. 48」、メンバー自身が描いた絵やファンへの手紙が展示されています。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・汝矣島（ヨイド）永登浦区国際金融路10 IFCモール L3 MPXギャラリー\n営業時間：毎日11:00〜20:40（入場締切19:00）\n料金：一般32,000ウォン・予約はNOL ticket\n#SENE #ディフェスタ #韓国旅行 #ソウル展示 #汝矣島",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nK-POPアーティスト48人が参加した展示「D'FESTA THE ORIGIN」が、本日ソウル・汝矣島（ヨイド）で開幕しました。\n\nG-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組です。約4か月にわたり30ほどの撮影セットで撮った写真と映像を、一つの会場に集めました。\n\n横8メートルの白黒ポートレート「HUES OF BLACK」、48人が共に完成させた大型作品「KANON NO. 48」、メンバー自身が描いた絵やファンへの手書きの手紙が展示されています。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・永登浦区 国際金融路10 IFCモール L3 MPXギャラリー（汝矣島）\n営業時間：毎日11:00〜20:40（入場締切19:00）\n料金：一般32,000ウォン・予約はNOL Ticket\n#SENE #ディフェスタ #韓国旅行 #ソウル展示 #汝矣島\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745254/eexu0ahbltslbxsaaup9.jpg\n제목: K-POP48人の展示、|汝矣島で開幕\n부제: D'FESTA THE ORIGIN・10/23〜11/30・IFCモール\n출처: D'FESTA\n",
+      "caption": "K-POPアーティスト48人が参加した展示「D'FESTA THE ORIGIN」が、本日ソウル・汝矣島（ヨイド）で開幕しました。\n\nG-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組です。約4か月にわたり30ほどの撮影セットで撮った写真と映像を、一つの会場に集めました。\n\n横8メートルの白黒ポートレート「HUES OF BLACK」、48人が共に完成させた大型作品「KANON NO. 48」、メンバー自身が描いた絵やファンへの手書きの手紙が展示されています。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・永登浦区 国際金融路10 IFCモール L3 MPXギャラリー（汝矣島）\n営業時間：毎日11:00〜20:40（入場締切19:00）\n料金：一般32,000ウォン・予約はNOL Ticket\n#SENE #ディフェスタ #韓国旅行 #ソウル展示 #汝矣島",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745434/ooxxzpzugmt9rxk28s03.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745434/hma2wimzaaznbiyvlgt4.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749634/uri0kjjdzwfx4rgrgzpm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749634/txmrks5yxcvfm9rhnnp9.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745434/ooxxzpzugmt9rxk28s03.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792749634/uri0kjjdzwfx4rgrgzpm.jpg"
        },
-       "at": "2026-10-23T17:50+09:00"
+       "at": "2026-10-23T19:00+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: 汝矣島で11月30日まで\n아티스트: 一つの作品に\n피처링:\n후킹: K-POP48人が\n출처: 디스패치 / Dispatch\n자막: 자동",
-      "caption": "48人が共に完成させた大型作品「KANON NO. 48」のワンシーンです。\n\n本日、汝矣島（ヨイド）のIFCモール MPXギャラリーで開幕した展示「D'FESTA THE ORIGIN」の作品です。G-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組が参加しました。\n\n白黒ポートレートやメンバー自身が描いた絵、ファンへの手紙も展示されています。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・汝矣島（ヨイド）永登浦区 IFCモール L3 MPXギャラリー\n料金：一般32,000ウォン・予約はNOL ticket\n映像：Dispatch公式YouTube\n#SENE #ディフェスタ #韓国旅行 #ソウル展示 #汝矣島"
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: 汝矣島で11月30日まで\n아티스트: 一つの作品に集結\n피처링:\n후킹: K-POP48人が\n출처: Dispatch\n자막: 자동",
+      "caption": "48人が共に完成させた大型作品「KANON NO. 48」のワンシーンです。\n\n本日、汝矣島（ヨイド）のIFCモール MPXギャラリーで開幕した展示「D'FESTA THE ORIGIN」の作品です。G-DRAGON、BTS、Stray Kids、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの9組が参加しました。\n\n白黒ポートレートやメンバー自身が描いた絵、ファンへの手書きの手紙も展示されています。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル・永登浦区 IFCモール L3 MPXギャラリー（汝矣島）\n料金：一般32,000ウォン・予約はNOL Ticket\n映像：Dispatch公式YouTube\n#SENE #ディフェスタ #韓国旅行 #ソウル展示 #汝矣島"
      }
     }
    }
@@ -2182,7 +2306,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T18:14+09:00"
+  "at": "2026-10-23T19:00+09:00"
  },
  "slots": {
   "basis": 0,
