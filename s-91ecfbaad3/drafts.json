@@ -2870,6 +2870,136 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:ord-a454d863",
+    "account": "@규효 공유 · @s0l.pick",
+    "url": "https://www.instagram.com/reel/DetirFcuu9I/?rpxt=d2Y4cnV1ajByamZv",
+    "image": null,
+    "head": "예술의전당 당일할인티켓 — 만 7~24세·만 69세 이상·문화누리카드, 당일 오전 9시 5천원/1만원",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-23T23:35+09:00",
+   "key": "685bb98b",
+   "by": "claude",
+   "subjects": [
+    "예술의전당"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "예술의전당 공연을 당일 아침 9시에 5천원·1만원으로 — 만 24세까지 쓸 수 있는 당일할인티켓",
+    "why": "규효 공유. 2030 독자가 이번 주말 바로 써 볼 수 있는 공연 관람법이고, 조건·가격을 예술의전당 공식 안내로 확인했다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-23T23:35+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n예술의전당에는 공연 당일 아침에만 열리는 티켓이 있습니다.\n\n'당일할인티켓'은 그날 공연의 좌석 일부를 특별가로 내놓는 예술의전당의 공익사업인데요, 만 7세부터 만 24세까지, 만 69세 이상, 그리고 문화누리카드 소지자가 살 수 있습니다. 정가 3만원 이하 티켓은 5천원, 3만원을 넘는 티켓은 1만원입니다.\n\n어떤 공연이 나올지는 매일 오전 9시에 공개됩니다. 예술의전당 기획·대관 공연 가운데 참여하는 공연만 해당하고, 등급과 좌석 수도 공연마다 다릅니다. 당일 예매라 환불·변경은 되지 않고, 표를 받을 때와 입장할 때 나이를 확인할 수 있는 신분증을 보여 줘야 합니다.\n\n공개: 매일 오전 9시\n가격: 3만원 이하 5천원 · 3만원 초과 1만원\n예매: 예술의전당 홈페이지 '당일할인티켓' 메뉴, 서비스플라자·공연장 매표소\n장소: 서울 서초구 예술의전당\n\n#SENE #예술의전당 #당일할인티켓 #서초 #공연할인\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792766129/scz955fafzpnhmcmowfn.jpg\n제목: 예술의전당 공연,|당일 아침 5천원\n부제: 만 24세까지 · 매일 오전 9시 공개\n출처: Wikimedia Commons\n",
+    "caption": "예술의전당에는 공연 당일 아침에만 열리는 티켓이 있습니다.\n\n'당일할인티켓'은 그날 공연의 좌석 일부를 특별가로 내놓는 예술의전당의 공익사업인데요, 만 7세부터 만 24세까지, 만 69세 이상, 그리고 문화누리카드 소지자가 살 수 있습니다. 정가 3만원 이하 티켓은 5천원, 3만원을 넘는 티켓은 1만원입니다.\n\n어떤 공연이 나올지는 매일 오전 9시에 공개됩니다. 예술의전당 기획·대관 공연 가운데 참여하는 공연만 해당하고, 등급과 좌석 수도 공연마다 다릅니다. 당일 예매라 환불·변경은 되지 않고, 표를 받을 때와 입장할 때 나이를 확인할 수 있는 신분증을 보여 줘야 합니다.\n\n공개: 매일 오전 9시\n가격: 3만원 이하 5천원 · 3만원 초과 1만원\n예매: 예술의전당 홈페이지 '당일할인티켓' 메뉴, 서비스플라자·공연장 매표소\n장소: 서울 서초구 예술의전당\n\n#SENE #예술의전당 #당일할인티켓 #서초 #공연할인",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766129/scz955fafzpnhmcmowfn.jpg",
+      "credit": "Wikimedia Commons",
+      "from": "https://commons.wikimedia.org/wiki/Special:FilePath/Seoul_Arts_Center_08.JPG"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766133/psgi0bmsgsbzsyduczb8.jpg",
+      "credit": "Wikimedia Commons",
+      "from": "https://commons.wikimedia.org/wiki/Special:FilePath/Korea-Seoul.Arts.Center-02.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766137/vxs5y7fn58kjmumeu4ye.jpg",
+      "credit": "Wikimedia Commons",
+      "from": "https://commons.wikimedia.org/wiki/Special:FilePath/Seoul_Arts_Center_04.JPG"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766129/scz955fafzpnhmcmowfn.jpg",
+      "credit": "Wikimedia Commons",
+      "from": "https://commons.wikimedia.org/wiki/Special:FilePath/Seoul_Arts_Center_08.JPG"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766133/psgi0bmsgsbzsyduczb8.jpg",
+      "credit": "Wikimedia Commons",
+      "from": "https://commons.wikimedia.org/wiki/Special:FilePath/Korea-Seoul.Arts.Center-02.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766137/vxs5y7fn58kjmumeu4ye.jpg",
+      "credit": "Wikimedia Commons",
+      "from": "https://commons.wikimedia.org/wiki/Special:FilePath/Seoul_Arts_Center_04.JPG"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "예술의전당 공연,|당일 아침 5천원",
+      "sub": "만 24세까지 · 매일 오전 9시 공개"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "아침 9시에 열리는|예술의전당 할인석",
+      "sub": "3만원 이하 5천원 · 초과 1만원"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "만 24세까지|공연 5천원부터",
+      "sub": "예술의전당 당일할인티켓"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "올리기 전 예술의전당 당일할인티켓 페이지에서 대상·가격 표기가 그대로인지 다시 보기 (확인 시점엔 '오늘 진행되는 할인티켓이 없습니다')",
+     "숏폼은 비움 — 예술의전당 공식 영상이 없고 찾은 건 몇 해 전 뉴스 클립뿐"
+    ],
+    "research": [
+     {
+      "title": "예술의전당 — 당일할인티켓 안내 (공식 홈페이지)",
+      "link": "https://www.sac.or.kr/site/main/show/show_list_ticket"
+     },
+     {
+      "title": "예술의전당 당일할인티켓 (공식 앱 웹페이지)",
+      "link": "https://app.sac.or.kr/discounts"
+     },
+     {
+      "title": "경복궁 무료, 예술의전당 공연 5000원…65세 이상 문화 혜택 총정리 (네이트 뉴스, 2026-05-30)",
+      "link": "https://m.news.nate.com/view/20260530n01591"
+     },
+     {
+      "title": "예술의전당 올해 기획 프로그램 공개 (뉴시스, 2026-01-20)",
+      "link": "https://www.newsis.com/view/NISX20260120_0003483729"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766144/mnv9f2abuhwdncywuzod.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766144/heri8m3wns4fqojki7r8.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766148/vjjdncgsypjjohhavo2k.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766148/n5r0v24tymwchszxnriv.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792766144/mnv9f2abuhwdncywuzod.jpg"
+     },
+     "at": "2026-10-23T23:35+09:00",
+     "v": {
+      "A": "b922f7bf",
+      "B": "923c4b6d",
+      "C": "13c07d0b"
+     }
+    }
+   },
+   "i18n_queued": "2026-10-23T23:35+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -2888,7 +3018,7 @@
     "need_today": 10,
     "day": null,
     "next_no": null,
-    "drafts": 11,
+    "drafts": 12,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -3000,7 +3130,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T22:02+09:00"
+  "at": "2026-10-23T23:35+09:00"
  },
  "slots": {
   "basis": 0,
