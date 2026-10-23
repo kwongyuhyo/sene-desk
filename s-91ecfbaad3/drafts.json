@@ -1701,9 +1701,20 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745265/unjzbaukavbedcw3xbw6.jpg",
      "key": "UqnG9fRqQ5A@0.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-23T17:48+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1792745449/sene_studio/vhxng33qszsmnauv73sg.mp4",
+     "at": "2026-10-23T17:50+09:00",
+     "file": "TeLaLoSa_Sae_MaeJang_NaeIl_MunEul_YeobNiD_GongGan_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1792745450995-7b8d1808",
+      "segs": [
+       {
+        "start": 17.82,
+        "end": 21.02,
+        "text": "다음 영상에서 만나요"
+       }
+      ]
+     }
     }
    },
    "pick": {
