@@ -1642,7 +1642,9 @@
      "at": "2026-10-23T17:47+09:00",
      "v": {
       "A": "f50fab13",
-      "B": "c7cd03ff"
+      "B": "c7cd03ff",
+      "E": "11b7436f",
+      "J": "bb59e39d"
      }
     }
    },
@@ -1710,7 +1712,58 @@
     "at": "2026-10-23T17:47+09:00"
    },
    "i18n_queued": "2026-10-23T17:47+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-23T17:49+09:00",
+    "confirm": [
+     "매장 영문 표기 'The House of Terarosa Seoul' 는 웹에서 공식 표기를 찾지 못해 한국어 이름을 그대로 옮겼습니다 — 테라로사 공식 계정·보도자료의 영문 표기와 대소문자를 확인해 주세요. 일본어 「ザ・ハウス・オブ・テラロサ・ソウル」 도 같은 이유로 カタカナ로 옮겼습니다.",
+     "지구화학·한아조는 공식 영문 표기를 찾지 못해 로마자(Jiguhwahak · Hanajo)와 カタカナ(チグファハク · ハナジョ)로 옮겼습니다. 한아조는 'HANAHZO' 로 쓰는 것으로 기억하지만 확인하지 못했습니다 — 두 브랜드 공식 계정의 표기로 바꿔 주세요.",
+     "'알랭 뒤카스의 초콜릿 브랜드' 는 원문대로 브랜드 이름 없이 옮겼습니다. 국내 보도에는 '르 쇼콜라 알랭 뒤카스' 와 '알랭 뒤카스 쇼콜라 파리' 가 둘 다 나오고, 성수점 입점 기사는 검색에서 나오지 않았습니다.",
+     "400평은 영어판에서 'about 1,320㎡' 를 함께 적었습니다(1평 ≈ 3.306㎡). 일본어는 같은 단위인 坪 그대로 썼습니다. 영어 표지 제목은 ㎡ 로만 적었습니다.",
+     "제품명 '성수 하프&풀 블렌드'·'블랙 잉크 커피' 와 'Coffee 101'·'Terarosa 2.0' 은 공식 영문·일문 표기를 확인하지 못해 원문을 옮긴 표기입니다.",
+     "10월 24일이 토요일인 것은 2026년 달력으로 맞습니다."
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nTerarosa (@terarosacoffee) opens its flagship, The House of Terarosa Seoul, in Seongsu-dong tomorrow.\n\nIt is the first store under what the brand calls \"Terarosa 2.0,\" and its roughly 400 pyeong (about 1,320㎡) holds spaces for learning about and choosing coffee alongside seats for drinking it. Coffee 101, a class on specialty coffee basics; a roastery that roasts guests' chosen green beans to the level they want on the spot; and a tasting course comparing coffees from different origins all sit under one roof.\n\nThere are the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', goods made with neighboring Seongsu brands such as Jiguhwahak and Hanajo, and a pet terrace where guests can sit with their animals. In December, Alain Ducasse's chocolate brand moves in.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745250/inqf3d74s7c0b1l91fva.jpg\n제목: Terarosa in Seongsu|A 1,320㎡ flagship\n부제: The House of Terarosa Seoul · Opens Oct 24\n출처: @terarosacoffee\n",
+      "caption": "Terarosa (@terarosacoffee) opens its flagship, The House of Terarosa Seoul, in Seongsu-dong tomorrow.\n\nIt is the first store under what the brand calls \"Terarosa 2.0,\" and its roughly 400 pyeong (about 1,320㎡) holds spaces for learning about and choosing coffee alongside seats for drinking it. Coffee 101, a class on specialty coffee basics; a roastery that roasts guests' chosen green beans to the level they want on the spot; and a tasting course comparing coffees from different origins all sit under one roof.\n\nThere are the Seongsu-only 'Seongsu Half & Full Blend' and 'Black Ink Coffee', goods made with neighboring Seongsu brands such as Jiguhwahak and Hanajo, and a pet terrace where guests can sit with their animals. In December, Alain Ducasse's chocolate brand moves in.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745382/tgkq870l7513nui2zi7l.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745382/ifryueyao1srf5xvllfp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745382/tgkq870l7513nui2zi7l.jpg"
+       },
+       "at": "2026-10-23T17:49+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: opens tomorrow\n아티스트: Terarosa's new store\n피처링:\n후킹: 1,320㎡ in Seongsu\n출처: 테라로사\n자막: 자동",
+      "caption": "The official teaser for the new Terarosa (@terarosacoffee) store opening in Seongsu-dong.\n\nThe House of Terarosa Seoul is the first store under what the brand calls \"Terarosa 2.0.\" Its roughly 400 pyeong (about 1,320㎡) brings together Coffee 101, a class on coffee basics; a roastery that roasts guests' chosen green beans on the spot; and a tasting course by origin.\n\nThere is also the Seongsu-only 'Seongsu Half & Full Blend' and a pet terrace where guests can sit with their animals.\n\nOpens: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nVideo: Terarosa official YouTube\n#SENE #Terarosa #SeongsuCafe #SeoulCafe #Seongsu"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nテラロサ（@terarosacoffee）が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\nブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中にコーヒーを飲む席とあわせて、学び、選ぶための場所を設けました。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、客が選んだ生豆を好みの焙煎度合いでその場で焙煎するロースタリー、複数の産地のコーヒーを飲み比べるテイスティングコースが一か所に揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）など聖水の近隣ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのショコラブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792745250/inqf3d74s7c0b1l91fva.jpg\n제목: テラロサ、聖水に|400坪の旗艦店\n부제: ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン\n출처: @terarosacoffee\n",
+      "caption": "テラロサ（@terarosacoffee）が明日、ソウル・聖水洞（ソンスドン）に旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンします。\n\nブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中にコーヒーを飲む席とあわせて、学び、選ぶための場所を設けました。スペシャルティコーヒーの基礎を学ぶ「コーヒー101」、客が選んだ生豆を好みの焙煎度合いでその場で焙煎するロースタリー、複数の産地のコーヒーを飲み比べるテイスティングコースが一か所に揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と「ブラックインクコーヒー」、チグファハク（지구화학）やハナジョ（한아조）など聖水の近隣ブランドと作った商品があり、ペットと一緒に座れるペットテラスもあります。12月にはアラン・デュカスのショコラブランドが入店します。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745385/woa3hk9bdhswupfaqd1y.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745385/m33ayrvt7d2ahh2tt1fn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792745385/woa3hk9bdhswupfaqd1y.jpg"
+       },
+       "at": "2026-10-23T17:49+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=UqnG9fRqQ5A\n구간: 0:00-0:24\n곡: 明日オープンします\n아티스트: テラロサの新店舗が\n피처링:\n후킹: 聖水に400坪\n출처: 테라로사\n자막: 자동",
+      "caption": "テラロサ（@terarosacoffee）がソウル・聖水洞（ソンスドン）にオープンする新店舗の公式ティザーです。\n\n「ザ・ハウス・オブ・テラロサ・ソウル」はブランドが掲げる「テラロサ2.0」の第1号店で、約400坪の中に、コーヒーを学ぶ「コーヒー101」、客が選んだ生豆をその場で焙煎するロースタリー、産地別のテイスティングコースが揃います。\n\n聖水店限定の「聖水ハーフ＆フルブレンド」と、ペットと一緒に座れるペットテラスもあります。\n\nオープン：10月24日（土）\n場所：ソウル特別市城東区聖水洞\n映像：テラロサ公式YouTube\n#SENE #テラロサ #聖水カフェ #韓国カフェ #韓国旅行 #聖水"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2064,7 +2117,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T17:48+09:00"
+  "at": "2026-10-23T17:49+09:00"
  },
  "slots": {
   "basis": 0,
