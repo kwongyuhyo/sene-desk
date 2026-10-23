@@ -2291,61 +2291,62 @@
       "A": "36827874",
       "B": "7c873dca",
       "C": "2820e258",
-      "E": "4ea4a818",
-      "J": "b71a3f63"
+      "E": "d2d49f16",
+      "J": "2f73e917"
      }
     }
    },
    "i18n_queued": "2026-10-23T20:40+09:00",
    "corner_name": "이슈",
    "i18n": {
-    "at": "2026-10-23T20:41+09:00",
+    "at": "2026-10-23T20:42+09:00",
     "confirm": [
-     "역 영어 표기는 서울교통공사 표기(Hongik Univ.·Konkuk Univ.)를 따랐습니다. 이번에 웹에서 다시 확인하지는 않았습니다.",
-     "'무정차 통과 가능 역'은 영어 'Stations trains may skip', 일본어 '通過の可能性がある駅'로 옮겼습니다. 열차가 반드시 서지 않는 게 아니라 설 수도 있고 안 설 수도 있다는 뜻이 남았는지 봐 주세요.",
-     "원문에 없는 사실은 더하지 않았습니다. 숫자(8곳·10개 자치구·14개 지역·3,271명)와 날짜는 한국어 원문 그대로입니다.",
-     "빅 이슈성 생활 안내 — 올리기 전 서울시 최신 공식 발표(무정차 역·통제 구간·기간) 다시 확인",
-     "캡션 첫 문장의 '오늘(today·本日)'은 10월 23일 게시 기준 — 게시일이 늦어지면 세 언어 모두 고쳐야 함"
+     "웹 검색을 따로 하지 않았습니다. 아래 표기는 널리 쓰이는 표기를 따랐으니 올리기 전 한 번 확인해 주세요: 역 영문명 Hongik Univ.·Konkuk Univ., 일본어 표기 弘大入口·建大入口·梨泰院路(イテウォンロ)",
+     "출처 칸 '서울시'는 외국 독자가 알아보도록 Seoul Metropolitan Government / ソウル市로 옮겼습니다.",
+     "생활 안전 안내 글입니다. 올리기 전 서울시 최신 공식 발표로 인력 수, 무정차 통과 역, 차량 통제 날짜를 다시 확인해 주세요.",
+     "원문 대조 결과 날짜·요일(10/23 금, 10/30 금, 10/31 토, 11/1 일)·인원 3,271명·8곳·10개 자치구 14개 지역·무정차 역 4곳은 영어판·일본어판 모두 같음. 다만 원문 사실(특히 10월 31일 이태원로 차량 전면 통제, 무정차 역 목록)은 올리기 전에 서울시 최신 발표로 다시 확인할 것"
     ],
     "review": {
-     "at": "2026-10-23T20:41+09:00",
+     "at": "2026-10-23T20:42+09:00",
      "fixes": [
-      "일본어 · 캡션 실용 정보 줄 · 通過の可能性がある駅 → 列車が通過する可能性がある駅 — 직역투, 무엇이 통과하는지 흐림"
+      "영어 · 캡션 둘째 단락 · named the cafe street in Seongsu-dong, Seoul one of eight → named the Seongsu-dong cafe street in Seoul one of eight — 지명 뒤 쉼표가 목적어 경계를 흐려 어색하게 읽힘",
+      "영어 · 실용 정보 줄 · Intensive management: → Peak crowd control: — 직역투 머리말",
+      "일본어 · 캡션 셋째 단락 · ドローンでリアルタイムに見守り → ドローンでリアルタイムに監視し — 인파 감시에는 '見守る'가 어색한 연어",
+      "일본어 · 실용 정보 줄 · 無停車通過の可能性がある駅 → 列車が通過する可能性がある駅 — 한자어 직역투, 일본 철도 표현 '通過'로"
      ],
      "doubt": [
-      "빅 이슈성 생활 안내 — 올리기 전 서울시 최신 공식 발표(무정차 역·통제 구간·기간) 다시 확인",
-      "캡션 첫 문장의 '오늘(today·本日)'은 10월 23일 게시 기준 — 게시일이 늦어지면 세 언어 모두 고쳐야 함"
+      "원문 대조 결과 날짜·요일(10/23 금, 10/30 금, 10/31 토, 11/1 일)·인원 3,271명·8곳·10개 자치구 14개 지역·무정차 역 4곳은 영어판·일본어판 모두 같음. 다만 원문 사실(특히 10월 31일 이태원로 차량 전면 통제, 무정차 역 목록)은 올리기 전에 서울시 최신 발표로 다시 확인할 것"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\nThe Seoul Metropolitan Government (@seoul_official) has begun its special Halloween safety period today.\n\nHalloween falls on a Saturday this year, and the city has named the Seongsu-dong cafe street in Seoul one of eight priority management areas, along with Itaewon, Hongdae, Ikseon-dong and Myeong-dong. In total, 3,271 public and private safety staff will be posted across 14 areas in 10 districts.\n\nAI crowd-detection CCTV and drones will track crowds in real time. If Seongsu Station gets too crowded, entrances may be closed or trains may pass through without stopping. Narrow alleys will have one-way guide lines marked on the ground. Walk in the direction they show.\n\nDates: Oct 23 (Fri) – Nov 1 (Sun)\nPeak management: Oct 30 (Fri) – Nov 1 (Sun)\nStations trains may skip: Itaewon, Hongik Univ., Seongsu, Konkuk Univ.\nOct 31 (Sat): Itaewon-ro fully closed to vehicles\n#SENE #Seongsu #SeoulHalloween #Halloween #Seoul\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792755633/ygocrklrwqjuymxcb4a0.jpg\n제목: Seongsu Braces for|Halloween Crowds\n부제: Special Safety Period, Oct 23 – Nov 1\n출처: Seoul Metropolitan Government\n",
-      "caption": "The Seoul Metropolitan Government (@seoul_official) has begun its special Halloween safety period today.\n\nHalloween falls on a Saturday this year, and the city has named the Seongsu-dong cafe street in Seoul one of eight priority management areas, along with Itaewon, Hongdae, Ikseon-dong and Myeong-dong. In total, 3,271 public and private safety staff will be posted across 14 areas in 10 districts.\n\nAI crowd-detection CCTV and drones will track crowds in real time. If Seongsu Station gets too crowded, entrances may be closed or trains may pass through without stopping. Narrow alleys will have one-way guide lines marked on the ground. Walk in the direction they show.\n\nDates: Oct 23 (Fri) – Nov 1 (Sun)\nPeak management: Oct 30 (Fri) – Nov 1 (Sun)\nStations trains may skip: Itaewon, Hongik Univ., Seongsu, Konkuk Univ.\nOct 31 (Sat): Itaewon-ro fully closed to vehicles\n#SENE #Seongsu #SeoulHalloween #Halloween #Seoul",
+      "form": "[카테고리]\n이슈\n\n[캡션]\nThe Seoul Metropolitan Government (@seoul_official) began its special Halloween safety period today.\n\nHalloween falls on a Saturday this year, and the city has named the Seongsu-dong cafe street in Seoul one of eight priority areas, along with Itaewon, Hongdae, Ikseon-dong and Myeong-dong. A total of 3,271 public and private safety staff will be deployed across 14 areas in 10 districts.\n\nCrowds will be monitored in real time with AI crowd-detection CCTV and drones. At Seongsu Station, entrances may be closed or trains may pass through without stopping when it gets crowded. One-way guide lines will be marked in narrow alleys, so follow their direction as you walk.\n\nDates: Oct 23 (Fri) – Nov 1 (Sun)\nPeak crowd control: Oct 30 (Fri) – Nov 1 (Sun)\nStations trains may skip: Itaewon, Hongik Univ., Seongsu, Konkuk Univ.\nOct 31 (Sat): Itaewon-ro fully closed to vehicles\n#SENE #Seongsu #Halloween #SeoulHalloween #Seoul\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792755633/ygocrklrwqjuymxcb4a0.jpg\n제목: Halloween in Seongsu:|Crowd Control Tightened\n부제: Special Safety Period, Oct 23 – Nov 1\n출처: Seoul Metropolitan Government\n",
+      "caption": "The Seoul Metropolitan Government (@seoul_official) began its special Halloween safety period today.\n\nHalloween falls on a Saturday this year, and the city has named the Seongsu-dong cafe street in Seoul one of eight priority areas, along with Itaewon, Hongdae, Ikseon-dong and Myeong-dong. A total of 3,271 public and private safety staff will be deployed across 14 areas in 10 districts.\n\nCrowds will be monitored in real time with AI crowd-detection CCTV and drones. At Seongsu Station, entrances may be closed or trains may pass through without stopping when it gets crowded. One-way guide lines will be marked in narrow alleys, so follow their direction as you walk.\n\nDates: Oct 23 (Fri) – Nov 1 (Sun)\nPeak crowd control: Oct 30 (Fri) – Nov 1 (Sun)\nStations trains may skip: Itaewon, Hongik Univ., Seongsu, Konkuk Univ.\nOct 31 (Sat): Itaewon-ro fully closed to vehicles\n#SENE #Seongsu #Halloween #SeoulHalloween #Seoul",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755710/gartssewaxiu7jgeedrg.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755710/nog2zair7jlzqvxmvoym.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755768/ovjsivcpntir0b4tv6zf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755767/pgnquz1yqkfgzjnyya4v.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755710/gartssewaxiu7jgeedrg.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755768/ovjsivcpntir0b4tv6zf.jpg"
        },
-       "at": "2026-10-23T20:41+09:00"
+       "at": "2026-10-23T20:42+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\nソウル市（@seoul_official）が本日から、ハロウィン特別対策期間に入りました。\n\n今年のハロウィンは土曜日と重なります。ソウル市は、ソウル・聖水洞（ソンスドン）のカフェ通りを梨泰院（イテウォン）・弘大（ホンデ）・益善洞（イクソンドン）・明洞（ミョンドン）などとともに、8カ所の重点管理地域に指定しました。10の自治区の14地域には、官民合わせて3,271人の安全管理要員が配置されます。\n\n人出はAI人流検知CCTVとドローンでリアルタイムに確認します。聖水駅では混雑すると出入口が規制されたり、列車が停車せずに通過したりすることがあります。狭い路地には一方通行の誘導線が引かれるので、その向きに沿って歩いてください。\n\n期間：10月23日（金）〜11月1日（日）\n重点管理：10月30日（金）〜11月1日（日）\n列車が通過する可能性がある駅：梨泰院・弘大入口・聖水・建大入口\n10月31日（土）：梨泰院路は車両全面通行止め\n#SENE #聖水 #ハロウィン #韓国旅行 #ソウル\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792755633/ygocrklrwqjuymxcb4a0.jpg\n제목: ハロウィン週末の聖水、|人出を重点管理\n부제: 10月23日〜11月1日 特別対策期間\n출처: ソウル市\n",
-      "caption": "ソウル市（@seoul_official）が本日から、ハロウィン特別対策期間に入りました。\n\n今年のハロウィンは土曜日と重なります。ソウル市は、ソウル・聖水洞（ソンスドン）のカフェ通りを梨泰院（イテウォン）・弘大（ホンデ）・益善洞（イクソンドン）・明洞（ミョンドン）などとともに、8カ所の重点管理地域に指定しました。10の自治区の14地域には、官民合わせて3,271人の安全管理要員が配置されます。\n\n人出はAI人流検知CCTVとドローンでリアルタイムに確認します。聖水駅では混雑すると出入口が規制されたり、列車が停車せずに通過したりすることがあります。狭い路地には一方通行の誘導線が引かれるので、その向きに沿って歩いてください。\n\n期間：10月23日（金）〜11月1日（日）\n重点管理：10月30日（金）〜11月1日（日）\n列車が通過する可能性がある駅：梨泰院・弘大入口・聖水・建大入口\n10月31日（土）：梨泰院路は車両全面通行止め\n#SENE #聖水 #ハロウィン #韓国旅行 #ソウル",
+      "form": "[카테고리]\n이슈\n\n[캡션]\nソウル市（@seoul_official）が本日から、ハロウィン特別対策期間に入りました。\n\n今年のハロウィンは土曜日と重なります。ソウル市は聖水洞（ソンスドン）のカフェ通りを、梨泰院（イテウォン）・弘大（ホンデ）・益善洞（イクソンドン）・明洞（ミョンドン）などとともに8か所の重点管理地域に指定しました。10の自治区・14地域には、公共・民間の安全管理要員3,271人が配置されます。\n\n人波はAI群衆検知CCTVとドローンでリアルタイムに監視し、聖水駅では混雑時に出入口が規制されたり、列車が停車せずに通過したりすることがあります。狭い路地には一方通行の誘導線が引かれるので、その向きに沿って歩けば大丈夫です。\n\n期間：10月23日（金）〜11月1日（日）\n集中管理：10月30日（金）〜11月1日（日）\n列車が通過する可能性がある駅：梨泰院・弘大入口・聖水・建大入口\n10月31日（土）：梨泰院路（イテウォンロ）は車両全面通行止め\n#SENE #韓国旅行 #聖水 #ハロウィン #ソウル\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792755633/ygocrklrwqjuymxcb4a0.jpg\n제목: ハロウィン週末の聖水、|人波を集中管理\n부제: 10月23日〜11月1日 特別対策期間\n출처: ソウル市\n",
+      "caption": "ソウル市（@seoul_official）が本日から、ハロウィン特別対策期間に入りました。\n\n今年のハロウィンは土曜日と重なります。ソウル市は聖水洞（ソンスドン）のカフェ通りを、梨泰院（イテウォン）・弘大（ホンデ）・益善洞（イクソンドン）・明洞（ミョンドン）などとともに8か所の重点管理地域に指定しました。10の自治区・14地域には、公共・民間の安全管理要員3,271人が配置されます。\n\n人波はAI群衆検知CCTVとドローンでリアルタイムに監視し、聖水駅では混雑時に出入口が規制されたり、列車が停車せずに通過したりすることがあります。狭い路地には一方通行の誘導線が引かれるので、その向きに沿って歩けば大丈夫です。\n\n期間：10月23日（金）〜11月1日（日）\n集中管理：10月30日（金）〜11月1日（日）\n列車が通過する可能性がある駅：梨泰院・弘大入口・聖水・建大入口\n10月31日（土）：梨泰院路（イテウォンロ）は車両全面通行止め\n#SENE #韓国旅行 #聖水 #ハロウィン #ソウル",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755713/tz9ope1kb8sbb9drjq8x.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755713/lvngnfu3tqm3k9ul778y.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755770/wqfyzmzds3stsiudo3sg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755770/fble46vac06omv2jflbn.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755713/tz9ope1kb8sbb9drjq8x.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792755770/wqfyzmzds3stsiudo3sg.jpg"
        },
-       "at": "2026-10-23T20:41+09:00"
+       "at": "2026-10-23T20:42+09:00"
       }
      }
     }
@@ -2480,7 +2481,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T20:41+09:00"
+  "at": "2026-10-23T20:42+09:00"
  },
  "slots": {
   "basis": 0,
