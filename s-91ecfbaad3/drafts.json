@@ -812,11 +812,55 @@
      "at": "2026-10-23T11:57+09:00",
      "v": {
       "A": "77597ee6",
-      "B": "8a0f2561"
+      "B": "8a0f2561",
+      "E": "64fab72c",
+      "J": "b658f32e"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-23T16:09+09:00",
+    "confirm": [
+     "몰 이름 영문 'Bellitown' 은 공식 표기를 찾지 못했습니다. 롯데 캐릭터 벨리곰(BELLYGOM)에서 따온 이름이라 'Bellygom Town' 일 수도 있으니 롯데백화점 공식 영문 표기를 확인해 주세요. 일본어 'ベリータウン' 도 같이 확인이 필요합니다.",
+     "'차지티'를 CHAGEE(霸王茶姬, 한국명 차지)로 보고 옮겼습니다. 기사마다 '차지티'·'차쥐티'로 표기가 달라 같은 브랜드인지 확인해 주세요.",
+     "'무신사 백&캡 클럽'은 공식 영문 표기를 찾지 못해 'Musinsa Bag & Cap Club'(일본어 'バッグ＆キャップクラブ')으로 옮겼습니다.",
+     "'청량 테라스' 영문 'Cheongnyang Terrace'·일본어 '清凉テラス'는 제가 옮긴 표기입니다. 공식 표기는 확인하지 못했습니다.",
+     "5,400평은 영어판에서 'pyeong' 그대로 두었습니다. ㎡로 바꾼 수치를 넣으면 원문에 없는 숫자가 더해지는 것이라 넣지 않았습니다."
+    ],
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nLotte Department Store opened Lotte Mall Bellitown Cheongnyangni today in Cheongnyangni, Seoul.\n\nIt is the company's first new location in Seoul since the Gimpo Airport store in 2011. Around 50 brands fill about 5,400 pyeong across B1 to 4F of the Lotte Castle SKY-L65 Landmark Tower, and the mall connects directly to the existing Lotte Department Store Cheongnyangni.\n\nOn 1F, 'Cheongnyang Terrace' has GENTZ BAKERY's first Seoul store, CHAGEE's first premium store, and a TERAROSA (@terarosacoffee) hand-drip bar. 2F has Musinsa Bag & Cap Club, in its first department-store placement, a running-focused Decathlon, and OFF BEAUTY. Haidilao opens in November, and a 600-pyeong MUSINSA STANDARD follows in December.\n\nOpened: Oct 23 (Fri)\nLocation: B1–4F, Lotte Castle SKY-L65 Landmark Tower, Dongdaemun-gu, Seoul\n#SENE #Cheongnyangni #SeoulShopping #LotteMall #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724241/shqppcflbovfrxq9loig.jpg\n제목: Lotte's first new Seoul|mall in 15 years\n부제: Lotte Mall Bellitown Cheongnyangni · Opens Oct 23\n출처: 롯데백화점\n",
+      "caption": "Lotte Department Store opened Lotte Mall Bellitown Cheongnyangni today in Cheongnyangni, Seoul.\n\nIt is the company's first new location in Seoul since the Gimpo Airport store in 2011. Around 50 brands fill about 5,400 pyeong across B1 to 4F of the Lotte Castle SKY-L65 Landmark Tower, and the mall connects directly to the existing Lotte Department Store Cheongnyangni.\n\nOn 1F, 'Cheongnyang Terrace' has GENTZ BAKERY's first Seoul store, CHAGEE's first premium store, and a TERAROSA (@terarosacoffee) hand-drip bar. 2F has Musinsa Bag & Cap Club, in its first department-store placement, a running-focused Decathlon, and OFF BEAUTY. Haidilao opens in November, and a 600-pyeong MUSINSA STANDARD follows in December.\n\nOpened: Oct 23 (Fri)\nLocation: B1–4F, Lotte Castle SKY-L65 Landmark Tower, Dongdaemun-gu, Seoul\n#SENE #Cheongnyangni #SeoulShopping #LotteMall #SeoulTravel",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739372/jlwyf306namvebssnvc5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739371/m8xlak69ouyuyxmclil0.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739372/jlwyf306namvebssnvc5.jpg"
+       },
+       "at": "2026-10-23T16:09+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nロッテ百貨店が本日、ソウル・清凉里（チョンニャンニ）に「ロッテモール ベリータウン清凉里（롯데몰 벨리타운 청량리）」をオープンしました。\n\n2011年の金浦空港店以来、15年ぶりにソウルで新たに出した店舗です。ロッテキャッスルSKY-L65ランドマークタワーの地下1階から地上4階まで、約5,400坪に50余りのブランドが入りました。既存のロッテ百貨店清凉里店と直結しています。\n\n1階「清凉テラス」には、GENTZ BAKERY（ゲンツベーカリー）のソウル1号店とCHAGEEのプレミアム1号店、TERAROSA（テラロサ・@terarosacoffee）のハンドドリップバーがあり、2階には流通業界に初めて入ったムシンサ（MUSINSA）のバッグ＆キャップクラブと、ランニングに特化したデカトロン、OFF BEAUTY（オフビューティー）が入りました。海底撈（ハイディラオ）は11月、600坪規模のMUSINSA STANDARDは12月にオープンします。\n\nオープン：10月23日（金）\n場所：ソウル・東大門区（トンデムング）ロッテキャッスルSKY-L65ランドマークタワー 地下1階〜地上4階\n#SENE #韓国旅行 #ソウル旅行 #清凉里 #ソウルショッピング\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724241/shqppcflbovfrxq9loig.jpg\n제목: ロッテ、清凉里に|15年ぶりソウル新モール\n부제: ロッテモール ベリータウン清凉里・10月23日オープン\n출처: 롯데백화점\n",
+      "caption": "ロッテ百貨店が本日、ソウル・清凉里（チョンニャンニ）に「ロッテモール ベリータウン清凉里（롯데몰 벨리타운 청량리）」をオープンしました。\n\n2011年の金浦空港店以来、15年ぶりにソウルで新たに出した店舗です。ロッテキャッスルSKY-L65ランドマークタワーの地下1階から地上4階まで、約5,400坪に50余りのブランドが入りました。既存のロッテ百貨店清凉里店と直結しています。\n\n1階「清凉テラス」には、GENTZ BAKERY（ゲンツベーカリー）のソウル1号店とCHAGEEのプレミアム1号店、TERAROSA（テラロサ・@terarosacoffee）のハンドドリップバーがあり、2階には流通業界に初めて入ったムシンサ（MUSINSA）のバッグ＆キャップクラブと、ランニングに特化したデカトロン、OFF BEAUTY（オフビューティー）が入りました。海底撈（ハイディラオ）は11月、600坪規模のMUSINSA STANDARDは12月にオープンします。\n\nオープン：10月23日（金）\n場所：ソウル・東大門区（トンデムング）ロッテキャッスルSKY-L65ランドマークタワー 地下1階〜地上4階\n#SENE #韓国旅行 #ソウル旅行 #清凉里 #ソウルショッピング",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739375/hrzjfiwqurbqwjtkmaz2.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739375/yxpsdha45od2m23iujo7.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792739375/hrzjfiwqurbqwjtkmaz2.jpg"
+       },
+       "at": "2026-10-23T16:09+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1522,7 +1566,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T14:59+09:00"
+  "at": "2026-10-23T16:09+09:00"
  },
  "slots": {
   "basis": 0,
