@@ -598,8 +598,8 @@
      "v": {
       "A": "a3106ac6",
       "B": "e273cc06",
-      "E": "ddbac3b6",
-      "J": "d6fd4318"
+      "E": "b4e695cc",
+      "J": "27b67ece"
      }
     }
    },
@@ -612,55 +612,55 @@
    "corner_name": "이번 주말 뭐 하지",
    "corner_no": 1,
    "i18n": {
-    "at": "2026-10-23T11:58+09:00",
+    "at": "2026-10-23T12:00+09:00",
     "confirm": [
-     "유영국 전시 영문 제목은 'Yoo Youngkuk: A Mountain Within Me'로 썼습니다(Ocula·SeMA 표기). 다만 일부 매체는 'Yu Youngkuk'·'The Mountain Is Within Me'로 적습니다. 일본어 제목 「山は私の中にある」는 공식 표기를 찾지 못해 직역했고, 한자 이름 劉永國 도 공식 일본어 자료로는 확인하지 못했습니다.",
-     "'롯데몰 벨리타운 청량리'의 공식 영문 표기를 찾지 못해 영어는 'Bellytown', 일본어는 ベリータウン 으로 임시 표기했습니다(Valley일 가능성도 있음). 롯데 공식 표기를 확인해 주세요.",
-     "'안다르 인 모션'의 영문 팝업 이름('andar In Motion')과 '에어쿨링(Air Cooling)' 컬렉션 이름은 공식 표기를 확인하지 못했습니다.",
-     "안다르는 일본(이세탄 신주쿠·시부야)에서 팝업을 연 적이 있어, 원문의 '첫 팝업'이 국내 기준인지 확인이 필요합니다. 영어·일본어판은 원문대로 '첫 팝업'으로 옮겼습니다.",
-     "서울국제정원박람회 영문('Seoul International Garden Expo'), 무신사 백&캡 클럽('Musinsa Bag & Cap Club'), 겐츠 베이커리('Gentz Bakery'), 차지티('CHAGEE') 표기는 공식 출처로 확인하지 못했습니다.",
-     "진격의 거인展 FINAL의 2026년 서울 회차 기간·가격은 이번 검색으로 다시 확인하지 못했습니다. 원문 그대로 옮겼습니다.",
-     "캡션의 '오늘 오픈(10/23)'은 발행일이 10월 23일일 때만 맞습니다. 하루 늦게 올리면 영어 'today'와 일본어 「今日」도 함께 고쳐야 합니다."
+     "유영국 전시 영문 제목: SeMA·코리아중앙데일리 표기 'A Mountain Within Me', 작가명 'Yoo Youngkuk'(매체마다 Yoo Young-kuk·Yu Youngkuk 혼용). 일본어 제목 「山は私の中にある」는 공식 일본어 표기가 아니라 번역",
+     "서울국제정원박람회 영문: 서울시 영문 공지 표기 'Seoul International Garden Show' 사용",
+     "안다르 팝업 'andar In Motion' 공식 영문·일본어 표기와 '에어쿨링' 컬렉션 영문명(Air Cooling) 확인 못 함 — 안다르 공식 계정 대조 필요",
+     "롯데몰 벨리타운 공식 영문 표기(Belli Town 추정) 확인 못 함",
+     "겐츠베이커리(Gentz Bakery)·차지티(CHAGEE)·무신사 백&캡 클럽 영문·일본어 공식 표기 확인 못 함 — 로마자·カタカナ로 씀",
+     "진격의 거인展 FINAL 일본어는 기존 2023년 서울 전시 일본어 표기 「進撃の巨人展 FINAL」에 맞춤, 영문 'Attack on Titan Exhibition FINAL'은 공식 영문 확인 못 함",
+     "DUEX(덕스) 일본어 읽기 「ドゥクス」는 한국어 발음을 옮긴 것"
     ],
     "en": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nFive places to go in Seoul this weekend, listed by closing date.\n\nTwo of them close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Expo around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Bellytown opened today in Cheongnyangni. Each slide lists the dates, location and admission.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #Hongdae\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724050/splwbgnsw9ilohbv6jch.jpg\n제목: What to do this weekend|Oct 24 – 25\n부제: Seosomun · Seongsu · Seoul Forest · Hongdae · Cheongnyangni: 5 spots\n출처: 서울시\n\n[슬라이드]\n소스: \n소제목: Yoo Youngkuk: A Mountain Within Me\n본문: Through Sun, Oct 25|Seoul Museum of Art Seosomun, 1F (Jung-gu)|Weekends 10 a.m.–7 p.m. · last entry 6 p.m.|Free · 110th-anniversary retrospective, 170+ works\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: Sat, Oct 24 – Sun, Oct 25|Y173 cultural complex, Seongsu-dong (Seongdong-gu)|andar's first pop-up · yoga, Pilates and running classes|First look at the Air Cooling capsule collection\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724053/wvdmtlijskvs4nehtlln.jpg\n소제목: Seoul International Garden Expo\n본문: Through Tue, Oct 27|Around Seoul Forest (Seongdong-gu)|Artist gardens, community gardens · garden market|Final weekend of a six-month run that began in May\n출처: 서울시\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724055/rxob3ajgfal95nzb2ykm.jpg\n소제목: Attack on Titan Exhibition FINAL\n본문: Through Sun, Nov 1|DUEX, LC Tower, Hongdae · Hongik Univ. Stn Exit 4 (Mapo-gu)|11 a.m.–7 p.m. · last entry 6:20 p.m.|Adults KRW 26,000 · tickets via NOL Ticket and others\n출처: 진격의 거인展\n\n[슬라이드]\n소스: \n소제목: Lotte Mall Bellytown Cheongnyangni\n본문: Opened Fri, Oct 23|Lotte Castle SKY-L65 Landmark Tower (Dongdaemun-gu)|Gentz Bakery's first Seoul shop · CHAGEE's first premium store|Musinsa Bag & Cap Club · running-focused Decathlon\n출처:\n",
-      "caption": "Five places to go in Seoul this weekend, listed by closing date.\n\nTwo of them close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Expo around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Bellytown opened today in Cheongnyangni. Each slide lists the dates, location and admission.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #Hongdae",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nFive places in Seoul to go this weekend, listed in order of closing date.\n\nTwo close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Show around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Belli Town opened today in Cheongnyangni. Each slide lists the dates and location, plus hours and admission where confirmed.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #YooYoungkuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724233/tqbaszmw6xhz4dz1fogz.jpg\n제목: What to Do This Weekend|Oct 24 & 25\n부제: 5 spots: Seosomun, Seongsu, Seoul Forest, Hongdae, Cheongnyangni\n출처: 서울시\n\n[슬라이드]\n소스: \n소제목: Yoo Youngkuk: A Mountain Within Me\n본문: Through Sun, Oct 25|Seoul Museum of Art, Seosomun Main Building, 1F (Jung-gu)|Weekends 10 a.m.–7 p.m. · last entry 6 p.m.|Free · 110th-anniversary retrospective, 170-plus works\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: Sat, Oct 24 – Sun, Oct 25|Y173 cultural complex, Seongsu-dong (Seongdong-gu)|andar's first pop-up · yoga, Pilates and running classes|First look at the Air Cooling capsule collection\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724235/tj8xxv8t6kp79m29rzks.jpg\n소제목: Seoul International Garden Show\n본문: Through Tue, Oct 27|Around Seoul Forest (Seongdong-gu)|Artist gardens and participatory gardens · garden market|Final weekend of a six-month run that began in May\n출처: 서울시\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724237/umadwsu8zcarehvxmlev.jpg\n소제목: Attack on Titan Exhibition FINAL\n본문: Through Sun, Nov 1|LC Tower DUEX, Hongdae · Hongik Univ. Station Exit 4 (Mapo-gu)|11 a.m.–7 p.m. · last entry 6:20 p.m.|Adults KRW 26,000 · tickets via NOL Ticket and others\n출처: 진격의 거인展\n\n[슬라이드]\n소스: \n소제목: Lotte Mall Belli Town Cheongnyangni\n본문: Opened Fri, Oct 23|Lotte Castle SKY-L65 Landmark Tower (Dongdaemun-gu)|Gentz Bakery's first Seoul store · CHAGEE's first premium store|MUSINSA Bag & Cap Club · running-focused Decathlon\n출처:\n",
+      "caption": "Five places in Seoul to go this weekend, listed in order of closing date.\n\nTwo close on Sunday: the Yoo Youngkuk retrospective at the Seoul Museum of Art and andar's first pop-up in Seongsu-dong both run through Oct 25. The Seoul International Garden Show around Seoul Forest also ends its six-month run on Oct 27.\n\nAttack on Titan Exhibition FINAL in Hongdae continues through next Sunday, and Lotte Mall Belli Town opened today in Cheongnyangni. Each slide lists the dates and location, plus hours and admission where confirmed.\n\n#SENE #SeoulWeekend #SeoulTravel #Seongsu #YooYoungkuk",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724313/mtkhskiyc0noppr1uki8.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724313/nqeepfiloskbwocn716z.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724313/jqhdey8kflne8ub8dvs3.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724313/mw4a8luctcryagfaqazj.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724315/m8xobl1l7izz0ffaqdmv.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724314/hubrxjooluxjr9vyzd1q.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724314/d9zl6pyixruitn8ulkda.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/ord0nqb6qqfwtgapqp07.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/rceixh1wtmgr8zeh0kqw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/armxma3sh55y3kf4uebs.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/qcphsckas7wswfji3xsu.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724455/oqndy4qjq9he022mczo1.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724455/zz4ucqd92rcfajjlmgyo.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724455/borjgmxqu92iioq5gklz.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724313/mtkhskiyc0noppr1uki8.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724453/ord0nqb6qqfwtgapqp07.jpg"
        },
-       "at": "2026-10-23T11:58+09:00"
+       "at": "2026-10-23T12:00+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\n今週末ソウルで行ける5カ所を、終了日の早い順にまとめました。\n\n日曜日に幕を閉じる場所が2つあります。ソウル市立美術館の劉永國（ユ・ヨングク）回顧展と、ソウル・聖水洞（ソンスドン）で開かれるandar初のポップアップは、いずれも25日までです。ソウルの森一帯のソウル国際庭園博覧会も、27日で6カ月の会期を終えます。\n\n弘大（ホンデ）の「進撃の巨人展 FINAL」は来週の日曜日まで続き、清凉里（チョンニャンニ）には今日、ロッテモール ベリータウン（롯데몰 벨리타운）が新たにオープンしました。各ページに期間と場所、入場料を記しています。\n\n#SENE #韓国旅行 #ソウル旅行 #聖水 #弘大\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724050/splwbgnsw9ilohbv6jch.jpg\n제목: 今週末、なにする|10月24日・25日\n부제: 西小門・聖水・ソウルの森・弘大・清凉里の5カ所\n출처: 서울시\n\n[슬라이드]\n소스: \n소제목: ユ・ヨングク：山は私の中にある\n본문: 10月25日（日）まで|ソウル市立美術館 西小門本館1階（中区）|週末 午前10時〜午後7時・入場は6時まで|無料・生誕110周年の回顧展、170点余り\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: 10月24日（土）〜25日（日）|聖水洞の複合文化空間Y173（城東区）|andar初のポップアップ・ヨガ、ピラティス、ランニングのクラス|エアクーリングのカプセルコレクションを初公開\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724053/wvdmtlijskvs4nehtlln.jpg\n소제목: ソウル国際庭園博覧会\n본문: 10月27日（火）まで|ソウルの森一帯（城東区）|作家庭園・参加庭園・ガーデンマーケット|5月に始まった6カ月の会期、最後の週末\n출처: 서울시\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724055/rxob3ajgfal95nzb2ykm.jpg\n소제목: 進撃の巨人展 FINAL\n본문: 11月1日（日）まで|弘大 LC TOWER「DUEX」・弘大入口駅4番出口（麻浦区）|午前11時〜午後7時・入場締切6時20分|大人26,000ウォン・NOLチケットなどで予約\n출처: 진격의 거인展\n\n[슬라이드]\n소스: \n소제목: ロッテモール ベリータウン清凉里\n본문: 10月23日（金）オープン|ロッテキャッスル SKY-L65 ランドマークタワー（東大門区）|ゲンツベーカリー ソウル1号店・CHAGEEプレミアム1号店|MUSINSA バッグ&キャップクラブ・ランニング特化のデカトロン\n출처:\n",
-      "caption": "今週末ソウルで行ける5カ所を、終了日の早い順にまとめました。\n\n日曜日に幕を閉じる場所が2つあります。ソウル市立美術館の劉永國（ユ・ヨングク）回顧展と、ソウル・聖水洞（ソンスドン）で開かれるandar初のポップアップは、いずれも25日までです。ソウルの森一帯のソウル国際庭園博覧会も、27日で6カ月の会期を終えます。\n\n弘大（ホンデ）の「進撃の巨人展 FINAL」は来週の日曜日まで続き、清凉里（チョンニャンニ）には今日、ロッテモール ベリータウン（롯데몰 벨리타운）が新たにオープンしました。各ページに期間と場所、入場料を記しています。\n\n#SENE #韓国旅行 #ソウル旅行 #聖水 #弘大",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n今週末ソウルで行ける5か所を、終わる日の順にまとめました。\n\n日曜日に幕を閉じる場所が二つあります。ソウル市立美術館のユ・ヨングク（유영국）回顧展と、ソウル・聖水洞（ソンスドン）のandar（アンダール）初のポップアップは、いずれも25日までです。ソウルの森一帯のソウル国際庭園博覧会も、27日で6か月の会期を終えます。\n\n弘大（ホンデ）の「進撃の巨人展 FINAL」は来週の日曜日まで続き、清凉里（チョンニャンニ）には今日、ロッテモール・ベリータウンが新たにオープンしました。各ページに期間と場所を、確認できた所は営業時間と入場料まで記しています。\n\n#SENE #韓国旅行 #ソウル旅行 #聖水 #弘大\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724233/tqbaszmw6xhz4dz1fogz.jpg\n제목: 今週末、何をしよう|10月24日・25日\n부제: 西小門・聖水・ソウルの森・弘大・清凉里の5か所\n출처: 서울시\n\n[슬라이드]\n소스: \n소제목: ユ・ヨングク：山は私の中にある\n본문: 10月25日（日）まで|ソウル市立美術館 西小門本館1階（中区）|週末 午前10時〜午後7時・入場は6時まで|無料・生誕110周年回顧展、170点余り\n출처: \n\n[슬라이드]\n소스: \n소제목: andar In Motion\n본문: 10月24日（土）〜25日（日）|聖水洞の複合文化空間 Y173（城東区）|andar初のポップアップ・ヨガ、ピラティス、ランニングのクラス|エアクーリング・カプセルコレクションを初公開\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724235/tj8xxv8t6kp79m29rzks.jpg\n소제목: ソウル国際庭園博覧会\n본문: 10月27日（火）まで|ソウルの森一帯（城東区）|作家庭園・参加庭園・ガーデンマーケット|5月に始まった6か月の会期、最後の週末\n출처: 서울시\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792724237/umadwsu8zcarehvxmlev.jpg\n소제목: 進撃の巨人展 FINAL\n본문: 11月1日（日）まで|弘大 LCタワー DUEX（ドゥクス）・弘大入口駅4番出口（麻浦区）|午前11時〜午後7時・入場締切6時20分|大人26,000ウォン・NOLチケットなどで予約\n출처: 진격의 거인展\n\n[슬라이드]\n소스: \n소제목: ロッテモール・ベリータウン清凉里\n본문: 10月23日（金）オープン|ロッテキャッスル SKY-L65 ランドマークタワー（東大門区）|ゲンツベーカリー ソウル1号店・CHAGEE プレミアム1号店|MUSINSA バッグ&キャップクラブ・ランニング特化のデカトロン\n출처:\n",
+      "caption": "今週末ソウルで行ける5か所を、終わる日の順にまとめました。\n\n日曜日に幕を閉じる場所が二つあります。ソウル市立美術館のユ・ヨングク（유영국）回顧展と、ソウル・聖水洞（ソンスドン）のandar（アンダール）初のポップアップは、いずれも25日までです。ソウルの森一帯のソウル国際庭園博覧会も、27日で6か月の会期を終えます。\n\n弘大（ホンデ）の「進撃の巨人展 FINAL」は来週の日曜日まで続き、清凉里（チョンニャンニ）には今日、ロッテモール・ベリータウンが新たにオープンしました。各ページに期間と場所を、確認できた所は営業時間と入場料まで記しています。\n\n#SENE #韓国旅行 #ソウル旅行 #聖水 #弘大",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724319/ywcqyrzph7ilgwsw55ui.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724319/qxfvbt8mpyup2xs1tde1.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724319/pzb1ktu9sniqgfknbhwv.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724319/pfsg2ylyv7jw1pm2ucvi.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724321/wk08htqt0oqwyegoa35h.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724321/l9pjdb8qo4lbnf9l1rb8.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724320/z3dnaztef7yypfq9aaak.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/yyokv9etcpux1l37kscq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/ed1zujlw24xwc9nrbves.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/veeiru3k5fh5fat7kwlt.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/fay6qpuwarsc2lf8fvcr.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724461/n0s2mx9jkj8mfounsqxj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724461/f46qjcgjnikwgmvszmpo.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724461/llhcukuhbsimsdb91q4h.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724319/ywcqyrzph7ilgwsw55ui.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792724459/yyokv9etcpux1l37kscq.jpg"
        },
-       "at": "2026-10-23T11:58+09:00"
+       "at": "2026-10-23T12:01+09:00"
       }
      }
     }
@@ -1410,7 +1410,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-23T11:59+09:00"
+  "at": "2026-10-23T12:01+09:00"
  },
  "slots": {
   "basis": 0,
