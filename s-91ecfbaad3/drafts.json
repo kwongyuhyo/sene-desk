@@ -3484,9 +3484,80 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792799806/w3ry4hzxsfobzup6knm5.jpg",
      "key": "dyrALzvYj4U@10.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-24T08:57+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1792799999/sene_studio/bweus46sqlig4t7dn3pn.mp4",
+     "at": "2026-10-24T09:00+09:00",
+     "file": "Cheos_PabEobEul_Yeol_ONeulGwa_NaeIlMan_GongGan_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1792800000965-40c2e66b",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 3.25,
+        "text": "한 번 더 기다려주세요"
+       },
+       {
+        "start": 6.02,
+        "end": 8.22,
+        "text": "Keep it quiet"
+       },
+       {
+        "start": 8.22,
+        "end": 11.42,
+        "text": "keep it quiet now"
+       },
+       {
+        "start": 12.92,
+        "end": 14.68,
+        "text": "'Cause it's noise that"
+       },
+       {
+        "start": 14.68,
+        "end": 16.66,
+        "text": "you're making so about"
+       },
+       {
+        "start": 16.66,
+        "end": 18.46,
+        "text": "to drive me now"
+       },
+       {
+        "start": 18.46,
+        "end": 19.14,
+        "text": "안녕하세요"
+       },
+       {
+        "start": 19.14,
+        "end": 20.8,
+        "text": "합성으로 갈게요"
+       },
+       {
+        "start": 20.82,
+        "end": 22.92,
+        "text": "There was a 17 -pound"
+       },
+       {
+        "start": 22.92,
+        "end": 24.52,
+        "text": "front drake we were"
+       },
+       {
+        "start": 24.52,
+        "end": 26.2,
+        "text": "ready to steal"
+       },
+       {
+        "start": 26.2,
+        "end": 28.5,
+        "text": "너무 좋대기야"
+       },
+       {
+        "start": 28.5,
+        "end": 29.9,
+        "text": "we can lose it"
+       }
+      ]
+     }
     }
    },
    "corner_name": "소식"
@@ -3620,7 +3691,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T08:57+09:00"
+  "at": "2026-10-24T09:00+09:00"
  },
  "slots": {
   "basis": 0,
