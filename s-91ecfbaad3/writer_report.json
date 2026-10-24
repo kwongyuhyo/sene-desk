@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-24T22:12+09:00",
+ "generated_at": "2026-10-24T22:13+09:00",
  "range": [
   "2026-10-18",
   "2026-10-24"
@@ -29,15 +29,15 @@
    "안 올림": 0
   },
   "why_top": [],
-  "published": 2,
-  "publish_rate": 0.06,
+  "published": 3,
+  "publish_rate": 0.09,
   "reach_mult": [],
   "verify_touched": 15,
   "orders": {
    "만듦": 3,
    "못 만듦": 2
   },
-  "runs": 136,
+  "runs": 138,
   "run_fail": 0,
   "avg_secs": 79,
   "denied": 1,
