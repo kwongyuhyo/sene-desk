@@ -201,7 +201,7 @@
    "pick": {
     "rank": 2,
     "why": "비버 방한과 겹친 스카이라크 성수 팝업이 내일 끝난다 — 이번 주 가장 많이 이야기된 소식의 마지막 날",
-    "at": "2026-10-24T17:46+09:00"
+    "at": "2026-10-24T17:48+09:00"
    }
   },
   {
@@ -745,7 +745,7 @@
    "pick": {
     "rank": 3,
     "why": "넷플릭스 10주년 잔치가 내일까지 — 무료라 퇴근길에 보고 내일 갈 수 있는 곳",
-    "at": "2026-10-24T17:46+09:00"
+    "at": "2026-10-24T17:48+09:00"
    }
   },
   {
@@ -1002,7 +1002,7 @@
     "is_reel": true,
     "kind": "claude"
    },
-   "made_at": "2026-10-24T17:46+09:00",
+   "made_at": "2026-10-24T17:48+09:00",
    "key": "7b8d1808",
    "by": "claude",
    "subjects": [
@@ -1016,31 +1016,31 @@
     "why": "오늘(10/24) 정식 오픈한 매장이고, 오픈일·규모·공간 구성·성수 한정 메뉴·12월 알랭 뒤카스 쇼콜라 입점이 푸드뱅크·호텔앤레스토랑·아시아경제·뉴스1에서 맞는다. 테라로사 공식 유튜브 영상이 있다"
    },
    "added": "claude",
-   "added_at": "2026-10-24T17:46+09:00",
+   "added_at": "2026-10-24T17:48+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n푸드\n\n[캡션]\n테라로사(@terarosacoffee)가 오늘 성수동에 400평 규모의 플래그십 '더 하우스 오브 테라로사 서울'을 열었습니다.\n\n2002년 강릉에서 시작한 스페셜티 커피 브랜드인데요, 브랜드는 이 매장을 '테라로사 2.0'의 첫 매장으로 소개합니다. 붉은 벽돌과 콘크리트, 철골로 지은 공간 안에 로스터리와 실내 정원, 야외 테라스, 반려동물과 앉을 수 있는 펫 테라스가 함께 있습니다.\n\n로스터리에서는 생두를 직접 골라 그 자리에서 볶아 받을 수 있고, 여러 산지의 커피를 차례로 맛보는 '커피 저니' 테이스팅 코스도 열립니다. '성수 하프&풀 블렌드'와 '블랙 잉크 커피', '브릭 바움쿠헨'처럼 이곳에서만 파는 메뉴가 있고, 12월에는 알랭 뒤카스의 초콜릿 브랜드 '알랭 뒤카스 쇼콜라 파리'가 매장 안에 들어올 예정입니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n#SENE #테라로사 #성수카페 #성수동 #더하우스오브테라로사\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831603/jjg1dpazs1owfbybnjo4.jpg\n제목: 테라로사, 성수에|400평 플래그십 오픈\n부제: 더 하우스 오브 테라로사 서울 · 10월 24일 오픈\n출처: 테라로사\n",
+    "form": "[카테고리]\n푸드\n\n[캡션]\n테라로사(@terarosacoffee)가 오늘 성수동에 400평 규모의 플래그십 '더 하우스 오브 테라로사 서울'을 열었습니다.\n\n2002년 강릉에서 시작한 스페셜티 커피 브랜드인데요, 브랜드는 이 매장을 '테라로사 2.0'의 첫 매장으로 소개합니다. 붉은 벽돌과 콘크리트, 철골로 지은 공간 안에 로스터리와 실내 정원, 야외 테라스, 반려동물과 앉을 수 있는 펫 테라스가 함께 있습니다.\n\n로스터리에서는 생두를 직접 골라 그 자리에서 볶아 받을 수 있고, 여러 산지의 커피를 차례로 맛보는 '커피 저니' 테이스팅 코스도 열립니다. '성수 하프&풀 블렌드'와 '블랙 잉크 커피', '브릭 바움쿠헨'처럼 이곳에서만 파는 메뉴가 있고, 12월에는 알랭 뒤카스의 초콜릿 브랜드 '알랭 뒤카스 쇼콜라 파리'가 매장 안에 들어올 예정입니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n#SENE #테라로사 #성수카페 #성수동 #더하우스오브테라로사\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831722/nxwfvwoftxdwzfbn4o7w.jpg\n제목: 테라로사, 성수에|400평 플래그십 오픈\n부제: 더 하우스 오브 테라로사 서울 · 10월 24일 오픈\n출처: 테라로사\n",
     "caption": "테라로사(@terarosacoffee)가 오늘 성수동에 400평 규모의 플래그십 '더 하우스 오브 테라로사 서울'을 열었습니다.\n\n2002년 강릉에서 시작한 스페셜티 커피 브랜드인데요, 브랜드는 이 매장을 '테라로사 2.0'의 첫 매장으로 소개합니다. 붉은 벽돌과 콘크리트, 철골로 지은 공간 안에 로스터리와 실내 정원, 야외 테라스, 반려동물과 앉을 수 있는 펫 테라스가 함께 있습니다.\n\n로스터리에서는 생두를 직접 골라 그 자리에서 볶아 받을 수 있고, 여러 산지의 커피를 차례로 맛보는 '커피 저니' 테이스팅 코스도 열립니다. '성수 하프&풀 블렌드'와 '블랙 잉크 커피', '브릭 바움쿠헨'처럼 이곳에서만 파는 메뉴가 있고, 12월에는 알랭 뒤카스의 초콜릿 브랜드 '알랭 뒤카스 쇼콜라 파리'가 매장 안에 들어올 예정입니다.\n\n오픈: 10월 24일(토)\n장소: 서울 성동구 성수동\n#SENE #테라로사 #성수카페 #성수동 #더하우스오브테라로사",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831603/jjg1dpazs1owfbybnjo4.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831722/nxwfvwoftxdwzfbn4o7w.jpg",
       "credit": "테라로사",
       "from": "https://i3n.news1.kr/system/photos/2026/10/22/8174169/high.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831600/ohmidvhl4mgnwe9zsbwv.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831719/gt0iacr9sit3hhcweyrc.jpg",
       "credit": "@terarosacoffee",
       "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/858088302_18635433079019460_7642639568089358040_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Nx8GXw1YGYwQ7kNvwElub1G&_nc_oc=AdqL8tYxVYUT3g5f8SxvhRzKfkcxOzAQFBNJVVcwDxdvLehG8Rqwsz82yQ6Oa5Lz2vM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=j0JtBL0Q-uuXvWDjen9gtw&oh=00_AQOLnTwRozqAwXX9GZvf3dijuHpjYOAfPJT9nOstSfjr0A&oe=6AE22B2B"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831603/jjg1dpazs1owfbybnjo4.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831722/nxwfvwoftxdwzfbn4o7w.jpg",
       "credit": "테라로사",
       "from": "https://i3n.news1.kr/system/photos/2026/10/22/8174169/high.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831600/ohmidvhl4mgnwe9zsbwv.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831719/gt0iacr9sit3hhcweyrc.jpg",
       "credit": "@terarosacoffee",
       "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/858088302_18635433079019460_7642639568089358040_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Nx8GXw1YGYwQ7kNvwElub1G&_nc_oc=AdqL8tYxVYUT3g5f8SxvhRzKfkcxOzAQFBNJVVcwDxdvLehG8Rqwsz82yQ6Oa5Lz2vM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=j0JtBL0Q-uuXvWDjen9gtw&oh=00_AQOLnTwRozqAwXX9GZvf3dijuHpjYOAfPJT9nOstSfjr0A&oe=6AE22B2B"
      }
@@ -1090,19 +1090,19 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831615/xltsviexsx9o2l5tbxs3.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831614/wdlizguacqje2co7yqrl.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831736/p2xv4ayhar9dx4kzszqq.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831735/zx9o7yije9dzgwej17c5.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831617/vdlpu2o5iflrmbjjbei5.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831615/xltsviexsx9o2l5tbxs3.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831739/z0sflseqqqswrumaifqo.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831736/p2xv4ayhar9dx4kzszqq.jpg"
      },
-     "at": "2026-10-24T17:46+09:00",
+     "at": "2026-10-24T17:48+09:00",
      "v": {
-      "A": "1534cb55",
-      "B": "d7a56de3",
-      "E": "d7dc0346",
-      "J": "22cce76a"
+      "A": "adc120ef",
+      "B": "33f7a279",
+      "E": "9bed0902",
+      "J": "b5d18c18"
      }
     }
    },
@@ -1155,83 +1155,84 @@
     ],
     "thumb": "https://i.ytimg.com/vi/i6ytgPgXals/maxresdefault.jpg",
     "still": {
-     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831622/fohvet4t7aseevqemazh.jpg",
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831743/aqxlgttvmqxad3motsde.jpg",
      "key": "i6ytgPgXals@0.0"
     }
    },
    "pick": {
     "rank": 1,
     "why": "오늘 문을 연 테라로사 성수 400평 플래그십 — 이번 주말 갈 곳이고, 공식 영상으로 숏폼까지 된다",
-    "at": "2026-10-24T17:46+09:00"
+    "at": "2026-10-24T17:48+09:00"
    },
-   "i18n_queued": "2026-10-24T17:46+09:00",
+   "i18n_queued": "2026-10-24T17:48+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-24T17:47+09:00",
+    "at": "2026-10-24T17:49+09:00",
     "confirm": [
-     "매장 이름의 공식 영어·일본어 표기를 찾지 못했습니다. 영어 'The House of Terarosa Seoul'은 한국어 이름을 그대로 영어로 옮긴 것이고, 일본어 「ザ・ハウス・オブ・テラロサ・ソウル」은 カタカナ로 적은 것입니다. 일본어판의 'テラロサ' 표기는 일본어 여행 사이트에서 쓰는 것을 확인했습니다.",
-     "원문의 '알랭 뒤카스 쇼콜라 파리'를 공식 브랜드명인 'Le Chocolat Alain Ducasse'(ducasse-paris.com에서 확인)와 「ル・ショコラ・アラン・デュカス」로 옮겼습니다. 테라로사 발표에 나온 이름과 같은 브랜드인지 다시 확인해 주세요.",
-     "영어판은 400평 옆에 '(about 1,320㎡)'를 단위 환산으로 덧붙였습니다. 일본어판은 같은 단위인 '400坪'으로 적었습니다.",
-     "메뉴 이름('Seongsu Half & Full Blend', 'Black Ink Coffee', 'Brick Baumkuchen', 'Coffee Journey')의 공식 영어·일본어 표기는 확인하지 못해 그대로 옮겼습니다.",
-     "해시태그 #SeoulCoffee는 지침의 예시(#SeoulPopup)를 대신해 새로 골랐습니다. 이 글은 팝업이 아니라 상설 매장이기 때문입니다.",
-     "초콜릿 브랜드 이름 — 한국어 원문은 '알랭 뒤카스 쇼콜라 파리'인데 번역은 영어 'Le Chocolat Alain Ducasse' · 일본어 'ル・ショコラ・アラン・デュカス'(일본 공식 표기)로 씀. Creatrip 은 'Alain Ducasse Chocolat Paris'로 적고 있어 한국 진출 때 쓰는 공식 이름을 확인해야 함",
-     "영어 캡션의 'about 1,320㎡'는 원문에 없는 환산값(400평 ≈ 1,322㎡). 계산은 맞지만 넣을지 판단 필요 · 표지의 'pyeong'은 영어권 독자에게 낯선 단위",
-     "일본어 부제 'ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン'은 한 줄 12자 안팎보다 훨씬 김(원문 부제도 한 줄이라 그대로 둠) — 화면에서 넘치는지 확인",
-     "검색으로는 성수 매장 오픈과 12월 초콜릿 브랜드 입점을 따로 확인하지 못함 — 원문 쪽 확인 내용을 따름"
+     "테라로사의 공식 영어·일본어 표기를 확인하지 못했습니다. 영어는 핸들(terarosacoffee)을 따라 'Terarosa', 일본어는 일본 매체에서 쓰는 'テラロサ'로 적었습니다.",
+     "매장 이름 'The House of Terarosa Seoul'의 영어 표기를 공식 출처에서 확인하지 못했습니다. 한국어 이름을 그대로 옮겼으니 공식 계정 표기와 맞는지 봐 주세요.",
+     "매장 전용 메뉴('Seongsu Half & Full Blend'·'Black Ink Coffee'·'Brick Baumkuchen')와 'Coffee Journey' 코스의 영어·일본어 이름은 한국어를 옮긴 것입니다. 공식 메뉴판 표기와 맞는지 확인해 주세요.",
+     "알랭 뒤카스 초콜릿 브랜드: 일본에서는 'アラン・デュカス・ショコラ・パリ'(최근)와 'ル・ショコラ・アラン・デュカス'(예전) 두 표기가 함께 쓰입니다. 원문을 따라 앞의 것을 골랐습니다. 영어 'Alain Ducasse Chocolat Paris'는 따로 확인하지 못했습니다.",
+     "영어판에는 400평을 넣으면서 '(about 1,320㎡)'를 덧붙였습니다. 새 사실이 아니라 단위만 바꾼 계산(400 × 3.3058㎡)입니다. 빼고 싶으면 'a 400-pyeong flagship'만 남기면 됩니다. 일본어 '坪'는 평과 같은 단위라 그대로 썼습니다.",
+     "영어판 펫 테라스 설명의 'with their dogs and cats'는 원문('반려동물과')보다 구체적입니다. 원문에 맞추려면 'with their pets'로 바꿔 주세요.",
+     "초콜릿 브랜드 표기 — 한국 보도(뉴시스·서울신문)는 '알랭 뒤카스 쇼콜라 파리'라고 쓰지만, 브랜드 본래 이름은 'Le Chocolat Alain Ducasse'이고 일본 매장 이름은 「ル・ショコラ・アラン・デュカス」로 알려져 있음. 영어 'Alain Ducasse Chocolat Paris'와 일본어 「アラン・デュカス・ショコラ・パリ」가 공식 표기인지 올리기 전에 확인 필요",
+     "영어 표지 '400-Pyeong' — 영어권 독자에게 낯선 단위이고 첫 줄이 25자로 22자 기준을 넘음. 캡션에서는 ㎡로 풀었으니, 표지는 그대로 둘지 사람이 정해야 함",
+     "일본어 캡션 첫머리 「テラロサ（테라로사、…）」에 한글이 남아 있음 — 번역 규칙(원어 병기)에는 맞지만, 공식 로마자 'TERAROSA'로 바꿀지 판단 필요",
+     "'더 하우스 오브 테라로사 서울' 성수 매장 오픈일·공간 구성은 이번 검색에서 따로 확인하지 못함(검색으로는 강릉 쪽 초콜릿 소식만 확인됨) — 원문 작성 단계의 출처가 맞는지 다시 봐야 함"
     ],
     "review": {
-     "at": "2026-10-24T17:47+09:00",
+     "at": "2026-10-24T17:49+09:00",
      "fixes": [
-      "영어 · 숏폼 세 줄(곡·아티스트) · 'opens 400 pyeong / in Seongsu today' → 'opens a 400-pyeong / Seongsu store today' — '400 pyeong 을 연다'로 읽히는 비문, 이어 읽으면 'Gangneung's Terarosa opens a 400-pyeong Seongsu store today'",
-      "영어 · 캡션 · 'sit with their dogs' → 'sit with their pets' — 원문은 반려동물(개로 한정하지 않음)",
-      "일본어 · 캡션·숏폼 캡션 · 'テラロサ（테라로사、…）' → 'テラロサ（TERAROSA、…）' — 일본 독자가 못 읽는 한글이 남음, 브랜드 로마자 표기로",
-      "일본어 · 캡션·숏폼 캡션 · '店内に入る予定' → '店内に出店する予定' — 브랜드가 매장에 들어온다는 뜻으로는 '出店'이 자연스러운 연어"
+      "영어 · 숏폼 아티스트 칸 · opens 400 pyeong → opens a 400-pyeong — 관사가 빠져 문장으로 읽히지 않음",
+      "영어 · 숏폼 곡 칸 · in Seongsu today → Seongsu store today — 세 줄이 'Gangneung's Terarosa opens a 400-pyeong Seongsu store today' 한 문장으로 이어지도록 명사를 넣음 (19자)",
+      "영어 · 캡션 · with their dogs and cats → with their pets — 원문은 '반려동물'뿐인데 '개와 고양이'로 사실이 더해짐",
+      "일본어 · 표지 제목 둘째 줄 · 400坪の旗艦店 → 400坪の旗艦店オープン — 원문의 '오픈'이 빠져 무슨 일인지 안 읽힘 (11자)"
      ],
      "doubt": [
-      "초콜릿 브랜드 이름 — 한국어 원문은 '알랭 뒤카스 쇼콜라 파리'인데 번역은 영어 'Le Chocolat Alain Ducasse' · 일본어 'ル・ショコラ・アラン・デュカス'(일본 공식 표기)로 씀. Creatrip 은 'Alain Ducasse Chocolat Paris'로 적고 있어 한국 진출 때 쓰는 공식 이름을 확인해야 함",
-      "영어 캡션의 'about 1,320㎡'는 원문에 없는 환산값(400평 ≈ 1,322㎡). 계산은 맞지만 넣을지 판단 필요 · 표지의 'pyeong'은 영어권 독자에게 낯선 단위",
-      "일본어 부제 'ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン'은 한 줄 12자 안팎보다 훨씬 김(원문 부제도 한 줄이라 그대로 둠) — 화면에서 넘치는지 확인",
-      "검색으로는 성수 매장 오픈과 12월 초콜릿 브랜드 입점을 따로 확인하지 못함 — 원문 쪽 확인 내용을 따름"
+      "초콜릿 브랜드 표기 — 한국 보도(뉴시스·서울신문)는 '알랭 뒤카스 쇼콜라 파리'라고 쓰지만, 브랜드 본래 이름은 'Le Chocolat Alain Ducasse'이고 일본 매장 이름은 「ル・ショコラ・アラン・デュカス」로 알려져 있음. 영어 'Alain Ducasse Chocolat Paris'와 일본어 「アラン・デュカス・ショコラ・パリ」가 공식 표기인지 올리기 전에 확인 필요",
+      "영어 표지 '400-Pyeong' — 영어권 독자에게 낯선 단위이고 첫 줄이 25자로 22자 기준을 넘음. 캡션에서는 ㎡로 풀었으니, 표지는 그대로 둘지 사람이 정해야 함",
+      "일본어 캡션 첫머리 「テラロサ（테라로사、…）」에 한글이 남아 있음 — 번역 규칙(원어 병기)에는 맞지만, 공식 로마자 'TERAROSA'로 바꿀지 판단 필요",
+      "'더 하우스 오브 테라로사 서울' 성수 매장 오픈일·공간 구성은 이번 검색에서 따로 확인하지 못함(검색으로는 강릉 쪽 초콜릿 소식만 확인됨) — 원문 작성 단계의 출처가 맞는지 다시 봐야 함"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n푸드\n\n[캡션]\nTerarosa (@terarosacoffee) opens The House of Terarosa Seoul, a 400-pyeong (about 1,320㎡) flagship in Seongsu-dong, today.\n\nThe specialty coffee brand started in Gangneung in 2002, and it calls this store the first of \"Terarosa 2.0.\" Built from red brick, concrete and steel, the space holds a roastery, an indoor garden, an outdoor terrace and a pet terrace where guests can sit with their pets.\n\nAt the roastery, visitors can pick green beans and have them roasted on the spot. A tasting course called 'Coffee Journey' walks through coffees from several origins. Menu items sold only here include the 'Seongsu Half & Full Blend,' 'Black Ink Coffee' and 'Brick Baumkuchen.' In December, Alain Ducasse's chocolate brand, Le Chocolat Alain Ducasse, is set to open inside the store.\n\nOpening: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeoulCafe #Seongsu #SeoulCoffee\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831545/fhbs2okq0n4taiifn5or.jpg\n제목: Terarosa Opens 400-Pyeong|Flagship in Seongsu\n부제: The House of Terarosa Seoul · Opens Oct 24\n출처: Terarosa\n",
-      "caption": "Terarosa (@terarosacoffee) opens The House of Terarosa Seoul, a 400-pyeong (about 1,320㎡) flagship in Seongsu-dong, today.\n\nThe specialty coffee brand started in Gangneung in 2002, and it calls this store the first of \"Terarosa 2.0.\" Built from red brick, concrete and steel, the space holds a roastery, an indoor garden, an outdoor terrace and a pet terrace where guests can sit with their pets.\n\nAt the roastery, visitors can pick green beans and have them roasted on the spot. A tasting course called 'Coffee Journey' walks through coffees from several origins. Menu items sold only here include the 'Seongsu Half & Full Blend,' 'Black Ink Coffee' and 'Brick Baumkuchen.' In December, Alain Ducasse's chocolate brand, Le Chocolat Alain Ducasse, is set to open inside the store.\n\nOpening: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeoulCafe #Seongsu #SeoulCoffee",
+      "form": "[카테고리]\n푸드\n\n[캡션]\nTerarosa (@terarosacoffee) opens The House of Terarosa Seoul, a 400-pyeong (about 1,320㎡) flagship, in Seongsu-dong, Seoul today.\n\nThe specialty coffee brand began in Gangneung in 2002, and it presents this store as the first of what it calls 'Terarosa 2.0.' Built from red brick, concrete and steel, the space holds a roastery, an indoor garden, an outdoor terrace and a pet terrace where guests can sit with their pets.\n\nAt the roastery, visitors can pick green beans and have them roasted on the spot, and a 'Coffee Journey' tasting course takes guests through coffees from several origins in turn. Some items are sold only here, including the 'Seongsu Half & Full Blend,' 'Black Ink Coffee' and 'Brick Baumkuchen.' In December, Alain Ducasse's chocolate brand, 'Alain Ducasse Chocolat Paris,' is set to open inside the store.\n\nOpening: Sat, Oct 24\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeoulCafe #Seongsu #SeoulCoffee\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831603/jjg1dpazs1owfbybnjo4.jpg\n제목: Terarosa Opens 400-Pyeong|Flagship in Seongsu\n부제: The House of Terarosa Seoul · Opens Oct 24\n출처: Terarosa\n",
+      "caption": "Terarosa (@terarosacoffee) opens The House of Terarosa Seoul, a 400-pyeong (about 1,320㎡) flagship, in Seongsu-dong, Seoul today.\n\nThe specialty coffee brand began in Gangneung in 2002, and it presents this store as the first of what it calls 'Terarosa 2.0.' Built from red brick, concrete and steel, the space holds a roastery, an indoor garden, an outdoor terrace and a pet terrace where guests can sit with their pets.\n\nAt the roastery, visitors can pick green beans and have them roasted on the spot, and a 'Coffee Journey' tasting course takes guests through coffees from several origins in turn. Some items are sold only here, including the 'Seongsu Half & Full Blend,' 'Black Ink Coffee' and 'Brick Baumkuchen.' In December, Alain Ducasse's chocolate brand, 'Alain Ducasse Chocolat Paris,' is set to open inside the store.\n\nOpening: Sat, Oct 24\nLocation: Seongsu-dong, Seongdong-gu, Seoul\n#SENE #Terarosa #SeoulCafe #Seongsu #SeoulCoffee",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831681/hafnzh4oxjgpzofu8yu4.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831680/ni9ocqqadcdifdux3mio.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831788/xmclpzgitut6tywd857q.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831787/ipbcm9d8bmshjls6yq8z.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831681/hafnzh4oxjgpzofu8yu4.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831788/xmclpzgitut6tywd857q.jpg"
        },
-       "at": "2026-10-24T17:48+09:00"
+       "at": "2026-10-24T17:49+09:00"
       }
      },
      "shorts": {
       "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=i6ytgPgXals\n구간: 0:00-0:45\n곡: Seongsu store today\n아티스트: opens a 400-pyeong\n피처링:\n후킹: Gangneung's Terarosa\n출처: Terarosa\n자막: 자동",
-      "caption": "Official video of The House of Terarosa Seoul, the flagship Terarosa (@terarosacoffee) opens in Seongsu-dong today.\n\nThe 400-pyeong store comes from a specialty coffee brand that started in Gangneung in 2002. A roastery, an indoor garden, an outdoor terrace and a pet terrace share one space, and at the roastery visitors can pick green beans and have them roasted on the spot.\n\nIn December, Alain Ducasse's chocolate brand is set to open inside the store.\n\nOpening: Oct 24 (Sat)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nVideo: Terarosa official channel\n#SENE #Terarosa #SeoulCafe #Seongsu #SeoulCoffee"
+      "caption": "This is the official video for The House of Terarosa Seoul, the flagship Terarosa (@terarosacoffee) opens in Seongsu-dong, Seoul today.\n\nThe 400-pyeong (about 1,320㎡) store belongs to a specialty coffee brand that began in Gangneung in 2002, and it puts a roastery, an indoor garden, an outdoor terrace and a pet terrace under one roof. At the roastery, visitors can pick green beans and have them roasted on the spot.\n\nIn December, Alain Ducasse's chocolate brand is set to open inside the store.\n\nOpening: Sat, Oct 24\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nVideo: Terarosa official channel\n#SENE #Terarosa #SeoulCafe #Seongsu #SeoulCoffee"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n푸드\n\n[캡션]\nテラロサ（TERAROSA、@terarosacoffee）が本日、ソウル・聖水洞（ソンスドン）に400坪の旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンしました。\n\n2002年に江陵（カンヌン）で始まったスペシャルティコーヒーブランドで、ブランドはこの店舗を「テラロサ2.0」の第1号店と紹介しています。赤レンガとコンクリート、鉄骨でつくられた空間には、ロースタリーと屋内ガーデン、屋外テラス、ペットと一緒に座れるペットテラスがそろっています。\n\nロースタリーでは生豆を自分で選び、その場で焙煎してもらえます。複数の産地のコーヒーを順に味わうテイスティングコース「コーヒー・ジャーニー」も開かれます。「聖水ハーフ&フルブレンド」「ブラックインクコーヒー」「ブリック・バウムクーヘン」など、ここでしか買えないメニューがあり、12月にはアラン・デュカスのチョコレートブランド「ル・ショコラ・アラン・デュカス」が店内に出店する予定です。\n\nオープン：10月24日（土）\n場所：ソウル・城東区 聖水洞（ソンスドン）\n#SENE #韓国旅行 #ソウルカフェ #聖水 #テラロサ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831545/fhbs2okq0n4taiifn5or.jpg\n제목: テラロサ、聖水に|400坪の旗艦店\n부제: ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン\n출처: テラロサ\n",
-      "caption": "テラロサ（TERAROSA、@terarosacoffee）が本日、ソウル・聖水洞（ソンスドン）に400坪の旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」をオープンしました。\n\n2002年に江陵（カンヌン）で始まったスペシャルティコーヒーブランドで、ブランドはこの店舗を「テラロサ2.0」の第1号店と紹介しています。赤レンガとコンクリート、鉄骨でつくられた空間には、ロースタリーと屋内ガーデン、屋外テラス、ペットと一緒に座れるペットテラスがそろっています。\n\nロースタリーでは生豆を自分で選び、その場で焙煎してもらえます。複数の産地のコーヒーを順に味わうテイスティングコース「コーヒー・ジャーニー」も開かれます。「聖水ハーフ&フルブレンド」「ブラックインクコーヒー」「ブリック・バウムクーヘン」など、ここでしか買えないメニューがあり、12月にはアラン・デュカスのチョコレートブランド「ル・ショコラ・アラン・デュカス」が店内に出店する予定です。\n\nオープン：10月24日（土）\n場所：ソウル・城東区 聖水洞（ソンスドン）\n#SENE #韓国旅行 #ソウルカフェ #聖水 #テラロサ",
+      "form": "[카테고리]\n푸드\n\n[캡션]\nテラロサ（테라로사、@terarosacoffee）が今日、ソウル・聖水洞（ソンスドン）に400坪規模の旗艦店「ザ・ハウス・オブ・テラロサ・ソウル（The House of Terarosa Seoul）」をオープンしました。\n\n2002年に江陵（カンヌン）で始まったスペシャルティコーヒーブランドで、ブランドはこの店舗を「テラロサ2.0」の1号店と紹介しています。赤レンガとコンクリート、鉄骨で建てられた空間には、ロースタリーと室内庭園、屋外テラス、ペットと一緒に座れるペットテラスがそろっています。\n\nロースタリーでは生豆を自分で選び、その場で焙煎してもらうことができ、複数の産地のコーヒーを順に味わう「コーヒージャーニー」のテイスティングコースも開かれます。「聖水ハーフ＆フルブレンド」や「ブラックインクコーヒー」、「ブリックバウムクーヘン」など、ここでしか買えないメニューもあります。12月にはアラン・デュカスのショコラブランド「アラン・デュカス・ショコラ・パリ」が店内に入る予定です。\n\nオープン：10月24日（土）\n場所：ソウル・城東区聖水洞（ソンスドン）\n#SENE #テラロサ #韓国旅行 #ソウルカフェ #聖水\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831603/jjg1dpazs1owfbybnjo4.jpg\n제목: テラロサ、聖水に|400坪の旗艦店オープン\n부제: ザ・ハウス・オブ・テラロサ・ソウル · 10月24日オープン\n출처: テラロサ\n",
+      "caption": "テラロサ（테라로사、@terarosacoffee）が今日、ソウル・聖水洞（ソンスドン）に400坪規模の旗艦店「ザ・ハウス・オブ・テラロサ・ソウル（The House of Terarosa Seoul）」をオープンしました。\n\n2002年に江陵（カンヌン）で始まったスペシャルティコーヒーブランドで、ブランドはこの店舗を「テラロサ2.0」の1号店と紹介しています。赤レンガとコンクリート、鉄骨で建てられた空間には、ロースタリーと室内庭園、屋外テラス、ペットと一緒に座れるペットテラスがそろっています。\n\nロースタリーでは生豆を自分で選び、その場で焙煎してもらうことができ、複数の産地のコーヒーを順に味わう「コーヒージャーニー」のテイスティングコースも開かれます。「聖水ハーフ＆フルブレンド」や「ブラックインクコーヒー」、「ブリックバウムクーヘン」など、ここでしか買えないメニューもあります。12月にはアラン・デュカスのショコラブランド「アラン・デュカス・ショコラ・パリ」が店内に入る予定です。\n\nオープン：10月24日（土）\n場所：ソウル・城東区聖水洞（ソンスドン）\n#SENE #テラロサ #韓国旅行 #ソウルカフェ #聖水",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831684/sqxifsqptjerbwp4j10v.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831683/kjyvkljet5dfvnlephel.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831791/r6vqyw3278bjp9qvp4uw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831790/mh0zedudmep0zuuuzjcb.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831684/sqxifsqptjerbwp4j10v.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831791/r6vqyw3278bjp9qvp4uw.jpg"
        },
-       "at": "2026-10-24T17:48+09:00"
+       "at": "2026-10-24T17:49+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=i6ytgPgXals\n구간: 0:00-0:45\n곡: 今日オープン\n아티스트: 聖水に400坪\n피처링:\n후킹: 江陵のテラロサが\n출처: テラロサ\n자막: 자동",
-      "caption": "テラロサ（TERAROSA、@terarosacoffee）が本日、ソウル・聖水洞（ソンスドン）にオープンした旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」の公式映像です。\n\n2002年に江陵（カンヌン）で始まったスペシャルティコーヒーブランドの400坪の店舗で、ロースタリーと屋内ガーデン、屋外テラス、ペットテラスがひとつの空間にあります。ロースタリーでは生豆を選び、その場で焙煎してもらえます。\n\n12月にはアラン・デュカスのチョコレートブランドが店内に出店する予定です。\n\nオープン：10月24日（土）\n場所：ソウル・城東区 聖水洞（ソンスドン）\n映像：テラロサ公式チャンネル\n#SENE #韓国旅行 #ソウルカフェ #聖水 #テラロサ"
+      "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=i6ytgPgXals\n구간: 0:00-0:45\n곡: 今日オープンしました\n아티스트: 聖水に400坪\n피처링:\n후킹: 江陵のテラロサが\n출처: テラロサ\n자막: 자동",
+      "caption": "テラロサ（테라로사、@terarosacoffee）が今日、ソウル・聖水洞（ソンスドン）にオープンした旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」の公式映像です。\n\n2002年に江陵（カンヌン）で始まったスペシャルティコーヒーブランドの400坪の店舗で、ロースタリーと室内庭園、屋外テラス、ペットテラスがひとつの空間にあります。ロースタリーでは生豆を選び、その場で焙煎してもらうことができます。\n\n12月にはアラン・デュカスのショコラブランドが店内に入る予定です。\n\nオープン：10月24日（土）\n場所：ソウル・城東区聖水洞（ソンスドン）\n映像：テラロサ公式チャンネル\n#SENE #テラロサ #韓国旅行 #ソウルカフェ #聖水"
      }
     }
    }
@@ -1247,7 +1248,7 @@
     "is_reel": false,
     "kind": "claude"
    },
-   "made_at": "2026-10-24T17:46+09:00",
+   "made_at": "2026-10-24T17:48+09:00",
    "key": "6e286057",
    "by": "claude",
    "subjects": [
@@ -1261,21 +1262,21 @@
     "why": "오늘 시작해 내일 끝나는 무료 축제라 퇴근길에 보고 내일 갈 수 있다. 날짜·장소·무료 입장·프로그램·마라톤이 MTN·엑스포츠뉴스에서 맞는다"
    },
    "added": "claude",
-   "added_at": "2026-10-24T17:46+09:00",
+   "added_at": "2026-10-24T17:48+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n놀거리\n\n[캡션]\n쿠키런의 10주년 축제가 내일까지 서울어린이대공원에서 열립니다.\n\n데브시스터즈가 '쿠키런: 오븐브레이크' 출시 10주년을 맞아 연 쿠키런 통합 오프라인 행사인데요, 공원 곳곳에 숨은 쿠키 100여 종을 AR로 모으는 미션이 있고, 다 모으면 랜덤 포토카드를 받습니다. 역대 일러스트 전시와 포토존, 럭키박스를 파는 공식 팝업스토어도 함께 열립니다.\n\n내일은 숲속의 무대에서 월드 챔피언십 4강과 결승이 이어집니다. 지정석 500석만 유료이고 나머지 자리는 무료입니다. 오전에는 쿠키런의 첫 마라톤 '용감한 쿠키RUN in 서울'이 열리는데, 참가 접수는 이미 끝났습니다.\n\n기간: 10월 24일(토) ~ 25일(일)\n장소: 서울 광진구 서울어린이대공원\n입장: 무료 (나이 제한 없음)\n#SENE #쿠키런 #쿠키런그랜드페스티벌 #어린이대공원 #주말나들이\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831608/eaqtopjhlo5cwvlugysy.jpg\n제목: 쿠키런 10주년 축제,|내일까지 어린이대공원\n부제: 쿠키런 그랜드 페스티벌 · 10/24–25 · 입장 무료\n출처: 데브시스터즈\n",
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n쿠키런의 10주년 축제가 내일까지 서울어린이대공원에서 열립니다.\n\n데브시스터즈가 '쿠키런: 오븐브레이크' 출시 10주년을 맞아 연 쿠키런 통합 오프라인 행사인데요, 공원 곳곳에 숨은 쿠키 100여 종을 AR로 모으는 미션이 있고, 다 모으면 랜덤 포토카드를 받습니다. 역대 일러스트 전시와 포토존, 럭키박스를 파는 공식 팝업스토어도 함께 열립니다.\n\n내일은 숲속의 무대에서 월드 챔피언십 4강과 결승이 이어집니다. 지정석 500석만 유료이고 나머지 자리는 무료입니다. 오전에는 쿠키런의 첫 마라톤 '용감한 쿠키RUN in 서울'이 열리는데, 참가 접수는 이미 끝났습니다.\n\n기간: 10월 24일(토) ~ 25일(일)\n장소: 서울 광진구 서울어린이대공원\n입장: 무료 (나이 제한 없음)\n#SENE #쿠키런 #쿠키런그랜드페스티벌 #어린이대공원 #주말나들이\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831726/mqbxrnkv3wbmhhk1md5o.jpg\n제목: 쿠키런 10주년 축제,|내일까지 어린이대공원\n부제: 쿠키런 그랜드 페스티벌 · 10/24–25 · 입장 무료\n출처: 데브시스터즈\n",
     "caption": "쿠키런의 10주년 축제가 내일까지 서울어린이대공원에서 열립니다.\n\n데브시스터즈가 '쿠키런: 오븐브레이크' 출시 10주년을 맞아 연 쿠키런 통합 오프라인 행사인데요, 공원 곳곳에 숨은 쿠키 100여 종을 AR로 모으는 미션이 있고, 다 모으면 랜덤 포토카드를 받습니다. 역대 일러스트 전시와 포토존, 럭키박스를 파는 공식 팝업스토어도 함께 열립니다.\n\n내일은 숲속의 무대에서 월드 챔피언십 4강과 결승이 이어집니다. 지정석 500석만 유료이고 나머지 자리는 무료입니다. 오전에는 쿠키런의 첫 마라톤 '용감한 쿠키RUN in 서울'이 열리는데, 참가 접수는 이미 끝났습니다.\n\n기간: 10월 24일(토) ~ 25일(일)\n장소: 서울 광진구 서울어린이대공원\n입장: 무료 (나이 제한 없음)\n#SENE #쿠키런 #쿠키런그랜드페스티벌 #어린이대공원 #주말나들이",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831608/eaqtopjhlo5cwvlugysy.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831726/mqbxrnkv3wbmhhk1md5o.jpg",
       "credit": "데브시스터즈",
       "from": "https://image.xportsnews.com/contents/images/upload/article/2026/1007/1791333286424176.webp"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831608/eaqtopjhlo5cwvlugysy.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831726/mqbxrnkv3wbmhhk1md5o.jpg",
       "credit": "데브시스터즈",
       "from": "https://image.xportsnews.com/contents/images/upload/article/2026/1007/1791333286424176.webp"
      }
@@ -1317,17 +1318,17 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831625/lgfujhc9s1ol5mbdf3zm.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831625/nyd7tjpj3dx4khkb1d2c.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831746/nm8xscamzsrqpgvpyidr.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831746/siti6b7yvptmukumoprf.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831628/x8ziln00oi8ajrsk8i33.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831625/lgfujhc9s1ol5mbdf3zm.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831749/cgghw2gefsihspg2osy4.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831746/nm8xscamzsrqpgvpyidr.jpg"
      },
-     "at": "2026-10-24T17:47+09:00",
+     "at": "2026-10-24T17:49+09:00",
      "v": {
-      "A": "3d0328e6",
-      "B": "b9da82ea"
+      "A": "4cca9245",
+      "B": "81bf3ee2"
      }
     }
    },
@@ -1344,7 +1345,7 @@
     "is_reel": false,
     "kind": "claude"
    },
-   "made_at": "2026-10-24T17:46+09:00",
+   "made_at": "2026-10-24T17:48+09:00",
    "key": "2c2ddcf5",
    "by": "claude",
    "subjects": [
@@ -1358,23 +1359,33 @@
     "why": "10/21 개막해 이번이 첫 주말이고 내년 2월까지 이어지는 전시. 기간·장소·작품·운영 시간이 고양신문 기사와 NOL 티켓 예매 페이지에서 맞는다"
    },
    "added": "claude",
-   "added_at": "2026-10-24T17:46+09:00",
+   "added_at": "2026-10-24T17:48+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n컬처\n\n[캡션]\n피카소와 미로, 달리의 그래픽 작업 310여 점이 고양 아람미술관에 걸렸습니다.\n\n전시 이름은 〈스페인 미술 거장전 - 피카소, 미로, 달리: 20세기 그래픽 아트를 열다〉인데요, 고양문화재단이 판화와 아트북, 포스터, 무대·패션 디자인 작업으로 세 사람을 한자리에 모았습니다.\n\n피카소의 리노컷 포스터 27점과 발레 〈삼각모자〉 일러스트 64점, 미로의 판화집 〈태양의 찬가〉 31점 전작이 나옵니다. 달리가 그린 〈신곡〉과 〈이상한 나라의 앨리스〉 일러스트도 볼 수 있습니다.\n\n기간: 10월 21일(수) ~ 2027년 2월 21일(일)\n장소: 경기 고양시 일산동구 중앙로 1286 고양아람누리 아람미술관\n운영: 오전 10시 ~ 오후 6시 (입장 마감 5시) · 월요일 휴관\n관람료: 성인 20,000원 · 청소년 16,000원 · 어린이 12,000원\n예매: 놀티켓 · 티켓링크\n#SENE #아람미술관 #피카소 #달리 #일산전시\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831611/nwsbfha2ubuax2i8q2pr.jpg\n제목: 피카소·미로·달리|그래픽 310점, 아람에\n부제: 스페인 미술 거장전 · 2027년 2월 21일까지\n출처: @aramartmuseum\n",
+    "form": "[카테고리]\n컬처\n\n[캡션]\n피카소와 미로, 달리의 그래픽 작업 310여 점이 고양 아람미술관에 걸렸습니다.\n\n전시 이름은 〈스페인 미술 거장전 - 피카소, 미로, 달리: 20세기 그래픽 아트를 열다〉인데요, 고양문화재단이 판화와 아트북, 포스터, 무대·패션 디자인 작업으로 세 사람을 한자리에 모았습니다.\n\n피카소의 리노컷 포스터 27점과 발레 〈삼각모자〉 일러스트 64점, 미로의 판화집 〈태양의 찬가〉 31점 전작이 나옵니다. 달리가 그린 〈신곡〉과 〈이상한 나라의 앨리스〉 일러스트도 볼 수 있습니다.\n\n기간: 10월 21일(수) ~ 2027년 2월 21일(일)\n장소: 경기 고양시 일산동구 중앙로 1286 고양아람누리 아람미술관\n운영: 오전 10시 ~ 오후 6시 (입장 마감 5시) · 월요일 휴관\n관람료: 성인 20,000원 · 청소년 16,000원 · 어린이 12,000원\n예매: 놀티켓 · 티켓링크\n#SENE #아람미술관 #피카소 #달리 #일산전시\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792831731/ns6993gyo2ji9jk8e1ra.jpg\n제목: 피카소·미로·달리|그래픽 310점, 아람에\n부제: 스페인 미술 거장전 · 2027년 2월 21일까지\n출처: @aramartmuseum\n",
     "caption": "피카소와 미로, 달리의 그래픽 작업 310여 점이 고양 아람미술관에 걸렸습니다.\n\n전시 이름은 〈스페인 미술 거장전 - 피카소, 미로, 달리: 20세기 그래픽 아트를 열다〉인데요, 고양문화재단이 판화와 아트북, 포스터, 무대·패션 디자인 작업으로 세 사람을 한자리에 모았습니다.\n\n피카소의 리노컷 포스터 27점과 발레 〈삼각모자〉 일러스트 64점, 미로의 판화집 〈태양의 찬가〉 31점 전작이 나옵니다. 달리가 그린 〈신곡〉과 〈이상한 나라의 앨리스〉 일러스트도 볼 수 있습니다.\n\n기간: 10월 21일(수) ~ 2027년 2월 21일(일)\n장소: 경기 고양시 일산동구 중앙로 1286 고양아람누리 아람미술관\n운영: 오전 10시 ~ 오후 6시 (입장 마감 5시) · 월요일 휴관\n관람료: 성인 20,000원 · 청소년 16,000원 · 어린이 12,000원\n예매: 놀티켓 · 티켓링크\n#SENE #아람미술관 #피카소 #달리 #일산전시",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831611/nwsbfha2ubuax2i8q2pr.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831731/ns6993gyo2ji9jk8e1ra.jpg",
       "credit": "@aramartmuseum",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857601033_18110904371100168_3317425625035219670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xbuCJQzdpHAQ7kNvwGC0qrJ&_nc_oc=Adoow7wwUo24znuWFnZqY0AtenouskRlhLu0KbMq8tEclrEWQiZuLf6G-F6Pdho8dRk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nMKjFynX5bHax9UbeWPDLA&oh=00_AQMhn82SLidAUfMRJKjiO09ZaJfp8BQkGy3ySGoQcuBtLQ&oe=6AE22A01"
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857413030_18111101456100168_6334319524123714364_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9iCw1LR1Rr8Q7kNvwFLVUOc&_nc_oc=AdoIfumZsUlF3M2-YtVg-AKzBq4YoerfmYXFtxydkGbwh2RiOtnH2Mn-MccgCXFbGW4&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nMKjFynX5bHax9UbeWPDLA&oh=00_AQN20nAaIijua1HhkuncApZbo1ed1CCmFqqi6pWXHRAMGw&oe=6AE24056"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831729/w3vimt9fqtdsmbool3iz.jpg",
+      "credit": "@aramartmuseum",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/861309389_18110921351100168_1217744779103155502_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=kT1PxEvwbAQQ7kNvwHOCSEi&_nc_oc=AdrD-5m6bfZdQoVYpHk8SSsUs3u6223Iig517UxH_XSmy0DraH8njMYXpNTtap8t-Fs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nMKjFynX5bHax9UbeWPDLA&oh=00_AQNABMR104pmEo6L_uL6wiMqxns-lrXRyx0_lnt8PzN9EQ&oe=6AE23111"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831611/nwsbfha2ubuax2i8q2pr.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831731/ns6993gyo2ji9jk8e1ra.jpg",
       "credit": "@aramartmuseum",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857601033_18110904371100168_3317425625035219670_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=xbuCJQzdpHAQ7kNvwGC0qrJ&_nc_oc=Adoow7wwUo24znuWFnZqY0AtenouskRlhLu0KbMq8tEclrEWQiZuLf6G-F6Pdho8dRk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nMKjFynX5bHax9UbeWPDLA&oh=00_AQMhn82SLidAUfMRJKjiO09ZaJfp8BQkGy3ySGoQcuBtLQ&oe=6AE22A01"
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857413030_18111101456100168_6334319524123714364_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9iCw1LR1Rr8Q7kNvwFLVUOc&_nc_oc=AdoIfumZsUlF3M2-YtVg-AKzBq4YoerfmYXFtxydkGbwh2RiOtnH2Mn-MccgCXFbGW4&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nMKjFynX5bHax9UbeWPDLA&oh=00_AQN20nAaIijua1HhkuncApZbo1ed1CCmFqqi6pWXHRAMGw&oe=6AE24056"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831729/w3vimt9fqtdsmbool3iz.jpg",
+      "credit": "@aramartmuseum",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/861309389_18110921351100168_1217744779103155502_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=kT1PxEvwbAQQ7kNvwHOCSEi&_nc_oc=AdrD-5m6bfZdQoVYpHk8SSsUs3u6223Iig517UxH_XSmy0DraH8njMYXpNTtap8t-Fs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nMKjFynX5bHax9UbeWPDLA&oh=00_AQNABMR104pmEo6L_uL6wiMqxns-lrXRyx0_lnt8PzN9EQ&oe=6AE23111"
      }
     ],
     "shape": "단신",
@@ -1394,9 +1405,8 @@
     ],
     "issues": [],
     "confirm": [
-     "고양(일산) 전시라 서울 독자 동선에선 조금 멂 — 첫 주말 나들이 각도로 씀 · 관람료는 이뉴스투데이·일간투데이 기준",
-     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요",
-     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요"
+     "표지 사진: @aramartmuseum 개막일 전시장 사진인데 위쪽에 원본 글자('오늘, 스페인 미술 거장전 개막 했습니다!')가 박혀 있음 — 보도 사진(고양문화재단 제공)은 해상도 미달로 빠졌음, 앱에서 깨끗한 작품 사진으로 바꾸길 권함",
+     "고양(일산) 전시라 서울 독자 동선에선 조금 멂 — 첫 주말 나들이 각도 · 관람료는 이뉴스투데이·일간투데이 기준"
     ],
     "research": [
      {
@@ -1419,17 +1429,17 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831631/vcdvndxxmxxgrdofw3c2.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831630/znwytnhdvbrp1cusrn3l.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831752/tfkxlfqwlt02dtyzqzse.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831751/c3ilajtfrtzsck30oea8.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831633/mjbqilr8ltrbdaos46dq.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831631/vcdvndxxmxxgrdofw3c2.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831754/u7yfzu3vnoh8p87kpnth.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792831752/tfkxlfqwlt02dtyzqzse.jpg"
      },
-     "at": "2026-10-24T17:47+09:00",
+     "at": "2026-10-24T17:49+09:00",
      "v": {
-      "A": "01b9dc15",
-      "B": "11181d18"
+      "A": "495ebc56",
+      "B": "e2081992"
      }
     }
    },
@@ -1564,7 +1574,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T17:48+09:00"
+  "at": "2026-10-24T17:49+09:00"
  },
  "slots": {
   "basis": 0,
