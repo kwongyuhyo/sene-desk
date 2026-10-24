@@ -839,6 +839,10 @@
     "still": {
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810123/ncdhigrpkwukvnbats4e.jpg",
      "key": "_SALgDbuBho@0.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-24T11:49+09:00"
     }
    },
    "pick": {
@@ -978,7 +982,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T11:48+09:00"
+  "at": "2026-10-24T11:49+09:00"
  },
  "slots": {
   "basis": 0,
