@@ -788,8 +788,8 @@
      "v": {
       "A": "72c7cf49",
       "B": "780169bd",
-      "E": "5594cb51",
-      "J": "7e35ed2f"
+      "E": "ad3d1081",
+      "J": "9a0d4eb4"
      }
     }
    },
@@ -855,65 +855,63 @@
    "i18n_queued": "2026-10-24T11:48+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-24T11:50+09:00",
+    "at": "2026-10-24T11:51+09:00",
     "confirm": [
-     "일본어 전시명 「PEACH-PIT25周年特別展」은 일본 공식 표기로 확인했습니다. 다만 서울 대원뮤지엄 전시 자체는 검색에서 확인하지 못했습니다.",
-     "학산(鶴山文化社)·대원미디어(大元メディア)·대원뮤지엄(Daewon Museum / 大元ミュージアム)·팝콘 D스퀘어(Popcorn D Square)의 공식 영어·일본어 표기는 확인하지 못해 관용 표기와 로마자로 적었습니다.",
-     "원문의 '지난달 1일'은 오늘(10/24) 기준으로 9월 1일로 풀어 썼습니다. 게시일이 11월 이후로 밀리면 다시 확인이 필요합니다.",
-     "출처 칸 '대원미디어DAEWON'은 채널 이름으로 보고 영어 'Daewon Media DAEWON', 일본어 '大元メディア（DAEWON）'로 적었습니다. 실제 채널 표기와 맞는지 확인이 필요합니다.",
-     "일본어 · 『DearS』『ZOMBIE-LOAN』 일본 정식 표기는 기억으로 고친 것이라, 올리기 전에 한 번 확인 필요",
-     "출처 칸 '대원미디어DAEWON' — 채널 이름 그대로 'Daewon Media DAEWON'·'大元メディア（DAEWON）'으로 뒀음. 실제 공식 채널의 영어·일본어 표기 확인 필요"
+     "원문의 '지난달 1일'을 영어·일본어판에서는 '9월 1일'(Sept 1 / 9月1日)로 옮겼습니다. 사인회 패키지 판매 시작일이 맞는지 확인이 필요합니다.",
+     "일본어 전시명 「PEACH-PIT25周年特別展」은 일본 공식 표기로 확인했습니다(나고야 회장 보도자료). 서울 전시만의 공식 영어·일본어 명칭은 찾지 못했습니다.",
+     "작품 공식 표기(Shugo Chara!/しゅごキャラ！ · Rozen Maiden/ローゼンメイデン · DearS/ディアーズ · Zombie-Loan/ゾンビローン)와 학산 일본어 표기 '鶴山', 대원미디어 '大元メディア', 'NOL Ticket', 'Daewon Museum'은 이번에 웹에서 다시 확인하지 못했습니다. 알려진 표기로 썼습니다.",
+     "일본어 숏폼 세 줄은 「ローゼンメイデン原画 / が龍山で展示中 / 11月29日まで」로 이어 읽히게 짰습니다. 둘째 줄이 조사 'が'로 시작하니 화면에서 어색하지 않은지 봐 주세요.",
+     "원문의 '지난달 1일'을 영어·일본어 모두 '9월 1일'로 옮겼음 — 오늘(10/24) 올리는 것을 전제로 한 것이니, 게시일이 11월로 밀리면 원문과 번역을 함께 다시 확인해야 함",
+     "출처 칸 '대원미디어DAEWON'을 'Daewon Media DAEWON' · '大元メディア DAEWON'으로 이름을 그대로 두었음 — 같은 이름이 겹쳐 보이므로 원문 출처 표기가 의도한 것인지 확인 필요"
     ],
     "review": {
-     "at": "2026-10-24T11:50+09:00",
+     "at": "2026-10-24T11:51+09:00",
      "fixes": [
-      "영어 · 표지 제목 · 'Rozen Maiden' Originals|Arrive in Yongsan Today → Original 'Rozen Maiden'|Art Lands in Yongsan Today — 'Originals' 가 원작·한정판 상품으로도 읽혀 원화라는 뜻이 하나로 읽히게 고침",
-      "일본어 · 캡션·숏폼 캡션 · 『ディアーズ』『ゾンビローン』 → 『DearS』『ZOMBIE-LOAN』 — 일본 정식 제목은 영문 표기",
-      "일본어 · 캡션 · 入場締め切り午後7時 → 最終入場午後7時 — 일본 시설 안내에서 더 자연스러운 표현"
+      "일본어 · 숏폼 후킹·아티스트 칸 · 'ローゼンメイデン原画 / が龍山で展示中' → 'ローゼンメイデン原画が / 龍山で展示中' — 조사 'が'가 줄 첫머리에 와서 어색함 (두 줄 모두 11자 안)"
      ],
      "doubt": [
-      "일본어 · 『DearS』『ZOMBIE-LOAN』 일본 정식 표기는 기억으로 고친 것이라, 올리기 전에 한 번 확인 필요",
-      "출처 칸 '대원미디어DAEWON' — 채널 이름 그대로 'Daewon Media DAEWON'·'大元メディア（DAEWON）'으로 뒀음. 실제 공식 채널의 영어·일본어 표기 확인 필요"
+      "원문의 '지난달 1일'을 영어·일본어 모두 '9월 1일'로 옮겼음 — 오늘(10/24) 올리는 것을 전제로 한 것이니, 게시일이 11월로 밀리면 원문과 번역을 함께 다시 확인해야 함",
+      "출처 칸 '대원미디어DAEWON'을 'Daewon Media DAEWON' · '大元メディア DAEWON'으로 이름을 그대로 두었음 — 같은 이름이 겹쳐 보이므로 원문 출처 표기가 의도한 것인지 확인 필요"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nOriginal artwork from 'Shugo Chara!' and 'Rozen Maiden' goes on display in Seoul starting today.\n\nThe exhibition marks the 25th anniversary of PEACH-PIT, the manga duo behind both series. Co-organized by Haksan and Daewon Media, it runs through Nov 29 at Daewon Museum on the 6th floor of IPark Mall in Yongsan, Seoul. Original art from four works is on view, including 'DearS' and 'Zombie-Loan'.\n\nOn Nov 21 and 22, the two artists will hold fan signings on the same floor. Signing packages for both days sold out within five hours of going on sale on Sept 1.\n\nDates: Oct 24 (Sat) – Nov 29 (Sun)\nLocation: Daewon Museum (Popcorn D Square), 6F IPark Mall Yongsan, 55 Hangang-daero 23-gil, Yongsan-gu, Seoul\nHours: 10:30 AM – 8 PM (last entry 7 PM)\nTickets: NOL Ticket · Merch packages KRW 25,000–50,000 · On-site box office and MD shop accept cards only\n#SENE #PEACHPIT #RozenMaiden #ShugoChara #SeoulExhibition #Yongsan\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810106/lwtge8gwa9lxvj1pma21.jpg\n제목: Original 'Rozen Maiden'|Art Lands in Yongsan Today\n부제: PEACH-PIT 25th Anniversary Exhibition · Through Nov 29\n출처: Haksan\n",
-      "caption": "Original artwork from 'Shugo Chara!' and 'Rozen Maiden' goes on display in Seoul starting today.\n\nThe exhibition marks the 25th anniversary of PEACH-PIT, the manga duo behind both series. Co-organized by Haksan and Daewon Media, it runs through Nov 29 at Daewon Museum on the 6th floor of IPark Mall in Yongsan, Seoul. Original art from four works is on view, including 'DearS' and 'Zombie-Loan'.\n\nOn Nov 21 and 22, the two artists will hold fan signings on the same floor. Signing packages for both days sold out within five hours of going on sale on Sept 1.\n\nDates: Oct 24 (Sat) – Nov 29 (Sun)\nLocation: Daewon Museum (Popcorn D Square), 6F IPark Mall Yongsan, 55 Hangang-daero 23-gil, Yongsan-gu, Seoul\nHours: 10:30 AM – 8 PM (last entry 7 PM)\nTickets: NOL Ticket · Merch packages KRW 25,000–50,000 · On-site box office and MD shop accept cards only\n#SENE #PEACHPIT #RozenMaiden #ShugoChara #SeoulExhibition #Yongsan",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nOriginal artwork from 'Shugo Chara!' and 'Rozen Maiden' goes on display in Seoul starting today.\n\nThe exhibition marks the 25th anniversary of the debut of PEACH-PIT, the manga duo behind both series. Co-organized by Haksan and Daewon Media, it runs through Nov 29 at Daewon Museum on the 6th floor of IPark Mall in Yongsan, Seoul. Original art from four works is on view, including 'DearS' and 'Zombie-Loan'.\n\nThe two artists will also hold fan signings on the same floor on Nov 21 and 22. Signing packages for both days sold out within five hours of going on sale on Sept 1.\n\nDates: Oct 24 (Sat) – Nov 29 (Sun)\nLocation: Daewon Museum (Popcorn D Square), 6F IPark Mall Yongsan, 55 Hangang-daero 23-gil, Yongsan-gu, Seoul\nHours: 10:30 a.m. – 8 p.m. (last entry 7 p.m.)\nTickets: NOL Ticket · Goods packages KRW 25,000–50,000 · Card payment only at the on-site box office and MD shop\n#SENE #PEACHPIT #ShugoChara #RozenMaiden #SeoulExhibition #Yongsan\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810106/lwtge8gwa9lxvj1pma21.jpg\n제목: 'Rozen Maiden' Original Art|Arrives in Yongsan Today\n부제: PEACH-PIT 25th Anniversary Exhibition · Through Nov 29\n출처: Haksan\n",
+      "caption": "Original artwork from 'Shugo Chara!' and 'Rozen Maiden' goes on display in Seoul starting today.\n\nThe exhibition marks the 25th anniversary of the debut of PEACH-PIT, the manga duo behind both series. Co-organized by Haksan and Daewon Media, it runs through Nov 29 at Daewon Museum on the 6th floor of IPark Mall in Yongsan, Seoul. Original art from four works is on view, including 'DearS' and 'Zombie-Loan'.\n\nThe two artists will also hold fan signings on the same floor on Nov 21 and 22. Signing packages for both days sold out within five hours of going on sale on Sept 1.\n\nDates: Oct 24 (Sat) – Nov 29 (Sun)\nLocation: Daewon Museum (Popcorn D Square), 6F IPark Mall Yongsan, 55 Hangang-daero 23-gil, Yongsan-gu, Seoul\nHours: 10:30 a.m. – 8 p.m. (last entry 7 p.m.)\nTickets: NOL Ticket · Goods packages KRW 25,000–50,000 · Card payment only at the on-site box office and MD shop\n#SENE #PEACHPIT #ShugoChara #RozenMaiden #SeoulExhibition #Yongsan",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810221/ly8jybxpk8gmtuimdq62.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810220/cavhaniphnmsmq1fuwpc.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810307/gsndt6tcga95ee2aamkz.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810306/gxwjnke8kv24vddvkumk.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810221/ly8jybxpk8gmtuimdq62.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810307/gsndt6tcga95ee2aamkz.jpg"
        },
-       "at": "2026-10-24T11:50+09:00"
+       "at": "2026-10-24T11:51+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=_SALgDbuBho\n구간: 0:00-0:40\n곡: through Nov 29\n아티스트: now hang in Yongsan\n피처링:\n후킹: Rozen Maiden art\n출처: Daewon Media DAEWON\n자막: 자동",
-      "caption": "This is the official video for PEACH-PIT's 25th anniversary exhibition.\n\nThe show is dedicated to the manga duo behind 'Shugo Chara!' and 'Rozen Maiden'. Co-organized by Haksan and Daewon Media, it opens today at Daewon Museum on the 6th floor of IPark Mall in Yongsan, Seoul, with original art from four works, including 'DearS' and 'Zombie-Loan'.\n\nOn Nov 21 and 22, the two artists will also hold fan signings.\n\nDates: Oct 24 (Sat) – Nov 29 (Sun)\nLocation: Daewon Museum, 6F IPark Mall Yongsan, Yongsan-gu, Seoul\nTickets: NOL Ticket\nVideo: Daewon Media official channel\n#SENE #PEACHPIT #RozenMaiden #ShugoChara #SeoulExhibition #Yongsan"
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=_SALgDbuBho\n구간: 0:00-0:40\n곡: through Nov 29\n아티스트: now hangs in Yongsan\n피처링:\n후킹: Rozen Maiden art\n출처: Daewon Media DAEWON\n자막: 자동",
+      "caption": "The official video for PEACH-PIT's 25th anniversary exhibition.\n\nThe show celebrates the manga duo behind 'Shugo Chara!' and 'Rozen Maiden'. Co-organized by Haksan and Daewon Media, it opens today at Daewon Museum on the 6th floor of IPark Mall in Yongsan, Seoul, with original art from four works including 'DearS' and 'Zombie-Loan'.\n\nThe two artists will also hold fan signings on Nov 21 and 22.\n\nDates: Oct 24 (Sat) – Nov 29 (Sun)\nLocation: Daewon Museum, 6F IPark Mall Yongsan, Yongsan-gu, Seoul\nTickets: NOL Ticket\nVideo: Daewon Media official channel\n#SENE #PEACHPIT #ShugoChara #RozenMaiden #SeoulExhibition #Yongsan"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\n『しゅごキャラ！』と『ローゼンメイデン』の原画が、今日からソウルで展示されます。\n\n両作品を手がけた漫画家ユニットPEACH-PITのデビュー25周年を記念する特別展で、鶴山文化社（ハクサン）と大元メディア（デウォンメディア）が共同で開催し、ソウル・龍山（ヨンサン）のアイパークモール6階にある大元ミュージアムで11月29日まで続きます。『DearS』『ZOMBIE-LOAN』を含む4作品の原画を見ることができます。\n\n11月21日と22日には、2人の作家によるファンサイン会も同じフロアで開かれます。サイン会パッケージは9月1日の販売開始から5時間で2日分とも完売しました。\n\n期間：10月24日（土）〜11月29日（日）\n場所：ソウル市龍山区漢江大路23キル55 アイパークモール龍山店6階 大元ミュージアム（ポップコーンDスクエア）\n営業時間：午前10時30分〜午後8時（最終入場午後7時）\n予約：NOLチケット・グッズパッケージ25,000〜50,000ウォン・現地チケット売り場とMDショップはカード決済のみ\n#SENE #PEACHPIT #ローゼンメイデン #しゅごキャラ #韓国旅行 #龍山\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810106/lwtge8gwa9lxvj1pma21.jpg\n제목: 『ローゼンメイデン』原画、|今日、龍山に到着\n부제: PEACH-PIT25周年特別展・11月29日まで\n출처: 鶴山文化社（Haksan）\n",
-      "caption": "『しゅごキャラ！』と『ローゼンメイデン』の原画が、今日からソウルで展示されます。\n\n両作品を手がけた漫画家ユニットPEACH-PITのデビュー25周年を記念する特別展で、鶴山文化社（ハクサン）と大元メディア（デウォンメディア）が共同で開催し、ソウル・龍山（ヨンサン）のアイパークモール6階にある大元ミュージアムで11月29日まで続きます。『DearS』『ZOMBIE-LOAN』を含む4作品の原画を見ることができます。\n\n11月21日と22日には、2人の作家によるファンサイン会も同じフロアで開かれます。サイン会パッケージは9月1日の販売開始から5時間で2日分とも完売しました。\n\n期間：10月24日（土）〜11月29日（日）\n場所：ソウル市龍山区漢江大路23キル55 アイパークモール龍山店6階 大元ミュージアム（ポップコーンDスクエア）\n営業時間：午前10時30分〜午後8時（最終入場午後7時）\n予約：NOLチケット・グッズパッケージ25,000〜50,000ウォン・現地チケット売り場とMDショップはカード決済のみ\n#SENE #PEACHPIT #ローゼンメイデン #しゅごキャラ #韓国旅行 #龍山",
+      "form": "[카테고리]\n컬처\n\n[캡션]\n『しゅごキャラ！』と『ローゼンメイデン』の原画が、本日からソウルで展示されます。\n\n両作品を手がけた漫画家ユニット・PEACH-PITのデビュー25周年を記念する特別展で、鶴山（ハクサン）と大元メディア（Daewon Media）が共同で開催します。会場はソウル・龍山（ヨンサン）のアイパークモール6階にある大元ミュージアムで、11月29日まで。『ディアーズ』『ゾンビローン』を加えた4作品の原画を見ることができます。\n\n11月21日と22日には、同じフロアでお二人のファンサイン会も開かれます。サイン会パッケージは9月1日の販売開始から5時間で、2日分すべてが売り切れました。\n\n期間：10月24日（土）〜11月29日（日）\n場所：ソウル市龍山区漢江大路23ギル55 アイパークモール龍山店6階 大元ミュージアム（ポップコーンDスクエア）\n営業時間：午前10時30分〜午後8時（入場締め切り午後7時）\n予約：NOLチケット・グッズパッケージ25,000〜50,000ウォン・現地チケット売り場とMDショップはカード決済のみ\n#SENE #PEACHPIT #しゅごキャラ #ローゼンメイデン #韓国旅行 #龍山\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810106/lwtge8gwa9lxvj1pma21.jpg\n제목: 『ローゼンメイデン』原画、|本日、龍山に到着\n부제: PEACH-PIT25周年特別展・11月29日まで\n출처: 鶴山（ハクサン）\n",
+      "caption": "『しゅごキャラ！』と『ローゼンメイデン』の原画が、本日からソウルで展示されます。\n\n両作品を手がけた漫画家ユニット・PEACH-PITのデビュー25周年を記念する特別展で、鶴山（ハクサン）と大元メディア（Daewon Media）が共同で開催します。会場はソウル・龍山（ヨンサン）のアイパークモール6階にある大元ミュージアムで、11月29日まで。『ディアーズ』『ゾンビローン』を加えた4作品の原画を見ることができます。\n\n11月21日と22日には、同じフロアでお二人のファンサイン会も開かれます。サイン会パッケージは9月1日の販売開始から5時間で、2日分すべてが売り切れました。\n\n期間：10月24日（土）〜11月29日（日）\n場所：ソウル市龍山区漢江大路23ギル55 アイパークモール龍山店6階 大元ミュージアム（ポップコーンDスクエア）\n営業時間：午前10時30分〜午後8時（入場締め切り午後7時）\n予約：NOLチケット・グッズパッケージ25,000〜50,000ウォン・現地チケット売り場とMDショップはカード決済のみ\n#SENE #PEACHPIT #しゅごキャラ #ローゼンメイデン #韓国旅行 #龍山",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810224/a3rbkrvtlbo7576qn1yi.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810223/nunkd2tsebkmzasc8jw9.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810310/pdojhjkdyjdwq9nqnplh.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810309/hxtjgfwfypr5ukusrsq1.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810224/a3rbkrvtlbo7576qn1yi.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810310/pdojhjkdyjdwq9nqnplh.jpg"
        },
-       "at": "2026-10-24T11:50+09:00"
+       "at": "2026-10-24T11:51+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=_SALgDbuBho\n구간: 0:00-0:40\n곡: 11月29日まで\n아티스트: 龍山に飾られました\n피처링:\n후킹: ローゼンメイデン原画が\n출처: 大元メディア（DAEWON）\n자막: 자동",
-      "caption": "PEACH-PITデビュー25周年特別展の公式映像です。\n\n『しゅごキャラ！』と『ローゼンメイデン』を描いた漫画家ユニットの展示で、鶴山文化社（ハクサン）と大元メディア（デウォンメディア）が共同で開催し、今日からソウル・龍山（ヨンサン）のアイパークモール6階にある大元ミュージアムで『DearS』『ZOMBIE-LOAN』を含む4作品の原画を公開します。\n\n11月21日と22日には、2人の作家によるファンサイン会も開かれます。\n\n期間：10月24日（土）〜11月29日（日）\n場所：ソウル市龍山区 アイパークモール龍山店6階 大元ミュージアム\n予約：NOLチケット\n映像：大元メディア公式チャンネル\n#SENE #PEACHPIT #ローゼンメイデン #しゅごキャラ #韓国旅行 #龍山"
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=_SALgDbuBho\n구간: 0:00-0:40\n곡: 11月29日まで\n아티스트: 龍山で展示中\n피처링:\n후킹: ローゼンメイデン原画が\n출처: 大元メディア DAEWON\n자막: 자동",
+      "caption": "PEACH-PITデビュー25周年特別展の公式映像です。\n\n『しゅごキャラ！』と『ローゼンメイデン』を手がけた漫画家ユニットの展示で、鶴山（ハクサン）と大元メディア（Daewon Media）が共同で開催します。本日からソウル・龍山（ヨンサン）のアイパークモール6階・大元ミュージアムで、『ディアーズ』『ゾンビローン』を加えた4作品の原画を公開しています。\n\n11月21日と22日には、お二人のファンサイン会も開かれます。\n\n期間：10月24日（土）〜11月29日（日）\n場所：ソウル市龍山区 アイパークモール龍山店6階 大元ミュージアム\n予約：NOLチケット\n映像：大元メディア公式チャンネル\n#SENE #PEACHPIT #しゅごキャラ #ローゼンメイデン #韓国旅行 #龍山"
      }
     }
    }
@@ -1047,7 +1045,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T11:50+09:00"
+  "at": "2026-10-24T11:51+09:00"
  },
  "slots": {
   "basis": 0,
