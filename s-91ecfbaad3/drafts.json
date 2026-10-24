@@ -1570,11 +1570,65 @@
      "at": "2026-10-24T21:46+09:00",
      "v": {
       "A": "1129ad49",
-      "B": "a157713e"
+      "B": "a157713e",
+      "E": "9fcd93de",
+      "J": "8feff6ff"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-24T22:11+09:00",
+    "confirm": [
+     "층수: 원문은 '지하 1층'인데 커뮤니티 글(fanplus)에는 '지하 2층 푸드홀'로 나옵니다. 번역은 원문대로 지하 1층으로 두었습니다 — 신세계 공식 안내로 다시 확인해 주세요.",
+     "'상미당홀딩스'는 공식 영어 표기를 찾지 못해 기사에 나온 'Sangmidang Holdings'로 썼습니다. 일본어 공식 표기는 찾지 못해 カタカナ에 원어를 괄호로 붙였습니다.",
+     "일본어 브랜드명은 일본에서 흔히 쓰는 'チポトレ'로 썼습니다(공식 일본어 표기는 확인하지 못했습니다).",
+     "출처 칸 '상미당홀딩스'의 공식 영어·일본어 표기(Sangmidang Holdings / サンミダン・ホールディングス)는 웹에서 확인하지 못했습니다 — 올리기 전에 회사 공식 표기를 확인해 주세요",
+     "2026년 10월 28일이 수요일인 것은 계산으로 확인했습니다. 날짜·요일은 한국어 원문, 영어판, 일본어판이 모두 같습니다"
+    ],
+    "review": {
+     "at": "2026-10-24T22:11+09:00",
+     "fixes": [
+      "영어 · 부제 · Two months after Gangnam-daero → Two months after Gangnam-daero store — 지명만 있으면 무엇으로부터 두 달인지 영어 독자가 알기 어려움"
+     ],
+     "doubt": [
+      "출처 칸 '상미당홀딩스'의 공식 영어·일본어 표기(Sangmidang Holdings / サンミダン・ホールディングス)는 웹에서 확인하지 못했습니다 — 올리기 전에 회사 공식 표기를 확인해 주세요",
+      "2026년 10월 28일이 수요일인 것은 계산으로 확인했습니다. 날짜·요일은 한국어 원문, 영어판, 일본어판이 모두 같습니다"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nChipotle opens its second restaurant in Korea at Shinsegae Department Store Gangnam on Oct 28.\n\nIt comes two months after the first location opened on Gangnam-daero on Sep 2. The first was a street-front shop on a main road; this time, the brand moves into the department store's first basement level.\n\nOrdering works the same way as at the first store. Guests choose a burrito, burrito bowl or tacos, then pick rice, beans, meat and salsa in turn.\n\nOpening: Oct 28 (Wed)\nLocation: B1, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\n#SENE #Chipotle #ShinsegaeGangnam #SeoulFood #Gangnam\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792845984/x785kkoz3sgmhilr4atm.jpg\n제목: Chipotle Store No. 2|Shinsegae Gangnam, Oct 28\n부제: Two months after Gangnam-daero store · B1\n출처: Sangmidang Holdings\n",
+      "caption": "Chipotle opens its second restaurant in Korea at Shinsegae Department Store Gangnam on Oct 28.\n\nIt comes two months after the first location opened on Gangnam-daero on Sep 2. The first was a street-front shop on a main road; this time, the brand moves into the department store's first basement level.\n\nOrdering works the same way as at the first store. Guests choose a burrito, burrito bowl or tacos, then pick rice, beans, meat and salsa in turn.\n\nOpening: Oct 28 (Wed)\nLocation: B1, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\n#SENE #Chipotle #ShinsegaeGangnam #SeoulFood #Gangnam",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847517/zlr0lq8jq381ege0xoqn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847517/vwyjpp53bpsrn5kfqs6x.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847517/zlr0lq8jq381ege0xoqn.jpg"
+       },
+       "at": "2026-10-24T22:11+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nチポトレ（Chipotle）が10月28日、新世界百貨店 江南店に韓国2店舗目をオープンします。\n\n9月2日に江南大路（カンナムデロ）に1号店を開いてから2か月です。1号店が大通り沿いの路面店だったのに対し、今回は百貨店の地下1階に入ります。\n\n注文の仕方は1号店と同じです。ブリトー、ブリトーボウル、タコスの中から一つを選び、ライス、豆、肉、サルサを順に選んで盛り付けます。\n\nオープン：10月28日（水）\n場所：ソウル・瑞草区（ソチョグ） 新世界百貨店 江南店 地下1階\n#SENE #チポトレ #韓国旅行 #ソウルグルメ #江南\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792845984/x785kkoz3sgmhilr4atm.jpg\n제목: チポトレ2号店、|28日 新世界江南に\n부제: 江南大路1号店から2か月・地下1階\n출처: サンミダン・ホールディングス（상미당홀딩스）\n",
+      "caption": "チポトレ（Chipotle）が10月28日、新世界百貨店 江南店に韓国2店舗目をオープンします。\n\n9月2日に江南大路（カンナムデロ）に1号店を開いてから2か月です。1号店が大通り沿いの路面店だったのに対し、今回は百貨店の地下1階に入ります。\n\n注文の仕方は1号店と同じです。ブリトー、ブリトーボウル、タコスの中から一つを選び、ライス、豆、肉、サルサを順に選んで盛り付けます。\n\nオープン：10月28日（水）\n場所：ソウル・瑞草区（ソチョグ） 新世界百貨店 江南店 地下1階\n#SENE #チポトレ #韓国旅行 #ソウルグルメ #江南",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847520/lkd7qhyzqqfxvayfil7l.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847519/vgz0pz9ybzexaxwiwfs4.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847520/lkd7qhyzqqfxvayfil7l.jpg"
+       },
+       "at": "2026-10-24T22:12+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1994,7 +2048,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T22:11+09:00"
+  "at": "2026-10-24T22:12+09:00"
  },
  "slots": {
   "basis": 0,
