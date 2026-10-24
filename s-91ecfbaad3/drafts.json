@@ -201,7 +201,7 @@
    "pick": {
     "rank": 2,
     "why": "비버 방한과 겹친 스카이라크 성수 팝업이 내일 끝난다 — 이번 주 가장 많이 이야기된 소식의 마지막 날",
-    "at": "2026-10-24T17:53+09:00"
+    "at": "2026-10-24T21:46+09:00"
    }
   },
   {
@@ -324,7 +324,14 @@
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "published": {
+    "permalink": "https://www.instagram.com/p/De4KVXjGUFu/",
+    "cover": "A",
+    "at": "2026-10-24T21:44+09:00",
+    "account": "sene",
+    "via": "api"
+   }
   },
   {
    "source": {
@@ -744,8 +751,8 @@
    },
    "pick": {
     "rank": 3,
-    "why": "넷플릭스 10주년 잔치가 내일까지 — 무료라 퇴근길에 보고 내일 갈 수 있는 곳",
-    "at": "2026-10-24T17:53+09:00"
+    "why": "넷플릭스 10주년 잔치가 내일까지 — 무료라 아침에 보고 바로 갈 수 있는 곳",
+    "at": "2026-10-24T21:46+09:00"
    }
   },
   {
@@ -1179,11 +1186,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "오늘 문을 연 테라로사 성수 400평 플래그십 — 이번 주말 갈 곳이고, 공식 영상으로 숏폼까지 된다",
-    "at": "2026-10-24T17:53+09:00"
-   },
    "i18n_queued": "2026-10-24T17:53+09:00",
    "corner_name": "소식",
    "i18n": {
@@ -1247,6 +1249,11 @@
       "caption": "テラロサ（Terarosa・@terarosacoffee）が今日、ソウル・聖水洞（ソンスドン）にオープンした旗艦店「ザ・ハウス・オブ・テラロサ・ソウル」の公式映像です。\n\n20年あまりスペシャルティコーヒーを続けてきたブランドの400坪の店で、ロースタリーと室内庭園、屋外テラス、ペットテラスがひとつの空間にあります。ロースタリーでは生豆を選び、その場で焙煎してもらえます。\n\n12月にはアラン・デュカスのチョコレートブランドが店内に入る予定です。\n\nオープン：10月24日（土）\n場所：ソウル・城東区（ソンドング）聖水洞\n映像：テラロサ公式チャンネル\n#SENE #韓国旅行 #ソウルカフェ #聖水 #テラロサ"
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 문을 연 테라로사 성수 400평 플래그십 — 내일 갈 곳이고 공식 영상 숏폼까지 된다",
+    "at": "2026-10-24T21:46+09:00"
    }
   },
   {
@@ -1450,6 +1457,265 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:chipotle-shinsegae-gangnam",
+    "account": "@뉴스",
+    "url": "https://www.etoday.co.kr/news/view/2636795",
+    "image": null,
+    "head": "치폴레, 28일 신세계 강남에 2호점",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-24T21:46+09:00",
+   "key": "8764d914",
+   "by": "claude",
+   "subjects": [
+    "치폴레"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "강남대로 1호점 두 달 만에 치폴레 2호점이 28일 신세계 강남점 지하 1층에 — 로드숍에서 백화점으로",
+    "why": "다음 주 수요일 오픈이라 먼저 알릴 소식. 10/22 에는 기사 한 곳뿐이라 버렸지만 지금은 이투데이(10/18)·인사이트(10/21)가 날짜·층까지 같게 전한다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-24T21:46+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n치폴레가 오는 28일 신세계백화점 강남점에 국내 두 번째 매장을 엽니다.\n\n9월 2일 강남대로에 1호점을 연 지 두 달 만인데요, 1호점이 큰길가 로드숍이었다면 이번에는 백화점 지하 1층으로 들어갑니다.\n\n주문 방식은 1호점과 같습니다. 부리토와 부리토볼, 타코 가운데 하나를 고른 뒤 쌀과 콩, 고기, 살사를 차례로 골라 담습니다.\n\n오픈: 10월 28일(수)\n장소: 서울 서초구 신세계백화점 강남점 지하 1층\n#SENE #치폴레 #신세계강남 #강남맛집 #고속터미널\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792845984/x785kkoz3sgmhilr4atm.jpg\n제목: 치폴레 2호점,|28일 신세계 강남에\n부제: 강남대로 1호점 두 달 만 · 지하 1층\n출처: 상미당홀딩스\n",
+    "caption": "치폴레가 오는 28일 신세계백화점 강남점에 국내 두 번째 매장을 엽니다.\n\n9월 2일 강남대로에 1호점을 연 지 두 달 만인데요, 1호점이 큰길가 로드숍이었다면 이번에는 백화점 지하 1층으로 들어갑니다.\n\n주문 방식은 1호점과 같습니다. 부리토와 부리토볼, 타코 가운데 하나를 고른 뒤 쌀과 콩, 고기, 살사를 차례로 골라 담습니다.\n\n오픈: 10월 28일(수)\n장소: 서울 서초구 신세계백화점 강남점 지하 1층\n#SENE #치폴레 #신세계강남 #강남맛집 #고속터미널",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845984/x785kkoz3sgmhilr4atm.jpg",
+      "credit": "상미당홀딩스",
+      "from": "https://menu.sidae.com/moneyweek/thumb/2026/09/03/00/2026090318133785541_1.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845984/x785kkoz3sgmhilr4atm.jpg",
+      "credit": "상미당홀딩스",
+      "from": "https://menu.sidae.com/moneyweek/thumb/2026/09/03/00/2026090318133785541_1.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "치폴레 2호점,|28일 신세계 강남에",
+      "sub": "강남대로 1호점 두 달 만 · 지하 1층"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "치폴레, 이번엔|백화점으로 간다",
+      "sub": "신세계 강남점 · 10/28 오픈"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "오픈일은 업계 보도 기준(치폴레·신세계 공식 공지는 못 찾음) — 올리기 전 치폴레 코리아 인스타 공지로 28일 확인",
+     "개점 행사(선착순 150명 키링 · 10/28~11/3 구매 고객 스티커)는 인사이트 한 곳뿐이라 뺐음 — 공식 공지에 있으면 추가"
+    ],
+    "research": [
+     {
+      "title": "치폴레, 28일 신세계 강남에 2호점…한국 상륙 두 달 만에 확장 - 이투데이",
+      "link": "https://www.etoday.co.kr/news/view/2636795"
+     },
+     {
+      "title": "치폴레, 이번엔 백화점으로... 28일 신세계 강남에 2호점 연다 - 인사이트",
+      "link": "https://www.insight.co.kr/news/578562"
+     },
+     {
+      "title": "치폴레, 28일 신세계 강남에 2호점 - 서플",
+      "link": "https://supple.kr/news/cmvctqtc5000055axn8r7b9pa"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845991/nkfrrnrbntksmz2jszkj.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845990/csnds4ph5ybxmkma7q6x.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845994/jq095ugsahis8vxwklyl.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845991/nkfrrnrbntksmz2jszkj.jpg"
+     },
+     "at": "2026-10-24T21:46+09:00",
+     "v": {
+      "A": "1129ad49",
+      "B": "a157713e"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:remarried-empress-1104",
+    "account": "Disney Plus Korea",
+    "url": "https://www.youtube.com/watch?v=ePBZ8oF-0WI",
+    "image": null,
+    "head": "재혼 황후 메인 예고편 · 11월 4일 공개",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-24T21:46+09:00",
+   "key": "d27b5051",
+   "by": "claude",
+   "subjects": [
+    "재혼 황후"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "열흘 뒤 공개되는 〈재혼 황후〉 — 이혼을 받아들이는 대신 재혼 승인을 요구하는 황후, 예고편 속 그 한마디",
+    "why": "11/4(수) 디즈니+ 공개 확정 작품. 공개일·배역·설정이 엘르·위키트리·일간스포츠에서 맞고, 디즈니+ 코리아 공식 메인 예고편에 그 대사가 1:21~1:27 에 나온다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-24T21:46+09:00",
+   "corner": "mal",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n디즈니+ 시리즈 〈재혼 황후(@disneypluskr)〉가 11월 4일 공개됩니다.\n\n동명의 웹툰을 원작으로 한 작품인데요, 황제 소비에슈(주지훈)에게 이혼을 통보받은 황후 나비에(신민아)가 이혼을 받아들이는 대신 서왕국 왕자 하인리(이종석)와의 재혼 승인을 요구하며 이야기가 시작됩니다. 라스타 역은 이세영이 맡았습니다.\n\n이달 부산국제영화제 '온 스크린' 섹션에서 먼저 관객을 만났습니다.\n\n공개: 11월 4일(수)\n보는 곳: 디즈니+\n#SENE #재혼황후 #디즈니플러스 #신민아 #이종석\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792845987/q2y1rq4kbprsmsgs8yrx.jpg\n제목: 재혼 황후,|11월 4일 디즈니+ 공개\n부제: 신민아·주지훈·이종석·이세영\n출처: 월트디즈니컴퍼니코리아\n",
+    "caption": "디즈니+ 시리즈 〈재혼 황후(@disneypluskr)〉가 11월 4일 공개됩니다.\n\n동명의 웹툰을 원작으로 한 작품인데요, 황제 소비에슈(주지훈)에게 이혼을 통보받은 황후 나비에(신민아)가 이혼을 받아들이는 대신 서왕국 왕자 하인리(이종석)와의 재혼 승인을 요구하며 이야기가 시작됩니다. 라스타 역은 이세영이 맡았습니다.\n\n이달 부산국제영화제 '온 스크린' 섹션에서 먼저 관객을 만났습니다.\n\n공개: 11월 4일(수)\n보는 곳: 디즈니+\n#SENE #재혼황후 #디즈니플러스 #신민아 #이종석",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845987/q2y1rq4kbprsmsgs8yrx.jpg",
+      "credit": "월트디즈니컴퍼니코리아",
+      "from": "https://isplus.com/data/isp/image/2026/09/29/isp20260929000048.800x.0.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845987/q2y1rq4kbprsmsgs8yrx.jpg",
+      "credit": "월트디즈니컴퍼니코리아",
+      "from": "https://isplus.com/data/isp/image/2026/09/29/isp20260929000048.800x.0.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "재혼 황후,|11월 4일 디즈니+ 공개",
+      "sub": "신민아·주지훈·이종석·이세영"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "이혼 대신|재혼 승인을 요구한 황후",
+      "sub": "재혼 황후 · 11/4 디즈니+"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — Disney Plus Korea (디즈니+ 공식 예고편, 1:02–1:30 28초 한 구간)",
+     "낮 회차가 '공개 주에 숏폼으로 다시'로 미룬 소재 — 이번 회차 숏폼 몫으로 썼으니 11/2 주까지 묵혀도 됨 · 자동 자막엔 '재원 승인' — 실제 대사 '재혼 승인'인지 귀로 확인"
+    ],
+    "research": [
+     {
+      "title": "재혼 황후 | 메인 예고편 | 디즈니+ — Disney Plus Korea",
+      "link": "https://www.youtube.com/watch?v=ePBZ8oF-0WI"
+     },
+     {
+      "title": "K로판의 시작…'재혼황후' 11월4일 공개 확정[공식]",
+      "link": "https://v.daum.net/v/ttbVEEu5l0"
+     },
+     {
+      "title": "“재혼황후” 신민아, 이혼 통보에 재혼 승인 요구 - 위키트리",
+      "link": "https://www.wikitree.co.kr/articles/1155045"
+     },
+     {
+      "title": "‘재혼 황후’ 부국제서 첫선 - 위키트리",
+      "link": "https://www.wikitree.co.kr/articles/1165013"
+     },
+     {
+      "title": "재혼 황후 메인 포스터·예고편 - 일간스포츠",
+      "link": "https://isplus.com/article/view/isp202609230074"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845996/isgvg5sksp8m4mh7fger.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845995/spzbd1upd5jyeze9aiwz.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845999/fhyehslbjlga4n4kqabo.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792845996/isgvg5sksp8m4mh7fger.jpg"
+     },
+     "at": "2026-10-24T21:46+09:00",
+     "v": {
+      "A": "1d270dd3",
+      "B": "cbcc7008"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:02-1:30\n곡: 요구합니다\n아티스트: 그리고 재혼 승인을\n피처링:\n후킹: 이혼을 받아들이겠어요\n출처: Disney Plus Korea\n자막: 자동",
+    "caption": "디즈니+ 〈재혼 황후(@disneypluskr)〉 메인 예고편의 한 장면입니다.\n\n황제 소비에슈(주지훈)가 이혼을 통보하자 황후 나비에(신민아)가 내건 조건인데요, 이혼은 받아들이되 서왕국 왕자 하인리(이종석)와의 재혼을 승인해 달라는 것입니다. 동명의 웹툰이 원작입니다.\n\n이달 부산국제영화제에서 먼저 상영됐고, 11월 4일 디즈니+에서 공개됩니다.\n\n공개: 11월 4일(수)\n보는 곳: 디즈니+\n영상: 디즈니+ 코리아 공식 예고편\n#SENE #재혼황후 #디즈니플러스 #신민아 #이종석",
+    "hooks": {
+     "A": "이혼을 받아들이겠어요 / 그리고 재혼 승인을 / 요구합니다",
+     "B": "황제의 이혼 통보에 / 황후가 내건 조건 / 재혼 승인",
+     "C": "이혼 대신 재혼 / 신민아의 황후 나비에 / 11월 4일 공개"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=ePBZ8oF-0WI",
+     "credit": "Disney Plus Korea",
+     "range": [
+      62.0,
+      90.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — Disney Plus Korea (디즈니+ 공식 예고편, 1:02–1:30 28초 한 구간)",
+     "낮 회차가 '공개 주에 숏폼으로 다시'로 미룬 소재 — 이번 회차 숏폼 몫으로 썼으니 11/2 주까지 묵혀도 됨 · 자동 자막엔 '재원 승인' — 실제 대사 '재혼 승인'인지 귀로 확인"
+    ],
+    "research": [
+     {
+      "title": "재혼 황후 | 메인 예고편 | 디즈니+ — Disney Plus Korea",
+      "link": "https://www.youtube.com/watch?v=ePBZ8oF-0WI"
+     },
+     {
+      "title": "K로판의 시작…'재혼황후' 11월4일 공개 확정[공식]",
+      "link": "https://v.daum.net/v/ttbVEEu5l0"
+     },
+     {
+      "title": "“재혼황후” 신민아, 이혼 통보에 재혼 승인 요구 - 위키트리",
+      "link": "https://www.wikitree.co.kr/articles/1155045"
+     },
+     {
+      "title": "‘재혼 황후’ 부국제서 첫선 - 위키트리",
+      "link": "https://www.wikitree.co.kr/articles/1165013"
+     },
+     {
+      "title": "재혼 황후 메인 포스터·예고편 - 일간스포츠",
+      "link": "https://isplus.com/article/view/isp202609230074"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/ePBZ8oF-0WI/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792846003/sofmg4wl1acnq3axtwjc.jpg",
+     "key": "ePBZ8oF-0WI@62.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-24T21:46+09:00"
+    }
+   },
+   "corner_name": "그 말"
   }
  ],
  "skipped": [],
@@ -1468,7 +1734,7 @@
     "need_today": 14,
     "day": null,
     "next_no": null,
-    "drafts": 8,
+    "drafts": 9,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1528,7 +1794,7 @@
     "need_today": 3,
     "day": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "인터뷰·방송·예고편·브랜드 영상 속 사람이 한 말 (짧은 인용)"
    },
    {
@@ -1580,7 +1846,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T17:58+09:00"
+  "at": "2026-10-24T21:46+09:00"
  },
  "slots": {
   "basis": 0,
