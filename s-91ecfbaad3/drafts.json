@@ -678,8 +678,8 @@
      "v": {
       "A": "d3d80819",
       "B": "3ee94af1",
-      "E": "79ed6794",
-      "J": "ece15e5b"
+      "E": "78a7052f",
+      "J": "5fca0148"
      }
     }
    },
@@ -691,58 +691,58 @@
    "i18n_queued": "2026-10-24T11:48+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-24T11:52+09:00",
+    "at": "2026-10-24T11:54+09:00",
     "confirm": [
-     "Korea JoongAng Daily와 What's on Netflix 기사로 문화비축기지의 영어 표기 'Oil Tank Culture Park'를 확인했습니다. 일본어 표기 「文化備蓄基地」는 공식 일본어 표기를 찾지 못해 한자로 옮기고 읽는 법을 붙였습니다.",
-     "행사 이름 '넷플잔치'는 공식 영어·일본어 이름을 찾지 못했습니다. 영어판은 로마자 'Netflix Janchi'로 쓰고 뜻을 덧붙였고, 일본어판은 「ネトフリ祭り」로 옮긴 뒤 처음 한 번만 괄호 안에 원어를 넣었습니다.",
-     "코너 이름 세 개('넷플 최고의 브레인을 찾아라' 등)와 '얼쑤 부채'는 공식 번역이 없어 뜻을 살려 직역했습니다.",
-     "카더가든의 영어 표기를 'Car, the garden'으로 썼습니다. 검색 요약에는 '카페 더 가든'으로 나왔는데, 오기로 보고 따르지 않았습니다. 다른 출연진의 공식 표기도 한 번 더 확인해 주세요.",
-     "한 보도는 두 날 예약이 모두 매진됐다고 전했지만, 원문에 없는 내용이라 넣지 않았습니다.",
-     "영어 · 코너명 'All of Us Are Dancing School'은 〈All of Us Are Dead〉(지금 우리 학교는)를 비튼 말장난을 살린 번역이지만, 원작을 모르는 독자에게는 문법이 틀린 문장처럼 보일 수 있음 — 공식 영어 코너명이 있는지 확인 필요",
-     "일본어 · 캡션에 원어를 밝히려고 괄호 안에 한글(넷플잔치)이 남아 있음 — 규칙상 허용되는 범위인지 확인"
+     "행사 이름 '넷플잔치'의 공식 영어 표기를 찾지 못해 영어판은 로마자로 'Netpeul Janchi'라 쓰고 \"Netflix Feast\"라는 풀이를 붙였습니다. 해외 소개 페이지 한 곳은 'Netf-Janchi'라고 씁니다. 일본어판은 「ネトフリ祭（넷플잔치）」로 옮겼습니다. 넷플릭스 공식 표기가 있으면 그것으로 바꿔 주세요.",
+     "코너 이름 세 개는 공식 번역을 찾지 못해 뜻대로 옮겼습니다. 영어는 'Find Netflix's Best Brain' 같은 식이고, 일본어는 「ネトフリ最高の頭脳を探せ」 같은 식입니다.",
+     "문화비축기지의 일본어 표기 「文化備蓄基地」와 '얼쑤 부채'의 영어·일본어 표기('Eolssu fan'·「オルス扇子」)도 공식 표기를 찾지 못한 채 쓴 것이라 확인이 필요합니다.",
+     "외부 소개 페이지 한 곳에는 네이버 예약이 이미 매진됐다고 나옵니다. 원문에 없는 내용이라 번역에는 넣지 않았습니다.",
+     "코너 이름('넷플 최고의 브레인을 찾아라' 등)의 영어·일본어 공식 표기는 확인하지 못해 직역으로 두었습니다. 넷플릭스 공식 번역 표기가 있으면 그걸로 바꿔야 합니다.",
+     "'넷플잔치'를 Netpeul Janchi로 로마자 표기한 것은 공식 영문 행사명이 아닐 수 있습니다. 넷플릭스 코리아 공지에서 확인이 필요합니다.",
+     "제목의 '오늘'은 10월 24일 게시를 기준으로 썼습니다. 25일 이후에 올린다면 영어·일본어판 제목과 첫 문장을 다시 손봐야 합니다."
     ],
     "review": {
-     "at": "2026-10-24T11:52+09:00",
+     "at": "2026-10-24T11:54+09:00",
      "fixes": [
-      "영어 · 표지 제목 · 'Netflix Turns 10 in Korea,|Party Opens Today in Sangam' → 'Netflix Korea Turns 10,|Party Today in Sangam' — 줄당 26·29자로 22자 안팎을 넘음",
-      "영어 · 캡션 · 출연진 나열을 쉼표에서 세미콜론으로 — 'Car, the garden'이 'Car'와 'the garden' 두 팀으로 읽힘",
-      "영어 · 캡션 · \"Eolssu fans\" → \"Eolssu\" hand fans — fans가 '팬(사람)'으로도 읽힘",
-      "일본어 · 캡션 · カーザガーデン → カー・ザ・ガーデン — 일본 쪽 통용 표기에 맞춤"
+      "영어 · 캡션 · 출연자 나열 'Kwon Jin-ah, Car, the Garden and Rain' → 세미콜론으로 구분하고 'Car, the garden'으로 표기 — 쉼표 때문에 'Car'와 'the Garden' 두 팀으로 읽힘",
+      "일본어 · 캡션 둘째 단락 · 「ネトフリ祭（넷플잔치）」ですが → 「…」で、 — 「ですが」가 역접('그런데/하지만')으로 읽히는 직역투",
+      "일본어 · 부제·입장 줄 · 가운뎃점 '·' → 일본어 가운뎃점 '・'"
      ],
      "doubt": [
-      "영어 · 코너명 'All of Us Are Dancing School'은 〈All of Us Are Dead〉(지금 우리 학교는)를 비튼 말장난을 살린 번역이지만, 원작을 모르는 독자에게는 문법이 틀린 문장처럼 보일 수 있음 — 공식 영어 코너명이 있는지 확인 필요",
-      "일본어 · 캡션에 원어를 밝히려고 괄호 안에 한글(넷플잔치)이 남아 있음 — 규칙상 허용되는 범위인지 확인"
+      "코너 이름('넷플 최고의 브레인을 찾아라' 등)의 영어·일본어 공식 표기는 확인하지 못해 직역으로 두었습니다. 넷플릭스 공식 번역 표기가 있으면 그걸로 바꿔야 합니다.",
+      "'넷플잔치'를 Netpeul Janchi로 로마자 표기한 것은 공식 영문 행사명이 아닐 수 있습니다. 넷플릭스 코리아 공지에서 확인이 필요합니다.",
+      "제목의 '오늘'은 10월 24일 게시를 기준으로 썼습니다. 25일 이후에 올린다면 영어·일본어판 제목과 첫 문장을 다시 손봐야 합니다."
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nNetflix Korea (@netflixkr) is hosting a two-day party for its 10th anniversary, starting today at Oil Tank Culture Park in Sangam-dong, Seoul.\n\nThe event is called Netflix Janchi, Korean for \"Netflix Feast.\" Its program is built around interactive sessions where the audience joins cast members from the series and variety shows of the past decade. Segments include \"Find Netflix's Greatest Brain,\" \"All of Us Are Dancing School\" and \"The Hottest Dating Paradise in the World.\" Celebratory performances come from BADA; Choi Baek-ho; Kyuhyun; Kwon Jin-ah; Car, the garden; and Rain.\n\nEntry is free, but you need a ticket reserved in advance through Naver. Every attendee gets a sun visor, and 10th-anniversary T-shirts and \"Eolssu\" hand fans go to early arrivals while supplies last.\n\nDates: Oct 24 (Sat) – 25 (Sun)\nLocation: Oil Tank Culture Park, 87 Jeungsan-ro, Mapo-gu, Seoul\nAdmission: Free · advance reservation via Naver\n#SENE #NetflixKorea #Netflix10 #OilTankCulturePark #SeoulEvents\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810100/vlijkcjh6g2jx5efkr1l.jpg\n제목: Netflix Korea Turns 10,|Party Today in Sangam\n부제: Netflix Janchi · Oct 24 (Sat) – 25 (Sun)\n출처: @netflixkr\n",
-      "caption": "Netflix Korea (@netflixkr) is hosting a two-day party for its 10th anniversary, starting today at Oil Tank Culture Park in Sangam-dong, Seoul.\n\nThe event is called Netflix Janchi, Korean for \"Netflix Feast.\" Its program is built around interactive sessions where the audience joins cast members from the series and variety shows of the past decade. Segments include \"Find Netflix's Greatest Brain,\" \"All of Us Are Dancing School\" and \"The Hottest Dating Paradise in the World.\" Celebratory performances come from BADA; Choi Baek-ho; Kyuhyun; Kwon Jin-ah; Car, the garden; and Rain.\n\nEntry is free, but you need a ticket reserved in advance through Naver. Every attendee gets a sun visor, and 10th-anniversary T-shirts and \"Eolssu\" hand fans go to early arrivals while supplies last.\n\nDates: Oct 24 (Sat) – 25 (Sun)\nLocation: Oil Tank Culture Park, 87 Jeungsan-ro, Mapo-gu, Seoul\nAdmission: Free · advance reservation via Naver\n#SENE #NetflixKorea #Netflix10 #OilTankCulturePark #SeoulEvents",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nNetflix Korea (@netflixkr) opens a two-day 10th-anniversary party at Oil Tank Culture Park in Sangam starting today.\n\nIt is called Netpeul Janchi, roughly \"Netflix Feast,\" and the program is built around audience participation, with cast members from the series and variety shows of the past decade taking part alongside visitors. Segments include 'Find Netflix's Best Brain,' 'Our Dance School Now' and 'The Hottest Dating Paradise in the World,' while Bada; Choi Baek-ho; Kyuhyun; Kwon Jin-ah; Car, the garden; and Rain take the stage for celebratory performances.\n\nAdmission is free, but entry requires a ticket reserved in advance through Naver. Every attendee receives a sun visor, and 10th-anniversary T-shirts and 'Eolssu fans' are handed out first come, first served.\n\nDates: Oct 24 (Sat) – 25 (Sun)\nLocation: Oil Tank Culture Park, 87 Jeungsan-ro, Mapo-gu, Seoul\nAdmission: Free · Advance reservation via Naver\n#SENE #NetflixKorea #Netflix10th #OilTankCulturePark #SeoulEvents\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810100/vlijkcjh6g2jx5efkr1l.jpg\n제목: Netflix Korea Turns 10,|a Party in Sangam Today\n부제: Netpeul Janchi · Oct 24 (Sat) – 25 (Sun)\n출처: @netflixkr\n",
+      "caption": "Netflix Korea (@netflixkr) opens a two-day 10th-anniversary party at Oil Tank Culture Park in Sangam starting today.\n\nIt is called Netpeul Janchi, roughly \"Netflix Feast,\" and the program is built around audience participation, with cast members from the series and variety shows of the past decade taking part alongside visitors. Segments include 'Find Netflix's Best Brain,' 'Our Dance School Now' and 'The Hottest Dating Paradise in the World,' while Bada; Choi Baek-ho; Kyuhyun; Kwon Jin-ah; Car, the garden; and Rain take the stage for celebratory performances.\n\nAdmission is free, but entry requires a ticket reserved in advance through Naver. Every attendee receives a sun visor, and 10th-anniversary T-shirts and 'Eolssu fans' are handed out first come, first served.\n\nDates: Oct 24 (Sat) – 25 (Sun)\nLocation: Oil Tank Culture Park, 87 Jeungsan-ro, Mapo-gu, Seoul\nAdmission: Free · Advance reservation via Naver\n#SENE #NetflixKorea #Netflix10th #OilTankCulturePark #SeoulEvents",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810376/np94fvuefic8beksnywa.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810375/id3vg7yawwez6sfmvsry.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810448/czk0d1nz4dvazwa20ifn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810447/m4x1zdqkpa1rzrmjaetq.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810376/np94fvuefic8beksnywa.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810448/czk0d1nz4dvazwa20ifn.jpg"
        },
-       "at": "2026-10-24T11:52+09:00"
+       "at": "2026-10-24T11:54+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nNetflix Korea（@netflixkr）が、今日から2日間、ソウル・上岩洞（サンアムドン）の文化備蓄基地（ムンファビチュクギジ）で10周年記念イベントを開きます。\n\nイベント名は「ネトフリ祭り（넷플잔치）」。この10年間に配信されたシリーズやバラエティの出演者が観客と一緒に楽しむ参加型プログラムで構成されます。「ネトフリ最高のブレインを探せ」「今、私たちのダンス学校は」「世界で一番ホットな恋愛天国」といったコーナーが設けられ、パダ、チェ・ベクホ、キュヒョン、クォン・ジナ、カー・ザ・ガーデン、RAIN（ピ）がお祝いのステージに立ちます。\n\n入場は無料ですが、NAVER予約で事前に受け取った入場券が必要です。参加者全員にサンバイザーが配られ、10周年記念Tシャツと「オルス扇子」は先着順でプレゼントされます。\n\n期間：10月24日（土）〜25日（日）\n場所：ソウル・麻浦区（マポグ）甑山路（チュンサンノ）87 文化備蓄基地\n入場：無料・NAVER事前予約\n#SENE #Netflix #韓国旅行 #ソウルイベント #上岩\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810100/vlijkcjh6g2jx5efkr1l.jpg\n제목: ネトフリ韓国10周年祭、|今日から上岩で\n부제: ネトフリ祭り · 10月24日（土）〜25日（日）\n출처: @netflixkr\n",
-      "caption": "Netflix Korea（@netflixkr）が、今日から2日間、ソウル・上岩洞（サンアムドン）の文化備蓄基地（ムンファビチュクギジ）で10周年記念イベントを開きます。\n\nイベント名は「ネトフリ祭り（넷플잔치）」。この10年間に配信されたシリーズやバラエティの出演者が観客と一緒に楽しむ参加型プログラムで構成されます。「ネトフリ最高のブレインを探せ」「今、私たちのダンス学校は」「世界で一番ホットな恋愛天国」といったコーナーが設けられ、パダ、チェ・ベクホ、キュヒョン、クォン・ジナ、カー・ザ・ガーデン、RAIN（ピ）がお祝いのステージに立ちます。\n\n入場は無料ですが、NAVER予約で事前に受け取った入場券が必要です。参加者全員にサンバイザーが配られ、10周年記念Tシャツと「オルス扇子」は先着順でプレゼントされます。\n\n期間：10月24日（土）〜25日（日）\n場所：ソウル・麻浦区（マポグ）甑山路（チュンサンノ）87 文化備蓄基地\n入場：無料・NAVER事前予約\n#SENE #Netflix #韓国旅行 #ソウルイベント #上岩",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nNetflix Korea（@netflixkr）が今日から2日間、ソウル・上岩（サンアム）の文化備蓄基地で10周年の祝祭を開きます。\n\n名前は「ネトフリ祭（넷플잔치）」で、この10年間に配信されたシリーズやバラエティの出演者が観客と一緒に楽しむ参加型プログラムで構成されます。「ネトフリ最高の頭脳を探せ」「今、私たちのダンス学校は」「世界で一番ホットな恋愛天国」といったコーナーが開かれ、パダ、チェ・ベクホ、キュヒョン、クォン・ジナ、カーザガーデン、RAIN（ピ）が祝賀ステージに立ちます。\n\n入場は無料ですが、NAVER予約で事前に受け取った入場券が必要です。参加者全員にサンバイザーが配られ、10周年Tシャツと「オルス扇子」は先着順でプレゼントされます。\n\n期間：10月24日（土）〜25日（日）\n場所：ソウル特別市麻浦区甑山路87 文化備蓄基地（ムンファビチュッキジ）\n入場：無料・NAVER事前予約\n#SENE #ネトフリ #Netflix韓国 #韓国旅行 #ソウルイベント\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792810100/vlijkcjh6g2jx5efkr1l.jpg\n제목: ネトフリ10周年祭、|今日から上岩で\n부제: ネトフリ祭・10月24日（土）〜25日（日）\n출처: @netflixkr\n",
+      "caption": "Netflix Korea（@netflixkr）が今日から2日間、ソウル・上岩（サンアム）の文化備蓄基地で10周年の祝祭を開きます。\n\n名前は「ネトフリ祭（넷플잔치）」で、この10年間に配信されたシリーズやバラエティの出演者が観客と一緒に楽しむ参加型プログラムで構成されます。「ネトフリ最高の頭脳を探せ」「今、私たちのダンス学校は」「世界で一番ホットな恋愛天国」といったコーナーが開かれ、パダ、チェ・ベクホ、キュヒョン、クォン・ジナ、カーザガーデン、RAIN（ピ）が祝賀ステージに立ちます。\n\n入場は無料ですが、NAVER予約で事前に受け取った入場券が必要です。参加者全員にサンバイザーが配られ、10周年Tシャツと「オルス扇子」は先着順でプレゼントされます。\n\n期間：10月24日（土）〜25日（日）\n場所：ソウル特別市麻浦区甑山路87 文化備蓄基地（ムンファビチュッキジ）\n入場：無料・NAVER事前予約\n#SENE #ネトフリ #Netflix韓国 #韓国旅行 #ソウルイベント",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810379/vrspuknffkp8shxcucet.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810379/ticrt2p8tqyrupao1hkl.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810451/zhahomd26hq3pfsb8zxy.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810451/b08lbkuawqxnbrgmuowz.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810379/vrspuknffkp8shxcucet.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792810451/zhahomd26hq3pfsb8zxy.jpg"
        },
-       "at": "2026-10-24T11:53+09:00"
+       "at": "2026-10-24T11:54+09:00"
       }
      }
     }
@@ -1125,7 +1125,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T11:53+09:00"
+  "at": "2026-10-24T11:54+09:00"
  },
  "slots": {
   "basis": 0,
