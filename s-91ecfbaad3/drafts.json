@@ -730,6 +730,13 @@
        },
        "at": "2026-10-24T11:55+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De4NUoWmTLz/",
+      "cover": "E",
+      "at": "2026-10-24T22:10+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -746,6 +753,13 @@
        },
        "at": "2026-10-24T11:55+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De4NXqaGVox/",
+      "cover": "J",
+      "at": "2026-10-24T22:10+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -753,6 +767,13 @@
     "rank": 3,
     "why": "넷플릭스 10주년 잔치가 내일까지 — 무료라 아침에 보고 바로 갈 수 있는 곳",
     "at": "2026-10-24T21:46+09:00"
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De4NReMmYjQ/",
+    "cover": "A",
+    "at": "2026-10-24T22:10+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -1654,7 +1675,9 @@
      "at": "2026-10-24T21:46+09:00",
      "v": {
       "A": "1d270dd3",
-      "B": "cbcc7008"
+      "B": "cbcc7008",
+      "E": "bc449376",
+      "J": "b4cda12b"
      }
     }
    },
@@ -1776,7 +1799,71 @@
      }
     }
    },
-   "corner_name": "그 말"
+   "corner_name": "그 말",
+   "i18n": {
+    "at": "2026-10-24T22:10+09:00",
+    "confirm": [
+     "숏폼 세 줄(영어 'I accept the divorce / And I request / approval to remarry', 일본어 '離婚を受け入れます / そして再婚の承認を / 要求します')은 제가 직접 옮긴 것이고, 공식 영어·일본어 자막에서 확인한 문장이 아닙니다. 공식 자막이 있다면 그 문장으로 바꿔 주세요.",
+     "일본어 제목은 『再婚承認を要求します』를 썼습니다(일본 기사 여러 곳에서 Disney+ 스타 독점 작품 제목으로 확인). 한국어 제목 '재혼 황후'와 뜻이 달라 일본어 캡션에 원제를 한 번 괄호로 넣었습니다.",
+     "주지훈의 영어 표기는 기사에서 흔히 쓰는 'Joo Ji-hoon'으로 했습니다(원문 지시 예시는 Ju). 신민아는 'Shin Min-a'로 했습니다.",
+     "부산국제영화제 '온 스크린' 섹션의 영어 'On Screen'·일본어 「オンスクリーン」부문 표기는 공식 표기에서 다시 확인하지 못했습니다.",
+     "영어 해시태그에 원문에 없는 #KDrama 를 넣어 태그가 #SENE 까지 6개가 됐습니다. 5개로 맞추려면 하나를 빼 주세요.",
+     "원문 '이달 부산국제영화제' — 부산국제영화제는 보통 9월에 열리는데, 오늘은 10월 24일입니다. 올해 영화제 날짜를 확인해서 '이달'이 맞는지 봐 주세요 (번역 세 판에 모두 '今月·this month'로 들어가 있습니다).",
+     "일본어 제목 『再婚承認を要求します』는 오리콘 기사(oricon.co.jp/news/2470023)에 실린 Disney+ 일본 표기로 확인했습니다. Disney+ 재팬 작품 페이지에서도 같은지 한 번 더 확인하면 좋겠습니다.",
+     "영어 부제(배우 네 명)가 54자로, 표지 한 줄 기준(22자 안팎)보다 깁니다. 원문에 줄 나눔이 없어 그대로 두었으니 표지에서 줄이 넘치는지 확인해 주세요."
+    ],
+    "review": {
+     "at": "2026-10-24T22:10+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · first met audiences → had an early screening — '관객을 만났다'를 그대로 옮긴 직역투"
+     ],
+     "doubt": [
+      "원문 '이달 부산국제영화제' — 부산국제영화제는 보통 9월에 열리는데, 오늘은 10월 24일입니다. 올해 영화제 날짜를 확인해서 '이달'이 맞는지 봐 주세요 (번역 세 판에 모두 '今月·this month'로 들어가 있습니다).",
+      "일본어 제목 『再婚承認を要求します』는 오리콘 기사(oricon.co.jp/news/2470023)에 실린 Disney+ 일본 표기로 확인했습니다. Disney+ 재팬 작품 페이지에서도 같은지 한 번 더 확인하면 좋겠습니다.",
+      "영어 부제(배우 네 명)가 54자로, 표지 한 줄 기준(22자 안팎)보다 깁니다. 원문에 줄 나눔이 없어 그대로 두었으니 표지에서 줄이 넘치는지 확인해 주세요."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Disney+ series The Remarried Empress (@disneypluskr) premieres Nov 4.\n\nBased on the webtoon of the same name, the story begins when Emperor Sovieshu (Joo Ji-hoon) tells Empress Navier (Shin Min-a) he wants a divorce. She accepts, but on one condition: approval to remarry Prince Heinrey of the Western Kingdom (Lee Jong-suk). Lee Se-young plays Rashta.\n\nThe series had an early screening this month in the On Screen section of the Busan International Film Festival.\n\nPremiere: Nov 4 (Wed)\nWhere to watch: Disney+\n#SENE #TheRemarriedEmpress #KDrama #DisneyPlus #ShinMinA #LeeJongSuk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792845987/q2y1rq4kbprsmsgs8yrx.jpg\n제목: The Remarried Empress|On Disney+ Nov 4\n부제: Shin Min-a · Joo Ji-hoon · Lee Jong-suk · Lee Se-young\n출처: The Walt Disney Company Korea\n",
+      "caption": "The Disney+ series The Remarried Empress (@disneypluskr) premieres Nov 4.\n\nBased on the webtoon of the same name, the story begins when Emperor Sovieshu (Joo Ji-hoon) tells Empress Navier (Shin Min-a) he wants a divorce. She accepts, but on one condition: approval to remarry Prince Heinrey of the Western Kingdom (Lee Jong-suk). Lee Se-young plays Rashta.\n\nThe series had an early screening this month in the On Screen section of the Busan International Film Festival.\n\nPremiere: Nov 4 (Wed)\nWhere to watch: Disney+\n#SENE #TheRemarriedEmpress #KDrama #DisneyPlus #ShinMinA #LeeJongSuk",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847463/hpf0ub99xsogspzvjky9.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847463/yjtmrkseam9bmrpdxfk3.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847463/hpf0ub99xsogspzvjky9.jpg"
+       },
+       "at": "2026-10-24T22:11+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:02-1:30\n곡: approval to remarry\n아티스트: And I request\n피처링:\n후킹: I accept the divorce\n출처: Disney Plus Korea\n자막: 자동",
+      "caption": "A scene from the main trailer for Disney+'s The Remarried Empress (@disneypluskr).\n\nWhen Emperor Sovieshu (Joo Ji-hoon) announces a divorce, Empress Navier (Shin Min-a) names her condition: she will accept it, as long as her remarriage to Prince Heinrey of the Western Kingdom (Lee Jong-suk) is approved. The series is based on the webtoon of the same name.\n\nIt screened first at the Busan International Film Festival this month and premieres on Disney+ Nov 4.\n\nPremiere: Nov 4 (Wed)\nWhere to watch: Disney+\nVideo: Official trailer, Disney+ Korea\n#SENE #TheRemarriedEmpress #KDrama #DisneyPlus #ShinMinA #LeeJongSuk"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후、@disneypluskr）が11月4日に配信されます。\n\n同名のウェブトゥーンが原作の作品で、皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた皇后ナビエ（シン・ミナ）が、離婚を受け入れる代わりに西王国の王子ハインリ（イ・ジョンソク）との再婚の承認を求めるところから物語が始まります。ラスタ役はイ・セヨンが演じます。\n\n今月、釜山国際映画祭の「オンスクリーン」部門でひと足先に観客の前で上映されました。\n\n配信：11月4日（水）\n視聴：ディズニープラス\n#SENE #再婚承認を要求します #韓国ドラマ #ディズニープラス #シンミナ #イジョンソク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792845987/q2y1rq4kbprsmsgs8yrx.jpg\n제목: 『再婚承認を要求します』|11月4日 Disney+配信\n부제: シン・ミナ、チュ・ジフン、イ・ジョンソク、イ・セヨン\n출처: ウォルト・ディズニー・カンパニー・コリア\n",
+      "caption": "ディズニープラスのシリーズ『再婚承認を要求します』（原題：재혼 황후、@disneypluskr）が11月4日に配信されます。\n\n同名のウェブトゥーンが原作の作品で、皇帝ソビエシュ（チュ・ジフン）から離婚を告げられた皇后ナビエ（シン・ミナ）が、離婚を受け入れる代わりに西王国の王子ハインリ（イ・ジョンソク）との再婚の承認を求めるところから物語が始まります。ラスタ役はイ・セヨンが演じます。\n\n今月、釜山国際映画祭の「オンスクリーン」部門でひと足先に観客の前で上映されました。\n\n配信：11月4日（水）\n視聴：ディズニープラス\n#SENE #再婚承認を要求します #韓国ドラマ #ディズニープラス #シンミナ #イジョンソク",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847466/ewiaddoe6w967t9j6wu5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847466/lfxslwyprrv9me86jgk6.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792847466/ewiaddoe6w967t9j6wu5.jpg"
+       },
+       "at": "2026-10-24T22:11+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=ePBZ8oF-0WI\n구간: 1:02-1:30\n곡: 要求します\n아티스트: そして再婚の承認を\n피처링:\n후킹: 離婚を受け入れます\n출처: Disney Plus Korea\n자막: 자동",
+      "caption": "ディズニープラス『再婚承認を要求します』（@disneypluskr）メイン予告編のワンシーンです。\n\n皇帝ソビエシュ（チュ・ジフン）が離婚を告げると、皇后ナビエ（シン・ミナ）はある条件を出します。離婚は受け入れるけれど、西王国の王子ハインリ（イ・ジョンソク）との再婚を承認してほしい、というものです。原作は同名のウェブトゥーンです。\n\n今月の釜山国際映画祭でひと足先に上映され、11月4日にディズニープラスで配信されます。\n\n配信：11月4日（水）\n視聴：ディズニープラス\n映像：ディズニープラス コリア公式予告編\n#SENE #再婚承認を要求します #韓国ドラマ #ディズニープラス #シンミナ #イジョンソク"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1907,7 +1994,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-24T21:49+09:00"
+  "at": "2026-10-24T22:11+09:00"
  },
  "slots": {
   "basis": 0,
