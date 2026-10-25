@@ -1378,7 +1378,9 @@
      "at": "2026-10-25T17:46+09:00",
      "v": {
       "A": "b0895918",
-      "B": "fe97597d"
+      "B": "fe97597d",
+      "E": "63d40357",
+      "J": "c5d525b8"
      }
     }
    },
@@ -1388,7 +1390,63 @@
     "at": "2026-10-25T17:46+09:00"
    },
    "i18n_queued": "2026-10-25T17:46+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-25T17:46+09:00",
+    "confirm": [
+     "〈철냄비 짱!〉의 공식 표기: 영어 'Iron Wok Jan!', 일본어 『鉄鍋のジャン！』로 썼습니다. 둘 다 해외 애니 매체 기사로만 확인했고, 크런치롤 공식 페이지에서는 보지 못했습니다.",
+     "작품명은 공식 표기를 따로 검색하지 않고 알고 있던 대로 썼습니다: 'Chainsaw Man – The Movie: Reze Arc' / 『チェンソーマン レゼ篇』, 'Demon Slayer: Kimetsu no Yaiba Infinity Castle' Part 1 / 『劇場版「鬼滅の刃」無限城編』第一章. 올리기 전에 배급사 표기를 한 번 봐 주세요.",
+     "AK플라자 홍대의 영어 'AK Plaza Hongdae', 일본어 'AKプラザ弘大' 표기는 공식 출처에서 확인하지 못했습니다.",
+     "날짜(10/24 토 ~ 11/8 일, 10/31 토)는 원문 그대로 옮겼습니다. 요일은 2026년 달력과 맞습니다.",
+     "〈철냄비 짱!〉의 크런치롤 공식 영어 표기('Iron Wok Jan!')를 확인하지 못함 — 크런치롤 작품 페이지에서 확인 필요",
+     "상영회(10월 31일 CGV 홍대 · 독점작 세 편 · 사전 신청 추첨)는 검색한 기사에서 확인되지 않음 — 크런치롤 공식 SNS 공지와 대조 필요 (기간 10/24~11/8 · AK플라자 홍대 팝업 · 스탬프 럭키드로우는 Inven Global 기사로 확인됨)"
+    ],
+    "review": {
+     "at": "2026-10-25T17:46+09:00",
+     "fixes": [
+      "일본어 · 표지 제목 둘째 줄 · アニメのポップアップ → アニメポップアップ開催 — 동사가 없어 원문 '열었다'의 뜻이 빠졌음 (11자)",
+      "일본어 · 캡션 둘째 단락 · 記念したイベントですが、 → 記念したイベントで、 — 'ですが'가 역접으로 읽힘",
+      "일본어 · 캡션 · 『劇場版「鬼滅の刃」無限城編』第一章 → 『劇場版「鬼滅の刃」無限城編 第一章』 — 공식 표기대로 '第一章'까지 제목 안에",
+      "영어 · 실용 정보 상영회 줄 · ', lottery' → '; seats drawn by lottery' — 단어만 덩그러니 남아 뜻이 불분명했음"
+     ],
+     "doubt": [
+      "〈철냄비 짱!〉의 크런치롤 공식 영어 표기('Iron Wok Jan!')를 확인하지 못함 — 크런치롤 작품 페이지에서 확인 필요",
+      "상영회(10월 31일 CGV 홍대 · 독점작 세 편 · 사전 신청 추첨)는 검색한 기사에서 확인되지 않음 — 크런치롤 공식 SNS 공지와 대조 필요 (기간 10/24~11/8 · AK플라자 홍대 팝업 · 스탬프 럭키드로우는 Inven Global 기사로 확인됨)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nAnime streaming service Crunchyroll is holding a two-week festival in Hongdae.\n\nThe event celebrates the launch of Crunchyroll's official service in Korea, and at its center is a pop-up at AK Plaza Hongdae. Built around 'Chainsaw Man – The Movie: Reze Arc' and 'Demon Slayer: Kimetsu no Yaiba Infinity Castle' Part 1, it has photo booths and photo zones, poster and video displays, a message space and a merchandise shop.\n\nVisitors who take part in programs inside the pop-up and collect stamps can enter a lucky draw for Crunchyroll merchandise. On the 31st, CGV Hongdae will hold free screenings of three Crunchyroll exclusives, including 'Iron Wok Jan!'. Audience members will be drawn by lottery from those who apply in advance through Crunchyroll's official social media.\n\nDates: Oct 24 (Sat) – Nov 8 (Sun)\nLocation: AK Plaza Hongdae, Mapo-gu, Seoul\nScreening: Oct 31 (Sat), CGV Hongdae · Apply in advance via official social media; seats drawn by lottery\n#SENE #Crunchyroll #HongdaePopup #ChainsawMan #DemonSlayer\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792917878/gdb0mdf73mgqgu1wz8le.jpg\n제목: Crunchyroll Opens|Anime Pop-Up in Hongdae\n부제: Chainsaw Man · Demon Slayer · Through Nov 8\n출처: Crunchyroll\n",
+      "caption": "Anime streaming service Crunchyroll is holding a two-week festival in Hongdae.\n\nThe event celebrates the launch of Crunchyroll's official service in Korea, and at its center is a pop-up at AK Plaza Hongdae. Built around 'Chainsaw Man – The Movie: Reze Arc' and 'Demon Slayer: Kimetsu no Yaiba Infinity Castle' Part 1, it has photo booths and photo zones, poster and video displays, a message space and a merchandise shop.\n\nVisitors who take part in programs inside the pop-up and collect stamps can enter a lucky draw for Crunchyroll merchandise. On the 31st, CGV Hongdae will hold free screenings of three Crunchyroll exclusives, including 'Iron Wok Jan!'. Audience members will be drawn by lottery from those who apply in advance through Crunchyroll's official social media.\n\nDates: Oct 24 (Sat) – Nov 8 (Sun)\nLocation: AK Plaza Hongdae, Mapo-gu, Seoul\nScreening: Oct 31 (Sat), CGV Hongdae · Apply in advance via official social media; seats drawn by lottery\n#SENE #Crunchyroll #HongdaePopup #ChainsawMan #DemonSlayer",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792918001/n4trh6fwoglyxkdshb7v.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792918001/teh93jinfmnkkjstdsbt.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792918001/n4trh6fwoglyxkdshb7v.jpg"
+       },
+       "at": "2026-10-25T17:46+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nアニメ配信サービスのクランチロール（Crunchyroll）が、ソウル・弘大（ホンデ）で2週間のフェスティバルを開いています。\n\n韓国での公式サービス開始を記念したイベントで、中心となるのはAKプラザ弘大に設けられたポップアップです。『チェンソーマン レゼ篇』と『劇場版「鬼滅の刃」無限城編 第一章』をテーマにしたフォトブースやフォトゾーン、ポスター・映像の展示、メッセージスペース、グッズショップが入っています。\n\nポップアップ内のプログラムに参加してスタンプを集めると、クランチロールグッズのラッキードローに応募できます。31日にはCGV弘大で『鉄鍋のジャン！』などクランチロール独占配信作3本を無料で上映します。観客はクランチロール公式SNSで事前に申し込んだ人の中から抽選で選ばれます。\n\n期間：10月24日（土）〜11月8日（日）\n場所：ソウル・麻浦区（マポグ） AKプラザ弘大\n上映会：10月31日（土） CGV弘大・公式SNSで事前申込のうえ抽選\n#SENE #クランチロール #弘大 #韓国旅行 #チェンソーマン\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792917878/gdb0mdf73mgqgu1wz8le.jpg\n제목: クランチロールが弘大に|アニメポップアップ開催\n부제: チェンソーマン・鬼滅の刃・11月8日まで\n출처: Crunchyroll\n",
+      "caption": "アニメ配信サービスのクランチロール（Crunchyroll）が、ソウル・弘大（ホンデ）で2週間のフェスティバルを開いています。\n\n韓国での公式サービス開始を記念したイベントで、中心となるのはAKプラザ弘大に設けられたポップアップです。『チェンソーマン レゼ篇』と『劇場版「鬼滅の刃」無限城編 第一章』をテーマにしたフォトブースやフォトゾーン、ポスター・映像の展示、メッセージスペース、グッズショップが入っています。\n\nポップアップ内のプログラムに参加してスタンプを集めると、クランチロールグッズのラッキードローに応募できます。31日にはCGV弘大で『鉄鍋のジャン！』などクランチロール独占配信作3本を無料で上映します。観客はクランチロール公式SNSで事前に申し込んだ人の中から抽選で選ばれます。\n\n期間：10月24日（土）〜11月8日（日）\n場所：ソウル・麻浦区（マポグ） AKプラザ弘大\n上映会：10月31日（土） CGV弘大・公式SNSで事前申込のうえ抽選\n#SENE #クランチロール #弘大 #韓国旅行 #チェンソーマン",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792918004/n7erkdpojhmbii5gsuvr.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792918004/fhsq17mdj1noop2jxqqp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792918004/n7erkdpojhmbii5gsuvr.jpg"
+       },
+       "at": "2026-10-25T17:46+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
