@@ -697,7 +697,7 @@
    "pick": {
     "rank": 3,
     "why": "오늘 숏폼 몫 — 방송 속 본인의 말로 서는 클립",
-    "at": "2026-10-25T11:44+09:00"
+    "at": "2026-10-25T11:45+09:00"
    }
   },
   {
@@ -711,7 +711,7 @@
     "is_reel": true,
     "kind": "claude"
    },
-   "made_at": "2026-10-25T11:44+09:00",
+   "made_at": "2026-10-25T11:45+09:00",
    "key": "3fe0dc25",
    "by": "claude",
    "subjects": [
@@ -725,21 +725,21 @@
     "why": "10/24~25 발표된 대형 쇼핑 행사. 기간·18개 계열사·토이 스토리 굿즈·무스탕 가격·블루밍마켓이 아시아경제·코리아리포트·글로벌이코노믹에서 맞는다. 신세계그룹 공식 티저 영상이 있다"
    },
    "added": "claude",
-   "added_at": "2026-10-25T11:44+09:00",
+   "added_at": "2026-10-25T11:45+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n패션\n\n[캡션]\n신세계그룹의 할인 행사 쓱데이가 10월 30일 열립니다.\n\n올해는 18개 계열사가 참여하는데요, 이마트·스타벅스·SSG닷컴·신세계인터내셔날 등 13곳이 행사 기간을 열흘로 늘려 11월 8일까지 이어갑니다.\n\n스타벅스는 〈토이 스토리〉 협업 굿즈 4종을 내놓습니다. 베어리스타 키링의 후속인 '하비클럽 키링'과 '인형뽑기 머신'이 그중 둘입니다. W컨셉은 프론트로우 무스탕 점퍼를 18만 원대에 팔고, 스타필드 하남에는 계열사들이 함께 꾸린 팝업 '쓱데이 블루밍마켓'이 열립니다.\n\n신세계포인트 가맹점에서 세 번 이상 사고 앱 미션을 마치면 최대 5만 포인트를 주는 '쓱데이 완성 챌린지'도 30일부터 시작합니다.\n\n기간: 10월 30일(금) ~ 11월 8일(일)\n팝업: 스타필드 하남 사우스 아트리움 '쓱데이 블루밍마켓'\n#SENE #쓱데이 #스타벅스 #토이스토리 #스타필드하남\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896276/vwwotakvfqxw8ger61fx.jpg\n제목: 신세계 쓱데이,|10월 30일 개막\n부제: 18개 계열사 · 11월 8일까지 열흘\n출처: 신세계그룹\n",
-    "caption": "신세계그룹의 할인 행사 쓱데이가 10월 30일 열립니다.\n\n올해는 18개 계열사가 참여하는데요, 이마트·스타벅스·SSG닷컴·신세계인터내셔날 등 13곳이 행사 기간을 열흘로 늘려 11월 8일까지 이어갑니다.\n\n스타벅스는 〈토이 스토리〉 협업 굿즈 4종을 내놓습니다. 베어리스타 키링의 후속인 '하비클럽 키링'과 '인형뽑기 머신'이 그중 둘입니다. W컨셉은 프론트로우 무스탕 점퍼를 18만 원대에 팔고, 스타필드 하남에는 계열사들이 함께 꾸린 팝업 '쓱데이 블루밍마켓'이 열립니다.\n\n신세계포인트 가맹점에서 세 번 이상 사고 앱 미션을 마치면 최대 5만 포인트를 주는 '쓱데이 완성 챌린지'도 30일부터 시작합니다.\n\n기간: 10월 30일(금) ~ 11월 8일(일)\n팝업: 스타필드 하남 사우스 아트리움 '쓱데이 블루밍마켓'\n#SENE #쓱데이 #스타벅스 #토이스토리 #스타필드하남",
+    "form": "[카테고리]\n패션\n\n[캡션]\n신세계그룹의 할인 행사 쓱데이가 10월 30일 열립니다.\n\n올해는 18개 계열사가 참여하는데요, 이마트·스타벅스·SSG닷컴·신세계인터내셔날 등 13곳이 행사 기간을 열흘로 늘려 11월 8일까지 이어갑니다.\n\n스타벅스는 〈토이 스토리〉 협업 굿즈 4종과 홀리데이 상품을 내놓습니다. W컨셉은 프론트로우 무스탕 점퍼를 18만 원대에 팔고, 스타필드 하남에는 계열사들이 함께 꾸린 팝업 '쓱데이 블루밍마켓'이 열립니다.\n\n신세계포인트 가맹점에서 세 번 이상 사고 앱 미션을 마치면 최대 5만 포인트를 주는 '쓱데이 완성 챌린지'도 30일부터 시작합니다.\n\n기간: 10월 30일(금) ~ 11월 8일(일)\n팝업: 스타필드 하남 사우스 아트리움 '쓱데이 블루밍마켓'\n#SENE #쓱데이 #스타벅스 #토이스토리 #스타필드하남\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896321/o4uwv7lfah1lc3zylfwt.jpg\n제목: 신세계 쓱데이,|10월 30일 개막\n부제: 18개 계열사 · 11월 8일까지 열흘\n출처: 신세계그룹\n",
+    "caption": "신세계그룹의 할인 행사 쓱데이가 10월 30일 열립니다.\n\n올해는 18개 계열사가 참여하는데요, 이마트·스타벅스·SSG닷컴·신세계인터내셔날 등 13곳이 행사 기간을 열흘로 늘려 11월 8일까지 이어갑니다.\n\n스타벅스는 〈토이 스토리〉 협업 굿즈 4종과 홀리데이 상품을 내놓습니다. W컨셉은 프론트로우 무스탕 점퍼를 18만 원대에 팔고, 스타필드 하남에는 계열사들이 함께 꾸린 팝업 '쓱데이 블루밍마켓'이 열립니다.\n\n신세계포인트 가맹점에서 세 번 이상 사고 앱 미션을 마치면 최대 5만 포인트를 주는 '쓱데이 완성 챌린지'도 30일부터 시작합니다.\n\n기간: 10월 30일(금) ~ 11월 8일(일)\n팝업: 스타필드 하남 사우스 아트리움 '쓱데이 블루밍마켓'\n#SENE #쓱데이 #스타벅스 #토이스토리 #스타필드하남",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896276/vwwotakvfqxw8ger61fx.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896321/o4uwv7lfah1lc3zylfwt.jpg",
       "credit": "신세계그룹",
       "from": "https://cdn.koreareport.co.kr/news/photo/202610/53937_57044_2111.jpg"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896276/vwwotakvfqxw8ger61fx.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896321/o4uwv7lfah1lc3zylfwt.jpg",
       "credit": "신세계그룹",
       "from": "https://cdn.koreareport.co.kr/news/photo/202610/53937_57044_2111.jpg"
      }
@@ -762,7 +762,7 @@
     "issues": [],
     "confirm": [
      "클립 위험: 낮음 — 신세계그룹 뉴스룸 (31초 티저 전체) · 자동 자막이 뭉개져 '고객님 아직 사지 마세요'가 정확한 대사인지 영상에서 귀로 확인 (아니면 B 후킹)",
-     "토이 스토리 굿즈 출시일·가격, 블루밍마켓 운영 날짜는 기사에 없음 — 스타벅스·스타필드 공지 나오면 추가",
+     "표지는 신세계 공식 보도 이미지(상품 포스터 격자 · 글자 많음 — 다른 사진은 해상도 미달) · 포스터엔 '하비클럽 키체인(10종)', 기사엔 '토이 스토리 굿즈 4종에 하비클럽 키링' — 갈려서 굿즈 이름은 뺐음. 출시일·가격·블루밍마켓 날짜는 공지 나오면 추가",
      "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
     ],
     "research": [
@@ -790,17 +790,17 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896287/d0ie410yaprmb2aos26l.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896287/qtxea36nlsjbzuq52riz.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896333/ag1vgfnnbpfbayiqtg5f.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896333/jdlyledy7ouergjvrqea.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896290/hqw6kdby9si7m86u4hxr.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896287/d0ie410yaprmb2aos26l.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896336/aab3zofbejjcytueebrk.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896333/ag1vgfnnbpfbayiqtg5f.jpg"
      },
-     "at": "2026-10-25T11:44+09:00",
+     "at": "2026-10-25T11:45+09:00",
      "v": {
-      "A": "4de25e4f",
-      "B": "13feb0af"
+      "A": "40464dd1",
+      "B": "e5c006d7"
      }
     }
    },
@@ -827,7 +827,7 @@
     "issues": [],
     "confirm": [
      "클립 위험: 낮음 — 신세계그룹 뉴스룸 (31초 티저 전체) · 자동 자막이 뭉개져 '고객님 아직 사지 마세요'가 정확한 대사인지 영상에서 귀로 확인 (아니면 B 후킹)",
-     "토이 스토리 굿즈 출시일·가격, 블루밍마켓 운영 날짜는 기사에 없음 — 스타벅스·스타필드 공지 나오면 추가"
+     "표지는 신세계 공식 보도 이미지(상품 포스터 격자 · 글자 많음 — 다른 사진은 해상도 미달) · 포스터엔 '하비클럽 키체인(10종)', 기사엔 '토이 스토리 굿즈 4종에 하비클럽 키링' — 갈려서 굿즈 이름은 뺐음. 출시일·가격·블루밍마켓 날짜는 공지 나오면 추가"
     ],
     "research": [
      {
@@ -853,16 +853,16 @@
     ],
     "thumb": "https://i.ytimg.com/vi/twAxCs4yMs4/maxresdefault.jpg",
     "still": {
-     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896295/i5owmvveniz8tdlce8im.jpg",
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896340/bmxozvpxtuznvlq1o1rt.jpg",
      "key": "twAxCs4yMs4@0.0"
     }
    },
    "pick": {
     "rank": 1,
     "why": "닷새 뒤 시작하는 쓱데이 — 스타벅스 토이 스토리 굿즈·무스탕(이번 주 2030 여성 클릭 +126%)까지 저장해 둘 정보, 숏폼도 있다",
-    "at": "2026-10-25T11:44+09:00"
+    "at": "2026-10-25T11:45+09:00"
    },
-   "i18n_queued": "2026-10-25T11:44+09:00",
+   "i18n_queued": "2026-10-25T11:45+09:00",
    "corner_name": "소식"
   },
   {
@@ -876,7 +876,7 @@
     "is_reel": false,
     "kind": "claude"
    },
-   "made_at": "2026-10-25T11:44+09:00",
+   "made_at": "2026-10-25T11:45+09:00",
    "key": "398f850a",
    "by": "claude",
    "subjects": [
@@ -890,31 +890,31 @@
     "why": "10/20 문을 연 매장이라 이번 주말 갈 수 있는 공간. 한옥 구성·첫 카페 '카페 레드 어코드'·네 번째 플래그십이 TENANT news·한국섬유신문·지피코리아·싱글리스트에서 맞는다"
    },
    "added": "claude",
-   "added_at": "2026-10-25T11:44+09:00",
+   "added_at": "2026-10-25T11:45+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n본투스탠드아웃이 북촌 한옥에 네 번째 플래그십을 열었습니다.\n\n한남·삼청·성수에 이은 국내 매장인데요, 서까래와 기둥이 남은 한옥 안에 브랜드의 붉은색과 스테인리스를 들이고, 조선 고가구와 기와 타일을 함께 놓았습니다. 전통 이불장과 베개장은 향수 진열대가 됐습니다.\n\n석탑이 있는 중정 쪽에는 브랜드의 첫 카페 '카페 레드 어코드'가 있습니다. 브랜드는 향수를 짓듯 커피의 향과 풍미, 마신 뒤의 여운까지 설계했다고 설명합니다. 바 형태의 드립 스테이션에서 핸드드립 과정을 볼 수 있습니다.\n\n오픈: 10월 20일\n장소: 서울 종로구 북촌\n#SENE #본투스탠드아웃 #북촌 #카페레드어코드 #북촌한옥\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896280/xerdnunksxjvzzb127d9.jpg\n제목: 본투스탠드아웃,|북촌 한옥에 새 매장\n부제: 네 번째 플래그십 · 첫 카페 '카페 레드 어코드'\n출처: 본투스탠드아웃\n",
+    "form": "[카테고리]\n공간\n\n[캡션]\n본투스탠드아웃이 북촌 한옥에 네 번째 플래그십을 열었습니다.\n\n한남·삼청·성수에 이은 국내 매장인데요, 서까래와 기둥이 남은 한옥 안에 브랜드의 붉은색과 스테인리스를 들이고, 조선 고가구와 기와 타일을 함께 놓았습니다. 전통 이불장과 베개장은 향수 진열대가 됐습니다.\n\n석탑이 있는 중정 쪽에는 브랜드의 첫 카페 '카페 레드 어코드'가 있습니다. 브랜드는 향수를 짓듯 커피의 향과 풍미, 마신 뒤의 여운까지 설계했다고 설명합니다. 바 형태의 드립 스테이션에서 핸드드립 과정을 볼 수 있습니다.\n\n오픈: 10월 20일\n장소: 서울 종로구 북촌\n#SENE #본투스탠드아웃 #북촌 #카페레드어코드 #북촌한옥\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896326/vzxxgreodzqksthjd7nk.jpg\n제목: 본투스탠드아웃,|북촌 한옥에 새 매장\n부제: 네 번째 플래그십 · 첫 카페 '카페 레드 어코드'\n출처: 본투스탠드아웃\n",
     "caption": "본투스탠드아웃이 북촌 한옥에 네 번째 플래그십을 열었습니다.\n\n한남·삼청·성수에 이은 국내 매장인데요, 서까래와 기둥이 남은 한옥 안에 브랜드의 붉은색과 스테인리스를 들이고, 조선 고가구와 기와 타일을 함께 놓았습니다. 전통 이불장과 베개장은 향수 진열대가 됐습니다.\n\n석탑이 있는 중정 쪽에는 브랜드의 첫 카페 '카페 레드 어코드'가 있습니다. 브랜드는 향수를 짓듯 커피의 향과 풍미, 마신 뒤의 여운까지 설계했다고 설명합니다. 바 형태의 드립 스테이션에서 핸드드립 과정을 볼 수 있습니다.\n\n오픈: 10월 20일\n장소: 서울 종로구 북촌\n#SENE #본투스탠드아웃 #북촌 #카페레드어코드 #북촌한옥",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896280/xerdnunksxjvzzb127d9.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896326/vzxxgreodzqksthjd7nk.jpg",
       "credit": "본투스탠드아웃",
       "from": "https://tnnews.co.kr/wp-content/uploads/2026/10/사진자료2-본투스탠드아웃-북촌-플래그십-스토어-오픈으로-국내-시장-공략-본격화.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896282/xt6ujo3wz4c2fesvtepc.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896328/splh4rxnbeks5wja54zi.jpg",
       "credit": "본투스탠드아웃",
       "from": "https://cdn.gpkorea.com/news/photo/202610/147746_314168_5328.jpg"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896280/xerdnunksxjvzzb127d9.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896326/vzxxgreodzqksthjd7nk.jpg",
       "credit": "본투스탠드아웃",
       "from": "https://tnnews.co.kr/wp-content/uploads/2026/10/사진자료2-본투스탠드아웃-북촌-플래그십-스토어-오픈으로-국내-시장-공략-본격화.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896282/xt6ujo3wz4c2fesvtepc.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896328/splh4rxnbeks5wja54zi.jpg",
       "credit": "본투스탠드아웃",
       "from": "https://cdn.gpkorea.com/news/photo/202610/147746_314168_5328.jpg"
      }
@@ -964,80 +964,80 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896298/oyexzadg23uurj8ljucb.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896297/kj6s9kkvcm9hwohdgxbk.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896343/zhcoznf4xzu4fkp9wlqq.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896343/snud8vae6hw6susbd8mi.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896300/jqsth5tsrpzeslxqnlf4.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896298/oyexzadg23uurj8ljucb.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896346/l0yjqwtffdem8soffg83.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896343/zhcoznf4xzu4fkp9wlqq.jpg"
      },
      "at": "2026-10-25T11:45+09:00",
      "v": {
-      "A": "0330e221",
-      "B": "17520e0f",
-      "E": "afda75fc",
-      "J": "3b2760e2"
+      "A": "0fa564ea",
+      "B": "d4d6761d",
+      "E": "c88b6e9c",
+      "J": "c7ccc61f"
      }
     }
    },
    "pick": {
     "rank": 2,
     "why": "한옥에 들인 향수 매장과 브랜드 첫 카페 — 일요일 오후 나들이로 바로 이어지는 공간 소식",
-    "at": "2026-10-25T11:44+09:00"
+    "at": "2026-10-25T11:45+09:00"
    },
-   "i18n_queued": "2026-10-25T11:44+09:00",
+   "i18n_queued": "2026-10-25T11:45+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-25T11:45+09:00",
+    "at": "2026-10-25T11:47+09:00",
     "confirm": [
-     "일본어 브랜드 표기 'ボーントゥスタンドアウト' — 공식 일본어 표기를 찾지 못해 카타카나로 옮기고 처음 한 번 괄호 안에 BORNTOSTANDOUT 원어를 달았습니다",
-     "카페 영문 표기 'Cafe Red Accord' — 공식 영문 철자(Café 여부·대소문자)는 확인하지 못했습니다. 브랜드 계정에서 확인해 주세요",
-     "영어 브랜드 표기 BORNTOSTANDOUT(대문자, 붙여 씀)은 해외 매체·판매처 표기로 확인했습니다",
-     "오픈 날짜에 붙인 요일 (火)는 2026년 달력으로 계산한 것입니다 (원문에는 요일이 없습니다)",
-     "카페 공식 영문 표기('Cafe Red Accord' — CAFE RED ACCORD인지, 대소문자는 어떤지)를 웹에서 확인하지 못했습니다. 올리기 전에 본투스탠드아웃 공식 계정에서 확인해 주세요.",
-     "일본어판 오픈 날짜에 원문에 없는 요일 （火）가 붙어 있습니다. 2026년 10월 20일은 화요일이 맞아 그대로 두었습니다.",
-     "원문 오픈 날짜(10월 20일)와 '네 번째 플래그십'이라는 사실은 공식 출처와 대조하지 못했습니다."
+     "브랜드 영문 표기는 공식 표기인 'BORNTOSTANDOUT'(붙여 쓴 대문자)로 확인했습니다. 일본어 표기는 일본 매체 GINZA·FASHIONSNAP 의 「ボーン トゥ スタンド アウト」를 따랐습니다.",
+     "카페 '카페 레드 어코드'의 공식 영문 표기는 검색으로 확인하지 못해 'Cafe Red Accord'로 적었습니다. 브랜드 공식 계정에서 철자(Café 인지 등)를 확인해 주세요.",
+     "북촌 매장 자체(10월 20일 오픈, 중정·석탑, 카페)는 웹 검색에서 영어·일본어 출처가 잡히지 않았습니다. 사실은 한국어 원문을 그대로 옮겼습니다.",
+     "일본어 날짜의 요일 (火)는 2026년 10월 20일 기준으로 계산해 붙였습니다.",
+     "카페의 영문 공식 표기('Cafe Red Accord' / 'Café Red Accord' 등)를 웹에서 확인하지 못함 — 올리기 전에 브랜드 공식 계정에서 철자를 확인해야 함 (영어 부제·캡션, 일본어 괄호 안 표기)",
+     "브랜드 표기 BORNTOSTANDOUT(공식 사이트)와 일본어 ボーン トゥ スタンド アウト(GINZA 매거진 표기)는 확인함. 일본어 해시태그는 띄어쓰기 없는 #ボーントゥスタンドアウト라 본문 표기와 다른데, 태그라서 그대로 둠",
+     "일본어 오픈일의 요일 （火）는 원문에 없던 것을 번역 규칙의 날짜 꼴에 따라 붙인 것임. 2026년 10월 20일은 화요일이 맞음"
     ],
     "review": {
-     "at": "2026-10-25T11:45+09:00",
+     "at": "2026-10-25T11:47+09:00",
      "fixes": [
-      "영어 · 캡션 셋째 단락 · sits on the side of the courtyard with the stone pagoda → sits by the courtyard with its stone pagoda — 직역투라 어색함"
+      "영어 · 캡션 둘째 단락 · the brand's locations → the brand's Korean locations — 원문 '국내 매장'이 빠져 있었음"
      ],
      "doubt": [
-      "카페 공식 영문 표기('Cafe Red Accord' — CAFE RED ACCORD인지, 대소문자는 어떤지)를 웹에서 확인하지 못했습니다. 올리기 전에 본투스탠드아웃 공식 계정에서 확인해 주세요.",
-      "일본어판 오픈 날짜에 원문에 없는 요일 （火）가 붙어 있습니다. 2026년 10월 20일은 화요일이 맞아 그대로 두었습니다.",
-      "원문 오픈 날짜(10월 20일)와 '네 번째 플래그십'이라는 사실은 공식 출처와 대조하지 못했습니다."
+      "카페의 영문 공식 표기('Cafe Red Accord' / 'Café Red Accord' 등)를 웹에서 확인하지 못함 — 올리기 전에 브랜드 공식 계정에서 철자를 확인해야 함 (영어 부제·캡션, 일본어 괄호 안 표기)",
+      "브랜드 표기 BORNTOSTANDOUT(공식 사이트)와 일본어 ボーン トゥ スタンド アウト(GINZA 매거진 표기)는 확인함. 일본어 해시태그는 띄어쓰기 없는 #ボーントゥスタンドアウト라 본문 표기와 다른데, 태그라서 그대로 둠",
+      "일본어 오픈일의 요일 （火）는 원문에 없던 것을 번역 규칙의 날짜 꼴에 따라 붙인 것임. 2026년 10월 20일은 화요일이 맞음"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nBORNTOSTANDOUT has opened its fourth flagship inside a hanok in Bukchon.\n\nThe store follows Hannam, Samcheong and Seongsu in Korea. Inside, the hanok's rafters and pillars remain, and the brand has brought in its signature red and stainless steel next to Joseon-era antique furniture and giwa roof tiles. Traditional bedding and pillow cabinets now hold the fragrances.\n\nThe brand's first café, 'Cafe Red Accord,' sits by the courtyard with its stone pagoda. The brand says it designed the coffee the way it composes a perfume, from aroma and flavor through to the finish that lingers after each sip. At the bar-style drip station, guests can watch the coffee being brewed by hand.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #Hanok\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896240/uwd4ustedhqf9ezsww2j.jpg\n제목: BORNTOSTANDOUT Opens|in a Bukchon Hanok\n부제: Fourth flagship · first café, 'Cafe Red Accord'\n출처: BORNTOSTANDOUT\n",
-      "caption": "BORNTOSTANDOUT has opened its fourth flagship inside a hanok in Bukchon.\n\nThe store follows Hannam, Samcheong and Seongsu in Korea. Inside, the hanok's rafters and pillars remain, and the brand has brought in its signature red and stainless steel next to Joseon-era antique furniture and giwa roof tiles. Traditional bedding and pillow cabinets now hold the fragrances.\n\nThe brand's first café, 'Cafe Red Accord,' sits by the courtyard with its stone pagoda. The brand says it designed the coffee the way it composes a perfume, from aroma and flavor through to the finish that lingers after each sip. At the bar-style drip station, guests can watch the coffee being brewed by hand.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #Hanok",
+      "form": "[카테고리]\n공간\n\n[캡션]\nBORNTOSTANDOUT has opened its fourth flagship inside a hanok in Bukchon.\n\nThe store follows the brand's Korean locations in Hannam, Samcheong and Seongsu. Inside a hanok that still has its original rafters and pillars, the brand has added its signature red and stainless steel, alongside Joseon-era antique furniture and giwa roof-tile details. Traditional quilt and pillow cabinets now hold the fragrances.\n\nBy the courtyard with its stone pagoda is the brand's first café, Cafe Red Accord. The brand says it designed the coffee the way it composes a perfume, from aroma and flavor to the finish that lingers after each sip. At the bar-style drip station, guests can watch each cup being brewed by hand.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #Hanok\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896280/xerdnunksxjvzzb127d9.jpg\n제목: BORNTOSTANDOUT Opens|a Bukchon Hanok Store\n부제: 4th Flagship · First Café, 'Cafe Red Accord'\n출처: BORNTOSTANDOUT\n",
+      "caption": "BORNTOSTANDOUT has opened its fourth flagship inside a hanok in Bukchon.\n\nThe store follows the brand's Korean locations in Hannam, Samcheong and Seongsu. Inside a hanok that still has its original rafters and pillars, the brand has added its signature red and stainless steel, alongside Joseon-era antique furniture and giwa roof-tile details. Traditional quilt and pillow cabinets now hold the fragrances.\n\nBy the courtyard with its stone pagoda is the brand's first café, Cafe Red Accord. The brand says it designed the coffee the way it composes a perfume, from aroma and flavor to the finish that lingers after each sip. At the bar-style drip station, guests can watch each cup being brewed by hand.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #Hanok",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896339/tka4xvlsscldoi7wykma.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896338/ru0k6yhgu4uv0mtzw8nm.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896428/rwi3ifzf0tldzwzkji3c.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896427/al9lq8n28ldhry3dhclp.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896339/tka4xvlsscldoi7wykma.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896428/rwi3ifzf0tldzwzkji3c.jpg"
        },
-       "at": "2026-10-25T11:45+09:00"
+       "at": "2026-10-25T11:47+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nボーントゥスタンドアウト（BORNTOSTANDOUT）が、北村の韓屋に4店舗目のフラッグシップストアをオープンしました。\n\n漢南・三清・聖水に続く韓国国内の店舗です。垂木や柱が残る韓屋に、ブランドを象徴する赤とステンレスを取り入れ、朝鮮時代の古家具や瓦タイルと組み合わせました。伝統的な布団棚や枕棚は、香水の陳列棚として使われています。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（Cafe Red Accord）」があります。ブランドによると、香水をつくるようにコーヒーの香りと風味、飲んだ後の余韻まで設計したとのことです。バー形式のドリップステーションでは、ハンドドリップの工程を見ることができます。\n\nオープン：10月20日（火）\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #韓国旅行 #ソウルカフェ #北村 #韓屋カフェ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896240/uwd4ustedhqf9ezsww2j.jpg\n제목: ボーントゥスタンドアウト、|北村の韓屋に新店舗\n부제: 4店舗目の旗艦店・初のカフェ「Cafe Red Accord」\n출처: BORNTOSTANDOUT\n",
-      "caption": "ボーントゥスタンドアウト（BORNTOSTANDOUT）が、北村の韓屋に4店舗目のフラッグシップストアをオープンしました。\n\n漢南・三清・聖水に続く韓国国内の店舗です。垂木や柱が残る韓屋に、ブランドを象徴する赤とステンレスを取り入れ、朝鮮時代の古家具や瓦タイルと組み合わせました。伝統的な布団棚や枕棚は、香水の陳列棚として使われています。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（Cafe Red Accord）」があります。ブランドによると、香水をつくるようにコーヒーの香りと風味、飲んだ後の余韻まで設計したとのことです。バー形式のドリップステーションでは、ハンドドリップの工程を見ることができます。\n\nオープン：10月20日（火）\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #韓国旅行 #ソウルカフェ #北村 #韓屋カフェ",
+      "form": "[카테고리]\n공간\n\n[캡션]\nボーン トゥ スタンド アウト（BORNTOSTANDOUT）が、北村（プクチョン）の韓屋に4店舗目の旗艦店をオープンしました。\n\n漢南（ハンナム）・三清（サムチョン）・聖水（ソンス）に続く韓国内の店舗で、垂木と柱が残る韓屋の中にブランドの赤とステンレスを取り入れ、朝鮮時代の古家具や瓦タイルを合わせました。伝統的な布団棚と枕棚は、香水の陳列台になっています。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（Cafe Red Accord）」があります。ブランドは、香水をつくるようにコーヒーの香りと風味、飲んだ後の余韻まで設計したと説明しています。バー形式のドリップステーションでは、ハンドドリップの過程を見ることができます。\n\nオープン：10月20日（火）\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #ボーントゥスタンドアウト #北村 #韓国旅行 #ソウルカフェ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896280/xerdnunksxjvzzb127d9.jpg\n제목: BORNTOSTANDOUT、|北村の韓屋に新店舗\n부제: 4店舗目の旗艦店・初のカフェ「カフェ・レッド・アコード」\n출처: BORNTOSTANDOUT\n",
+      "caption": "ボーン トゥ スタンド アウト（BORNTOSTANDOUT）が、北村（プクチョン）の韓屋に4店舗目の旗艦店をオープンしました。\n\n漢南（ハンナム）・三清（サムチョン）・聖水（ソンス）に続く韓国内の店舗で、垂木と柱が残る韓屋の中にブランドの赤とステンレスを取り入れ、朝鮮時代の古家具や瓦タイルを合わせました。伝統的な布団棚と枕棚は、香水の陳列台になっています。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（Cafe Red Accord）」があります。ブランドは、香水をつくるようにコーヒーの香りと風味、飲んだ後の余韻まで設計したと説明しています。バー形式のドリップステーションでは、ハンドドリップの過程を見ることができます。\n\nオープン：10月20日（火）\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #ボーントゥスタンドアウト #北村 #韓国旅行 #ソウルカフェ",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896341/jetd6sal0pbxo8klbfc2.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896341/v8txfue9m42piz38s8hj.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896430/ilaifjved73jn6tvnskz.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896430/emus5ocpq8xwxvytbley.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896341/jetd6sal0pbxo8klbfc2.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896430/ilaifjved73jn6tvnskz.jpg"
        },
-       "at": "2026-10-25T11:45+09:00"
+       "at": "2026-10-25T11:47+09:00"
       }
      }
     }
@@ -1172,7 +1172,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T11:45+09:00"
+  "at": "2026-10-25T11:47+09:00"
  },
  "slots": {
   "basis": 0,
