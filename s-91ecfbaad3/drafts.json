@@ -1717,59 +1717,62 @@
       "A": "fa1f7ede",
       "B": "3fc9ddf9",
       "C": "ebedd825",
-      "E": "35a44679",
-      "J": "ab19cff8"
+      "E": "c5c8d3fa",
+      "J": "391e8571"
      }
     }
    },
    "i18n_queued": "2026-10-25T19:54+09:00",
    "corner_name": "이슈",
    "i18n": {
-    "at": "2026-10-25T19:57+09:00",
+    "at": "2026-10-25T19:58+09:00",
     "confirm": [
-     "서울회생법원의 영어 표기는 'Seoul Bankruptcy Court'(법원 공식 영문명)로 썼고, 일본어는 그대로 옮긴 「ソウル回生法院」으로 썼습니다 — 일본어 공식 표기는 찾지 못했습니다",
-     "'위탁'은 영어 'run by partners', 일본어 「委託」으로 옮겼습니다",
-     "영어 맺음 줄 'Check:'와 일본어 「確認：」는 원문의 '확인:' 머리말을 따른 것입니다 (정해진 머리말 목록에는 없는 줄)",
-     "일본어 · 캡션 · 'メガボックス中央（JoongAng）'에서 괄호 안 표기가 조금 어색합니다. 일본 매체에서 쓰는 표기(メガボックス中央 그대로 둘지, 괄호에 Megabox JoongAng을 넣을지)를 한 번 봐 주세요"
+     "서울회생법원 영어 표기는 공식 명칭 'Seoul Bankruptcy Court'로, 일본어는 일본 매체가 흔히 쓰는 「ソウル回生法院」으로 옮겼습니다.",
+     "메가박스중앙의 공식 일본어 표기를 찾지 못해 「メガボックス中央」로 쓰고, 처음 한 번만 괄호에 원어를 넣었습니다.",
+     "'위탁'은 영어로 'run by consignment partners'로 옮겼습니다. 영어 매체(Bizhankook)는 'franchised'라고 씁니다.",
+     "원문 확인: 해지 신청을 낸 날을 비즈한국 한국어판은 '지난달 21일', 영어판은 '19일'로 적고 있습니다. 원문에는 날짜가 없어 번역에도 넣지 않았습니다.",
+     "원문 확인: 비즈한국 영어판은 1분기 기준 지점 수를 114곳으로 적고 있습니다. 원문의 '상반기 111곳(직영 42·위탁 69)'은 한국어 보도와 같습니다.",
+     "원문 확인: 검색으로는 법원이 해지를 허가했는지 알 수 없었습니다. 올리기 전에 최신 보도를 다시 확인해 주세요.",
+     "회생 절차 관련 속보성 소식 — 올리기 전 해지 대상 지점 공개 여부와 법원 허가 결과를 최신 보도로 다시 확인"
     ],
     "review": {
-     "at": "2026-10-25T19:57+09:00",
+     "at": "2026-10-25T19:58+09:00",
      "fixes": [
-      "일본어 · 표지 제목 둘째 줄 · 契約14件で解除を申請 → 契約14件の解除を申請 — 조사 'で'가 어색함(직역투), 원문 '계약 14건 해지 신청'에 맞춰 'の'로 고침"
+      "영어 · 캡션 셋째 단락 · if you have a regular Megabox → if there is a Megabox you go to often — 'a regular Megabox'가 '일반 메가박스(특별관이 아닌)'로도 읽혀 어색함"
      ],
      "doubt": [
-      "일본어 · 캡션 · 'メガボックス中央（JoongAng）'에서 괄호 안 표기가 조금 어색합니다. 일본 매체에서 쓰는 표기(メガボックス中央 그대로 둘지, 괄호에 Megabox JoongAng을 넣을지)를 한 번 봐 주세요"
+      "회생 절차 관련 속보성 소식 — 올리기 전 해지 대상 지점 공개 여부와 법원 허가 결과를 최신 보도로 다시 확인"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\nMegabox (@megaboxon) is moving to end 14 leases for theaters it runs directly.\n\nMegabox JoongAng, the chain's operator, is going through court-led rehabilitation. It has asked the Seoul Bankruptcy Court for permission to terminate 14 lease and sublease contracts for directly operated locations. Since the process began, the Sinchon and Dongdaemun branches in Seoul have already closed, both in September. Dongdaemun, which opened in 2008, held its last screening on Sept 30.\n\nAs of the first half of this year, Megabox had 111 locations, according to reports: 42 run directly and 69 run by partners. If every contract in the filing leads to a closure, the chain could drop below 100 locations. The affected theaters have not been named yet, so if you have a regular branch, it is worth checking its notices first.\n\nFiling: Megabox JoongAng → Seoul Bankruptcy Court (permission to terminate 14 direct-run leases)\nAlready closed: Sinchon and Dongdaemun (September)\nCheck: Theater notices on the Megabox app and website\n#SENE #Megabox #KoreanCinema #Seoul #Sinchon #Dongdaemun\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925671/cfuiat5nd1nlynkzxp4a.jpg\n제목: Megabox Seeks to End|14 Direct-Run Leases\n부제: More theaters may close after Sinchon and Dongdaemun\n출처: @megaboxon\n",
-      "caption": "Megabox (@megaboxon) is moving to end 14 leases for theaters it runs directly.\n\nMegabox JoongAng, the chain's operator, is going through court-led rehabilitation. It has asked the Seoul Bankruptcy Court for permission to terminate 14 lease and sublease contracts for directly operated locations. Since the process began, the Sinchon and Dongdaemun branches in Seoul have already closed, both in September. Dongdaemun, which opened in 2008, held its last screening on Sept 30.\n\nAs of the first half of this year, Megabox had 111 locations, according to reports: 42 run directly and 69 run by partners. If every contract in the filing leads to a closure, the chain could drop below 100 locations. The affected theaters have not been named yet, so if you have a regular branch, it is worth checking its notices first.\n\nFiling: Megabox JoongAng → Seoul Bankruptcy Court (permission to terminate 14 direct-run leases)\nAlready closed: Sinchon and Dongdaemun (September)\nCheck: Theater notices on the Megabox app and website\n#SENE #Megabox #KoreanCinema #Seoul #Sinchon #Dongdaemun",
+      "form": "[카테고리]\n이슈\n\n[캡션]\nMegabox (@megaboxon) is moving to end 14 contracts for its company-run theaters.\n\nMegabox JoongAng, the operator now in court-led rehabilitation, has asked the Seoul Bankruptcy Court for permission to terminate 14 lease and sublease agreements for its directly operated theaters. Since the proceedings began, its Sinchon and Dongdaemun locations in Seoul have already closed, both in September. The Dongdaemun theater, open since 2008, held its last screening on Sept 30.\n\nAccording to reports, Megabox had 111 locations as of the first half of this year: 42 company-run and 69 run by consignment partners. If all 14 contracts end in closures, the total could drop below 100. The affected theaters have not been named yet, so if there is a Megabox you go to often, check its notices first.\n\nFiling: Megabox JoongAng → Seoul Bankruptcy Court (permission to terminate 14 company-run theater contracts)\nAlready closed: Sinchon and Dongdaemun (September)\nCheck: Theater notices on the Megabox app and website\n#SENE #Megabox #MovieTheater #Sinchon #Dongdaemun\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925671/cfuiat5nd1nlynkzxp4a.jpg\n제목: Megabox Seeks to Cancel|14 Company-Run Leases\n부제: More theaters may close after Sinchon and Dongdaemun\n출처: @megaboxon\n",
+      "caption": "Megabox (@megaboxon) is moving to end 14 contracts for its company-run theaters.\n\nMegabox JoongAng, the operator now in court-led rehabilitation, has asked the Seoul Bankruptcy Court for permission to terminate 14 lease and sublease agreements for its directly operated theaters. Since the proceedings began, its Sinchon and Dongdaemun locations in Seoul have already closed, both in September. The Dongdaemun theater, open since 2008, held its last screening on Sept 30.\n\nAccording to reports, Megabox had 111 locations as of the first half of this year: 42 company-run and 69 run by consignment partners. If all 14 contracts end in closures, the total could drop below 100. The affected theaters have not been named yet, so if there is a Megabox you go to often, check its notices first.\n\nFiling: Megabox JoongAng → Seoul Bankruptcy Court (permission to terminate 14 company-run theater contracts)\nAlready closed: Sinchon and Dongdaemun (September)\nCheck: Theater notices on the Megabox app and website\n#SENE #Megabox #MovieTheater #Sinchon #Dongdaemun",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925852/xskgxnfjxys5opl3jk8y.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925852/p5hqr8ucbttbh6avylko.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925940/p0ulkgp336w45yqw6kss.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925939/wz4onhwp9baipz2gyd3b.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925852/xskgxnfjxys5opl3jk8y.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925940/p0ulkgp336w45yqw6kss.jpg"
        },
-       "at": "2026-10-25T19:57+09:00"
+       "at": "2026-10-25T19:59+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\nメガボックス（@megaboxon）が直営映画館の契約14件を整理しようとしています。\n\n企業再生手続き中の運営会社メガボックス中央（JoongAng）は、ソウル回生法院に直営館の賃貸借・転貸借契約14件の解除許可を申請しました。再生手続きに入ってから、ソウル・新村（シンチョン）店と東大門（トンデムン）店はすでに9月に閉館しています。2008年にオープンした東大門店は、9月30日が最後の上映でした。\n\n報道によると、今年上半期の時点でメガボックスは111館、うち直営が42館、委託が69館でした。申請した契約がすべて営業終了につながれば、館数は100館を下回る可能性があります。どの映画館が対象かはまだ明らかになっていないため、よく行く館があれば、まずお知らせを確認しておくとよさそうです。\n\n申請：メガボックス中央 → ソウル回生法院（直営館の契約14件の解除許可）\n閉館済み：新村店・東大門店（9月）\n確認：メガボックスのアプリ・公式サイトの劇場のお知らせ\n#SENE #メガボックス #韓国映画館 #韓国旅行 #新村 #東大門\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925671/cfuiat5nd1nlynkzxp4a.jpg\n제목: メガボックス、直営館の|契約14件の解除を申請\n부제: 新村・東大門に続き、映画館がさらに減るかもしれません\n출처: @megaboxon\n",
-      "caption": "メガボックス（@megaboxon）が直営映画館の契約14件を整理しようとしています。\n\n企業再生手続き中の運営会社メガボックス中央（JoongAng）は、ソウル回生法院に直営館の賃貸借・転貸借契約14件の解除許可を申請しました。再生手続きに入ってから、ソウル・新村（シンチョン）店と東大門（トンデムン）店はすでに9月に閉館しています。2008年にオープンした東大門店は、9月30日が最後の上映でした。\n\n報道によると、今年上半期の時点でメガボックスは111館、うち直営が42館、委託が69館でした。申請した契約がすべて営業終了につながれば、館数は100館を下回る可能性があります。どの映画館が対象かはまだ明らかになっていないため、よく行く館があれば、まずお知らせを確認しておくとよさそうです。\n\n申請：メガボックス中央 → ソウル回生法院（直営館の契約14件の解除許可）\n閉館済み：新村店・東大門店（9月）\n確認：メガボックスのアプリ・公式サイトの劇場のお知らせ\n#SENE #メガボックス #韓国映画館 #韓国旅行 #新村 #東大門",
+      "form": "[카테고리]\n이슈\n\n[캡션]\nメガボックス（@megaboxon）が、直営劇場の契約14件を整理しようとしています。\n\n企業回生手続き中の運営会社メガボックス中央（메가박스중앙）が、ソウル回生法院に直営館の賃貸借・転貸借契約14件の解除許可を申請しました。回生手続きに入ってから、ソウルの新村（シンチョン）店と東大門（トンデムン）店はすでに9月に閉館しています。2008年に開業した東大門店は、9月30日が最後の上映でした。\n\n報道によると、今年上半期時点でメガボックスの劇場は111館、うち直営が42館、委託が69館でした。申請した契約がすべて営業終了につながれば、劇場数は100館を下回る可能性があります。どの劇場が対象かはまだ明らかになっていないため、よく行く劇場があれば、まずお知らせを確認しておくとよさそうです。\n\n申請：メガボックス中央 → ソウル回生法院（直営館の契約14件の解除許可）\n閉館済み：新村店・東大門店（9月）\n確認：メガボックスのアプリ・公式サイトの劇場のお知らせ\n#SENE #メガボックス #韓国映画館 #ソウル #新村 #東大門\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925671/cfuiat5nd1nlynkzxp4a.jpg\n제목: メガボックス、直営館|14件の契約解除を申請\n부제: 新村・東大門に続き、閉館する劇場が増える可能性があります\n출처: @megaboxon\n",
+      "caption": "メガボックス（@megaboxon）が、直営劇場の契約14件を整理しようとしています。\n\n企業回生手続き中の運営会社メガボックス中央（메가박스중앙）が、ソウル回生法院に直営館の賃貸借・転貸借契約14件の解除許可を申請しました。回生手続きに入ってから、ソウルの新村（シンチョン）店と東大門（トンデムン）店はすでに9月に閉館しています。2008年に開業した東大門店は、9月30日が最後の上映でした。\n\n報道によると、今年上半期時点でメガボックスの劇場は111館、うち直営が42館、委託が69館でした。申請した契約がすべて営業終了につながれば、劇場数は100館を下回る可能性があります。どの劇場が対象かはまだ明らかになっていないため、よく行く劇場があれば、まずお知らせを確認しておくとよさそうです。\n\n申請：メガボックス中央 → ソウル回生法院（直営館の契約14件の解除許可）\n閉館済み：新村店・東大門店（9月）\n確認：メガボックスのアプリ・公式サイトの劇場のお知らせ\n#SENE #メガボックス #韓国映画館 #ソウル #新村 #東大門",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925855/e1pmckbny72qyabvsccs.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925854/z0jfprtaavdwz7ka4e6m.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925943/okdznk3msomvmii6tlcp.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925943/iut8a12ulgaehgqfjpdr.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925855/e1pmckbny72qyabvsccs.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925943/okdznk3msomvmii6tlcp.jpg"
        },
-       "at": "2026-10-25T19:57+09:00"
+       "at": "2026-10-25T19:59+09:00"
       }
      }
     }
@@ -1904,7 +1907,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T19:57+09:00"
+  "at": "2026-10-25T19:59+09:00"
  },
  "slots": {
   "basis": 0,
