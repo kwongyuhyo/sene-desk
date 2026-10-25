@@ -1575,8 +1575,8 @@
       "A": "b17b0b27",
       "B": "05bd1f97",
       "C": "abc78105",
-      "E": "02c62f11",
-      "J": "2d62d509"
+      "E": "dc417f46",
+      "J": "2bc37c6a"
      }
     },
     "photo_tried": {
@@ -1594,52 +1594,61 @@
    "i18n_queued": "2026-10-25T19:48+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-25T20:05+09:00",
+    "at": "2026-10-25T20:07+09:00",
     "confirm": [
-     "상어 이름 영문 표기: 외신마다 'Bukang-i'·'Bukhangi'·'Bukangi' 로 다르게 씁니다. 부산시 공식 영문 표기를 찾지 못해 한국어 발음대로 'Bukang-i' 로 썼습니다. 일본어 'プカンイ' 와 'North Port Waterfront Park' / '北港親水公園' 도 공식 표기를 확인하지 못했습니다.",
-     "이모티콘 이름 '샤플루언서 부캉이 부산왔데이!' 는 뜻을 살려 옮기고 원어를 괄호에 함께 적었습니다. 원문에 있던 느낌표는 이름의 일부라 그대로 두었습니다.",
-     "일본어판의 '이모티콘' 은 일본 독자에게 익숙한 'スタンプ' 로 옮겼습니다. 원어에 가깝게 가려면 '絵文字' 로 바꾸면 됩니다.",
-     "10월 20일 무렵 부산시가 상어를 바다로 돌려보내겠다고 밝혔다는 보도가 있습니다. 바다로 돌아갔는지에 따라 '머물며' 같은 표현이 맞는지, 그리고 배포 일정이 그대로인지 올리기 전 부산시 공지에서 다시 확인해 주세요.",
-     "영어 · 이모티콘 공식 이름 'Has Come to Busan!' 의 느낌표는 부산시가 붙인 이름(부산왔데이!)을 옮긴 것이라 그대로 뒀습니다 — 지침의 느낌표 금지와 부딪히는지 사람이 한 번 판단해 주세요",
-     "공통 · 10월 초 영어 기사(The Star)는 부캉이를 바다로 옮기려는 시도를 다뤘습니다. '한 달 넘게 머물며'가 올리는 날에도 맞는지 최신 소식을 다시 확인해 주세요"
+     "영어 'Bukang-i' 는 Korea Times·AsiaNews 영문 보도 표기를 따랐습니다. 일본어 'プカンイ' 는 공식 일본어 표기를 찾지 못해 カタカナ 로 옮기고 처음 한 번 괄호 안에 원어를 붙였습니다.",
+     "이모티콘 이름 '샤플루언서 부캉이 부산왔데이!' 는 공식 영어·일본어 이름을 찾지 못했습니다. 원어를 그대로 두고 괄호 안에 뜻풀이만 붙였습니다 (이름 안의 느낌표는 원래 이름이라 남겼습니다).",
+     "'북항 친수공원' 은 North Port Waterfront Park · 北港親水公園 으로 옮겼습니다. 공식 외국어 이름인지는 확인하지 못했습니다.",
+     "10월 26일이 월요일인 것은 달력으로 확인했습니다. 제목의 '내일부터'(Tomorrow·明日から) 는 10월 25일에 올릴 때만 맞습니다.",
+     "캐릭터 이름 로마자(Bukang-i / 해시태그 #Bukangi)와 일본어 표기 プカンイ 는 이번 검수에서 웹으로 확인하지 못했습니다. 부산시가 정한 공식 영문·일본어 표기가 있는지 올리기 전에 봐 주세요",
+     "영어 이모티콘 제목 'Sharkfluencer Bukang-i Has Come to Busan' 은 공식 이름이 아니라 의역입니다. 카카오톡 안에서 찾을 때는 한국어 제목만 쓰입니다",
+     "배포 시작이 '내일(10월 26일)'로 되어 있으니 10월 25일에 올리는지 꼭 확인해 주세요. 날짜가 넘어가면 제목의 Tomorrow·明日から 도 함께 고쳐야 합니다",
+     "영어 'North Port Waterfront Park' 와 일본어 '北港親水公園' 이 공식 표기인지 확인해 주세요 (북항 친수공원)",
+     "일본어판 캡션에 한글이 남음"
     ],
     "review": {
-     "at": "2026-10-25T20:05+09:00",
-     "fixes": [],
+     "at": "2026-10-25T20:07+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · 한글 이모티콘 제목 '샤플루언서 부캉이 부산왔데이!' 를 지우고 영어 제목으로 바꿈 + '원래 제목은 부산 사투리' 설명 — 영어판에 한글이 남아 있었고, 'roughly' 를 단 의역에 느낌표까지 붙어 있었음",
+      "일본어 · 캡션 둘째 단락 · '〜なったサメですが、釜山市が〜' → '〜なったサメです。釜山市は、職員が手作りした〜' — '~인데요' 를 그대로 옮긴 직역투라 두 문장으로 나눔"
+     ],
      "doubt": [
-      "영어 · 이모티콘 공식 이름 'Has Come to Busan!' 의 느낌표는 부산시가 붙인 이름(부산왔데이!)을 옮긴 것이라 그대로 뒀습니다 — 지침의 느낌표 금지와 부딪히는지 사람이 한 번 판단해 주세요",
-      "공통 · 10월 초 영어 기사(The Star)는 부캉이를 바다로 옮기려는 시도를 다뤘습니다. '한 달 넘게 머물며'가 올리는 날에도 맞는지 최신 소식을 다시 확인해 주세요"
+      "캐릭터 이름 로마자(Bukang-i / 해시태그 #Bukangi)와 일본어 표기 プカンイ 는 이번 검수에서 웹으로 확인하지 못했습니다. 부산시가 정한 공식 영문·일본어 표기가 있는지 올리기 전에 봐 주세요",
+      "영어 이모티콘 제목 'Sharkfluencer Bukang-i Has Come to Busan' 은 공식 이름이 아니라 의역입니다. 카카오톡 안에서 찾을 때는 한국어 제목만 쓰입니다",
+      "배포 시작이 '내일(10월 26일)'로 되어 있으니 10월 25일에 올리는지 꼭 확인해 주세요. 날짜가 넘어가면 제목의 Tomorrow·明日から 도 함께 고쳐야 합니다",
+      "영어 'North Port Waterfront Park' 와 일본어 '北港親水公園' 이 공식 표기인지 확인해 주세요 (북항 친수공원)",
+      "일본어판 캡션에 한글이 남음"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\nBukang-i, the shark of Busan's North Port, is becoming a set of KakaoTalk emoticons.\n\nThe shark was first spotted on Sep 18 in the artificial canal at North Port Waterfront Park, Busan, and stayed for more than a month, even becoming an honorary ambassador for the city. Busan Metropolitan City is now giving away 16 free animated emoticons made by its own officials, titled 'Sharkfluencer Bukang-i Has Come to Busan!' (샤플루언서 부캉이 부산왔데이!).\n\nThey are available to users who newly add Busan's official KakaoTalk channel, and can be used for 30 days from the download date. If you miss the first-come window, Bukang-i images are still available with no time limit as wallpapers and stickers under the 'Digital Goods' menu on the Busan city website.\n\nRelease: From Oct 26 (Mon), 2 p.m., first 50,000 users\nHow to get: Newly add Busan's official KakaoTalk channel\nValid for: 30 days from download\nPrice: Free\n#SENE #Busan #Bukangi #BusanShark #KakaoTalk #KoreaTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925329/vcqgtoolomuhyeymritl.jpg\n제목: Busan's Shark Bukang-i|on KakaoTalk Tomorrow\n부제: Oct 26, 2 p.m. · Free for First 50,000\n출처: @busancity\n",
-      "caption": "Bukang-i, the shark of Busan's North Port, is becoming a set of KakaoTalk emoticons.\n\nThe shark was first spotted on Sep 18 in the artificial canal at North Port Waterfront Park, Busan, and stayed for more than a month, even becoming an honorary ambassador for the city. Busan Metropolitan City is now giving away 16 free animated emoticons made by its own officials, titled 'Sharkfluencer Bukang-i Has Come to Busan!' (샤플루언서 부캉이 부산왔데이!).\n\nThey are available to users who newly add Busan's official KakaoTalk channel, and can be used for 30 days from the download date. If you miss the first-come window, Bukang-i images are still available with no time limit as wallpapers and stickers under the 'Digital Goods' menu on the Busan city website.\n\nRelease: From Oct 26 (Mon), 2 p.m., first 50,000 users\nHow to get: Newly add Busan's official KakaoTalk channel\nValid for: 30 days from download\nPrice: Free\n#SENE #Busan #Bukangi #BusanShark #KakaoTalk #KoreaTravel",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nBukang-i, the shark of Busan's North Port, is coming to KakaoTalk as an emoticon set.\n\nThe shark was first spotted on Sept 18 in the artificial canal at North Port Waterfront Park, has stayed for more than a month, and has since been named an honorary ambassador for Busan. Busan Metropolitan City is now giving away 16 free animated emoticons made by its own city employees, titled 'Sharkfluencer Bukang-i Has Come to Busan' (the original title is in Busan dialect).\n\nTo get them, add Busan City's official KakaoTalk channel as a new friend. The set works for 30 days from the day you download it. If you miss the first 50,000, you can still get Bukang-i images as wallpapers or stickers from the 'Digital Goods' menu on the Busan City website, with no end date.\n\nRelease: Oct 26 (Mon), from 2 p.m., first 50,000 users\nHow to get: Add Busan City's official KakaoTalk channel as a new friend\nValid for: 30 days from download\nPrice: Free\n#SENE #Bukangi #Busan #BusanTravel #KakaoTalk\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925329/vcqgtoolomuhyeymritl.jpg\n제목: Busan Shark Bukang-i|Hits KakaoTalk Tomorrow\n부제: Oct 26, 2 p.m. · Free for the First 50,000\n출처: @busancity\n",
+      "caption": "Bukang-i, the shark of Busan's North Port, is coming to KakaoTalk as an emoticon set.\n\nThe shark was first spotted on Sept 18 in the artificial canal at North Port Waterfront Park, has stayed for more than a month, and has since been named an honorary ambassador for Busan. Busan Metropolitan City is now giving away 16 free animated emoticons made by its own city employees, titled 'Sharkfluencer Bukang-i Has Come to Busan' (the original title is in Busan dialect).\n\nTo get them, add Busan City's official KakaoTalk channel as a new friend. The set works for 30 days from the day you download it. If you miss the first 50,000, you can still get Bukang-i images as wallpapers or stickers from the 'Digital Goods' menu on the Busan City website, with no end date.\n\nRelease: Oct 26 (Mon), from 2 p.m., first 50,000 users\nHow to get: Add Busan City's official KakaoTalk channel as a new friend\nValid for: 30 days from download\nPrice: Free\n#SENE #Bukangi #Busan #BusanTravel #KakaoTalk",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926331/l7my7pvfu60h1efbgfnl.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926328/yxff1qch2ctotmalkl1z.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926427/jtjadppczef71yz2rzsg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926427/rpzznu4y31hhdh2gw7xz.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926331/l7my7pvfu60h1efbgfnl.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926427/jtjadppczef71yz2rzsg.jpg"
        },
-       "at": "2026-10-25T20:05+09:00"
+       "at": "2026-10-25T20:07+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\n釜山・北港（プッカン）のサメ、プカンイ（부캉이）がカカオトークのスタンプになります。\n\n9月18日に北港親水公園の人工水路で初めて見つかり、1か月以上とどまって釜山市の名誉広報大使にもなったサメですが、釜山市は職員が自ら制作した動くスタンプ「シャーフルエンサー・プカンイ、釜山に来たで！（샤플루언서 부캉이 부산왔데이!）」16種を無料で配布します。\n\n釜山市公式カカオトークチャンネルを新たに追加すると受け取ることができ、ダウンロードした日から30日間使えます。先着に間に合わなくても、釜山市公式サイトの「デジタルグッズ」メニューから、プカンイの画像を期限なしで壁紙やステッカーとして受け取れます。\n\n配布：10月26日（月）午後2時から、先着5万人\n受け取り方：釜山市公式カカオトークチャンネルを新たに追加\n使用期間：ダウンロードした日から30日間\n価格：無料\n#SENE #釜山 #釜山旅行 #韓国旅行 #カカオトーク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925329/vcqgtoolomuhyeymritl.jpg\n제목: サメのプカンイ、明日から|カカオトークのスタンプに\n부제: 10月26日午後2時・先着5万人無料\n출처: @busancity\n",
-      "caption": "釜山・北港（プッカン）のサメ、プカンイ（부캉이）がカカオトークのスタンプになります。\n\n9月18日に北港親水公園の人工水路で初めて見つかり、1か月以上とどまって釜山市の名誉広報大使にもなったサメですが、釜山市は職員が自ら制作した動くスタンプ「シャーフルエンサー・プカンイ、釜山に来たで！（샤플루언서 부캉이 부산왔데이!）」16種を無料で配布します。\n\n釜山市公式カカオトークチャンネルを新たに追加すると受け取ることができ、ダウンロードした日から30日間使えます。先着に間に合わなくても、釜山市公式サイトの「デジタルグッズ」メニューから、プカンイの画像を期限なしで壁紙やステッカーとして受け取れます。\n\n配布：10月26日（月）午後2時から、先着5万人\n受け取り方：釜山市公式カカオトークチャンネルを新たに追加\n使用期間：ダウンロードした日から30日間\n価格：無料\n#SENE #釜山 #釜山旅行 #韓国旅行 #カカオトーク",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\n釜山・北港（プッカン）に現れたサメのプカンイ（부캉이）が、カカオトークのスタンプになります。\n\n9月18日に北港親水公園の人工水路で初めて見つかり、そのまま1か月以上とどまって釜山市の名誉広報大使にもなったサメです。釜山市は、職員が手作りした動くスタンプ「샤플루언서 부캉이 부산왔데이!（シャフルエンサー・プカンイ、釜山に来たで！）」16種を無料で配布します。\n\n釜山市公式カカオトークチャンネルを新しく友だち追加するともらえ、ダウンロードした日から30日間使えます。先着に間に合わなくても、釜山市公式サイトの「デジタルグッズ」メニューから、プカンイの画像を壁紙やステッカーとして期限なしで受け取れます。\n\n配布：10月26日（月）午後2時から、先着5万人\n受け取り方：釜山市公式カカオトークチャンネルを新しく友だち追加\n使用期間：ダウンロード日から30日間\n価格：無料\n#SENE #釜山 #釜山旅行 #韓国旅行 #カカオトーク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925329/vcqgtoolomuhyeymritl.jpg\n제목: サメのプカンイが明日から|カカオトークのスタンプに\n부제: 10月26日午後2時・先着5万人無料\n출처: @busancity\n",
+      "caption": "釜山・北港（プッカン）に現れたサメのプカンイ（부캉이）が、カカオトークのスタンプになります。\n\n9月18日に北港親水公園の人工水路で初めて見つかり、そのまま1か月以上とどまって釜山市の名誉広報大使にもなったサメです。釜山市は、職員が手作りした動くスタンプ「샤플루언서 부캉이 부산왔데이!（シャフルエンサー・プカンイ、釜山に来たで！）」16種を無料で配布します。\n\n釜山市公式カカオトークチャンネルを新しく友だち追加するともらえ、ダウンロードした日から30日間使えます。先着に間に合わなくても、釜山市公式サイトの「デジタルグッズ」メニューから、プカンイの画像を壁紙やステッカーとして期限なしで受け取れます。\n\n配布：10月26日（月）午後2時から、先着5万人\n受け取り方：釜山市公式カカオトークチャンネルを新しく友だち追加\n使用期間：ダウンロード日から30日間\n価格：無料\n#SENE #釜山 #釜山旅行 #韓国旅行 #カカオトーク",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926354/kterypwcylhrk2w8uy3k.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926353/cxgmhwlc0xa4mzco6u5x.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926430/yjigqc3hlhlx5ex7fxcw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926429/nkxamsndw2t06scd2k99.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926354/kterypwcylhrk2w8uy3k.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792926430/yjigqc3hlhlx5ex7fxcw.jpg"
        },
-       "at": "2026-10-25T20:05+09:00"
+       "at": "2026-10-25T20:07+09:00"
       }
      }
     }
@@ -1960,7 +1969,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T20:05+09:00"
+  "at": "2026-10-25T20:07+09:00"
  },
  "slots": {
   "basis": 0,
