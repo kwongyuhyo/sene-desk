@@ -2273,7 +2273,9 @@
      "v": {
       "A": "2ef0c4e7",
       "B": "9894c126",
-      "C": "98e3345a"
+      "C": "98e3345a",
+      "E": "b41d5c7d",
+      "J": "cdd45e1a"
      }
     }
    },
@@ -2339,7 +2341,79 @@
     }
    },
    "i18n_queued": "2026-10-26T03:46+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-26T03:48+09:00",
+    "confirm": [
+     "용산문화재단의 공식 영어·일본어 표기를 찾지 못했습니다. 영어는 'Yongsan Cultural Foundation', 일본어는 '龍山文化財団' 으로 옮겼습니다.",
+     "작가의 일본어 표기 'ヨン・ヨイン' 은 공식 표기를 확인하지 못해 로마자 'Yeon Yeo-in'(코리아중앙데일리 표기)을 읽은 대로 적었습니다.",
+     "'1층 팝업홀'의 공식 영어 표기를 확인하지 못해 'Pop-up Hall' 로 직역했습니다.",
+     "10월 24일과 11월 28일이 토요일인 것은 맞습니다. 다만 원문의 개막일·운영 시간은 이번 번역에서 따로 다시 확인하지 않았습니다.",
+     "숏폼 세 줄은 후킹 → 아티스트 → 곡 칸 순서로 읽으면 한 문장이 되도록 옮겼습니다.",
+     "용산문화재단의 공식 영어 이름을 확인하지 못했습니다. 장소 소개 페이지에 'Yongsan Foundation for Arts & Culture' 꼴의 표기가 보여 지금의 'Yongsan Cultural Foundation'과 다를 수 있습니다. 재단 공식 사이트에서 확인 필요",
+     "〈어쩔수가없다〉의 일본 개봉 제목 『しあわせな選択』을 이번 검색으로는 확인하지 못했습니다. 일본 배급사·eiga.com에서 확인 필요",
+     "작가 이름 영어 표기 'Yeon Yeo-in'과 일본어 표기 'ヨン・ヨイン'이 작가·갤러리(DIA Contemporary)의 공식 표기와 같은지 확인하지 못했습니다",
+     "일본어 · 숏폼 후킹 '描き続けていけば'는 원문 '계속 작업하다 보면'보다 '그리기'로 좁혀 옮긴 것입니다. 영상 속 실제 말과 맞는지 자막으로 확인 필요"
+    ],
+    "review": {
+     "at": "2026-10-26T03:48+09:00",
+     "fixes": [
+      "일본어 · 표지 제목 · 'ヨン・ヨイン個展' → 'ヨン・ヨイン個展〈Green Room〉' — 원문에 있는 전시 제목 '그린룸'이 빠져 있었음",
+      "영어 · 표지 제목 · Yeon Yeo-in's Green Room → Yeon Yeo-in's 'Green Room' — 따옴표가 없으면 작가 소유의 대기실로도 읽힘",
+      "영어 · 부제 · 'Free, at … through Nov 28' → 'Through Nov 28 at … · Free' — 어순이 어색했고 원문 순서(기간 · 장소 · 무료)에 맞춤",
+      "영어 · 캡션·숏폼 캡션 · 〈 〉 → ' ' (Green Room·No Other Choice·The House That My Mother Built) — 영어권 독자에게 낯선 괄호라서",
+      "영어 · 캡션·숏폼 캡션 · 'Yeon Yeo-in's (@yeo1n)' → 'Yeon Yeo-in (@yeo1n)'s' — 소유격이 핸들 앞에서 끊겨 어색했음",
+      "영어 · 캡션·숏폼 캡션 · she/her → Yeon — 원문에 작가 성별이 나오지 않는데 영어판이 she로 단정하고 있었음",
+      "영어 · 캡션 · 'backstage waiting room where … wait' → 'backstage room where … wait' — wait가 겹쳐 나왔음"
+     ],
+     "doubt": [
+      "용산문화재단의 공식 영어 이름을 확인하지 못했습니다. 장소 소개 페이지에 'Yongsan Foundation for Arts & Culture' 꼴의 표기가 보여 지금의 'Yongsan Cultural Foundation'과 다를 수 있습니다. 재단 공식 사이트에서 확인 필요",
+      "〈어쩔수가없다〉의 일본 개봉 제목 『しあわせな選択』을 이번 검색으로는 확인하지 못했습니다. 일본 배급사·eiga.com에서 확인 필요",
+      "작가 이름 영어 표기 'Yeon Yeo-in'과 일본어 표기 'ヨン・ヨイン'이 작가·갤러리(DIA Contemporary)의 공식 표기와 같은지 확인하지 못했습니다",
+      "일본어 · 숏폼 후킹 '描き続けていけば'는 원문 '계속 작업하다 보면'보다 '그리기'로 좁혀 옮긴 것입니다. 영상 속 실제 말과 맞는지 자막으로 확인 필요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nArtist Yeon Yeo-in (@yeo1n)'s solo exhibition 'Green Room' is now on view at the Yongsan Cultural Foundation in Hannam-dong, Seoul.\n\nA green room is the backstage room where actors and performers wait their turn before going on stage. Yeon paints it as a place to prepare for life's turning points and new beginnings. Last year, Yeon also painted the poster for Park Chan-wook's film 'No Other Choice'.\n\nFourteen paintings, including new works, hang in the Pop-up Hall on the foundation's first floor. The show is organized with local gallery DIA Contemporary, and a docent program walks visitors through the works.\n\nDates: Oct 24 (Sat) – Nov 28 (Sat)\nLocation: Pop-up Hall, 1F, Yongsan Cultural Foundation, 274 Itaewon-ro, Yongsan-gu, Seoul (Hannam-dong)\nHours: 10 a.m. – 6 p.m. (closed Sundays)\nAdmission: Free\n#SENE #SeoulExhibition #Hannamdong #SeoulArt #YeonYeoin\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792953975/vqidmsd6j2nbile5xxxh.jpg\n제목: Yeon Yeo-in's 'Green Room'|Opens in Hannam-dong\n부제: Through Nov 28 at Yongsan Cultural Foundation · Free\n출처: @yeo1n\n",
+      "caption": "Artist Yeon Yeo-in (@yeo1n)'s solo exhibition 'Green Room' is now on view at the Yongsan Cultural Foundation in Hannam-dong, Seoul.\n\nA green room is the backstage room where actors and performers wait their turn before going on stage. Yeon paints it as a place to prepare for life's turning points and new beginnings. Last year, Yeon also painted the poster for Park Chan-wook's film 'No Other Choice'.\n\nFourteen paintings, including new works, hang in the Pop-up Hall on the foundation's first floor. The show is organized with local gallery DIA Contemporary, and a docent program walks visitors through the works.\n\nDates: Oct 24 (Sat) – Nov 28 (Sat)\nLocation: Pop-up Hall, 1F, Yongsan Cultural Foundation, 274 Itaewon-ro, Yongsan-gu, Seoul (Hannam-dong)\nHours: 10 a.m. – 6 p.m. (closed Sundays)\nAdmission: Free\n#SENE #SeoulExhibition #Hannamdong #SeoulArt #YeonYeoin",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792954124/dwmuwnbk4w45twq2gkyv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792954124/i5shgltvcriy24vqbgr2.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792954124/dwmuwnbk4w45twq2gkyv.jpg"
+       },
+       "at": "2026-10-26T03:48+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=DE8H52Dv068\n구간: 4:30-5:05\n곡: even better work\n아티스트: I think I can make\n피처링:\n후킹: If I keep working,\n출처: DIA Contemporary\n자막: 자동",
+      "caption": "Artist Yeon Yeo-in (@yeo1n)'s solo exhibition 'Green Room' is now on view at the Yongsan Cultural Foundation in Hannam-dong, Seoul.\n\nThe video is an interview from Yeon's solo show 'The House That My Mother Built' at DIA Contemporary last year. Speaking about that exhibition, which marked a return to painting after some time, Yeon says it brought the hope that with continued work, even better work will follow.\n\nThe green room in this exhibition is the waiting room where performers wait their turn before going on stage. Yeon paints it as a place to prepare for a new beginning, and fourteen paintings, including new works, are on display.\n\nDates: Oct 24 (Sat) – Nov 28 (Sat)\nLocation: Pop-up Hall, 1F, Yongsan Cultural Foundation, 274 Itaewon-ro, Yongsan-gu, Seoul (Hannam-dong)\nHours: 10 a.m. – 6 p.m. (closed Sundays)\nAdmission: Free\n#SENE #SeoulExhibition #Hannamdong #SeoulArt #YeonYeoin"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nヨン・ヨイン（연여인、@yeo1n）さんの個展〈Green Room〉が、ソウル・漢南洞（ハンナムドン）の龍山文化財団（용산문화재단）で開かれています。\n\nグリーンルームとは、俳優や出演者が舞台に上がる前に出番を待つ控え室のことです。作家はこの空間を、人生の転換と新しい始まりに備える場所として描きました。昨年、パク・チャヌク監督の映画『しあわせな選択』のポスターを手がけた作家でもあります。\n\n新作を含む絵画14点が、財団1階のポップアップホールに並びます。地元のギャラリー、ディア・コンテンポラリーと共に企画した展示で、作品を解説するドーセントプログラムも行われます。\n\n期間：10月24日（土）〜11月28日（土）\n場所：ソウル市龍山区梨泰院路274 龍山文化財団 1階ポップアップホール（漢南洞）\n営業時間：午前10時〜午後6時（日曜休館）\n観覧料：無料\n#SENE #韓国旅行 #ソウル展示 #漢南洞 #ヨンヨイン\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792953975/vqidmsd6j2nbile5xxxh.jpg\n제목: ヨン・ヨイン個展〈Green Room〉|漢南洞で開幕\n부제: 11月28日まで龍山文化財団にて・入場無料\n출처: @yeo1n\n",
+      "caption": "ヨン・ヨイン（연여인、@yeo1n）さんの個展〈Green Room〉が、ソウル・漢南洞（ハンナムドン）の龍山文化財団（용산문화재단）で開かれています。\n\nグリーンルームとは、俳優や出演者が舞台に上がる前に出番を待つ控え室のことです。作家はこの空間を、人生の転換と新しい始まりに備える場所として描きました。昨年、パク・チャヌク監督の映画『しあわせな選択』のポスターを手がけた作家でもあります。\n\n新作を含む絵画14点が、財団1階のポップアップホールに並びます。地元のギャラリー、ディア・コンテンポラリーと共に企画した展示で、作品を解説するドーセントプログラムも行われます。\n\n期間：10月24日（土）〜11月28日（土）\n場所：ソウル市龍山区梨泰院路274 龍山文化財団 1階ポップアップホール（漢南洞）\n営業時間：午前10時〜午後6時（日曜休館）\n観覧料：無料\n#SENE #韓国旅行 #ソウル展示 #漢南洞 #ヨンヨイン",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792954127/fib7pinwqjqyqu344w4s.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792954126/pfmurlpm8rqf5sj3o2fe.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792954127/fib7pinwqjqyqu344w4s.jpg"
+       },
+       "at": "2026-10-26T03:48+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=DE8H52Dv068\n구간: 4:30-5:05\n곡: 作れそうな気がする\n아티스트: もっといい作品を\n피처링:\n후킹: 描き続けていけば\n출처: DIA Contemporary（ディア・コンテンポラリー）\n자막: 자동",
+      "caption": "ヨン・ヨイン（연여인、@yeo1n）さんの個展〈Green Room〉が、ソウル・漢南洞（ハンナムドン）の龍山文化財団（용산문화재단）で開かれています。\n\n映像は昨年、ディア・コンテンポラリーで開かれた個展〈The House That My Mother Built〉の際のインタビューです。久しぶりに絵画の制作に戻ったその展示について、作家は、描き続けていけばもっといい作品を作れそうだという希望が生まれたと語っています。\n\n今回の展示のグリーンルームは、舞台に上がる前に出番を待つ控え室です。作家はここを新しい始まりに備える場所として描き、新作を含む絵画14点が展示されます。\n\n期間：10月24日（土）〜11月28日（土）\n場所：ソウル市龍山区梨泰院路274 龍山文化財団 1階ポップアップホール（漢南洞）\n営業時間：午前10時〜午後6時（日曜休館）\n観覧料：無料\n#SENE #韓国旅行 #ソウル展示 #漢南洞 #ヨンヨイン"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -2470,7 +2544,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T03:46+09:00"
+  "at": "2026-10-26T03:48+09:00"
  },
  "slots": {
   "basis": 0,
