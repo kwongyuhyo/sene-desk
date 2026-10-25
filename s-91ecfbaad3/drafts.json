@@ -578,7 +578,9 @@
      "v": {
       "A": "c556bb41",
       "B": "a36aa996",
-      "C": "e15b450c"
+      "C": "e15b450c",
+      "E": "9b396306",
+      "J": "2af11267"
      }
     }
    },
@@ -698,6 +700,69 @@
     "rank": 3,
     "why": "오늘 숏폼 몫 — 방송 속 본인의 말로 서는 클립",
     "at": "2026-10-25T11:47+09:00"
+   },
+   "i18n": {
+    "at": "2026-10-25T12:00+09:00",
+    "confirm": [
+     "회차 번호 421회는 원문 그대로 옮겼습니다. 웹에서 따로 확인하지는 못했습니다.",
+     "일본어 방송 제목 『全知的おせっかい視点』은 일본 쪽 통용 표기로 썼습니다. 검색으로 공식 표기를 확인하지는 못했습니다.",
+     "영어판 숏폼 아티스트 칸 'the Duke of the North'는 21자로, 20자 기준을 1자 넘습니다.",
+     "'북부대공'은 Soompi의 'Duke of the North' 표기를 따랐습니다.",
+     "영어 · 'Duke of the North'(북부대공)는 한국 웹소설에서 온 표현이라 영어권 독자에게는 잘 안 통할 수 있음 — 홍중이 한 말이라 그대로 뒀음",
+     "421회(10월 24일 방송) 회차 번호는 한국어 원문을 따랐고 따로 확인하지 않았음 — 올리기 전에 MBC 공식 회차 정보로 한 번 더 확인할 것"
+    ],
+    "review": {
+     "at": "2026-10-25T12:00+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 · 'Needle felting dolls from wool is also introduced' → 'Making dolls by needle felting wool is also introduced' — 문법이 어색하고 주어가 흐림",
+      "일본어 · 캡션 둘째 단락 · '放送された回ですが、' → '放送された回で、' — '~인데요'를 직역한 ですが가 일본어에서는 역접처럼 읽힘",
+      "일본어 · 숏폼 캡션 둘째 단락 · 'サンの一日ですが、ポケモンの…' → 'サンの一日です。ポケモンの…' — 같은 직역투 ですが를 고치고 문장을 둘로 나눔"
+     ],
+     "doubt": [
+      "영어 · 'Duke of the North'(북부대공)는 한국 웹소설에서 온 표현이라 영어권 독자에게는 잘 안 통할 수 있음 — 홍중이 한 말이라 그대로 뒀음",
+      "421회(10월 24일 방송) 회차 번호는 한국어 원문을 따랐고 따로 확인하지 않았음 — 올리기 전에 MBC 공식 회차 정보로 한 번 더 확인할 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nATEEZ (@ateez_official_) member San shows a day away from the stage on 'The Manager.'\n\nThe episode aired on MBC on Oct 24. San visits a Pokémon pop-up store, openly thrilled in front of a hanbok-clad Pikachu and his favorite characters. Needle felting, in which wool is poked with a needle to shape small dolls, is also introduced as one of his hobbies.\n\nHongjoong, his bandmate who tipped off the show about San's daily life, says he wanted to show an unexpected side of a member who is the very picture of the 'Duke of the North' on stage.\n\nBroadcast: MBC 'The Manager,' Episode 421 (Oct 24)\n#SENE #ATEEZ #San #TheManager #Pokemon\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792886323/b0kxzaeqvwn0btibb8sb.jpg\n제목: Off Stage, San Is|a Pokémon Superfan\n부제: MBC's 'The Manager,' aired Oct 24\n출처: @ateez_official_\n",
+      "caption": "ATEEZ (@ateez_official_) member San shows a day away from the stage on 'The Manager.'\n\nThe episode aired on MBC on Oct 24. San visits a Pokémon pop-up store, openly thrilled in front of a hanbok-clad Pikachu and his favorite characters. Needle felting, in which wool is poked with a needle to shape small dolls, is also introduced as one of his hobbies.\n\nHongjoong, his bandmate who tipped off the show about San's daily life, says he wanted to show an unexpected side of a member who is the very picture of the 'Duke of the North' on stage.\n\nBroadcast: MBC 'The Manager,' Episode 421 (Oct 24)\n#SENE #ATEEZ #San #TheManager #Pokemon",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792897217/mzwvhuynrpi7y52tu2hu.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792897217/a0xtix7kc0t6ywclldmn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792897217/mzwvhuynrpi7y52tu2hu.jpg"
+       },
+       "at": "2026-10-25T12:00+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=2WFijAzsQpo\n구간: 2:27-2:52\n곡: Off stage, a twist\n아티스트: the Duke of the North\n피처링:\n후킹: On stage, he's\n출처: MBCentertainment\n자막: 자동",
+      "caption": "On stage, he is the Duke of the North. Off stage, he is a Pokémon superfan.\n\nThis is a day in the life of ATEEZ (@ateez_official_) member San, as shown on MBC's 'The Manager' on Oct 24. At a Pokémon pop-up store, he meets a hanbok-clad Pikachu and his favorite characters, visibly excited. Making dolls by needle felting wool is also introduced as one of his hobbies.\n\nThe words in the clip belong to his bandmate Hongjoong, who tipped off the show about San's daily life. He says he wanted to show the unexpected side of San off the stage.\n\nBroadcast: MBC 'The Manager,' Episode 421 (Oct 24)\nVideo: MBCentertainment\n#SENE #ATEEZ #San #TheManager #Pokemon"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nATEEZ（@ateez_official_）のサンが『全知的おせっかい視点』で、ステージの外での一日を見せました。\n\n24日にMBCで放送された回で、サンはポケモンのポップアップストアを訪れ、韓服を着たピカチュウやお気に入りのキャラクターたちを前に、すっかり浮き立った様子でした。針でちくちく刺して人形を作る羊毛フェルトも、彼の趣味として紹介されました。\n\nこの日常を番組に伝えた同じグループのホンジュンは、ステージ上では“北部大公”そのもののサンの、意外な魅力を見せたかったと話しました。\n\n放送：MBC『全知的おせっかい視点』第421回（10月24日）\n#SENE #ATEEZ #サン #全知的おせっかい視点 #ポケモン\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792886323/b0kxzaeqvwn0btibb8sb.jpg\n제목: サン、舞台を降りれば|ポケモンオタク\n부제: MBC『全知的おせっかい視点』10月24日放送\n출처: @ateez_official_\n",
+      "caption": "ATEEZ（@ateez_official_）のサンが『全知的おせっかい視点』で、ステージの外での一日を見せました。\n\n24日にMBCで放送された回で、サンはポケモンのポップアップストアを訪れ、韓服を着たピカチュウやお気に入りのキャラクターたちを前に、すっかり浮き立った様子でした。針でちくちく刺して人形を作る羊毛フェルトも、彼の趣味として紹介されました。\n\nこの日常を番組に伝えた同じグループのホンジュンは、ステージ上では“北部大公”そのもののサンの、意外な魅力を見せたかったと話しました。\n\n放送：MBC『全知的おせっかい視点』第421回（10月24日）\n#SENE #ATEEZ #サン #全知的おせっかい視点 #ポケモン",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792897220/h004c7vssqd2dbtihkjg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792897219/tgpf6jcgt4err2duxa61.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792897220/h004c7vssqd2dbtihkjg.jpg"
+       },
+       "at": "2026-10-25T12:00+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=2WFijAzsQpo\n구간: 2:27-2:52\n곡: 降りれば別の顔\n아티스트: 北部大公そのもの\n피처링:\n후킹: ステージ上では\n출처: MBCentertainment\n자막: 자동",
+      "caption": "ステージ上では北部大公そのもの、ステージを降りればポケモンオタクです。\n\n24日にMBC『全知的おせっかい視点』で放送された、ATEEZ（@ateez_official_）のサンの一日です。ポケモンのポップアップストアで韓服を着たピカチュウやお気に入りのキャラクターたちに会い、すっかり浮き立つ姿が映し出されました。羊毛フェルトで人形を作るのも彼の趣味だと紹介されました。\n\n映像の中の言葉は、この日常を番組に伝えた同じグループのホンジュンのものです。ステージを降りたサンの意外な魅力を見せたかったと話しました。\n\n放送：MBC『全知的おせっかい視点』第421回（10月24日）\n映像：MBCentertainment\n#SENE #ATEEZ #サン #全知的おせっかい視点 #ポケモン"
+     }
+    }
    }
   },
   {
@@ -1301,7 +1366,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T11:59+09:00"
+  "at": "2026-10-25T12:00+09:00"
  },
  "slots": {
   "basis": 0,
