@@ -774,7 +774,7 @@
    "pick": {
     "rank": 3,
     "why": "오늘 숏폼 몫 — 방송 속 본인의 말로 서는 클립",
-    "at": "2026-10-25T21:45+09:00"
+    "at": "2026-10-25T21:46+09:00"
    }
   },
   {
@@ -1644,7 +1644,7 @@
    "pick": {
     "rank": 1,
     "why": "내일(26일) 오후 2시 선착순 무료 배포 — 밤에 저장해 두고 아침에 바로 쓸 정보",
-    "at": "2026-10-25T21:45+09:00"
+    "at": "2026-10-25T21:46+09:00"
    }
   },
   {
@@ -1844,7 +1844,7 @@
     "is_reel": false,
     "kind": "claude"
    },
-   "made_at": "2026-10-25T21:45+09:00",
+   "made_at": "2026-10-25T21:46+09:00",
    "key": "e7ce6d7e",
    "by": "claude",
    "subjects": [
@@ -1858,21 +1858,31 @@
     "why": "10/25 이데일리가 '또 품절' 현장 기사를 다시 냈다. 가격(2,900원)·SNS 조합·점주 '금방 품절'·점포 자율 발주는 세계일보·이데일리·재경일보에서 맞고, '한 달 170만 개'는 파리바게뜨 발표로 여러 매체가 같은 숫자"
    },
    "added": "claude",
-   "added_at": "2026-10-25T21:45+09:00",
+   "added_at": "2026-10-25T21:46+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n푸드\n\n[캡션]\n파리바게뜨의 2,900원짜리 '초코쫀득츄러스'가 나온 지 두 달 가까이 지났지만 여전히 매장에서 금방 팔려 나갑니다.\n\n초콜릿 반죽을 튀겨 겉은 바삭하고 속은 쫄깃하게 만든 츄러스인데요, 생크림이나 아이스크림에 찍어 먹고 우유를 곁들이는 '나만의 조합' 영상이 SNS에 번지면서 찾는 사람이 크게 늘었습니다. 파리바게뜨 집계로는 출시 한 달 만에 170만 개가 팔렸습니다.\n\n매장 진열대가 자주 비는 데는 구조도 있습니다. 파리바게뜨는 본사가 판매량을 제한하지 않고, 점포마다 수요에 맞춰 직접 발주한다고 설명합니다.\n\n가격: 2,900원\n판매처: 파리바게뜨 매장 (점포별 발주)\n#SENE #파리바게뜨 #초코쫀득츄러스 #파바츄러스 #츄러스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932318/h9z5fox7snfvlrhdy6zj.jpg\n제목: 파바 초코츄러스,|아직도 금방 팔린다\n부제: 2,900원 · 9월 출시 · 점포별 발주\n출처: 파리바게뜨\n",
+    "form": "[카테고리]\n푸드\n\n[캡션]\n파리바게뜨의 2,900원짜리 '초코쫀득츄러스'가 나온 지 두 달 가까이 지났지만 여전히 매장에서 금방 팔려 나갑니다.\n\n초콜릿 반죽을 튀겨 겉은 바삭하고 속은 쫄깃하게 만든 츄러스인데요, 생크림이나 아이스크림에 찍어 먹고 우유를 곁들이는 '나만의 조합' 영상이 SNS에 번지면서 찾는 사람이 크게 늘었습니다. 파리바게뜨 집계로는 출시 한 달 만에 170만 개가 팔렸습니다.\n\n매장 진열대가 자주 비는 데는 구조도 있습니다. 파리바게뜨는 본사가 판매량을 제한하지 않고, 점포마다 수요에 맞춰 직접 발주한다고 설명합니다.\n\n가격: 2,900원\n판매처: 파리바게뜨 매장 (점포별 발주)\n#SENE #파리바게뜨 #초코쫀득츄러스 #파바츄러스 #츄러스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932383/s2rpwfwxrjq5m8youtjd.jpg\n제목: 파바 초코츄러스,|아직도 금방 팔린다\n부제: 2,900원 · 9월 출시 · 점포별 발주\n출처: 파리바게뜨\n",
     "caption": "파리바게뜨의 2,900원짜리 '초코쫀득츄러스'가 나온 지 두 달 가까이 지났지만 여전히 매장에서 금방 팔려 나갑니다.\n\n초콜릿 반죽을 튀겨 겉은 바삭하고 속은 쫄깃하게 만든 츄러스인데요, 생크림이나 아이스크림에 찍어 먹고 우유를 곁들이는 '나만의 조합' 영상이 SNS에 번지면서 찾는 사람이 크게 늘었습니다. 파리바게뜨 집계로는 출시 한 달 만에 170만 개가 팔렸습니다.\n\n매장 진열대가 자주 비는 데는 구조도 있습니다. 파리바게뜨는 본사가 판매량을 제한하지 않고, 점포마다 수요에 맞춰 직접 발주한다고 설명합니다.\n\n가격: 2,900원\n판매처: 파리바게뜨 매장 (점포별 발주)\n#SENE #파리바게뜨 #초코쫀득츄러스 #파바츄러스 #츄러스",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932318/h9z5fox7snfvlrhdy6zj.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932383/s2rpwfwxrjq5m8youtjd.jpg",
+      "credit": "파리바게뜨",
+      "from": "https://www.foodtoday.or.kr/data/photos/20261040/art_17909041274899_48acf1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932380/yc0wd4rp2lqsefslo02m.jpg",
       "credit": "파리바게뜨",
       "from": "https://tnnews.co.kr/wp-content/uploads/2026/10/paris-baguette-choco-jjonddeok-churros-sales-2.jpg"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932318/h9z5fox7snfvlrhdy6zj.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932383/s2rpwfwxrjq5m8youtjd.jpg",
+      "credit": "파리바게뜨",
+      "from": "https://www.foodtoday.or.kr/data/photos/20261040/art_17909041274899_48acf1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932380/yc0wd4rp2lqsefslo02m.jpg",
       "credit": "파리바게뜨",
       "from": "https://tnnews.co.kr/wp-content/uploads/2026/10/paris-baguette-choco-jjonddeok-churros-sales-2.jpg"
      }
@@ -1895,9 +1905,7 @@
     "issues": [],
     "confirm": [
      "'장원영 츄러스'(밤티의 반대말) 별명은 이데일리 한 곳뿐이라 본문에서 뺐음 · 판매량은 매체마다 150만~380만으로 갈려 파리바게뜨가 처음 밝힌 '한 달 170만 개'만 씀",
-     "표지 사진은 비즈트리뷴 보도자료 기사 대표 사진 — 파리바게뜨 제공 제품 사진인지 확인 (기자 촬영이면 교체)",
-     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요",
-     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요"
+     "표지 사진은 파리바게뜨 공식 포스터(보도자료) — 광고 문구('밥 먹고 파바 고?'·'파바 신상')가 크게 박혀 제목 아래쪽과 겹침. 보도자료들이 모두 이 사진을 써서 더 나은 공식 컷을 못 찾았음 — 파리바게뜨 공식 인스타의 제품 컷으로 바꿀지 볼 것"
     ],
     "research": [
      {
@@ -1920,82 +1928,78 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932322/dupkrealudhzmfnwopbi.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932321/slqazstp9a0jwf4ky6tx.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932387/qhsuupt8endofkynrpa2.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932386/qwauybwxeno09jpffyhg.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932325/fd5izmlyg5pykixzuduq.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932322/dupkrealudhzmfnwopbi.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932389/xfy1et73vrlkdzh91id7.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932387/qhsuupt8endofkynrpa2.jpg"
      },
-     "at": "2026-10-25T21:45+09:00",
+     "at": "2026-10-25T21:46+09:00",
      "v": {
-      "A": "43d1ad5b",
-      "B": "2738db62",
-      "E": "5ccee581",
-      "J": "7e362fd0"
+      "A": "b71a2078",
+      "B": "5714e1dc",
+      "E": "4d98a5e4",
+      "J": "68b0f1fa"
      }
     }
    },
    "pick": {
     "rank": 2,
     "why": "두 달째 이어지는 2,900원 디저트 유행 — 오늘 다시 '또 품절' 기사가 나온 생활 밀착 소재",
-    "at": "2026-10-25T21:45+09:00"
+    "at": "2026-10-25T21:46+09:00"
    },
-   "i18n_queued": "2026-10-25T21:45+09:00",
+   "i18n_queued": "2026-10-25T21:46+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-25T21:45+09:00",
+    "at": "2026-10-25T21:47+09:00",
     "confirm": [
-     "제품의 공식 영어·일본어 이름은 찾지 못했습니다. 그래서 영어는 'Choco Chewy Churros', 일본어는 「チョコもちもちチュロス」로 뜻을 살려 옮기고, 처음 나올 때 괄호 안에 한국어 원어를 붙였습니다.",
-     "일본어 브랜드명 「パリバゲット」는 널리 쓰이는 표기입니다. 일본 공식 법인 표기인지는 확인하지 못했습니다.",
-     "원문의 '파바' 약칭은 외국 독자에게 낯설어 영어·일본어 표지에서 'Paris Baguette'·「パリバゲット」로 바꿨습니다.",
-     "원문은 '한 달 만에 170만 개'까지만 씁니다. 보도에 따르면 10월 5일 영업 마감 기준 누적 220만 개가 넘었습니다(세계일보). 번역은 원문 그대로 170만 개로 두었습니다.",
-     "제품명 '초코쫀득츄러스'의 공식 영어·일본어 표기를 찾지 못했음 — 지금 쓴 'Choco Chewy Churros'·「チョコもちもちチュロス」는 의역이고 원어는 괄호로 함께 적어 둠. 공식 표기가 있으면 바꿔야 함",
-     "표지 제목에는 영어·일본어 모두 원문 '초코'가 빠져 있음(Churros / チュロス) — 뜻은 통하지만 원문과 맞추려면 사람이 판단해야 함",
-     "170만 개 판매·발주 방식 설명은 파리바게뜨 쪽 발표 — 원문 확인 칸에서 출처가 확인됐는지 다시 볼 것"
+     "'초코쫀득츄러스'는 공식 영어·일본어 표기를 찾지 못해 영어는 로마자 'Choco Jjondeuk Churros'에 뜻풀이를, 일본어는 カタカナ에 원어를 괄호로 붙였습니다.",
+     "'Paris Baguette'·'パリバゲット'는 브랜드 해외 표기를 따랐습니다. 일본어 표기는 공식 일본 사이트에서 한 번 더 확인해 주세요.",
+     "170만 개는 10월 2일 보도(인사이트) 기준 수치입니다. 10월 6일 세계일보는 누적 220만 개를 보도했습니다. 원문을 따라 170만 개로 두었으니, 한국어판을 고치면 번역도 같이 고쳐 주세요.",
+     "영어·일본어 · 제품명 'Choco Jjondeuk Churros' / 「チョコチョンドゥクチュロス」 — 파리바게뜨에 공식 영어·일본어 제품명이 있는지는 확인하지 못했습니다. 로마자·가타카나로 옮긴 표기입니다",
+     "영어·일본어 · 표지 제목 — 원문의 '초코'가 빠져 'Churros'·「チュロス」로만 적혀 있습니다. 글자 수 때문에 일부러 뺀 것으로 보여 그대로 두었습니다"
     ],
     "review": {
-     "at": "2026-10-25T21:45+09:00",
+     "at": "2026-10-25T21:47+09:00",
      "fixes": [
-      "영어 · 캡션 셋째 단락 · how the stores work → how stores are stocked — 원문 '구조'는 점포 발주 방식이라 뜻을 좁힘 (frequently empty → often-empty 도 함께 다듬음)",
-      "일본어 · 캡션 둘째 단락 · 求める人 → 買い求める人 — 상품을 사려는 사람이라는 뜻으로는 '買い求める'가 자연스러운 연어",
-      "일본어 · 캡션 둘째 단락 · 売れています → 売れました — '출시 한 달 만에'라는 끝난 기간의 실적이라 과거형으로"
+      "일본어 · 캡션 둘째 단락 · 求める人 → 買い求める人 — 「求める人」만으로는 상품을 사러 찾는 사람이라는 뜻이 약하고 어색함",
+      "일본어 · 캡션 셋째 단락 · 仕組みの理由 → 仕組み上の理由 — 직역투 연어를 자연스럽게 고침"
      ],
      "doubt": [
-      "제품명 '초코쫀득츄러스'의 공식 영어·일본어 표기를 찾지 못했음 — 지금 쓴 'Choco Chewy Churros'·「チョコもちもちチュロス」는 의역이고 원어는 괄호로 함께 적어 둠. 공식 표기가 있으면 바꿔야 함",
-      "표지 제목에는 영어·일본어 모두 원문 '초코'가 빠져 있음(Churros / チュロス) — 뜻은 통하지만 원문과 맞추려면 사람이 판단해야 함",
-      "170만 개 판매·발주 방식 설명은 파리바게뜨 쪽 발표 — 원문 확인 칸에서 출처가 확인됐는지 다시 볼 것"
+      "영어·일본어 · 제품명 'Choco Jjondeuk Churros' / 「チョコチョンドゥクチュロス」 — 파리바게뜨에 공식 영어·일본어 제품명이 있는지는 확인하지 못했습니다. 로마자·가타카나로 옮긴 표기입니다",
+      "영어·일본어 · 표지 제목 — 원문의 '초코'가 빠져 'Churros'·「チュロス」로만 적혀 있습니다. 글자 수 때문에 일부러 뺀 것으로 보여 그대로 두었습니다"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n푸드\n\n[캡션]\nNearly two months after launch, Paris Baguette's KRW 2,900 'Choco Chewy Churros' (초코쫀득츄러스) still sell quickly in stores.\n\nThe churros are made from chocolate dough, fried to be crisp outside and chewy inside. Videos of people's own pairings, dipping them in whipped cream or ice cream and adding a glass of milk, spread on social media, and demand rose sharply. By Paris Baguette's count, 1.7 million were sold in the first month.\n\nThe often-empty shelves also come down to how stores are stocked. Paris Baguette says headquarters does not cap sales; each store orders its own stock based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (ordered by each store)\n#SENE #ParisBaguette #KoreanBakery #KoreanDessert #Churros\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932274/qbwdqwmqggaj016ycgcj.jpg\n제목: Paris Baguette Churros|Still Selling Fast\n부제: KRW 2,900 · Launched Sept · Ordered by Each Store\n출처: \n",
-      "caption": "Nearly two months after launch, Paris Baguette's KRW 2,900 'Choco Chewy Churros' (초코쫀득츄러스) still sell quickly in stores.\n\nThe churros are made from chocolate dough, fried to be crisp outside and chewy inside. Videos of people's own pairings, dipping them in whipped cream or ice cream and adding a glass of milk, spread on social media, and demand rose sharply. By Paris Baguette's count, 1.7 million were sold in the first month.\n\nThe often-empty shelves also come down to how stores are stocked. Paris Baguette says headquarters does not cap sales; each store orders its own stock based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (ordered by each store)\n#SENE #ParisBaguette #KoreanBakery #KoreanDessert #Churros",
+      "form": "[카테고리]\n푸드\n\n[캡션]\nParis Baguette's KRW 2,900 'Choco Jjondeuk Churros' (chewy chocolate churros) still sell quickly in stores, nearly two months after launch.\n\nThe churros are made from fried chocolate dough, crisp outside and chewy inside. Demand rose sharply as videos of people's own pairings spread on social media: dipping them in whipped cream or ice cream and having them with milk. By Paris Baguette's count, 1.7 million were sold in the first month.\n\nThere is also a structural reason the shelves often run empty. Paris Baguette says headquarters does not limit sales volume, and each store places its own orders based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (ordered per store)\n#SENE #ParisBaguette #KoreanBakery #Churros #KoreanSnacks\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932318/h9z5fox7snfvlrhdy6zj.jpg\n제목: Paris Baguette Churros|Still Selling Fast\n부제: KRW 2,900 · Launched in Sept · Ordered per store\n출처: Paris Baguette\n",
+      "caption": "Paris Baguette's KRW 2,900 'Choco Jjondeuk Churros' (chewy chocolate churros) still sell quickly in stores, nearly two months after launch.\n\nThe churros are made from fried chocolate dough, crisp outside and chewy inside. Demand rose sharply as videos of people's own pairings spread on social media: dipping them in whipped cream or ice cream and having them with milk. By Paris Baguette's count, 1.7 million were sold in the first month.\n\nThere is also a structural reason the shelves often run empty. Paris Baguette says headquarters does not limit sales volume, and each store places its own orders based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (ordered per store)\n#SENE #ParisBaguette #KoreanBakery #Churros #KoreanSnacks",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932358/chotqewfu4qqahfxzpje.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932357/eavhgri0vc66kb7ojqc2.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932424/oyu8hsmxor95cdwkznk4.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932423/rm61g9miqr03puagbiuv.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932358/chotqewfu4qqahfxzpje.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932424/oyu8hsmxor95cdwkznk4.jpg"
        },
-       "at": "2026-10-25T21:45+09:00"
+       "at": "2026-10-25T21:47+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n푸드\n\n[캡션]\nパリバゲット（파리바게뜨）の2,900ウォンの「チョコもちもちチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も、店頭ですぐに売れていきます。\n\nチョコレート生地を揚げて、外はサクッと、中はもちっと仕上げたチュロスなのですが、生クリームやアイスクリームにつけて食べ、牛乳を合わせる「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。パリバゲットの集計では、発売1か月で170万個が売れました。\n\n売り場の棚がよく空になるのには、仕組みの理由もあります。パリバゲットによると、本社は販売数を制限しておらず、各店舗が需要に合わせて自ら発注しているそうです。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #韓国スイーツ #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932274/qbwdqwmqggaj016ycgcj.jpg\n제목: パリバゲット チュロス、|今もすぐ売れていく\n부제: 2,900ウォン・9月発売・店舗ごとに発注\n출처: \n",
-      "caption": "パリバゲット（파리바게뜨）の2,900ウォンの「チョコもちもちチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も、店頭ですぐに売れていきます。\n\nチョコレート生地を揚げて、外はサクッと、中はもちっと仕上げたチュロスなのですが、生クリームやアイスクリームにつけて食べ、牛乳を合わせる「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。パリバゲットの集計では、発売1か月で170万個が売れました。\n\n売り場の棚がよく空になるのには、仕組みの理由もあります。パリバゲットによると、本社は販売数を制限しておらず、各店舗が需要に合わせて自ら発注しているそうです。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #韓国スイーツ #韓国旅行",
+      "form": "[카테고리]\n푸드\n\n[캡션]\nパリバゲットの2,900ウォンの「チョコチョンドゥクチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も店頭ですぐに売れていきます。\n\nチョコレート生地を揚げ、外はサクッと、中はもちっと仕上げたチュロスです。生クリームやアイスクリームにつけて食べ、牛乳を合わせる「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。パリバゲットの集計では、発売1か月で170万個が売れました。\n\n売り場の棚がたびたび空になるのには、仕組み上の理由もあります。パリバゲットは、本社が販売数を制限しておらず、各店舗が需要に合わせて直接発注していると説明しています。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #チュロス #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932318/h9z5fox7snfvlrhdy6zj.jpg\n제목: パリバゲットのチュロス、|今もすぐに売れる\n부제: 2,900ウォン・9月発売・店舗ごとに発注\n출처: パリバゲット\n",
+      "caption": "パリバゲットの2,900ウォンの「チョコチョンドゥクチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も店頭ですぐに売れていきます。\n\nチョコレート生地を揚げ、外はサクッと、中はもちっと仕上げたチュロスです。生クリームやアイスクリームにつけて食べ、牛乳を合わせる「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。パリバゲットの集計では、発売1か月で170万個が売れました。\n\n売り場の棚がたびたび空になるのには、仕組み上の理由もあります。パリバゲットは、本社が販売数を制限しておらず、各店舗が需要に合わせて直接発注していると説明しています。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #チュロス #韓国旅行",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932361/pollqaczhenqgg4f7wsh.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932361/cbyifemzpeftjangzeqj.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932427/yxaii6pkmos9qkyi7lb9.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932426/hefw5esuepgxghmlucbs.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932361/pollqaczhenqgg4f7wsh.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932427/yxaii6pkmos9qkyi7lb9.jpg"
        },
-       "at": "2026-10-25T21:46+09:00"
+       "at": "2026-10-25T21:47+09:00"
       }
      }
     }
@@ -2012,7 +2016,7 @@
     "is_reel": true,
     "kind": "claude"
    },
-   "made_at": "2026-10-25T21:45+09:00",
+   "made_at": "2026-10-25T21:46+09:00",
    "key": "f2a6e249",
    "by": "claude",
    "subjects": [
@@ -2028,7 +2032,7 @@
     "why": "쇼박스가 10/21 개봉일(11/18) 확정과 함께 메인 예고편을 냈다. 개봉일·줄거리·배역은 일간스포츠·싱글리스트·데일리안에서 맞고, 영상은 쇼박스 공식 채널. 오늘 숏폼 몫"
    },
    "added": "claude",
-   "added_at": "2026-10-25T21:45+09:00",
+   "added_at": "2026-10-25T21:46+09:00",
    "corner": "mal",
    "shorts": {
     "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=UFMBTPqJ5Hk\n구간: 0:17-0:45\n곡: 11월 18일 개봉\n아티스트: 폭설에 갇힌 기차역\n피처링:\n후킹: 여기 진짜 조용하네요\n출처: 쇼박스 SHOWBOX\n자막: 자동",
@@ -2071,7 +2075,7 @@
     ],
     "thumb": "https://i.ytimg.com/vi/UFMBTPqJ5Hk/maxresdefault.jpg",
     "still": {
-     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932334/z5twhxvgvzu37oazphdh.jpg",
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932398/fvwnycr8cwfutbxgdsk8.jpg",
      "key": "UFMBTPqJ5Hk@17.0"
     }
    },
@@ -2206,7 +2210,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T21:46+09:00"
+  "at": "2026-10-25T21:47+09:00"
  },
  "slots": {
   "basis": 0,
