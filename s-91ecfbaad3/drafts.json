@@ -1581,6 +1581,137 @@
    },
    "i18n_queued": "2026-10-25T19:48+09:00",
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:ord-8f10649f",
+    "account": "@규효 공유 · @decision_movie",
+    "url": "https://www.instagram.com/p/DeyYFxxPwjs/?exln=M3JlZGFsdG80aGZh",
+    "image": null,
+    "head": "회생 중인 메가박스, 직영점 계약 14건 해지 신청 — 지점 100곳 아래로 줄어들 수도",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-25T19:54+09:00",
+   "key": "764d68bd",
+   "by": "claude",
+   "subjects": [
+    "메가박스"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "회생 중인 메가박스가 직영점 계약 14건 해지를 법원에 신청 — 신촌·동대문에 이어 동네 극장이 더 줄어들 수 있다",
+    "why": "규효 맡기기. 2030 이 자주 가는 극장이 줄어드는 생활 변화이고, 10/20 비즈한국 단독 뒤 10/23 씨네21 이 받아 쓴 지 얼마 안 됐다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-25T19:54+09:00",
+   "corner": "issue",
+   "card": {
+    "form": "[카테고리]\n이슈\n\n[캡션]\n메가박스(@megaboxon)가 직영 극장 계약 14건을 정리하려 합니다.\n\n기업회생 절차를 밟고 있는 운영사 메가박스중앙이 서울회생법원에 직영점 임대차·전대차 계약 14건의 해지 허가를 신청했는데요, 회생 절차에 들어간 뒤로 서울 신촌점과 동대문점은 이미 9월에 문을 닫았습니다. 2008년에 문을 연 동대문점은 9월 30일이 마지막 상영이었습니다.\n\n보도된 올해 상반기 기준으로 메가박스 지점은 111곳, 이 가운데 직영이 42곳, 위탁이 69곳이었습니다. 신청한 계약이 모두 영업 종료로 이어지면 지점 수가 100곳 아래로 내려갈 수 있습니다. 어느 극장이 대상인지는 아직 알려지지 않았으니, 자주 가는 지점이 있다면 공지를 먼저 챙겨 보는 편이 좋겠습니다.\n\n신청: 메가박스중앙 → 서울회생법원 (직영점 계약 14건 해지 허가)\n이미 문 닫은 곳: 신촌점·동대문점 (9월)\n확인: 메가박스 앱·홈페이지 극장 공지\n#SENE #메가박스 #영화관 #신촌 #동대문\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792925671/cfuiat5nd1nlynkzxp4a.jpg\n제목: 메가박스, 직영점|계약 14건 해지 신청\n부제: 신촌·동대문에 이어 극장이 더 줄어들 수 있습니다\n출처: @megaboxon\n",
+    "caption": "메가박스(@megaboxon)가 직영 극장 계약 14건을 정리하려 합니다.\n\n기업회생 절차를 밟고 있는 운영사 메가박스중앙이 서울회생법원에 직영점 임대차·전대차 계약 14건의 해지 허가를 신청했는데요, 회생 절차에 들어간 뒤로 서울 신촌점과 동대문점은 이미 9월에 문을 닫았습니다. 2008년에 문을 연 동대문점은 9월 30일이 마지막 상영이었습니다.\n\n보도된 올해 상반기 기준으로 메가박스 지점은 111곳, 이 가운데 직영이 42곳, 위탁이 69곳이었습니다. 신청한 계약이 모두 영업 종료로 이어지면 지점 수가 100곳 아래로 내려갈 수 있습니다. 어느 극장이 대상인지는 아직 알려지지 않았으니, 자주 가는 지점이 있다면 공지를 먼저 챙겨 보는 편이 좋겠습니다.\n\n신청: 메가박스중앙 → 서울회생법원 (직영점 계약 14건 해지 허가)\n이미 문 닫은 곳: 신촌점·동대문점 (9월)\n확인: 메가박스 앱·홈페이지 극장 공지\n#SENE #메가박스 #영화관 #신촌 #동대문",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925671/cfuiat5nd1nlynkzxp4a.jpg",
+      "credit": "@megaboxon",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/855990480_1424340763158301_7366003953985819870_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Eut9Acp5ji0Q7kNvwF08o--&_nc_oc=AdoOcTIXdtj9Daz5XUiTqrGFV35Kl8YAk-zzInSjZVNkCUNg2J-dDeEwbkBxGBG8WK4&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=E3qvb0KSFJzkjbVcXRgaCg&oh=00_AQM4rRC1KCLJqIoa24kCjsxIX--Bp0vCrch_J-3_kMEjpw&oe=6AE3B416"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925669/ecslo6urg01mi4lbn2qe.jpg",
+      "credit": "@megaboxon",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/854290444_1423428406582870_7458437433934737991_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qy8QYiF5CF8Q7kNvwHSWNqD&_nc_oc=AdrLBrNSSw_DTC2V2kT176ajTVXLkNQjfOZm6RwtvrjkCuPIDWmI4UyH4Kd4SKYA-DQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=E3qvb0KSFJzkjbVcXRgaCg&oh=00_AQPUP7K9jF2q0dWuqHf8xdOqrWL0gZNuyyTNbkogeghO_w&oe=6AE3A073"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925673/bbwsrpx07qbcujmzapkf.jpg",
+      "credit": "@megaboxon",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857860797_18631633978061654_4869252565368070174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cYDtdC6WqbIQ7kNvwHVhUdd&_nc_oc=Adq9LMYL-nF21WujEDGv8Xgbmy2Om0oT175MHuZ9pokRcIlUXe6sPpDNCG63-kFVLAM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=E3qvb0KSFJzkjbVcXRgaCg&oh=00_AQM9Zj1un4n21StzDnHaFcGA1QuLcljmKQVTbYqpO_Wzqg&oe=6AE3B0F1"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925671/cfuiat5nd1nlynkzxp4a.jpg",
+      "credit": "@megaboxon",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/855990480_1424340763158301_7366003953985819870_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Eut9Acp5ji0Q7kNvwF08o--&_nc_oc=AdoOcTIXdtj9Daz5XUiTqrGFV35Kl8YAk-zzInSjZVNkCUNg2J-dDeEwbkBxGBG8WK4&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=E3qvb0KSFJzkjbVcXRgaCg&oh=00_AQM4rRC1KCLJqIoa24kCjsxIX--Bp0vCrch_J-3_kMEjpw&oe=6AE3B416"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925669/ecslo6urg01mi4lbn2qe.jpg",
+      "credit": "@megaboxon",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/854290444_1423428406582870_7458437433934737991_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qy8QYiF5CF8Q7kNvwHSWNqD&_nc_oc=AdrLBrNSSw_DTC2V2kT176ajTVXLkNQjfOZm6RwtvrjkCuPIDWmI4UyH4Kd4SKYA-DQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=E3qvb0KSFJzkjbVcXRgaCg&oh=00_AQPUP7K9jF2q0dWuqHf8xdOqrWL0gZNuyyTNbkogeghO_w&oe=6AE3A073"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925673/bbwsrpx07qbcujmzapkf.jpg",
+      "credit": "@megaboxon",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857860797_18631633978061654_4869252565368070174_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cYDtdC6WqbIQ7kNvwHVhUdd&_nc_oc=Adq9LMYL-nF21WujEDGv8Xgbmy2Om0oT175MHuZ9pokRcIlUXe6sPpDNCG63-kFVLAM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=E3qvb0KSFJzkjbVcXRgaCg&oh=00_AQM9Zj1un4n21StzDnHaFcGA1QuLcljmKQVTbYqpO_Wzqg&oe=6AE3B0F1"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "메가박스, 직영점|계약 14건 해지 신청",
+      "sub": "신촌·동대문에 이어 극장이 더 줄어들 수 있습니다"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "메가박스 지점,|100곳 아래로 줄어드나",
+      "sub": "직영점 계약 14건 해지 신청"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "신촌·동대문 이어|더 줄어드는 메가박스",
+      "sub": "회생 중 직영점 계약 해지 신청"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진이 @megaboxon 게시물 이미지(터널·풀숲 같은 영화 스틸)를 띠처럼 잘라 붙인 꼴이라 극장·메가박스 소식으로 읽히지 않음 — 극장 외관·로비 사진으로 바꿀지 볼 것",
+     "숏폼 뺌 — 메가박스 공식 채널 영상이 없고, 검색된 건 다른 소식을 다룬 뉴스·경제 유튜버 해설 영상뿐",
+     "올리기 전에 법원 허가 여부와 대상 지점 이름이 새로 보도됐는지 다시 확인"
+    ],
+    "research": [
+     {
+      "title": "[단독] 메가박스 임대차 계약 14건 해지 추진…폐점 본격화되나 (비즈한국, 10/20)",
+      "link": "https://bizhankook.com/articles/megabox-terminates-14-lease-contracts.html"
+     },
+     {
+      "title": "[국내뉴스] … 메가박스, 직영점 14곳 계약 해지 신청 (씨네21, 10/23)",
+      "link": "https://cine21.com/news/view/?mag_id=111095"
+     },
+     {
+      "title": "‘왕사남’·‘오디세이’ 1000만 관객 돌파에도…문 닫는 영화관들 (헤럴드경제)",
+      "link": "https://heraldk.com/article/2026091819451408009"
+     },
+     {
+      "title": "폐점날 다시 북적인 영화관…신촌 이어 동대문 메가박스도 역사 속으로 (데일리안)",
+      "link": "https://www.dailian.co.kr/news/view/1697182"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925678/ggmwzpncfk1g7r2nq9cf.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925678/txz2wzkpxtqwkthyo4zx.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925681/mdoswy4pxgzclum8swem.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925681/zyfxwyslwcnrt4zvah7r.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925678/ggmwzpncfk1g7r2nq9cf.jpg"
+     },
+     "at": "2026-10-25T19:54+09:00",
+     "v": {
+      "A": "fa1f7ede",
+      "B": "3fc9ddf9",
+      "C": "ebedd825"
+     }
+    }
+   },
+   "i18n_queued": "2026-10-25T19:54+09:00",
+   "corner_name": "이슈"
   }
  ],
  "skipped": [],
@@ -1683,7 +1814,7 @@
     "need_today": 3,
     "day": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
    },
    {
@@ -1711,7 +1842,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T19:48+09:00"
+  "at": "2026-10-25T19:54+09:00"
  },
  "slots": {
   "basis": 0,
