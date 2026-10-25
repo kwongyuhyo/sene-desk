@@ -1940,8 +1940,8 @@
      "v": {
       "A": "7b4ca928",
       "B": "0c6172d8",
-      "E": "5a7af724",
-      "J": "76983169"
+      "E": "ef986673",
+      "J": "a6d4cc28"
      }
     }
    },
@@ -1953,51 +1953,58 @@
    "i18n_queued": "2026-10-25T21:48+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-25T21:50+09:00",
+    "at": "2026-10-25T21:51+09:00",
     "confirm": [
-     "제품명 '초코쫀득츄러스'의 공식 영어·일본어 표기를 찾지 못해 영어는 로마자(Choco Jjondeuk Churros)에 뜻풀이를 괄호로 붙였고, 일본어는 カタカナ 뒤 괄호에 원어를 넣었습니다",
-     "파리바게뜨 일본어 표기는 흔히 쓰는 「パリバゲット」로 적었습니다 (일본 공식 법인 표기는 확인하지 못했습니다)",
-     "영어 제목 'Paris Baguette's Churros'는 22자 안팎에 맞추느라 'Choco'를 뺐습니다. 필요하면 되돌려 주세요",
-     "제품명 '초코쫀득츄러스'의 공식 영어·일본어 표기는 확인하지 못함 — 로마자·カタカナ 음역(Choco Jjondeuk Churros / チョコチョンドゥクチュロス)으로 둠"
+     "'초코쫀득츄러스'는 공식 영어·일본어 표기를 찾지 못했습니다. 영어는 로마자 'Choco Jjondeuk Churros'에 '쫀득'의 뜻풀이를 괄호로 붙였고, 일본어는 カタカナ로 쓰고 처음 한 번 원어를 괄호에 넣었습니다.",
+     "파리바게뜨는 일본에서 공식 표기가 확인되지 않아 통용 표기 'パリバゲット'를 썼습니다.",
+     "출시 시점 '9월'은 세계일보의 '지난달 2일 출시'(10월 6일 기사) 한 곳에서만 확인했습니다. 가격 2,900원은 이번 검색에서 따로 확인하지 못해 원문을 그대로 옮겼습니다.",
+     "영어 · 제품명 'Choco Jjondeuk Churros' 는 로마자 표기이고, 파리바게뜨 공식 영문 제품명은 확인하지 못했다 (비용 한도 때문에 검색 생략). 괄호 안 '(jjondeuk means chewy)' 는 원문에 없는 설명이니 그대로 둘지 봐 주세요",
+     "영어 · 부제 'KRW 2,900 · Sept Launch · Ordered by Each Store' 는 한 줄 45자 안팎이라 표지에서 길 수 있다. 필요하면 'Store-by-Store Orders' 로 줄이는 것을 고려해 주세요",
+     "일본어 · 일본에서 쓰는 Paris Baguette 공식 표기는 확인하지 못했다. 'パリバゲット' 는 흔히 쓰는 표기다",
+     "원문 · 부제의 '9월 출시' 와 캡션의 '두 달 가까이' 가 오늘(10/25) 기준으로 맞는지 출시일을 다시 확인해 주세요"
     ],
     "review": {
-     "at": "2026-10-25T21:50+09:00",
+     "at": "2026-10-25T21:51+09:00",
      "fixes": [
-      "일본어 · 캡션 셋째 단락 · 仕組みの理由 → 仕組み上の理由 — 조사 연결이 어색함"
+      "영어 · 캡션 첫 문장 · stores still sell through it quickly → it still sells quickly in stores — 'sell through it' 은 업계 용어 같은 어색한 연어라서",
+      "일본어 · 캡션 둘째 단락 · 仕上げたチュロスですが、→ 仕上げたチュロスで、 — 'ですが' 는 역접으로 읽혀 '~는데요' 의 이어 주는 뜻과 다르다"
      ],
      "doubt": [
-      "제품명 '초코쫀득츄러스'의 공식 영어·일본어 표기는 확인하지 못함 — 로마자·カタカナ 음역(Choco Jjondeuk Churros / チョコチョンドゥクチュロス)으로 둠"
+      "영어 · 제품명 'Choco Jjondeuk Churros' 는 로마자 표기이고, 파리바게뜨 공식 영문 제품명은 확인하지 못했다 (비용 한도 때문에 검색 생략). 괄호 안 '(jjondeuk means chewy)' 는 원문에 없는 설명이니 그대로 둘지 봐 주세요",
+      "영어 · 부제 'KRW 2,900 · Sept Launch · Ordered by Each Store' 는 한 줄 45자 안팎이라 표지에서 길 수 있다. 필요하면 'Store-by-Store Orders' 로 줄이는 것을 고려해 주세요",
+      "일본어 · 일본에서 쓰는 Paris Baguette 공식 표기는 확인하지 못했다. 'パリバゲット' 는 흔히 쓰는 표기다",
+      "원문 · 부제의 '9월 출시' 와 캡션의 '두 달 가까이' 가 오늘(10/25) 기준으로 맞는지 출시일을 다시 확인해 주세요"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n푸드\n\n[캡션]\nParis Baguette's KRW 2,900 'Choco Jjondeuk Churros' (Choco Chewy Churros) came out nearly two months ago, and it still sells quickly in stores.\n\nThe churros are made from fried chocolate dough, crisp on the outside and chewy inside. Videos of people's own pairings, dipping them in whipped cream or ice cream with a glass of milk on the side, spread across social media, and demand rose sharply.\n\nThe way it's stocked is part of why shelves keep emptying. Paris Baguette says headquarters doesn't cap sales; each store places its own orders based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (ordered per store)\n#SENE #ParisBaguette #KoreanBakery #KoreanDessert #Churros\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932522/vlewfnnznuxa4na23kbx.jpg\n제목: Paris Baguette's Churros|Still Selling Fast\n부제: KRW 2,900 · Launched in Sep · Ordered per store\n출처: Paris Baguette\n",
-      "caption": "Paris Baguette's KRW 2,900 'Choco Jjondeuk Churros' (Choco Chewy Churros) came out nearly two months ago, and it still sells quickly in stores.\n\nThe churros are made from fried chocolate dough, crisp on the outside and chewy inside. Videos of people's own pairings, dipping them in whipped cream or ice cream with a glass of milk on the side, spread across social media, and demand rose sharply.\n\nThe way it's stocked is part of why shelves keep emptying. Paris Baguette says headquarters doesn't cap sales; each store places its own orders based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (ordered per store)\n#SENE #ParisBaguette #KoreanBakery #KoreanDessert #Churros",
+      "form": "[카테고리]\n푸드\n\n[캡션]\nParis Baguette's KRW 2,900 'Choco Jjondeuk Churros' (jjondeuk means chewy) has been out for almost two months, and it still sells quickly in stores.\n\nThe churros are made by frying chocolate dough, so they come out crisp outside and chewy inside. Demand rose sharply as 'my own combo' videos spread on social media, showing the churros dipped in whipped cream or ice cream with a glass of milk on the side.\n\nThere is also a structural reason the shelves often run empty. Paris Baguette says headquarters does not cap sales, and each store places its own orders based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (each store orders its own stock)\n#SENE #ParisBaguette #KoreanBakery #Churros #KoreanSnacks\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932522/vlewfnnznuxa4na23kbx.jpg\n제목: Paris Baguette Churros,|Still Selling Fast\n부제: KRW 2,900 · Sept Launch · Ordered by Each Store\n출처: Paris Baguette\n",
+      "caption": "Paris Baguette's KRW 2,900 'Choco Jjondeuk Churros' (jjondeuk means chewy) has been out for almost two months, and it still sells quickly in stores.\n\nThe churros are made by frying chocolate dough, so they come out crisp outside and chewy inside. Demand rose sharply as 'my own combo' videos spread on social media, showing the churros dipped in whipped cream or ice cream with a glass of milk on the side.\n\nThere is also a structural reason the shelves often run empty. Paris Baguette says headquarters does not cap sales, and each store places its own orders based on demand.\n\nPrice: KRW 2,900\nWhere to buy: Paris Baguette stores (each store orders its own stock)\n#SENE #ParisBaguette #KoreanBakery #Churros #KoreanSnacks",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932626/cyjwsnjhbacplwgwvav6.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932626/xx5uaj0y7uq9vstrg4wp.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932690/xvw5j0etlbxnct1ykopm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932689/y3uxg9gbuensl0bliymm.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932626/cyjwsnjhbacplwgwvav6.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932690/xvw5j0etlbxnct1ykopm.jpg"
        },
-       "at": "2026-10-25T21:50+09:00"
+       "at": "2026-10-25T21:51+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n푸드\n\n[캡션]\nパリバゲット（파리바게뜨）の2,900ウォンの「チョコチョンドゥクチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も、店頭ですぐに売れていきます。\n\nチョコレートの生地を揚げて、外はサクッと、中はもちっと仕上げたチュロスです。生クリームやアイスクリームにつけて、牛乳と一緒に味わう「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。\n\n売り場の棚がよく空になるのには、仕組み上の理由もあります。パリバゲットによると、本社は販売数を制限しておらず、各店舗が需要に合わせて自ら発注しているそうです。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #韓国スイーツ #チュロス\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932522/vlewfnnznuxa4na23kbx.jpg\n제목: パリバゲットのチュロス、|今もすぐ売れていく\n부제: 2,900ウォン・9月発売・店舗ごとに発注\n출처: パリバゲット\n",
-      "caption": "パリバゲット（파리바게뜨）の2,900ウォンの「チョコチョンドゥクチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も、店頭ですぐに売れていきます。\n\nチョコレートの生地を揚げて、外はサクッと、中はもちっと仕上げたチュロスです。生クリームやアイスクリームにつけて、牛乳と一緒に味わう「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。\n\n売り場の棚がよく空になるのには、仕組み上の理由もあります。パリバゲットによると、本社は販売数を制限しておらず、各店舗が需要に合わせて自ら発注しているそうです。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #韓国スイーツ #チュロス",
+      "form": "[카테고리]\n푸드\n\n[캡션]\nパリバゲット（파리바게뜨）の2,900ウォンの「チョコチョンドゥクチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も、店頭ですぐに売れていきます。\n\nチョコレート生地を揚げて、外はサクッと、中はもちもちに仕上げたチュロスで、生クリームやアイスクリームにつけて牛乳と一緒に味わう「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。\n\n売り場の棚がよく空になるのには、仕組みの面での理由もあります。パリバゲットは、本社が販売数を制限しておらず、各店舗が需要に合わせて自ら発注していると説明しています。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #韓国グルメ #チュロス\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792932522/vlewfnnznuxa4na23kbx.jpg\n제목: パリバゲットのチュロス、|今もすぐに売れていく\n부제: 2,900ウォン・9月発売・店舗ごとに発注\n출처: パリバゲット\n",
+      "caption": "パリバゲット（파리바게뜨）の2,900ウォンの「チョコチョンドゥクチュロス（초코쫀득츄러스）」は、発売から2か月近くたった今も、店頭ですぐに売れていきます。\n\nチョコレート生地を揚げて、外はサクッと、中はもちもちに仕上げたチュロスで、生クリームやアイスクリームにつけて牛乳と一緒に味わう「自分だけの組み合わせ」の動画がSNSで広がり、買い求める人が大きく増えました。\n\n売り場の棚がよく空になるのには、仕組みの面での理由もあります。パリバゲットは、本社が販売数を制限しておらず、各店舗が需要に合わせて自ら発注していると説明しています。\n\n価格：2,900ウォン\n販売店：パリバゲット各店舗（店舗ごとに発注）\n#SENE #パリバゲット #韓国パン #韓国グルメ #チュロス",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932629/hjbhxr5wrn89tg8ra09d.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932629/wszemuaobubds967qghb.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932693/tu8f72ggkqywmwonnlfj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932692/li9taizb8ra0qmftsnt6.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932629/hjbhxr5wrn89tg8ra09d.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932693/tu8f72ggkqywmwonnlfj.jpg"
        },
-       "at": "2026-10-25T21:50+09:00"
+       "at": "2026-10-25T21:51+09:00"
       }
      }
     }
@@ -2212,7 +2219,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T21:50+09:00"
+  "at": "2026-10-25T21:51+09:00"
  },
  "slots": {
   "basis": 0,
