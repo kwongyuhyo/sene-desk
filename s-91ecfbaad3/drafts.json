@@ -2076,6 +2076,10 @@
     "still": {
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932538/rne56qmh8grpsqpeyfpt.jpg",
      "key": "UFMBTPqJ5Hk@17.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-25T21:49+09:00"
     }
    },
    "corner_name": "그 말"
