@@ -858,9 +858,60 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896486/jibawzfkvysed7lykpyt.jpg",
      "key": "twAxCs4yMs4@0.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-25T11:48+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1792896664/sene_studio/di1wvsjcors3stxdzfov.mp4",
+     "at": "2026-10-25T11:51+09:00",
+     "file": "SaJi_MaSeYo_10Wol_30Il_SseugDeI_PaeSyeon_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1792896665265-3fe0dc25",
+      "segs": [
+       {
+        "start": 0.82,
+        "end": 2.68,
+        "text": "고객님, 어서 오지 마세요"
+       },
+       {
+        "start": 2.68,
+        "end": 4.02,
+        "text": "쇼핑 당장 막아!"
+       },
+       {
+        "start": 4.02,
+        "end": 6.2,
+        "text": "무슨 수를 쓰든!"
+       },
+       {
+        "start": 7.36,
+        "end": 10.58,
+        "text": "고객님, 아직 사지 마세요"
+       },
+       {
+        "start": 10.58,
+        "end": 14.34,
+        "text": "10월 30일에 드시고 가시면"
+       },
+       {
+        "start": 15.58,
+        "end": 17.16,
+        "text": "안 될까요?"
+       },
+       {
+        "start": 17.16,
+        "end": 19.66,
+        "text": "이제 곧 쓱데이니까요"
+       },
+       {
+        "start": 19.66,
+        "end": 23.32,
+        "text": "여러분들 10월 30일부터 맛있게 드세요"
+       },
+       {
+        "start": 24.86,
+        "end": 29.58,
+        "text": "대한민국 시그니처 세일 쓱데이 달다"
+       }
+      ]
+     }
     }
    },
    "pick": {
@@ -981,8 +1032,8 @@
      "v": {
       "A": "d6a48aeb",
       "B": "83cc0baa",
-      "E": "74d4e852",
-      "J": "576e79fa"
+      "E": "044d3b28",
+      "J": "d9cc7cae"
      }
     }
    },
@@ -994,54 +1045,58 @@
    "i18n_queued": "2026-10-25T11:47+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-25T11:49+09:00",
+    "at": "2026-10-25T11:51+09:00",
     "confirm": [
-     "영어 공식 표기는 기사 기준 브랜드 'BORNTOSTANDOUT'(대문자 붙여 씀), 카페 'Café Red Accord'입니다. 일본어 공식 표기는 찾지 못해 カタカナ로 쓰고 처음 한 번 괄호 안에 영문을 붙였습니다.",
-     "원문에 요일이 없어 영어·일본어판 오픈 날짜에도 요일을 붙이지 않았습니다(2026년 10월 20일은 화요일).",
-     "기사에는 상세 주소 '종로구 창덕궁1길 34'가 나오지만 원문에 없어 넣지 않았습니다. 장소 줄에 주소를 넣으려면 한국어판부터 고쳐야 합니다.",
-     "출처 칸은 한국어 브랜드명을 공식 영문 표기 BORNTOSTANDOUT으로 바꿨습니다.",
-     "공통 · 카페 영문 표기 'Café Red Accord'(é 포함 여부·대소문자) — 웹 검색으로 공식 표기를 확인하지 못했습니다. 브랜드 공식 계정 게시물과 대조해 주세요.",
-     "공통 · 검색에서는 이태원 플래그십(용산구 이태원로55길 43-1) 기사만 나왔고 한남·삼청·성수 매장이나 북촌 매장 기사는 찾지 못했습니다. 원문의 '네 번째 플래그십'과 '한남·삼청·성수에 이은' 매장 목록이 공식 발표와 맞는지 확인해 주세요. 영어·일본어판도 원문을 그대로 옮겼습니다.",
-     "일본어 · 브랜드 カタカナ 표기 'ボーントゥスタンドアウト'는 공식 일본어 표기를 확인하지 못했습니다. 공식 표기가 없다면 지금 표기로 괜찮습니다."
+     "오픈 날짜: 원문은 10월 20일인데, 기사마다 발표일이 20일(매일일보)과 21일(위키트리)로 달라 실제 오픈일은 확인하지 못했습니다. 올리기 전에 공식 계정에서 확인해 주세요.",
+     "영어 브랜드명은 기사에 나온 영문 표기 'BORNTOSTANDOUT'으로 썼습니다. 일본어 공식 표기는 찾지 못해 カタカナ(ボーントゥスタンドアウト)로 쓰고 처음 한 번 괄호 안에 원어를 붙였습니다.",
+     "카페의 영문 공식 표기는 기사 기준 'CAFÉ RED ACCORD'입니다. 일본어 공식 표기는 확인하지 못했습니다.",
+     "원문 장소가 '종로구 북촌'까지만 적혀 있어 번역본도 상세 주소 없이 썼습니다.",
+     "카페 이름 영문 공식 표기 미확인 — 영어판은 'Café Red Accord', 일본어판 괄호는 'CAFÉ RED ACCORD'로 서로 다름. 브랜드 공식 계정에서 표기를 확인하고 두 판을 같게 맞출 것",
+     "일본어 브랜드명 'ボーントゥスタンドアウト' 공식 표기인지 웹 검색으로 확인하지 못함 (검색 결과 없음)",
+     "일본어판 오픈 날짜에 요일 '（火）'가 붙음 — 2026년 10월 20일이 화요일인 건 맞지만 원문에는 요일이 없음",
+     "주소가 '북촌'까지만 있음 — 원문을 따른 것이고, 지침에 맞추려면 동 이름·상세 주소와 운영 시간을 공식 출처에서 확인해 세 판 모두 보충하는 게 좋음"
     ],
     "review": {
-     "at": "2026-10-25T11:49+09:00",
-     "fixes": [],
+     "at": "2026-10-25T11:51+09:00",
+     "fixes": [
+      "영어 · 캡션 2단락 · Old bedding and pillow cabinets → Traditional bedding and pillow cabinets — 원문 '전통 이불장'과 뜻을 맞춤"
+     ],
      "doubt": [
-      "공통 · 카페 영문 표기 'Café Red Accord'(é 포함 여부·대소문자) — 웹 검색으로 공식 표기를 확인하지 못했습니다. 브랜드 공식 계정 게시물과 대조해 주세요.",
-      "공통 · 검색에서는 이태원 플래그십(용산구 이태원로55길 43-1) 기사만 나왔고 한남·삼청·성수 매장이나 북촌 매장 기사는 찾지 못했습니다. 원문의 '네 번째 플래그십'과 '한남·삼청·성수에 이은' 매장 목록이 공식 발표와 맞는지 확인해 주세요. 영어·일본어판도 원문을 그대로 옮겼습니다.",
-      "일본어 · 브랜드 カタカナ 표기 'ボーントゥスタンドアウト'는 공식 일본어 표기를 확인하지 못했습니다. 공식 표기가 없다면 지금 표기로 괜찮습니다."
+      "카페 이름 영문 공식 표기 미확인 — 영어판은 'Café Red Accord', 일본어판 괄호는 'CAFÉ RED ACCORD'로 서로 다름. 브랜드 공식 계정에서 표기를 확인하고 두 판을 같게 맞출 것",
+      "일본어 브랜드명 'ボーントゥスタンドアウト' 공식 표기인지 웹 검색으로 확인하지 못함 (검색 결과 없음)",
+      "일본어판 오픈 날짜에 요일 '（火）'가 붙음 — 2026년 10월 20일이 화요일인 건 맞지만 원문에는 요일이 없음",
+      "주소가 '북촌'까지만 있음 — 원문을 따른 것이고, 지침에 맞추려면 동 이름·상세 주소와 운영 시간을 공식 출처에서 확인해 세 판 모두 보충하는 게 좋음"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nBORNTOSTANDOUT has opened its fourth flagship in a hanok in Bukchon, Seoul.\n\nIt follows the brand's Korean stores in Hannam, Samcheong and Seongsu. Inside the hanok, where the original rafters and pillars remain, the brand has brought in its signature red and stainless steel, set alongside Joseon-era antique furniture and traditional giwa roof tiles. Old bedding and pillow cabinets now serve as perfume displays.\n\nBy the courtyard with its stone pagoda is Café Red Accord, the brand's first café. The brand says it designed the coffee's aroma, flavor and lingering finish the way one composes a perfume. At the bar-style drip station, visitors can watch the hand-drip process.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896472/xg5e4nn9jsbiac8spqti.jpg\n제목: BORNTOSTANDOUT Opens|Bukchon Hanok Store\n부제: Fourth Flagship · First Café, 'Café Red Accord'\n출처: BORNTOSTANDOUT\n",
-      "caption": "BORNTOSTANDOUT has opened its fourth flagship in a hanok in Bukchon, Seoul.\n\nIt follows the brand's Korean stores in Hannam, Samcheong and Seongsu. Inside the hanok, where the original rafters and pillars remain, the brand has brought in its signature red and stainless steel, set alongside Joseon-era antique furniture and traditional giwa roof tiles. Old bedding and pillow cabinets now serve as perfume displays.\n\nBy the courtyard with its stone pagoda is Café Red Accord, the brand's first café. The brand says it designed the coffee's aroma, flavor and lingering finish the way one composes a perfume. At the bar-style drip station, visitors can watch the hand-drip process.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #SeoulTravel",
+      "form": "[카테고리]\n공간\n\n[캡션]\nBORNTOSTANDOUT has opened its fourth flagship in a hanok in Bukchon.\n\nThe store follows the brand's Hannam, Samcheong and Seongsu locations in Korea. Inside the hanok, where the original rafters and pillars remain, the brand brought in its signature red and stainless steel, set alongside Joseon-era antique furniture and traditional giwa tiles. Traditional bedding and pillow cabinets now serve as perfume displays.\n\nOn the side facing the courtyard and its stone pagoda is the brand's first café, Café Red Accord. The brand says it designed the coffee the way it composes a fragrance, from aroma and flavor to the lingering finish. At the bar-style drip station, visitors can watch the hand-drip process.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896472/xg5e4nn9jsbiac8spqti.jpg\n제목: BORNTOSTANDOUT Opens|in a Bukchon Hanok\n부제: Fourth flagship · First café, 'Café Red Accord'\n출처: BORNTOSTANDOUT\n",
+      "caption": "BORNTOSTANDOUT has opened its fourth flagship in a hanok in Bukchon.\n\nThe store follows the brand's Hannam, Samcheong and Seongsu locations in Korea. Inside the hanok, where the original rafters and pillars remain, the brand brought in its signature red and stainless steel, set alongside Joseon-era antique furniture and traditional giwa tiles. Traditional bedding and pillow cabinets now serve as perfume displays.\n\nOn the side facing the courtyard and its stone pagoda is the brand's first café, Café Red Accord. The brand says it designed the coffee the way it composes a fragrance, from aroma and flavor to the lingering finish. At the bar-style drip station, visitors can watch the hand-drip process.\n\nOpened: Oct 20\nLocation: Bukchon, Jongno-gu, Seoul\n#SENE #BORNTOSTANDOUT #Bukchon #SeoulCafe #SeoulTravel",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896589/j9chtdcjvxcciglwypki.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896589/skodbpyblsevureovpvb.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896670/bwyo6vow2awxairq2zp7.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896670/qbi9vtwe90cjyoc3x0co.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896589/j9chtdcjvxcciglwypki.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896670/bwyo6vow2awxairq2zp7.jpg"
        },
-       "at": "2026-10-25T11:49+09:00"
+       "at": "2026-10-25T11:51+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nボーントゥスタンドアウト（BORNTOSTANDOUT）が、ソウル・北村（プクチョン）の韓屋に4店目のフラッグシップをオープンしました。\n\n漢南（ハンナム）・三清（サムチョン）・聖水（ソンス）に続く韓国国内の店舗です。垂木と柱が残る韓屋の中にブランドの赤とステンレスを取り入れ、朝鮮時代の古家具や瓦のタイルを合わせました。伝統的な布団棚と枕棚は、香水の陳列台になっています。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（Café Red Accord）」があります。ブランドは、香水をつくるようにコーヒーの香りと風味、飲んだ後の余韻まで設計したと説明しています。バー形式のドリップステーションでは、ハンドドリップの工程を見ることができます。\n\nオープン：10月20日\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #ボーントゥスタンドアウト #北村 #韓国旅行 #ソウルカフェ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896472/xg5e4nn9jsbiac8spqti.jpg\n제목: ボーントゥスタンドアウト、|北村の韓屋に新店舗\n부제: 4店目の旗艦店・初のカフェ「カフェ・レッド・アコード」\n출처: BORNTOSTANDOUT\n",
-      "caption": "ボーントゥスタンドアウト（BORNTOSTANDOUT）が、ソウル・北村（プクチョン）の韓屋に4店目のフラッグシップをオープンしました。\n\n漢南（ハンナム）・三清（サムチョン）・聖水（ソンス）に続く韓国国内の店舗です。垂木と柱が残る韓屋の中にブランドの赤とステンレスを取り入れ、朝鮮時代の古家具や瓦のタイルを合わせました。伝統的な布団棚と枕棚は、香水の陳列台になっています。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（Café Red Accord）」があります。ブランドは、香水をつくるようにコーヒーの香りと風味、飲んだ後の余韻まで設計したと説明しています。バー形式のドリップステーションでは、ハンドドリップの工程を見ることができます。\n\nオープン：10月20日\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #ボーントゥスタンドアウト #北村 #韓国旅行 #ソウルカフェ",
+      "form": "[카테고리]\n공간\n\n[캡션]\nボーントゥスタンドアウト（BORNTOSTANDOUT）が、北村の韓屋に4店舗目の旗艦店をオープンしました。\n\n漢南・三清・聖水に続く韓国内の店舗です。垂木と柱が残る韓屋の中にブランドの赤とステンレスを取り入れ、朝鮮時代の古家具や瓦のタイルを合わせて置きました。伝統的な布団箪笥や枕箪笥は、香水の陳列台になりました。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（CAFÉ RED ACCORD）」があります。ブランドは、香水をつくるようにコーヒーの香りや風味、飲んだ後の余韻まで設計したと説明しています。バー形式のドリップステーションでは、ハンドドリップの過程を見ることができます。\n\nオープン：10月20日（火）\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #ボーントゥスタンドアウト #北村 #韓国旅行 #ソウルカフェ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896472/xg5e4nn9jsbiac8spqti.jpg\n제목: ボーントゥスタンドアウト、|北村の韓屋に新店舗\n부제: 4店舗目の旗艦店・初のカフェ「カフェ・レッド・アコード」\n출처: BORNTOSTANDOUT\n",
+      "caption": "ボーントゥスタンドアウト（BORNTOSTANDOUT）が、北村の韓屋に4店舗目の旗艦店をオープンしました。\n\n漢南・三清・聖水に続く韓国内の店舗です。垂木と柱が残る韓屋の中にブランドの赤とステンレスを取り入れ、朝鮮時代の古家具や瓦のタイルを合わせて置きました。伝統的な布団箪笥や枕箪笥は、香水の陳列台になりました。\n\n石塔のある中庭側には、ブランド初のカフェ「カフェ・レッド・アコード（CAFÉ RED ACCORD）」があります。ブランドは、香水をつくるようにコーヒーの香りや風味、飲んだ後の余韻まで設計したと説明しています。バー形式のドリップステーションでは、ハンドドリップの過程を見ることができます。\n\nオープン：10月20日（火）\n場所：ソウル・鍾路区 北村（プクチョン）\n#SENE #ボーントゥスタンドアウト #北村 #韓国旅行 #ソウルカフェ",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896592/h6akkh0irnbsbzqvkh9m.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896592/fnanvskhzi5gpo8tbf3r.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896673/szhm6srgmrca9vm4aklt.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896673/pdrixkbx55fomgigiija.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896592/h6akkh0irnbsbzqvkh9m.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896673/szhm6srgmrca9vm4aklt.jpg"
        },
-       "at": "2026-10-25T11:49+09:00"
+       "at": "2026-10-25T11:51+09:00"
       }
      }
     }
@@ -1176,7 +1231,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T11:49+09:00"
+  "at": "2026-10-25T11:51+09:00"
  },
  "slots": {
   "basis": 0,
