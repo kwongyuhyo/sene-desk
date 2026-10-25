@@ -1065,6 +1065,13 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=twAxCs4yMs4\n구간: 0:00-0:31\n곡: SSG DAY is Oct 30\n아티스트: Don't buy anything\n피처링:\n후킹: Not yet, please\n출처: Shinsegae Group Newsroom\n자막: 자동",
       "caption": "A teaser video Shinsegae Group released ahead of SSG DAY. Staff stop customers in their tracks, asking them to wait until the 30th.\n\nEighteen affiliates take part in SSG DAY this year, and 13 of them extend the event to ten days, running through Nov 8. Starbucks releases four pieces of 'Toy Story' collaboration merchandise, and W Concept sells a FRONTROW shearling jacket in the KRW 180,000 range.\n\nAt Starfield Hanam, the affiliates jointly run a pop-up, 'SSG DAY Blooming Market'.\n\nDates: Oct 30 (Fri) – Nov 8 (Sun)\nVideo: Shinsegae Group Newsroom\n#SENE #SSGDAY #StarbucksKorea #ToyStory #StarfieldHanam"
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De6MJVVFESP/",
+      "cover": "E",
+      "at": "2026-10-25T16:38+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -1085,8 +1092,22 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=twAxCs4yMs4\n구간: 0:00-0:31\n곡: 10/30 SSGデー\n아티스트: 買わないでください\n피처링:\n후킹: お客様、まだ\n출처: 新世界グループ ニュースルーム\n자막: 자동",
       "caption": "新世界グループがSSG DAYを前に公開したティザー映像です。スタッフがお客さんを引き止め、30日まで待ってほしいと頼みます。\n\n今年のSSG DAYには18社が参加しますが、そのうち13社は期間を10日間に延ばし、11月8日まで続けます。スターバックスは『トイ・ストーリー』とのコラボグッズ4種を、WコンセプトはFRONTROW（フロントロウ）のムートンジャケットを18万ウォン台で発売します。\n\nスターフィールド河南（ハナム）では、各社が共同で手がけるポップアップ「SSG DAY ブルーミングマーケット」が開かれます。\n\n期間：10月30日（金）〜11月8日（日）\n映像：新世界グループ ニュースルーム\n#SENE #韓国旅行 #スタバ韓国 #トイストーリー #スターフィールド河南"
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De6MLcYlDLj/",
+      "cover": "J",
+      "at": "2026-10-25T16:39+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De6MG2rlLqY/",
+    "cover": "A",
+    "at": "2026-10-25T16:38+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -1398,7 +1419,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T13:00+09:00"
+  "at": "2026-10-25T16:39+09:00"
  },
  "slots": {
   "basis": 0,
