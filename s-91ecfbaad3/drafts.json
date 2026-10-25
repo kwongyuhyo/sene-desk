@@ -802,8 +802,8 @@
      "v": {
       "A": "1939881d",
       "B": "30fae90d",
-      "E": "d9a38bda",
-      "J": "6465194f"
+      "E": "3fcb15a9",
+      "J": "ab89f25d"
      }
     }
    },
@@ -924,67 +924,73 @@
    "i18n_queued": "2026-10-25T11:47+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-25T11:52+09:00",
+    "at": "2026-10-25T11:54+09:00",
     "confirm": [
-     "쓱데이의 올해 공식 영어·일본어 표기 — 지난 영문 보도에는 'SSG Day'가 쓰였지만 2026년 신세계 공식 표기는 검색으로 확인하지 못했습니다. 일본어 'SSGデー'는 로마자를 바탕으로 정했습니다.",
-     "'쓱데이 블루밍마켓'·'쓱데이 완성 챌린지'·프론트로우 무스탕 점퍼의 공식 영문 이름은 확인하지 못했습니다. 영어는 뜻을 옮겼고('Blooming Market'·'Completion Challenge'), 일본어는 カタカナ로 적었습니다.",
-     "'최대 5만 원의 포인트'는 'up to 50,000 points' / '最大5万ポイント'로 옮겼습니다. 1포인트가 1원이라는 것은 확인하지 못했습니다.",
-     "부제 '18개 계열사 · 열흘'은 원문을 그대로 옮겼습니다. 캡션을 보면 열흘로 늘린 곳은 18곳 가운데 13곳입니다.",
-     "스타필드 하남 위치는 'Hanam, Gyeonggi-do' / '京畿道・河南市'로 덧붙였습니다. 사우스 아트리움의 공식 영어·일본어 표기도 다시 확인해 주세요.",
-     "부제(18개 계열사 · 11월 8일까지 열흘)는 18곳 모두 열흘간 한다고 읽힐 수 있음 — 실제로 열흘로 늘린 곳은 13곳이라 한국어 원문부터 손볼지 판단 필요"
+     "쓱데이의 공식 영어·일본어 표기 못 찾음 — 검색해도 2026 쓱데이 영어·일본어 공식 발표가 안 나와서 영어는 'SSG Day', 일본어는 'SSG DAY（쓱데이／スッデイ）'로 임시 표기",
+     "'쓱데이 블루밍마켓'·'쓱데이 완성 챌린지' 영어·일본어 이름은 로마자/カタカナ로 옮긴 것 — 공식 표기 확인 필요",
+     "'프론트로우 무스탕 점퍼'를 Frontrow shearling jacket / フロントロウ（FRONTROW）のムートンジャケット로 옮김 — 공식 제품명 확인 필요",
+     "팝업 장소에 외국 독자용으로 'Hanam, Gyeonggi Province' / 「京畿道河南市」를 덧붙임 (스타필드 하남은 서울이 아니라 경기도 하남시)",
+     "숏폼 세 줄은 후킹→아티스트→곡 순서(고객님, 아직 / 사지 마세요 / 10월 30일 쓱데이)로 이어 읽힌다고 보고 옮김",
+     "영어 숏폼 세 줄을 'Excuse me, not yet / Please don't buy / SSG Day, Oct 30' 순서로 읽으면 목적어 없이 끊겨 조금 딱딱합니다 — 실제 영상에 나오는 순서와 길이 제한(20자)에 맞는지 화면에서 확인",
+     "무스탕 점퍼의 '18만 원대'(KRW 180,000 range)는 정확한 가격이 아닌 원문 표현입니다 — W컨셉 판매 페이지의 실제 가격 확인",
+     "영어판은 SSG Day, 일본어판은 SSG DAY 로 표기가 다릅니다 — 신세계 공식 영문 표기가 하나로 정해져 있다면 맞추기"
     ],
     "review": {
-     "at": "2026-10-25T11:52+09:00",
+     "at": "2026-10-25T11:54+09:00",
      "fixes": [
-      "영어 · 캡션 첫 문장 · 'annual' 삭제 — 원문에 없는 사실(매년 열린다)이 더해짐",
-      "영어 · 캡션·숏폼 캡션 · mustang jacket → shearling jacket — '무스탕'은 콩글리시라 영어권 독자에게 뜻이 안 통함",
-      "영어 · 캡션 · up to 50,000 points → up to KRW 50,000 in points — 원문은 '5만 원의 포인트'라서 금액 단위가 빠져 있었음",
-      "일본어 · 캡션·숏폼 캡션 · ムスタンジャンパー → ムートンジャケット — 일본에서 흔히 쓰는 말로 바꿈",
-      "일본어 · 캡션 · 最大5万ポイント → 最大5万ウォン分のポイント — 원문 금액 기준에 맞춤",
-      "일본어 · 캡션·숏폼 캡션 · 参加しますが → 参加し、そのうち — 'が'가 역접으로 읽히고, 13곳이 18곳 중 일부라는 게 흐려졌음"
+      "영어 · 캡션·숏폼 캡션 · Toy Story → 'Toy Story' — 작품명 표기 규칙(Film 'Parasite' 꼴)에 맞춤",
+      "영어 · 캡션·숏폼 캡션 · four Toy Story collaboration goods → four 'Toy Story' collaboration items — goods 는 셀 수 있는 명사로 어색함",
+      "영어 · 캡션 · holiday items → holiday products — 바로 앞 items 와 겹쳐서 바꿈",
+      "영어 · 캡션·숏폼 캡션 · Frontrow → FRONTROW — 영문 보도에서 쓰는 브랜드 표기(대문자)로 맞춤",
+      "영어 · 캡션 · buy three or more times → make three or more purchases — 직역투",
+      "일본어 · 곡 칸 · 10月30日SSGデー → 10月30日SSG DAY — 제목·캡션의 SSG DAY 표기와 통일",
+      "일본어 · 캡션·숏폼 캡션 · SSG DAY（쓱데이／スッデイ） → SSG DAY（スッデイ） — 한글이 남아 있었고, 공식 로마자 표기가 있으니 원어 괄호는 필요 없음",
+      "일본어 · 캡션·숏폼 캡션 · 系列18社が参加しますが、 → 系列18社が参加し、そのうち — '~는데요'를 직역한 역접 が 가 어색함"
      ],
      "doubt": [
-      "부제(18개 계열사 · 11월 8일까지 열흘)는 18곳 모두 열흘간 한다고 읽힐 수 있음 — 실제로 열흘로 늘린 곳은 13곳이라 한국어 원문부터 손볼지 판단 필요"
+      "영어 숏폼 세 줄을 'Excuse me, not yet / Please don't buy / SSG Day, Oct 30' 순서로 읽으면 목적어 없이 끊겨 조금 딱딱합니다 — 실제 영상에 나오는 순서와 길이 제한(20자)에 맞는지 화면에서 확인",
+      "무스탕 점퍼의 '18만 원대'(KRW 180,000 range)는 정확한 가격이 아닌 원문 표현입니다 — W컨셉 판매 페이지의 실제 가격 확인",
+      "영어판은 SSG Day, 일본어판은 SSG DAY 로 표기가 다릅니다 — 신세계 공식 영문 표기가 하나로 정해져 있다면 맞추기"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nShinsegae Group's sale event, SSG Day (쓱데이), opens on Oct 30.\n\nEighteen affiliates take part this year, and 13 of them, including Emart, Starbucks, SSG.COM and Shinsegae International, extend the event to ten days, running through Nov 8.\n\nStarbucks releases four pieces of 'Toy Story' collaboration merchandise along with holiday items. W Concept sells a Frontrow shearling jacket in the KRW 180,000 range, and Starfield Hanam hosts 'SSG Day Blooming Market', a pop-up put together by the group's affiliates.\n\nThe 'SSG Day Completion Challenge' also starts on the 30th: shoppers who make three or more purchases at Shinsegae Point partner stores and finish the app missions receive up to KRW 50,000 in points.\n\nDates: Oct 30 (Fri) – Nov 8 (Sun)\nPop-up: 'SSG Day Blooming Market', South Atrium, Starfield Hanam (Hanam, Gyeonggi-do)\n#SENE #SSGDay #StarbucksKorea #ToyStory #StarfieldHanam\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896467/yq6z2hdiljb7at89b5sb.jpg\n제목: Shinsegae SSG Day|Opens Oct 30\n부제: 18 affiliates · 10 days through Nov 8\n출처: Shinsegae Group\n",
-      "caption": "Shinsegae Group's sale event, SSG Day (쓱데이), opens on Oct 30.\n\nEighteen affiliates take part this year, and 13 of them, including Emart, Starbucks, SSG.COM and Shinsegae International, extend the event to ten days, running through Nov 8.\n\nStarbucks releases four pieces of 'Toy Story' collaboration merchandise along with holiday items. W Concept sells a Frontrow shearling jacket in the KRW 180,000 range, and Starfield Hanam hosts 'SSG Day Blooming Market', a pop-up put together by the group's affiliates.\n\nThe 'SSG Day Completion Challenge' also starts on the 30th: shoppers who make three or more purchases at Shinsegae Point partner stores and finish the app missions receive up to KRW 50,000 in points.\n\nDates: Oct 30 (Fri) – Nov 8 (Sun)\nPop-up: 'SSG Day Blooming Market', South Atrium, Starfield Hanam (Hanam, Gyeonggi-do)\n#SENE #SSGDay #StarbucksKorea #ToyStory #StarfieldHanam",
+      "form": "[카테고리]\n패션\n\n[캡션]\nShinsegae Group's sale event SSG Day opens on Oct 30.\n\nEighteen affiliates take part this year, and 13 of them, including Emart, Starbucks, SSG.COM and Shinsegae International, stretch the event to ten days, running through Nov 8.\n\nStarbucks releases four 'Toy Story' collaboration items along with its holiday products. W Concept sells a FRONTROW shearling jacket in the KRW 180,000 range, and the affiliates open a joint pop-up, 'SSG Day Blooming Market', at Starfield Hanam.\n\nThe 'SSG Day Completion Challenge' also starts on the 30th. Shoppers who make three or more purchases at Shinsegae Point partner stores and finish the app missions get up to KRW 50,000 in points.\n\nDates: Oct 30 (Fri) – Nov 8 (Sun)\nPop-up: 'SSG Day Blooming Market', South Atrium, Starfield Hanam (Hanam, Gyeonggi Province)\n#SENE #SSGDay #StarbucksKorea #ToyStory #StarfieldHanam\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896467/yq6z2hdiljb7at89b5sb.jpg\n제목: Shinsegae SSG Day|Opens Oct 30\n부제: 18 Affiliates · Ten Days to Nov 8\n출처: Shinsegae Group\n",
+      "caption": "Shinsegae Group's sale event SSG Day opens on Oct 30.\n\nEighteen affiliates take part this year, and 13 of them, including Emart, Starbucks, SSG.COM and Shinsegae International, stretch the event to ten days, running through Nov 8.\n\nStarbucks releases four 'Toy Story' collaboration items along with its holiday products. W Concept sells a FRONTROW shearling jacket in the KRW 180,000 range, and the affiliates open a joint pop-up, 'SSG Day Blooming Market', at Starfield Hanam.\n\nThe 'SSG Day Completion Challenge' also starts on the 30th. Shoppers who make three or more purchases at Shinsegae Point partner stores and finish the app missions get up to KRW 50,000 in points.\n\nDates: Oct 30 (Fri) – Nov 8 (Sun)\nPop-up: 'SSG Day Blooming Market', South Atrium, Starfield Hanam (Hanam, Gyeonggi Province)\n#SENE #SSGDay #StarbucksKorea #ToyStory #StarfieldHanam",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896752/r0kc5itsvtcyopg3bp76.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896752/p6qicrz6hhebysvckjuv.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896861/bhjw7bqm8rp1ktntfkq6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896861/f4dfw7gewudny9pmpcla.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896752/r0kc5itsvtcyopg3bp76.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896861/bhjw7bqm8rp1ktntfkq6.jpg"
        },
-       "at": "2026-10-25T11:52+09:00"
+       "at": "2026-10-25T11:54+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=twAxCs4yMs4\n구간: 0:00-0:31\n곡: SSG Day, Oct 30\n아티스트: Don't buy yet.\n피처링:\n후킹: Hold on, please.\n출처: Shinsegae Group Newsroom\n자막: 자동",
-      "caption": "This is Shinsegae Group's teaser video for SSG Day (쓱데이). In it, staff stop customers in their tracks and ask them to wait until the 30th.\n\nEighteen affiliates join SSG Day this year, and 13 of them extend the event to ten days, running through Nov 8. Starbucks releases four pieces of 'Toy Story' collaboration merchandise, and W Concept offers a Frontrow shearling jacket in the KRW 180,000 range.\n\nAt Starfield Hanam, the group's affiliates open a joint pop-up, 'SSG Day Blooming Market'.\n\nDates: Oct 30 (Fri) – Nov 8 (Sun)\nVideo: Shinsegae Group Newsroom\n#SENE #SSGDay #StarbucksKorea #ToyStory #StarfieldHanam"
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=twAxCs4yMs4\n구간: 0:00-0:31\n곡: SSG Day, Oct 30\n아티스트: Please don't buy\n피처링:\n후킹: Excuse me, not yet\n출처: Shinsegae Group Newsroom\n자막: 자동",
+      "caption": "This is a teaser video Shinsegae Group released ahead of SSG Day. Staff members stop customers and ask them to wait until the 30th.\n\nEighteen affiliates take part in this year's SSG Day, and 13 of them stretch the event to ten days, running through Nov 8. Starbucks releases four 'Toy Story' collaboration items, and W Concept sells a FRONTROW shearling jacket in the KRW 180,000 range.\n\nThe affiliates also open a joint pop-up, 'SSG Day Blooming Market', at Starfield Hanam.\n\nDates: Oct 30 (Fri) – Nov 8 (Sun)\nVideo: Shinsegae Group Newsroom\n#SENE #SSGDay #StarbucksKorea #ToyStory #StarfieldHanam"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\n新世界（シンセゲ）グループのセールイベント「SSGデー（쓱데이）」が10月30日に開かれます。\n\n今年は18の系列会社が参加し、そのうちイーマート・スターバックス・SSG.COM・新世界インターナショナルなど13社が期間を10日間に延ばし、11月8日まで続けます。\n\nスターバックスは『トイ・ストーリー』とのコラボグッズ4種とホリデー商品を販売します。Wコンセプトはフロントロウのムートンジャケットを18万ウォン台で販売し、スターフィールド河南（ハナム）には系列会社が共同で手がけるポップアップ「SSGデー ブルーミングマーケット」がオープンします。\n\n新世界ポイント加盟店で3回以上購入し、アプリのミッションを終えると最大5万ウォン分のポイントがもらえる「SSGデー完成チャレンジ」も30日から始まります。\n\n期間：10月30日（金）〜11月8日（日）\nポップアップ：京畿道・河南市 スターフィールド河南 サウスアトリウム「SSGデー ブルーミングマーケット」\n#SENE #韓国旅行 #韓国スタバ #トイストーリー #スターフィールド河南\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896467/yq6z2hdiljb7at89b5sb.jpg\n제목: 新世界SSGデー、|10月30日開幕\n부제: 18社参加・11月8日まで10日間\n출처: 新世界グループ\n",
-      "caption": "新世界（シンセゲ）グループのセールイベント「SSGデー（쓱데이）」が10月30日に開かれます。\n\n今年は18の系列会社が参加し、そのうちイーマート・スターバックス・SSG.COM・新世界インターナショナルなど13社が期間を10日間に延ばし、11月8日まで続けます。\n\nスターバックスは『トイ・ストーリー』とのコラボグッズ4種とホリデー商品を販売します。Wコンセプトはフロントロウのムートンジャケットを18万ウォン台で販売し、スターフィールド河南（ハナム）には系列会社が共同で手がけるポップアップ「SSGデー ブルーミングマーケット」がオープンします。\n\n新世界ポイント加盟店で3回以上購入し、アプリのミッションを終えると最大5万ウォン分のポイントがもらえる「SSGデー完成チャレンジ」も30日から始まります。\n\n期間：10月30日（金）〜11月8日（日）\nポップアップ：京畿道・河南市 スターフィールド河南 サウスアトリウム「SSGデー ブルーミングマーケット」\n#SENE #韓国旅行 #韓国スタバ #トイストーリー #スターフィールド河南",
+      "form": "[카테고리]\n패션\n\n[캡션]\n新世界（シンセゲ）グループのセールイベント「SSG DAY（スッデイ）」が10月30日に始まります。\n\n今年は系列18社が参加し、そのうちイーマート、スターバックス、SSG.COM、新世界インターナショナルなど13社は期間を10日間に延ばし、11月8日まで続けます。\n\nスターバックスは『トイ・ストーリー』とのコラボグッズ4種とホリデー商品を発売します。Wコンセプトはフロントロウ（FRONTROW）のムートンジャケットを18万ウォン台で販売し、スターフィールド河南（ハナム）では系列各社が共同で手がけたポップアップ「SSG DAY ブルーミングマーケット」が開かれます。\n\n新世界ポイント加盟店で3回以上買い物をし、アプリのミッションを終えると最大5万ウォン分のポイントがもらえる「SSG DAY 完成チャレンジ」も30日から始まります。\n\n期間：10月30日（金）〜11月8日（日）\nポップアップ：京畿道河南市・スターフィールド河南 サウスアトリウム「SSG DAY ブルーミングマーケット」\n#SENE #韓国旅行 #韓国ショッピング #スタバ #トイストーリー\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792896467/yq6z2hdiljb7at89b5sb.jpg\n제목: 新世界SSG DAY、|10月30日開幕\n부제: 系列18社・11月8日まで10日間\n출처: 新世界グループ\n",
+      "caption": "新世界（シンセゲ）グループのセールイベント「SSG DAY（スッデイ）」が10月30日に始まります。\n\n今年は系列18社が参加し、そのうちイーマート、スターバックス、SSG.COM、新世界インターナショナルなど13社は期間を10日間に延ばし、11月8日まで続けます。\n\nスターバックスは『トイ・ストーリー』とのコラボグッズ4種とホリデー商品を発売します。Wコンセプトはフロントロウ（FRONTROW）のムートンジャケットを18万ウォン台で販売し、スターフィールド河南（ハナム）では系列各社が共同で手がけたポップアップ「SSG DAY ブルーミングマーケット」が開かれます。\n\n新世界ポイント加盟店で3回以上買い物をし、アプリのミッションを終えると最大5万ウォン分のポイントがもらえる「SSG DAY 完成チャレンジ」も30日から始まります。\n\n期間：10月30日（金）〜11月8日（日）\nポップアップ：京畿道河南市・スターフィールド河南 サウスアトリウム「SSG DAY ブルーミングマーケット」\n#SENE #韓国旅行 #韓国ショッピング #スタバ #トイストーリー",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896755/anxoezajs60jjwfnhxme.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896754/f4bzjuweje5pia8lcq4e.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896864/qiwjobn9na6nb8nxlzn0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896864/kqewqmyp4zzvyvivicw5.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896755/anxoezajs60jjwfnhxme.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896864/qiwjobn9na6nb8nxlzn0.jpg"
        },
-       "at": "2026-10-25T11:52+09:00"
+       "at": "2026-10-25T11:54+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=twAxCs4yMs4\n구간: 0:00-0:31\n곡: 10月30日SSGデー\n아티스트: 買わないでください\n피처링:\n후킹: お客様、まだ\n출처: 新世界グループ ニュースルーム\n자막: 자동",
-      "caption": "新世界（シンセゲ）グループが「SSGデー（쓱데이）」を前に公開したティーザー映像です。スタッフがお客様を引き止め、30日まで待ってほしいと呼びかけます。\n\n今年のSSGデーには18の系列会社が参加し、そのうち13社が期間を10日間に延ばし、11月8日まで続けます。スターバックスは『トイ・ストーリー』とのコラボグッズ4種を、Wコンセプトはフロントロウのムートンジャケットを18万ウォン台で販売します。\n\nスターフィールド河南（ハナム）には、系列会社が共同で手がけるポップアップ「SSGデー ブルーミングマーケット」がオープンします。\n\n期間：10月30日（金）〜11月8日（日）\n映像：新世界グループ ニュースルーム\n#SENE #韓国旅行 #韓国スタバ #トイストーリー #スターフィールド河南"
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=twAxCs4yMs4\n구간: 0:00-0:31\n곡: 10月30日SSG DAY\n아티스트: 買わないで\n피처링:\n후킹: お客様、まだ\n출처: 新世界グループ ニュースルーム\n자막: 자동",
+      "caption": "新世界（シンセゲ）グループがSSG DAY（スッデイ）を前に公開したティザー映像です。店員たちがお客様を引き止め、30日まで待ってほしいと頼みます。\n\n今年のSSG DAYには系列18社が参加し、そのうち13社は期間を10日間に延ばし、11月8日まで続けます。スターバックスは『トイ・ストーリー』とのコラボグッズ4種を、Wコンセプトはフロントロウ（FRONTROW）のムートンジャケットを18万ウォン台で販売します。\n\nスターフィールド河南（ハナム）では、系列各社が共同で手がけたポップアップ「SSG DAY ブルーミングマーケット」が開かれます。\n\n期間：10月30日（金）〜11月8日（日）\n映像：新世界グループ ニュースルーム\n#SENE #韓国旅行 #韓国ショッピング #スタバ #トイストーリー"
      }
     }
    }
@@ -1298,7 +1304,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-25T11:52+09:00"
+  "at": "2026-10-25T11:54+09:00"
  },
  "slots": {
   "basis": 0,
