@@ -1445,8 +1445,8 @@
      "at": "2026-10-26T11:57+09:00",
      "v": {
       "A": "2f7e631d",
-      "E": "926d503e",
-      "J": "14f87185"
+      "E": "ad431d13",
+      "J": "53964d8d"
      }
     }
    },
@@ -1459,75 +1459,71 @@
    "corner_name": "이번 주 오픈 예정",
    "corner_no": 1,
    "i18n": {
-    "at": "2026-10-26T12:02+09:00",
+    "at": "2026-10-26T12:03+09:00",
     "confirm": [
-     "상미당홀딩스(옛 SPC그룹)의 공식 영문·일문 표기를 찾지 못했습니다 — 영어는 'Sangmidang Holdings', 일본어는 'サンミダンホールディングス' 로 로마자·가타카나 표기했습니다",
-     "치폴레 2호점(신세계 강남점) 오픈일 10/28 — 9월 기사에서는 '연내 2호점 신세계 강남점 예정'까지만 확인됐습니다. 날짜는 원문을 그대로 옮겼습니다",
-     "틸테이블 공식 영문·일문 표기를 찾지 못했습니다 — 'Till Table' · 'ティルテーブル（틸테이블）' 로 옮겼습니다",
-     "'달빛장터' 는 'Moonlight Market' · '月明かり市場' 으로 옮겼습니다 (공식 외국어 표기는 찾지 못함)",
-     "일본어 표기 チポトレ・マービス・勝利の女神：NIKKE・マリアン 은 일본 현지 쓰임 기준이고, 이번 대화에서 다시 검색해 확인하지는 않았습니다",
-     "팝업 공식 영문명 'LoL Music & Worlds' 는 Inven Global 기사 표기를 따랐습니다. 일본어 'ミュージック＆ワールド' 는 공식 일본어 표기가 아닙니다",
-     "영어·일본어 · 마비스 팝업 장소 'Till Table / ティルテーブル(틸테이블)' 은 로마자로 옮긴 것 — 공간의 공식 영문 표기를 확인하지 못함",
-     "영어·일본어 · 'Trendpod by Olive Young N Seongsu / トレンドポッド バイ オリーブヤングN聖水' — 공식 영문 표기(TREND POD 띄어쓰기·대소문자)를 확인하지 못함",
-     "영어·일본어 · LoL 팝업 이름 'Music & Worlds / ミュージック＆ワールド' — 라이엇 공식 영문·일본어 명칭을 확인하지 못함 (일본어는 'ワールズ' 일 수도 있음)",
-     "일본어 · 정동야행 일본어 공식 표기(貞洞夜行)는 확인하지 못함 — 일본어 공식 안내가 있는지 봐야 함"
+     "'마비스 성수 팝업' 장소 '틸테이블'의 영문 공식 표기를 찾지 못했습니다. 영어판은 'Til Table', 일본어판은 'ティルテーブル'로 임시 표기했으니 마비스 공지에서 확인해 주세요.",
+     "'트렌드팟 바이 올리브영N 성수'의 영문 표기는 Inven Global 기사를 따라 'Trend Pod by Olive Young N Seongsu'로 썼습니다. 올리브영 공식 표기(POD/POT, 띄어쓰기)를 확인해 주세요.",
+     "'정동야행'은 공식 영문명이 하나로 정해져 있지 않습니다(Night Walk / Night Tour / Culture Night). 영어판은 보도에서 쓴 'Jeongdong Night Walk', 일본어판은 '貞洞夜行'으로 썼습니다.",
+     "'상미당홀딩스'는 영문 공식 명칭을 찾지 못해 로마자 'Sangmidang Holdings', 일본어 'サンミダンホールディングス'로 옮겼습니다.",
+     "LoL 팝업 이름은 기사 표기 'Music & Worlds'를 따랐습니다. 일본어 'ミュージック＆ワールド'는 공식 일본어 표기를 확인하지 못했습니다.",
+     "'달빛장터'의 일본어 '月明かり市場'과 영어 'Moonlight Market'은 공식 표기가 아니라 의역입니다.",
+     "영어 · 정동야행 영문 공식 명칭(Jeongdong Night Walk 등)은 확인하지 못했습니다 — 서울 중구 영문 안내와 맞춰 봐야 합니다",
+     "영어·일본어 · '뮤직 앤 월즈' 팝업의 공식 영문 표기(Music & Worlds)와 일본어 표기(ミュージック＆ワールド)는 라이엇 공식 게시물로 확인하지 못했습니다",
+     "영어·일본어 · 마비스 팝업 장소 '틸테이블'의 공식 로마자 표기(Til Table)를 확인하지 못했습니다"
     ],
     "review": {
-     "at": "2026-10-26T12:02+09:00",
+     "at": "2026-10-26T12:03+09:00",
      "fixes": [
-      "영어 · 정동야행 소제목·해시태그 · Jeongdong Night Walk → Jeongdong Culture Night — 코리아중앙데일리 등 영문 매체가 쓰는 이름 (#JeongdongNightWalk → #JeongdongCultureNight)",
-      "영어 · 정동야행 본문 · 'The program runs through a palace concert' → 'The program includes a palace concert' — 직역투, 뜻이 흐림",
-      "일본어 · 정동야행 본문 · 「夜に門を開きます」 → 「夜間に開放されます」, 「月明かり市場（달빛장터）」が続き → 「…」などが行われ — 직역투",
-      "일본어 · 캡션 둘째 단락 · 「開かれますが、聖水は」 → 「開かれ、聖水は」 — 역접 'が' 가 어색함"
+      "영어 · LoL 본문 · themed on → themed around — 영어 연어가 어색함",
+      "영어 · 니케 본문 · a large Marian sculpture → a large sculpture of the character Marian — 'Marian'이 '성모 마리아의'라는 형용사로도 읽혀 두 가지 뜻이 됨"
      ],
      "doubt": [
-      "영어·일본어 · 마비스 팝업 장소 'Till Table / ティルテーブル(틸테이블)' 은 로마자로 옮긴 것 — 공간의 공식 영문 표기를 확인하지 못함",
-      "영어·일본어 · 'Trendpod by Olive Young N Seongsu / トレンドポッド バイ オリーブヤングN聖水' — 공식 영문 표기(TREND POD 띄어쓰기·대소문자)를 확인하지 못함",
-      "영어·일본어 · LoL 팝업 이름 'Music & Worlds / ミュージック＆ワールド' — 라이엇 공식 영문·일본어 명칭을 확인하지 못함 (일본어는 'ワールズ' 일 수도 있음)",
-      "일본어 · 정동야행 일본어 공식 표기(貞洞夜行)는 확인하지 못함 — 일본어 공식 안내가 있는지 봐야 함"
+      "영어 · 정동야행 영문 공식 명칭(Jeongdong Night Walk 등)은 확인하지 못했습니다 — 서울 중구 영문 안내와 맞춰 봐야 합니다",
+      "영어·일본어 · '뮤직 앤 월즈' 팝업의 공식 영문 표기(Music & Worlds)와 일본어 표기(ミュージック＆ワールド)는 라이엇 공식 게시물로 확인하지 못했습니다",
+      "영어·일본어 · 마비스 팝업 장소 '틸테이블'의 공식 로마자 표기(Til Table)를 확인하지 못했습니다"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nThis week's new openings are spread evenly across Gangnam, Seongsu, Yongsan and Jeongdong.\n\nOn Wednesday, Chipotle opens its second store in Korea on B1 of Shinsegae Gangnam, and the same day in Seongsu, Italian toothpaste brand Marvis (@marvis_korea) launches a five-day experiential pop-up. From Thursday, League of Legends (@leagueoflegendskorea) brings its 'Music & Worlds' pop-up to Seongsu after Jamsil, and the Seongsu stop runs until Sunday, Nov 8.\n\nOn Friday, a 'GODDESS OF VICTORY: NIKKE' 4th anniversary sculpture goes up at IPARK Mall Yongsan, and that evening Deoksugung Palace and 34 sites around Jeongdong stay open until 10 p.m. Each slide lists dates and locations in order of opening day.\n\nDates: Oct 26 (Mon) – Nov 1 (Sun)\nLocation: Gangnam, Seongsu, Yongsan and Jeongdong, Seoul\n#SENE #SeoulPopup #Seongsu #Gangnam #JeongdongCultureNight\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983403/xtsltaix4cjk5pnhg48o.jpg\n제목: Opening This Week|Oct 26 – Nov 1: 5 Spots\n부제: Gangnam · Seongsu · Yongsan · Jeongdong · by opening date\n출처: Source: Sangmidang Holdings\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983405/qakpqhzdtknhucy2c0m2.jpg\n소제목: Chipotle's 2nd Korea Store · Oct 28 (Wed)\n본문: American Mexican grill Chipotle opens its second store in Korea on B1 of Shinsegae Department Store Gangnam, following its first on Gangnam-daero. Guests build their own burritos, burrito bowls and tacos by picking each ingredient.|Opening: Oct 28 (Wed)|Location: B1, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\n출처: Source: Chipotle\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983407/kygzorglcomrjmuwgt4g.jpg\n소제목: Marvis Seongsu Pop-Up · Oct 28 (Wed) – Nov 1 (Sun)\n본문: The 'FIND THE SHINING STAR' pop-up from Italian toothpaste brand Marvis. In a spaceship-themed space, visitors experience scent, sound and fog, and use a toothbrush to search for star objects hidden in sand.|Dates: Oct 28 (Wed) – Nov 1 (Sun)|Location: Till Table, Seongsu-dong, Seongdong-gu, Seoul|Hours: 11:00–19:00\n출처: Source: @marvis_korea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983409/hqc5p9iecnbflnkqw2s1.jpg\n소제목: LoL Music & Worlds Seongsu · Oct 29 (Thu) – Nov 8 (Sun)\n본문: After Jamsil, Riot Games brings its pop-up themed on the 2026 League of Legends World Championship to Seongsu. It features photo zones, quizzes, lucky draws and a Riot Store.|Dates: Oct 29 (Thu) – Nov 8 (Sun)|Location: Trendpod by Olive Young N Seongsu, Seongdong-gu, Seoul\n출처: Source: @leagueoflegendskorea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983411/bjtjuco2kpm83xikebdq.jpg\n소제목: NIKKE 4th Anniversary, Yongsan · Oct 30 (Fri) – Nov 1 (Sun)\n본문: For the 4th anniversary of the game 'GODDESS OF VICTORY: NIKKE', a large Marian sculpture stands at The Terrace and The Garden on the 4th floor of The Center.|Dates: Oct 30 (Fri) – Nov 1 (Sun)|Location: The Center 4F, IPARK Mall Yongsan, Yongsan-gu, Seoul\n출처: Source: GODDESS OF VICTORY: NIKKE\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983413/wfkyuccfwquvnzqo9a5x.jpg\n소제목: 2026 Jeongdong Culture Night · Oct 30 (Fri) – 31 (Sat)\n본문: Deoksugung Palace and 34 historic and cultural sites around Jeongdong open their doors at night. The program includes a palace concert, stone-wall path activities, neon photo zones and the 'Moonlight Market', and visitors who missed advance registration can still join the on-site performances and activities.|Dates: Oct 30 (Fri) 18:00–22:00 · Oct 31 (Sat) 14:00–22:00|Location: Deoksugung Palace and Jeongdong area, Jung-gu, Seoul\n출처: Source: Jung-gu, Seoul\n",
-      "caption": "This week's new openings are spread evenly across Gangnam, Seongsu, Yongsan and Jeongdong.\n\nOn Wednesday, Chipotle opens its second store in Korea on B1 of Shinsegae Gangnam, and the same day in Seongsu, Italian toothpaste brand Marvis (@marvis_korea) launches a five-day experiential pop-up. From Thursday, League of Legends (@leagueoflegendskorea) brings its 'Music & Worlds' pop-up to Seongsu after Jamsil, and the Seongsu stop runs until Sunday, Nov 8.\n\nOn Friday, a 'GODDESS OF VICTORY: NIKKE' 4th anniversary sculpture goes up at IPARK Mall Yongsan, and that evening Deoksugung Palace and 34 sites around Jeongdong stay open until 10 p.m. Each slide lists dates and locations in order of opening day.\n\nDates: Oct 26 (Mon) – Nov 1 (Sun)\nLocation: Gangnam, Seongsu, Yongsan and Jeongdong, Seoul\n#SENE #SeoulPopup #Seongsu #Gangnam #JeongdongCultureNight",
+      "form": "[카테고리]\n공간\n\n[캡션]\nThis week's new openings are spread across Gangnam, Seongsu, Yongsan and Jeongdong.\n\nOn Wednesday, Chipotle opens its second store in Korea on B1 of Shinsegae Department Store Gangnam, and the same day in Seongsu, Italian toothpaste brand Marvis (@marvis_korea) launches a five-day experiential pop-up. From Thursday, League of Legends (@leagueoflegendskorea) brings its 'Music & Worlds' pop-up to Seongsu after Jamsil — the Seongsu leg runs through Sunday, Nov 8.\n\nOn Friday, a 4th-anniversary sculpture for GODDESS OF VICTORY: NIKKE goes up at IPARK Mall Yongsan, and that evening 34 sites around Deoksugung Palace and Jeongdong stay open until 10 p.m. Each slide lists dates and locations in order of opening.\n\nDates: Oct 26 (Mon) – Nov 1 (Sun)\nLocation: Gangnam, Seongsu, Yongsan and Jeongdong, Seoul\n#SENE #SeoulPopup #Seongsu #SeoulTravel #Deoksugung\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983403/xtsltaix4cjk5pnhg48o.jpg\n제목: Opening This Week|Oct 26 – Nov 1: 5 Spots\n부제: Gangnam, Seongsu, Yongsan, Jeongdong · In order of opening\n출처: Sangmidang Holdings\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983405/qakpqhzdtknhucy2c0m2.jpg\n소제목: Chipotle's 2nd Korea Store · Oct 28 (Wed)\n본문: Chipotle, the American Mexican grill, follows its first Gangnam-daero store with a second location on B1 of Shinsegae Department Store Gangnam. Diners pick their own fillings for burritos, burrito bowls and tacos.|Opens: Oct 28 (Wed)|Location: B1, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\n출처: Chipotle\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983407/kygzorglcomrjmuwgt4g.jpg\n소제목: Marvis Pop-Up in Seongsu · Oct 28 (Wed) – Nov 1 (Sun)\n본문: Italian toothpaste brand Marvis hosts its 'FIND THE SHINING STAR' pop-up. Inside a spaceship-themed space, visitors experience scent, sound and fog, and use a toothbrush to dig star objects out of sand.|Dates: Oct 28 (Wed) – Nov 1 (Sun)|Location: Til Table, Seongsu-dong, Seongdong-gu, Seoul|Hours: 11:00–19:00\n출처: @marvis_korea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983409/hqc5p9iecnbflnkqw2s1.jpg\n소제목: LoL Music & Worlds in Seongsu · Oct 29 (Thu) – Nov 8 (Sun)\n본문: Riot Games' pop-up themed around the 2026 LoL World Championship comes to Seongsu after Jamsil, with photo zones, quizzes, lucky draws and a Riot Store.|Dates: Oct 29 (Thu) – Nov 8 (Sun)|Location: Trend Pod by Olive Young N Seongsu, Seongdong-gu, Seoul\n출처: @leagueoflegendskorea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983411/bjtjuco2kpm83xikebdq.jpg\n소제목: NIKKE 4th Anniversary in Yongsan · Oct 30 (Fri) – Nov 1 (Sun)\n본문: For the 4th anniversary of GODDESS OF VICTORY: NIKKE, a large sculpture of the character Marian stands at The Terrace and The Garden on the 4th floor of The Center.|Dates: Oct 30 (Fri) – Nov 1 (Sun)|Location: The Center 4F, IPARK Mall Yongsan, Yongsan-gu, Seoul\n출처: GODDESS OF VICTORY: NIKKE\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983413/wfkyuccfwquvnzqo9a5x.jpg\n소제목: Jeongdong Night Walk 2026 · Oct 30 (Fri) – 31 (Sat)\n본문: Thirty-four historic and cultural sites around Deoksugung Palace and Jeongdong open at night. Palace concerts, stone-wall path activities, a neon photo zone and the 'Moonlight Market' run throughout, and on-site performances and activities are open even without advance registration.|Dates: Oct 30 (Fri) 18:00–22:00 · Oct 31 (Sat) 14:00–22:00|Location: Deoksugung Palace and Jeongdong area, Jung-gu, Seoul\n출처: Jung-gu, Seoul\n",
+      "caption": "This week's new openings are spread across Gangnam, Seongsu, Yongsan and Jeongdong.\n\nOn Wednesday, Chipotle opens its second store in Korea on B1 of Shinsegae Department Store Gangnam, and the same day in Seongsu, Italian toothpaste brand Marvis (@marvis_korea) launches a five-day experiential pop-up. From Thursday, League of Legends (@leagueoflegendskorea) brings its 'Music & Worlds' pop-up to Seongsu after Jamsil — the Seongsu leg runs through Sunday, Nov 8.\n\nOn Friday, a 4th-anniversary sculpture for GODDESS OF VICTORY: NIKKE goes up at IPARK Mall Yongsan, and that evening 34 sites around Deoksugung Palace and Jeongdong stay open until 10 p.m. Each slide lists dates and locations in order of opening.\n\nDates: Oct 26 (Mon) – Nov 1 (Sun)\nLocation: Gangnam, Seongsu, Yongsan and Jeongdong, Seoul\n#SENE #SeoulPopup #Seongsu #SeoulTravel #Deoksugung",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983736/ubadvj37ovetjlrpgpau.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983736/bk7bbfiruapjrhvd7lld.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983736/apccjlg4k3dlinrsyjia.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983736/nviuwwepvanhzqhymiey.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983738/ex0ajytc0xjomnmgknqd.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983738/futggmz4hz5uslwf1zu2.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983738/qtuqa6myoemldyhaa0ac.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983843/hwpv1mex5kt4fvnziokm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983843/jtukzj9kpz1buzjaolzv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983843/zab3c7q2xbdrh7ec9pmy.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983843/lw5lmbz0i5uhvvxhbeeo.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983845/dpxygyvgas7xstczdi2s.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983845/p6wxely9fux5wbfa2cca.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983845/fgtyzcxe6zuru8ffds5r.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983736/ubadvj37ovetjlrpgpau.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983843/hwpv1mex5kt4fvnziokm.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T12:02+09:00"
+       "at": "2026-10-26T12:04+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\n今週は、新たにオープンする場所が江南・聖水・龍山・貞洞にまんべんなく散らばっています。\n\n水曜日には新世界百貨店江南店の地下1階にチポトレの韓国2号店が入り、同じ日、聖水ではイタリアの歯みがき粉ブランド、マービス（@marvis_korea）が5日間の体験型ポップアップを開きます。木曜日からはリーグ・オブ・レジェンド（@leagueoflegendskorea）の「ミュージック＆ワールド」ポップアップが蚕室に続き聖水でも開かれ、聖水は翌週日曜日の11月8日まで続きます。\n\n金曜日には龍山のアイパークモールに『勝利の女神：NIKKE』4周年の造形物が登場し、同じ日の夜には徳寿宮と貞洞一帯の34か所が夜10時まで開放されます。各ページで期間と場所をオープン日順にまとめました。\n\n期間：10月26日（月）〜11月1日（日）\n場所：ソウル・江南（カンナム）、聖水洞（ソンスドン）、龍山（ヨンサン）、貞洞（チョンドン）\n#SENE #韓国旅行 #ソウルポップアップ #聖水 #貞洞夜行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983403/xtsltaix4cjk5pnhg48o.jpg\n제목: 今週オープン予定|10/26〜11/1の5か所\n부제: 江南・聖水・龍山・貞洞 ・ オープン日順\n출처: 出典：サンミダンホールディングス\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983405/qakpqhzdtknhucy2c0m2.jpg\n소제목: チポトレ韓国2号店 ・ 10/28（水）\n본문: アメリカのメキシカングリル、チポトレ（Chipotle）が江南大路の1号店に続き、新世界百貨店江南店の地下1階に2号店をオープンします。ブリトー・ブリトーボウル・タコスに、具材を自分で選んで盛り付けるスタイルです。|オープン：10月28日（水）|場所：ソウル・瑞草区（ソチョグ） 新世界百貨店江南店 地下1階\n출처: 出典：チポトレ\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983407/kygzorglcomrjmuwgt4g.jpg\n소제목: マービス聖水ポップアップ ・ 10/28（水）〜11/1（日）\n본문: イタリアの歯みがき粉ブランド、マービス（Marvis）の「FIND THE SHINING STAR」ポップアップです。宇宙船をコンセプトにした空間で香り・サウンド・フォグを体験し、歯ブラシで砂の中の星のオブジェを探すプログラムがあります。|期間：10月28日（水）〜11月1日（日）|場所：ソウル・聖水洞（ソンスドン） ティルテーブル（틸테이블）|営業時間：11:00〜19:00\n출처: 出典：@marvis_korea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983409/hqc5p9iecnbflnkqw2s1.jpg\n소제목: LoL ミュージック＆ワールド聖水 ・ 10/29（木）〜11/8（日）\n본문: ライアットゲームズが2026 LoL ワールドチャンピオンシップをテーマにしたポップアップを、蚕室（チャムシル）に続き聖水でも開きます。フォトゾーン・クイズ・ラッキードローなどの体験とライアットストアが入ります。|期間：10月29日（木）〜11月8日（日）|場所：ソウル・聖水洞（ソンスドン） トレンドポッド バイ オリーブヤングN聖水\n출처: 出典：@leagueoflegendskorea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983411/bjtjuco2kpm83xikebdq.jpg\n소제목: NIKKE 4周年 龍山 ・ 10/30（金）〜11/1（日）\n본문: ゲーム『勝利の女神：NIKKE』の4周年を記念し、マリアンの大型造形物がザ・センター4階のザ・テラスとザ・ガーデンに登場します。|期間：10月30日（金）〜11月1日（日）|場所：ソウル・龍山区（ヨンサング） アイパークモール龍山店 ザ・センター4階\n출처: 出典：勝利の女神：NIKKE\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983413/wfkyuccfwquvnzqo9a5x.jpg\n소제목: 2026 貞洞夜行 ・ 10/30（金）〜31（土）\n본문: 徳寿宮（トクスグン）と貞洞一帯の歴史文化施設34か所が夜間に開放されます。古宮音楽会、石垣道の体験、ネオンのフォトゾーン、市場「月明かり市場（달빛장터）」などが行われ、事前申込をしていなくても現地の公演や体験は楽しめます。|期間：10月30日（金）18:00〜22:00 ・ 31日（土）14:00〜22:00|場所：ソウル・中区（チュング） 徳寿宮・貞洞（チョンドン）一帯\n출처: 出典：ソウル中区\n",
-      "caption": "今週は、新たにオープンする場所が江南・聖水・龍山・貞洞にまんべんなく散らばっています。\n\n水曜日には新世界百貨店江南店の地下1階にチポトレの韓国2号店が入り、同じ日、聖水ではイタリアの歯みがき粉ブランド、マービス（@marvis_korea）が5日間の体験型ポップアップを開きます。木曜日からはリーグ・オブ・レジェンド（@leagueoflegendskorea）の「ミュージック＆ワールド」ポップアップが蚕室に続き聖水でも開かれ、聖水は翌週日曜日の11月8日まで続きます。\n\n金曜日には龍山のアイパークモールに『勝利の女神：NIKKE』4周年の造形物が登場し、同じ日の夜には徳寿宮と貞洞一帯の34か所が夜10時まで開放されます。各ページで期間と場所をオープン日順にまとめました。\n\n期間：10月26日（月）〜11月1日（日）\n場所：ソウル・江南（カンナム）、聖水洞（ソンスドン）、龍山（ヨンサン）、貞洞（チョンドン）\n#SENE #韓国旅行 #ソウルポップアップ #聖水 #貞洞夜行",
+      "form": "[카테고리]\n공간\n\n[캡션]\n今週は、新たにオープンする場所が江南・聖水・龍山・貞洞にまんべんなく散らばっています。\n\n水曜日には新世界百貨店 江南店の地下1階にチポトレの韓国2号店が入り、同じ日に聖水ではイタリアの歯磨き粉ブランド、マービス（@marvis_korea）が5日間の体験型ポップアップを開きます。木曜日からはリーグ・オブ・レジェンド（@leagueoflegendskorea）の「ミュージック＆ワールド」ポップアップが蚕室に続き聖水でも開かれますが、聖水は来週日曜日の11月8日まで続きます。\n\n金曜日にはアイパークモール龍山店に『勝利の女神：NIKKE』4周年の造形物が立ち、同じ日の夜には徳寿宮と貞洞一帯の34カ所が夜10時まで門を開きます。各ページに期間と場所をオープン順にまとめました。\n\n期間：10月26日（月）〜11月1日（日）\n場所：ソウル・江南、聖水洞（ソンスドン）、龍山、貞洞（チョンドン）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #徳寿宮\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983403/xtsltaix4cjk5pnhg48o.jpg\n제목: 今週オープン予定|10/26〜11/1の5カ所\n부제: 江南・聖水・龍山・貞洞 · オープン順に\n출처: サンミダンホールディングス（상미당홀딩스）\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983405/qakpqhzdtknhucy2c0m2.jpg\n소제목: チポトレ韓国2号店 · 10/28（水）\n본문: アメリカのメキシカングリル、チポトレ（Chipotle）が江南大路の1号店に続き、新世界百貨店 江南店の地下1階に2店舗目をオープンします。ブリトー・ブリトーボウル・タコスの具材を自分で選んで盛り付けるスタイルです。|オープン：10月28日（水）|場所：ソウル・瑞草区（ソチョグ） 新世界百貨店 江南店 地下1階\n출처: チポトレ\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983407/kygzorglcomrjmuwgt4g.jpg\n소제목: マービス聖水ポップアップ · 10/28（水）〜11/1（日）\n본문: イタリアの歯磨き粉ブランド、マービス（MARVIS）の「FIND THE SHINING STAR」ポップアップです。宇宙船をコンセプトにした空間で香り・サウンド・フォグを体験し、歯ブラシで砂の中の星のオブジェを探すプログラムがあります。|期間：10月28日（水）〜11月1日（日）|場所：ソウル・聖水洞（ソンスドン） ティルテーブル（틸테이블）|営業時間：11:00〜19:00\n출처: @marvis_korea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983409/hqc5p9iecnbflnkqw2s1.jpg\n소제목: LoL ミュージック＆ワールド聖水 · 10/29（木）〜11/8（日）\n본문: ライアットゲームズが2026 LoL ワールドチャンピオンシップをテーマに手がけたポップアップが、蚕室（チャムシル）に続き聖水でも開かれます。フォトゾーン・クイズ・ラッキードローなどの体験とライアットストアが入ります。|期間：10月29日（木）〜11月8日（日）|場所：ソウル・聖水洞（ソンスドン） トレンドポッド by オリーブヤングN 聖水\n출처: @leagueoflegendskorea\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983411/bjtjuco2kpm83xikebdq.jpg\n소제목: NIKKE 4周年 龍山 · 10/30（金）〜11/1（日）\n본문: ゲーム『勝利の女神：NIKKE』4周年を記念し、マリアンの大型造形物がザ・センター4階のザ・テラスとザ・ガーデンに登場します。|期間：10月30日（金）〜11月1日（日）|場所：ソウル・龍山区（ヨンサング） アイパークモール龍山店 ザ・センター4階\n출처: 勝利の女神：NIKKE\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983413/wfkyuccfwquvnzqo9a5x.jpg\n소제목: 2026 貞洞夜行 · 10/30（金）〜31（土）\n본문: 徳寿宮（トクスグン）と貞洞一帯の歴史文化施設34カ所が夜に門を開きます。古宮音楽会、石垣道の体験、ネオンフォトゾーン、市場「月明かり市場（달빛장터）」が続き、事前申込みをしていなくても現場の公演や体験は楽しめます。|期間：10月30日（金）18:00〜22:00 · 31日（土）14:00〜22:00|場所：ソウル・中区（チュング） 徳寿宮・貞洞一帯\n출처: ソウル中区\n",
+      "caption": "今週は、新たにオープンする場所が江南・聖水・龍山・貞洞にまんべんなく散らばっています。\n\n水曜日には新世界百貨店 江南店の地下1階にチポトレの韓国2号店が入り、同じ日に聖水ではイタリアの歯磨き粉ブランド、マービス（@marvis_korea）が5日間の体験型ポップアップを開きます。木曜日からはリーグ・オブ・レジェンド（@leagueoflegendskorea）の「ミュージック＆ワールド」ポップアップが蚕室に続き聖水でも開かれますが、聖水は来週日曜日の11月8日まで続きます。\n\n金曜日にはアイパークモール龍山店に『勝利の女神：NIKKE』4周年の造形物が立ち、同じ日の夜には徳寿宮と貞洞一帯の34カ所が夜10時まで門を開きます。各ページに期間と場所をオープン順にまとめました。\n\n期間：10月26日（月）〜11月1日（日）\n場所：ソウル・江南、聖水洞（ソンスドン）、龍山、貞洞（チョンドン）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #徳寿宮",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983742/tlgdzfvirsmui2oy02od.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983742/mv7qwcx5vnykpw30rqbb.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983743/vmblmluhzdvmz099uy3c.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983742/ywxjfemt9lhidemm8fq9.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983744/po8fzr7blkymqzwv2zu6.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983745/y52k2tzbhr3praxpmaaf.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983744/er5hkxm91o36au4qnb69.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983850/ajf6wubofclowwjp9pbw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983850/zcoejankjtcfxy56lmpe.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983850/ag5decc8wwytcuiactjl.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983850/yh5vbtgceg9ce9ptvzz2.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983851/f767kzufy0mksudbyqyw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983852/aewwbu6vfa9llbwqknu3.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983851/ijdslpbxd8epyyws1ivq.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983742/tlgdzfvirsmui2oy02od.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983850/ajf6wubofclowwjp9pbw.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T12:02+09:00"
+       "at": "2026-10-26T12:04+09:00"
       }
      }
     }
@@ -2197,7 +2193,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T12:02+09:00"
+  "at": "2026-10-26T12:04+09:00"
  },
  "slots": {
   "basis": 0,
