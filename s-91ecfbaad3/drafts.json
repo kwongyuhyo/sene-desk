@@ -2282,11 +2282,11 @@
      "key": "gPkNwQzJel8@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793010175/sene_studio/o0th66er72vjvzlxqeuy.mp4",
-     "at": "2026-10-26T19:22+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793013222/sene_studio/fc8zazitjwdvq9nrt6h4.mp4",
+     "at": "2026-10-26T20:13+09:00",
      "file": "GeumYoIl_Bam_10SiKka_MunEul_YeobNiDa_NolGeoLi_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793010177356-5250b3cf",
+      "id": "st:1793013223877-5250b3cf",
       "segs": [
        {
         "start": 0.0,
@@ -2320,10 +2320,6 @@
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T20:00+09:00"
     }
    },
    "corner_name": "소식",
@@ -4269,7 +4265,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T20:11+09:00"
+  "at": "2026-10-26T20:13+09:00"
  },
  "slots": {
   "basis": 0,
