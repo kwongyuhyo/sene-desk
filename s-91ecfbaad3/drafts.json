@@ -3483,8 +3483,8 @@
      "v": {
       "A": "eaed698d",
       "B": "1d904e73",
-      "E": "27354b1c",
-      "J": "0fdd09d8"
+      "E": "80456be2",
+      "J": "6bab80d8"
      }
     }
    },
@@ -3558,66 +3558,67 @@
    "i18n_queued": "2026-10-26T17:47+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-26T17:47+09:00",
+    "at": "2026-10-26T17:50+09:00",
     "confirm": [
-     "영화 일본 공식 제목은 『アベンジャーズ／ドゥームズデイ』입니다(일본 개봉은 12월 18일). 원문의 12월 16일은 한국 개봉일이라, 영어·일본어판 모두 '한국에서(in Korea·韓国で)'를 붙였습니다.",
-     "숏폼 세 줄은 '후킹 → 아티스트 → 곡' 순서로 이어 읽힌다고 보고 옮겼습니다 (EN: Then Hong Gil-dong. / This Saturday, / Iron Man takes off · JA: 前回はホンギルドン / 今週土曜は / アイアンマンが飛びます).",
-     "'수변무대'는 Waterside Stage · 水辺ステージ로 옮겼습니다. 서울시 공식 영어·일본어 표기는 확인하지 못했습니다.",
-     "행사 공식 영문 이름은 'Hangang Drone Light Show'로 옮겼습니다. 시간·규모는 올리기 전에 공식 계정의 최신 공지를 다시 확인해 주세요 (비가 오면 바뀔 수 있음).",
-     "영어 숏폼 후킹을 'Oct 9: Hong Gil-dong'으로 바꿨으니, 화면 세 줄이 'Oct 9: Hong Gil-dong / This Saturday, / Iron Man takes off' 순서로 자연스럽게 읽히는지 미리보기에서 확인해 주세요",
-     "올리기 전에 서울시 최신 공지에서 날씨 때문에 바뀐 일정이나 취소가 없는지 다시 확인해 주세요 (공연일은 10월 31일입니다)"
+     "〈어벤져스: 둠스데이〉 12월 16일은 한국 개봉일입니다. 일본 개봉은 12월 18일이라 영어·일본어판에는 'in Korea'·「韓国で」를 넣었습니다. 일본어 제목 『アベンジャーズ/ドゥームズデイ』는 Real Sound 등 일본 매체에서 확인했습니다.",
+     "영어 행사명은 'Hangang Drone Light Show'로 썼습니다. 공식 영문 사이트 표기가 이것과 같은지 다시 확인해 주세요. Korea Times는 'Han River'로 씁니다.",
+     "'수변무대'는 영어 'Riverside Stage', 일본어 「水辺ステージ」로 옮겼습니다. 공식 외국어 표기는 확인하지 못했습니다.",
+     "자양역 일본어 표기 「チャヤン（紫陽）駅」의 한자는 역 이름 뜻에서 옮긴 것입니다. 서울교통공사의 일본어 표기와 같은지 확인해 주세요.",
+     "'일시' 머리말은 영어 Date:, 일본어 日時：로, '관람'은 Admission:/観覧：로, '교통'은 Getting there:/アクセス：로 옮겼습니다.",
+     "숏폼 세 줄은 화면 읽는 순서(후킹→아티스트→곡)대로 한 문장이 되게 옮겼습니다. EN 'Before: Hong Gildong / This Saturday, / Iron Man flies', JA 「前回はホン・ギルドン/今週土曜は/アイアンマンが舞います」.",
+     "일본어 · 표지 제목 첫 줄 '今年最後の漢江ドローンショー' 가 14자로 기준(12자 안팎)보다 조금 깁니다 — 표지에서 줄이 넘치지 않는지 미리보기로 확인해 주세요",
+     "〈어벤져스: 둠스데이〉 한국 개봉일 12월 16일은 원문 그대로 옮긴 것입니다 — 올리기 전 국내 배급사 공지로 한 번 더 확인해 주세요"
     ],
     "review": {
-     "at": "2026-10-26T17:47+09:00",
+     "at": "2026-10-26T17:50+09:00",
      "fixes": [
-      "영어 · 숏폼 후킹 · Then Hong Gil-dong. → Oct 9: Hong Gil-dong — 'Then'은 '그다음'으로 읽혀 원문 '지난번엔'과 뜻이 반대이고, 세 줄(후킹→아티스트→곡) 흐름도 깨짐 (20자 안)",
-      "영어 · 숏폼 캡션 첫 문장 · the Seoul Metropolitan Government's (@seoul_official) footage → footage from the Seoul Metropolitan Government (@seoul_official) — 소유격 's 뒤에 핸들 괄호가 끼어 어색함"
+      "일본어 · 캡션 · 『アベンジャーズ/ドゥームズデイ』 → 『アベンジャーズ／ドゥームズデイ』 — 일본 공식 표기는 전각 슬래시(／)를 씀 (따로 검색하지 않고 알고 있던 표기로 고침)"
      ],
      "doubt": [
-      "영어 숏폼 후킹을 'Oct 9: Hong Gil-dong'으로 바꿨으니, 화면 세 줄이 'Oct 9: Hong Gil-dong / This Saturday, / Iron Man takes off' 순서로 자연스럽게 읽히는지 미리보기에서 확인해 주세요",
-      "올리기 전에 서울시 최신 공지에서 날씨 때문에 바뀐 일정이나 취소가 없는지 다시 확인해 주세요 (공연일은 10월 31일입니다)"
+      "일본어 · 표지 제목 첫 줄 '今年最後の漢江ドローンショー' 가 14자로 기준(12자 안팎)보다 조금 깁니다 — 표지에서 줄이 넘치지 않는지 미리보기로 확인해 주세요",
+      "〈어벤져스: 둠스데이〉 한국 개봉일 12월 16일은 원문 그대로 옮긴 것입니다 — 올리기 전 국내 배급사 공지로 한 번 더 확인해 주세요"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nThe last Hangang Drone Light Show of the year takes place this Saturday night at Ttukseom Hangang Park in Seoul.\n\nThe theme is \"Marvel Special.\" The Seoul Metropolitan Government (@seoul_official) says 2,000 drones, the most the show has ever used, will draw Iron Man and other Marvel characters, along with scenes from the films, across the night sky for 15 minutes. This edition is co-organized with The Walt Disney Company Korea.\n\nBefore the show there will be a photo zone for 'Avengers: Doomsday', which opens in Korea on Dec 16, and a costume parade. The first 1,000 people to join the social media check-in event get a souvenir. The night falls on Halloween, so Line 7 trains may pass through Jayang Station without stopping if it gets crowded.\n\nDates: Oct 31 (Sat), program starts 19:30 · drone show 20:30–20:45\nLocation: Waterside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · no reservation needed (may change or be canceled in rain or strong wind)\nGetting there: Jayang Station (Line 7), Exit 1 recommended\n#SENE #HangangDroneShow #SeoulEvents #Marvel #SeoulHalloween\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004306/myckmlsstsi4kbjs6eic.jpg\n제목: Year's Last Han River|Drone Show Goes Marvel\n부제: Oct 31 (Sat) · Ttukseom Hangang Park · 2,000 drones · Free\n출처: Seoul Metropolitan Government\n",
-      "caption": "The last Hangang Drone Light Show of the year takes place this Saturday night at Ttukseom Hangang Park in Seoul.\n\nThe theme is \"Marvel Special.\" The Seoul Metropolitan Government (@seoul_official) says 2,000 drones, the most the show has ever used, will draw Iron Man and other Marvel characters, along with scenes from the films, across the night sky for 15 minutes. This edition is co-organized with The Walt Disney Company Korea.\n\nBefore the show there will be a photo zone for 'Avengers: Doomsday', which opens in Korea on Dec 16, and a costume parade. The first 1,000 people to join the social media check-in event get a souvenir. The night falls on Halloween, so Line 7 trains may pass through Jayang Station without stopping if it gets crowded.\n\nDates: Oct 31 (Sat), program starts 19:30 · drone show 20:30–20:45\nLocation: Waterside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · no reservation needed (may change or be canceled in rain or strong wind)\nGetting there: Jayang Station (Line 7), Exit 1 recommended\n#SENE #HangangDroneShow #SeoulEvents #Marvel #SeoulHalloween",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nThe last Hangang Drone Light Show of the year takes place this Saturday night at Ttukseom Hangang Park.\n\nThis time the theme is \"Marvel Special.\" The Seoul Metropolitan Government (@seoul_official) says 2,000 drones will spend 15 minutes drawing Iron Man and other Marvel characters, along with scenes from the films, across the night sky.\n\nBefore the show, there is a photo zone for 'Avengers: Doomsday,' which opens in Korea on Dec 16, plus a costume parade. The first 1,000 people to join the social media check-in event receive a souvenir. The show falls on Halloween, so trains on Line 7 may skip Jayang Station if it gets too crowded.\n\nDate: Oct 31 (Sat) · Program starts 19:30 · Drone show 20:30–20:45\nLocation: Riverside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · No reservations (may change or be canceled in rain or strong wind)\nGetting there: Jayang Station (Line 7), Exit 1 recommended\n#SENE #HangangDroneLightShow #SeoulEvents #Marvel #Halloween\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004438/iem8yiqk1wjkhbkl8jxx.jpg\n제목: Final Hangang Drone Show|of the Year Goes Marvel\n부제: Oct 31 (Sat) · Ttukseom Hangang Park · 2,000 drones · Free\n출처: Seoul Metropolitan Government\n",
+      "caption": "The last Hangang Drone Light Show of the year takes place this Saturday night at Ttukseom Hangang Park.\n\nThis time the theme is \"Marvel Special.\" The Seoul Metropolitan Government (@seoul_official) says 2,000 drones will spend 15 minutes drawing Iron Man and other Marvel characters, along with scenes from the films, across the night sky.\n\nBefore the show, there is a photo zone for 'Avengers: Doomsday,' which opens in Korea on Dec 16, plus a costume parade. The first 1,000 people to join the social media check-in event receive a souvenir. The show falls on Halloween, so trains on Line 7 may skip Jayang Station if it gets too crowded.\n\nDate: Oct 31 (Sat) · Program starts 19:30 · Drone show 20:30–20:45\nLocation: Riverside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · No reservations (may change or be canceled in rain or strong wind)\nGetting there: Jayang Station (Line 7), Exit 1 recommended\n#SENE #HangangDroneLightShow #SeoulEvents #Marvel #Halloween",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004475/rdxomyjev8uf7cdddy2j.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004475/wg0ira1nn4cen2nuvbb6.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004623/ocvcza2vn9nkveobzm5x.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004623/bk50c2peenh8eweemxuz.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004475/rdxomyjev8uf7cdddy2j.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004623/ocvcza2vn9nkveobzm5x.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T17:47+09:00"
+       "at": "2026-10-26T17:50+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=IhAf5pS1QvQ\n구간: 2:24-3:04\n곡: Iron Man takes off\n아티스트: This Saturday,\n피처링:\n후킹: Oct 9: Hong Gil-dong\n출처: Seoul Metropolitan Government · Seoul\n자막: 자동",
-      "caption": "This is footage from the Seoul Metropolitan Government (@seoul_official) of the Hangang Drone Light Show held on Oct 9. That edition put characters from classic Korean novels, such as Hong Gil-dong and Sim Cheong, in the night sky.\n\nThe last show of the year takes place at the same spot this Saturday, with the theme \"Marvel Special.\" The city says 2,000 drones will draw Iron Man and other Marvel characters, along with scenes from the films, for 15 minutes.\n\nThe night falls on Halloween, so Line 7 trains may pass through Jayang Station without stopping if it gets crowded.\n\nDates: Oct 31 (Sat), drone show 20:30–20:45\nLocation: Waterside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · no reservation needed\nVideo: Seoul Metropolitan Government official YouTube\n#SENE #HangangDroneShow #SeoulEvents #Marvel #SeoulHalloween"
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=IhAf5pS1QvQ\n구간: 2:24-3:04\n곡: Iron Man flies\n아티스트: This Saturday,\n피처링:\n후킹: Before: Hong Gildong\n출처: Seoul Metropolitan Government · Seoul\n자막: 자동",
+      "caption": "This footage of the Oct 9 Hangang Drone Light Show was released by the Seoul Metropolitan Government (@seoul_official). In that show, the drones put figures from classic Korean novels, like Hong Gildong and Sim Cheong, into the night sky.\n\nThe last show of the year is this Saturday at Ttukseom Hangang Park, and this time the theme is \"Marvel Special.\" The city says 2,000 drones will spend 15 minutes drawing Iron Man and other Marvel characters, along with scenes from the films.\n\nThe show falls on Halloween, so trains on Line 7 may skip Jayang Station if it gets too crowded.\n\nDate: Oct 31 (Sat) · Drone show 20:30–20:45\nLocation: Riverside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · No reservations\nVideo: Seoul Metropolitan Government official YouTube\n#SENE #HangangDroneLightShow #SeoulEvents #Marvel #Halloween"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\n今年最後の漢江（ハンガン）ドローンライトショーが、今週土曜日の夜、ソウル・トゥクソム漢江公園（뚝섬한강공원）で開かれます。\n\nテーマは「マーベル・スペシャル」で、ソウル市（@seoul_official）は過去最大規模となるドローン2,000機を使い、15分間にわたってアイアンマンをはじめとするマーベルのキャラクターや映画の名場面を夜空に描くと発表しました。ウォルト・ディズニー・カンパニー・コリアと共に手がける回です。\n\n公演の前には、韓国で12月16日に公開される『アベンジャーズ／ドゥームズデイ』のフォトゾーンやコスチュームパレードが行われ、SNS投稿イベントに参加した先着1,000人には記念品が贈られます。ハロウィンと重なる日のため、地下鉄7号線の紫陽（チャヤン）駅は混雑すると列車が停車せずに通過する場合があります。\n\n期間：10月31日（土）19:30 公演開始・ドローンショー 20:30〜20:45\n場所：ソウル・広津区（クァンジング）トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要（雨や強風の際は変更・中止の場合あり）\nアクセス：7号線 紫陽駅1番出口がおすすめ\n#SENE #韓国旅行 #ソウル旅行 #漢江 #マーベル\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004306/myckmlsstsi4kbjs6eic.jpg\n제목: 今年最後の漢江ドローン、|今回のテーマはマーベル\n부제: 10月31日（土）・トゥクソム漢江公園・ドローン2,000機・無料\n출처: ソウル市\n",
-      "caption": "今年最後の漢江（ハンガン）ドローンライトショーが、今週土曜日の夜、ソウル・トゥクソム漢江公園（뚝섬한강공원）で開かれます。\n\nテーマは「マーベル・スペシャル」で、ソウル市（@seoul_official）は過去最大規模となるドローン2,000機を使い、15分間にわたってアイアンマンをはじめとするマーベルのキャラクターや映画の名場面を夜空に描くと発表しました。ウォルト・ディズニー・カンパニー・コリアと共に手がける回です。\n\n公演の前には、韓国で12月16日に公開される『アベンジャーズ／ドゥームズデイ』のフォトゾーンやコスチュームパレードが行われ、SNS投稿イベントに参加した先着1,000人には記念品が贈られます。ハロウィンと重なる日のため、地下鉄7号線の紫陽（チャヤン）駅は混雑すると列車が停車せずに通過する場合があります。\n\n期間：10月31日（土）19:30 公演開始・ドローンショー 20:30〜20:45\n場所：ソウル・広津区（クァンジング）トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要（雨や強風の際は変更・中止の場合あり）\nアクセス：7号線 紫陽駅1番出口がおすすめ\n#SENE #韓国旅行 #ソウル旅行 #漢江 #マーベル",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n今年最後の漢江（ハンガン）ドローンライトショーが、今週土曜の夜、ソウル・トゥクソム漢江公園（뚝섬한강공원）で開かれます。\n\nテーマは「マーベル・スペシャル」です。ソウル市（@seoul_official）によると、ドローン2,000機が15分間、アイアンマンをはじめとするマーベルのキャラクターや映画のシーンを夜空に描きます。\n\nショーの前には、韓国で12月16日に公開される『アベンジャーズ／ドゥームズデイ』のフォトゾーンとコスチュームパレードがあり、SNS投稿イベントに参加した先着1,000人には記念品が贈られます。ハロウィンと重なる日のため、地下鉄7号線のチャヤン（紫陽）駅は混雑すると列車が停車せず通過することがあります。\n\n日時：10月31日（土）19:30開演・ドローンショー20:30〜20:45\n場所：ソウル・広津区（クァンジング）トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要（雨・強風の際は変更・中止の場合あり）\nアクセス：7号線チャヤン駅1番出口がおすすめ\n#SENE #韓国旅行 #漢江ドローンショー #ソウル旅行 #マーベル\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004438/iem8yiqk1wjkhbkl8jxx.jpg\n제목: 今年最後の漢江ドローンショー|今回のテーマはマーベル\n부제: 10月31日（土）・トゥクソム漢江公園・ドローン2,000機・無料\n출처: ソウル市\n",
+      "caption": "今年最後の漢江（ハンガン）ドローンライトショーが、今週土曜の夜、ソウル・トゥクソム漢江公園（뚝섬한강공원）で開かれます。\n\nテーマは「マーベル・スペシャル」です。ソウル市（@seoul_official）によると、ドローン2,000機が15分間、アイアンマンをはじめとするマーベルのキャラクターや映画のシーンを夜空に描きます。\n\nショーの前には、韓国で12月16日に公開される『アベンジャーズ／ドゥームズデイ』のフォトゾーンとコスチュームパレードがあり、SNS投稿イベントに参加した先着1,000人には記念品が贈られます。ハロウィンと重なる日のため、地下鉄7号線のチャヤン（紫陽）駅は混雑すると列車が停車せず通過することがあります。\n\n日時：10月31日（土）19:30開演・ドローンショー20:30〜20:45\n場所：ソウル・広津区（クァンジング）トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要（雨・強風の際は変更・中止の場合あり）\nアクセス：7号線チャヤン駅1番出口がおすすめ\n#SENE #韓国旅行 #漢江ドローンショー #ソウル旅行 #マーベル",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004478/hqob0cfmulddg24sg9st.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004477/r2gfjksqdqz0yhl9wuym.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004626/yi9oovu6s1bmsx4vwvfu.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004625/b51mskmam9rp33f4bazn.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004478/hqob0cfmulddg24sg9st.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004626/yi9oovu6s1bmsx4vwvfu.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T17:47+09:00"
+       "at": "2026-10-26T17:50+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=IhAf5pS1QvQ\n구간: 2:24-3:04\n곡: アイアンマンが飛びます\n아티스트: 今週土曜は\n피처링:\n후킹: 前回はホンギルドン\n출처: ソウル市 · Seoul\n자막: 자동",
-      "caption": "ソウル市（@seoul_official）が公開した、10月9日の漢江ドローンライトショーの映像です。洪吉童（ホン・ギルドン）や沈清（シム・チョン）など、韓国の古典小説の登場人物を夜空に描いた回でした。\n\n今年最後の回は今週土曜日に同じ場所で開かれ、テーマは「マーベル・スペシャル」です。ソウル市は、ドローン2,000機で15分間、アイアンマンをはじめとするマーベルのキャラクターや映画の名場面を描くと発表しました。\n\nハロウィンと重なる日のため、7号線の紫陽（チャヤン）駅は混雑すると列車が停車せずに通過する場合があります。\n\n期間：10月31日（土）ドローンショー 20:30〜20:45\n場所：ソウル・広津区 トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要\n映像：ソウル市公式YouTube\n#SENE #韓国旅行 #ソウル旅行 #漢江 #マーベル"
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=IhAf5pS1QvQ\n구간: 2:24-3:04\n곡: アイアンマンが舞います\n아티스트: 今週土曜は\n피처링:\n후킹: 前回はホン・ギルドン\n출처: ソウル市 · Seoul\n자막: 자동",
+      "caption": "ソウル市（@seoul_official）が公開した、10月9日の漢江（ハンガン）ドローンライトショーの映像です。ホン・ギルドン（洪吉童）やシム・チョン（沈清）など、韓国の古典小説の登場人物を夜空に描いた回でした。\n\n今年最後の回は今週土曜、ソウル・トゥクソム漢江公園（뚝섬한강공원）で開かれ、今回のテーマは「マーベル・スペシャル」です。ソウル市によると、ドローン2,000機が15分間、アイアンマンをはじめとするマーベルのキャラクターや映画のシーンを描きます。\n\nハロウィンと重なる日のため、地下鉄7号線のチャヤン（紫陽）駅は混雑すると列車が停車せず通過することがあります。\n\n日時：10月31日（土）ドローンショー20:30〜20:45\n場所：ソウル・広津区（クァンジング）トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要\n映像：ソウル市公式YouTube\n#SENE #韓国旅行 #漢江ドローンショー #ソウル旅行 #マーベル"
      }
     }
    }
@@ -3896,7 +3897,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T17:48+09:00"
+  "at": "2026-10-26T17:50+09:00"
  },
  "slots": {
   "basis": 0,
