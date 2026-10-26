@@ -2001,7 +2001,9 @@
      "at": "2026-10-26T11:57+09:00",
      "v": {
       "A": "90247b1b",
-      "B": "042565cc"
+      "B": "042565cc",
+      "E": "8bee26d2",
+      "J": "838ed90b"
      }
     }
    },
@@ -2062,7 +2064,76 @@
      "at": "2026-10-26T11:58+09:00"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-26T14:16+09:00",
+    "confirm": [
+     "영어 행사명: 공식 영어 표기를 찾지 못했습니다. 코리아헤럴드 2026년 기사는 'Jeongdong Yahaeng', 아시아경제는 'Jeongdong Night Walk' 로 씁니다. 헤럴드 표기를 따랐습니다.",
+     "영어 주제 'Jeongdong, Dressed in New Light' 는 코리아헤럴드의 번역입니다. 중구청 공식 영어 표기는 아닙니다.",
+     "일본어 '貞洞夜行' 은 서울시 미디어허브의 한자 표기(정동야행(貞洞夜行))를 따랐습니다. 공식 일본어 표기는 찾지 못했습니다.",
+     "'달빛장터' 는 공식 외국어 표기가 없어 직접 옮겼습니다 (영어 Dalbit Market · 일본어 タルビッ市場). 중화전(Junghwajeon Hall · 中和殿)·청사초롱 표기도 직접 확인한 공식 표기는 아닙니다.",
+     "예고편 문구 '100년의 시간을 건너온 사람들' 의 영어·일본어 문장은 SENE 이 옮긴 것입니다 (공식 자막 아님).",
+     "한국어 원문의 날짜·시간·34곳·장소는 이번 번역 단계에서 다시 확인하지 않았습니다. 원문 그대로 옮겼습니다.",
+     "영어 행사명 · 중구청 영어 공식 표기를 찾지 못해 'Jeongdong Yahaeng' 로마자를 그대로 둠. 영어권에서는 'Jeongdong Night Walk'라는 이름도 쓰이니(검색 요약에서만 봄), 중구청이나 Visit Seoul 영어 페이지에서 공식 표기를 확인할 것 — 출처: https://www.junggu.seoul.kr/html/junggu-festiva/index.html",
+     "영어 · 표지 제목에 원문의 '이번 주'가 빠져 있음. 부제에 날짜(Oct 30–31)가 있어서 그대로 두었는데, 넣고 싶으면 한 줄 22자 안팎을 넘게 됨"
+    ],
+    "review": {
+     "at": "2026-10-26T14:16+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'Deoksugung, Jeongdong:' → 'Deoksugung & Jeongdong:' — 쉼표가 주소나 나열로 읽혀서 두 곳을 묶는 &로 고침",
+      "영어 · 숏폼 둘째 줄 · 'Open their doors' → 'open their doors' — 세 줄이 한 문장으로 이어지는데 중간에 대문자가 있었음",
+      "영어 · 캡션 · \"This is Seoul Jung-gu's '2026 Jeongdong Yahaeng' night festival\" → \"…a night festival run by Seoul's Jung-gu district\" — 'Seoul Jung-gu's'가 직역투",
+      "영어 · 캡션·숏폼 캡션 · 'Last year it was held in spring, and from this year it moves to autumn' → 'Held in spring last year, it moves to autumn starting this year' — 직역투 문장 풀어 씀",
+      "영어 · 캡션·숏폼 캡션 · 'stone-wall-road activities' → 'activities along the stone-wall road' — 어색한 복합 수식어"
+     ],
+     "doubt": [
+      "영어 행사명 · 중구청 영어 공식 표기를 찾지 못해 'Jeongdong Yahaeng' 로마자를 그대로 둠. 영어권에서는 'Jeongdong Night Walk'라는 이름도 쓰이니(검색 요약에서만 봄), 중구청이나 Visit Seoul 영어 페이지에서 공식 표기를 확인할 것 — 출처: https://www.junggu.seoul.kr/html/junggu-festiva/index.html",
+      "영어 · 표지 제목에 원문의 '이번 주'가 빠져 있음. 부제에 날짜(Oct 30–31)가 있어서 그대로 두었는데, 넣고 싶으면 한 줄 22자 안팎을 넘게 됨"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nThirty-four historic and cultural sites around Deoksugung Palace and Jeongdong open their doors this Friday and Saturday night.\n\nThis is '2026 Jeongdong Yahaeng,' a night festival run by Seoul's Jung-gu district. Held in spring last year, it moves to autumn starting this year. The theme is 'Jeongdong, Dressed in New Light.'\n\nIt opens Friday evening with a palace concert in front of Junghwajeon Hall at Deoksugung. Over two days there are photo zones that recreate Jeongdong's modern architecture in neon, prize-winning works from a cheongsa-chorong lantern contest, activities along the stone-wall road, and a market called 'Dalbit Market.' Some programs, such as the embassy tours, need advance reservations, but the on-site performances and activities are open to everyone without signing up.\n\nDates: Oct 30 (Fri) 18:00–22:00 · Oct 31 (Sat) 14:00–22:00\nLocation: Deoksugung Palace & Jeongdong area, Jung-gu, Seoul\n#SENE #JeongdongYahaeng #Deoksugung #SeoulTravel #SeoulNight\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983431/ksvkuorahspzxxy9lwtq.jpg\n제목: Deoksugung & Jeongdong:|34 Sites Open at Night\n부제: 2026 Jeongdong Yahaeng · Oct 30–31\n출처: Jung-gu, Seoul\n",
+      "caption": "Thirty-four historic and cultural sites around Deoksugung Palace and Jeongdong open their doors this Friday and Saturday night.\n\nThis is '2026 Jeongdong Yahaeng,' a night festival run by Seoul's Jung-gu district. Held in spring last year, it moves to autumn starting this year. The theme is 'Jeongdong, Dressed in New Light.'\n\nIt opens Friday evening with a palace concert in front of Junghwajeon Hall at Deoksugung. Over two days there are photo zones that recreate Jeongdong's modern architecture in neon, prize-winning works from a cheongsa-chorong lantern contest, activities along the stone-wall road, and a market called 'Dalbit Market.' Some programs, such as the embassy tours, need advance reservations, but the on-site performances and activities are open to everyone without signing up.\n\nDates: Oct 30 (Fri) 18:00–22:00 · Oct 31 (Sat) 14:00–22:00\nLocation: Deoksugung Palace & Jeongdong area, Jung-gu, Seoul\n#SENE #JeongdongYahaeng #Deoksugung #SeoulTravel #SeoulNight",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792991824/iwatdtilqskjo6wuygx2.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792991823/cv4vgvw8bvtfxljcqc6i.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792991824/iwatdtilqskjo6wuygx2.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T14:17+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=gPkNwQzJel8\n구간: 0:00-0:31\n곡: open their doors\n아티스트: Till 10 pm Friday\n피처링:\n후킹: 34 Jeongdong sites\n출처: Jung-gu Office, Seoul\n자막: 자동",
+      "caption": "This is the official trailer for '2026 Jeongdong Yahaeng,' released by Seoul's Jung-gu district.\n\nAt this festival, 34 historic and cultural sites around Deoksugung Palace and Jeongdong open at night. Held in spring last year, it moves to autumn starting this year. The trailer brings back modern-era Jeongdong with a single line: 'People who crossed 100 years of time.'\n\nA palace concert, neon photo zones, activities along the stone-wall road, and 'Dalbit Market' run over two days, and the on-site performances and activities need no sign-up.\n\nDates: Oct 30 (Fri) 18:00–22:00 · Oct 31 (Sat) 14:00–22:00\nLocation: Deoksugung Palace & Jeongdong area, Jung-gu, Seoul\nVideo: Jung-gu Office official YouTube\n#SENE #JeongdongYahaeng #Deoksugung #SeoulTravel #SeoulNight"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n徳寿宮（トクスグン）と貞洞（チョンドン）一帯の歴史文化施設34か所が、今週の金曜と土曜の夜に門を開きます。\n\nソウル中区の「2026 貞洞夜行（チョンドンヤヘン、정동야행）」で、昨年は春に開かれたこの行事が、今年から秋に移りました。テーマは「貞洞、新しい光をまとう」です。\n\n金曜の夕方、徳寿宮・中和殿前の古宮音楽会で幕を開け、貞洞の近代建築をネオンで再現したフォトゾーン、青紗提灯（チョンサチョロン）公募展の受賞作、石垣道の体験、市場「タルビッ市場（달빛장터）」が2日間続きます。大使館ツアーなどの事前予約プログラムのほか、現地の公演や体験は申し込みなしで楽しめます。\n\n期間：10月30日（金）18:00〜22:00・31日（土）14:00〜22:00\n場所：ソウル・中区 徳寿宮・貞洞（チョンドン）一帯\n#SENE #韓国旅行 #徳寿宮 #貞洞夜行 #ソウル旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983431/ksvkuorahspzxxy9lwtq.jpg\n제목: 徳寿宮・貞洞の34か所、|今週は夜に開放\n부제: 2026 貞洞夜行・10月30日〜31日\n출처: ソウル中区\n",
+      "caption": "徳寿宮（トクスグン）と貞洞（チョンドン）一帯の歴史文化施設34か所が、今週の金曜と土曜の夜に門を開きます。\n\nソウル中区の「2026 貞洞夜行（チョンドンヤヘン、정동야행）」で、昨年は春に開かれたこの行事が、今年から秋に移りました。テーマは「貞洞、新しい光をまとう」です。\n\n金曜の夕方、徳寿宮・中和殿前の古宮音楽会で幕を開け、貞洞の近代建築をネオンで再現したフォトゾーン、青紗提灯（チョンサチョロン）公募展の受賞作、石垣道の体験、市場「タルビッ市場（달빛장터）」が2日間続きます。大使館ツアーなどの事前予約プログラムのほか、現地の公演や体験は申し込みなしで楽しめます。\n\n期間：10月30日（金）18:00〜22:00・31日（土）14:00〜22:00\n場所：ソウル・中区 徳寿宮・貞洞（チョンドン）一帯\n#SENE #韓国旅行 #徳寿宮 #貞洞夜行 #ソウル旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792991827/lytzgrbtiz31q1ozxpyy.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792991827/wiqipnw68pxrb9yrrmwe.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792991827/lytzgrbtiz31q1ozxpyy.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T14:17+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=gPkNwQzJel8\n구간: 0:00-0:31\n곡: 門を開きます\n아티스트: 金曜は夜10時まで\n피처링:\n후킹: 徳寿宮・貞洞34か所が\n출처: ソウル中区庁\n자막: 자동",
+      "caption": "ソウル中区が公開した「2026 貞洞夜行（チョンドンヤヘン、정동야행）」の公式予告編です。\n\n徳寿宮（トクスグン）と貞洞一帯の歴史文化施設34か所が夜に門を開く行事で、昨年は春に開かれ、今年から秋に移りました。予告編は「100年の時を越えてきた人々」という一行で、近代の貞洞を呼び起こします。\n\n古宮音楽会やネオンのフォトゾーン、石垣道の体験、市場「タルビッ市場（달빛장터）」が2日間続き、現地の公演や体験は申し込みなしで楽しめます。\n\n期間：10月30日（金）18:00〜22:00・31日（土）14:00〜22:00\n場所：ソウル・中区 徳寿宮・貞洞（チョンドン）一帯\n映像：ソウル中区庁公式YouTube\n#SENE #韓国旅行 #徳寿宮 #貞洞夜行 #ソウル旅行"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -2193,7 +2264,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T12:06+09:00"
+  "at": "2026-10-26T14:17+09:00"
  },
  "slots": {
   "basis": 0,
