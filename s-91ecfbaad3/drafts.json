@@ -2426,6 +2426,600 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-492cddeb",
+    "account": "@속보",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBjUzFlM0ZGUGxjWkoxcGdkMVpabHJRbzR2S2xqVGxEZGVlbFhJVFRoMFhCc3lYYkRaVGNHVTZ2VGpycTVaQkhNYkR0SFlNbm1ZWV85SzBXTlgxaUN0M2dJLS1qV3czQjFDQUVJ0gFvQVVfeXFMT0dpT1U1QlJIQTZtb210WVlhaXRuYTNPaHRuYWU4X281OExKRUFxa09EN1dxOVdGVlBYWVN4bzdfc2UyNEx2NmJKWWE4N3h2RzZNT3RWX0g1Q1oxU1JzQ1gyTU5MXzZVU0hhRktwV2VJ?oc=5",
+    "image": null,
+    "head": "국제유가 6개월 만 최고 — 내 주유비와 11월 항공권에 무엇이 달라지나",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T08:42+09:00",
+   "key": "8cba5a93",
+   "by": "claude",
+   "subjects": [
+    "국제유가"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "국제유가 6개월 만 최고 — 주유소 값은 아직 23주째 하락, 11월 발권 유류할증료는 27단계로",
+    "why": "중동 긴장으로 유가가 뛰며 뉴스가 몰렸고, 독자의 주유비·11월 해외여행 항공권 값이 바로 걸린 생활비 이슈"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T08:42+09:00",
+   "corner": "issue",
+   "card": {
+    "form": "[카테고리]\n이슈\n\n[캡션]\n국제유가가 6개월 만에 가장 높은 값까지 올랐습니다.\n\n지난 23일(현지시간) 브렌트유 12월물은 배럴당 116.72달러에 거래를 마쳤는데요, 지난 4월 이후 가장 높은 값입니다. 중동 긴장이 다시 커진 영향입니다.\n\n동네 주유소 가격은 아직 오르지 않았습니다. 한국석유공사 오피넷 집계로 10월 셋째 주 휘발유 값은 23주째 내렸고, 서울 평균은 리터당 1902.3원이었습니다. 다만 국제유가는 보통 2~3주 뒤 주유소 가격에 반영됩니다.\n\n11월에 해외여행을 간다면 발권 날짜를 볼 때입니다. 11월 발권분부터 국제선 유류할증료가 23단계에서 27단계로 오르고, 대한항공(@koreanair) 기준 나리타·오사카·삿포로 노선은 편도 7만6000원, 뉴욕 노선은 편도 40만8100원이 붙습니다.\n\n유류할증료: 11월 1일 발권분부터 27단계 (탑승일이 아닌 발권일 기준)\n기름값 확인: 오피넷 (opinet.co.kr)\n#SENE #국제유가 #기름값 #유류할증료 #해외여행\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792971785/vckwxc6qcs6oq1l8woza.jpg\n제목: 국제유가, 6개월 만에|가장 높은 값\n부제: 주유소 값은 아직 내림세, 11월 항공권은 달라집니다\n출처: @koreanair\n",
+    "caption": "국제유가가 6개월 만에 가장 높은 값까지 올랐습니다.\n\n지난 23일(현지시간) 브렌트유 12월물은 배럴당 116.72달러에 거래를 마쳤는데요, 지난 4월 이후 가장 높은 값입니다. 중동 긴장이 다시 커진 영향입니다.\n\n동네 주유소 가격은 아직 오르지 않았습니다. 한국석유공사 오피넷 집계로 10월 셋째 주 휘발유 값은 23주째 내렸고, 서울 평균은 리터당 1902.3원이었습니다. 다만 국제유가는 보통 2~3주 뒤 주유소 가격에 반영됩니다.\n\n11월에 해외여행을 간다면 발권 날짜를 볼 때입니다. 11월 발권분부터 국제선 유류할증료가 23단계에서 27단계로 오르고, 대한항공(@koreanair) 기준 나리타·오사카·삿포로 노선은 편도 7만6000원, 뉴욕 노선은 편도 40만8100원이 붙습니다.\n\n유류할증료: 11월 1일 발권분부터 27단계 (탑승일이 아닌 발권일 기준)\n기름값 확인: 오피넷 (opinet.co.kr)\n#SENE #국제유가 #기름값 #유류할증료 #해외여행",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971785/vckwxc6qcs6oq1l8woza.jpg",
+      "credit": "@koreanair",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/846824762_18637089499040777_339993029580339122_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=egS6erEwCHAQ7kNvwEenKPv&_nc_oc=AdoTDfvUH8CH0BK5lIVKu8YD0KWA_921ggIzveaoyqnxZSVC9w306waw7ysat45yGWQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Xj-KEFJTl3xt6o9VZ9-iyA&oh=00_AQMcdTCAWAIAGeqbIO1ngiVeWHV_a0c8AwNBgVSColvcWA&oe=6AE449F0"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971780/sobggpkioih3dhhfyfqm.jpg",
+      "credit": "@koreanair",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/862434698_1151869757417722_2512347004075537957_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CkgNfgg40RUQ7kNvwG4Z2MW&_nc_oc=AdqLIhrPp3VG6qZMPmx4tS-CsIb9rMFs-i8sYRZcO0qeNlaLLSTmBwsuYRuv_3_7kqY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Xj-KEFJTl3xt6o9VZ9-iyA&_nc_tpa=Q5bMBQKWnppRo_RspSKhM8A4ILaWSdGKDjVv3mpitpkZ-HkbWNQy_GluR2HiHKcOl8pCgNUuuv4lPyIxeg&oh=00_AQMRwW7rUm1MEH0qRB8w8YvG8JcWSx00KM-maKDYorW_Yg&oe=6AE453D3"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971782/yo9hppsizn9wawhhti1b.jpg",
+      "credit": "@koreanair",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/858088768_18639343159040777_6592756049588474335_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q69V5rAgNwEQ7kNvwELs3km&_nc_oc=AdrNVaikuUBPJE7sdqD6tkbI-jC5UdaA5JF3H8F0F7Ymi_Czhb9a4_Ir3of9BiWh7pw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Xj-KEFJTl3xt6o9VZ9-iyA&oh=00_AQM6UioQOw-v96ITdzbCcJ1iiXlj6W4zyUsn97KH6sFBfA&oe=6AE47B7F"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971785/vckwxc6qcs6oq1l8woza.jpg",
+      "credit": "@koreanair",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/846824762_18637089499040777_339993029580339122_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=egS6erEwCHAQ7kNvwEenKPv&_nc_oc=AdoTDfvUH8CH0BK5lIVKu8YD0KWA_921ggIzveaoyqnxZSVC9w306waw7ysat45yGWQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Xj-KEFJTl3xt6o9VZ9-iyA&oh=00_AQMcdTCAWAIAGeqbIO1ngiVeWHV_a0c8AwNBgVSColvcWA&oe=6AE449F0"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971780/sobggpkioih3dhhfyfqm.jpg",
+      "credit": "@koreanair",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/862434698_1151869757417722_2512347004075537957_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=CkgNfgg40RUQ7kNvwG4Z2MW&_nc_oc=AdqLIhrPp3VG6qZMPmx4tS-CsIb9rMFs-i8sYRZcO0qeNlaLLSTmBwsuYRuv_3_7kqY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Xj-KEFJTl3xt6o9VZ9-iyA&_nc_tpa=Q5bMBQKWnppRo_RspSKhM8A4ILaWSdGKDjVv3mpitpkZ-HkbWNQy_GluR2HiHKcOl8pCgNUuuv4lPyIxeg&oh=00_AQMRwW7rUm1MEH0qRB8w8YvG8JcWSx00KM-maKDYorW_Yg&oe=6AE453D3"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971782/yo9hppsizn9wawhhti1b.jpg",
+      "credit": "@koreanair",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/858088768_18639343159040777_6592756049588474335_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Q69V5rAgNwEQ7kNvwELs3km&_nc_oc=AdrNVaikuUBPJE7sdqD6tkbI-jC5UdaA5JF3H8F0F7Ymi_Czhb9a4_Ir3of9BiWh7pw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Xj-KEFJTl3xt6o9VZ9-iyA&oh=00_AQM6UioQOw-v96ITdzbCcJ1iiXlj6W4zyUsn97KH6sFBfA&oe=6AE47B7F"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "국제유가, 6개월 만에|가장 높은 값",
+      "sub": "주유소 값은 아직 내림세, 11월 항공권은 달라집니다"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "11월 발권부터|유류할증료 27단계",
+      "sub": "국제유가 6개월 만에 최고"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "기름값은 23주째 하락|국제유가는 반대로",
+      "sub": "보통 2~3주 뒤 주유소에 반영됩니다"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진 아래쪽 대한항공 'KOREAN AIR' 로고가 부제 줄 바로 밑에 겹쳐 보임 — 다른 사진(B·C안 표지)이나 자르기로 바꿀지 볼 것 · 유류할증료 금액은 SBS Biz 한 곳만 원문 확인(공식 공지 미확인)",
+     "빅 이슈 — 올리기 전 최신 공식 발표 다시 확인 (월요일 장 유가·오피넷 10월 넷째 주 집계가 나오면 숫자 갱신)",
+     "11월 유류할증료 금액은 대한항공 공지(koreanair.com 2611-infuel) 원문으로 한 번 더 — 공지가 열리지 않아 SBS Biz·검색 요약으로 맞춤 · 숏폼 비움: 이번 주 유가·11월 할증료를 다룬 공식 채널 영상이 아직 없음",
+     "이어지는 소식 — 10-23에 다룬 소재. 새 사실: 10/23 초안(5개월 만 최고·공급가 상한) 뒤 브렌트유가 116.72달러로 6개월 만 최고로 올랐고, 각도를 11월 발권 유류할증료 27단계(일본 편도 7만6000원·뉴욕 40",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "국제유가, 중동戰 확전 우려 고조에 급등... 6개월 만에 최고치 - 글로벌경제신문",
+      "link": "https://www.getnews.co.kr/news/articleView.html?idxno=884663"
+     },
+     {
+      "title": "다시 치솟는 국제유가···국내 기름값도 꿈틀 - 뉴스웨이",
+      "link": "https://newsway.co.kr/news/view?ud=2026102509395798661"
+     },
+     {
+      "title": "주유소 기름값 23주 연속 하락…휘발유 1856.1원·경유 1842.5원 - 조세금융신문",
+      "link": "https://www.tfmedia.co.kr/news/article.html?no=208322"
+     },
+     {
+      "title": "휘발유 1857원·경유 1842원…주유소 기름값 23주 연속 하락 - 세계일보",
+      "link": "https://www.segye.com/newsView/20261024502628"
+     },
+     {
+      "title": "유류할증료 3개월 연속 인상…뉴욕 왕복 9만원 더 낸다 - SBS Biz",
+      "link": "https://biz.sbs.co.kr/amp/article/20000340430"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971790/yccmcy5lscj3ke2heeen.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971789/fzutsncz8eqbusqnzm74.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971792/ctcdchbae6eh224eggj3.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971793/nxbx6nknfwpieuu9qqtr.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971790/yccmcy5lscj3ke2heeen.jpg"
+     },
+     "at": "2026-10-26T08:43+09:00",
+     "v": {
+      "A": "f898b698",
+      "B": "3a7087cc",
+      "C": "baea0b02"
+     }
+    }
+   },
+   "corner_name": "이슈"
+  },
+  {
+   "source": {
+    "id": "claude:brk-f6fbcfc2",
+    "account": "@속보",
+    "url": "https://www.slist.kr/news/articleView.html?idxno=776239",
+    "image": null,
+    "head": "블로키X하비소울 캐릭터 페스타, 신세계 강남점 1층에서 11월 3일까지 굿즈 950여 종",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T08:46+09:00",
+   "key": "137412a5",
+   "by": "claude",
+   "subjects": [
+    "블로키X하비소울 두근두근 캐릭터 페스타",
+    "신세계백화점 강남점"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "신세계 강남점 1층에 50여 개 IP 굿즈 950여 종 — 강남점 한정 블로키 상품과 꽝 없는 뽑기, 11월 3일까지",
+    "why": "캐릭터·피규어 굿즈 열풍 — 이번 주에 바로 가 볼 수 있는 대형 팝업"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T08:46+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n신세계백화점 강남점 1층에 캐릭터 굿즈 950여 종이 모였습니다.\n\n완구·피규어 브랜드 블로키와 캐릭터 굿즈숍 하비소울이 함께 꾸린 '두근두근 캐릭터 페스타'인데요, 마블·스타워즈·포켓몬스터 등 50여 개 IP의 피규어와 짱구·산리오 같은 캐릭터 굿즈가 한 매장에 놓였습니다.\n\n강남점에서만 파는 블로키 하츠네 미쿠 한정판과 에반게리온 액션에디션 신상품이 있고, 대형 입체 피규어와 포토존, 프라모델 전시도 함께 꾸려졌습니다. 한쪽에서는 1회 1만 원에 꽝 없는 랜덤 뽑기가 열립니다.\n\n기간: 11월 3일(화)까지\n장소: 신세계백화점 강남점 1층 오픈스테이지\n뽑기: 1회 1만 원 (꽝 없음)\n사은품: 5만 원 이상 구매 시 랜덤 캐릭터 굿즈, 9만 원 이상 구매 시 캐릭터 다이어리 (선착순·한정 수량)\n\n#SENE #신세계강남점 #캐릭터페스타 #블로키 #하비소울\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792971965/axeovuulse3ujqxwtpj0.jpg\n제목: 캐릭터 굿즈 950종,|신세계 강남점에\n부제: 블로키X하비소울 두근두근 캐릭터 페스타 · 11월 3일까지\n출처: 신세계백화점\n",
+    "caption": "신세계백화점 강남점 1층에 캐릭터 굿즈 950여 종이 모였습니다.\n\n완구·피규어 브랜드 블로키와 캐릭터 굿즈숍 하비소울이 함께 꾸린 '두근두근 캐릭터 페스타'인데요, 마블·스타워즈·포켓몬스터 등 50여 개 IP의 피규어와 짱구·산리오 같은 캐릭터 굿즈가 한 매장에 놓였습니다.\n\n강남점에서만 파는 블로키 하츠네 미쿠 한정판과 에반게리온 액션에디션 신상품이 있고, 대형 입체 피규어와 포토존, 프라모델 전시도 함께 꾸려졌습니다. 한쪽에서는 1회 1만 원에 꽝 없는 랜덤 뽑기가 열립니다.\n\n기간: 11월 3일(화)까지\n장소: 신세계백화점 강남점 1층 오픈스테이지\n뽑기: 1회 1만 원 (꽝 없음)\n사은품: 5만 원 이상 구매 시 랜덤 캐릭터 굿즈, 9만 원 이상 구매 시 캐릭터 다이어리 (선착순·한정 수량)\n\n#SENE #신세계강남점 #캐릭터페스타 #블로키 #하비소울",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971965/axeovuulse3ujqxwtpj0.jpg",
+      "credit": "신세계백화점",
+      "from": "https://i3n.news1.kr/system/photos/2026/10/25/8177682/high.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971965/axeovuulse3ujqxwtpj0.jpg",
+      "credit": "신세계백화점",
+      "from": "https://i3n.news1.kr/system/photos/2026/10/25/8177682/high.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "캐릭터 굿즈 950종,|신세계 강남점에",
+      "sub": "블로키X하비소울 두근두근 캐릭터 페스타 · 11월 3일까지"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "꽝 없는 뽑기가|강남점 1층에",
+      "sub": "블로키X하비소울 캐릭터 페스타 · 11월 3일까지"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "마블부터 짱구까지|굿즈 한자리에",
+      "sub": "신세계 강남점 1층 오픈스테이지 · 11월 3일까지"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "숏폼 비움 — 이 행사의 공식 영상(신세계·블로키·하비소울 채널)을 못 찾음. 유튜브 검색에는 지난 판교 팝업 개인 후기 영상만 나옴",
+     "사진은 기사에 실린 신세계백화점 제공 보도사진 — 표지에 글자·가격 문구가 아래쪽에 없는지 미리보기로 확인",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "신세계百 강남점, 캐릭터 팝업… 굿즈 950종 선보여 (스포츠W·slist)",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776239"
+     },
+     {
+      "title": "신세계百 강남점, 마블·포켓몬 굿즈 950종 '캐릭터 페스타' (뉴스1)",
+      "link": "https://www.news1.kr/industry/distribution/6331142"
+     },
+     {
+      "title": "마블부터 짱구까지 인기 굿즈 한자리에…신세계百 '캐릭터 페스타' (뉴시스)",
+      "link": "https://www.newsis.com/view/NISX20261025_0003840155"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971969/qbvpgj5vuxvb3b6ziekh.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971969/c0nnrxqt7gliikt3ellx.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971972/zcpwfgoptxowo24nklk8.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971972/fvm6qhrvgwpnjxyasswr.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971969/qbvpgj5vuxvb3b6ziekh.jpg"
+     },
+     "at": "2026-10-26T08:46+09:00",
+     "v": {
+      "A": "bda34c67",
+      "B": "b2a330ca",
+      "C": "f01ec2d2"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-a7a397fc",
+    "account": "@속보",
+    "url": "https://blog.naver.com/showckh/224453707791",
+    "image": null,
+    "head": "니케 4주년 용산 행사 10/30~11/1, 스탬프 랠리 예약 오늘 14시 오픈",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T08:58+09:00",
+   "key": "5381a737",
+   "by": "claude",
+   "subjects": [
+    "승리의 여신: 니케"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "니케 4주년 오프라인 행사가 이번 주 금요일 용산에서 — 스탬프 랠리 예약이 오늘 오후 2시에 열린다",
+    "why": "게임 4주년 오프라인 행사 예약 오픈일 — 이번 주말 실제로 가 볼 수 있는 일"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T08:58+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n게임 〈승리의 여신: 니케〉의 4주년 행사가 이번 주 금요일 용산에서 열립니다.\n\n10월 30일부터 사흘간 아이파크몰 용산점에서 열리는 「MARIAN: WHITE & BLACK IN 용산」인데요, 더 센터 4층 더 테라스와 더 가든에 이번 4주년의 주인공 마리안이 거대한 조형물로 들어섭니다. 더 테라스에는 퀸 마리안, 더 가든에는 새하얀 드레스 차림의 마리안입니다.\n\n행사 기간에는 옥외광고와 이어지는 스탬프 랠리도 열리는데, 사전 예약제라 예약이 오늘 오후 2시에 먼저 열립니다. 4주년 옥외광고는 10월 29일부터 11월 11일까지 홍대입구역 4번 출구와 강남대로 일대에도 걸립니다.\n\n기간: 10월 30일(금) ~ 11월 1일(일)\n장소: 서울 용산구 아이파크몰 용산점 더 센터 4층 더 테라스·더 가든\n운영 시간: 10:30~21:00 (11월 1일은 20:30까지) · 스탬프 랠리 10:30~17:30\n예약: 스탬프 랠리 네이버 사전 예약 10월 26일(월) 오후 2시 오픈 (1인 1회, 현장 접수 없음)\n#SENE #니케 #승리의여신니케 #니케4주년 #용산아이파크몰\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792972691/cexz3jv47tgorgerqkmx.jpg\n제목: 니케 4주년 행사,|이번 주 용산에서\n부제: 10월 30일 ~ 11월 1일 · 아이파크몰 용산점\n출처: 승리의 여신: 니케\n",
+    "caption": "게임 〈승리의 여신: 니케〉의 4주년 행사가 이번 주 금요일 용산에서 열립니다.\n\n10월 30일부터 사흘간 아이파크몰 용산점에서 열리는 「MARIAN: WHITE & BLACK IN 용산」인데요, 더 센터 4층 더 테라스와 더 가든에 이번 4주년의 주인공 마리안이 거대한 조형물로 들어섭니다. 더 테라스에는 퀸 마리안, 더 가든에는 새하얀 드레스 차림의 마리안입니다.\n\n행사 기간에는 옥외광고와 이어지는 스탬프 랠리도 열리는데, 사전 예약제라 예약이 오늘 오후 2시에 먼저 열립니다. 4주년 옥외광고는 10월 29일부터 11월 11일까지 홍대입구역 4번 출구와 강남대로 일대에도 걸립니다.\n\n기간: 10월 30일(금) ~ 11월 1일(일)\n장소: 서울 용산구 아이파크몰 용산점 더 센터 4층 더 테라스·더 가든\n운영 시간: 10:30~21:00 (11월 1일은 20:30까지) · 스탬프 랠리 10:30~17:30\n예약: 스탬프 랠리 네이버 사전 예약 10월 26일(월) 오후 2시 오픈 (1인 1회, 현장 접수 없음)\n#SENE #니케 #승리의여신니케 #니케4주년 #용산아이파크몰",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972691/cexz3jv47tgorgerqkmx.jpg",
+      "credit": "승리의 여신: 니케",
+      "from": "https://static.inven.co.kr/column/2026/10/24/news/i1108092777.png"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972693/w3iubkm2y59qraieehr6.jpg",
+      "credit": "승리의 여신: 니케",
+      "from": "https://static.inven.co.kr/column/2026/10/24/news/i1024048012.png"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972695/wsjzdkerykcwbpgzys6h.jpg",
+      "credit": "승리의 여신: 니케",
+      "from": "https://static.inven.co.kr/column/2026/10/24/news/i1428747116.png"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972691/cexz3jv47tgorgerqkmx.jpg",
+      "credit": "승리의 여신: 니케",
+      "from": "https://static.inven.co.kr/column/2026/10/24/news/i1108092777.png"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972693/w3iubkm2y59qraieehr6.jpg",
+      "credit": "승리의 여신: 니케",
+      "from": "https://static.inven.co.kr/column/2026/10/24/news/i1024048012.png"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972695/wsjzdkerykcwbpgzys6h.jpg",
+      "credit": "승리의 여신: 니케",
+      "from": "https://static.inven.co.kr/column/2026/10/24/news/i1428747116.png"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "니케 4주년 행사,|이번 주 용산에서",
+      "sub": "10월 30일 ~ 11월 1일 · 아이파크몰 용산점"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "마리안 대형 조형물이|용산에 선다",
+      "sub": "니케 4주년 · 10월 30일부터 사흘"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "니케 스탬프 랠리|오늘 오후 2시 예약",
+      "sub": "아이파크몰 용산점 · 10월 30일 ~ 11월 1일"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 01: 원본 공지 이미지의 글자(행사명·날짜·'현장에 거대한 조형물이…')가 표지 제목·부제 뒤로 비쳐 겹침 — 사진 바꾸기 필요. 문구 사실은 공식 공지(루리웹 옮김)·인벤·게임플·ZDNet·방송 자막과 대조 완료",
+     "클립 위험: 낮음 — 승리의 여신: 니케 - 신규 업데이트 (공식 채널)",
+     "표지 사진은 공식 공지 이미지(인벤 게재)라 아래쪽 원본 글자가 제목과 겹침 — 공식 인스타 계정을 못 찾았음, 앱에서 사진 바꾸기 또는 10/30 현장 공식 사진으로 교체",
+     "이어지는 소식 — 10-26에 다룬 소재. 새 사실: 무신사 성수 팝업(11/6~)과 다른 행사 — 용산 아이파크몰 마리안 조형물·스탬프 랠리 10/30~11/1, 예약 오늘(10/26) 14시 오픈",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "ZDNet — 레벨 인피니트, ‘승리의 여신: 니케’ 4주년 특별 방송 진행",
+      "link": "https://zdnet.co.kr/view/?no=20261023132652"
+     },
+     {
+      "title": "ZDNet — ‘승리의 여신: 니케’ 4주년 특별 방송, \"방주 이야기 매듭…최종전 이후 준비\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024210739"
+     },
+     {
+      "title": "인벤 — [니케 4주년] 최대 230뽑기! '최종 결전' 니케 4주년 특별 방송",
+      "link": "https://www.inven.co.kr/webzine/news/?news=322531"
+     },
+     {
+      "title": "게임플 — '니케' 4주년 방송 총정리",
+      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216790"
+     },
+     {
+      "title": "루리웹 — [니케] 4주년 기념 옥외 광고 안내 (공식 라운지 공지 옮김)",
+      "link": "https://bbs.ruliweb.com/mobile/board/320108/read/2296085"
+     },
+     {
+      "title": "유튜브 — 4주년 특별 방송 | 승리의 여신 : 니케 (공식 채널)",
+      "link": "https://www.youtube.com/watch?v=yxwOMk5RRQY"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972700/l1eglgyw6lb05oi8splu.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972700/kvy98rf13qupx3e2x32f.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972703/xg4uq43ms36y7shpftle.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972703/jn6wcgsl4p7gzpyhu4cq.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972700/l1eglgyw6lb05oi8splu.jpg"
+     },
+     "at": "2026-10-26T08:58+09:00",
+     "v": {
+      "A": "16ee5436",
+      "B": "d1038dcf",
+      "C": "c3d3054f"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=yxwOMk5RRQY\n구간: 96:43-97:24\n곡: 등장한다고 해요\n아티스트: 거대한 조형물이\n피처링:\n후킹: 이것도 용산이네요\n출처: 승리의 여신: 니케 - 신규 업데이트\n자막: 자동",
+    "caption": "게임 〈승리의 여신: 니케〉의 4주년 행사가 이번 주 금요일 용산에서 열립니다.\n\n지난 24일 공식 채널의 4주년 특별 방송에서 한국 오프라인 행사를 소개하던 장면인데요, 홍대입구역·강남역 일대의 옥외광고에 이어 용산에 거대한 조형물이 선다고 예고했습니다.\n\n그 조형물이 아이파크몰 용산점 더 센터 4층 더 테라스와 더 가든에 들어서는 퀸 마리안과 새하얀 드레스 차림의 마리안입니다. 행사 기간에 열리는 스탬프 랠리는 사전 예약제로, 예약이 오늘 오후 2시에 열립니다.\n\n기간: 10월 30일(금) ~ 11월 1일(일)\n장소: 서울 용산구 아이파크몰 용산점 더 센터 4층\n예약: 스탬프 랠리 네이버 사전 예약 10월 26일(월) 오후 2시 오픈 (1인 1회, 현장 접수 없음)\n#SENE #니케 #승리의여신니케 #니케4주년 #용산아이파크몰",
+    "hooks": {
+     "A": "이것도 용산이네요 / 거대한 조형물이 / 등장한다고 해요",
+     "B": "니케 4주년 행사 / 이번 주 금요일 / 용산 아이파크몰",
+     "C": "마리안이 / 용산에 크게 / 서는 사흘"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=yxwOMk5RRQY",
+     "credit": "승리의 여신: 니케 - 신규 업데이트",
+     "range": [
+      5803.0,
+      5844.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 01: 원본 공지 이미지의 글자(행사명·날짜·'현장에 거대한 조형물이…')가 표지 제목·부제 뒤로 비쳐 겹침 — 사진 바꾸기 필요. 문구 사실은 공식 공지(루리웹 옮김)·인벤·게임플·ZDNet·방송 자막과 대조 완료",
+     "클립 위험: 낮음 — 승리의 여신: 니케 - 신규 업데이트 (공식 채널)",
+     "표지 사진은 공식 공지 이미지(인벤 게재)라 아래쪽 원본 글자가 제목과 겹침 — 공식 인스타 계정을 못 찾았음, 앱에서 사진 바꾸기 또는 10/30 현장 공식 사진으로 교체",
+     "이어지는 소식 — 10-26에 다룬 소재. 새 사실: 무신사 성수 팝업(11/6~)과 다른 행사 — 용산 아이파크몰 마리안 조형물·스탬프 랠리 10/30~11/1, 예약 오늘(10/26) 14시 오픈"
+    ],
+    "research": [
+     {
+      "title": "ZDNet — 레벨 인피니트, ‘승리의 여신: 니케’ 4주년 특별 방송 진행",
+      "link": "https://zdnet.co.kr/view/?no=20261023132652"
+     },
+     {
+      "title": "ZDNet — ‘승리의 여신: 니케’ 4주년 특별 방송, \"방주 이야기 매듭…최종전 이후 준비\"",
+      "link": "https://zdnet.co.kr/view/?no=20261024210739"
+     },
+     {
+      "title": "인벤 — [니케 4주년] 최대 230뽑기! '최종 결전' 니케 4주년 특별 방송",
+      "link": "https://www.inven.co.kr/webzine/news/?news=322531"
+     },
+     {
+      "title": "게임플 — '니케' 4주년 방송 총정리",
+      "link": "https://www.gameple.co.kr/news/articleView.html?idxno=216790"
+     },
+     {
+      "title": "루리웹 — [니케] 4주년 기념 옥외 광고 안내 (공식 라운지 공지 옮김)",
+      "link": "https://bbs.ruliweb.com/mobile/board/320108/read/2296085"
+     },
+     {
+      "title": "유튜브 — 4주년 특별 방송 | 승리의 여신 : 니케 (공식 채널)",
+      "link": "https://www.youtube.com/watch?v=yxwOMk5RRQY"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/yxwOMk5RRQY/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972715/gsngjqtb6pzsadddoxi5.jpg",
+     "key": "yxwOMk5RRQY@5803.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T08:58+09:00"
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-622bdbc5",
+    "account": "@속보",
+    "url": "https://blog.naver.com/y781008/224453745487",
+    "image": null,
+    "head": "스카이라크 국내 첫 성수 팝업 25일 종료 — 비버가 직접 찾아 탁구 친 나흘",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T09:06+09:00",
+   "key": "5f3c0a66",
+   "by": "claude",
+   "subjects": [
+    "스카이라크"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "저스틴 비버의 스카이라크 국내 첫 성수 팝업이 어제(25일) 끝났다 — 비버가 직접 와 탁구를 친 나흘",
+    "why": "주말 내내 줄과 비버 방한으로 이야기된 팝업의 마무리 정리. 이미 끝난 행사라 기사형 표지 한 장."
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T09:06+09:00",
+   "corner": "followup",
+   "card": {
+    "form": "[카테고리]\n패션\n\n[캡션]\n저스틴 비버의 브랜드 스카이라크(@skylrk)가 성수동에서 연 국내 첫 팝업이 어제 문을 닫았습니다.\n\n나흘만 열리는 팝업이었는데요, 첫날에는 오전 10시 개장을 앞두고 새벽부터 매장 앞에 줄이 섰습니다. 23일에는 비버가 13년 만에 한국을 찾았고, 자신의 SNS에 매장 곳곳에서 찍은 사진과 현장 탁구대에서 관계자들과 탁구를 치는 모습을 올렸습니다.\n\n그 탁구대는 탁구 브랜드 STIGA 와 함께 만든 정식 출시 전 제품입니다. 매장에는 'SKYLRK(@skylrk) SEOUL' 이 적힌 서울 한정 의류도 놓였습니다.\n\n기간: 10월 22일(목) ~ 25일(일) · 종료\n장소: 서울 성동구 성수동\n#SENE #스카이라크 #SKYLRK #성수팝업 #저스틴비버\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792973170/ggy0o3ix20pmnmzdu3gq.jpg\n제목: 스카이라크 성수 팝업|나흘 일정 마쳤다\n부제: 저스틴 비버의 브랜드, 국내 첫 팝업 25일 종료\n출처: @skylrk\n",
+    "caption": "저스틴 비버의 브랜드 스카이라크(@skylrk)가 성수동에서 연 국내 첫 팝업이 어제 문을 닫았습니다.\n\n나흘만 열리는 팝업이었는데요, 첫날에는 오전 10시 개장을 앞두고 새벽부터 매장 앞에 줄이 섰습니다. 23일에는 비버가 13년 만에 한국을 찾았고, 자신의 SNS에 매장 곳곳에서 찍은 사진과 현장 탁구대에서 관계자들과 탁구를 치는 모습을 올렸습니다.\n\n그 탁구대는 탁구 브랜드 STIGA 와 함께 만든 정식 출시 전 제품입니다. 매장에는 'SKYLRK(@skylrk) SEOUL' 이 적힌 서울 한정 의류도 놓였습니다.\n\n기간: 10월 22일(목) ~ 25일(일) · 종료\n장소: 서울 성동구 성수동\n#SENE #스카이라크 #SKYLRK #성수팝업 #저스틴비버",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973170/ggy0o3ix20pmnmzdu3gq.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/814471027_18068665094756331_5714837956603422018_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BOx3_GgMj0oQ7kNvwFpWAS_&_nc_oc=AdoVZJqvI6IRJbwLVionNPefuYdR_qMag3jmpff05qwSj6GkRcGNQFUT0yrjCD5zKX4&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&oh=00_AQOygKJC3inl9Cj9UICPR3PeQKRklAkYJ8c2a1kY08jZSw&oe=6AE456E3"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973167/j8qwiwqb48pu9bwdtfbg.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857850100_18073287599756331_6625504578611160399_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=v5UbsbQXm3gQ7kNvwHXBHkB&_nc_oc=AdqsuKxNJjaUAUqKqVo1SDtRAHM0qV35Qh42C8XID3hNALdmRnRq3FUMpxKzm64iRDM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&_nc_tpa=Q5bMBQKSUSHeJP7mgbd7BfjFa4b8xXyt06lVQt80PqU7vjkRzservZNxXSvUOOB2QF4mxphoyQ8WCQuplg&oh=00_AQMVdh4IAVfNNCQu0v6dVclEjG0k_SnsOInjeOEdB_jJVQ&oe=6AE45819"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973173/aua9xlgzqbg6nrcz5nx9.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/809039486_18068663822756331_5259004395514188466_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OfQmtbZeMCwQ7kNvwEBtZl5&_nc_oc=AdpP9r6k6k4t_Pk0fbQ8DaTuK7qt2cGb9YPYgW4kjbppMd8DoxTeuEMT-LhnvUmdYfQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&oh=00_AQNIVfpI3AfUcK62JXOdRSv_q_rWep20xHZjwUBFMD2fTw&oe=6AE47A0C"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973177/zb3ueyxcybk6ijwwtqxh.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/799250428_18068663801756331_7015385484610697_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PUN-UbT0HbQQ7kNvwF3s6NO&_nc_oc=AdoCmpKct0MxaK0LjjCqsYoFrHUJk1lLO0SR3mHfcotBuXK6BI0utmPtQigYXEVRSbc&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&oh=00_AQPJCgY2tYJHZZSLOrt7Gd7CN8TiDKdR8qFO0ey7J1gnYQ&oe=6AE4721F"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973170/ggy0o3ix20pmnmzdu3gq.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/814471027_18068665094756331_5714837956603422018_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BOx3_GgMj0oQ7kNvwFpWAS_&_nc_oc=AdoVZJqvI6IRJbwLVionNPefuYdR_qMag3jmpff05qwSj6GkRcGNQFUT0yrjCD5zKX4&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&oh=00_AQOygKJC3inl9Cj9UICPR3PeQKRklAkYJ8c2a1kY08jZSw&oe=6AE456E3"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973167/j8qwiwqb48pu9bwdtfbg.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857850100_18073287599756331_6625504578611160399_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=v5UbsbQXm3gQ7kNvwHXBHkB&_nc_oc=AdqsuKxNJjaUAUqKqVo1SDtRAHM0qV35Qh42C8XID3hNALdmRnRq3FUMpxKzm64iRDM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&_nc_tpa=Q5bMBQKSUSHeJP7mgbd7BfjFa4b8xXyt06lVQt80PqU7vjkRzservZNxXSvUOOB2QF4mxphoyQ8WCQuplg&oh=00_AQMVdh4IAVfNNCQu0v6dVclEjG0k_SnsOInjeOEdB_jJVQ&oe=6AE45819"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973173/aua9xlgzqbg6nrcz5nx9.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/809039486_18068663822756331_5259004395514188466_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=OfQmtbZeMCwQ7kNvwEBtZl5&_nc_oc=AdpP9r6k6k4t_Pk0fbQ8DaTuK7qt2cGb9YPYgW4kjbppMd8DoxTeuEMT-LhnvUmdYfQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&oh=00_AQNIVfpI3AfUcK62JXOdRSv_q_rWep20xHZjwUBFMD2fTw&oe=6AE47A0C"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973177/zb3ueyxcybk6ijwwtqxh.jpg",
+      "credit": "@skylrk",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/799250428_18068663801756331_7015385484610697_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PUN-UbT0HbQQ7kNvwF3s6NO&_nc_oc=AdoCmpKct0MxaK0LjjCqsYoFrHUJk1lLO0SR3mHfcotBuXK6BI0utmPtQigYXEVRSbc&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dmwTQy6u4JFCrecMxGxhbg&oh=00_AQPJCgY2tYJHZZSLOrt7Gd7CN8TiDKdR8qFO0ey7J1gnYQ&oe=6AE4721F"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "스카이라크 성수 팝업|나흘 일정 마쳤다",
+      "sub": "저스틴 비버의 브랜드, 국내 첫 팝업 25일 종료"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "비버가 직접 와서|탁구 친 성수 팝업",
+      "sub": "스카이라크 서울, 10월 22~25일"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "저스틴 비버 브랜드|첫 서울 팝업 종료",
+      "sub": "성수동에서 나흘간"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "숏폼 비움 — 스카이라크·비버 공식 유튜브 영상이 없고, 찾은 건 팬 브이로그와 YTN 뉴스 클립(위험 높음·동선 위주)뿐",
+     "@skylrk 최신 게시물에서 팝업 종료·연장·다음 도시 공지가 있는지 올리기 전 확인",
+     "이어지는 소식 — 10-26에 다룬 소재. 새 사실: 앞 초안은 '오늘(25일)이 마지막 날' — 팝업은 25일로 끝났다(팝가 '종료된 팝업' 표시). 앞 초안을 이미 올렸으면 이 건은 버리고, 안 올렸으면 이 건으로 바꾼다"
+    ],
+    "research": [
+     {
+      "title": "뉴시스 — \"새벽 1시부터 줄 섰다\"…저스틴 비버 성수동 팝업에 '오픈런'",
+      "link": "https://www.newsis.com/view/NISX20261022_0003836530"
+     },
+     {
+      "title": "WWD코리아 — 저스틴 비버의 브랜드 'SKYLRK', 서울 첫 팝업 오픈",
+      "link": "https://www.wwdkorea.com/news/articleView.html?idxno=20374"
+     },
+     {
+      "title": "하퍼스 바자 — 성수 SKYLRK 팝업에서 에디터가 산 것들",
+      "link": "https://www.harpersbazaar.co.kr/article/1911854"
+     },
+     {
+      "title": "보그 코리아 — 저스틴 비버 브랜드 'SKYLRK', 서울 팝업 연다",
+      "link": "https://www.vogue.co.kr/2026/10/20/%EC%A0%80%EC%8A%A4%ED%8B%B4-%EB%B9%84%EB%B2%84-%EB%B8%8C%EB%9E%9C%EB%93%9C-skylrk-%EC%84%9C%EC%9A%B8-%ED%8C%9D%EC%97%85-%EC%97%B0%EB%8B%A4"
+     },
+     {
+      "title": "마리끌레르 코리아 — 스카이라크 성수 팝업 개최",
+      "link": "https://www.marieclairekorea.com/fashion/2026/10/skylrk/"
+     },
+     {
+      "title": "이투데이 — 저스틴 비버, 오늘(23일) 내한",
+      "link": "https://www.etoday.co.kr/news/view/2639325"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973186/o4tmybsw9be2gcfymkmy.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973185/d2wvzbzozdbr0aqdwwjj.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973190/psqgw1x8lpfstxruhv5r.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973190/bxszzlfdtviayt4akred.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973186/o4tmybsw9be2gcfymkmy.jpg"
+     },
+     "at": "2026-10-26T09:06+09:00",
+     "v": {
+      "A": "7ae853db",
+      "B": "c38a3049",
+      "C": "a65c833d"
+     }
+    }
+   },
+   "corner_name": "후속"
   }
  ],
  "skipped": [],
@@ -2444,7 +3038,7 @@
     "need_today": 4,
     "day": null,
     "next_no": null,
-    "drafts": 8,
+    "drafts": 10,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -2528,7 +3122,7 @@
     "need_today": 1,
     "day": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 2,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
    },
    {
@@ -2540,7 +3134,7 @@
     "need_today": 1,
     "day": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "잘 된 글의 다음 편 — 연장·다음 도시·후속 컬렉션 (후속 기획 탭)"
    },
    {
@@ -2556,7 +3150,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T05:35+09:00"
+  "at": "2026-10-26T09:06+09:00"
  },
  "slots": {
   "basis": 0,
