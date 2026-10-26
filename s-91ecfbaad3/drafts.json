@@ -3357,7 +3357,9 @@
      "v": {
       "A": "1790e4c6",
       "B": "d2ff7602",
-      "C": "85dc3d35"
+      "C": "85dc3d35",
+      "E": "cc47cf43",
+      "J": "ee1e5167"
      }
     }
    },
@@ -3415,7 +3417,71 @@
     }
    },
    "i18n_queued": "2026-10-26T11:22+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-26T11:23+09:00",
+    "confirm": [
+     "숏폼 세 줄(후킹 → 아티스트 → 곡)을 한 문장처럼 이어 읽히게 옮겼습니다. 영어: '20 years of keeping / people going, / now it's bedtime' · 일본어: '20年は人を / 遊ばせてきて / 今度は眠らせると'",
+     "팩트 크레센도는 영어 매체 이름 Fact Crescendo 를 그대로 썼고, 일본어는 ファクト・クレッシェンド（Fact Crescendo）로 적었습니다. 일본어 공식 표기는 따로 확인하지 못했습니다.",
+     "스누즈(Snoooze)와 한스 브리엔스(Hans Vriens)는 철자를 확인했습니다. 일본어 표기(スヌーズ・ハンス・ブリエンス)는 공식 표기가 없어 원문의 한국어 표기를 따라 カタカナ 로 옮겼습니다.",
+     "숏폼 후킹 세 줄('20년은 사람들을 / 놀게 했고 / 이제는 재우겠다고')이 영상 속 실제 발언인지, 원문 숫자 '20년'이 맞는지 자막으로 확인 필요 — 레드불은 1987년 출시라 '20년'이 레드불 역사를 말하는 거라면 2018년 기준으로도 맞지 않음",
+     "팩트 크레센도 판정 시점이 '4월'(캡션)·'올해 4월'(숏폼)로 표기가 다름 — 두 판 모두 원문을 그대로 따랐으며, 2026년 4월이 맞는지 원 기사로 확인 필요"
+    ],
+    "review": {
+     "at": "2026-10-26T11:23+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · 'A drink that sells sleep under the name of a brand…' → 'The idea of selling sleep under the name of a drink known for keeping people awake…' — 스누즈가 레드불 이름으로 팔린 것처럼 읽혀 원문('~라는 설정')과 뜻이 달라짐",
+      "영어 · 숏폼 캡션 · 'it is meant to be drunk one bottle 30 minutes before going to sleep' → 'you drink one bottle 30 minutes before going to sleep' — 문법이 어색한 직역투",
+      "일본어 · 후킹 · '20年は人を' → '20年間、人を' — '20年は'가 '적어도 20년'으로도 읽혀 뜻이 둘로 갈림"
+     ],
+     "doubt": [
+      "숏폼 후킹 세 줄('20년은 사람들을 / 놀게 했고 / 이제는 재우겠다고')이 영상 속 실제 발언인지, 원문 숫자 '20년'이 맞는지 자막으로 확인 필요 — 레드불은 1987년 출시라 '20년'이 레드불 역사를 말하는 거라면 2018년 기준으로도 맞지 않음",
+      "팩트 크레센도 판정 시점이 '4월'(캡션)·'올해 4월'(숏폼)로 표기가 다름 — 두 판 모두 원문을 그대로 따랐으며, 2026년 4월이 맞는지 원 기사로 확인 필요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nThe claim that Red Bull (@redbull) is making a drink that puts you to sleep for 12 hours has not been confirmed.\n\nThe rumor spread on social media along with an image of a product labeled 'Red Bull Sleep.' In April, fact-checking outlet Fact Crescendo rated the claim 'false,' saying it found no related announcement on Red Bull's official website or verified channels. The outlet also said Red Bull did not respond to its request for comment.\n\nThere is a separate story that may explain the mix-up. Former Red Bull executive Hans Vriens once launched 'Snoooze,' a sleep drink made with herbs such as passionflower and lemon balm, but it is not a Red Bull product. The idea of selling sleep under the name of a drink known for keeping people awake is what made the rumor sound plausible.\n\nOfficial sources: Red Bull official website and official accounts\n#SENE #RedBull #RedBullSleep #FactCheck #SleepDrink\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792981328/jpfgvggjcl3prwrjkdsi.jpg\n제목: Red Bull Sleep Drink:|No Official Announcement\n부제: Fact-checking the '12 hours of sleep' rumor\n출처: Red Bull\n",
+      "caption": "The claim that Red Bull (@redbull) is making a drink that puts you to sleep for 12 hours has not been confirmed.\n\nThe rumor spread on social media along with an image of a product labeled 'Red Bull Sleep.' In April, fact-checking outlet Fact Crescendo rated the claim 'false,' saying it found no related announcement on Red Bull's official website or verified channels. The outlet also said Red Bull did not respond to its request for comment.\n\nThere is a separate story that may explain the mix-up. Former Red Bull executive Hans Vriens once launched 'Snoooze,' a sleep drink made with herbs such as passionflower and lemon balm, but it is not a Red Bull product. The idea of selling sleep under the name of a drink known for keeping people awake is what made the rumor sound plausible.\n\nOfficial sources: Red Bull official website and official accounts\n#SENE #RedBull #RedBullSleep #FactCheck #SleepDrink",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981439/eqpeiyft364hakr7fqw8.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981438/sojsrarez9079q0hkyqd.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981439/eqpeiyft364hakr7fqw8.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T11:23+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=qvTaAFu-yL8\n구간: 2:27-2:57\n곡: now it's bedtime\n아티스트: people going,\n피처링:\n후킹: 20 years of keeping\n출처: LOCAL 12\n자막: 자동",
+      "caption": "The rumor that Red Bull (@redbull) is making a drink that puts you to sleep for 12 hours has no official announcement behind it.\n\nThere is, however, this scene. In 2018, former Red Bull executive Hans Vriens appeared on LOCAL 12, a local TV station in Cincinnati, US, holding 'Snoooze,' the herbal sleep drink he created, and explained that you drink one bottle 30 minutes before going to sleep.\n\nSnoooze is not a Red Bull product. In April this year, fact-checking outlet Fact Crescendo also rated the '12 hours of sleep' claim 'false,' saying it found no sleep drink announcement on Red Bull's official channels.\n\nVideo: LOCAL 12 (2018)\n#SENE #RedBull #RedBullSleep #FactCheck #SleepDrink"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nレッドブル（@redbull）が12時間眠らせてくれる飲料をつくっているという話は、事実として確認されていません。\n\n「レッドブル・スリープ」と書かれた製品画像とともにSNSで広まった噂ですが、ファクトチェックメディアのファクト・クレッシェンド（Fact Crescendo）は4月、レッドブルの公式ホームページや認証済みチャンネルで関連する発表を見つけられなかったとして、この主張を「虚偽」と判定しました。レッドブルに問い合わせたものの、回答は得られなかったとも明らかにしています。\n\n紛らわしい出来事は別にありました。レッドブルの元幹部ハンス・ブリエンス（Hans Vriens）が、パッションフラワーやレモンバームなどのハーブでつくった睡眠飲料「スヌーズ（Snoooze）」を発売したことがありますが、レッドブルの製品ではありません。眠気を覚ます飲料の名前で眠りを売るという設定が、噂をもっともらしく見せました。\n\n公式確認：レッドブル公式ホームページ・公式アカウント\n#SENE #レッドブル #レッドブルスリープ #ファクトチェック #睡眠ドリンク\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792981328/jpfgvggjcl3prwrjkdsi.jpg\n제목: レッドブルの睡眠飲料、|公式発表はなし\n부제: 「12時間ぐっすり」の噂をファクトチェック\n출처: Red Bull\n",
+      "caption": "レッドブル（@redbull）が12時間眠らせてくれる飲料をつくっているという話は、事実として確認されていません。\n\n「レッドブル・スリープ」と書かれた製品画像とともにSNSで広まった噂ですが、ファクトチェックメディアのファクト・クレッシェンド（Fact Crescendo）は4月、レッドブルの公式ホームページや認証済みチャンネルで関連する発表を見つけられなかったとして、この主張を「虚偽」と判定しました。レッドブルに問い合わせたものの、回答は得られなかったとも明らかにしています。\n\n紛らわしい出来事は別にありました。レッドブルの元幹部ハンス・ブリエンス（Hans Vriens）が、パッションフラワーやレモンバームなどのハーブでつくった睡眠飲料「スヌーズ（Snoooze）」を発売したことがありますが、レッドブルの製品ではありません。眠気を覚ます飲料の名前で眠りを売るという設定が、噂をもっともらしく見せました。\n\n公式確認：レッドブル公式ホームページ・公式アカウント\n#SENE #レッドブル #レッドブルスリープ #ファクトチェック #睡眠ドリンク",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981441/ypne15onsjxetatqjxia.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981441/yk0k3k3yftzfn55lupbr.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981441/ypne15onsjxetatqjxia.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T11:24+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=qvTaAFu-yL8\n구간: 2:27-2:57\n곡: 今度は眠らせると\n아티스트: 遊ばせてきて\n피처링:\n후킹: 20年間、人を\n출처: LOCAL 12\n자막: 자동",
+      "caption": "レッドブル（@redbull）が12時間眠らせてくれる飲料をつくっているという噂は、公式発表のない話です。\n\n代わりに、こんな場面はありました。2018年、米シンシナティの地元テレビ局LOCAL 12に出演したレッドブルの元幹部ハンス・ブリエンス（Hans Vriens）です。自らが手がけたハーブの睡眠飲料「スヌーズ（Snoooze）」を手に、寝る30分前に1本飲む飲料だと説明しています。\n\nスヌーズはレッドブルの製品ではありません。ファクトチェックメディアのファクト・クレッシェンド（Fact Crescendo）も今年4月、レッドブルの公式チャンネルで睡眠飲料の発表を見つけられなかったとして、「12時間睡眠」の主張を「虚偽」と判定しました。\n\n映像：LOCAL 12（2018）\n#SENE #レッドブル #レッドブルスリープ #ファクトチェック #睡眠ドリンク"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -3546,7 +3612,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T11:22+09:00"
+  "at": "2026-10-26T11:24+09:00"
  },
  "slots": {
   "basis": 0,
