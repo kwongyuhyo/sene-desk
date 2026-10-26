@@ -3555,9 +3555,35 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001724/spzzmvbs9thynrbafqpc.jpg",
      "key": "5fHXyqQOKL8@17.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T17:02+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793010470/sene_studio/rtzhgrhawenk4sghpjdu.mp4",
+     "at": "2026-10-26T19:27+09:00",
+     "file": "KeuLiSeu_HaenSeunIbN_PaeTinSeunI_GeuGa_Dw_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793010472120-0f6fae36",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 1.2,
+        "text": "이분은?"
+       },
+       {
+        "start": 1.2,
+        "end": 3.7,
+        "text": "여기가 바로 여기"
+       },
+       {
+        "start": 5.28,
+        "end": 9.46,
+        "text": "저는 크리스 핸슨, 데이트라인 NBC 그리고"
+       },
+       {
+        "start": 9.46,
+        "end": 12.6,
+        "text": "저희는 어린이 어린이 어린이 어린이 어린이 어린이"
+       }
+      ]
+     }
     }
    },
    "i18n_queued": "2026-10-26T17:01+09:00",
@@ -4158,7 +4184,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T19:25+09:00"
+  "at": "2026-10-26T19:27+09:00"
  },
  "slots": {
   "basis": 0,
