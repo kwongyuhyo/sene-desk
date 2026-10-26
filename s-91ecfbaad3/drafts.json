@@ -3251,6 +3251,171 @@
    },
    "i18n_queued": "2026-10-26T11:17+09:00",
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:ord-f127c0a4",
+    "account": "@규효 공유 · @varo_magazine",
+    "url": "https://www.instagram.com/p/Dew_yfnhv2X/?obrf=MTFzYnd6em96aTdxeg==",
+    "image": null,
+    "head": "'12시간 재워 주는 레드불' 소문은 공식 발표가 없는 이야기 — 진짜 수면 음료는 레드불 임원 출신의 별도 브랜드",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T11:22+09:00",
+   "key": "25b857ee",
+   "by": "claude",
+   "subjects": [
+    "레드불"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "다시 공유되는 '레드불 슬립' 12시간 수면 음료 소문 — 공식 발표는 없고, 헷갈린 이유는 레드불 임원 출신이 따로 만든 수면 음료",
+    "why": "규효 공유(10/21). 온라인에서 번진 소문을 사실 확인으로 정리하는 트렌드 소재"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T11:22+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n레드불(@redbull)이 12시간 재워 주는 음료를 만든다는 이야기는 사실로 확인되지 않았습니다.\n\n'레드불 슬립'이라고 적힌 제품 이미지와 함께 SNS에서 번진 소문인데요, 팩트체크 매체 팩트 크레센도는 4월 레드불 공식 홈페이지와 인증 채널에서 관련 발표를 찾지 못했다며 이 주장을 '거짓'으로 판정했습니다. 레드불에 문의했지만 답을 받지 못했다고도 밝혔습니다.\n\n헷갈릴 만한 일은 따로 있었습니다. 레드불 임원 출신 한스 브리엔스(Hans Vriens)가 패션플라워·레몬밤 같은 허브로 만든 수면 음료 '스누즈(Snoooze)'를 내놓은 적이 있는데요, 레드불이 만든 제품은 아닙니다. 잠을 깨우는 음료의 이름으로 잠을 판다는 설정이 소문을 그럴듯하게 만들었습니다.\n\n공식 확인: 레드불 공식 홈페이지·공식 계정\n#SENE #레드불 #레드불슬립 #팩트체크 #수면음료\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792981328/jpfgvggjcl3prwrjkdsi.jpg\n제목: 레드불 수면 음료,|공식 발표는 없다\n부제: '12시간 꿀잠' 소문 팩트체크\n출처: Red Bull\n",
+    "caption": "레드불(@redbull)이 12시간 재워 주는 음료를 만든다는 이야기는 사실로 확인되지 않았습니다.\n\n'레드불 슬립'이라고 적힌 제품 이미지와 함께 SNS에서 번진 소문인데요, 팩트체크 매체 팩트 크레센도는 4월 레드불 공식 홈페이지와 인증 채널에서 관련 발표를 찾지 못했다며 이 주장을 '거짓'으로 판정했습니다. 레드불에 문의했지만 답을 받지 못했다고도 밝혔습니다.\n\n헷갈릴 만한 일은 따로 있었습니다. 레드불 임원 출신 한스 브리엔스(Hans Vriens)가 패션플라워·레몬밤 같은 허브로 만든 수면 음료 '스누즈(Snoooze)'를 내놓은 적이 있는데요, 레드불이 만든 제품은 아닙니다. 잠을 깨우는 음료의 이름으로 잠을 판다는 설정이 소문을 그럴듯하게 만들었습니다.\n\n공식 확인: 레드불 공식 홈페이지·공식 계정\n#SENE #레드불 #레드불슬립 #팩트체크 #수면음료",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981328/jpfgvggjcl3prwrjkdsi.jpg",
+      "credit": "Red Bull",
+      "from": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/870x2200/2d49cae1a2/kr_sf_250ml_ac_sugarfree_country_rgb__cold_closed_front_com_25.png"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981328/jpfgvggjcl3prwrjkdsi.jpg",
+      "credit": "Red Bull",
+      "from": "https://www.redbull.com/energydrink/v1/resources/storyblok/images/f/287059/870x2200/2d49cae1a2/kr_sf_250ml_ac_sugarfree_country_rgb__cold_closed_front_com_25.png"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "레드불 수면 음료,|공식 발표는 없다",
+      "sub": "'12시간 꿀잠' 소문 팩트체크"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "12시간 재우는 레드불?|팩트체크는 '거짓'",
+      "sub": "공식 발표 없는 소문"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "진짜 수면 음료는|레드불 출신이 따로",
+      "sub": "허브 음료 '스누즈'"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — LOCAL 12 (미국 지역 방송 WKRC · 2018년 인터뷰, 30초)",
+     "레드불 공식 홈페이지·공식 계정에 올리기 직전까지 수면 음료 발표가 없는지 다시 확인",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "Fact Crescendo — No evidence Red Bull is developing a sleep drink that guarantees 12 hours of sleep (2026.04.11)",
+      "link": "https://english.factcrescendo.com/2026/04/11/red-bull-sleep-drink-12-hours-hoax/"
+     },
+     {
+      "title": "Sporked — Red Bull's New Drink Will Keep You Sleeping for 12 Hours—at Least, That's the Rumor (2026.03.09)",
+      "link": "https://sporked.com/article/red-bull-sleep-drink/"
+     },
+     {
+      "title": "Innova Market Insights — Snoooze: energy drinks get their sleepy counterpart (2019)",
+      "link": "https://www.innovamarketinsights.com/trends/snoooze-energy-drinks-get-their-sleepy-counterpart/"
+     },
+     {
+      "title": "LOCAL 12 — Promoter of Red Bull now has a drink to help with sleep (2018.06.27)",
+      "link": "https://www.youtube.com/watch?v=qvTaAFu-yL8"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981334/nb6fqzxzxw6hggcvkxqz.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981333/tiswhrwhxa7nsxrcdr5g.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981336/vsqo4zc2u81ggisnztcd.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981336/yrgbmjleebtqe3kme2hw.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981334/nb6fqzxzxw6hggcvkxqz.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-26T11:22+09:00",
+     "v": {
+      "A": "1790e4c6",
+      "B": "d2ff7602",
+      "C": "85dc3d35"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=qvTaAFu-yL8\n구간: 2:27-2:57\n곡: 이제는 재우겠다고\n아티스트: 놀게 했고\n피처링:\n후킹: 20년은 사람들을\n출처: LOCAL 12\n자막: 자동",
+    "caption": "레드불(@redbull)이 12시간 재워 주는 음료를 만든다는 소문은 공식 발표가 없는 이야기입니다.\n\n대신 이런 장면은 있었습니다. 2018년 미국 신시내티 지역 방송 LOCAL 12 에 나온 레드불 임원 출신 한스 브리엔스(Hans Vriens)인데요, 자신이 만든 허브 수면 음료 '스누즈(Snoooze)'를 들고 나와 잠들기 30분 전에 한 병을 마시는 음료라고 설명합니다.\n\n스누즈는 레드불의 제품이 아닙니다. 팩트체크 매체 팩트 크레센도도 올해 4월 레드불 공식 채널에서 수면 음료 발표를 찾지 못했다며 '12시간 수면' 주장을 '거짓'으로 판정했습니다.\n\n영상: LOCAL 12 (2018)\n#SENE #레드불 #레드불슬립 #팩트체크 #수면음료",
+    "hooks": {
+     "A": "20년은 사람들을 / 놀게 했고 / 이제는 재우겠다고",
+     "B": "레드불 수면 음료 / 소문 뒤에 있던 / 진짜 수면 음료",
+     "C": "잠 깨우던 사람이 / 만든 / 잠 오는 음료"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=qvTaAFu-yL8",
+     "credit": "LOCAL 12",
+     "range": [
+      147.0,
+      177.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — LOCAL 12 (미국 지역 방송 WKRC · 2018년 인터뷰, 30초)",
+     "레드불 공식 홈페이지·공식 계정에 올리기 직전까지 수면 음료 발표가 없는지 다시 확인"
+    ],
+    "research": [
+     {
+      "title": "Fact Crescendo — No evidence Red Bull is developing a sleep drink that guarantees 12 hours of sleep (2026.04.11)",
+      "link": "https://english.factcrescendo.com/2026/04/11/red-bull-sleep-drink-12-hours-hoax/"
+     },
+     {
+      "title": "Sporked — Red Bull's New Drink Will Keep You Sleeping for 12 Hours—at Least, That's the Rumor (2026.03.09)",
+      "link": "https://sporked.com/article/red-bull-sleep-drink/"
+     },
+     {
+      "title": "Innova Market Insights — Snoooze: energy drinks get their sleepy counterpart (2019)",
+      "link": "https://www.innovamarketinsights.com/trends/snoooze-energy-drinks-get-their-sleepy-counterpart/"
+     },
+     {
+      "title": "LOCAL 12 — Promoter of Red Bull now has a drink to help with sleep (2018.06.27)",
+      "link": "https://www.youtube.com/watch?v=qvTaAFu-yL8"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/qvTaAFu-yL8/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981348/payl47b5ti5lyn1r6whb.jpg",
+     "key": "qvTaAFu-yL8@147.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T11:22+09:00"
+    }
+   },
+   "i18n_queued": "2026-10-26T11:22+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -3269,7 +3434,7 @@
     "need_today": 4,
     "day": null,
     "next_no": null,
-    "drafts": 11,
+    "drafts": 12,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -3381,7 +3546,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T11:17+09:00"
+  "at": "2026-10-26T11:22+09:00"
  },
  "slots": {
   "basis": 0,
