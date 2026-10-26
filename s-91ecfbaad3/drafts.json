@@ -2268,7 +2268,9 @@
      "v": {
       "A": "b274836f",
       "B": "97238d35",
-      "C": "d679a444"
+      "C": "d679a444",
+      "E": "41edce63",
+      "J": "29f636f1"
      }
     }
    },
@@ -2334,7 +2336,79 @@
     }
    },
    "i18n_queued": "2026-10-26T14:21+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-26T14:23+09:00",
+    "confirm": [
+     "Hollywood Reporter 인용: 원문 영어 문장을 직접 보지 못해 따옴표 없이 간접 인용으로 옮겼습니다 (영어·일본어 모두). 원문 문장을 확인하면 따옴표 인용으로 바꿀 수 있습니다",
+     "25일(현지시간): 영어판은 원문대로 'the 25th' 로 두었습니다 (10월인지 원문 날짜 다시 확인)",
+     "로튼토마토 예상 후보 목록: 이번 검색에서는 따로 확인하지 못했습니다",
+     "일본어 제목: 공식 일본 제목은 『もしもの愛』입니다 (교도 계열·Jorudan 기준). 할리우드 리포터 재팬은 『ポッシブル・ラブ』 로 썼으니 넷플릭스 재팬 표기를 한 번 더 보세요",
+     "출처 칸 '일간스포츠'·'Netflix Korea 넷플릭스 코리아' 는 지침대로 매체 이름을 그대로 두었습니다",
+     "출처 칸 '일간스포츠' · 'Netflix Korea 넷플릭스 코리아' 에 한글이 남아 있음 — 매체·브랜드 이름은 그대로 둔다는 규칙대로 두었지만, 영어·일본어 피드에 한글 출처를 그대로 띄울지 사람이 판단 필요 (예: Ilgan Sports · 日刊スポーツ(韓国))",
+     "제목 영어 'Possible Love' · 일본어 『もしもの愛』, 출연진 표기(Sul Kyung-gu · Zo In-sung · Cho Yeo-jeong / ソル・ギョング 등), 베니스 심사위원대상 · 11월 6일 공개는 검색으로 확인함. 할리우드 리포터 25일 전망 · 로튼토마토 예상 후보 기사는 이번 검수에서 따로 다시 확인하지 않음",
+     "영어판 출처에 한글이 남음",
+     "영어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-10-26T14:23+09:00",
+     "fixes": [
+      "일본어 · 표지 제목 · 'チョン・ドヨン、|オスカー主演女優賞候補に' → 'チョン・ドヨン、オスカー|主演女優賞候補に浮上' — '候補に' 로 끝나면 이미 후보에 오른 것(지명)으로 읽힘. 원문 '거론' 에 맞게 '浮上' 을 붙이고 두 줄 길이(12·10자)를 맞춤"
+     ],
+     "doubt": [
+      "출처 칸 '일간스포츠' · 'Netflix Korea 넷플릭스 코리아' 에 한글이 남아 있음 — 매체·브랜드 이름은 그대로 둔다는 규칙대로 두었지만, 영어·일본어 피드에 한글 출처를 그대로 띄울지 사람이 판단 필요 (예: Ilgan Sports · 日刊スポーツ(韓国))",
+      "제목 영어 'Possible Love' · 일본어 『もしもの愛』, 출연진 표기(Sul Kyung-gu · Zo In-sung · Cho Yeo-jeong / ソル・ギョング 등), 베니스 심사위원대상 · 11월 6일 공개는 검색으로 확인함. 할리우드 리포터 25일 전망 · 로튼토마토 예상 후보 기사는 이번 검수에서 따로 다시 확인하지 않음",
+      "영어판 출처에 한글이 남음",
+      "영어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nJeon Do-yeon is being tipped as the first Korean actor to earn an Academy Award nomination for Best Actress.\n\nThe forecast comes from the US entertainment outlet The Hollywood Reporter on the 25th (local time). Writing about Mi-ok, her role in Lee Chang-dong's 'Possible Love,' it said it is hard to imagine anyone other than Jeon playing the part. US review site Rotten Tomatoes has also listed Jeon among its predicted Best Actress contenders.\n\n'Possible Love' follows a laid-off worker and his wife, and a documentary director and her husband, who meet to make a documentary. The film won the Grand Jury Prize at the Venice International Film Festival in September and is Korea's submission for Best International Feature Film at next year's Academy Awards. Nominations have not been announced yet, but the date to see Mi-ok for yourself is already set.\n\nStreaming: Nov 6 (Fri), Netflix\nCast: Jeon Do-yeon, Sul Kyung-gu, Zo In-sung, Cho Yeo-jeong\n#SENE #JeonDoyeon #PossibleLove #LeeChangdong #KoreanFilm\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792992070/qwdwmwr4c7uunzdsursv.jpg\n제목: Jeon Do-yeon Tipped for|Oscar Best Actress\n부제: 'Possible Love' Streams on Netflix Nov 6\n출처: 일간스포츠\n",
+      "caption": "Jeon Do-yeon is being tipped as the first Korean actor to earn an Academy Award nomination for Best Actress.\n\nThe forecast comes from the US entertainment outlet The Hollywood Reporter on the 25th (local time). Writing about Mi-ok, her role in Lee Chang-dong's 'Possible Love,' it said it is hard to imagine anyone other than Jeon playing the part. US review site Rotten Tomatoes has also listed Jeon among its predicted Best Actress contenders.\n\n'Possible Love' follows a laid-off worker and his wife, and a documentary director and her husband, who meet to make a documentary. The film won the Grand Jury Prize at the Venice International Film Festival in September and is Korea's submission for Best International Feature Film at next year's Academy Awards. Nominations have not been announced yet, but the date to see Mi-ok for yourself is already set.\n\nStreaming: Nov 6 (Fri), Netflix\nCast: Jeon Do-yeon, Sul Kyung-gu, Zo In-sung, Cho Yeo-jeong\n#SENE #JeonDoyeon #PossibleLove #LeeChangdong #KoreanFilm",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992201/rn4gcnktvtr0nd7b3jao.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992201/ia7okjsw3cye4gsgigbj.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992201/rn4gcnktvtr0nd7b3jao.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T14:23+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=_J7PWd3A2PY\n구간: 0:00-0:28\n곡: Best Actress nominee\n아티스트: as Korea's first\n피처링:\n후킹: Jeon Do-yeon tipped\n출처: Netflix Korea 넷플릭스 코리아\n자막: 자동",
+      "caption": "A scene from the final trailer for 'Possible Love,' released by Netflix Korea (@netflixkr).\n\nFor her role as Mi-ok in this film, Jeon Do-yeon is being tipped as the first Korean actor to earn an Academy Award nomination for Best Actress. The forecast comes from US entertainment outlet The Hollywood Reporter, which wrote on the 25th (local time) that it is hard to imagine anyone other than Jeon playing the part.\n\nDirected by Lee Chang-dong, the film stars Jeon Do-yeon, Sul Kyung-gu, Zo In-sung and Cho Yeo-jeong. It follows a laid-off worker and his wife, and a documentary director and her husband, who meet to make a documentary, and won the Grand Jury Prize at the Venice International Film Festival in September.\n\nStreaming: Nov 6 (Fri), Netflix\n#SENE #JeonDoyeon #PossibleLove #LeeChangdong #Netflix"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nチョン・ドヨンが、韓国人俳優として初めてのアカデミー賞主演女優賞候補に挙がっています。\n\n米エンタメメディアのハリウッド・リポーターが25日（現地時間）に出した予想で、イ・チャンドン監督の『もしもの愛』で彼女が演じたミオクについて、チョン・ドヨン以外が演じる姿は想像しにくいと評しました。米レビューサイトのロッテン・トマトも、主演女優賞の予想候補にチョン・ドヨンを挙げています。\n\n『もしもの愛』は、解雇された労働者とその妻、ドキュメンタリー監督とその夫が、ドキュメンタリー制作のために出会う物語です。9月のベネチア国際映画祭で審査員大賞を受賞し、来年のアカデミー賞国際長編映画賞の韓国代表作品でもあります。ノミネート発表前の予想ですが、ミオクに会える日はすでに決まっています。\n\n配信：11月6日（金） Netflix\n出演：チョン・ドヨン、ソル・ギョング、チョ・インソン、チョ・ヨジョン\n#SENE #チョンドヨン #もしもの愛 #イチャンドン #韓国映画\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792992070/qwdwmwr4c7uunzdsursv.jpg\n제목: チョン・ドヨン、オスカー|主演女優賞候補に浮上\n부제: 『もしもの愛』11月6日Netflix配信\n출처: 일간스포츠\n",
+      "caption": "チョン・ドヨンが、韓国人俳優として初めてのアカデミー賞主演女優賞候補に挙がっています。\n\n米エンタメメディアのハリウッド・リポーターが25日（現地時間）に出した予想で、イ・チャンドン監督の『もしもの愛』で彼女が演じたミオクについて、チョン・ドヨン以外が演じる姿は想像しにくいと評しました。米レビューサイトのロッテン・トマトも、主演女優賞の予想候補にチョン・ドヨンを挙げています。\n\n『もしもの愛』は、解雇された労働者とその妻、ドキュメンタリー監督とその夫が、ドキュメンタリー制作のために出会う物語です。9月のベネチア国際映画祭で審査員大賞を受賞し、来年のアカデミー賞国際長編映画賞の韓国代表作品でもあります。ノミネート発表前の予想ですが、ミオクに会える日はすでに決まっています。\n\n配信：11月6日（金） Netflix\n出演：チョン・ドヨン、ソル・ギョング、チョ・インソン、チョ・ヨジョン\n#SENE #チョンドヨン #もしもの愛 #イチャンドン #韓国映画",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992204/ujcqb85atnorrywg5m6v.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992204/npxjpwrlpvvtmwte2h6c.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992204/ujcqb85atnorrywg5m6v.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T14:23+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=_J7PWd3A2PY\n구간: 0:00-0:28\n곡: 主演女優賞候補に浮上\n아티스트: 韓国俳優初のオスカー\n피처링:\n후킹: チョン・ドヨン、\n출처: Netflix Korea 넷플릭스 코리아\n자막: 자동",
+      "caption": "Netflixコリア（@netflixkr）が公開した『もしもの愛』ファイナル予告編のワンシーンです。\n\nこの作品のミオク役で、チョン・ドヨンが韓国人俳優として初めてのアカデミー賞主演女優賞候補に挙がっています。米エンタメメディアのハリウッド・リポーターが25日（現地時間）、チョン・ドヨン以外が演じる姿は想像しにくいとして出した予想です。\n\n監督はイ・チャンドン、出演はチョン・ドヨン、ソル・ギョング、チョ・インソン、チョ・ヨジョン。解雇された労働者とその妻、ドキュメンタリー監督とその夫が、ドキュメンタリー制作のために出会う物語で、9月のベネチア国際映画祭で審査員大賞を受賞しました。\n\n配信：11月6日（金） Netflix\n#SENE #チョンドヨン #もしもの愛 #イチャンドン #Netflix"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -2465,7 +2539,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T14:21+09:00"
+  "at": "2026-10-26T14:23+09:00"
  },
  "slots": {
   "basis": 0,
