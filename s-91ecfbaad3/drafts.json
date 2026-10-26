@@ -820,11 +820,11 @@
      "key": "yxwOMk5RRQY@5803.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793016723/sene_studio/rjuh1ypo4tagb2buv0ob.mp4",
-     "at": "2026-10-26T21:12+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793019746/sene_studio/tmeqnakqgrdjk6yulk6m.mp4",
+     "at": "2026-10-26T22:02+09:00",
      "file": "GeoDaeHan_JoHyeongMu_DeungJangHanDaGo_Hae_NolGeoLi_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793016724395-5381a737",
+      "id": "st:1793019747867-5381a737",
       "segs": [
        {
         "start": 0.0,
@@ -903,10 +903,6 @@
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T21:16+09:00"
     }
    },
    "corner_name": "소식",
@@ -4521,7 +4517,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T21:58+09:00"
+  "at": "2026-10-26T22:02+09:00"
  },
  "slots": {
   "basis": 0,
