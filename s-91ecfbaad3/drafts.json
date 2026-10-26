@@ -2614,9 +2614,50 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992758/bxadlwhkghcv7pityaj8.jpg",
      "key": "_J7PWd3A2PY@0.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T14:21+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793010312/sene_studio/f8bg4msrnalgsbidcjwt.mp4",
+     "at": "2026-10-26T19:25+09:00",
+     "file": "OSeuKa_JuYeonSang_Hu_GeoLonDoeGo_IssSeubN_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793010313898-bdd85c48",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 6.98,
+        "text": "당신 없인 아무것도 이제 할 수 없어"
+       },
+       {
+        "start": 7.3,
+        "end": 10.78,
+        "text": "사랑밖에 난 몰라"
+       },
+       {
+        "start": 15.66,
+        "end": 19.54,
+        "text": "사실은 무서워서 그래요 뭐가요?"
+       },
+       {
+        "start": 19.54,
+        "end": 20.8,
+        "text": "자기 속에 뭐가 있는데"
+       },
+       {
+        "start": 20.8,
+        "end": 23.62,
+        "text": "그걸 끄집어내기가 무서운 거예요"
+       },
+       {
+        "start": 24.24,
+        "end": 25.32,
+        "text": "산 자 빼고"
+       },
+       {
+        "start": 25.32,
+        "end": 27.58,
+        "text": "안 된 사람을 그렇게 부르는 거 아시죠?"
+       }
+      ]
+     }
     }
    },
    "i18n_queued": "2026-10-26T14:21+09:00",
@@ -4117,7 +4158,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T19:22+09:00"
+  "at": "2026-10-26T19:25+09:00"
  },
  "slots": {
   "basis": 0,
