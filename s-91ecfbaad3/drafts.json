@@ -2134,6 +2134,207 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:ord-36a6bb05",
+    "account": "@규효 공유 · @eyesmag",
+    "url": "https://www.instagram.com/p/De8eZLPiXjh/?dlrf=MWVyYXY0dzVlOGpjMw==",
+    "image": null,
+    "head": "전도연, 한국 배우 첫 오스카 여우주연상 후보 전망 — 〈가능한 사랑〉 11월 6일 넷플릭스 공개",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T14:21+09:00",
+   "key": "bdd85c48",
+   "by": "claude",
+   "subjects": [
+    "전도연",
+    "가능한 사랑"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "할리우드 리포터가 전도연을 한국 배우 첫 오스카 여우주연상 후보로 전망 — 〈가능한 사랑〉은 11월 6일 넷플릭스 공개",
+    "why": "규효 공유(@eyesmag) — 10/25 외신 전망이 나왔고, 독자가 열흘 뒤 집에서 직접 볼 수 있는 작품"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T14:21+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n전도연이 한국 배우 첫 아카데미 여우주연상 후보로 거론되고 있습니다.\n\n미국 연예 매체 할리우드 리포터가 25일(현지시간) 내놓은 전망인데요, 이창동 감독의 〈가능한 사랑〉 속 미옥을 두고 '전도연이 아닌 다른 이가 연기하는 것은 상상하기 어렵다'고 썼습니다. 미국 평점 사이트 로튼토마토도 여우주연상 예상 후보에 전도연을 올렸습니다.\n\n〈가능한 사랑〉은 해고 노동자와 그의 아내, 다큐멘터리 감독과 그의 남편이 다큐멘터리 제작을 위해 만나는 이야기입니다. 지난 9월 베니스국제영화제에서 심사위원대상을 받았고, 내년 아카데미 국제장편영화상 한국 출품작이기도 합니다. 후보 발표 전의 전망이지만, 미옥을 직접 볼 날짜는 정해져 있습니다.\n\n공개: 11월 6일(금) 넷플릭스\n출연: 전도연 · 설경구 · 조인성 · 조여정\n#SENE #전도연 #가능한사랑 #이창동 #넷플릭스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792992070/qwdwmwr4c7uunzdsursv.jpg\n제목: 전도연, 오스카|여우주연상 후보 거론\n부제: 〈가능한 사랑〉 11월 6일 넷플릭스 공개\n출처: 일간스포츠\n",
+    "caption": "전도연이 한국 배우 첫 아카데미 여우주연상 후보로 거론되고 있습니다.\n\n미국 연예 매체 할리우드 리포터가 25일(현지시간) 내놓은 전망인데요, 이창동 감독의 〈가능한 사랑〉 속 미옥을 두고 '전도연이 아닌 다른 이가 연기하는 것은 상상하기 어렵다'고 썼습니다. 미국 평점 사이트 로튼토마토도 여우주연상 예상 후보에 전도연을 올렸습니다.\n\n〈가능한 사랑〉은 해고 노동자와 그의 아내, 다큐멘터리 감독과 그의 남편이 다큐멘터리 제작을 위해 만나는 이야기입니다. 지난 9월 베니스국제영화제에서 심사위원대상을 받았고, 내년 아카데미 국제장편영화상 한국 출품작이기도 합니다. 후보 발표 전의 전망이지만, 미옥을 직접 볼 날짜는 정해져 있습니다.\n\n공개: 11월 6일(금) 넷플릭스\n출연: 전도연 · 설경구 · 조인성 · 조여정\n#SENE #전도연 #가능한사랑 #이창동 #넷플릭스",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992070/qwdwmwr4c7uunzdsursv.jpg",
+      "credit": "일간스포츠",
+      "from": "https://isplus.com/data/isp/image/2026/08/25/isp20260825000143.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992069/lgx1bcwmttqoswf1xuvc.jpg",
+      "credit": "넷플릭스",
+      "from": "https://isplus.com/data/isp/image/2026/08/25/isp20260825000231.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992072/nngjgsnp3srdspxqfk63.jpg",
+      "credit": "넷플릭스",
+      "from": "https://img.tenasia.co.kr/photo/202610/BF.46059251.1.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992070/qwdwmwr4c7uunzdsursv.jpg",
+      "credit": "일간스포츠",
+      "from": "https://isplus.com/data/isp/image/2026/08/25/isp20260825000143.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992069/lgx1bcwmttqoswf1xuvc.jpg",
+      "credit": "넷플릭스",
+      "from": "https://isplus.com/data/isp/image/2026/08/25/isp20260825000231.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992072/nngjgsnp3srdspxqfk63.jpg",
+      "credit": "넷플릭스",
+      "from": "https://img.tenasia.co.kr/photo/202610/BF.46059251.1.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "전도연, 오스카|여우주연상 후보 거론",
+      "sub": "〈가능한 사랑〉 11월 6일 넷플릭스 공개"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "할리우드 리포터가|전도연을 꼽았다",
+      "sub": "한국 배우 첫 오스카 여우주연상 후보 전망"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "〈가능한 사랑〉 미옥,|오스카 후보로 거론",
+      "sub": "11월 6일 넷플릭스 공개"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — Netflix Korea 넷플릭스 코리아 (예고편에 자막이 없어 0:00-0:28 구간 장면은 영상으로 직접 확인)",
+     "후보 지명이 아니라 외신 전망 — 올리기 전 표현이 '거론·전망'으로만 쓰였는지 확인"
+    ],
+    "research": [
+     {
+      "title": "한경 — 전도연, 한국인 첫 오스카 주연상 후보 되나",
+      "link": "https://www.hankyung.com/article/202610264934H"
+     },
+     {
+      "title": "아주경제 — 전도연, 오스카 주연상 후보 가능성…외신 '가능한 사랑'에 주목",
+      "link": "https://www.ajunews.com/view/20261026075613686"
+     },
+     {
+      "title": "재경일보 — 전도연 '가능한 사랑' 오스카 여우주연상 유력 후보 거론",
+      "link": "https://news.jkn.co.kr/post/1048979"
+     },
+     {
+      "title": "SBS (영문) — Jeon Do-yeon Could Be Oscar Best Actress Contender",
+      "link": "https://news.sbs.co.kr/english/article.do?news_id=N1008814178"
+     },
+     {
+      "title": "텐아시아 — '가능한 사랑' 메인 포스터, 11월 6일 넷플릭스 공개",
+      "link": "https://www.tenasia.co.kr/article/2026101529284"
+     },
+     {
+      "title": "넷플릭스 코리아 — 가능한 사랑 파이널 예고편 (11월 6일 공개)",
+      "link": "https://www.youtube.com/watch?v=_J7PWd3A2PY"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992078/ckgxacnz6ujiivrk7ddm.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992077/udldjcmre1w27gtdniij.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992080/znmuoh3i510iaadquq1i.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992080/z4k9arstgz2nmr48omsr.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992078/ckgxacnz6ujiivrk7ddm.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-26T14:21+09:00",
+     "v": {
+      "A": "b274836f",
+      "B": "97238d35",
+      "C": "d679a444"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=_J7PWd3A2PY\n구간: 0:00-0:28\n곡: 거론되고 있습니다\n아티스트: 오스카 주연상 후보로\n피처링:\n후킹: 전도연, 한국 배우 첫\n출처: Netflix Korea 넷플릭스 코리아\n자막: 자동",
+    "caption": "넷플릭스 코리아(@netflixkr)가 공개한 〈가능한 사랑〉 파이널 예고편 속 장면입니다.\n\n이 영화의 미옥으로 전도연이 한국 배우 첫 아카데미 여우주연상 후보로 거론되고 있는데요, 미국 연예 매체 할리우드 리포터가 25일(현지시간) '전도연이 아닌 다른 이가 연기하는 것은 상상하기 어렵다'며 내놓은 전망입니다.\n\n이창동 감독이 연출하고 전도연·설경구·조인성·조여정이 출연했습니다. 해고 노동자와 그의 아내, 다큐멘터리 감독과 그의 남편이 다큐멘터리 제작을 위해 만나는 이야기로, 지난 9월 베니스국제영화제 심사위원대상을 받았습니다.\n\n공개: 11월 6일(금) 넷플릭스\n#SENE #전도연 #가능한사랑 #이창동 #넷플릭스",
+    "hooks": {
+     "A": "미옥은 전도연 말고 / 상상하기 어렵다는 / 할리우드 리포터의 평",
+     "B": "전도연, 한국 배우 첫 / 오스카 주연상 후보로 / 거론되고 있습니다",
+     "C": "이창동의 〈가능한 사랑〉 / 11월 6일 / 넷플릭스 공개"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=_J7PWd3A2PY",
+     "credit": "Netflix Korea 넷플릭스 코리아",
+     "range": [
+      0.0,
+      28.0
+     ]
+    },
+    "guided": {
+     "rec": "B",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — Netflix Korea 넷플릭스 코리아 (예고편에 자막이 없어 0:00-0:28 구간 장면은 영상으로 직접 확인)",
+     "후보 지명이 아니라 외신 전망 — 올리기 전 표현이 '거론·전망'으로만 쓰였는지 확인"
+    ],
+    "research": [
+     {
+      "title": "한경 — 전도연, 한국인 첫 오스카 주연상 후보 되나",
+      "link": "https://www.hankyung.com/article/202610264934H"
+     },
+     {
+      "title": "아주경제 — 전도연, 오스카 주연상 후보 가능성…외신 '가능한 사랑'에 주목",
+      "link": "https://www.ajunews.com/view/20261026075613686"
+     },
+     {
+      "title": "재경일보 — 전도연 '가능한 사랑' 오스카 여우주연상 유력 후보 거론",
+      "link": "https://news.jkn.co.kr/post/1048979"
+     },
+     {
+      "title": "SBS (영문) — Jeon Do-yeon Could Be Oscar Best Actress Contender",
+      "link": "https://news.sbs.co.kr/english/article.do?news_id=N1008814178"
+     },
+     {
+      "title": "텐아시아 — '가능한 사랑' 메인 포스터, 11월 6일 넷플릭스 공개",
+      "link": "https://www.tenasia.co.kr/article/2026101529284"
+     },
+     {
+      "title": "넷플릭스 코리아 — 가능한 사랑 파이널 예고편 (11월 6일 공개)",
+      "link": "https://www.youtube.com/watch?v=_J7PWd3A2PY"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/_J7PWd3A2PY/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792992085/wrwl4ojqskexpmjgqcp5.jpg",
+     "key": "_J7PWd3A2PY@0.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T14:21+09:00"
+    }
+   },
+   "i18n_queued": "2026-10-26T14:21+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -2152,7 +2353,7 @@
     "need_today": 4,
     "day": null,
     "next_no": null,
-    "drafts": 8,
+    "drafts": 9,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -2264,7 +2465,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T14:17+09:00"
+  "at": "2026-10-26T14:21+09:00"
  },
  "slots": {
   "basis": 0,
