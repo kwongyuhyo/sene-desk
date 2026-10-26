@@ -3245,12 +3245,69 @@
      "v": {
       "A": "09731f24",
       "B": "3ce88c6d",
-      "C": "d339c938"
+      "C": "d339c938",
+      "E": "5031e086",
+      "J": "48f1b320"
      }
     }
    },
    "i18n_queued": "2026-10-26T11:17+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-26T11:26+09:00",
+    "confirm": [
+     "힐즈앤유로파 · 바 라이언 · 콤팩트 레코드 바 · 232바의 공식 영어·일본어 표기는 웹에서 확인하지 못했습니다. 영어는 로마자로, 일본어는 カタカナ에 괄호로 원어를 붙여 옮겼습니다.",
+     "'Twist of Something Highball' 출시와 로제 협업에 관한 영어·일본어 공식 보도자료는 검색으로 찾지 못했습니다. 메뉴명은 원문 표기 그대로 두었습니다.",
+     "캡션의 '오늘/today/本日'은 10월 26일 기준입니다. 영어·일본어판을 다른 날 올리면 날짜로 바꿔 주세요.",
+     "판매처 바 네 곳(힐즈앤유로파 · 바 라이언 · 콤팩트 레코드 바 · 232바)의 공식 영문 표기(Hills & Europa · Bar Lion 등)는 확인하지 못함 — 올리기 전에 각 바의 공식 계정에서 확인 필요",
+     "캡션의 '오늘/today/本日' 은 10월 26일(월)에 올린다는 전제 — 하루라도 늦게 올리면 날짜 표현으로 바꿔야 함"
+    ],
+    "review": {
+     "at": "2026-10-26T11:26+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'ROSÉ Makes a Highball, Now at Five Seoul Bars' → 'A Highball by ROSÉ, Coming to Five Seoul Bars' — 로제가 직접 만들어 준다는 뜻으로 읽힐 수 있고, 'Now at' 은 지금 다섯 곳 모두에서 판다는 뜻이 돼 순차 도입이라는 원문과 어긋남",
+      "영어 · 캡션 셋째 단락 · 'There, Johnnie Walker Black cocktail' → 'There, the Johnnie Walker Black cocktail' — 관사가 빠져 있었음"
+     ],
+     "doubt": [
+      "판매처 바 네 곳(힐즈앤유로파 · 바 라이언 · 콤팩트 레코드 바 · 232바)의 공식 영문 표기(Hills & Europa · Bar Lion 등)는 확인하지 못함 — 올리기 전에 각 바의 공식 계정에서 확인 필요",
+      "캡션의 '오늘/today/本日' 은 10월 26일(월)에 올린다는 전제 — 하루라도 늦게 올리면 날짜 표현으로 바꿔야 함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nJohnnie Walker (@johnniewalkerkorea) has named ROSÉ its new global collaboration partner.\n\nBuilt around the brand philosophy 'Keep Walking', the campaign will run in Korea, the UK, Indonesia, China and other markets. The first event takes place today at BAR 81 in Signiel Seoul.\n\nThere, the Johnnie Walker Black cocktail 'Twist of Something Highball', which ROSÉ helped develop, makes its first appearance. Starting with BAR 81, it will roll out to five bars in Seoul. Each bar's launch date and the price have not yet been announced.\n\nMenu: 'Twist of Something Highball' (Johnnie Walker Black base)\nDebut: Mon, Oct 26, BAR 81, Signiel Seoul\nWhere to find it: BAR 81 · Hills & Europa · Bar Lion · Compact Record Bar · 232 Bar (rolling out in turn)\n\n#SENE #ROSÉ #JohnnieWalker #Highball #SignielSeoul #SeoulBar\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792981080/icsday89k4rilf5es4dl.jpg\n제목: A Highball by ROSÉ,|Coming to Five Seoul Bars\n부제: Johnnie Walker names ROSÉ its global collaboration partner\n출처: Diageo Korea\n",
+      "caption": "Johnnie Walker (@johnniewalkerkorea) has named ROSÉ its new global collaboration partner.\n\nBuilt around the brand philosophy 'Keep Walking', the campaign will run in Korea, the UK, Indonesia, China and other markets. The first event takes place today at BAR 81 in Signiel Seoul.\n\nThere, the Johnnie Walker Black cocktail 'Twist of Something Highball', which ROSÉ helped develop, makes its first appearance. Starting with BAR 81, it will roll out to five bars in Seoul. Each bar's launch date and the price have not yet been announced.\n\nMenu: 'Twist of Something Highball' (Johnnie Walker Black base)\nDebut: Mon, Oct 26, BAR 81, Signiel Seoul\nWhere to find it: BAR 81 · Hills & Europa · Bar Lion · Compact Record Bar · 232 Bar (rolling out in turn)\n\n#SENE #ROSÉ #JohnnieWalker #Highball #SignielSeoul #SeoulBar",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981575/znftmdw4p0n6viywz8py.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981575/ia0ss4xeflobxfnyvlxu.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981575/znftmdw4p0n6viywz8py.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T11:26+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nジョニーウォーカー（@johnniewalkerkorea）が、ロゼを新たなグローバル協業パートナーに迎えました。\n\nブランド哲学「Keep Walking」をもとに、韓国、イギリス、インドネシア、中国などでキャンペーンが展開されます。最初のイベントは本日、シグニエル・ソウル（시그니엘 서울）のBAR 81で開かれます。\n\nこの場で、ロゼが開発に参加したジョニーウォーカー ブラックのカクテル「Twist of Something Highball」が初めて披露されます。今後はBAR 81を皮切りに、ソウルのバー5軒で順に味わえるようになります。各バーでの提供開始日と価格はまだ発表されていません。\n\nメニュー：「Twist of Something Highball」（ジョニーウォーカー ブラックベース）\n初披露：10月26日（月）シグニエル・ソウル BAR 81\n提供店：BAR 81 · ヒルズ＆ユーロパ（힐즈앤유로파） · バー・ライオン（바 라이언） · コンパクト・レコード・バー（콤팩트 레코드 바） · 232バー（232바）（順次導入）\n\n#SENE #ロゼ #ジョニーウォーカー #ハイボール #韓国旅行 #ソウルバー\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792981080/icsday89k4rilf5es4dl.jpg\n제목: ロゼが作ったハイボール、|ソウルのバー5軒で\n부제: ジョニーウォーカー、グローバル協業パートナーにロゼ\n출처: ディアジオコリア\n",
+      "caption": "ジョニーウォーカー（@johnniewalkerkorea）が、ロゼを新たなグローバル協業パートナーに迎えました。\n\nブランド哲学「Keep Walking」をもとに、韓国、イギリス、インドネシア、中国などでキャンペーンが展開されます。最初のイベントは本日、シグニエル・ソウル（시그니엘 서울）のBAR 81で開かれます。\n\nこの場で、ロゼが開発に参加したジョニーウォーカー ブラックのカクテル「Twist of Something Highball」が初めて披露されます。今後はBAR 81を皮切りに、ソウルのバー5軒で順に味わえるようになります。各バーでの提供開始日と価格はまだ発表されていません。\n\nメニュー：「Twist of Something Highball」（ジョニーウォーカー ブラックベース）\n初披露：10月26日（月）シグニエル・ソウル BAR 81\n提供店：BAR 81 · ヒルズ＆ユーロパ（힐즈앤유로파） · バー・ライオン（바 라이언） · コンパクト・レコード・バー（콤팩트 레코드 바） · 232バー（232바）（順次導入）\n\n#SENE #ロゼ #ジョニーウォーカー #ハイボール #韓国旅行 #ソウルバー",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981578/th5ewdjscuyl3im6bzti.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981578/ru57ncf32flvvcj1mh5l.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981578/th5ewdjscuyl3im6bzti.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T11:26+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -3611,7 +3668,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T11:25+09:00"
+  "at": "2026-10-26T11:26+09:00"
  },
  "slots": {
   "basis": 0,
