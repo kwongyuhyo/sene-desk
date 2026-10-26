@@ -1274,11 +1274,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 2,
-    "why": "로제가 만든 조니워커 하이볼이 오늘 처음 공개됐다 — 큰 이름이 걸렸고 이번 주에 바로 마셔 볼 수 있는 소식",
-    "at": "2026-10-26T17:47+09:00"
-   },
    "published": {
     "permalink": "https://www.instagram.com/p/De9GIHFlC_P/",
     "cover": "A",
@@ -1923,23 +1918,24 @@
      "key": "i4Yxx6rdTvw@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793013083/sene_studio/f9krg8lkuodknczfpt76.mp4",
-     "at": "2026-10-26T20:11+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793018431/sene_studio/ewmrtnlzweg0ly3otzju.mp4",
+     "at": "2026-10-26T21:40+09:00",
      "file": "KuLoMi_BeulLaegEul_D_HanJeong_KeolLeo_Ne__ByuTi_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793013084468-3b2bfa6b",
+      "id": "st:1793018434670-3b2bfa6b",
       "segs": [
        {
-        "start": 1.82,
-        "end": 4.98,
-        "text": "오 핑크 오 핑크 오 핑크"
+        "start": 1.78,
+        "end": 3.56,
+        "text": "OFF PINK"
+       },
+       {
+        "start": 3.56,
+        "end": 4.96,
+        "text": "OFF RULES"
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T21:16+09:00"
     }
    },
    "i18n_queued": "2026-10-26T11:56+09:00",
@@ -2148,11 +2144,77 @@
      "at": "2026-10-26T11:57+09:00",
      "v": {
       "A": "c3bb0e2e",
-      "B": "db827cd9"
+      "B": "db827cd9",
+      "E": "7e97a8cd",
+      "J": "038cc0ca"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n_queued": "2026-10-26T21:44+09:00",
+   "pick": {
+    "rank": 3,
+    "why": "국내 첫 팝업이 11/2까지 — 이번 주 성수 동선으로 바로 이어진다",
+    "at": "2026-10-26T21:45+09:00"
+   },
+   "i18n": {
+    "at": "2026-10-26T21:45+09:00",
+    "confirm": [
+     "브랜드 표기: 중국 쪽 자료에는 'DAPHNE.LAB'(가운데 점)으로 나와 그렇게 썼습니다. 브랜드 공식 계정·무신사 공지의 영문 표기를 다시 확인해 주세요. 일본어 공식 표기는 찾지 못해 'ダフネラボ（DAPHNE.LAB）'로 적었습니다.",
+     "출시 연도: 원문은 2021년인데, 중국 매체(digitaling)는 2023년 출시로 적었습니다. 번역은 원문대로 2021년으로 두었으니 한국어판 원문부터 확인이 필요합니다.",
+     "모기업 국적: 중국 매체는 다프네를 홍콩에서 출발한 그룹으로 적습니다. 원문의 '중국 여성 신발 기업'은 그대로 옮겼습니다.",
+     "이번 팝업은 웹 검색으로 확인되지 않았습니다. 기간·장소·할인·키링 증정은 원문을 그대로 옮긴 것이라 무신사 공식 공지와 맞춰 봐야 합니다. 원문에 운영 시간과 예약 줄이 없어 번역에도 넣지 않았습니다.",
+     "'슈가 큐브'·'스퀘어 토 오버니 부츠'의 영어·일본어 공식 제품명은 확인하지 못해 뜻대로 옮겼습니다.",
+     "영어·일본어 · 브랜드 영문 표기 'DAPHNE.LAB'(점 포함) — 웹 검색으로 공식 표기를 확인하지 못함. 올리기 전에 무신사 공지나 브랜드 공식 계정에서 'DAPHNE.LAB'·'DAPHNE LAB'·'Daphne Lab' 중 어느 쪽인지 확인 필요 (해시태그 #DAPHNELAB 포함)",
+     "영어·일본어 · '슈가 큐브' 컬렉션과 '스퀘어 토 오버니 부츠'의 공식 영문 제품명을 확인하지 못함 — 브랜드 표기와 다를 수 있음",
+     "공통 · 11월 2일은 2026년 기준 월요일이 맞음(원문과 같음). 다만 팝업 시작일과 무신사 엠프티 성수의 이번 운영 시간은 원문에도 없으니 필요하면 공식 공지에서 확인",
+     "출처 · 검색 결과: https://heypop.kr/place/73971 (무신사 엠프티 성수 주소 성수이로 97 — 다프네 랩 관련 내용은 없음)"
+    ],
+    "review": {
+     "at": "2026-10-26T21:45+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 · 브랜드 영문 표기 'DAPHNE.LAB'(점 포함) — 웹 검색으로 공식 표기를 확인하지 못함. 올리기 전에 무신사 공지나 브랜드 공식 계정에서 'DAPHNE.LAB'·'DAPHNE LAB'·'Daphne Lab' 중 어느 쪽인지 확인 필요 (해시태그 #DAPHNELAB 포함)",
+      "영어·일본어 · '슈가 큐브' 컬렉션과 '스퀘어 토 오버니 부츠'의 공식 영문 제품명을 확인하지 못함 — 브랜드 표기와 다를 수 있음",
+      "공통 · 11월 2일은 2026년 기준 월요일이 맞음(원문과 같음). 다만 팝업 시작일과 무신사 엠프티 성수의 이번 운영 시간은 원문에도 없으니 필요하면 공식 공지에서 확인",
+      "출처 · 검색 결과: https://heypop.kr/place/73971 (무신사 엠프티 성수 주소 성수이로 97 — 다프네 랩 관련 내용은 없음)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nChinese designer shoe brand DAPHNE.LAB opens its first pop-up in Korea at MUSINSA EMPTY Seongsu.\n\nThe label was launched in 2021 by Chinese women's footwear company Daphne. Its signature pieces are knee-high boots with sculptural heels and Mary Jane shoes with sporty details.\n\nThe pop-up carries new Fall/Winter 2026 pieces and the 'Sugar Cube' collection. A Korea-exclusive color of the 'Square Toe Over-the-Knee Boots' is unveiled here for the first time, and everything in the store is 10% off during the pop-up.\n\nDates: Through Nov 2 (Mon)\nLocation: MUSINSA EMPTY Seongsu, Seongdong-gu, Seoul\nPerks: 10% off all items · Bottle opener keyring with purchase (limited quantities)\n#SENE #DAPHNELAB #MUSINSAEMPTY #SeoulPopup #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983423/kufp1mhpjab30nl0a4tq.jpg\n제목: DAPHNE.LAB Opens First|Korea Pop-up in Seongsu\n부제: MUSINSA EMPTY Seongsu · Through Nov 2\n출처: MUSINSA\n",
+      "caption": "Chinese designer shoe brand DAPHNE.LAB opens its first pop-up in Korea at MUSINSA EMPTY Seongsu.\n\nThe label was launched in 2021 by Chinese women's footwear company Daphne. Its signature pieces are knee-high boots with sculptural heels and Mary Jane shoes with sporty details.\n\nThe pop-up carries new Fall/Winter 2026 pieces and the 'Sugar Cube' collection. A Korea-exclusive color of the 'Square Toe Over-the-Knee Boots' is unveiled here for the first time, and everything in the store is 10% off during the pop-up.\n\nDates: Through Nov 2 (Mon)\nLocation: MUSINSA EMPTY Seongsu, Seongdong-gu, Seoul\nPerks: 10% off all items · Bottle opener keyring with purchase (limited quantities)\n#SENE #DAPHNELAB #MUSINSAEMPTY #SeoulPopup #Seongsu",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018752/s8gzg2vtftjtplnmftoi.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018751/yr9screiirpvs1ft1u7n.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018752/s8gzg2vtftjtplnmftoi.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T21:45+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\n中国のデザイナーシューズブランド、ダフネラボ（DAPHNE.LAB）が、ムシンサ エンプティ聖水（MUSINSA EMPTY Seongsu）で韓国初のポップアップを開きます。\n\n中国の婦人靴メーカー、ダフネが2021年に立ち上げたブランドで、立体的なヒールのロングブーツと、スポーティーな要素を加えたメリージェーンシューズが代表的なアイテムです。\n\n会場には2026年秋冬の新作と「シュガーキューブ」コレクションが並び、「スクエアトゥ オーバーニーブーツ」の韓国限定カラーがここで初めて公開されます。期間中は全商品が10%オフです。\n\n期間：11月2日（月）まで\n場所：ソウル・城東区（ソンドング） ムシンサ エンプティ聖水（ソンス）\n特典：全商品10%オフ・購入者にボトルオープナーキーリング（数量限定）\n#SENE #ダフネラボ #韓国旅行 #聖水 #ソウルポップアップ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983423/kufp1mhpjab30nl0a4tq.jpg\n제목: ダフネラボ、聖水で|韓国初のポップアップ\n부제: ムシンサ エンプティ聖水・11月2日まで\n출처: MUSINSA\n",
+      "caption": "中国のデザイナーシューズブランド、ダフネラボ（DAPHNE.LAB）が、ムシンサ エンプティ聖水（MUSINSA EMPTY Seongsu）で韓国初のポップアップを開きます。\n\n中国の婦人靴メーカー、ダフネが2021年に立ち上げたブランドで、立体的なヒールのロングブーツと、スポーティーな要素を加えたメリージェーンシューズが代表的なアイテムです。\n\n会場には2026年秋冬の新作と「シュガーキューブ」コレクションが並び、「スクエアトゥ オーバーニーブーツ」の韓国限定カラーがここで初めて公開されます。期間中は全商品が10%オフです。\n\n期間：11月2日（月）まで\n場所：ソウル・城東区（ソンドング） ムシンサ エンプティ聖水（ソンス）\n特典：全商品10%オフ・購入者にボトルオープナーキーリング（数量限定）\n#SENE #ダフネラボ #韓国旅行 #聖水 #ソウルポップアップ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018755/zgx579zocf48gzmgtvhn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018754/oj3k0jegkrqcnc1couhq.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018755/zgx579zocf48gzmgtvhn.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T21:45+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2323,11 +2385,11 @@
      "key": "gPkNwQzJel8@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793013222/sene_studio/fc8zazitjwdvq9nrt6h4.mp4",
-     "at": "2026-10-26T20:13+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793018640/sene_studio/w6kokfkynnr9mrdsf50n.mp4",
+     "at": "2026-10-26T21:44+09:00",
      "file": "GeumYoIl_Bam_10SiKka_MunEul_YeobNiDa_NolGeoLi_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793013223877-5250b3cf",
+      "id": "st:1793018641421-5250b3cf",
       "segs": [
        {
         "start": 0.0,
@@ -2361,10 +2423,6 @@
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T21:04+09:00"
     }
    },
    "corner_name": "소식",
@@ -3942,11 +4000,6 @@
      "at": "2026-10-26T21:04+09:00"
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "이번 토요일 핼러윈 밤에 열리는 무료 드론쇼라 주말 계획으로 저장해 두기 좋고, 마블과 2,000대라는 규모가 있으며 서울시 공식 영상으로 숏폼까지 된다",
-    "at": "2026-10-26T17:47+09:00"
-   },
    "i18n_queued": "2026-10-26T17:47+09:00",
    "corner_name": "소식",
    "i18n": {
@@ -4116,11 +4169,6 @@
     ],
     "by": "claude"
    },
-   "pick": {
-    "rank": 3,
-    "why": "180일 이어진 서울숲 정원박람회가 내일 끝난다 — 퇴근길에 보면 바로 움직일 수 있는 마지막 날 소식",
-    "at": "2026-10-26T17:47+09:00"
-   },
    "i18n_queued": "2026-10-26T17:47+09:00",
    "corner_name": "소식",
    "i18n": {
@@ -4179,7 +4227,119 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "내일(27일)이 폐막일 — 내일 아침에 먼저 알려야 쓸모가 있다",
+    "at": "2026-10-26T21:45+09:00"
    }
+  },
+  {
+   "source": {
+    "id": "claude:ccsakura-cafe-seoulsoop",
+    "account": "벤처스퀘어",
+    "url": "https://www.venturesquare.net/1123060/",
+    "image": null,
+    "head": "카드캡터 사쿠라, 서울숲서 일본 한정 굿즈 만난다…11월 11일 콜라보 카페 개장",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T21:45+09:00",
+   "key": "c8eb2df5",
+   "by": "claude",
+   "subjects": [
+    "카드캡터 사쿠라"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "일본에서만 팔던 콜라보 카페 굿즈 15종이 서울숲으로 — 단, 사전예약자만 살 수 있다",
+    "why": "오늘(10/26) 처음 보도된 캐릭터 콜라보 카페 소식, 예약일·기간·장소가 다 확인된다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T21:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n〈카드캡터 사쿠라〉 콜라보 카페가 11월 서울숲에 열립니다.\n\n2025년 일본에서 열린 '사쿠라와 토모요의 티파티'를 서울로 옮겨 온 행사인데요, 그때 일본 카페 현장과 일본 온라인에서만 팔던 굿즈 15종을 이번에 서울에서 살 수 있습니다. 다만 굿즈는 사전예약을 하고 입장한 사람만 살 수 있습니다.\n\n음료는 캐릭터를 모티프로 한 6종으로, 사쿠라의 '스트로베리 쇼트케이크 드링크', 샤오랑의 '멜론 크림 소다' 같은 이름이 붙었습니다. 입장하면 레플리카 티켓을, 음료나 굿즈를 사면 코스터 12종이나 포스트카드 7종 중 하나를 무작위로 받습니다. 특전은 수량이 다하면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일부터 팝가(POPGA) — 전 좌석 사전예약제\n#SENE #카드캡터사쿠라 #서울숲 #콜라보카페 #무신사스페이스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg\n제목: 사쿠라 콜라보 카페,|11월 서울숲에 연다\n부제: 11/11~29 · 무신사 스페이스 서울숲 · 예약 11/4 팝가\n출처: 링크업파트너스\n",
+    "caption": "〈카드캡터 사쿠라〉 콜라보 카페가 11월 서울숲에 열립니다.\n\n2025년 일본에서 열린 '사쿠라와 토모요의 티파티'를 서울로 옮겨 온 행사인데요, 그때 일본 카페 현장과 일본 온라인에서만 팔던 굿즈 15종을 이번에 서울에서 살 수 있습니다. 다만 굿즈는 사전예약을 하고 입장한 사람만 살 수 있습니다.\n\n음료는 캐릭터를 모티프로 한 6종으로, 사쿠라의 '스트로베리 쇼트케이크 드링크', 샤오랑의 '멜론 크림 소다' 같은 이름이 붙었습니다. 입장하면 레플리카 티켓을, 음료나 굿즈를 사면 코스터 12종이나 포스트카드 7종 중 하나를 무작위로 받습니다. 특전은 수량이 다하면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일부터 팝가(POPGA) — 전 좌석 사전예약제\n#SENE #카드캡터사쿠라 #서울숲 #콜라보카페 #무신사스페이스",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg",
+      "credit": "링크업파트너스",
+      "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018728/i7drlyjs5z3json71mty.jpg",
+      "credit": "링크업파트너스",
+      "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura-768x1086.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg",
+      "credit": "링크업파트너스",
+      "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018728/i7drlyjs5z3json71mty.jpg",
+      "credit": "링크업파트너스",
+      "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura-768x1086.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "사쿠라 콜라보 카페,|11월 서울숲에 연다",
+      "sub": "11/11~29 · 무신사 스페이스 서울숲 · 예약 11/4 팝가"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "운영 시간·음료 가격은 기사에 없음 — 팝가 페이지가 열리면 확인 (나머지 음료 2종 이름도 미확인이라 캡션에서 뺐음)",
+     "사진은 벤처스퀘어 기사 속 배포 이미지(자료 제공 링크업파트너스) — 행사 포스터라 글자가 많으면 팝가 페이지 이미지로 바꾸기",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "벤처스퀘어 — 카드캡터 사쿠라, 서울숲서 일본 한정 굿즈 만난다 (10/26)",
+      "link": "https://www.venturesquare.net/1123060/"
+     },
+     {
+      "title": "싱글리스트 — '카드캡터 사쿠라' 콜라보 카페, 서울숲서 개최…日 굿즈 15종 선봬 (10/26)",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776334"
+     },
+     {
+      "title": "뉴스웍스 — '카드캡터 사쿠라' 카페 개최",
+      "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=900739"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018733/gfx156y41duryaoj5w7j.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018733/tvd9usyty9bkk5pfdpd3.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018733/gfx156y41duryaoj5w7j.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-26T21:45+09:00",
+     "v": {
+      "A": "c4ee6f96"
+     }
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 처음 나온 소식이고 예약(11/4)까지 시간이 있어 저장각 — 굿즈가 예약자 한정이라 정보 가치가 크다",
+    "at": "2026-10-26T21:45+09:00"
+   },
+   "i18n_queued": "2026-10-26T21:45+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -4198,7 +4358,7 @@
     "need_today": 4,
     "day": null,
     "next_no": null,
-    "drafts": 15,
+    "drafts": 16,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -4310,7 +4470,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T21:16+09:00"
+  "at": "2026-10-26T21:45+09:00"
  },
  "slots": {
   "basis": 0,
