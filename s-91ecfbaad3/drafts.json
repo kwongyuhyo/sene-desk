@@ -2152,11 +2152,6 @@
    },
    "corner_name": "소식",
    "i18n_queued": "2026-10-26T21:44+09:00",
-   "pick": {
-    "rank": 3,
-    "why": "국내 첫 팝업이 11/2까지 — 이번 주 성수 동선으로 바로 이어진다",
-    "at": "2026-10-26T21:45+09:00"
-   },
    "i18n": {
     "at": "2026-10-26T21:45+09:00",
     "confirm": [
@@ -2214,6 +2209,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "국내 첫 팝업이 11/2까지 — 이번 주 성수 동선으로 바로 이어진다",
+    "at": "2026-10-26T21:46+09:00"
    }
   },
   {
@@ -2724,11 +2724,11 @@
      "key": "_J7PWd3A2PY@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793013358/sene_studio/ja7eqbxyjxiaivx3jeeq.mp4",
-     "at": "2026-10-26T20:15+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793018782/sene_studio/pxdb09wyxt9hbkjgddyi.mp4",
+     "at": "2026-10-26T21:46+09:00",
      "file": "OSeuKa_JuYeonSang_Hu_GeoLonDoeGo_IssSeubN_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793013359495-bdd85c48",
+      "id": "st:1793018783639-bdd85c48",
       "segs": [
        {
         "start": 0.0,
@@ -2757,20 +2757,16 @@
        },
        {
         "start": 24.24,
-        "end": 26.66,
-        "text": "산자 빼고 안 된 사람을"
+        "end": 25.32,
+        "text": "산 자 빼고"
        },
        {
-        "start": 26.66,
+        "start": 25.32,
         "end": 27.58,
-        "text": "그렇게 부르는 거 아시죠?"
+        "text": "안 된 사람을 그렇게 부르는 거 아시죠?"
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T21:04+09:00"
     }
    },
    "i18n_queued": "2026-10-26T14:21+09:00",
@@ -4231,7 +4227,7 @@
    "pick": {
     "rank": 1,
     "why": "내일(27일)이 폐막일 — 내일 아침에 먼저 알려야 쓸모가 있다",
-    "at": "2026-10-26T21:45+09:00"
+    "at": "2026-10-26T21:46+09:00"
    }
   },
   {
@@ -4245,7 +4241,7 @@
     "is_reel": false,
     "kind": "claude"
    },
-   "made_at": "2026-10-26T21:45+09:00",
+   "made_at": "2026-10-26T21:46+09:00",
    "key": "c8eb2df5",
    "by": "claude",
    "subjects": [
@@ -4259,31 +4255,31 @@
     "why": "오늘(10/26) 처음 보도된 캐릭터 콜라보 카페 소식, 예약일·기간·장소가 다 확인된다"
    },
    "added": "claude",
-   "added_at": "2026-10-26T21:45+09:00",
+   "added_at": "2026-10-26T21:46+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n트렌드\n\n[캡션]\n〈카드캡터 사쿠라〉 콜라보 카페가 11월 서울숲에 열립니다.\n\n2025년 일본에서 열린 '사쿠라와 토모요의 티파티'를 서울로 옮겨 온 행사인데요, 그때 일본 카페 현장과 일본 온라인에서만 팔던 굿즈 15종을 이번에 서울에서 살 수 있습니다. 다만 굿즈는 사전예약을 하고 입장한 사람만 살 수 있습니다.\n\n음료는 캐릭터를 모티프로 한 6종으로, 사쿠라의 '스트로베리 쇼트케이크 드링크', 샤오랑의 '멜론 크림 소다' 같은 이름이 붙었습니다. 입장하면 레플리카 티켓을, 음료나 굿즈를 사면 코스터 12종이나 포스트카드 7종 중 하나를 무작위로 받습니다. 특전은 수량이 다하면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일부터 팝가(POPGA) — 전 좌석 사전예약제\n#SENE #카드캡터사쿠라 #서울숲 #콜라보카페 #무신사스페이스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg\n제목: 사쿠라 콜라보 카페,|11월 서울숲에 연다\n부제: 11/11~29 · 무신사 스페이스 서울숲 · 예약 11/4 팝가\n출처: 링크업파트너스\n",
-    "caption": "〈카드캡터 사쿠라〉 콜라보 카페가 11월 서울숲에 열립니다.\n\n2025년 일본에서 열린 '사쿠라와 토모요의 티파티'를 서울로 옮겨 온 행사인데요, 그때 일본 카페 현장과 일본 온라인에서만 팔던 굿즈 15종을 이번에 서울에서 살 수 있습니다. 다만 굿즈는 사전예약을 하고 입장한 사람만 살 수 있습니다.\n\n음료는 캐릭터를 모티프로 한 6종으로, 사쿠라의 '스트로베리 쇼트케이크 드링크', 샤오랑의 '멜론 크림 소다' 같은 이름이 붙었습니다. 입장하면 레플리카 티켓을, 음료나 굿즈를 사면 코스터 12종이나 포스트카드 7종 중 하나를 무작위로 받습니다. 특전은 수량이 다하면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일부터 팝가(POPGA) — 전 좌석 사전예약제\n#SENE #카드캡터사쿠라 #서울숲 #콜라보카페 #무신사스페이스",
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n〈카드캡터 사쿠라〉 콜라보 카페가 11월 서울숲에 열립니다.\n\n2025년 일본에서 열린 '사쿠라와 토모요의 티파티'를 서울로 옮겨 온 행사인데요, 그때 일본 카페 현장과 일본 온라인에서만 팔던 굿즈 15종을 이번에 서울에서 살 수 있습니다. 다만 굿즈는 사전예약을 하고 입장한 사람만 살 수 있습니다.\n\n음료는 캐릭터를 모티프로 한 6종으로, 사쿠라의 '스트로베리 쇼트케이크 드링크', 샤오랑의 '멜론 크림 소다' 같은 이름이 붙었습니다. 입장하면 레플리카 티켓을, 음료나 굿즈를 사면 코스터 12종이나 포스트카드 7종 중 하나를 무작위로 받습니다. 특전은 수량이 다하면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일 낮 12시부터 팝가(POPGA) — 전 좌석 사전예약제\n#SENE #카드캡터사쿠라 #서울숲 #콜라보카페 #무신사스페이스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793018814/htyjal4tygnojjlu5qk9.jpg\n제목: 사쿠라 콜라보 카페,|11월 서울숲에 연다\n부제: 11/11~29 · 무신사 스페이스 서울숲 · 예약 11/4 팝가\n출처: 링크업파트너스\n",
+    "caption": "〈카드캡터 사쿠라〉 콜라보 카페가 11월 서울숲에 열립니다.\n\n2025년 일본에서 열린 '사쿠라와 토모요의 티파티'를 서울로 옮겨 온 행사인데요, 그때 일본 카페 현장과 일본 온라인에서만 팔던 굿즈 15종을 이번에 서울에서 살 수 있습니다. 다만 굿즈는 사전예약을 하고 입장한 사람만 살 수 있습니다.\n\n음료는 캐릭터를 모티프로 한 6종으로, 사쿠라의 '스트로베리 쇼트케이크 드링크', 샤오랑의 '멜론 크림 소다' 같은 이름이 붙었습니다. 입장하면 레플리카 티켓을, 음료나 굿즈를 사면 코스터 12종이나 포스트카드 7종 중 하나를 무작위로 받습니다. 특전은 수량이 다하면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일 낮 12시부터 팝가(POPGA) — 전 좌석 사전예약제\n#SENE #카드캡터사쿠라 #서울숲 #콜라보카페 #무신사스페이스",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018814/htyjal4tygnojjlu5qk9.jpg",
       "credit": "링크업파트너스",
       "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018728/i7drlyjs5z3json71mty.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018815/ms0sudpd4fwnjteck2dj.jpg",
       "credit": "링크업파트너스",
       "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura-768x1086.jpg"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018814/htyjal4tygnojjlu5qk9.jpg",
       "credit": "링크업파트너스",
       "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018728/i7drlyjs5z3json71mty.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018815/ms0sudpd4fwnjteck2dj.jpg",
       "credit": "링크업파트너스",
       "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura-768x1086.jpg"
      }
@@ -4300,7 +4296,7 @@
     "issues": [],
     "confirm": [
      "운영 시간·음료 가격은 기사에 없음 — 팝가 페이지가 열리면 확인 (나머지 음료 2종 이름도 미확인이라 캡션에서 뺐음)",
-     "사진은 벤처스퀘어 기사 속 배포 이미지(자료 제공 링크업파트너스) — 행사 포스터라 글자가 많으면 팝가 페이지 이미지로 바꾸기",
+     "사진은 행사 공식 포스터(자료 제공 링크업파트너스) — 아랫부분 포스터 글자가 제목 뒤에 비친다. 예약 '낮 12시'는 이 포스터에만 있으니 팝가 페이지로 한 번 더",
      "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
     ],
     "research": [
@@ -4320,25 +4316,25 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018733/gfx156y41duryaoj5w7j.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018733/tvd9usyty9bkk5pfdpd3.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018822/b5ze9lxd0ew4wrkndvlr.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018821/gckzylbfquy2jrljz9ph.jpg"
      ],
      "covers": {
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018733/gfx156y41duryaoj5w7j.jpg"
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018822/b5ze9lxd0ew4wrkndvlr.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T21:45+09:00",
+     "at": "2026-10-26T21:47+09:00",
      "v": {
-      "A": "c4ee6f96"
+      "A": "f295cf3a"
      }
     }
    },
    "pick": {
     "rank": 2,
     "why": "오늘 처음 나온 소식이고 예약(11/4)까지 시간이 있어 저장각 — 굿즈가 예약자 한정이라 정보 가치가 크다",
-    "at": "2026-10-26T21:45+09:00"
+    "at": "2026-10-26T21:46+09:00"
    },
-   "i18n_queued": "2026-10-26T21:45+09:00",
+   "i18n_queued": "2026-10-26T21:46+09:00",
    "corner_name": "소식"
   }
  ],
@@ -4470,7 +4466,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T21:45+09:00"
+  "at": "2026-10-26T21:46+09:00"
  },
  "slots": {
   "basis": 0,
