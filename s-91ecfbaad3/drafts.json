@@ -207,9 +207,85 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792953999/fmz32oopx5l4qfqtdgcr.jpg",
      "key": "DE8H52Dv068@270.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T03:46+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793009465/sene_studio/ixyqffbt1irupdnlq9m5.mp4",
+     "at": "2026-10-26T19:11+09:00",
+     "file": "Deo_JohEun_JagPumEul_ManDeul_Su_IssEul_Ge_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793009467333-c141d785",
+      "segs": [
+       {
+        "start": 2.6,
+        "end": 6.23,
+        "text": "만족스러웠던 부분은 이렇게 계속 작업하다"
+       },
+       {
+        "start": 6.23,
+        "end": 8.17,
+        "text": "보면 앞으로 더 좋은 작품을"
+       },
+       {
+        "start": 8.17,
+        "end": 12.12,
+        "text": "만들 수 있을 것 같다는 희망이 생겨서"
+       },
+       {
+        "start": 12.12,
+        "end": 13.82,
+        "text": "기분이 좋았고요"
+       },
+       {
+        "start": 13.82,
+        "end": 16.04,
+        "text": "좀 아쉬웠던 부분 같은 경우에는 제가"
+       },
+       {
+        "start": 16.04,
+        "end": 18.11,
+        "text": "되게 오랜만에 페인팅 작업을 하다"
+       },
+       {
+        "start": 18.11,
+        "end": 19.83,
+        "text": "보니까 이번에 예열하는 데"
+       },
+       {
+        "start": 19.83,
+        "end": 21.71,
+        "text": "시간이 많이 걸려서"
+       },
+       {
+        "start": 21.71,
+        "end": 24.36,
+        "text": "이전에 전시 준비를 했을 때보다"
+       },
+       {
+        "start": 24.36,
+        "end": 25.67,
+        "text": "각 작품을 완성하는 데"
+       },
+       {
+        "start": 25.67,
+        "end": 27.1,
+        "text": "시간이 더 많이 걸렸어요"
+       },
+       {
+        "start": 27.1,
+        "end": 30.11,
+        "text": "그래서 소작품 한두 점을"
+       },
+       {
+        "start": 30.11,
+        "end": 31.78,
+        "text": "더 추가하고 싶었는데"
+       },
+       {
+        "start": 31.78,
+        "end": 34.98,
+        "text": "그걸 하지 못했다는 점이"
+       }
+      ]
+     }
     }
    },
    "i18n_queued": "2026-10-26T03:46+09:00",
@@ -3897,7 +3973,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T19:03+09:00"
+  "at": "2026-10-26T19:11+09:00"
  },
  "slots": {
   "basis": 0,
