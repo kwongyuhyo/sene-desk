@@ -1417,9 +1417,25 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981348/payl47b5ti5lyn1r6whb.jpg",
      "key": "qvTaAFu-yL8@147.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T11:22+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793009907/sene_studio/ghpvwqtxnkacqdnywpwu.mp4",
+     "at": "2026-10-26T19:18+09:00",
+     "file": "NolGe_HaessGo_IJeNeun_JaeUGessDaGo_TeuLenDeu_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793009908528-25b857ee",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 25.38,
+        "text": "이걸 멋진 늘였으면"
+       },
+       {
+        "start": 25.38,
+        "end": 28.02,
+        "text": "몇 가지 사람들이 저기 이미 즐겁기"
+       }
+      ]
+     }
     }
    },
    "i18n_queued": "2026-10-26T11:22+09:00",
@@ -4054,7 +4070,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T19:15+09:00"
+  "at": "2026-10-26T19:18+09:00"
  },
  "slots": {
   "basis": 0,
