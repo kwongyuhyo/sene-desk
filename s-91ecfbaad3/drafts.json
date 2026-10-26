@@ -2542,70 +2542,72 @@
       "A": "1344f61f",
       "B": "d13998c8",
       "C": "1ac9da77",
-      "E": "bf1cf0ec",
-      "J": "ba038bee"
+      "E": "59fd14af",
+      "J": "7ebcbad4"
      }
     }
    },
    "i18n_queued": "2026-10-26T14:35+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-26T14:37+09:00",
+    "at": "2026-10-26T14:38+09:00",
     "confirm": [
-     "〈아이돌 권한대행〉의 영어 표기는 'Idol Fever'로 확인했습니다(Hancinema·팬덤 위키). 다만 원래는 2017년 네이버TV 웹드라마이고 같은 해 극장판이 따로 나왔습니다. 원문의 '영화'를 그대로 'film'으로 옮겼으니, 영화제와 인연을 맺은 작품이 극장판이 맞는지 확인해 주세요.",
-     "일본어 공식 제목은 찾지 못해 『アイドル権限代行』（原題：아이돌 권한대행）으로 옮겼습니다.",
-     "이번 검색으로는 '제52회 첫 엠버서더 김도연'·슬로건 'Digging'·포스터 내용·기간·상영관이 서울독립영화제 공식 계정이나 기사에 나오는지 확인하지 못했습니다. 번역은 한국어 원문을 그대로 따랐으니 올리기 전에 공식 발표와 한 번 더 맞춰 주세요.",
-     "요일은 2026년 달력으로 맞춰 봤습니다: 11월 25일(수), 12월 4일(금).",
-     "상영관 표기 'CGV Apgujeong'·'CGV Cheongdam Cine City'와 일본어 표기는 공식 표기를 확인하지 못했습니다.",
-     "영어 · 표지 제목 'SIFF' — 영어권에서는 시애틀·상하이 국제영화제 약칭으로 더 흔히 읽힘. 22자 안팎 두 줄에 'Seoul Independent Film Festival' 전체 이름은 들어가지 않아 그대로 둠. 'Seoul Indie Film Fest' 같은 표기로 바꿀지 사람이 판단해 주세요",
-     "작품명 '아이돌 권한대행' — 2017년 네이버TV 웹드라마로 나왔고, 영화판은 2018년 KBS 〈독립영화관〉에서 방영됨. 영어 제목도 자료마다 'Idol Fever' · 'The Acting for Idol' 로 갈림. 원문의 '2017년 영화' 표기와 공식 영어 제목을 영화제 공식 자료에서 다시 확인해 주세요",
-     "일본어 · 『アイドル権限代行』 은 공식 일본어 제목을 찾지 못해 직역한 제목으로 보임"
+     "영화 〈아이돌 권한대행〉(2017)의 공식 영어·일본어 제목을 찾지 못했습니다. 영어는 'Idol Acting Agent', 일본어는 『アイドル権限代行』으로 직역해 두었습니다 — 서울독립영화제 아카이브나 영화 DB에서 공식 표기를 확인해 주세요.",
+     "이번 엠버서더 발표 자체를 웹 검색으로는 찾지 못했습니다(원문 사실은 그대로 옮겼습니다). 올리기 전에 @siff.kr 공식 게시물에서 다시 확인해 주세요.",
+     "영화제 공식 영어 이름은 Seoul Independent Film Festival(SIFF)입니다. 서울국제영화제와 약칭이 비슷해 헷갈릴 수 있으니 영어판 태그 #SIFF 를 다시 확인해 주세요.",
+     "배우 이름은 위키미키 시절부터 쓰던 영어 표기 'Kim Doyeon'을 따랐습니다(일본어는 キム・ドヨン).",
+     "원문 사실 · 〈아이돌 권한대행〉 — 기사에서는 2017년 웹드라마(극장판 따로 있음)로 나오고, 서울독립영화제와의 인연은 확인 못 함. 원문의 '영화'·'2017년 이 영화제와 처음 인연' 이 맞는지 영화제 발표로 다시 확인",
+     "영어 · 표지 2줄 'Names Kim Doyeon Ambassador' 는 27자로 길고 원문의 '첫' 이 빠짐 — 캡션 첫 문장에 first 가 있어 그대로 둠",
+     "일본어 · 작품명 『アイドル権限代行』 은 일본 공식 제목 확인 못 함 (원어 괄호 병기는 유지)"
     ],
     "review": {
-     "at": "2026-10-26T14:37+09:00",
+     "at": "2026-10-26T14:38+09:00",
      "fixes": [
-      "영어 · 캡션 첫 문장 · 'has named an ambassador for the first time this year' → 'has named an ambassador this year, a first for the festival' — '올해 들어 처음'으로도 읽혀서 '영화제 사상 처음'이라는 뜻이 흐려짐",
-      "영어 · 캡션 셋째 단락 · 'and a look at the projector and theater seats that were unearthed' → 두 포스터를 한 장씩 나눠 적은 문장으로 — 직역투라 장면이 잘 안 그려짐",
-      "영어 · 캡션 셋째 단락 · 'opening film' → 'opening video' — 영어에서 opening film 은 개막작이라는 뜻이라 사실이 달라짐 (원문은 개막 영상)",
-      "일본어 · 캡션 첫 문장 · 'アンバサダーを置きました' → 'アンバサダーを起用しました' — 置く는 직역투이고 일본어에서 자연스러운 연어가 아님"
+      "영어 · 캡션 · opening film → opening video — 원문은 '개막 영상'. opening film 은 개막작으로 읽혀 뜻이 달라짐",
+      "영어 · 캡션 · 'Idol Acting Agent' → 'Idol Fever' — HanCinema 에 등록된 영어 제목으로",
+      "영어 · 캡션 · Her ties → Kim's ties, featuring Kim herself → featuring Kim — 대명사 대신 이름으로, 문장은 그대로",
+      "영어 · 표지 제목 1줄 · Seoul Independent Film Fest → Seoul Indie Film Fest — 27자라 22자 안팎으로 줄임",
+      "영어 · 장소 · Cheongdam Cine City → Cheongdam Cinecity — CGV 지점 표기는 Cinecity",
+      "일본어 · 표지 제목 · 初の大使 → 初アンバサダー — 大使는 외교관으로 읽히고 캡션의 アンバサダー와도 안 맞음",
+      "일본어 · 해시태그 · #キム・ドヨン → #キムドヨン — 인스타그램에서는 '・' 에서 태그가 끊김"
      ],
      "doubt": [
-      "영어 · 표지 제목 'SIFF' — 영어권에서는 시애틀·상하이 국제영화제 약칭으로 더 흔히 읽힘. 22자 안팎 두 줄에 'Seoul Independent Film Festival' 전체 이름은 들어가지 않아 그대로 둠. 'Seoul Indie Film Fest' 같은 표기로 바꿀지 사람이 판단해 주세요",
-      "작품명 '아이돌 권한대행' — 2017년 네이버TV 웹드라마로 나왔고, 영화판은 2018년 KBS 〈독립영화관〉에서 방영됨. 영어 제목도 자료마다 'Idol Fever' · 'The Acting for Idol' 로 갈림. 원문의 '2017년 영화' 표기와 공식 영어 제목을 영화제 공식 자료에서 다시 확인해 주세요",
-      "일본어 · 『アイドル権限代行』 은 공식 일본어 제목을 찾지 못해 직역한 제목으로 보임"
+      "원문 사실 · 〈아이돌 권한대행〉 — 기사에서는 2017년 웹드라마(극장판 따로 있음)로 나오고, 서울독립영화제와의 인연은 확인 못 함. 원문의 '영화'·'2017년 이 영화제와 처음 인연' 이 맞는지 영화제 발표로 다시 확인",
+      "영어 · 표지 2줄 'Names Kim Doyeon Ambassador' 는 27자로 길고 원문의 '첫' 이 빠짐 — 캡션 첫 문장에 first 가 있어 그대로 둠",
+      "일본어 · 작품명 『アイドル権限代行』 은 일본 공식 제목 확인 못 함 (원어 괄호 병기는 유지)"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Seoul Independent Film Festival (@siff.kr) has named an ambassador this year, a first for the festival.\n\nThe 52nd edition's first ambassador is actor Kim Do-yeon, whose ties with the festival go back to the 2017 film 'Idol Fever.' The main poster, drawn as an illustration in past years, has also been replaced this year by a photograph featuring Kim.\n\nThis year's slogan is 'Digging.' One of the two posters shows a theater buried in the earth being dug out; the other shows the projector and theater seats found there being looked over. The idea is to go searching for works and filmmakers not yet known, and Kim also appears in the opening video and the trailer.\n\nDates: Nov 25 (Wed) – Dec 4 (Fri)\nLocation: CGV Apgujeong · CGV Cheongdam Cine City, Seoul\n#SENE #SIFF #SeoulIndependentFilmFestival #KimDoyeon #KoreanIndieFilm\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792992940/muity97bogn6ycepusoo.jpg\n제목: SIFF Names Kim Do-yeon|Its First Ambassador\n부제: 52nd Edition · Nov 25 – Dec 4\n출처: @siff.kr\n",
-      "caption": "The Seoul Independent Film Festival (@siff.kr) has named an ambassador this year, a first for the festival.\n\nThe 52nd edition's first ambassador is actor Kim Do-yeon, whose ties with the festival go back to the 2017 film 'Idol Fever.' The main poster, drawn as an illustration in past years, has also been replaced this year by a photograph featuring Kim.\n\nThis year's slogan is 'Digging.' One of the two posters shows a theater buried in the earth being dug out; the other shows the projector and theater seats found there being looked over. The idea is to go searching for works and filmmakers not yet known, and Kim also appears in the opening video and the trailer.\n\nDates: Nov 25 (Wed) – Dec 4 (Fri)\nLocation: CGV Apgujeong · CGV Cheongdam Cine City, Seoul\n#SENE #SIFF #SeoulIndependentFilmFestival #KimDoyeon #KoreanIndieFilm",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Seoul Independent Film Festival (@siff.kr) has named an ambassador for the first time this year.\n\nThe role goes to actor Kim Doyeon for the festival's 52nd edition. Kim's ties to the festival go back to 2017 and the film 'Idol Fever'. The main poster, illustrated in past years, is now a photograph featuring Kim.\n\nThis year's slogan is \"Digging.\" One of the two posters shows a cinema being dug out of the earth, and the other shows the projector and theater seats found there. The idea is to go looking for films and filmmakers that are not yet known. Kim also appears in the opening video and the trailer.\n\nDates: Nov 25 (Wed) – Dec 4 (Fri)\nLocation: CGV Apgujeong · CGV Cheongdam Cinecity, Gangnam-gu, Seoul\n#SENE #SeoulIndependentFilmFestival #SIFF #KimDoyeon #KoreanIndieFilm\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792992940/muity97bogn6ycepusoo.jpg\n제목: Seoul Indie Film Fest|Names Kim Doyeon Ambassador\n부제: 52nd edition · Nov 25 – Dec 4\n출처: @siff.kr\n",
+      "caption": "The Seoul Independent Film Festival (@siff.kr) has named an ambassador for the first time this year.\n\nThe role goes to actor Kim Doyeon for the festival's 52nd edition. Kim's ties to the festival go back to 2017 and the film 'Idol Fever'. The main poster, illustrated in past years, is now a photograph featuring Kim.\n\nThis year's slogan is \"Digging.\" One of the two posters shows a cinema being dug out of the earth, and the other shows the projector and theater seats found there. The idea is to go looking for films and filmmakers that are not yet known. Kim also appears in the opening video and the trailer.\n\nDates: Nov 25 (Wed) – Dec 4 (Fri)\nLocation: CGV Apgujeong · CGV Cheongdam Cinecity, Gangnam-gu, Seoul\n#SENE #SeoulIndependentFilmFestival #SIFF #KimDoyeon #KoreanIndieFilm",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993049/djftlihtgdlvhtcfji5n.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993049/kca0muljctl8dwd2hnec.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993129/zyfdywrydcn89w8xcjnh.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993128/ys9qxemuqhin1narsyod.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993049/djftlihtgdlvhtcfji5n.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993129/zyfdywrydcn89w8xcjnh.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T14:37+09:00"
+       "at": "2026-10-26T14:38+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nソウル独立映画祭（@siff.kr）が、今年初めてアンバサダーを起用しました。\n\n第52回映画祭の初代アンバサダーは俳優のキム・ドヨン（김도연）です。2017年の映画『アイドル権限代行』（原題：아이돌 권한대행）で、この映画祭と初めて縁を結びました。これまでイラストで描かれてきたメインポスターも、今年はキム・ドヨン本人が登場する写真に変わりました。\n\nスローガンは「ディギング（Digging）」です。2枚のポスターには、土の中に埋もれた劇場を掘り起こす場面と、見つけ出した映写機と劇場の椅子を見つめる場面が収められています。まだ知られていない作品と作り手を探しに行くという意味が込められており、キム・ドヨンは開幕映像と予告編にも登場します。\n\n期間：11月25日（水）〜12月4日（金）\n場所：ソウル・CGV狎鴎亭（アックジョン）・CGV清潭（チョンダム）シネシティ\n#SENE #ソウル独立映画祭 #キムドヨン #韓国映画 #インディーズ映画\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792992940/muity97bogn6ycepusoo.jpg\n제목: ソウル独立映画祭、|初アンバサダーはキム・ドヨン\n부제: 第52回・11月25日〜12月4日\n출처: @siff.kr\n",
-      "caption": "ソウル独立映画祭（@siff.kr）が、今年初めてアンバサダーを起用しました。\n\n第52回映画祭の初代アンバサダーは俳優のキム・ドヨン（김도연）です。2017年の映画『アイドル権限代行』（原題：아이돌 권한대행）で、この映画祭と初めて縁を結びました。これまでイラストで描かれてきたメインポスターも、今年はキム・ドヨン本人が登場する写真に変わりました。\n\nスローガンは「ディギング（Digging）」です。2枚のポスターには、土の中に埋もれた劇場を掘り起こす場面と、見つけ出した映写機と劇場の椅子を見つめる場面が収められています。まだ知られていない作品と作り手を探しに行くという意味が込められており、キム・ドヨンは開幕映像と予告編にも登場します。\n\n期間：11月25日（水）〜12月4日（金）\n場所：ソウル・CGV狎鴎亭（アックジョン）・CGV清潭（チョンダム）シネシティ\n#SENE #ソウル独立映画祭 #キムドヨン #韓国映画 #インディーズ映画",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nソウル独立映画祭（@siff.kr）が今年、初めてアンバサダーを迎えました。\n\n第52回映画祭の初代アンバサダーは俳優のキム・ドヨン（김도연）です。キム・ドヨンとこの映画祭の縁は、2017年の映画『アイドル権限代行（아이돌 권한대행）』から始まりました。これまでイラストで描かれてきたメインポスターも、今年はキム・ドヨン本人が登場する写真に変わりました。\n\nスローガンは「ディギング（Digging）」です。2枚のポスターには、土に埋もれた映画館を掘り起こす場面と、掘り当てた映写機や客席を見つめる場面が収められています。まだ知られていない作品と作り手を探しに行くという意味が込められており、キム・ドヨンはオープニング映像と予告編にも登場します。\n\n期間：11月25日（水）〜12月4日（金）\n場所：ソウル・江南区 CGV狎鴎亭（アックジョン）・CGV清潭（チョンダム）シネシティ\n#SENE #ソウル独立映画祭 #キムドヨン #韓国映画 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792992940/muity97bogn6ycepusoo.jpg\n제목: ソウル独立映画祭、|初アンバサダーはキム・ドヨン\n부제: 第52回・11月25日〜12月4日\n출처: @siff.kr\n",
+      "caption": "ソウル独立映画祭（@siff.kr）が今年、初めてアンバサダーを迎えました。\n\n第52回映画祭の初代アンバサダーは俳優のキム・ドヨン（김도연）です。キム・ドヨンとこの映画祭の縁は、2017年の映画『アイドル権限代行（아이돌 권한대행）』から始まりました。これまでイラストで描かれてきたメインポスターも、今年はキム・ドヨン本人が登場する写真に変わりました。\n\nスローガンは「ディギング（Digging）」です。2枚のポスターには、土に埋もれた映画館を掘り起こす場面と、掘り当てた映写機や客席を見つめる場面が収められています。まだ知られていない作品と作り手を探しに行くという意味が込められており、キム・ドヨンはオープニング映像と予告編にも登場します。\n\n期間：11月25日（水）〜12月4日（金）\n場所：ソウル・江南区 CGV狎鴎亭（アックジョン）・CGV清潭（チョンダム）シネシティ\n#SENE #ソウル独立映画祭 #キムドヨン #韓国映画 #韓国旅行",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993052/xiihfo7kchbal7o1ckbw.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993052/oj2ysmnyldc4jqbdbhmq.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993132/mmupc4sl1kopona5jyce.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993131/wxxgftysvjajg4bbcw4a.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993052/xiihfo7kchbal7o1ckbw.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792993132/mmupc4sl1kopona5jyce.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T14:37+09:00"
+       "at": "2026-10-26T14:38+09:00"
       }
      }
     }
@@ -2740,7 +2742,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T14:37+09:00"
+  "at": "2026-10-26T14:38+09:00"
  },
  "slots": {
   "basis": 0,
