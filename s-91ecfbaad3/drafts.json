@@ -4326,8 +4326,8 @@
      "at": "2026-10-26T21:47+09:00",
      "v": {
       "A": "f295cf3a",
-      "E": "0346320e",
-      "J": "f93a5e55"
+      "E": "2cdc097e",
+      "J": "b1a8271b"
      }
     }
    },
@@ -4339,57 +4339,65 @@
    "i18n_queued": "2026-10-26T21:46+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-26T21:47+09:00",
+    "at": "2026-10-26T21:48+09:00",
     "confirm": [
-     "2025년 일본 행사 '사쿠라와 토모요의 티파티'의 공식 일본어·영어 명칭을 찾지 못했다 — 「さくらと知世のティーパーティー」와 'Sakura and Tomoyo's Tea Party'는 직역이다. 공식 명칭으로 바꿔야 한다",
-     "음료 이름('스트로베리 쇼트케이크 드링크'·'멜론 크림 소다')의 공식 영어·일본어 표기는 확인하지 못해 직역했다",
-     "링크업파트너스의 공식 영문·일문 표기를 확인하지 못했다 — 'Linkup Partners'·「リンクアップパートナーズ」는 임시 표기다",
-     "무신사 스페이스 서울숲의 공식 영문 표기와 동 이름까지 들어간 주소는 확인하지 못했다. 원문처럼 '성동구'까지만 옮겼다",
-     "이번 서울 행사 자체(기간·장소·예약)는 웹 검색에서 확인되지 않았다 — 원문의 사실을 그대로 옮겼다",
-     "영어·일본어 · 2025년 일본 행사 이름 'Sakura and Tomoyo's Tea Party' / 「さくらと知世のティーパーティー」 — 일본 공식 표기를 웹에서 확인하지 못함. 올리기 전 주최 측 공식 표기 확인 필요 (음료 이름 영문·일문 공식 표기도 같이)",
-     "일본어 · 출처·장소 칸의 한글 괄호(링크업파트너스 · 무신사 스페이스 서울숲 · 팝가) — 규칙상 처음 한 번 원어 병기라 그대로 두었음. 남은 한글로 볼지 사람이 판단"
+     "2025년 일본 행사 '사쿠라와 토모요의 티파티'의 공식 일본어·영어 이름을 찾지 못해 직역했습니다 (さくらと知世のティーパーティー / Sakura and Tomoyo's Tea Party). 공식 표기 확인 필요",
+     "음료 이름 '스트로베리 쇼트케이크 드링크'·'멜론 크림 소다'의 공식 일본어·영어 표기를 찾지 못했습니다",
+     "무신사 스페이스 서울숲의 공식 영어·일본어 표기를 확인하지 못했습니다 (Musinsa Space Seoul Forest / ムシンサスペース ソウルの森 로 씀)",
+     "링크업파트너스의 공식 영문 표기를 확인하지 못해 로마자(Link-Up Partners)·カタカナ로 옮겼습니다",
+     "팝가(POPGA)의 일본어 표기는 원문의 영문 표기를 그대로 썼습니다",
+     "원행사 이름 '사쿠라와 토모요의 티파티'(さくらと知世のティーパーティー / Sakura and Tomoyo's Tea Party)의 일본 공식 표기를 웹 검색으로 확인하지 못함 — 일본 공식 명칭과 영어 표기를 올리기 전 확인",
+     "음료 공식 일본어·영어 메뉴명(ストロベリーショートケーキドリンク・メロンクリームソーダ)이 공식 표기와 같은지 확인 필요",
+     "무신사 스페이스 서울숲의 일본어 공식 표기(ムシンサスペース / MUSINSA SPACE) 확인 필요"
     ],
     "review": {
-     "at": "2026-10-26T21:47+09:00",
+     "at": "2026-10-26T21:48+09:00",
      "fixes": [
-      "일본어 · 캡션 둘째 단락 · 販売されなかった → 販売されていなかった — 「~でしか」 뒤 과거 상태는 ていなかった 가 자연스러움"
+      "영어 · 캡션 · goods items / goods → merchandise — 영어에서 'goods' 단독은 어색함 (세 곳)",
+      "영어 · 캡션 · booked in advance → booked in advance and entered — 원문 '사전예약을 하고 입장한 사람' 중 입장이 빠짐",
+      "영어 · 예약 줄 · Nov 4, 12 p.m. → Nov 4 at noon — 12 p.m. 은 자정과 헷갈림",
+      "일본어 · 캡션 · ソウルに移したイベント → ソウルで開催するイベント — 직역투",
+      "일본어 · 캡션 · 販売されなかった → 販売されていなかった — 시제·상 자연스럽게",
+      "일본어 · 캡션 · レプリカチケットが、… → レプリカチケットがもらえ、… — 병렬 구조 어색",
+      "일본어 · 예약 줄 · POPGA（팝가） → POPGA — 남은 한글 제거"
      ],
      "doubt": [
-      "영어·일본어 · 2025년 일본 행사 이름 'Sakura and Tomoyo's Tea Party' / 「さくらと知世のティーパーティー」 — 일본 공식 표기를 웹에서 확인하지 못함. 올리기 전 주최 측 공식 표기 확인 필요 (음료 이름 영문·일문 공식 표기도 같이)",
-      "일본어 · 출처·장소 칸의 한글 괄호(링크업파트너스 · 무신사 스페이스 서울숲 · 팝가) — 규칙상 처음 한 번 원어 병기라 그대로 두었음. 남은 한글로 볼지 사람이 판단"
+      "원행사 이름 '사쿠라와 토모요의 티파티'(さくらと知世のティーパーティー / Sakura and Tomoyo's Tea Party)의 일본 공식 표기를 웹 검색으로 확인하지 못함 — 일본 공식 명칭과 영어 표기를 올리기 전 확인",
+      "음료 공식 일본어·영어 메뉴명(ストロベリーショートケーキドリンク・メロンクリームソーダ)이 공식 표기와 같은지 확인 필요",
+      "무신사 스페이스 서울숲의 일본어 공식 표기(ムシンサスペース / MUSINSA SPACE) 확인 필요"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\nA 'Cardcaptor Sakura' collaboration cafe opens at Seoul Forest in November.\n\nThe event brings 'Sakura and Tomoyo's Tea Party', held in Japan in 2025, to Seoul. Fifteen merchandise items once sold only at the cafe in Japan and through Japanese online stores are now available in Seoul. Merchandise is sold only to visitors who enter with an advance reservation.\n\nThe menu has six character-themed drinks, with names such as Sakura's 'Strawberry Shortcake Drink' and Syaoran's 'Melon Cream Soda'. Every visitor receives a replica ticket, and each drink or merchandise purchase comes with one random item from a set of 12 coasters or 7 postcards. Bonus items are available while supplies last.\n\nDates: Nov 11 (Wed) – Nov 29 (Sun)\nLocation: MUSINSA SPACE Seoul Forest, Seongdong-gu, Seoul\nReservations: From Nov 4 on POPGA — all seats by advance reservation only\n#SENE #CardcaptorSakura #SeoulForest #SeoulCafe #SeoulPopup\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg\n제목: Sakura Collab Cafe Opens|at Seoul Forest in Nov\n부제: Nov 11–29 · MUSINSA SPACE Seoul Forest · Booking from Nov 4 on POPGA\n출처: Linkup Partners\n",
-      "caption": "A 'Cardcaptor Sakura' collaboration cafe opens at Seoul Forest in November.\n\nThe event brings 'Sakura and Tomoyo's Tea Party', held in Japan in 2025, to Seoul. Fifteen merchandise items once sold only at the cafe in Japan and through Japanese online stores are now available in Seoul. Merchandise is sold only to visitors who enter with an advance reservation.\n\nThe menu has six character-themed drinks, with names such as Sakura's 'Strawberry Shortcake Drink' and Syaoran's 'Melon Cream Soda'. Every visitor receives a replica ticket, and each drink or merchandise purchase comes with one random item from a set of 12 coasters or 7 postcards. Bonus items are available while supplies last.\n\nDates: Nov 11 (Wed) – Nov 29 (Sun)\nLocation: MUSINSA SPACE Seoul Forest, Seongdong-gu, Seoul\nReservations: From Nov 4 on POPGA — all seats by advance reservation only\n#SENE #CardcaptorSakura #SeoulForest #SeoulCafe #SeoulPopup",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nA 'Cardcaptor Sakura' collaboration cafe opens at Seoul Forest in November.\n\nThe event brings 'Sakura and Tomoyo's Tea Party', held in Japan in 2025, to Seoul. Fifteen merchandise items once sold only at the Japanese cafe and through Japanese online channels are now available in Seoul. The merchandise, however, can be bought only by visitors who booked in advance and entered.\n\nThe menu includes six character-inspired drinks, with names such as Sakura's 'Strawberry Shortcake Drink' and Syaoran's 'Melon Cream Soda'. Every visitor receives a replica ticket on entry, and each drink or merchandise purchase comes with one random item from 12 coaster designs or 7 postcard designs. Bonus items are available while supplies last.\n\nDates: Nov 11 (Wed) – Nov 29 (Sun)\nLocation: Musinsa Space Seoul Forest, Seongdong-gu, Seoul\nReservations: From Nov 4 at noon on POPGA — all seats by advance reservation only\n#SENE #CardcaptorSakura #SeoulForest #SeoulCafe #SeoulPopup\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793018814/htyjal4tygnojjlu5qk9.jpg\n제목: Cardcaptor Sakura Cafe|Opens at Seoul Forest in Nov\n부제: Nov 11–29 · Musinsa Space Seoul Forest · Bookings from Nov 4 on POPGA\n출처: Link-Up Partners\n",
+      "caption": "A 'Cardcaptor Sakura' collaboration cafe opens at Seoul Forest in November.\n\nThe event brings 'Sakura and Tomoyo's Tea Party', held in Japan in 2025, to Seoul. Fifteen merchandise items once sold only at the Japanese cafe and through Japanese online channels are now available in Seoul. The merchandise, however, can be bought only by visitors who booked in advance and entered.\n\nThe menu includes six character-inspired drinks, with names such as Sakura's 'Strawberry Shortcake Drink' and Syaoran's 'Melon Cream Soda'. Every visitor receives a replica ticket on entry, and each drink or merchandise purchase comes with one random item from 12 coaster designs or 7 postcard designs. Bonus items are available while supplies last.\n\nDates: Nov 11 (Wed) – Nov 29 (Sun)\nLocation: Musinsa Space Seoul Forest, Seongdong-gu, Seoul\nReservations: From Nov 4 at noon on POPGA — all seats by advance reservation only\n#SENE #CardcaptorSakura #SeoulForest #SeoulCafe #SeoulPopup",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018842/kxsyz29anjynsrsqhobg.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018842/eb2qmy4rn7nyosiyceuc.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018925/ytzzdjm9payzalk9fzuq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018925/gwc42a1p8tn5y77nr0uc.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018842/kxsyz29anjynsrsqhobg.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018925/ytzzdjm9payzalk9fzuq.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T21:47+09:00"
+       "at": "2026-10-26T21:48+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\n『カードキャプターさくら』のコラボカフェが、11月にソウルの森（ソウルスプ）にオープンします。\n\n2025年に日本で開かれた「さくらと知世のティーパーティー」をソウルに移したイベントで、当時日本のカフェ会場と日本のオンラインでしか販売されていなかったグッズ15種を、今回ソウルで購入できます。ただし、グッズを購入できるのは事前予約をして入場した人のみです。\n\nドリンクはキャラクターをモチーフにした6種で、さくらの「ストロベリーショートケーキドリンク」、小狼の「メロンクリームソーダ」といった名前が付いています。入場者にはレプリカチケットが、ドリンクやグッズの購入者にはコースター12種またはポストカード7種のうち1つがランダムで渡されます。特典はなくなり次第終了です。\n\n期間：11月11日（水）〜11月29日（日）\n場所：ソウル・城東区（ソンドング） MUSINSA SPACE ソウルの森（무신사 스페이스 서울숲）\n予約：11月4日からPOPGA（팝가）にて — 全席事前予約制\n#SENE #カードキャプターさくら #韓国旅行 #ソウルカフェ #コラボカフェ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793018727/pbo0tmhv2dqmxnmclyra.jpg\n제목: さくらコラボカフェ、|11月ソウルの森に\n부제: 11/11〜29・MUSINSA SPACE ソウルの森・11/4からPOPGAで予約\n출처: リンクアップパートナーズ（링크업파트너스）\n",
-      "caption": "『カードキャプターさくら』のコラボカフェが、11月にソウルの森（ソウルスプ）にオープンします。\n\n2025年に日本で開かれた「さくらと知世のティーパーティー」をソウルに移したイベントで、当時日本のカフェ会場と日本のオンラインでしか販売されていなかったグッズ15種を、今回ソウルで購入できます。ただし、グッズを購入できるのは事前予約をして入場した人のみです。\n\nドリンクはキャラクターをモチーフにした6種で、さくらの「ストロベリーショートケーキドリンク」、小狼の「メロンクリームソーダ」といった名前が付いています。入場者にはレプリカチケットが、ドリンクやグッズの購入者にはコースター12種またはポストカード7種のうち1つがランダムで渡されます。特典はなくなり次第終了です。\n\n期間：11月11日（水）〜11月29日（日）\n場所：ソウル・城東区（ソンドング） MUSINSA SPACE ソウルの森（무신사 스페이스 서울숲）\n予約：11月4日からPOPGA（팝가）にて — 全席事前予約制\n#SENE #カードキャプターさくら #韓国旅行 #ソウルカフェ #コラボカフェ",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\n『カードキャプターさくら』のコラボカフェが、11月にソウルの森（ソウルスプ）でオープンします。\n\n2025年に日本で開かれた「さくらと知世のティーパーティー」をソウルで開催するイベントで、当時日本のカフェ会場と日本のオンラインでしか販売されていなかったグッズ15種を、今回ソウルで購入できます。ただし、グッズを購入できるのは事前予約をして入場した人に限られます。\n\nドリンクはキャラクターをモチーフにした6種で、さくらの「ストロベリーショートケーキドリンク」、小狼の「メロンクリームソーダ」といった名前が付いています。入場時にはレプリカチケットがもらえ、ドリンクやグッズを購入するとコースター12種またはポストカード7種のうち1つがランダムでもらえます。特典はなくなり次第終了です。\n\n期間：11月11日（水）〜11月29日（日）\n場所：ソウル・城東区（ソンドング） ムシンサスペース ソウルの森（MUSINSA SPACE）\n予約：11月4日12時からPOPGAにて ― 全席事前予約制\n#SENE #カードキャプターさくら #韓国旅行 #ソウルカフェ #コラボカフェ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793018814/htyjal4tygnojjlu5qk9.jpg\n제목: さくらコラボカフェ、|11月ソウルの森に\n부제: 11/11〜29・ムシンサスペース ソウルの森・予約11/4 POPGA\n출처: リンクアップパートナーズ\n",
+      "caption": "『カードキャプターさくら』のコラボカフェが、11月にソウルの森（ソウルスプ）でオープンします。\n\n2025年に日本で開かれた「さくらと知世のティーパーティー」をソウルで開催するイベントで、当時日本のカフェ会場と日本のオンラインでしか販売されていなかったグッズ15種を、今回ソウルで購入できます。ただし、グッズを購入できるのは事前予約をして入場した人に限られます。\n\nドリンクはキャラクターをモチーフにした6種で、さくらの「ストロベリーショートケーキドリンク」、小狼の「メロンクリームソーダ」といった名前が付いています。入場時にはレプリカチケットがもらえ、ドリンクやグッズを購入するとコースター12種またはポストカード7種のうち1つがランダムでもらえます。特典はなくなり次第終了です。\n\n期間：11月11日（水）〜11月29日（日）\n場所：ソウル・城東区（ソンドング） ムシンサスペース ソウルの森（MUSINSA SPACE）\n予約：11月4日12時からPOPGAにて ― 全席事前予約制\n#SENE #カードキャプターさくら #韓国旅行 #ソウルカフェ #コラボカフェ",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018846/b8imsf09uugts3ck4rwa.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018846/wxzjdt3r7ke8gimol3qh.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018928/le29yzixzfieqluj5mof.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018928/myx7cmou8or2odpu4ewp.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018846/b8imsf09uugts3ck4rwa.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793018928/le29yzixzfieqluj5mof.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T21:47+09:00"
+       "at": "2026-10-26T21:48+09:00"
       }
      }
     }
@@ -4524,7 +4532,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T21:47+09:00"
+  "at": "2026-10-26T21:48+09:00"
  },
  "slots": {
   "basis": 0,
