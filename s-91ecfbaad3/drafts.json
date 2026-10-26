@@ -1098,7 +1098,7 @@
    "pick": {
     "rank": 2,
     "why": "로제가 만든 조니워커 하이볼이 오늘 처음 공개됐다 — 큰 이름이 걸렸고 이번 주에 바로 마셔 볼 수 있는 소식",
-    "at": "2026-10-26T17:45+09:00"
+    "at": "2026-10-26T17:47+09:00"
    }
   },
   {
@@ -3378,7 +3378,7 @@
     "is_reel": true,
     "kind": "claude"
    },
-   "made_at": "2026-10-26T17:45+09:00",
+   "made_at": "2026-10-26T17:47+09:00",
    "key": "dcdcd485",
    "by": "claude",
    "subjects": [
@@ -3392,31 +3392,31 @@
     "why": "이번 토요일 실제로 갈 수 있는 무료 놀거리. 날짜·시간·장소·주제·드론 수가 서울시 공식 안내와 기사 넷(세계일보·서울신문·인사이트·한국면세뉴스)에서 맞는다"
    },
    "added": "claude",
-   "added_at": "2026-10-26T17:45+09:00",
+   "added_at": "2026-10-26T17:47+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n놀거리\n\n[캡션]\n올해 마지막 한강 드론 라이트쇼가 이번 토요일 밤 뚝섬한강공원에서 열립니다.\n\n주제는 '마블 스페셜'인데요, 서울시(@seoul_official)는 역대 최대 규모인 드론 2,000대로 15분 동안 아이언맨을 비롯한 마블 캐릭터와 영화 속 장면을 밤하늘에 그린다고 밝혔습니다. 월트디즈니 컴퍼니 코리아와 함께 꾸린 회차입니다.\n\n공연 전에는 12월 16일 개봉하는 〈어벤져스: 둠스데이〉 포토존과 코스튬 퍼레이드가 열리고, SNS 인증 이벤트에 참여한 선착순 1,000명은 기념품을 받습니다. 핼러윈과 겹치는 날이라 7호선 자양역은 붐비면 열차가 서지 않고 지나갈 수 있습니다.\n\n일시: 10월 31일(토) 19:30 공연 시작 · 드론쇼 20:30~20:45\n장소: 서울 광진구 뚝섬한강공원 수변무대\n관람: 무료 · 예약 없음 (비·강풍 때는 바뀌거나 취소될 수 있음)\n교통: 7호선 자양역 1번 출구 권장\n#SENE #한강드론라이트쇼 #뚝섬한강공원 #마블 #핼러윈\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004306/myckmlsstsi4kbjs6eic.jpg\n제목: 올해 마지막 한강 드론쇼,|이번 주제는 마블\n부제: 10월 31일(토) 뚝섬한강공원 · 드론 2,000대 · 무료\n출처: 서울시\n",
-    "caption": "올해 마지막 한강 드론 라이트쇼가 이번 토요일 밤 뚝섬한강공원에서 열립니다.\n\n주제는 '마블 스페셜'인데요, 서울시(@seoul_official)는 역대 최대 규모인 드론 2,000대로 15분 동안 아이언맨을 비롯한 마블 캐릭터와 영화 속 장면을 밤하늘에 그린다고 밝혔습니다. 월트디즈니 컴퍼니 코리아와 함께 꾸린 회차입니다.\n\n공연 전에는 12월 16일 개봉하는 〈어벤져스: 둠스데이〉 포토존과 코스튬 퍼레이드가 열리고, SNS 인증 이벤트에 참여한 선착순 1,000명은 기념품을 받습니다. 핼러윈과 겹치는 날이라 7호선 자양역은 붐비면 열차가 서지 않고 지나갈 수 있습니다.\n\n일시: 10월 31일(토) 19:30 공연 시작 · 드론쇼 20:30~20:45\n장소: 서울 광진구 뚝섬한강공원 수변무대\n관람: 무료 · 예약 없음 (비·강풍 때는 바뀌거나 취소될 수 있음)\n교통: 7호선 자양역 1번 출구 권장\n#SENE #한강드론라이트쇼 #뚝섬한강공원 #마블 #핼러윈",
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n올해 마지막 한강 드론 라이트쇼가 이번 토요일 밤 뚝섬한강공원에서 열립니다.\n\n주제는 '마블 스페셜'인데요, 서울시(@seoul_official)는 드론 2,000대로 15분 동안 아이언맨을 비롯한 마블 캐릭터와 영화 속 장면을 밤하늘에 그린다고 밝혔습니다.\n\n공연 전에는 12월 16일 개봉하는 〈어벤져스: 둠스데이〉 포토존과 코스튬 퍼레이드가 열리고, SNS 인증 이벤트에 참여한 선착순 1,000명은 기념품을 받습니다. 핼러윈과 겹치는 날이라 7호선 자양역은 붐비면 열차가 서지 않고 지나갈 수 있습니다.\n\n일시: 10월 31일(토) 19:30 공연 시작 · 드론쇼 20:30~20:45\n장소: 서울 광진구 뚝섬한강공원 수변무대\n관람: 무료 · 예약 없음 (비·강풍 때는 바뀌거나 취소될 수 있음)\n교통: 7호선 자양역 1번 출구 권장\n#SENE #한강드론라이트쇼 #뚝섬한강공원 #마블 #핼러윈\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004438/iem8yiqk1wjkhbkl8jxx.jpg\n제목: 올해 마지막 한강 드론쇼,|이번 주제는 마블\n부제: 10월 31일(토) 뚝섬한강공원 · 드론 2,000대 · 무료\n출처: 서울시\n",
+    "caption": "올해 마지막 한강 드론 라이트쇼가 이번 토요일 밤 뚝섬한강공원에서 열립니다.\n\n주제는 '마블 스페셜'인데요, 서울시(@seoul_official)는 드론 2,000대로 15분 동안 아이언맨을 비롯한 마블 캐릭터와 영화 속 장면을 밤하늘에 그린다고 밝혔습니다.\n\n공연 전에는 12월 16일 개봉하는 〈어벤져스: 둠스데이〉 포토존과 코스튬 퍼레이드가 열리고, SNS 인증 이벤트에 참여한 선착순 1,000명은 기념품을 받습니다. 핼러윈과 겹치는 날이라 7호선 자양역은 붐비면 열차가 서지 않고 지나갈 수 있습니다.\n\n일시: 10월 31일(토) 19:30 공연 시작 · 드론쇼 20:30~20:45\n장소: 서울 광진구 뚝섬한강공원 수변무대\n관람: 무료 · 예약 없음 (비·강풍 때는 바뀌거나 취소될 수 있음)\n교통: 7호선 자양역 1번 출구 권장\n#SENE #한강드론라이트쇼 #뚝섬한강공원 #마블 #핼러윈",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004306/myckmlsstsi4kbjs6eic.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004438/iem8yiqk1wjkhbkl8jxx.jpg",
       "credit": "서울시",
       "from": "https://img.insight.co.kr/static/2026/10/25/1200/img_20261025151320_8v76o8zl.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004308/mu2qizdl5zcouguh7k28.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004440/d6fdyqpmsqjqxx5fqrim.jpg",
       "credit": "서울시",
       "from": "https://www.segye.com/content/image/2026/10/25/20261025511720.jpg"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004306/myckmlsstsi4kbjs6eic.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004438/iem8yiqk1wjkhbkl8jxx.jpg",
       "credit": "서울시",
       "from": "https://img.insight.co.kr/static/2026/10/25/1200/img_20261025151320_8v76o8zl.jpg"
      },
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004308/mu2qizdl5zcouguh7k28.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004440/d6fdyqpmsqjqxx5fqrim.jpg",
       "credit": "서울시",
       "from": "https://www.segye.com/content/image/2026/10/25/20261025511720.jpg"
      }
@@ -3438,6 +3438,7 @@
     ],
     "issues": [],
     "confirm": [
+     "[검증] '역대 최대'(서울신문만)·'월트디즈니 컴퍼니 코리아 협업'(인사이트만)은 출처 한 곳이라 캡션에서 뺌 · 서울시 공식 안내 페이지엔 주제가 아직 '공개 예정' — 올리기 전 공식 계정에서 마블 주제 다시 확인",
      "클립 위험: 낮음 — 서울시 · Seoul 공식 유튜브 (지난 10/9 하반기 2회차 영상 · 2:24 '자, 오늘은 조선 팔도를' ~ 3:00 '홍길동이 나타났다' · 마블 회차 영상이 아님을 캡션에 밝힘)",
      "포토존·퍼레이드 시간(정오~19시)은 인사이트 한 곳뿐이라 '공연 전'으로만 씀 · 전체 종료 시각이 공식 안내 안에서도 21:15/21:25로 갈려 드론쇼 시간만 적음"
     ],
@@ -3470,24 +3471,26 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004317/vuvmi9yjdxnbmsezxvwo.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004317/aiie0xl4m8p4wxdv8jnx.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004449/tho0l6fgexr1nhfgnrut.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004448/inf8x1yyjfdw7txa3qbp.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004320/yj7jibuycnnuz04xlaof.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004317/vuvmi9yjdxnbmsezxvwo.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004452/g2fvcad7epiuqibdkzbq.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004449/tho0l6fgexr1nhfgnrut.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T17:45+09:00",
+     "at": "2026-10-26T17:47+09:00",
      "v": {
-      "A": "aabb9597",
-      "B": "46956cdb"
+      "A": "eaed698d",
+      "B": "1d904e73",
+      "E": "27354b1c",
+      "J": "0fdd09d8"
      }
     }
    },
    "shorts": {
     "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=IhAf5pS1QvQ\n구간: 2:24-3:04\n곡: 아이언맨이 뜹니다\n아티스트: 이번 토요일엔\n피처링:\n후킹: 지난번엔 홍길동이\n출처: 서울시 · Seoul\n자막: 자동",
-    "caption": "서울시(@seoul_official)가 공개한 지난 10월 9일 한강 드론 라이트쇼 영상입니다. 홍길동과 심청이 같은 고전 소설 속 인물을 밤하늘에 띄운 회차였습니다.\n\n올해 마지막 회차는 이번 토요일 같은 자리에서 열리는데요, 이번 주제는 '마블 스페셜'입니다. 서울시는 드론 2,000대로 15분 동안 아이언맨을 비롯한 마블 캐릭터와 영화 속 장면을 그린다고 밝혔습니다.\n\n핼러윈과 겹치는 날이라 7호선 자양역은 붐비면 열차가 서지 않고 지나갈 수 있습니다.\n\n일시: 10월 31일(토) 드론쇼 20:30~20:45\n장소: 서울 광진구 뚝섬한강공원 수변무대\n관람: 무료 · 예약 없음\n영상: 서울시 공식 유튜브\n#SENE #한강드론라이트쇼 #뚝섬한강공원 #마블 #핼러윈",
+    "caption": "서울시(@seoul_official)가 공개한 지난 10월 9일 한강 드론 라이트쇼 영상입니다. 홍길동과 심청이 같은 고전 소설 속 인물을 밤하늘에 띄운 회차였습니다.\n\n올해 마지막 회차는 이번 토요일 뚝섬한강공원에서 열리는데요, 이번 주제는 '마블 스페셜'입니다. 서울시는 드론 2,000대로 15분 동안 아이언맨을 비롯한 마블 캐릭터와 영화 속 장면을 그린다고 밝혔습니다.\n\n핼러윈과 겹치는 날이라 7호선 자양역은 붐비면 열차가 서지 않고 지나갈 수 있습니다.\n\n일시: 10월 31일(토) 드론쇼 20:30~20:45\n장소: 서울 광진구 뚝섬한강공원 수변무대\n관람: 무료 · 예약 없음\n영상: 서울시 공식 유튜브\n#SENE #한강드론라이트쇼 #뚝섬한강공원 #마블 #핼러윈",
     "hooks": {
      "A": "지난번엔 홍길동이 / 이번 토요일엔 / 아이언맨이 뜹니다",
      "B": "올해 마지막 / 한강 드론쇼 / 10월 31일 뚝섬",
@@ -3507,6 +3510,7 @@
     },
     "issues": [],
     "confirm": [
+     "[검증] '역대 최대'(서울신문만)·'월트디즈니 컴퍼니 코리아 협업'(인사이트만)은 출처 한 곳이라 캡션에서 뺌 · 서울시 공식 안내 페이지엔 주제가 아직 '공개 예정' — 올리기 전 공식 계정에서 마블 주제 다시 확인",
      "클립 위험: 낮음 — 서울시 · Seoul 공식 유튜브 (지난 10/9 하반기 2회차 영상 · 2:24 '자, 오늘은 조선 팔도를' ~ 3:00 '홍길동이 나타났다' · 마블 회차 영상이 아님을 캡션에 밝힘)",
      "포토존·퍼레이드 시간(정오~19시)은 인사이트 한 곳뿐이라 '공연 전'으로만 씀 · 전체 종료 시각이 공식 안내 안에서도 21:15/21:25로 갈려 드론쇼 시간만 적음"
     ],
@@ -3538,17 +3542,81 @@
     ],
     "thumb": "https://i.ytimg.com/vi/IhAf5pS1QvQ/maxresdefault.jpg",
     "still": {
-     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004328/rkl35cikdrthut8dnwal.jpg",
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004460/cavqlfuczhxxhuj7v4tf.jpg",
      "key": "IhAf5pS1QvQ@144.0"
     }
    },
    "pick": {
     "rank": 1,
     "why": "이번 토요일 핼러윈 밤에 열리는 무료 드론쇼라 주말 계획으로 저장해 두기 좋고, 마블과 2,000대라는 규모가 있으며 서울시 공식 영상으로 숏폼까지 된다",
-    "at": "2026-10-26T17:45+09:00"
+    "at": "2026-10-26T17:47+09:00"
    },
-   "i18n_queued": "2026-10-26T17:45+09:00",
-   "corner_name": "소식"
+   "i18n_queued": "2026-10-26T17:47+09:00",
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-26T17:47+09:00",
+    "confirm": [
+     "영화 일본 공식 제목은 『アベンジャーズ／ドゥームズデイ』입니다(일본 개봉은 12월 18일). 원문의 12월 16일은 한국 개봉일이라, 영어·일본어판 모두 '한국에서(in Korea·韓国で)'를 붙였습니다.",
+     "숏폼 세 줄은 '후킹 → 아티스트 → 곡' 순서로 이어 읽힌다고 보고 옮겼습니다 (EN: Then Hong Gil-dong. / This Saturday, / Iron Man takes off · JA: 前回はホンギルドン / 今週土曜は / アイアンマンが飛びます).",
+     "'수변무대'는 Waterside Stage · 水辺ステージ로 옮겼습니다. 서울시 공식 영어·일본어 표기는 확인하지 못했습니다.",
+     "행사 공식 영문 이름은 'Hangang Drone Light Show'로 옮겼습니다. 시간·규모는 올리기 전에 공식 계정의 최신 공지를 다시 확인해 주세요 (비가 오면 바뀔 수 있음).",
+     "영어 숏폼 후킹을 'Oct 9: Hong Gil-dong'으로 바꿨으니, 화면 세 줄이 'Oct 9: Hong Gil-dong / This Saturday, / Iron Man takes off' 순서로 자연스럽게 읽히는지 미리보기에서 확인해 주세요",
+     "올리기 전에 서울시 최신 공지에서 날씨 때문에 바뀐 일정이나 취소가 없는지 다시 확인해 주세요 (공연일은 10월 31일입니다)"
+    ],
+    "review": {
+     "at": "2026-10-26T17:47+09:00",
+     "fixes": [
+      "영어 · 숏폼 후킹 · Then Hong Gil-dong. → Oct 9: Hong Gil-dong — 'Then'은 '그다음'으로 읽혀 원문 '지난번엔'과 뜻이 반대이고, 세 줄(후킹→아티스트→곡) 흐름도 깨짐 (20자 안)",
+      "영어 · 숏폼 캡션 첫 문장 · the Seoul Metropolitan Government's (@seoul_official) footage → footage from the Seoul Metropolitan Government (@seoul_official) — 소유격 's 뒤에 핸들 괄호가 끼어 어색함"
+     ],
+     "doubt": [
+      "영어 숏폼 후킹을 'Oct 9: Hong Gil-dong'으로 바꿨으니, 화면 세 줄이 'Oct 9: Hong Gil-dong / This Saturday, / Iron Man takes off' 순서로 자연스럽게 읽히는지 미리보기에서 확인해 주세요",
+      "올리기 전에 서울시 최신 공지에서 날씨 때문에 바뀐 일정이나 취소가 없는지 다시 확인해 주세요 (공연일은 10월 31일입니다)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nThe last Hangang Drone Light Show of the year takes place this Saturday night at Ttukseom Hangang Park in Seoul.\n\nThe theme is \"Marvel Special.\" The Seoul Metropolitan Government (@seoul_official) says 2,000 drones, the most the show has ever used, will draw Iron Man and other Marvel characters, along with scenes from the films, across the night sky for 15 minutes. This edition is co-organized with The Walt Disney Company Korea.\n\nBefore the show there will be a photo zone for 'Avengers: Doomsday', which opens in Korea on Dec 16, and a costume parade. The first 1,000 people to join the social media check-in event get a souvenir. The night falls on Halloween, so Line 7 trains may pass through Jayang Station without stopping if it gets crowded.\n\nDates: Oct 31 (Sat), program starts 19:30 · drone show 20:30–20:45\nLocation: Waterside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · no reservation needed (may change or be canceled in rain or strong wind)\nGetting there: Jayang Station (Line 7), Exit 1 recommended\n#SENE #HangangDroneShow #SeoulEvents #Marvel #SeoulHalloween\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004306/myckmlsstsi4kbjs6eic.jpg\n제목: Year's Last Han River|Drone Show Goes Marvel\n부제: Oct 31 (Sat) · Ttukseom Hangang Park · 2,000 drones · Free\n출처: Seoul Metropolitan Government\n",
+      "caption": "The last Hangang Drone Light Show of the year takes place this Saturday night at Ttukseom Hangang Park in Seoul.\n\nThe theme is \"Marvel Special.\" The Seoul Metropolitan Government (@seoul_official) says 2,000 drones, the most the show has ever used, will draw Iron Man and other Marvel characters, along with scenes from the films, across the night sky for 15 minutes. This edition is co-organized with The Walt Disney Company Korea.\n\nBefore the show there will be a photo zone for 'Avengers: Doomsday', which opens in Korea on Dec 16, and a costume parade. The first 1,000 people to join the social media check-in event get a souvenir. The night falls on Halloween, so Line 7 trains may pass through Jayang Station without stopping if it gets crowded.\n\nDates: Oct 31 (Sat), program starts 19:30 · drone show 20:30–20:45\nLocation: Waterside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · no reservation needed (may change or be canceled in rain or strong wind)\nGetting there: Jayang Station (Line 7), Exit 1 recommended\n#SENE #HangangDroneShow #SeoulEvents #Marvel #SeoulHalloween",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004475/rdxomyjev8uf7cdddy2j.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004475/wg0ira1nn4cen2nuvbb6.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004475/rdxomyjev8uf7cdddy2j.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T17:47+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=IhAf5pS1QvQ\n구간: 2:24-3:04\n곡: Iron Man takes off\n아티스트: This Saturday,\n피처링:\n후킹: Oct 9: Hong Gil-dong\n출처: Seoul Metropolitan Government · Seoul\n자막: 자동",
+      "caption": "This is footage from the Seoul Metropolitan Government (@seoul_official) of the Hangang Drone Light Show held on Oct 9. That edition put characters from classic Korean novels, such as Hong Gil-dong and Sim Cheong, in the night sky.\n\nThe last show of the year takes place at the same spot this Saturday, with the theme \"Marvel Special.\" The city says 2,000 drones will draw Iron Man and other Marvel characters, along with scenes from the films, for 15 minutes.\n\nThe night falls on Halloween, so Line 7 trains may pass through Jayang Station without stopping if it gets crowded.\n\nDates: Oct 31 (Sat), drone show 20:30–20:45\nLocation: Waterside Stage, Ttukseom Hangang Park, Gwangjin-gu, Seoul\nAdmission: Free · no reservation needed\nVideo: Seoul Metropolitan Government official YouTube\n#SENE #HangangDroneShow #SeoulEvents #Marvel #SeoulHalloween"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n今年最後の漢江（ハンガン）ドローンライトショーが、今週土曜日の夜、ソウル・トゥクソム漢江公園（뚝섬한강공원）で開かれます。\n\nテーマは「マーベル・スペシャル」で、ソウル市（@seoul_official）は過去最大規模となるドローン2,000機を使い、15分間にわたってアイアンマンをはじめとするマーベルのキャラクターや映画の名場面を夜空に描くと発表しました。ウォルト・ディズニー・カンパニー・コリアと共に手がける回です。\n\n公演の前には、韓国で12月16日に公開される『アベンジャーズ／ドゥームズデイ』のフォトゾーンやコスチュームパレードが行われ、SNS投稿イベントに参加した先着1,000人には記念品が贈られます。ハロウィンと重なる日のため、地下鉄7号線の紫陽（チャヤン）駅は混雑すると列車が停車せずに通過する場合があります。\n\n期間：10月31日（土）19:30 公演開始・ドローンショー 20:30〜20:45\n場所：ソウル・広津区（クァンジング）トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要（雨や強風の際は変更・中止の場合あり）\nアクセス：7号線 紫陽駅1番出口がおすすめ\n#SENE #韓国旅行 #ソウル旅行 #漢江 #マーベル\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004306/myckmlsstsi4kbjs6eic.jpg\n제목: 今年最後の漢江ドローン、|今回のテーマはマーベル\n부제: 10月31日（土）・トゥクソム漢江公園・ドローン2,000機・無料\n출처: ソウル市\n",
+      "caption": "今年最後の漢江（ハンガン）ドローンライトショーが、今週土曜日の夜、ソウル・トゥクソム漢江公園（뚝섬한강공원）で開かれます。\n\nテーマは「マーベル・スペシャル」で、ソウル市（@seoul_official）は過去最大規模となるドローン2,000機を使い、15分間にわたってアイアンマンをはじめとするマーベルのキャラクターや映画の名場面を夜空に描くと発表しました。ウォルト・ディズニー・カンパニー・コリアと共に手がける回です。\n\n公演の前には、韓国で12月16日に公開される『アベンジャーズ／ドゥームズデイ』のフォトゾーンやコスチュームパレードが行われ、SNS投稿イベントに参加した先着1,000人には記念品が贈られます。ハロウィンと重なる日のため、地下鉄7号線の紫陽（チャヤン）駅は混雑すると列車が停車せずに通過する場合があります。\n\n期間：10月31日（土）19:30 公演開始・ドローンショー 20:30〜20:45\n場所：ソウル・広津区（クァンジング）トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要（雨や強風の際は変更・中止の場合あり）\nアクセス：7号線 紫陽駅1番出口がおすすめ\n#SENE #韓国旅行 #ソウル旅行 #漢江 #マーベル",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004478/hqob0cfmulddg24sg9st.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004477/r2gfjksqdqz0yhl9wuym.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004478/hqob0cfmulddg24sg9st.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T17:47+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=IhAf5pS1QvQ\n구간: 2:24-3:04\n곡: アイアンマンが飛びます\n아티스트: 今週土曜は\n피처링:\n후킹: 前回はホンギルドン\n출처: ソウル市 · Seoul\n자막: 자동",
+      "caption": "ソウル市（@seoul_official）が公開した、10月9日の漢江ドローンライトショーの映像です。洪吉童（ホン・ギルドン）や沈清（シム・チョン）など、韓国の古典小説の登場人物を夜空に描いた回でした。\n\n今年最後の回は今週土曜日に同じ場所で開かれ、テーマは「マーベル・スペシャル」です。ソウル市は、ドローン2,000機で15分間、アイアンマンをはじめとするマーベルのキャラクターや映画の名場面を描くと発表しました。\n\nハロウィンと重なる日のため、7号線の紫陽（チャヤン）駅は混雑すると列車が停車せずに通過する場合があります。\n\n期間：10月31日（土）ドローンショー 20:30〜20:45\n場所：ソウル・広津区 トゥクソム漢江公園 水辺ステージ\n観覧：無料・予約不要\n映像：ソウル市公式YouTube\n#SENE #韓国旅行 #ソウル旅行 #漢江 #マーベル"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -3561,7 +3629,7 @@
     "is_reel": false,
     "kind": "claude"
    },
-   "made_at": "2026-10-26T17:45+09:00",
+   "made_at": "2026-10-26T17:47+09:00",
    "key": "d8184e16",
    "by": "claude",
    "subjects": [
@@ -3575,21 +3643,21 @@
     "why": "퇴근길에 보고 내일 바로 갈 수 있는 마지막 날 소식. 기간·장소는 서울시 공식 누리집, 정원 수·초청 정원은 서울시 미디어허브와 헤럴드경제에서 맞는다"
    },
    "added": "claude",
-   "added_at": "2026-10-26T17:45+09:00",
+   "added_at": "2026-10-26T17:47+09:00",
    "corner": "news",
    "card": {
-    "form": "[카테고리]\n놀거리\n\n[캡션]\n서울숲에서 열려 온 2026 서울국제정원박람회가 내일(27일) 막을 내립니다.\n\n5월 1일 개막해 180일 동안 이어진 박람회인데요, 서울숲과 성수동 일대에 정원 167개가 들어섰습니다. 프랑스 정원 작가 앙리 바바의 '흐르는 숲 아래 정원', 이남진 작가의 '기다림의 정원' 같은 초청 정원도 이 안에 있습니다.\n\n정원 사이를 잇는 길 모양의 정원도 약 10km에 이릅니다. 올해 주제는 'Seoul, Green Culture'였습니다.\n\n기간: 10월 27일(화)까지\n장소: 서울 성동구 뚝섬로 273 서울숲 및 성수동 일대\n#SENE #서울국제정원박람회 #서울숲 #성수동 #정원\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004313/jeflobtnynpzbio3hjov.jpg\n제목: 서울숲 정원박람회,|내일이 마지막 날\n부제: 2026 서울국제정원박람회 · 10월 27일(화)까지\n출처: 서울시\n",
-    "caption": "서울숲에서 열려 온 2026 서울국제정원박람회가 내일(27일) 막을 내립니다.\n\n5월 1일 개막해 180일 동안 이어진 박람회인데요, 서울숲과 성수동 일대에 정원 167개가 들어섰습니다. 프랑스 정원 작가 앙리 바바의 '흐르는 숲 아래 정원', 이남진 작가의 '기다림의 정원' 같은 초청 정원도 이 안에 있습니다.\n\n정원 사이를 잇는 길 모양의 정원도 약 10km에 이릅니다. 올해 주제는 'Seoul, Green Culture'였습니다.\n\n기간: 10월 27일(화)까지\n장소: 서울 성동구 뚝섬로 273 서울숲 및 성수동 일대\n#SENE #서울국제정원박람회 #서울숲 #성수동 #정원",
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n서울숲에서 열려 온 2026 서울국제정원박람회가 내일(27일) 막을 내립니다.\n\n5월 1일 개막해 180일 동안 이어진 박람회인데요, 서울숲과 성수동 일대에 정원 167개가 들어섰습니다. 프랑스 정원 작가 앙리 바바의 '흐르는 숲 아래 정원', 이남진 작가의 '기다림의 정원' 같은 초청 정원도 이 안에 있습니다.\n\n정원 사이를 잇는 길 모양의 정원도 약 10km에 이릅니다. 올해 주제는 'Seoul, Green Culture'였습니다.\n\n기간: 10월 27일(화)까지\n장소: 서울 성동구 서울숲 및 성수동 일대\n#SENE #서울국제정원박람회 #서울숲 #성수동 #정원\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004445/a2n58ph85gl3bdkjxmv0.jpg\n제목: 서울숲 정원박람회,|내일이 마지막 날\n부제: 2026 서울국제정원박람회 · 10월 27일(화)까지\n출처: 서울시\n",
+    "caption": "서울숲에서 열려 온 2026 서울국제정원박람회가 내일(27일) 막을 내립니다.\n\n5월 1일 개막해 180일 동안 이어진 박람회인데요, 서울숲과 성수동 일대에 정원 167개가 들어섰습니다. 프랑스 정원 작가 앙리 바바의 '흐르는 숲 아래 정원', 이남진 작가의 '기다림의 정원' 같은 초청 정원도 이 안에 있습니다.\n\n정원 사이를 잇는 길 모양의 정원도 약 10km에 이릅니다. 올해 주제는 'Seoul, Green Culture'였습니다.\n\n기간: 10월 27일(화)까지\n장소: 서울 성동구 서울숲 및 성수동 일대\n#SENE #서울국제정원박람회 #서울숲 #성수동 #정원",
     "photos": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004313/jeflobtnynpzbio3hjov.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004445/a2n58ph85gl3bdkjxmv0.jpg",
       "credit": "서울시",
       "from": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/05/cZrtCIhKMBXzGPoeqwGKgRdoOOofWXxw.jpg?ver=1.0"
      }
     ],
     "photo_pool": [
      {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004313/jeflobtnynpzbio3hjov.jpg",
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004445/a2n58ph85gl3bdkjxmv0.jpg",
       "credit": "서울시",
       "from": "https://mediahub.seoul.go.kr/uploads/mediahub/2026/05/cZrtCIhKMBXzGPoeqwGKgRdoOOofWXxw.jpg?ver=1.0"
      }
@@ -3628,90 +3696,15 @@
       "link": "https://biz.heraldcorp.com/article/10733593"
      }
     ],
-    "by": "claude",
-    "preview": {
-     "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004331/qizfiw3gtrikktfs9qjr.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004330/o6gebfgnscsq2fclcv0x.jpg"
-     ],
-     "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004334/duvvukg6osfim2xnruhu.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004331/qizfiw3gtrikktfs9qjr.jpg"
-     },
-     "cvr": 2,
-     "at": "2026-10-26T17:45+09:00",
-     "v": {
-      "A": "22296e6e",
-      "B": "3d55b1ae",
-      "E": "f40a7a7c",
-      "J": "bf8809f2"
-     }
-    }
+    "by": "claude"
    },
    "pick": {
     "rank": 3,
     "why": "180일 이어진 서울숲 정원박람회가 내일 끝난다 — 퇴근길에 보면 바로 움직일 수 있는 마지막 날 소식",
-    "at": "2026-10-26T17:45+09:00"
+    "at": "2026-10-26T17:47+09:00"
    },
-   "i18n_queued": "2026-10-26T17:45+09:00",
-   "corner_name": "소식",
-   "i18n": {
-    "at": "2026-10-26T17:46+09:00",
-    "confirm": [
-     "영문 행사명: Korea JoongAng Daily 표기 'Seoul International Garden Show' 를 썼습니다. 서울시 공식 영문 표기가 Expo/Show 중 무엇인지 확인 필요",
-     "앙리 바바 작품 영문명: 기사는 'Garden Beneath the Flowing Forest', 서울시 3월 자료는 'The garden of eternal flow' — 최종 공식 표기 확인 필요",
-     "이남진 작가 '기다림의 정원' 영문·일본어 공식 표기를 찾지 못해 직역했습니다 (Garden of Waiting · 待つことの庭園). 작가 로마자 표기(Lee Nam-jin)도 확인 필요",
-     "정원 수 167개는 매체마다 160·167로 다릅니다 — 원문 그대로 167 유지",
-     "영어·일본어 · 초청 정원 이름('Garden Beneath the Flowing Forest'·'Garden of Waiting' / 「流れる森の下の庭園」·「待つことの庭園」)은 번역한 이름입니다 — 서울시나 박람회 쪽 공식 영문·일문 표기가 있으면 그걸로 바꿔야 합니다.",
-     "일본어 · 'イ・ナムジン（이남진）' 괄호 안 한글은 번역 규칙(처음 한 번 원어 병기)대로 두었습니다. 다만 일본 독자는 읽기 어려우니 빼도 될지 정해 주세요.",
-     "날짜 확인 · 10월 27일은 화요일, 5월 1일부터 10월 27일까지 첫날·마지막 날을 포함하면 180일로 원문과 맞습니다. 올리는 날(26일)이 바뀌면 '내일/tomorrow/明日' 표현을 고쳐야 합니다."
-    ],
-    "review": {
-     "at": "2026-10-26T17:46+09:00",
-     "fixes": [
-      "영어 · 캡션 셋째 단락 · 'Gardens laid out as paths link the others, stretching about 10 km in total' → 'Path-shaped gardens linking the sites stretch about 10 km in total.' — 직역투에 주어·목적어가 헷갈리게 읽혀서"
-     ],
-     "doubt": [
-      "영어·일본어 · 초청 정원 이름('Garden Beneath the Flowing Forest'·'Garden of Waiting' / 「流れる森の下の庭園」·「待つことの庭園」)은 번역한 이름입니다 — 서울시나 박람회 쪽 공식 영문·일문 표기가 있으면 그걸로 바꿔야 합니다.",
-      "일본어 · 'イ・ナムジン（이남진）' 괄호 안 한글은 번역 규칙(처음 한 번 원어 병기)대로 두었습니다. 다만 일본 독자는 읽기 어려우니 빼도 될지 정해 주세요.",
-      "날짜 확인 · 10월 27일은 화요일, 5월 1일부터 10월 27일까지 첫날·마지막 날을 포함하면 180일로 원문과 맞습니다. 올리는 날(26일)이 바뀌면 '내일/tomorrow/明日' 표현을 고쳐야 합니다."
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nThe 2026 Seoul International Garden Show at Seoul Forest closes tomorrow, Oct 27.\n\nThe show opened on May 1 and has run for 180 days, filling Seoul Forest and the surrounding Seongsu-dong area with 167 gardens. They include invited gardens such as 'Garden Beneath the Flowing Forest' by French garden designer Henri Bava and 'Garden of Waiting' by designer Lee Nam-jin.\n\nPath-shaped gardens linking the sites stretch about 10 km in total. This year's theme was 'Seoul, Green Culture.'\n\nDates: Through Tue, Oct 27\nLocation: Seoul Forest and the Seongsu-dong area, 273 Ttukseom-ro, Seongdong-gu, Seoul\n#SENE #SeoulGardenShow #SeoulForest #Seongsu #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004313/jeflobtnynpzbio3hjov.jpg\n제목: Seoul Forest Garden Show|Ends Tomorrow\n부제: 2026 Seoul International Garden Show · Through Tue, Oct 27\n출처: Seoul Metropolitan Government\n",
-      "caption": "The 2026 Seoul International Garden Show at Seoul Forest closes tomorrow, Oct 27.\n\nThe show opened on May 1 and has run for 180 days, filling Seoul Forest and the surrounding Seongsu-dong area with 167 gardens. They include invited gardens such as 'Garden Beneath the Flowing Forest' by French garden designer Henri Bava and 'Garden of Waiting' by designer Lee Nam-jin.\n\nPath-shaped gardens linking the sites stretch about 10 km in total. This year's theme was 'Seoul, Green Culture.'\n\nDates: Through Tue, Oct 27\nLocation: Seoul Forest and the Seongsu-dong area, 273 Ttukseom-ro, Seongdong-gu, Seoul\n#SENE #SeoulGardenShow #SeoulForest #Seongsu #SeoulTravel",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004387/mcb1lvmerjvvgcrzjmjn.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004386/f9hznu23r7gj8y3x62f7.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004387/mcb1lvmerjvvgcrzjmjn.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-10-26T17:46+09:00"
-      }
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nソウルの森で開かれてきた2026ソウル国際庭園博覧会が、明日（27日）閉幕します。\n\n5月1日に開幕し、180日間続いた博覧会で、ソウルの森と聖水洞（ソンスドン）一帯に167の庭園が設けられました。フランスの庭園作家アンリ・バヴァ（Henri Bava）の「流れる森の下の庭園」、イ・ナムジン（이남진）作家の「待つことの庭園」といった招待庭園もこの中にあります。\n\n庭園と庭園をつなぐ、道のかたちをした庭園も約10kmに及びます。今年のテーマは「Seoul, Green Culture」でした。\n\n期間：10月27日（火）まで\n場所：ソウル・城東区（ソンドング）トゥクソム路273 ソウルの森および聖水洞一帯\n#SENE #ソウル国際庭園博覧会 #ソウルの森 #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004313/jeflobtnynpzbio3hjov.jpg\n제목: ソウルの森の庭園博、|明日が最終日\n부제: 2026ソウル国際庭園博覧会・10月27日（火）まで\n출처: ソウル市\n",
-      "caption": "ソウルの森で開かれてきた2026ソウル国際庭園博覧会が、明日（27日）閉幕します。\n\n5月1日に開幕し、180日間続いた博覧会で、ソウルの森と聖水洞（ソンスドン）一帯に167の庭園が設けられました。フランスの庭園作家アンリ・バヴァ（Henri Bava）の「流れる森の下の庭園」、イ・ナムジン（이남진）作家の「待つことの庭園」といった招待庭園もこの中にあります。\n\n庭園と庭園をつなぐ、道のかたちをした庭園も約10kmに及びます。今年のテーマは「Seoul, Green Culture」でした。\n\n期間：10月27日（火）まで\n場所：ソウル・城東区（ソンドング）トゥクソム路273 ソウルの森および聖水洞一帯\n#SENE #ソウル国際庭園博覧会 #ソウルの森 #聖水 #韓国旅行",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004390/awl8mbmtjaaw8carfbeo.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004389/hjouboqgy1qbxvoeyxtc.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004390/awl8mbmtjaaw8carfbeo.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-10-26T17:46+09:00"
-      }
-     }
-    }
-   }
+   "i18n_queued": "2026-10-26T17:47+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -3842,7 +3835,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T17:46+09:00"
+  "at": "2026-10-26T17:47+09:00"
  },
  "slots": {
   "basis": 0,
