@@ -170,7 +170,7 @@ header .count{
 /* SENE 숏폼 A2 (2026-10-26 확정 · generators/sene_short_overlay.py 와 같은 수치 — 카드뉴스 v2 의 틀)
      마스트헤드 SENE. (64,236) 46px · 마침표 로즈 · 그 아래 y310 종이색 가는 줄 · 오른쪽 끝 영문 카테고리 22px
      헤드라인         왼쪽 64 · 88px(64 까지) · 2줄까지 · 종이색 · 바닥 y1226 · 폭 816 · *낱말* 은 로즈
-     말자막           종이색 상자 · 먹색 Bold 40 · 상자 바닥 y1368
+     말자막           PLOT 결 — 종이색 Bold 54 · 먹색 외곽선·그림자 · 글자 바닥 y1368
      아래 띠          y1384 가는 줄(64→880) · SELECT EVERY NEW EDIT · 오른쪽 880 끝에 출처 22px
      그라디언트       먹색 — 위 120~480 스크림 160→0 · 860→1240 α 0→205 · 1440 까지 205 · 맨 아래 110
    좌표는 PIL 처럼 '글자 상자 위'(ascender) 기준이라, CSS 에서는 기준선을 맞춰 top 을 계산한다 (app.js paintFrame). */
@@ -303,16 +303,16 @@ details.formFold>summary{cursor:pointer; font-size:12.5px; color:var(--faint); p
 }
 
 
-/* 재생 미리보기 — 완성본 / 구간 칸, 말자막 (SENE A2 말자막: 종이색 상자 · 먹색 Bold 40 · 왼쪽 x64 · 상자 바닥 y1368) */
+/* 재생 미리보기 — 완성본 / 구간 칸, 말자막 (SENE A2 말자막 · PLOT 결: 종이색 Bold 54 · 먹색 외곽선·그림자 · 왼쪽 x64 · 글자 바닥 y1368) */
 .ppTabs{display:flex; gap:6px; padding:0 14px 8px; flex:none}
 .ppTabs[hidden]{display:none}
 .ppTab{flex:1; background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.16); color:rgba(255,255,255,.75);
   border-radius:8px; font:inherit; font-size:13.5px; font-weight:700; padding:8px; cursor:pointer}
 .ppTab.on{background:#fff; color:#000; border-color:#fff}
 .ppTab[hidden]{display:none}
-.ppOver .sub{position:absolute; left:64px; max-width:776px; bottom:552px; top:auto; transform:none;
-  text-align:left; color:#242220; background:rgba(245,242,236,.95); border-radius:10px; padding:12px 20px;
-  font-family:Pretendard,sans-serif; font-weight:700; font-size:40px; line-height:1.3;
+.ppOver .sub{position:absolute; left:64px; max-width:816px; bottom:552px; top:auto; transform:none;
+  text-align:left; color:#F5F2EC; font-family:Pretendard,sans-serif; font-weight:700; font-size:54px; line-height:1.3;
+  -webkit-text-stroke:6px rgba(36,34,32,.84); paint-order:stroke fill; text-shadow:0 4px 12px rgba(0,0,0,.6), 0 0 22px rgba(0,0,0,.45);
   text-wrap:balance; white-space:pre-line}
 .ppOver .sub:empty{display:none}
 .ppOver[hidden]{display:none}
@@ -5242,9 +5242,9 @@ window.addEventListener('resize', () => { if ($('#ppSubList') && $('#ppSubList')
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.26 20:42';
+    a.title = '판 10.26 21:04';
     var ver = document.createElement('span');
-    ver.textContent = '10.26 20:42';
+    ver.textContent = '10.26 21:04';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);

@@ -286,6 +286,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "i18n_queued": "2026-10-26T03:46+09:00",
@@ -903,6 +907,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "corner_name": "소식",
@@ -1442,6 +1450,10 @@
      "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793012961/sene_studio/kdjckp4y6jxrhfhunz1m.mp4",
      "at": "2026-10-26T20:09+09:00",
      "file": "NolGe_HaessGo_IJeNeun_JaeUGessDaGo_TeuLenDeu_no_lyrics.mp4"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "i18n_queued": "2026-10-26T11:22+09:00",
@@ -1899,6 +1911,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "i18n_queued": "2026-10-26T11:56+09:00",
@@ -2320,6 +2336,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "corner_name": "소식",
@@ -2664,6 +2684,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "i18n_queued": "2026-10-26T14:21+09:00",
@@ -3590,6 +3614,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "i18n_queued": "2026-10-26T17:01+09:00",
@@ -3883,6 +3911,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-26T21:04+09:00"
     }
    },
    "pick": {
@@ -4253,7 +4285,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T20:21+09:00"
+  "at": "2026-10-26T21:04+09:00"
  },
  "slots": {
   "basis": 0,
