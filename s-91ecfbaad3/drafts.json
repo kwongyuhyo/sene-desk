@@ -4483,8 +4483,8 @@
       "A": "9d197a81",
       "B": "01442c68",
       "C": "5b803895",
-      "E": "e63dfd29",
-      "J": "e4bad153"
+      "E": "af491f78",
+      "J": "80947a0f"
      }
     }
    },
@@ -4492,66 +4492,63 @@
    "corner_name": "정리",
    "corner_no": 1,
    "i18n": {
-    "at": "2026-10-27T00:16+09:00",
+    "at": "2026-10-27T00:18+09:00",
     "confirm": [
-     "짱구 체험전의 공식 영어·일본어 제목을 찾지 못했습니다 — 'Crayon Shin-chan: Let's Play! Space-Time Adventure', 『クレヨンしんちゃん あそぼ！時空大冒険』 은 제가 옮긴 제목입니다. 장소·기간·가격·bemill 예매는 기사(MTN·위키트리)와 일치합니다",
-     "'사쿠라와 토모요의 티파티'는 웹에서 확인되지 않았습니다 — 영어·일본어 공식 행사명이 있는지, 일본어 표기를 원작대로 '知世'로 쓴 것이 맞는지 봐 주세요",
-     "롬앤 핑크오피스의 공식 영어 표기(PINK OFFICE / Pink Office)와 무신사 스페이스 서울숲의 영문 표기(MUSINSA Space Seoul Forest)는 확인하지 못했습니다",
-     "캐릭터 이름은 원작 이름으로 옮겼습니다 — 신형만·봉미선·신짱아 → Hiroshi·Misae·Himawari / ひろし・みさえ・ひまわり, 떡잎마을 → Kasukabe / 春日部",
-     "영어·일본어 · 짱구 체험전 제목 'Crayon Shin-chan: Let's Play! Space-Time Adventure' · 『クレヨンしんちゃん あそぼ！時空大冒険』 — 번역한 제목일 수 있습니다. 공식 영어·일본어 제목이 있는지 주최 계정(@shinchan_spacetime_kr)에서 확인해 주세요.",
-     "영어·일본어 · 예약 앱 표기 'POPGA'와 'bemill', 일본어 'bemill（ビミル）'의 읽기 — 공식 대소문자와 표기를 확인하지 않았습니다.",
-     "영어 · 'In Seoul Forest' — 무신사 스페이스 서울숲이 공원 안이 아니면 'Near Seoul Forest'가 정확합니다. 위치를 확인해 주세요.",
-     "영어·일본어 · 'January next year'·「来年1月」 — 게시 시점 기준 말입니다. 올해 안에 올린다면 문제없습니다."
+     "짱구 체험전의 공식 영어·일본어 제목을 찾지 못했습니다. 영어 'Crayon Shin-chan! Let's Play! Space-Time Adventure'와 일본어 『クレヨンしんちゃん！遊ぼう！時空大冒険』은 SENE이 직역한 것입니다. 주최사 닷밀의 공식 표기가 있으면 그걸로 바꿔 주세요.",
+     "'사쿠라와 토모요의 티파티'의 공식 영어·일본어 이름과, 무신사 스페이스 서울숲에서 열린다는 사실 자체를 검색으로 확인하지 못했습니다. 영어 'Sakura and Tomoyo's Tea Party'와 일본어 「さくらと知世のティーパーティー」도 직역이니 무신사·팝가 공지에서 확인해 주세요.",
+     "'떡잎마을'은 원작 지명인 영어 'Shin-chan's hometown', 일본어 「春日部」로 옮겼습니다. 체험전 안 구역 이름을 영어로 따로 표기하고 있다면 그 표기에 맞춰 주세요.",
+     "장소 이름 'MUSINSA SPACE Seoul Forest', 「ムシンサ スペース ソウルの森」, 'POPGA', 'bemill'의 대소문자는 공식 표기를 확인하지 못했습니다. 팝가는 사이트 주소(popga.co.kr)를 보고 적었습니다.",
+     "인용 출처: https://news.mtn.co.kr/article/2026101616170878985 · https://www.wikitree.co.kr/articles/1166763 · https://popga.co.kr/zh/popup/8902",
+     "영어·일본어 · 짱구 체험전 제목 · 'Crayon Shin-chan! Let's Play! Space-Time Adventure' / 『クレヨンしんちゃん！遊ぼう！時空大冒険』은 직역입니다. 공식 영어·일본어 제목이 있는지 주최 측(@shinchan_spacetime_kr)에서 확인해 주세요",
+     "영어·일본어 · 예약 플랫폼 '팝가'를 POPGA로 옮겼습니다. 공식 영문 표기(대소문자)가 맞는지 확인해 주세요. 한국어 본문의 '팝가'도 오타가 아닌지 함께 봐 주세요",
+     "영어·일본어 · 해시태그가 6개로, 규칙(#SENE 뒤 4~5개)보다 하나 많습니다. 한국어 원문 개수를 따른 것이라 그대로 두었습니다"
     ],
     "review": {
-     "at": "2026-10-27T00:16+09:00",
-     "fixes": [
-      "영어 · 캡션 셋째 단락 · takes reservations only, for every seat → is reservation-only for all seats — 직역투라 어색함"
-     ],
+     "at": "2026-10-27T00:18+09:00",
+     "fixes": [],
      "doubt": [
-      "영어·일본어 · 짱구 체험전 제목 'Crayon Shin-chan: Let's Play! Space-Time Adventure' · 『クレヨンしんちゃん あそぼ！時空大冒険』 — 번역한 제목일 수 있습니다. 공식 영어·일본어 제목이 있는지 주최 계정(@shinchan_spacetime_kr)에서 확인해 주세요.",
-      "영어·일본어 · 예약 앱 표기 'POPGA'와 'bemill', 일본어 'bemill（ビミル）'의 읽기 — 공식 대소문자와 표기를 확인하지 않았습니다.",
-      "영어 · 'In Seoul Forest' — 무신사 스페이스 서울숲이 공원 안이 아니면 'Near Seoul Forest'가 정확합니다. 위치를 확인해 주세요.",
-      "영어·일본어 · 'January next year'·「来年1月」 — 게시 시점 기준 말입니다. 올해 안에 올린다면 문제없습니다."
+      "영어·일본어 · 짱구 체험전 제목 · 'Crayon Shin-chan! Let's Play! Space-Time Adventure' / 『クレヨンしんちゃん！遊ぼう！時空大冒険』은 직역입니다. 공식 영어·일본어 제목이 있는지 주최 측(@shinchan_spacetime_kr)에서 확인해 주세요",
+      "영어·일본어 · 예약 플랫폼 '팝가'를 POPGA로 옮겼습니다. 공식 영문 표기(대소문자)가 맞는지 확인해 주세요. 한국어 본문의 '팝가'도 오타가 아닌지 함께 봐 주세요",
+      "영어·일본어 · 해시태그가 6개로, 규칙(#SENE 뒤 4~5개)보다 하나 많습니다. 한국어 원문 개수를 따른 것이라 그대로 두었습니다"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nHere are three pop-ups in Seongsu-dong and Seoul Forest this November, listed by date.\n\nThe first to close is rom&nd's Pink Office (@romand_pinkoffice). To mark the brand's 10th anniversary, the space is set up as a birthday party and runs through Nov 10. On Yeonmujang 5-gil, the Crayon Shin-chan experience has visitors walk through Kasukabe and use a dedicated app and QR codes to find and collect Hiroshi, Misae and Himawari. It runs until January next year.\n\nIn Seoul Forest, the Cardcaptor Sakura collaboration café is reservation-only for all seats. It also carries merchandise sold in Japan last year, and that merchandise is available only to visitors with a reservation.\n\nrom&nd 10th Birthday Party: Until Nov 10 (Tue) · Pink Office, 88 Yeonmujang-gil, Seongdong-gu, Seoul\n'Crayon Shin-chan: Let's Play! Space-Time Adventure': Oct 17 (Sat) – Jan 24, 2027 (Sun) · 9-29 Yeonmujang 5-gil, Seongdong-gu, Seoul · Daily 11:00–20:00 · Adults KRW 23,000, Children KRW 20,000 · Tickets: bemill\nSakura and Tomoyo's Tea Party: Nov 11 (Wed) – Nov 29 (Sun) · MUSINSA Space Seoul Forest · Reservations: POPGA, from Nov 4 (Wed)\n\n#SENE #SeoulPopup #Seongsu #SeoulForest #romand #CrayonShinchan\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027683/vtpwhshpxck4rxp9vzxy.jpg\n제목: Three Seongsu Pop-ups|for November, by Date\n부제: rom&nd 10th Anniversary · Crayon Shin-chan Experience · Cardcaptor Sakura Café\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: rom&nd 10th Birthday Party\n본문: Until Nov 10 (Tue)|Pink Office, 88 Yeonmujang-gil, Seongdong-gu\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027685/lpwguhq2vtszxhldekzh.jpg\n소제목: 'Crayon Shin-chan: Let's Play! Space-Time Adventure'\n본문: Oct 17 (Sat) – Jan 24, 2027 (Sun)|9-29 Yeonmujang 5-gil, Seongdong-gu|Daily 11:00–20:00|Adults KRW 23,000 · Children KRW 20,000\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: Sakura and Tomoyo's Tea Party\n본문: Nov 11 (Wed) – Nov 29 (Sun)|MUSINSA Space Seoul Forest|All seats by reservation · Booking on POPGA from Nov 4 (Wed)\n출처: \n",
-      "caption": "Here are three pop-ups in Seongsu-dong and Seoul Forest this November, listed by date.\n\nThe first to close is rom&nd's Pink Office (@romand_pinkoffice). To mark the brand's 10th anniversary, the space is set up as a birthday party and runs through Nov 10. On Yeonmujang 5-gil, the Crayon Shin-chan experience has visitors walk through Kasukabe and use a dedicated app and QR codes to find and collect Hiroshi, Misae and Himawari. It runs until January next year.\n\nIn Seoul Forest, the Cardcaptor Sakura collaboration café is reservation-only for all seats. It also carries merchandise sold in Japan last year, and that merchandise is available only to visitors with a reservation.\n\nrom&nd 10th Birthday Party: Until Nov 10 (Tue) · Pink Office, 88 Yeonmujang-gil, Seongdong-gu, Seoul\n'Crayon Shin-chan: Let's Play! Space-Time Adventure': Oct 17 (Sat) – Jan 24, 2027 (Sun) · 9-29 Yeonmujang 5-gil, Seongdong-gu, Seoul · Daily 11:00–20:00 · Adults KRW 23,000, Children KRW 20,000 · Tickets: bemill\nSakura and Tomoyo's Tea Party: Nov 11 (Wed) – Nov 29 (Sun) · MUSINSA Space Seoul Forest · Reservations: POPGA, from Nov 4 (Wed)\n\n#SENE #SeoulPopup #Seongsu #SeoulForest #romand #CrayonShinchan",
+      "form": "[카테고리]\n공간\n\n[캡션]\nThree pop-ups in Seongsu-dong and Seoul Forest this November, listed by date.\n\nThe first to close is rom&nd's Pink Office (@romand_pinkoffice), where the brand marks its 10th anniversary with a space styled as a birthday party, open through Nov 10. Over on Yeonmujang 5-gil, the Crayon Shin-chan exhibition has visitors walk through Shin-chan's hometown, using a dedicated app and QR codes to find and collect Hiroshi, Misae and Himawari. It runs until January next year.\n\nIn Seoul Forest, a Cardcaptor Sakura collaboration café runs with every seat booked in advance. Merchandise sold in Japan last year is also available, but only to visitors with a reservation.\n\nrom&nd 10th Birthday Party: through Nov 10 (Tue) · Pink Office, 88 Yeonmujang-gil, Seongdong-gu, Seoul\n'Crayon Shin-chan! Let's Play! Space-Time Adventure': Oct 17 (Sat) – Jan 24, 2027 (Sun) · 9-29 Yeonmujang 5-gil, Seongdong-gu, Seoul · Daily 11:00–20:00 · Adults KRW 23,000, children KRW 20,000 · Tickets: bemill\nSakura and Tomoyo's Tea Party: Nov 11 (Wed) – Nov 29 (Sun) · MUSINSA SPACE Seoul Forest · Reservations: from Nov 4 (Wed) on POPGA\n\n#SENE #SeoulPopup #Seongsu #SeoulForest #romand #CrayonShinchan\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027683/vtpwhshpxck4rxp9vzxy.jpg\n제목: November in Seongsu|Three Pop-ups by Date\n부제: rom&nd 10th Anniversary · Crayon Shin-chan Exhibition · Cardcaptor Sakura Café\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: rom&nd 10th Birthday Party\n본문: Through Nov 10 (Tue)|Pink Office, 88 Yeonmujang-gil, Seongdong-gu\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027685/lpwguhq2vtszxhldekzh.jpg\n소제목: 'Crayon Shin-chan! Let's Play! Space-Time Adventure'\n본문: Oct 17 (Sat) – Jan 24, 2027 (Sun)|9-29 Yeonmujang 5-gil, Seongdong-gu|Daily 11:00–20:00|Adults KRW 23,000 · Children KRW 20,000\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: Sakura and Tomoyo's Tea Party\n본문: Nov 11 (Wed) – Nov 29 (Sun)|MUSINSA SPACE Seoul Forest|All seats by reservation · Booking opens Nov 4 (Wed) on POPGA\n출처: \n",
+      "caption": "Three pop-ups in Seongsu-dong and Seoul Forest this November, listed by date.\n\nThe first to close is rom&nd's Pink Office (@romand_pinkoffice), where the brand marks its 10th anniversary with a space styled as a birthday party, open through Nov 10. Over on Yeonmujang 5-gil, the Crayon Shin-chan exhibition has visitors walk through Shin-chan's hometown, using a dedicated app and QR codes to find and collect Hiroshi, Misae and Himawari. It runs until January next year.\n\nIn Seoul Forest, a Cardcaptor Sakura collaboration café runs with every seat booked in advance. Merchandise sold in Japan last year is also available, but only to visitors with a reservation.\n\nrom&nd 10th Birthday Party: through Nov 10 (Tue) · Pink Office, 88 Yeonmujang-gil, Seongdong-gu, Seoul\n'Crayon Shin-chan! Let's Play! Space-Time Adventure': Oct 17 (Sat) – Jan 24, 2027 (Sun) · 9-29 Yeonmujang 5-gil, Seongdong-gu, Seoul · Daily 11:00–20:00 · Adults KRW 23,000, children KRW 20,000 · Tickets: bemill\nSakura and Tomoyo's Tea Party: Nov 11 (Wed) – Nov 29 (Sun) · MUSINSA SPACE Seoul Forest · Reservations: from Nov 4 (Wed) on POPGA\n\n#SENE #SeoulPopup #Seongsu #SeoulForest #romand #CrayonShinchan",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027796/pvi2cccvetx6fftga4hb.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027795/gt6i2vuskwc0ykcbvlzr.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027796/z6dtrl0uftv632megzfx.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027796/dqha3zxeolwcuwxxuqmo.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027796/kp1uvsrmaidhtuqswvkg.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027885/nrwplq3fro5ubr3zbv41.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027885/vw7ztep9l5tbgapcpojr.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027885/ao3emwtvgeau4x31tx0c.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027885/dd52dyxxfmgd3apomvag.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027887/nfn45xgfx4ha64ccldgx.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027796/pvi2cccvetx6fftga4hb.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027885/nrwplq3fro5ubr3zbv41.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T00:16+09:00"
+       "at": "2026-10-27T00:18+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\n11月にソウル・聖水洞（ソンスドン）とソウルの森で楽しめるポップアップ3カ所を、日付順にまとめました。\n\nいちばん早く終わるのは、ロムアンド（rom&nd）のピンクオフィス（@romand_pinkoffice）です。ブランド10周年を記念してバースデーパーティー仕立てにした空間で、11月10日まで開かれます。ヨンムジャン5ギルのクレヨンしんちゃん体験展は、来場者が春日部の街を巡りながら、専用アプリとQRコードでひろし・みさえ・ひまわりを見つけて集める仕組みで、来年1月まで続きます。\n\nソウルの森のカードキャプターさくらコラボカフェは、全席事前予約制です。昨年日本で販売されたグッズも並びますが、グッズも予約して来店した人だけが購入できます。\n\nロムアンド10周年バースデーパーティー：〜11月10日（火）· ソウル・城東区ヨンムジャンギル88 ピンクオフィス\n『クレヨンしんちゃん あそぼ！時空大冒険』：10月17日（土）〜2027年1月24日（日）· ソウル・城東区ヨンムジャン5ギル9-29 · 毎日11:00〜20:00 · 一般23,000ウォン、子ども20,000ウォン · 予約：bemill（ビミル）\nさくらと知世のティーパーティー：11月11日（水）〜11月29日（日）· ムシンサ スペース ソウルの森（무신사 스페이스 서울숲）· 予約：11月4日（水）からPOPGA（팝가）\n\n#SENE #韓国旅行 #聖水 #ソウルの森 #ロムアンド #クレヨンしんちゃん\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027683/vtpwhshpxck4rxp9vzxy.jpg\n제목: 11月の聖水ポップアップ|3カ所を日付順に\n부제: ロムアンド10周年 · クレヨンしんちゃん体験展 · カードキャプターさくらカフェ\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: ロムアンド10周年バースデーパーティー\n본문: 〜11月10日（火）|城東区ヨンムジャンギル88 ピンクオフィス\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027685/lpwguhq2vtszxhldekzh.jpg\n소제목: 『クレヨンしんちゃん あそぼ！時空大冒険』\n본문: 10月17日（土）〜2027年1月24日（日）|城東区ヨンムジャン5ギル9-29|毎日11:00〜20:00|一般23,000ウォン · 子ども20,000ウォン\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: さくらと知世のティーパーティー\n본문: 11月11日（水）〜11月29日（日）|ムシンサ スペース ソウルの森|全席事前予約制 · 11月4日（水）からPOPGAで予約\n출처: \n",
-      "caption": "11月にソウル・聖水洞（ソンスドン）とソウルの森で楽しめるポップアップ3カ所を、日付順にまとめました。\n\nいちばん早く終わるのは、ロムアンド（rom&nd）のピンクオフィス（@romand_pinkoffice）です。ブランド10周年を記念してバースデーパーティー仕立てにした空間で、11月10日まで開かれます。ヨンムジャン5ギルのクレヨンしんちゃん体験展は、来場者が春日部の街を巡りながら、専用アプリとQRコードでひろし・みさえ・ひまわりを見つけて集める仕組みで、来年1月まで続きます。\n\nソウルの森のカードキャプターさくらコラボカフェは、全席事前予約制です。昨年日本で販売されたグッズも並びますが、グッズも予約して来店した人だけが購入できます。\n\nロムアンド10周年バースデーパーティー：〜11月10日（火）· ソウル・城東区ヨンムジャンギル88 ピンクオフィス\n『クレヨンしんちゃん あそぼ！時空大冒険』：10月17日（土）〜2027年1月24日（日）· ソウル・城東区ヨンムジャン5ギル9-29 · 毎日11:00〜20:00 · 一般23,000ウォン、子ども20,000ウォン · 予約：bemill（ビミル）\nさくらと知世のティーパーティー：11月11日（水）〜11月29日（日）· ムシンサ スペース ソウルの森（무신사 스페이스 서울숲）· 予約：11月4日（水）からPOPGA（팝가）\n\n#SENE #韓国旅行 #聖水 #ソウルの森 #ロムアンド #クレヨンしんちゃん",
+      "form": "[카테고리]\n공간\n\n[캡션]\n11月にソウル・聖水洞（ソンスドン）とソウルの森（ソウルスプ）で楽しめるポップアップ3カ所を、日付順にまとめました。\n\n最初に終わるのはロムアンド（rom&nd）のピンクオフィス（@romand_pinkoffice）です。ブランド10周年を記念してバースデーパーティー仕立てにした空間が、11月10日まで開かれます。練武場（ヨンムジャン）5キルのクレヨンしんちゃん体験展は、春日部の町を巡りながら専用アプリとQRコードでひろし・みさえ・ひまわりを探して集める仕組みで、来年1月まで続きます。\n\nソウルの森のカードキャプターさくらコラボカフェは、全席事前予約制で運営されます。昨年日本で販売されたグッズも並びますが、グッズを購入できるのも予約して来場した人だけです。\n\nロムアンド10周年バースデーパーティー：〜11月10日（火）・ソウル・城東区 練武場キル88 ピンクオフィス\n『クレヨンしんちゃん！遊ぼう！時空大冒険』：10月17日（土）〜2027年1月24日（日）・ソウル・城東区 練武場5キル9-29・毎日11:00〜20:00・一般23,000ウォン、子ども20,000ウォン・チケット：bemill\nさくらと知世のティーパーティー：11月11日（水）〜11月29日（日）・ムシンサ スペース ソウルの森・予約：11月4日（水）からPOPGA\n\n#SENE #韓国旅行 #聖水 #ソウルの森 #ロムアンド #クレヨンしんちゃん\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027683/vtpwhshpxck4rxp9vzxy.jpg\n제목: 11月の聖水ポップアップ|3カ所を日付順に\n부제: ロムアンド10周年・クレヨンしんちゃん体験展・カードキャプターさくらカフェ\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: ロムアンド10周年バースデーパーティー\n본문: 〜11月10日（火）|城東区 練武場キル88 ピンクオフィス\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793027685/lpwguhq2vtszxhldekzh.jpg\n소제목: 『クレヨンしんちゃん！遊ぼう！時空大冒険』\n본문: 10月17日（土）〜2027年1月24日（日）|城東区 練武場5キル9-29|毎日11:00〜20:00|一般23,000ウォン・子ども20,000ウォン\n출처: @shinchan_spacetime_kr\n\n[슬라이드]\n소스: \n소제목: さくらと知世のティーパーティー\n본문: 11月11日（水）〜11月29日（日）|ムシンサ スペース ソウルの森|全席事前予約制・11月4日（水）からPOPGAで受付\n출처: \n",
+      "caption": "11月にソウル・聖水洞（ソンスドン）とソウルの森（ソウルスプ）で楽しめるポップアップ3カ所を、日付順にまとめました。\n\n最初に終わるのはロムアンド（rom&nd）のピンクオフィス（@romand_pinkoffice）です。ブランド10周年を記念してバースデーパーティー仕立てにした空間が、11月10日まで開かれます。練武場（ヨンムジャン）5キルのクレヨンしんちゃん体験展は、春日部の町を巡りながら専用アプリとQRコードでひろし・みさえ・ひまわりを探して集める仕組みで、来年1月まで続きます。\n\nソウルの森のカードキャプターさくらコラボカフェは、全席事前予約制で運営されます。昨年日本で販売されたグッズも並びますが、グッズを購入できるのも予約して来場した人だけです。\n\nロムアンド10周年バースデーパーティー：〜11月10日（火）・ソウル・城東区 練武場キル88 ピンクオフィス\n『クレヨンしんちゃん！遊ぼう！時空大冒険』：10月17日（土）〜2027年1月24日（日）・ソウル・城東区 練武場5キル9-29・毎日11:00〜20:00・一般23,000ウォン、子ども20,000ウォン・チケット：bemill\nさくらと知世のティーパーティー：11月11日（水）〜11月29日（日）・ムシンサ スペース ソウルの森・予約：11月4日（水）からPOPGA\n\n#SENE #韓国旅行 #聖水 #ソウルの森 #ロムアンド #クレヨンしんちゃん",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027801/m2lmqpplraxvljy40qaq.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027800/yptkbxnc4zkc4zmgvbxg.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027801/wamoxrexiptrfkcxym2v.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027801/cmf9lkvukyqhau4lbmxt.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027802/smdbdsdx96nm9w4cq6en.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027891/sxcia9ikwj8c7rwqhjql.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027890/q6seh7fdgrerzajqqv26.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027891/h5fsy9iehq7y4xmhr0uq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027891/vnyqgoipqbp20t5qzna7.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027892/g5nautt57xheszq2ycdw.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027801/m2lmqpplraxvljy40qaq.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793027891/sxcia9ikwj8c7rwqhjql.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T00:16+09:00"
+       "at": "2026-10-27T00:18+09:00"
       }
      }
     }
@@ -4686,7 +4683,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T00:16+09:00"
+  "at": "2026-10-27T00:18+09:00"
  },
  "slots": {
   "basis": 0,
