@@ -37,9 +37,9 @@
    "만듦": 8,
    "못 만듦": 5
   },
-  "runs": 254,
+  "runs": 256,
   "run_fail": 0,
-  "avg_secs": 76,
+  "avg_secs": 75,
   "denied": 1,
   "auto": {
    "올림": 0,
