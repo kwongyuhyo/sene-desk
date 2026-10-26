@@ -208,11 +208,11 @@
      "key": "DE8H52Dv068@270.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793016506/sene_studio/jn7zb5ajqjhtvjldnmdo.mp4",
-     "at": "2026-10-26T21:08+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793019506/sene_studio/azl4sfjdpymcvoyodp5c.mp4",
+     "at": "2026-10-26T21:58+09:00",
      "file": "Deo_JohEun_JagPumEul_ManDeul_Su_IssEul_Ge_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793016507220-c141d785",
+      "id": "st:1793019507879-c141d785",
       "segs": [
        {
         "start": 2.6,
@@ -286,10 +286,6 @@
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T21:16+09:00"
     }
    },
    "i18n_queued": "2026-10-26T03:46+09:00",
@@ -4525,7 +4521,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T21:52+09:00"
+  "at": "2026-10-26T21:58+09:00"
  },
  "slots": {
   "basis": 0,
