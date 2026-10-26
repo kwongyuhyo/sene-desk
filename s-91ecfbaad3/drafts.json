@@ -1434,38 +1434,29 @@
      "key": "qvTaAFu-yL8@147.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793016885/sene_studio/g4an3rvx9l9cdfbid3mi.mp4",
-     "at": "2026-10-26T21:14+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793019937/sene_studio/zut74mzx2bsnvadim3hv.mp4",
+     "at": "2026-10-26T22:05+09:00",
      "file": "NolGe_HaessGo_IJeNeun_JaeUGessDaGo_TeuLenDeu_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793016886808-25b857ee",
+      "id": "st:1793019938658-25b857ee",
       "segs": [
        {
-        "start": 3.1,
-        "end": 5.34,
-        "text": "vs. 일부러 온다면"
+        "start": 0.62,
+        "end": 24.78,
+        "text": "아무래도 이미 설명 Elder Swift"
        },
        {
-        "start": 5.34,
-        "end": 8.26,
-        "text": "그게 whistle Dylan"
+        "start": 24.78,
+        "end": 27.48,
+        "text": "Absolutely 20 branded 방송"
        },
        {
-        "start": 14.58,
-        "end": 19.68,
-        "text": "이것들 수증이라 rounded"
-       },
-       {
-        "start": 20.34,
-        "end": 26.3,
-        "text": "자신 분명 전날"
+        "start": 27.48,
+        "end": 28.72,
+        "text": "exponential posterior 같습니다"
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T21:16+09:00"
     }
    },
    "i18n_queued": "2026-10-26T11:22+09:00",
@@ -4517,7 +4508,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T22:02+09:00"
+  "at": "2026-10-26T22:05+09:00"
  },
  "slots": {
   "basis": 0,
