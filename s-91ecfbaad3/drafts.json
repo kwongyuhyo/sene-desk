@@ -2621,11 +2621,11 @@
      "key": "_J7PWd3A2PY@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793011805/sene_studio/ortphrhuigsdvegmdnk7.mp4",
-     "at": "2026-10-26T19:50+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793013358/sene_studio/ja7eqbxyjxiaivx3jeeq.mp4",
+     "at": "2026-10-26T20:15+09:00",
      "file": "OSeuKa_JuYeonSang_Hu_GeoLonDoeGo_IssSeubN_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793011806795-bdd85c48",
+      "id": "st:1793013359495-bdd85c48",
       "segs": [
        {
         "start": 0.0,
@@ -2654,20 +2654,16 @@
        },
        {
         "start": 24.24,
-        "end": 25.32,
-        "text": "산 자 빼고"
+        "end": 26.66,
+        "text": "산자 빼고 안 된 사람을"
        },
        {
-        "start": 25.32,
+        "start": 26.66,
         "end": 27.58,
-        "text": "안 된 사람을 그렇게 부르는 거 아시죠?"
+        "text": "그렇게 부르는 거 아시죠?"
        }
       ]
      }
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T20:00+09:00"
     }
    },
    "i18n_queued": "2026-10-26T14:21+09:00",
@@ -4265,7 +4261,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T20:13+09:00"
+  "at": "2026-10-26T20:15+09:00"
  },
  "slots": {
   "basis": 0,
