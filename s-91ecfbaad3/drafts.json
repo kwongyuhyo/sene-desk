@@ -135,20 +135,16 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792885311/k2ztv05uemv3xurb9gtj.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792885310/ij4imkpr2f4kkmphzxmj.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978368/droaukndpl3bzbvgddqg.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978367/rcywjo8zlaqzy1hkxdch.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792885314/t8v9xsvsjosxjmutyfal.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792885314/xbzwrcvuvddxzc1vroxh.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792885311/k2ztv05uemv3xurb9gtj.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978372/wbvzyg6m8ahncyfmsinp.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978372/q8rbuv2dtolmnx0p2ixm.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978368/droaukndpl3bzbvgddqg.jpg"
      },
-     "at": "2026-10-25T08:41+09:00",
-     "v": {
-      "A": "5fadc77c",
-      "B": "692f7177",
-      "C": "96266f3d"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:32+09:00"
     }
    },
    "shorts": {
@@ -290,7 +286,13 @@
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978538/ughzygyfwzlehrpintae.jpg",
+     "from": "https://www.etoday.co.kr/news/view/2639325"
+    }
+   ]
   },
   {
    "source": {
@@ -442,7 +444,13 @@
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978541/ack57rkzaounmobkys10.jpg",
+     "from": "https://www.globale.co.kr/news/articleView.html?idxno=41206"
+    }
+   ]
   },
   {
    "source": {
@@ -566,22 +574,16 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792900809/s10zo4olxryjmiwv5zlm.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792900808/d0rwly1v3lt1d3iqbchv.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978375/tl4zo9bfcspmyfy5qctp.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978374/zquj5b9i7kngkdnywj80.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792900812/duk9uitjerrieqlgthki.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792900812/cia6chvh7lct6v3rbfz6.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792900809/s10zo4olxryjmiwv5zlm.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978377/lzkjsxpsxoslj0lpwsze.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978377/stbxjhoys4iucc1oppbr.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978375/tl4zo9bfcspmyfy5qctp.jpg"
      },
-     "at": "2026-10-25T13:00+09:00",
-     "v": {
-      "A": "73f53056",
-      "B": "8ea01f3e",
-      "C": "64248d08",
-      "E": "76502ed0",
-      "J": "4de42113"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:32+09:00"
     },
     "photo_tried": {
      "0": [
@@ -775,7 +777,13 @@
     "rank": 3,
     "why": "오늘 숏폼 몫 — 방송 속 본인의 말로 서는 클립",
     "at": "2026-10-25T21:48+09:00"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978547/xyvlm9jjeojunvyqyrcq.jpg",
+     "from": "https://enter.etoday.co.kr/news/view/304217"
+    }
+   ]
   },
   {
    "source": {
@@ -877,20 +885,15 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792898794/wk2y6ttmnk4ai81hhwlt.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792898793/wccvhugn8erw50jijis1.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978380/u0s8b8juvgpvxfk1zebx.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978380/duzjd1lhlvlgdwucrf33.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792898796/yi2abb0qnybm7qrdfgjl.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792898794/wk2y6ttmnk4ai81hhwlt.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978383/url0wbdtdi7pm6ejz0jc.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978380/u0s8b8juvgpvxfk1zebx.jpg"
      },
-     "at": "2026-10-25T12:26+09:00",
-     "v": {
-      "A": "01582db9",
-      "B": "25adce89",
-      "E": "f0c3d99b",
-      "J": "aec9ca41"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     },
     "photo_tried": {
      "0": [
@@ -1103,7 +1106,13 @@
     "at": "2026-10-25T16:38+09:00",
     "account": "sene",
     "via": "api"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978553/bsxo2ftcogvmj6rnhv3g.jpg",
+     "from": "https://view.asiae.co.kr/article/2026102417432401893"
+    }
+   ]
   },
   {
    "source": {
@@ -1204,20 +1213,15 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896489/we58tqqjsvmmiazvtizo.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896488/cjzzadvctczr0krosluy.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978386/h5wijlxmdtag1smt48bq.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978385/a2sraicsujpnhpm0pnz4.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896491/hx3r5vllpvx20xx8uljd.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792896489/we58tqqjsvmmiazvtizo.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978389/qoxbrishclomoyvjwkz0.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978386/h5wijlxmdtag1smt48bq.jpg"
      },
-     "at": "2026-10-25T11:48+09:00",
-     "v": {
-      "A": "d6a48aeb",
-      "B": "83cc0baa",
-      "E": "044d3b28",
-      "J": "d9cc7cae"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
    "i18n_queued": "2026-10-25T11:47+09:00",
@@ -1278,7 +1282,13 @@
       }
      }
     }
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978560/izw9ticoo9gpoydjg21u.jpg",
+     "from": "https://tnnews.co.kr/archives/296436"
+    }
+   ]
   },
   {
    "source": {
@@ -1363,20 +1373,15 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792917967/qmucrjcjxbhctszqhfrv.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792917966/exckuejxvszi8odsq4bq.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978392/spbtye0qvr9cwuoq8uld.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978391/ols89byfweiojxv0jias.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792917969/lubyajbxd67pdmfuskft.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792917967/qmucrjcjxbhctszqhfrv.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978394/s5j0w2pag623reaoxqkp.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978392/spbtye0qvr9cwuoq8uld.jpg"
      },
-     "at": "2026-10-25T17:46+09:00",
-     "v": {
-      "A": "b0895918",
-      "B": "fe97597d",
-      "E": "330ad198",
-      "J": "24b9b02e"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
    "i18n_queued": "2026-10-25T17:46+09:00",
@@ -1457,7 +1462,13 @@
     "at": "2026-10-25T19:18+09:00",
     "account": "sene",
     "via": "api"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978655/am38pzi3xno6uyjxhhzx.jpg",
+     "from": "https://www.econovill.com/news/articleView.html?idxno=754739"
+    }
+   ]
   },
   {
    "source": {
@@ -1567,22 +1578,16 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792960544/esc7fdlb70xpvzxcr3wm.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792960543/h449m1l6sf1y1rtt6jh2.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978397/tpifu7jyz4he4gnnxdbk.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978397/ext7mebqjn7amg1sodbb.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792960547/wmq7b0q8zjmxbdcurwix.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792960547/be81931gzlbd21hajgy6.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792960544/esc7fdlb70xpvzxcr3wm.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978400/biqqqcrtob5a7thxgtqm.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978400/dfwilkxlfwwnbeeendyk.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978397/tpifu7jyz4he4gnnxdbk.jpg"
      },
-     "at": "2026-10-26T05:35+09:00",
-     "v": {
-      "A": "c4443a3d",
-      "B": "b99fcb61",
-      "C": "2ee27fc1",
-      "E": "4020916e",
-      "J": "d9a51c45"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     },
     "photo_tried": {
      "0": [
@@ -1661,7 +1666,13 @@
     "rank": 1,
     "why": "내일(26일) 오후 2시 선착순 무료 배포 — 밤에 저장해 두고 아침에 바로 쓸 정보",
     "at": "2026-10-25T21:48+09:00"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978663/u5g7b5igcmgmpwwfzjbz.jpg",
+     "from": "https://www.fnnews.com/news/202610250938287149"
+    }
+   ]
   },
   {
    "source": {
@@ -1775,22 +1786,16 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925678/ggmwzpncfk1g7r2nq9cf.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925678/txz2wzkpxtqwkthyo4zx.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978403/pwcyndf2zinoikhthcy9.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978403/du4kkx8o2owhz55ngktq.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925681/mdoswy4pxgzclum8swem.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925681/zyfxwyslwcnrt4zvah7r.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792925678/ggmwzpncfk1g7r2nq9cf.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978406/neqk9nfz9fxjzvwegfdc.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978406/dg0hfipi22jvwalo5dqb.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978403/pwcyndf2zinoikhthcy9.jpg"
      },
-     "at": "2026-10-25T19:54+09:00",
-     "v": {
-      "A": "fa1f7ede",
-      "B": "3fc9ddf9",
-      "C": "ebedd825",
-      "E": "c5c8d3fa",
-      "J": "391e8571"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
    "i18n_queued": "2026-10-25T19:54+09:00",
@@ -1868,7 +1873,13 @@
     "at": "2026-10-26T03:38+09:00",
     "account": "sene",
     "via": "api"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978667/xpxzlhkize4ydtfaqo8i.jpg",
+     "from": "https://bizhankook.com/articles/megabox-terminates-14-lease-contracts.html"
+    }
+   ]
   },
   {
    "source": {
@@ -1966,20 +1977,15 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932526/wtize8vb0upwuwct2upc.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932526/uaovr22eoikirko7l0yo.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978409/vcu1lksiiyroj3xqpqxd.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978408/gugtx3bz6frf6sd3btlv.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932529/evgccj0xyu54krmjuaqa.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792932526/wtize8vb0upwuwct2upc.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978412/s1bqnl3neat1lcdewrd0.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978409/vcu1lksiiyroj3xqpqxd.jpg"
      },
-     "at": "2026-10-25T21:48+09:00",
-     "v": {
-      "A": "7b4ca928",
-      "B": "0c6172d8",
-      "E": "ef986673",
-      "J": "a6d4cc28"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
    "pick": {
@@ -2066,7 +2072,13 @@
     "at": "2026-10-26T03:39+09:00",
     "account": "sene",
     "via": "api"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978762/e2a5yetthsos8euh3ff1.jpg",
+     "from": "https://www.metroseoul.co.kr/article/20261004500013"
+    }
+   ]
   },
   {
    "source": {
@@ -2146,7 +2158,13 @@
      "at": "2026-10-25T21:49+09:00"
     }
    },
-   "corner_name": "그 말"
+   "corner_name": "그 말",
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978770/wsytqom12gxnv2itxhls.jpg",
+     "from": "https://isplus.com/article/view/isp202610210019"
+    }
+   ]
   },
   {
    "source": {
@@ -2277,22 +2295,16 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792953991/wtetmnjo8d7rshxlcpde.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792953990/ll6xckuqrhxzahy2p6of.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978415/slwqxp5g7em5b4sdp0j7.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978414/n57j3btowxjwef6neeqn.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792953994/rwls2jnxyeirodfnqv4m.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792953994/sgoeh7kqsnduckgwuwox.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792953991/wtetmnjo8d7rshxlcpde.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978418/taly3yngtd9umxbzaomu.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978418/e271m66rfwy1zvzbcwgu.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978415/slwqxp5g7em5b4sdp0j7.jpg"
      },
-     "at": "2026-10-26T03:46+09:00",
-     "v": {
-      "A": "2ef0c4e7",
-      "B": "9894c126",
-      "C": "98e3345a",
-      "E": "b0fa0ee0",
-      "J": "ff0a05d2"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
    "shorts": {
@@ -2425,7 +2437,13 @@
       "caption": "ヨン・ヨイン（연여인、@yeo1n）さんの個展『Green Room』が、ソウル・漢南洞（ハンナムドン）の龍山文化財団（용산문화재단）で開かれています。\n\n映像は昨年、DIA Contemporaryでの個展『The House That My Mother Built』の際のインタビューです。久しぶりに絵画制作に戻ったその展示について、作家は、制作を続けていけばもっといい作品が作れるという希望が生まれたと語っています。\n\n今回の展示のグリーンルームは、舞台に上がる前に出番を待つ控え室です。作家はここを新たな始まりを準備する場所として描き、新作を含む絵画14点が並びます。\n\n期間：10月24日（土）〜11月28日（土）\n場所：ソウル特別市龍山区梨泰院路274 龍山文化財団1階 ポップアップホール\n営業時間：午前10時〜午後6時（日曜休館）\n観覧料：無料\n#SENE #韓国旅行 #ソウル展示 #漢南洞 #ヨンヨイン"
      }
     }
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978773/hormvste4b5vqfuolkyb.jpg",
+     "from": "https://yongsanculture.or.kr/site/main/performance/EXHIBITION/list"
+    }
+   ]
   },
   {
    "source": {
@@ -2545,23 +2563,25 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971790/yccmcy5lscj3ke2heeen.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971789/fzutsncz8eqbusqnzm74.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978420/uh4ww3qhpp5ptogf8rsh.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978420/qvn2tgr6vwcblm6a3ajc.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971792/ctcdchbae6eh224eggj3.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971793/nxbx6nknfwpieuu9qqtr.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971790/yccmcy5lscj3ke2heeen.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978423/lssemltnzu5ljz6fsny4.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978423/abzehw1sg0gnoudmuayo.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978420/uh4ww3qhpp5ptogf8rsh.jpg"
      },
-     "at": "2026-10-26T08:43+09:00",
-     "v": {
-      "A": "f898b698",
-      "B": "3a7087cc",
-      "C": "baea0b02"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
-   "corner_name": "이슈"
+   "corner_name": "이슈",
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978827/tyuu1wq1oblghex7hyq9.jpg",
+     "from": "https://newsway.co.kr/news/view?ud=2026102509395798661"
+    }
+   ]
   },
   {
    "source": {
@@ -2652,23 +2672,25 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971969/qbvpgj5vuxvb3b6ziekh.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971969/c0nnrxqt7gliikt3ellx.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978426/cewftrwxf8thydcqpf5k.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978425/ekkz5wpc6fqvenbbgy4b.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971972/zcpwfgoptxowo24nklk8.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971972/fvm6qhrvgwpnjxyasswr.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792971969/qbvpgj5vuxvb3b6ziekh.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978429/bbdvj2ndmhryd4qzakdv.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978429/y3wza38i5tgmfupi5fgl.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978426/cewftrwxf8thydcqpf5k.jpg"
      },
-     "at": "2026-10-26T08:46+09:00",
-     "v": {
-      "A": "bda34c67",
-      "B": "b2a330ca",
-      "C": "f01ec2d2"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978832/kunjs19p61hvro8iw0my.jpg",
+     "from": "https://www.slist.kr/news/articleView.html?idxno=776239"
+    }
+   ]
   },
   {
    "source": {
@@ -2792,20 +2814,16 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972700/l1eglgyw6lb05oi8splu.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972700/kvy98rf13qupx3e2x32f.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978432/dbcwyixsubpwdmyn3cmk.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978431/u4zxj8mzo8nawyobtem5.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972703/xg4uq43ms36y7shpftle.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972703/jn6wcgsl4p7gzpyhu4cq.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792972700/l1eglgyw6lb05oi8splu.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978434/om3vugmkagy5rpaqa6lz.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978434/h9mxwttbsfkp6ivi9epc.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978432/dbcwyixsubpwdmyn3cmk.jpg"
      },
-     "at": "2026-10-26T08:58+09:00",
-     "v": {
-      "A": "16ee5436",
-      "B": "d1038dcf",
-      "C": "c3d3054f"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:33+09:00"
     }
    },
    "shorts": {
@@ -2871,7 +2889,13 @@
      "at": "2026-10-26T08:58+09:00"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978931/vz0zmdovmzfdou5bczaa.jpg",
+     "from": "https://www.inven.co.kr/webzine/news/?news=322531"
+    }
+   ]
   },
   {
    "source": {
@@ -3003,23 +3027,25 @@
     "by": "claude",
     "preview": {
      "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973186/o4tmybsw9be2gcfymkmy.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973185/d2wvzbzozdbr0aqdwwjj.jpg"
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978438/dmxnac9ios9kwbliatvs.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978437/am8x7kfm1vozvaiajmza.jpg"
      ],
      "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973190/psqgw1x8lpfstxruhv5r.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973190/bxszzlfdtviayt4akred.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792973186/o4tmybsw9be2gcfymkmy.jpg"
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978441/jzrwl323fx1h4hlqjs00.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978441/gsx6nep6nzabjdxio2zm.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978438/dmxnac9ios9kwbliatvs.jpg"
      },
-     "at": "2026-10-26T09:06+09:00",
-     "v": {
-      "A": "7ae853db",
-      "B": "c38a3049",
-      "C": "a65c833d"
-     }
+     "cvr": 2,
+     "at": "2026-10-26T10:34+09:00"
     }
    },
-   "corner_name": "후속"
+   "corner_name": "후속",
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978936/grblbttaskuswngqj6me.jpg",
+     "from": "https://www.newsis.com/view/NISX20261022_0003836530"
+    }
+   ]
   }
  ],
  "skipped": [],
