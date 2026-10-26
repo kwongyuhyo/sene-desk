@@ -1901,24 +1901,9 @@
      "key": "i4Yxx6rdTvw@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793018431/sene_studio/ewmrtnlzweg0ly3otzju.mp4",
-     "at": "2026-10-26T21:40+09:00",
-     "file": "KuLoMi_BeulLaegEul_D_HanJeong_KeolLeo_Ne__ByuTi_no_lyrics.mp4",
-     "subs": {
-      "id": "st:1793018434670-3b2bfa6b",
-      "segs": [
-       {
-        "start": 1.78,
-        "end": 3.56,
-        "text": "OFF PINK"
-       },
-       {
-        "start": 3.56,
-        "end": 4.96,
-        "text": "OFF RULES"
-       }
-      ]
-     }
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793020036/sene_studio/tyvgctil8ped4ksdnq33.mp4",
+     "at": "2026-10-26T22:07+09:00",
+     "file": "KuLoMi_BeulLaegEul_D_HanJeong_KeolLeo_Ne__ByuTi_no_lyrics.mp4"
     }
    },
    "i18n_queued": "2026-10-26T11:56+09:00",
@@ -4508,7 +4493,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T22:05+09:00"
+  "at": "2026-10-26T22:07+09:00"
  },
  "slots": {
   "basis": 0,
