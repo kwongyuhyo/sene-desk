@@ -5280,6 +5280,375 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-092b84b0",
+    "account": "@속보",
+    "url": "http://www.newsdream.kr/news/articleView.html?idxno=120848",
+    "image": null,
+    "head": "포터 만든 요시다 가방 90주년 전시, 도쿄 다음 서울 잠실서 10/31~11/15",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T08:39+09:00",
+   "key": "5934bcd5",
+   "by": "claude",
+   "subjects": [
+    "요시다 가방",
+    "포터"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "도쿄와 서울에서만 여는 요시다 가방 90주년 전시 — 서울은 2주, 잠실 에비뉴엘에서",
+    "why": "기간·장소·한정 굿즈가 확인되는 첫 소식, 이번 주말(10/31) 개막"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T08:39+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n포터를 만든 요시다 가방의 90주년 전시가 서울에서 열립니다.\n\n지난해 도쿄에서 먼저 열린 전시인데요, 서울과 도쿄 두 도시에서만 열고 서울에서는 기간을 2주로 늘렸습니다. 2016년 포터가 국내에 들어온 뒤 처음 여는 예술 협업 전시이기도 합니다.\n\n주제는 'Everyday Is a New Beginning'. 초기 아카이브 제품, 대표 시리즈 '탱커', 동시대 작가들이 다시 그린 회화와 영상까지 과거·현재·미래 세 구간으로 이어집니다. 잠실에서만 파는 '탱커 오피서 키트'와 '매거진 숄더백'도 나옵니다. 11월 7일 오후 3시에는 작가 이주원이 포터 제품을 착용하고 온 관람객의 초상을 엽서에 그려 주고(선착순), 오후 4시에는 도슨트 해설이 있습니다.\n\n기간: 10월 31일(토) ~ 11월 15일(일)\n장소: 서울 송파구 잠실 에비뉴엘 6층 아트홀\n라이브 드로잉: 11월 7일(토) 오후 3시 · 도슨트 오후 4시\n#SENE #포터 #요시다가방 #잠실전시 #에비뉴엘\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793057963/iqol5x9vqrup5z3klbdq.jpg\n제목: 포터 90주년 전시|잠실에서 2주간\n부제: 도쿄 다음 서울, 10월 31일부터 에비뉴엘 아트홀\n출처: 롯데백화점\n",
+    "caption": "포터를 만든 요시다 가방의 90주년 전시가 서울에서 열립니다.\n\n지난해 도쿄에서 먼저 열린 전시인데요, 서울과 도쿄 두 도시에서만 열고 서울에서는 기간을 2주로 늘렸습니다. 2016년 포터가 국내에 들어온 뒤 처음 여는 예술 협업 전시이기도 합니다.\n\n주제는 'Everyday Is a New Beginning'. 초기 아카이브 제품, 대표 시리즈 '탱커', 동시대 작가들이 다시 그린 회화와 영상까지 과거·현재·미래 세 구간으로 이어집니다. 잠실에서만 파는 '탱커 오피서 키트'와 '매거진 숄더백'도 나옵니다. 11월 7일 오후 3시에는 작가 이주원이 포터 제품을 착용하고 온 관람객의 초상을 엽서에 그려 주고(선착순), 오후 4시에는 도슨트 해설이 있습니다.\n\n기간: 10월 31일(토) ~ 11월 15일(일)\n장소: 서울 송파구 잠실 에비뉴엘 6층 아트홀\n라이브 드로잉: 11월 7일(토) 오후 3시 · 도슨트 오후 4시\n#SENE #포터 #요시다가방 #잠실전시 #에비뉴엘",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057963/iqol5x9vqrup5z3klbdq.jpg",
+      "credit": "롯데백화점",
+      "from": "https://img.etoday.co.kr/pto_db/2026/10/20261026173014_2407250_651_868.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057966/htmjlqpchwnywkkqlis2.jpg",
+      "credit": "롯데백화점",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20261027.8f9ac32c10cd4c4fb728696013d0bf43_P2.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057963/iqol5x9vqrup5z3klbdq.jpg",
+      "credit": "롯데백화점",
+      "from": "https://img.etoday.co.kr/pto_db/2026/10/20261026173014_2407250_651_868.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057966/htmjlqpchwnywkkqlis2.jpg",
+      "credit": "롯데백화점",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/10/27/news-p.v1.20261027.8f9ac32c10cd4c4fb728696013d0bf43_P2.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "포터 90주년 전시|잠실에서 2주간",
+      "sub": "도쿄 다음 서울, 10월 31일부터 에비뉴엘 아트홀"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "포터 만든 요시다 가방|90주년 전시가 서울로",
+      "sub": "10월 31일 ~ 11월 15일 · 잠실 에비뉴엘"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "서울과 도쿄에서만|여는 포터 전시",
+      "sub": "잠실에서만 파는 한정 굿즈도"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "표지 사진은 롯데백화점이 배포한 공식 포스터(요코오 다다노리 그림) 하나뿐입니다 — 아래쪽 포스터 글자가 부제와 살짝 겹치니 공식 계정에 전시 현장 사진이 올라오면 바꾸기",
+     "숏폼 없음: 이 전시의 공식 영상(요시다 가방·롯데백화점 채널)을 유튜브에서 찾지 못했습니다",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "뉴시스 — 롯데百, 포터 90주년 전시 단독 개최…서울·도쿄서만 만난다",
+      "link": "https://www.newsis.com/view/NISX20261026_0003841602"
+     },
+     {
+      "title": "이투데이 — 롯데백화점, '요시다 가방' 90주년 전시 단독 개최",
+      "link": "https://www.etoday.co.kr/news/view/2640244"
+     },
+     {
+      "title": "헤럴드경제 — 롯데百, 포터 창립 90주년 특별전… 한정판 굿즈도",
+      "link": "https://biz.heraldcorp.com/article/10915531?ref=naver"
+     },
+     {
+      "title": "스포츠W(slist) — 롯데百, '포터' 만든 '요시다 가방' 90주년展 단독 개최",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776562"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057970/sm19sgqrqkmeyf2bfyuc.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057970/kpw6uv3qsnv5hcz2i5bp.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057973/n3mojt0ps5xutopigzm6.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057973/jdckjkepammimtd7i6mk.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793057970/sm19sgqrqkmeyf2bfyuc.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T08:39+09:00",
+     "v": {
+      "A": "54a35cbf",
+      "B": "bad218ad",
+      "C": "71054ea1"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-09fe05ee",
+    "account": "@속보",
+    "url": "https://www.gpkorea.com/news/articleView.html?idxno=147965",
+    "image": null,
+    "head": "설빙 포켓몬 빙수 3종 10/28 출시 · 랜덤 쉐이커 마그넷 11/4 매장 판매",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T08:42+09:00",
+   "key": "1b9b1e4e",
+   "by": "claude",
+   "subjects": [
+    "설빙"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "설빙 포켓몬 빙수 3종 내일(10/28) 출시, 랜덤 마그넷은 11/4부터 매장 판매",
+    "why": "사전예약으로 먼저 화제가 된 포켓몬 협업이 내일 매장에 나온다 — 이번 주에 실제로 먹으러 갈 수 있는 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T08:42+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n설빙(@sulbing.official)이 내일(28일) 포켓몬 빙수 3종을 내놓습니다.\n\n지난주 굿즈 사전예약으로 먼저 소식이 퍼진 협업인데요, 빙수는 '찌릿찌릿 피카츄 망고설빙', '초코밤 이브이 깨먹는 설빙', '변신 메타몽 치즈베리설빙' 세 가지입니다. 피카츄는 망고와 팝핑캔디, 이브이는 초콜릿과 밤, 메타몽은 우베소스와 치즈케이크·베리로 캐릭터 색을 냈습니다.\n\n함께 나오는 '포켓몬 랜덤 쉐이커 마그넷'은 피카츄·이브이·메타몽·고라파덕·잠만보·파이리·팬텀·푸린에 홀로그램 시크릿 2종까지 10종 중 하나가 무작위로 나옵니다. 설빙은 앞으로 캐릭터를 더해 모두 12종으로 늘린다고 밝혔습니다.\n\n빙수 출시: 10월 28일(수)\n마그넷 매장 판매: 11월 4일(수)부터, 개당 3,900원\n구매 조건: 포켓몬 설빙 1개당 마그넷 최대 2개\n#SENE #설빙 #포켓몬설빙 #피카츄빙수 #포켓몬굿즈\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793058168/lmeiagm76ykqyzy7nkvv.jpg\n제목: 설빙 포켓몬 빙수,|내일 매장에 나온다\n부제: 피카츄·이브이·메타몽 3종 · 마그넷은 11월 4일부터\n출처: @sulbing.official\n",
+    "caption": "설빙(@sulbing.official)이 내일(28일) 포켓몬 빙수 3종을 내놓습니다.\n\n지난주 굿즈 사전예약으로 먼저 소식이 퍼진 협업인데요, 빙수는 '찌릿찌릿 피카츄 망고설빙', '초코밤 이브이 깨먹는 설빙', '변신 메타몽 치즈베리설빙' 세 가지입니다. 피카츄는 망고와 팝핑캔디, 이브이는 초콜릿과 밤, 메타몽은 우베소스와 치즈케이크·베리로 캐릭터 색을 냈습니다.\n\n함께 나오는 '포켓몬 랜덤 쉐이커 마그넷'은 피카츄·이브이·메타몽·고라파덕·잠만보·파이리·팬텀·푸린에 홀로그램 시크릿 2종까지 10종 중 하나가 무작위로 나옵니다. 설빙은 앞으로 캐릭터를 더해 모두 12종으로 늘린다고 밝혔습니다.\n\n빙수 출시: 10월 28일(수)\n마그넷 매장 판매: 11월 4일(수)부터, 개당 3,900원\n구매 조건: 포켓몬 설빙 1개당 마그넷 최대 2개\n#SENE #설빙 #포켓몬설빙 #피카츄빙수 #포켓몬굿즈",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058168/lmeiagm76ykqyzy7nkvv.jpg",
+      "credit": "@sulbing.official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/853576027_1463746359191318_4350116564089890621_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=t_wM3mDuakcQ7kNvwH_VIOh&_nc_oc=Ado6Du0Lp94dXShF5GGhuVbERTl8SV6YYakBSG1qjBoPU4WY1Uvz2L8Qscc2qPKV6hc&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5PlkrhXpl5xgkeBE-Vk37Q&oh=00_AQNhGUAyb-77JCSzfTbloiHNLsbnIr29HpcT2dwplkY9-A&oe=6AE5A0C8"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058161/k7cpnuzxip200j1zqgon.jpg",
+      "credit": "설빙",
+      "from": "https://cdn.gpkorea.com/news/photo/202610/147965_314670_268.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058164/xoauxjlrwtn8bphbehsl.jpg",
+      "credit": "@sulbing.official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/852693450_18641952139026120_5063760084561595251_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XYad9phsWmwQ7kNvwEX3MsW&_nc_oc=Adp6oBceQSJNhdDcs4R-ciwoESACCmq_3noIaygc4GyiEuUpuU1wjRQwb8RMY0Rhaho&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5PlkrhXpl5xgkeBE-Vk37Q&_nc_tpa=Q5bMBQKsJdgfZZ-xqBjEV4D0S5dLmzJVpOJXfJvYGhVjhHl1N7WXVpm3xspSylIog1eTKnaaCX81oZNiYw&oh=00_AQPPHYXbk4vSluZNmabg6_0iUp6Pl6S4_dbG1hkWmE9sjw&oe=6AE5C9C1"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058166/sm3bprmcsm8xntvujyiq.jpg",
+      "credit": "@sulbing.official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/859188038_18643583254026120_7700949508548010696_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=0kewdGL8K2gQ7kNvwHYTF36&_nc_oc=AdqdpUmszJX5mJEHE-VUF3ycW2do5zUkAyD5JHYDV_T1jUI1jKlUkeDmRMTWMxLm-Qk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5PlkrhXpl5xgkeBE-Vk37Q&_nc_tpa=Q5bMBQLYFFJxaV6STd3eUT3uIqiwN5IOhg1DbSsIstRBc_eQmQr4WAHjhWPqUQkJcG0-C7hWLjFoy9FJsA&oh=00_AQMC_OcVXhbnJIrVjVJhd0xaW3gsR8ruf2YGYALlK9HmBA&oe=6AE5B726"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058168/lmeiagm76ykqyzy7nkvv.jpg",
+      "credit": "@sulbing.official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/853576027_1463746359191318_4350116564089890621_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=t_wM3mDuakcQ7kNvwH_VIOh&_nc_oc=Ado6Du0Lp94dXShF5GGhuVbERTl8SV6YYakBSG1qjBoPU4WY1Uvz2L8Qscc2qPKV6hc&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5PlkrhXpl5xgkeBE-Vk37Q&oh=00_AQNhGUAyb-77JCSzfTbloiHNLsbnIr29HpcT2dwplkY9-A&oe=6AE5A0C8"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058161/k7cpnuzxip200j1zqgon.jpg",
+      "credit": "설빙",
+      "from": "https://cdn.gpkorea.com/news/photo/202610/147965_314670_268.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058164/xoauxjlrwtn8bphbehsl.jpg",
+      "credit": "@sulbing.official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/852693450_18641952139026120_5063760084561595251_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=XYad9phsWmwQ7kNvwEX3MsW&_nc_oc=Adp6oBceQSJNhdDcs4R-ciwoESACCmq_3noIaygc4GyiEuUpuU1wjRQwb8RMY0Rhaho&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5PlkrhXpl5xgkeBE-Vk37Q&_nc_tpa=Q5bMBQKsJdgfZZ-xqBjEV4D0S5dLmzJVpOJXfJvYGhVjhHl1N7WXVpm3xspSylIog1eTKnaaCX81oZNiYw&oh=00_AQPPHYXbk4vSluZNmabg6_0iUp6Pl6S4_dbG1hkWmE9sjw&oe=6AE5C9C1"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058166/sm3bprmcsm8xntvujyiq.jpg",
+      "credit": "@sulbing.official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/859188038_18643583254026120_7700949508548010696_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=0kewdGL8K2gQ7kNvwHYTF36&_nc_oc=AdqdpUmszJX5mJEHE-VUF3ycW2do5zUkAyD5JHYDV_T1jUI1jKlUkeDmRMTWMxLm-Qk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5PlkrhXpl5xgkeBE-Vk37Q&_nc_tpa=Q5bMBQLYFFJxaV6STd3eUT3uIqiwN5IOhg1DbSsIstRBc_eQmQr4WAHjhWPqUQkJcG0-C7hWLjFoy9FJsA&oh=00_AQMC_OcVXhbnJIrVjVJhd0xaW3gsR8ruf2YGYALlK9HmBA&oe=6AE5B726"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "설빙 포켓몬 빙수,|내일 매장에 나온다",
+      "sub": "피카츄·이브이·메타몽 3종 · 마그넷은 11월 4일부터"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "피카츄·이브이·메타몽|빙수가 된다",
+      "sub": "설빙 포켓몬 설빙 3종 · 10월 28일 출시"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "설빙 포켓몬 마그넷,|11월 4일 매장 판매",
+      "sub": "빙수 1개당 2개까지 · 개당 3,900원"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 1장 사진이 '포켓몬 굿즈 사전 예약' 포스터(글자 많음)라 '빙수가 내일 나온다' 제목과 어긋남 — 빙수 사진으로 바꿀 것 권장",
+     "빙수 3종 가격은 기사·공식 게시물에서 확인 못 해 뺐다 — 설빙 앱·공식 계정에 올라오면 실용 정보 줄에 추가",
+     "사전예약 '조기 마감'은 지피코리아 한 곳에만 있어 본문에서 뺐다 — 공식 공지 있으면 첫 단락에 한 줄 추가 가능",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "지피코리아 — 설빙, '포켓몬 설빙' 3종 출시… 굿즈 사전예약 조기 마감",
+      "link": "https://www.gpkorea.com/news/articleView.html?idxno=147965"
+     },
+     {
+      "title": "스포츠서울 슬리스트 — 설빙, '포켓몬 설빙' 3종 출시...빙수부터 굿즈까지",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776609"
+     },
+     {
+      "title": "설빙 공식 인스타그램 @sulbing.official (10/16 예고 · 10/19 사전예약 공지 · 10/20 D-1)",
+      "link": "https://www.instagram.com/sulbing.official/"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058174/eveun4kmgkwsjybweprx.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058174/mdw6avziktkabbvlfhrw.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058177/mtiu6e82xuktlndkyhbn.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058177/nzsl8scqrpt0y4bgqmkx.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058174/eveun4kmgkwsjybweprx.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T08:42+09:00",
+     "v": {
+      "A": "61413c17",
+      "B": "15eb447c",
+      "C": "89ff0af9"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-4b7d9672",
+    "account": "@속보",
+    "url": "http://www.osen.co.kr/article/G1112898845",
+    "image": null,
+    "head": "이대휘·최미나수, 2026 MAMA 레드카펫 MC — 둘 다 처음, 11/20~21 교세라 돔 오사카",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T08:45+09:00",
+   "key": "97a1aa19",
+   "by": "claude",
+   "subjects": [
+    "2026 MAMA AWARDS",
+    "이대휘",
+    "최미나수"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "2026 MAMA 레드카펫 MC로 이대휘·최미나수 — 두 사람 모두 첫 레드카펫 진행, 이틀 일정·시간 정리",
+    "why": "오늘 아침 CJ ENM 발표, 시상식 3주 앞 — 레드카펫 시간이 독자가 챙길 실용 정보"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T08:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n이대휘와 최미나수가 2026 MAMA AWARDS(@mnet_mama) 의 레드카펫 진행을 맡습니다.\n\n두 사람 모두 이 시상식의 레드카펫 MC는 처음인데요, 2017년 워너원으로 데뷔한 이대휘는 솔로로는 처음 MAMA를 찾고, 최미나수는 넷플릭스 〈솔로지옥5〉와 tvN 〈킬잇: 스타일 크리에이터 대전쟁〉 같은 예능으로 얼굴을 알려 왔습니다.\n\n올해 시상식은 일본 오사카에서 이틀 동안 열리고, 레드카펫도 이틀 모두 디지털 플랫폼으로 생중계됩니다.\n\n일정: 11월 20일(금) ~ 21일(토)\n장소: 일본 교세라 돔 오사카\n레드카펫: 20일 오후 3시 30분 · 21일 낮 12시 30분\n\n#SENE #MAMA #2026MAMA #이대휘 #최미나수\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793058340/ifqkkpkptyf2atilaf1i.jpg\n제목: 이대휘·최미나수,|MAMA 레드카펫 MC\n부제: 11월 20~21일 교세라 돔 오사카\n출처: @mnet_mama\n",
+    "caption": "이대휘와 최미나수가 2026 MAMA AWARDS(@mnet_mama) 의 레드카펫 진행을 맡습니다.\n\n두 사람 모두 이 시상식의 레드카펫 MC는 처음인데요, 2017년 워너원으로 데뷔한 이대휘는 솔로로는 처음 MAMA를 찾고, 최미나수는 넷플릭스 〈솔로지옥5〉와 tvN 〈킬잇: 스타일 크리에이터 대전쟁〉 같은 예능으로 얼굴을 알려 왔습니다.\n\n올해 시상식은 일본 오사카에서 이틀 동안 열리고, 레드카펫도 이틀 모두 디지털 플랫폼으로 생중계됩니다.\n\n일정: 11월 20일(금) ~ 21일(토)\n장소: 일본 교세라 돔 오사카\n레드카펫: 20일 오후 3시 30분 · 21일 낮 12시 30분\n\n#SENE #MAMA #2026MAMA #이대휘 #최미나수",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058340/ifqkkpkptyf2atilaf1i.jpg",
+      "credit": "@mnet_mama",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/866280101_18566960971079536_4996661550207791259_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wsEWLKLrhV4Q7kNvwFBb5md&_nc_oc=Adph--SWbJRsJwSAuEVpKT3doD57YlAG1c5yihUBvMJSGYf4r__2A9yeNw7M17Fw8to&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wTOzxY9yzjuWLpNS-pQ8Yg&oh=00_AQPTV6viNQDeNIwBetGAz9gGcKVpFLXXhokdXNEX0vKAIg&oe=6AE5AF09"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058340/ifqkkpkptyf2atilaf1i.jpg",
+      "credit": "@mnet_mama",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/866280101_18566960971079536_4996661550207791259_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=wsEWLKLrhV4Q7kNvwFBb5md&_nc_oc=Adph--SWbJRsJwSAuEVpKT3doD57YlAG1c5yihUBvMJSGYf4r__2A9yeNw7M17Fw8to&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wTOzxY9yzjuWLpNS-pQ8Yg&oh=00_AQPTV6viNQDeNIwBetGAz9gGcKVpFLXXhokdXNEX0vKAIg&oe=6AE5AF09"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "이대휘·최미나수,|MAMA 레드카펫 MC",
+      "sub": "11월 20~21일 교세라 돔 오사카"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "2026 MAMA 레드카펫,|처음 서는 두 MC",
+      "sub": "이대휘·최미나수"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "MAMA 레드카펫|이틀 시간 정리",
+      "sub": "20일 오후 3시 30분 · 21일 낮 12시 30분"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "숏폼 비움 — 레드카펫 MC 발표 영상이 유튜브에 아직 없음 (공식 채널에 올라오면 그때)",
+     "표지 사진 — MAMA 공식 발표 포스터라 위쪽 MAMA 로고가 SENE 로고와, 아래 이름판이 제목과 겹침 (기사 사진은 해상도 미달로 못 받음)",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "OSEN — 이대휘 X 최미나수, MAMA 레드카펫 2MC 발탁 '이색 조합'",
+      "link": "http://www.osen.co.kr/article/G1112898845"
+     },
+     {
+      "title": "조이뉴스24 — 이대휘x최미나수, '마마 어워즈' 레드카펫 MC⋯축제 포문 활짝",
+      "link": "https://www.joynews24.com/view/2019206"
+     },
+     {
+      "title": "MAMA AWARDS 공식 인스타그램 — RED CARPET MC ANNOUNCEMENT (10/26)",
+      "link": "https://www.instagram.com/mnet_mama/"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058345/jo8bbjlidfjjshuxtnnn.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058344/d1wsiancwygmfc59ms7z.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058347/heo9kxambie9248khlvo.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058347/lgmugehrv13rxfcdv6b5.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793058345/jo8bbjlidfjjshuxtnnn.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T08:45+09:00",
+     "v": {
+      "A": "5b0da8ca",
+      "B": "d7d963eb",
+      "C": "dae37bd9"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -5298,7 +5667,7 @@
     "need_today": 5,
     "day": null,
     "next_no": null,
-    "drafts": 19,
+    "drafts": 22,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -5410,7 +5779,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T06:52+09:00"
+  "at": "2026-10-27T08:45+09:00"
  },
  "slots": {
   "basis": 0,
