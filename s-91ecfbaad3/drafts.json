@@ -1565,8 +1565,8 @@
      "v": {
       "A": "78cec8a1",
       "B": "a7fe4549",
-      "E": "ec0890f0",
-      "J": "643b047a"
+      "E": "520c8ec1",
+      "J": "ea26982d"
      }
     }
    },
@@ -1631,66 +1631,68 @@
    "i18n_queued": "2026-10-26T11:56+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-26T11:58+09:00",
+    "at": "2026-10-26T12:00+09:00",
     "confirm": [
-     "제품명 영어 표기(The Textile · Face Blush · Flush · Blur Water Tint · Glaze Lip Glow)와 색 이름 Smoked Petal · Mauve Silhouette · Off Pink 는 3CE 공식 영어 표기를 찾지 못해 한국어 원문을 직역했습니다",
-     "일본어 색 이름 중 ストールンピンク · サイレントピンク 는 WWD Japan 기사로 확인했습니다. スモークドペタル · モーブシルエット · オフピンク 와 제품명 カタカナ(ザ・テキスタイル · フラッシュ · ブラーウォーターティント · グレイズリップグロウ)는 공식 표기를 확인하지 못했습니다",
-     "WWD Japan 은 일본판 클로미 콜라보를 4품목, 11월 21일 발매(연도 불명)로 보도했습니다. 한국판(5품목)과 구성이 다를 수 있어 번역에는 넣지 않았습니다",
-     "'더 텍스타일'·'글레이지 립 글로우'·'오프 핑크'와 한정 색 네 가지(Stolen Pink·Smoked Petal·Silent Pink·Mauve Silhouette)의 공식 영문·일본어 표기는 웹 검색으로 확인하지 못했음 — 3CE 공식 계정이나 올리브영 글로벌 페이지 표기와 맞춰 볼 것 (기존 3CE 라인은 'Glaze Lip Tint'라서 'Glaze Lip Glow'가 맞는지 특히 확인)",
-     "부제 'On sale Oct 26' / '10月26日発売'와 표지 'Out Today'는 10월 26일 당일에 올릴 때만 맞음 — 다른 날 올리면 표지 문구를 고쳐야 함"
+     "제품명 영어 표기 미확인: '플러쉬'는 'Plush'로 옮겼는데 공식 표기가 'Flush'일 수도 있습니다. 3CE 글로벌 사이트에서 확인이 필요합니다. 'The Textile'·'Glaze Lip Glow'도 공식 영문 표기와 맞는지 확인해 주세요.",
+     "색 이름 확인 범위: 공식 일본어 표기로 확인된 것은 'ストールンピンク(Stolen Pink)' 하나뿐입니다(WWD Japan). Smoked Petal·Silent Pink·Mauve Silhouette와 일본어 제품명(ザ・テキスタイル·プラッシュ·グレイズリップグロウ)은 영문을 그대로 옮기거나 카타카나로 적었습니다.",
+     "WWD Japan 기사: 3CE×쿠로미 한정판이 일본에서 11월 21일에 나오고, LOFT·PLAZA 등에서 판다고 보도했습니다. 품목은 4가지라고 적혀 있습니다. 기사에 연도가 없어 이번 한국 에디션(다섯 가지)과 같은 건인지는 확인하지 못했습니다. 원문에 없는 내용이라 번역에는 넣지 않았습니다.",
+     "제품·색 이름의 공식 영어 표기를 웹에서 확인하지 못함 — 특히 벨벳 립 틴트 '플러쉬'가 Plush인지 Flush인지, 'The Textile'·'Glaze Lip Glow'·색 이름(Stolen Pink·Smoked Petal·Silent Pink·Mauve Silhouette)도 3CE 공식 영문 표기와 맞는지 올리기 전에 확인 필요 (일본어 カタカナ도 같이 맞춰야 함)",
+     "'오프 핑크'의 공식 영문 표기(Off Pink / OFF PINK 등) 미확인",
+     "일본어 표지 '3CE初のクロミ版' — 의미는 통하지만 'クロミ版'이 조금 줄임말 느낌. 12자 안에 맞추려고 그대로 둠"
     ],
     "review": {
-     "at": "2026-10-26T11:58+09:00",
+     "at": "2026-10-26T12:00+09:00",
      "fixes": [
-      "영어 · 캡션 · 'Flush' → 'Plush' (2곳) — 3CE 벨벳 립 틴트의 공식 영문 표기는 'Velvet Lip Tint Plush'(판매처 표기로 확인)",
-      "일본어 · 캡션 · 「フラッシュ」→「プラッシュ」 (2곳) — 같은 이유, Plush 의 カタカナ",
-      "영어 · 숏폼 세 줄 · '3CE pink, / plus Kuromi black, / four limited shades' → '3CE pink / with Kuromi black: / four limited shades' — 원문은 '3CE 핑크에 쿠로미 블랙을 더한 한정 컬러 네 가지'인데, 번역은 세 토막이 이어지지 않아 한 문장으로 읽히지 않았음"
+      "일본어 · 숏폼 아티스트 칸 · クロミのブラックを → クロミの黒を加えた — '더한'이 빠져 세 줄(3CEのピンクに / クロミのブラックを / 限定カラー4色)이 한 문장으로 이어지지 않던 것",
+      "일본어 · 캡션·숏폼 캡션 둘째 단락 · コレクションですが → コレクションで、 — 'が'가 역접(그런데)으로 읽혀 원문 '~인데요'의 맥락 잇기와 어긋남",
+      "영어 · 캡션 둘째 단락 · as the edition's name → almost as the edition's name — 원문 '이름처럼'을 실제 이름인 것처럼 단정해 옮긴 것"
      ],
      "doubt": [
-      "'더 텍스타일'·'글레이지 립 글로우'·'오프 핑크'와 한정 색 네 가지(Stolen Pink·Smoked Petal·Silent Pink·Mauve Silhouette)의 공식 영문·일본어 표기는 웹 검색으로 확인하지 못했음 — 3CE 공식 계정이나 올리브영 글로벌 페이지 표기와 맞춰 볼 것 (기존 3CE 라인은 'Glaze Lip Tint'라서 'Glaze Lip Glow'가 맞는지 특히 확인)",
-      "부제 'On sale Oct 26' / '10月26日発売'와 표지 'Out Today'는 10월 26일 당일에 올릴 때만 맞음 — 다른 날 올리면 표지 문구를 고쳐야 함"
+      "제품·색 이름의 공식 영어 표기를 웹에서 확인하지 못함 — 특히 벨벳 립 틴트 '플러쉬'가 Plush인지 Flush인지, 'The Textile'·'Glaze Lip Glow'·색 이름(Stolen Pink·Smoked Petal·Silent Pink·Mauve Silhouette)도 3CE 공식 영문 표기와 맞는지 올리기 전에 확인 필요 (일본어 カタカナ도 같이 맞춰야 함)",
+      "'오프 핑크'의 공식 영문 표기(Off Pink / OFF PINK 등) 미확인",
+      "일본어 표지 '3CE初のクロミ版' — 의미는 통하지만 'クロミ版'이 조금 줄임말 느낌. 12자 안에 맞추려고 그대로 둠"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n뷰티\n\n[캡션]\n3CE (@3ce_official) launches its first Kuromi edition at Olive Young today.\n\nIt is the brand's first collection with Sanrio character Kuromi. 3CE puts 'Off Pink', where 3CE's pink meets Kuromi's black, at the center of the edition. Five products come in Kuromi packaging: the eye palette 'The Textile', 'Face Blush', the velvet lip tint 'Plush', 'Blur Water Tint' and 'Glaze Lip Glow'.\n\nFour of the shades are exclusive to this edition: The Textile #Stolen Pink, Face Blush #Smoked Petal, Plush #Silent Pink and Blur Water Tint #Mauve Silhouette.\n\nRelease: Oct 26 (Mon)\nAvailable at: Olive Young (exclusive early release)\n#SENE #3CE #Kuromi #Sanrio #OliveYoung #KBeauty\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983323/fh1jsgjeycmshiklxeuy.jpg\n제목: 3CE's First Kuromi Edition|Out Today at Olive Young\n부제: Four limited shades · On sale Oct 26\n출처: @3ce_official\n",
-      "caption": "3CE (@3ce_official) launches its first Kuromi edition at Olive Young today.\n\nIt is the brand's first collection with Sanrio character Kuromi. 3CE puts 'Off Pink', where 3CE's pink meets Kuromi's black, at the center of the edition. Five products come in Kuromi packaging: the eye palette 'The Textile', 'Face Blush', the velvet lip tint 'Plush', 'Blur Water Tint' and 'Glaze Lip Glow'.\n\nFour of the shades are exclusive to this edition: The Textile #Stolen Pink, Face Blush #Smoked Petal, Plush #Silent Pink and Blur Water Tint #Mauve Silhouette.\n\nRelease: Oct 26 (Mon)\nAvailable at: Olive Young (exclusive early release)\n#SENE #3CE #Kuromi #Sanrio #OliveYoung #KBeauty",
+      "form": "[카테고리]\n뷰티\n\n[캡션]\n3CE (@3ce_official) launches its first Kuromi edition at Olive Young today.\n\nIt is the brand's first collection with the Sanrio character Kuromi, and 3CE puts \"Off Pink\" — where 3CE's pink meets Kuromi's black — front and center, almost as the edition's name. Five products come in Kuromi packaging: the eye palette 'The Textile', 'Face Blush', the velvet lip tint 'Plush', 'Blur Water Tint' and 'Glaze Lip Glow'.\n\nFour of the shades are exclusive to this edition: The Textile #Stolen Pink, Face Blush #Smoked Petal, Plush #Silent Pink and Blur Water Tint #Mauve Silhouette.\n\nRelease: Oct 26 (Mon)\nAvailable: Olive Young exclusive early release\n#SENE #3CE #Kuromi #Sanrio #OliveYoung #KBeauty\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983417/dxmad1uwx2ihyk07iy0w.jpg\n제목: 3CE's First Kuromi Edition|Lands at Olive Young Today\n부제: Four limited shades · On sale Oct 26\n출처: @3ce_official\n",
+      "caption": "3CE (@3ce_official) launches its first Kuromi edition at Olive Young today.\n\nIt is the brand's first collection with the Sanrio character Kuromi, and 3CE puts \"Off Pink\" — where 3CE's pink meets Kuromi's black — front and center, almost as the edition's name. Five products come in Kuromi packaging: the eye palette 'The Textile', 'Face Blush', the velvet lip tint 'Plush', 'Blur Water Tint' and 'Glaze Lip Glow'.\n\nFour of the shades are exclusive to this edition: The Textile #Stolen Pink, Face Blush #Smoked Petal, Plush #Silent Pink and Blur Water Tint #Mauve Silhouette.\n\nRelease: Oct 26 (Mon)\nAvailable: Olive Young exclusive early release\n#SENE #3CE #Kuromi #Sanrio #OliveYoung #KBeauty",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983532/mfoqwnidm1zth4ykgkkn.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983532/pubb624ro9pu7xxkvclr.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983621/mddgc87rvtyug0ljeztd.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983620/gcn5m1cu9q4evas97dm5.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983532/mfoqwnidm1zth4ykgkkn.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983621/mddgc87rvtyug0ljeztd.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T11:58+09:00"
+       "at": "2026-10-26T12:00+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=i4Yxx6rdTvw\n구간: 0:00-0:27\n곡: four limited shades\n아티스트: with Kuromi black:\n피처링:\n후킹: 3CE pink\n출처: 3CE\n자막: 자동",
-      "caption": "This is the official campaign video 3CE (@3ce_official) released for its first Kuromi edition.\n\nIt is the brand's first collection with Sanrio character Kuromi. 3CE puts forward 'Off Pink', where 3CE's pink meets Kuromi's black. Five products, from the eye palette 'The Textile' to 'Glaze Lip Glow', come in Kuromi packaging.\n\nFour shades are exclusive to this edition: #Stolen Pink, #Smoked Petal, #Silent Pink and #Mauve Silhouette.\n\nRelease: Oct 26 (Mon)\nAvailable at: Olive Young (exclusive early release)\nVideo: 3CE official YouTube\n#SENE #3CE #Kuromi #Sanrio #OliveYoung #KBeauty"
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=i4Yxx6rdTvw\n구간: 0:00-0:27\n곡: four limited shades\n아티스트: Kuromi's black:\n피처링:\n후킹: 3CE pink, plus\n출처: 3CE\n자막: 자동",
+      "caption": "This is the official campaign video 3CE (@3ce_official) released to announce its first Kuromi edition.\n\nIt is the brand's first collection with the Sanrio character Kuromi, and 3CE puts forward \"Off Pink,\" where 3CE's pink meets Kuromi's black. Five products, from the eye palette 'The Textile' to 'Glaze Lip Glow', come in Kuromi packaging.\n\nFour shades — #Stolen Pink, #Smoked Petal, #Silent Pink and #Mauve Silhouette — are exclusive to this edition.\n\nRelease: Oct 26 (Mon)\nAvailable: Olive Young exclusive early release\nVideo: 3CE official YouTube\n#SENE #3CE #Kuromi #Sanrio #OliveYoung #KBeauty"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n뷰티\n\n[캡션]\n3CE（@3ce_official）初のクロミエディションが、本日オリーブヤング（Olive Young）で発売されました。\n\nサンリオのキャラクター、クロミと初めて手を組んだコレクションです。ブランドは、3CEのピンクとクロミのブラックが出会った「オフピンク」をこのエディションの名前のように掲げています。アイパレット「ザ・テキスタイル」、「フェイスブラッシュ」、ベルベットリップティント「プラッシュ」、「ブラーウォーターティント」、「グレイズリップグロウ」の5品がクロミのパッケージで登場します。\n\nこのうち4色はこのエディションだけのカラーです。ザ・テキスタイル #ストールンピンク、フェイスブラッシュ #スモークドペタル、プラッシュ #サイレントピンク、ブラーウォーターティント #モーブシルエットです。\n\n発売：10月26日（月）\n販売：オリーブヤングで独占先行発売\n#SENE #3CE #クロミ #サンリオ #韓国コスメ #オリーブヤング\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983323/fh1jsgjeycmshiklxeuy.jpg\n제목: 3CE初のクロミ版、|本日オリーブヤングで\n부제: 限定4色・10月26日発売\n출처: @3ce_official\n",
-      "caption": "3CE（@3ce_official）初のクロミエディションが、本日オリーブヤング（Olive Young）で発売されました。\n\nサンリオのキャラクター、クロミと初めて手を組んだコレクションです。ブランドは、3CEのピンクとクロミのブラックが出会った「オフピンク」をこのエディションの名前のように掲げています。アイパレット「ザ・テキスタイル」、「フェイスブラッシュ」、ベルベットリップティント「プラッシュ」、「ブラーウォーターティント」、「グレイズリップグロウ」の5品がクロミのパッケージで登場します。\n\nこのうち4色はこのエディションだけのカラーです。ザ・テキスタイル #ストールンピンク、フェイスブラッシュ #スモークドペタル、プラッシュ #サイレントピンク、ブラーウォーターティント #モーブシルエットです。\n\n発売：10月26日（月）\n販売：オリーブヤングで独占先行発売\n#SENE #3CE #クロミ #サンリオ #韓国コスメ #オリーブヤング",
+      "form": "[카테고리]\n뷰티\n\n[캡션]\n3CE（@3ce_official）初のクロミエディションが、本日オリーブヤング（Olive Young）で発売されました。\n\nサンリオのキャラクター、クロミと初めて手を組んだコレクションで、ブランドは3CEのピンクとクロミのブラックが出会った「オフピンク」を、今回のエディションの名前のように掲げています。アイパレット「ザ・テキスタイル」、「フェイスブラッシュ」、ベルベットリップティント「プラッシュ」、「ブラーウォーターティント」、「グレイズリップグロウ」の5アイテムがクロミのパッケージで登場します。\n\nこのうち4色は今回のエディションだけのカラーです。ザ・テキスタイル #ストールンピンク、フェイスブラッシュ #スモークドペタル、プラッシュ #サイレントピンク、ブラーウォーターティント #モーブシルエットです。\n\n発売：10月26日（月）\n販売：オリーブヤング独占先行発売\n#SENE #3CE #クロミ #サンリオ #韓国コスメ #オリーブヤング\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792983417/dxmad1uwx2ihyk07iy0w.jpg\n제목: 3CE初のクロミ版、|本日オリーブヤングで\n부제: 限定カラー4色・10月26日発売\n출처: @3ce_official\n",
+      "caption": "3CE（@3ce_official）初のクロミエディションが、本日オリーブヤング（Olive Young）で発売されました。\n\nサンリオのキャラクター、クロミと初めて手を組んだコレクションで、ブランドは3CEのピンクとクロミのブラックが出会った「オフピンク」を、今回のエディションの名前のように掲げています。アイパレット「ザ・テキスタイル」、「フェイスブラッシュ」、ベルベットリップティント「プラッシュ」、「ブラーウォーターティント」、「グレイズリップグロウ」の5アイテムがクロミのパッケージで登場します。\n\nこのうち4色は今回のエディションだけのカラーです。ザ・テキスタイル #ストールンピンク、フェイスブラッシュ #スモークドペタル、プラッシュ #サイレントピンク、ブラーウォーターティント #モーブシルエットです。\n\n発売：10月26日（月）\n販売：オリーブヤング独占先行発売\n#SENE #3CE #クロミ #サンリオ #韓国コスメ #オリーブヤング",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983535/qcchkmaxgqbopye0tg73.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983534/oq2se85wqyduwhxhfavf.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983624/xlobglh3yehboqo5wiwv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983623/oegg93bocxaait3l6hmj.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983535/qcchkmaxgqbopye0tg73.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983624/xlobglh3yehboqo5wiwv.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T11:58+09:00"
+       "at": "2026-10-26T12:00+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=i4Yxx6rdTvw\n구간: 0:00-0:27\n곡: 重ねた限定4色\n아티스트: クロミのブラックを\n피처링:\n후킹: 3CEのピンクに\n출처: 3CE\n자막: 자동",
-      "caption": "3CE（@3ce_official）が初のクロミエディションに合わせて公開した公式キャンペーン映像です。\n\nサンリオのキャラクター、クロミと初めて手を組んだコレクションです。ブランドは、3CEのピンクとクロミのブラックが出会った「オフピンク」を掲げています。アイパレット「ザ・テキスタイル」から「グレイズリップグロウ」まで、5品がクロミのパッケージで登場します。\n\n#ストールンピンク、#スモークドペタル、#サイレントピンク、#モーブシルエットの4色は、このエディションだけのカラーです。\n\n発売：10月26日（月）\n販売：オリーブヤングで独占先行発売\n映像：3CE公式YouTube\n#SENE #3CE #クロミ #サンリオ #韓国コスメ #オリーブヤング"
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=i4Yxx6rdTvw\n구간: 0:00-0:27\n곡: 限定カラー4色\n아티스트: クロミの黒を加えた\n피처링:\n후킹: 3CEのピンクに\n출처: 3CE\n자막: 자동",
+      "caption": "3CE（@3ce_official）が初のクロミエディションの発表とともに公開した公式キャンペーン映像です。\n\nサンリオのキャラクター、クロミと初めて手を組んだコレクションで、ブランドは3CEのピンクとクロミのブラックが出会った「オフピンク」を掲げています。アイパレット「ザ・テキスタイル」から「グレイズリップグロウ」まで、5アイテムがクロミのパッケージで登場します。\n\n#ストールンピンク、#スモークドペタル、#サイレントピンク、#モーブシルエットの4色は、今回のエディションだけのカラーです。\n\n発売：10月26日（月）\n販売：オリーブヤング独占先行発売\n映像：3CE公式YouTube\n#SENE #3CE #クロミ #サンリオ #韓国コスメ #オリーブヤング"
      }
     }
    }
@@ -2119,7 +2121,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T11:58+09:00"
+  "at": "2026-10-26T12:00+09:00"
  },
  "slots": {
   "basis": 0,
