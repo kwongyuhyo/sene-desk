@@ -2275,9 +2275,45 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792983468/vay8f1aad909gmbatxob.jpg",
      "key": "gPkNwQzJel8@0.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-26T11:58+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793010175/sene_studio/o0th66er72vjvzlxqeuy.mp4",
+     "at": "2026-10-26T19:22+09:00",
+     "file": "GeumYoIl_Bam_10SiKka_MunEul_YeobNiDa_NolGeoLi_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793010177356-5250b3cf",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.64,
+        "text": "어디로 간 거야?"
+       },
+       {
+        "start": 2.64,
+        "end": 4.56,
+        "text": "여기도 없어요!"
+       },
+       {
+        "start": 4.56,
+        "end": 6.86,
+        "text": "사람들이 사라지기 시작했다"
+       },
+       {
+        "start": 6.86,
+        "end": 10.12,
+        "text": "대체 무슨 일이 벌어진 거지?"
+       },
+       {
+        "start": 13.12,
+        "end": 16.84,
+        "text": "백 년의 시간을 건너온 사람들"
+       },
+       {
+        "start": 20.36,
+        "end": 26.62,
+        "text": "올가을 가장 기대되는 시간여행 정동야행"
+       }
+      ]
+     }
     }
    },
    "corner_name": "소식",
@@ -4081,7 +4117,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T19:20+09:00"
+  "at": "2026-10-26T19:22+09:00"
  },
  "slots": {
   "basis": 0,
