@@ -144,7 +144,12 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978368/droaukndpl3bzbvgddqg.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:32+09:00"
+     "at": "2026-10-26T10:32+09:00",
+     "v": {
+      "A": "66085881",
+      "B": "6071bf4a",
+      "C": "8db0f366"
+     }
     }
    },
    "shorts": {
@@ -583,7 +588,14 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978375/tl4zo9bfcspmyfy5qctp.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:32+09:00"
+     "at": "2026-10-26T10:32+09:00",
+     "v": {
+      "A": "7e7367ea",
+      "B": "550ad18e",
+      "C": "bd0fd60f",
+      "E": "76502ed0",
+      "J": "4de42113"
+     }
     },
     "photo_tried": {
      "0": [
@@ -893,7 +905,13 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978380/u0s8b8juvgpvxfk1zebx.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "2c846b33",
+      "B": "b4174f44",
+      "E": "f0c3d99b",
+      "J": "aec9ca41"
+     }
     },
     "photo_tried": {
      "0": [
@@ -1221,7 +1239,13 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978386/h5wijlxmdtag1smt48bq.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "515d82d3",
+      "B": "883d6d67",
+      "E": "044d3b28",
+      "J": "d9cc7cae"
+     }
     }
    },
    "i18n_queued": "2026-10-25T11:47+09:00",
@@ -1381,7 +1405,13 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978392/spbtye0qvr9cwuoq8uld.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "d4c114f0",
+      "B": "d843b031",
+      "E": "330ad198",
+      "J": "24b9b02e"
+     }
     }
    },
    "i18n_queued": "2026-10-25T17:46+09:00",
@@ -1587,7 +1617,14 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978397/tpifu7jyz4he4gnnxdbk.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "ba8442ec",
+      "B": "967a27a6",
+      "C": "ee7c13cb",
+      "E": "4020916e",
+      "J": "d9a51c45"
+     }
     },
     "photo_tried": {
      "0": [
@@ -1795,7 +1832,14 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978403/pwcyndf2zinoikhthcy9.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "62108aef",
+      "B": "f390913d",
+      "C": "3718e95c",
+      "E": "c5c8d3fa",
+      "J": "391e8571"
+     }
     }
    },
    "i18n_queued": "2026-10-25T19:54+09:00",
@@ -1985,7 +2029,13 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978409/vcu1lksiiyroj3xqpqxd.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "b57c106b",
+      "B": "88cba4f7",
+      "E": "ef986673",
+      "J": "a6d4cc28"
+     }
     }
    },
    "pick": {
@@ -2304,7 +2354,14 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978415/slwqxp5g7em5b4sdp0j7.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "720cf49d",
+      "B": "4723efd2",
+      "C": "f61d7021",
+      "E": "b0fa0ee0",
+      "J": "ff0a05d2"
+     }
     }
    },
    "shorts": {
@@ -2572,7 +2629,12 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978420/uh4ww3qhpp5ptogf8rsh.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "aa65ab74",
+      "B": "823d8523",
+      "C": "00cb2296"
+     }
     }
    },
    "corner_name": "이슈",
@@ -2681,7 +2743,12 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978426/cewftrwxf8thydcqpf5k.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "fd4bca0d",
+      "B": "9d31110f",
+      "C": "56f64311"
+     }
     }
    },
    "corner_name": "소식",
@@ -2823,7 +2890,12 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978432/dbcwyixsubpwdmyn3cmk.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:33+09:00"
+     "at": "2026-10-26T10:33+09:00",
+     "v": {
+      "A": "55d007dd",
+      "B": "ec21b2d8",
+      "C": "58683c80"
+     }
     }
    },
    "shorts": {
@@ -3036,7 +3108,12 @@
       "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792978438/dmxnac9ios9kwbliatvs.jpg"
      },
      "cvr": 2,
-     "at": "2026-10-26T10:34+09:00"
+     "at": "2026-10-26T10:34+09:00",
+     "v": {
+      "A": "9228bc13",
+      "B": "ef15dbf2",
+      "C": "4029f935"
+     }
     }
    },
    "corner_name": "후속",
@@ -3046,6 +3123,134 @@
      "from": "https://www.newsis.com/view/NISX20261022_0003836530"
     }
    ]
+  },
+  {
+   "source": {
+    "id": "claude:ord-6dda12f9",
+    "account": "@규효 공유 · @hipkr_",
+    "url": "https://www.instagram.com/p/De8JFHzGRlO/?cplk=MXQ3ZWI3dDB2M284Mw==",
+    "image": null,
+    "head": "로제가 만든 조니워커 하이볼, 오늘 BAR 81 에서 첫 공개 후 서울 바 다섯 곳으로",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T11:17+09:00",
+   "key": "cac91bc7",
+   "by": "claude",
+   "subjects": [
+    "조니워커",
+    "로제"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "로제가 조니워커 블랙으로 함께 만든 하이볼이 오늘 시그니엘 서울 BAR 81 에서 처음 나오고, 서울 바 다섯 곳으로 차례로 갑니다",
+    "why": "협업 발표 자체보다 독자가 직접 가서 마셔 볼 수 있는 곳(바 다섯 곳)이 확인되는 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T11:17+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n조니워커(@johnniewalkerkorea)가 로제를 새 글로벌 협업 파트너로 정했습니다.\n\n브랜드 철학 'Keep Walking' 을 바탕으로 한국과 영국, 인도네시아, 중국 등에서 캠페인이 이어지는데요, 첫 행사는 오늘 시그니엘 서울의 BAR 81 에서 열립니다.\n\n이 자리에서 로제가 개발에 참여한 조니워커 블랙 칵테일 'Twist of Something Highball'이 처음 공개됩니다. 앞으로는 BAR 81 을 시작으로 서울의 바 다섯 곳에서 차례로 맛볼 수 있습니다. 바마다 언제부터 내놓는지와 가격은 아직 알려지지 않았습니다.\n\n메뉴: 'Twist of Something Highball' (조니워커 블랙 베이스)\n첫 공개: 10월 26일(월) 시그니엘 서울 BAR 81\n판매처: BAR 81 · 힐즈앤유로파 · 바 라이언 · 콤팩트 레코드 바 · 232바 (순차 도입)\n\n#SENE #로제 #조니워커 #하이볼 #시그니엘서울 #바81\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792981080/icsday89k4rilf5es4dl.jpg\n제목: 로제가 만든 하이볼,|서울 바 다섯 곳에\n부제: 조니워커 글로벌 협업 파트너로 로제 선정\n출처: 디아지오코리아\n",
+    "caption": "조니워커(@johnniewalkerkorea)가 로제를 새 글로벌 협업 파트너로 정했습니다.\n\n브랜드 철학 'Keep Walking' 을 바탕으로 한국과 영국, 인도네시아, 중국 등에서 캠페인이 이어지는데요, 첫 행사는 오늘 시그니엘 서울의 BAR 81 에서 열립니다.\n\n이 자리에서 로제가 개발에 참여한 조니워커 블랙 칵테일 'Twist of Something Highball'이 처음 공개됩니다. 앞으로는 BAR 81 을 시작으로 서울의 바 다섯 곳에서 차례로 맛볼 수 있습니다. 바마다 언제부터 내놓는지와 가격은 아직 알려지지 않았습니다.\n\n메뉴: 'Twist of Something Highball' (조니워커 블랙 베이스)\n첫 공개: 10월 26일(월) 시그니엘 서울 BAR 81\n판매처: BAR 81 · 힐즈앤유로파 · 바 라이언 · 콤팩트 레코드 바 · 232바 (순차 도입)\n\n#SENE #로제 #조니워커 #하이볼 #시그니엘서울 #바81",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981080/icsday89k4rilf5es4dl.jpg",
+      "credit": "디아지오코리아",
+      "from": "https://img.hankyung.com/photo/202610/01.46192947.1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981078/hbak18zzgsixa7qsnjjd.jpg",
+      "credit": "@johnniewalker",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/867381297_18644265847060522_1262612726847042642_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SuGY1TTi3jMQ7kNvwG85bwd&_nc_oc=Adp1y0BAjDxsdMm3GE-pKnCBAJUuGW7h01d3pn8UPAswSGS9bhb6PpJp54ayTgaQU0E&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=gSyOMiHYEi3pLs8Z-4BPSQ&oh=00_AQPdYCZfeV7RAYuwgzXG-IjI5LMIJAO8oWJkXc2FvNFY1Q&oe=6AE4A15E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981082/hcnewslelhrhfpkjw4pg.jpg",
+      "credit": "디아지오코리아",
+      "from": "https://i3n.news1.kr/system/photos/2026/10/26/8178053/high.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981080/icsday89k4rilf5es4dl.jpg",
+      "credit": "디아지오코리아",
+      "from": "https://img.hankyung.com/photo/202610/01.46192947.1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981078/hbak18zzgsixa7qsnjjd.jpg",
+      "credit": "@johnniewalker",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/867381297_18644265847060522_1262612726847042642_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SuGY1TTi3jMQ7kNvwG85bwd&_nc_oc=Adp1y0BAjDxsdMm3GE-pKnCBAJUuGW7h01d3pn8UPAswSGS9bhb6PpJp54ayTgaQU0E&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=gSyOMiHYEi3pLs8Z-4BPSQ&oh=00_AQPdYCZfeV7RAYuwgzXG-IjI5LMIJAO8oWJkXc2FvNFY1Q&oe=6AE4A15E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981082/hcnewslelhrhfpkjw4pg.jpg",
+      "credit": "디아지오코리아",
+      "from": "https://i3n.news1.kr/system/photos/2026/10/26/8178053/high.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "로제가 만든 하이볼,|서울 바 다섯 곳에",
+      "sub": "조니워커 글로벌 협업 파트너로 로제 선정"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "조니워커, 로제와|글로벌 협업 시작",
+      "sub": "조니워커 블랙으로 만든 하이볼 공개"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "로제 하이볼 첫 잔은|시그니엘 BAR 81",
+      "sub": "이후 서울 바 네 곳으로 순차 도입"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "주류 소재 — 올리기 전 음주 경고 문구를 캡션에 넣을지 판단 (원 게시물·브랜드 게시물은 경고 문구를 달았음)",
+     "바별 판매 시작일·가격은 기사에 없어 뺐음 — 조니워커 코리아 공식 계정에 공지가 올라오면 실용 정보 줄에 추가"
+    ],
+    "research": [
+     {
+      "title": "로제 표 하이볼 나온다…조니워커, 글로벌 협업 파트너로 로제 선정 — 한국경제",
+      "link": "https://www.hankyung.com/article/202610264591g"
+     },
+     {
+      "title": "조니워커, 로제와 글로벌 협업…시그니처 하이볼 공개 — 핀포인트뉴스",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=498416"
+     },
+     {
+      "title": "조니워커, 글로벌 협업 파트너로 '로제' 선정 — 뉴스1",
+      "link": "https://www.news1.kr/industry/distribution/6331436"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981088/ub06usb9bbrokcth3oau.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981088/emzxf0uzuh2bbtk2a5ud.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981091/epiflvpa9urodpz8cbg9.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981091/vbtyzweo55ofddhvpo8k.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792981088/ub06usb9bbrokcth3oau.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-26T11:18+09:00",
+     "v": {
+      "A": "09731f24",
+      "B": "3ce88c6d",
+      "C": "d339c938"
+     }
+    }
+   },
+   "i18n_queued": "2026-10-26T11:17+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -3064,7 +3269,7 @@
     "need_today": 4,
     "day": null,
     "next_no": null,
-    "drafts": 10,
+    "drafts": 11,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -3176,7 +3381,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T09:06+09:00"
+  "at": "2026-10-26T11:17+09:00"
  },
  "slots": {
   "basis": 0,
