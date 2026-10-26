@@ -2671,6 +2671,13 @@
        "cvr": 2,
        "at": "2026-10-26T14:40+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De8zLDVFBB2/",
+      "cover": "E",
+      "at": "2026-10-26T16:58+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -2688,8 +2695,22 @@
        "cvr": 2,
        "at": "2026-10-26T14:40+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De8zNhAlOYV/",
+      "cover": "J",
+      "at": "2026-10-26T16:58+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De8zJnplKlu/",
+    "cover": "A",
+    "at": "2026-10-26T16:58+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -3054,6 +3075,13 @@
        "cvr": 2,
        "at": "2026-10-26T16:03+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De8zCqxFPRs/",
+      "cover": "E",
+      "at": "2026-10-26T16:57+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -3071,9 +3099,212 @@
        "cvr": 2,
        "at": "2026-10-26T16:03+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De8zE2JFPIk/",
+      "cover": "J",
+      "at": "2026-10-26T16:57+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De8zAjglGF9/",
+    "cover": "A",
+    "at": "2026-10-26T16:56+09:00",
+    "account": "sene",
+    "via": "api"
    }
+  },
+  {
+   "source": {
+    "id": "claude:ord-cbb35245",
+    "account": "@규효 공유 · @eyesmag",
+    "url": "https://www.instagram.com/p/DeshuergczV/?img_index=2&vrfl=MWY4NXMzZDF3angzcw==",
+    "image": null,
+    "head": "A24·로버트 패틴슨 〈프라임타임〉 국내 개봉 예정 — 실존 방송인 크리스 핸슨 이야기",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-26T16:59+09:00",
+   "key": "0f6fae36",
+   "by": "claude",
+   "subjects": [
+    "프라임타임",
+    "로버트 패틴슨"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "패틴슨이 실존 방송인 크리스 핸슨을 연기한 A24 〈프라임타임〉, 미국·베니스를 거쳐 국내 개봉을 앞뒀다",
+    "why": "규효 맡기기 — 패틴슨·A24 조합의 화제작이 국내 개봉 대기 중, 예고편 속 본인 소개 대사가 숏폼 첫 줄로 선다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-26T16:59+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n로버트 패틴슨이 실존 방송인을 연기한 A24(@a24) 영화 〈프라임타임〉이 국내 개봉을 앞두고 있습니다.\n\n패틴슨이 맡은 크리스 핸슨은 2000년대 NBC 프로그램 〈투 캐치 어 프레데터〉를 이끈 진행자인데요, 미성년자를 노린 성범죄 용의자를 함정 취재로 붙잡던 방송입니다. 영화는 인기가 커질수록 더 큰 사건을 좇던 그가 조금씩 무너져 가는 과정을 따라갑니다.\n\n연출은 다큐멘터리 〈썸 카인드 오브 헤븐〉의 랜스 오펜하임 감독으로, 그의 첫 극영화입니다. 제83회 베니스국제영화제 경쟁 부문에서 처음 공개됐고, 미국에서는 9월 25일 극장에 걸렸습니다.\n\n미국 개봉: 9월 25일\n국내 개봉: 예정 (날짜는 배급사 발표 후)\n\n#SENE #프라임타임 #로버트패틴슨 #A24 #랜스오펜하임\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793001606/lf0m6nnq5szbv2yebx8a.jpg\n제목: A24 〈프라임타임〉|국내 개봉 앞둬\n부제: 로버트 패틴슨이 방송인 크리스 핸슨으로\n출처: A24\n",
+    "caption": "로버트 패틴슨이 실존 방송인을 연기한 A24(@a24) 영화 〈프라임타임〉이 국내 개봉을 앞두고 있습니다.\n\n패틴슨이 맡은 크리스 핸슨은 2000년대 NBC 프로그램 〈투 캐치 어 프레데터〉를 이끈 진행자인데요, 미성년자를 노린 성범죄 용의자를 함정 취재로 붙잡던 방송입니다. 영화는 인기가 커질수록 더 큰 사건을 좇던 그가 조금씩 무너져 가는 과정을 따라갑니다.\n\n연출은 다큐멘터리 〈썸 카인드 오브 헤븐〉의 랜스 오펜하임 감독으로, 그의 첫 극영화입니다. 제83회 베니스국제영화제 경쟁 부문에서 처음 공개됐고, 미국에서는 9월 25일 극장에 걸렸습니다.\n\n미국 개봉: 9월 25일\n국내 개봉: 예정 (날짜는 배급사 발표 후)\n\n#SENE #프라임타임 #로버트패틴슨 #A24 #랜스오펜하임",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001606/lf0m6nnq5szbv2yebx8a.jpg",
+      "credit": "A24",
+      "from": "https://cdn.feeelthemovie.kr/feeelthemovie/2026/09/06223612/Robert-Pattinsons-Primetime-Receives-Rave-Reviews-in-Venice-01.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001603/dtuz9lvjr0eean7eipzw.jpg",
+      "credit": "A24",
+      "from": "https://img.marieclairekorea.com/2026/10/mck_6ad8b56be8b87.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001609/ec5rm1pvfh1d4geywq2w.jpg",
+      "credit": "A24",
+      "from": "https://cdn.feeelthemovie.kr/feeelthemovie/2026/09/26150248/Chris-Hansen-Watches-Primetime-Robert-Pattinson-01-2.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001606/lf0m6nnq5szbv2yebx8a.jpg",
+      "credit": "A24",
+      "from": "https://cdn.feeelthemovie.kr/feeelthemovie/2026/09/06223612/Robert-Pattinsons-Primetime-Receives-Rave-Reviews-in-Venice-01.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001603/dtuz9lvjr0eean7eipzw.jpg",
+      "credit": "A24",
+      "from": "https://img.marieclairekorea.com/2026/10/mck_6ad8b56be8b87.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001609/ec5rm1pvfh1d4geywq2w.jpg",
+      "credit": "A24",
+      "from": "https://cdn.feeelthemovie.kr/feeelthemovie/2026/09/26150248/Chris-Hansen-Watches-Primetime-Robert-Pattinson-01-2.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "A24 〈프라임타임〉|국내 개봉 앞둬",
+      "sub": "로버트 패틴슨이 방송인 크리스 핸슨으로"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "패틴슨, 방송인|크리스 핸슨이 되다",
+      "sub": "A24 〈프라임타임〉 국내 개봉 예정"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "함정 취재 방송을|영화로 옮긴 A24",
+      "sub": "로버트 패틴슨 주연 〈프라임타임〉"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — A24 공식 예고편 (28초)",
+     "국내 개봉일·배급사는 아직 공식 발표를 못 찾았습니다 — 날짜가 나오면 캡션 끝 줄을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "마리끌레르 코리아 — 로버트 패틴슨의 위험한 변신, 영화 '프라임타임' 국내 개봉",
+      "link": "https://www.marieclairekorea.com/culture/film/2026/10/primetime-a24/"
+     },
+     {
+      "title": "Deadline — Robert Pattinson A24 Movie 'Primetime' Sets Early Fall Release",
+      "link": "https://deadline.com/2026/07/robert-pattinson-primetime-a24-release-date-1237001008/"
+     },
+     {
+      "title": "Complex — A24 Primetime release date",
+      "link": "https://www.complex.com/pop-culture/a/tracewilliamcowen/a24-primetime-robert-pattinson-chris-hansen-release-date"
+     },
+     {
+      "title": "A24 — Primetime Official Trailer HD",
+      "link": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+     },
+     {
+      "title": "A24 — Primetime Official Trailer 2 HD",
+      "link": "https://www.youtube.com/watch?v=C0NZa01qTRU"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001615/rgc4qnqzrkifbywhtupw.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001614/kg0m57cdtzojyq1v3h18.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001618/d8k606gormxouvhjmdi9.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001617/ctl0q1ijteuwo7ijzyws.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001615/rgc4qnqzrkifbywhtupw.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-26T17:00+09:00",
+     "v": {
+      "A": "9fcbc1a7",
+      "B": "0ebd716c",
+      "C": "7042dce8"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=5fHXyqQOKL8\n구간: 0:17-0:45\n곡: 패틴슨이 그가 됐다\n아티스트: 크리스 핸슨입니다\n피처링:\n후킹: 데이트라인 NBC의\n출처: A24\n자막: 자동",
+    "caption": "로버트 패틴슨이 실존 방송인 크리스 핸슨이 된 A24(@a24) 영화 〈프라임타임〉이 국내 개봉을 앞두고 있습니다.\n\n영상은 A24 공식 예고편의 한 장면인데요, 함정 취재 현장에 들어선 핸슨이 자신을 소개하고, 이어 이 프로그램을 밤 9시 황금시간대로 옮긴다는 말이 나옵니다. 제목 〈프라임타임〉이 바로 그 시간대입니다.\n\n핸슨은 2000년대 NBC 〈투 캐치 어 프레데터〉로 이름을 알린 진행자입니다. 영화는 더 큰 사건을 좇던 그가 무너져 가는 과정을 그리고, 다큐멘터리 감독 랜스 오펜하임의 첫 극영화입니다. 제83회 베니스국제영화제 경쟁 부문에서 처음 공개됐습니다.\n\n미국 개봉: 9월 25일\n국내 개봉: 예정 (날짜는 배급사 발표 후)\n영상: A24 공식 예고편\n\n#SENE #프라임타임 #로버트패틴슨 #A24 #랜스오펜하임",
+    "hooks": {
+     "A": "데이트라인 NBC의 / 크리스 핸슨입니다 / 패틴슨이 그가 됐다",
+     "B": "A24 〈프라임타임〉 / 국내 개봉을 / 앞두고 있습니다",
+     "C": "밤 9시 황금시간대 / 그 방송의 진행자로 / 패틴슨이 섰다"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=5fHXyqQOKL8",
+     "credit": "A24",
+     "range": [
+      17.0,
+      45.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — A24 공식 예고편 (28초)",
+     "국내 개봉일·배급사는 아직 공식 발표를 못 찾았습니다 — 날짜가 나오면 캡션 끝 줄을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "마리끌레르 코리아 — 로버트 패틴슨의 위험한 변신, 영화 '프라임타임' 국내 개봉",
+      "link": "https://www.marieclairekorea.com/culture/film/2026/10/primetime-a24/"
+     },
+     {
+      "title": "Deadline — Robert Pattinson A24 Movie 'Primetime' Sets Early Fall Release",
+      "link": "https://deadline.com/2026/07/robert-pattinson-primetime-a24-release-date-1237001008/"
+     },
+     {
+      "title": "Complex — A24 Primetime release date",
+      "link": "https://www.complex.com/pop-culture/a/tracewilliamcowen/a24-primetime-robert-pattinson-chris-hansen-release-date"
+     },
+     {
+      "title": "A24 — Primetime Official Trailer HD",
+      "link": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+     },
+     {
+      "title": "A24 — Primetime Official Trailer 2 HD",
+      "link": "https://www.youtube.com/watch?v=C0NZa01qTRU"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/5fHXyqQOKL8/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793001627/b8dqqee7un4fchzvql7p.jpg",
+     "key": "5fHXyqQOKL8@17.0"
+    }
+   },
+   "i18n_queued": "2026-10-26T16:59+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -3092,7 +3323,7 @@
     "need_today": 4,
     "day": null,
     "next_no": null,
-    "drafts": 12,
+    "drafts": 13,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -3204,7 +3435,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T16:03+09:00"
+  "at": "2026-10-26T16:59+09:00"
  },
  "slots": {
   "basis": 0,
