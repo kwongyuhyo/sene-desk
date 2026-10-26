@@ -4665,71 +4665,68 @@
       "A": "4831c7d1",
       "B": "026c70e8",
       "C": "9250bd12",
-      "E": "59e2ccec",
-      "J": "8e4f4fc6"
+      "E": "1b0ac2b3",
+      "J": "81542790"
      }
     }
    },
    "i18n_queued": "2026-10-27T01:22+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-27T01:30+09:00",
+    "at": "2026-10-27T01:31+09:00",
     "confirm": [
-     "위액트 영문 표기 'WeACT' 는 GoFundMe 모금 페이지(gofundme.com/charity/weact)의 표기 기준 — 국내 기사에는 영문 표기가 없음. 공식 인스타그램 프로필 표기(WeACT / WEACT)를 한 번 더 확인",
-     "'사지않을개' 는 원문에 없는 말풀이(\"I won't buy\" + 개)를 덧붙였음 — 외국 독자가 알아보게 하려는 최소 설명이라, 빼려면 그 구절만 지우면 됨",
-     "주소 뒤에 붙인 'Seongsu-dong / 聖水洞' 은 원문 캡션의 '성수' 에서 가져왔음 (왕십리로10길 12 가 성수동1가인지는 지도로 확인)",
-     "입장 줄 머리말은 원문 '입장' 에 맞춰 Admission / 入場 으로 둠 (지침의 고정 머리말 목록에는 없는 줄)",
-     "단체 영문 표기 WeACT(대소문자): 웹에서는 'WeACT'와 'WEACT'가 둘 다 쓰임. 올리기 전에 @we.a.c.t 프로필에 적힌 표기와 맞는지 확인",
-     "일본어 캡션 「사지않을개」는 포스터 문구라서 한글 그대로 두고 읽는 법과 뜻풀이를 붙였음. 일본어판에 한글을 남겨도 되는지 사람이 판단 필요",
-     "주소 끝의 (Seongsu-dong)·（聖水洞）는 번역할 때 덧붙인 동 이름. 왕십리로10길 12가 성수동1가인지 지도에서 한 번 확인",
+     "위액트의 공식 영문 표기는 GoFundMe 모금 페이지의 'WEACT' 를 따랐습니다. 공식 계정에서 대소문자 표기(WEACT / WeAct)를 한 번 확인해 주세요.",
+     "일본어 'ウィーアクト' 는 공식 일본어 표기가 없어 원어 발음을 카タカナ로 옮긴 것입니다.",
+     "'사지않을개' 는 말장난이라 영어·일본어에서는 짧게 뜻을 풀어 덧붙였습니다. 원문에 없는 설명이 붙었으니 빼고 싶으면 로마자 표기만 남겨도 됩니다.",
+     "Espace Cosy 의 공식 영문·일본어 표기는 따로 찾지 못해 원문 표기를 그대로 두었습니다.",
+     "단체의 영문 표기 'WEACT'는 GoFundMe 모금 페이지(https://gofundme.com/f/1xb57b2bo0) 한 곳에서만 확인했습니다. 공식 계정(@we.a.c.t) 소개란에서 'WEACT'인지 'WE ACT'인지 한 번 확인해 주세요.",
+     "영어·일본어판 모두 '사지않을개'를 원문에 없는 말장난 풀이로 덧붙였습니다. 외국 독자가 이해하려면 필요하다고 보아 그대로 두었지만, 원문에서 더하거나 빼지 않는다는 규칙에 맞는지 사람이 판단해 주세요.",
      "일본어판 캡션에 한글이 남음"
     ],
     "review": {
-     "at": "2026-10-27T01:30+09:00",
+     "at": "2026-10-27T01:31+09:00",
      "fixes": [
-      "영어 · 캡션 셋째 단락 · a day to decide face to face → a day to think it over face to face — 원문 '생각해 볼 수 있는'을 '결정한다'로 바꿔 놓아 뜻이 세졌음",
-      "일본어 · 캡션 첫 문장 · WeACT（위액트・@we.a.c.t）→ WeACT（@we.a.c.t）— 공식 영문 표기가 있어서 한글을 덧붙일 필요가 없음(남은 한글)",
-      "일본어 · 캡션 둘째 단락 · 書かれました → 書かれています — 포스터에 지금 적혀 있는 문구라 현재형이 자연스러움",
-      "일본어 · 캡션 셋째 단락 · 迎え入れを考えているなら、写真ではなく顔を合わせて考えてみられる日です → 犬を家族に迎えることを考えているなら、写真ではなく実際に顔を合わせて考えられる日です — 「考えてみられる」가 어색하고 「迎え入れ」만으로는 무엇을 맞는지 분명하지 않음"
+      "영어 · 캡션 둘째 단락 · 'meet in person the dogs WEACT has rescued' → 'meet the dogs WEACT has rescued and is caring for, in person' — 동사와 목적어 사이에 in person 이 끼어 어순이 어색함",
+      "일본어 · 캡션 첫 문장 · 「ウィーアクト（WEACT・위액트）（@we.a.c.t）」 → 「ウィーアクト（WEACT・위액트、@we.a.c.t）」 — 괄호가 두 번 이어져 읽기 거북함",
+      "일본어 · 캡션 셋째 단락 · 「考えてみられる日」 → 「考えることができる日」 — 「みられる」가 가능형으로 어색하고 수동으로도 읽힘"
      ],
      "doubt": [
-      "단체 영문 표기 WeACT(대소문자): 웹에서는 'WeACT'와 'WEACT'가 둘 다 쓰임. 올리기 전에 @we.a.c.t 프로필에 적힌 표기와 맞는지 확인",
-      "일본어 캡션 「사지않을개」는 포스터 문구라서 한글 그대로 두고 읽는 법과 뜻풀이를 붙였음. 일본어판에 한글을 남겨도 되는지 사람이 판단 필요",
-      "주소 끝의 (Seongsu-dong)·（聖水洞）는 번역할 때 덧붙인 동 이름. 왕십리로10길 12가 성수동1가인지 지도에서 한 번 확인",
+      "단체의 영문 표기 'WEACT'는 GoFundMe 모금 페이지(https://gofundme.com/f/1xb57b2bo0) 한 곳에서만 확인했습니다. 공식 계정(@we.a.c.t) 소개란에서 'WEACT'인지 'WE ACT'인지 한 번 확인해 주세요.",
+      "영어·일본어판 모두 '사지않을개'를 원문에 없는 말장난 풀이로 덧붙였습니다. 외국 독자가 이해하려면 필요하다고 보아 그대로 두었지만, 원문에서 더하거나 빼지 않는다는 규칙에 맞는지 사람이 판단해 주세요.",
       "일본어판 캡션에 한글이 남음"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nAnimal rescue group WeACT (@we.a.c.t) holds an adoption party in Seongsu-dong, Seoul, on Nov 7.\n\nThe event is a chance to meet in person the dogs WeACT has rescued and is caring for. Admission is free, and visitors check in on site. This year's poster carries two phrases: 'Sajianeulgae', a Korean pun that blends \"I won't buy\" with the word for dog, and 'BYE BUY'.\n\nLast year's adoption party ran for three hours in May. This year it opens for seven hours on a single Saturday in Seongsu. For anyone thinking about adopting, it is a day to think it over face to face rather than from a photo.\n\nDates: Sat, Nov 7, 11:00 AM – 6:00 PM\nLocation: Espace Cosy, 12 Wangsimni-ro 10-gil, Seongdong-gu, Seoul (Seongsu-dong)\nAdmission: Free · walk-in\n\n#SENE #WeACT #Seongsu #RescueDogs #AdoptDontShop\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793031749/aubqn3uafacx66gt7eat.jpg\n제목: Rescue Dog Adoption Party|Nov 7 in Seongsu\n부제: WeACT · One Day Only · Free Entry\n출처: @we.a.c.t\n",
-      "caption": "Animal rescue group WeACT (@we.a.c.t) holds an adoption party in Seongsu-dong, Seoul, on Nov 7.\n\nThe event is a chance to meet in person the dogs WeACT has rescued and is caring for. Admission is free, and visitors check in on site. This year's poster carries two phrases: 'Sajianeulgae', a Korean pun that blends \"I won't buy\" with the word for dog, and 'BYE BUY'.\n\nLast year's adoption party ran for three hours in May. This year it opens for seven hours on a single Saturday in Seongsu. For anyone thinking about adopting, it is a day to think it over face to face rather than from a photo.\n\nDates: Sat, Nov 7, 11:00 AM – 6:00 PM\nLocation: Espace Cosy, 12 Wangsimni-ro 10-gil, Seongdong-gu, Seoul (Seongsu-dong)\nAdmission: Free · walk-in\n\n#SENE #WeACT #Seongsu #RescueDogs #AdoptDontShop",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nAnimal rescue group WEACT (@we.a.c.t) holds an adoption party in Seongsu on November 7.\n\nIt is a chance to meet the dogs WEACT has rescued and is caring for, in person. Entry is free, with check-in on site. This year's poster carries two phrases: 'Saji Aneulgae', a Korean pun that reads as both \"I won't buy\" and \"dog\", and 'BYE BUY'.\n\nLast year's adoption party ran for three hours in May. This year it opens for seven hours on a single Saturday in Seongsu. For anyone considering adoption, it is a day to think it over face to face rather than through photos.\n\nDates: Sat, Nov 7, 11:00 – 18:00\nLocation: Espace Cosy, 12 Wangsimni-ro 10-gil, Seongdong-gu, Seoul (Seongsu)\nEntry: Free · walk-in\n\n#SENE #AdoptDontShop #RescueDogs #Seongsu #SeoulEvents\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793031749/aubqn3uafacx66gt7eat.jpg\n제목: Rescue Dog Adoption Party|Nov 7 in Seongsu\n부제: WEACT · One Day Only · Free Entry\n출처: @we.a.c.t\n",
+      "caption": "Animal rescue group WEACT (@we.a.c.t) holds an adoption party in Seongsu on November 7.\n\nIt is a chance to meet the dogs WEACT has rescued and is caring for, in person. Entry is free, with check-in on site. This year's poster carries two phrases: 'Saji Aneulgae', a Korean pun that reads as both \"I won't buy\" and \"dog\", and 'BYE BUY'.\n\nLast year's adoption party ran for three hours in May. This year it opens for seven hours on a single Saturday in Seongsu. For anyone considering adoption, it is a day to think it over face to face rather than through photos.\n\nDates: Sat, Nov 7, 11:00 – 18:00\nLocation: Espace Cosy, 12 Wangsimni-ro 10-gil, Seongdong-gu, Seoul (Seongsu)\nEntry: Free · walk-in\n\n#SENE #AdoptDontShop #RescueDogs #Seongsu #SeoulEvents",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032238/s8ghmtoixmlmpdlec2qv.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032237/bdcnz2fjvw0jpmyatdtr.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032305/gnmcjkv7c6kodmp7rkze.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032304/yetbl6fcnf6xslufa5sa.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032238/s8ghmtoixmlmpdlec2qv.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032305/gnmcjkv7c6kodmp7rkze.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T01:30+09:00"
+       "at": "2026-10-27T01:31+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\n動物保護団体のWeACT（@we.a.c.t）が、11月7日にソウル・聖水洞（ソンスドン）で譲渡会を開きます。\n\nWeACTが保護し、世話をしている犬たちに直接会える場なのですが、入場料はなく、当日会場でチェックインして入ります。今年のポスターには「사지않을개（サジアヌルケ）」と「BYE BUY」という言葉が書かれています。「買わないよ」と韓国語の「犬（ケ）」をかけた言葉です。\n\n昨年の譲渡会は5月に3時間開かれましたが、今年は聖水で土曜日の1日、7時間にわたって開かれます。犬を家族に迎えることを考えているなら、写真ではなく実際に顔を合わせて考えられる日です。\n\n期間：11月7日（土）11:00〜18:00\n場所：ソウル特別市城東区往十里路（ワンシムニロ）10キル12、Espace Cosy（聖水洞）\n入場：無料・当日入場\n\n#SENE #韓国旅行 #聖水 #保護犬 #譲渡会\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793031749/aubqn3uafacx66gt7eat.jpg\n제목: 保護犬に会える譲渡会|11月7日、聖水で\n부제: WeACT・1日限り・入場無料\n출처: @we.a.c.t\n",
-      "caption": "動物保護団体のWeACT（@we.a.c.t）が、11月7日にソウル・聖水洞（ソンスドン）で譲渡会を開きます。\n\nWeACTが保護し、世話をしている犬たちに直接会える場なのですが、入場料はなく、当日会場でチェックインして入ります。今年のポスターには「사지않을개（サジアヌルケ）」と「BYE BUY」という言葉が書かれています。「買わないよ」と韓国語の「犬（ケ）」をかけた言葉です。\n\n昨年の譲渡会は5月に3時間開かれましたが、今年は聖水で土曜日の1日、7時間にわたって開かれます。犬を家族に迎えることを考えているなら、写真ではなく実際に顔を合わせて考えられる日です。\n\n期間：11月7日（土）11:00〜18:00\n場所：ソウル特別市城東区往十里路（ワンシムニロ）10キル12、Espace Cosy（聖水洞）\n入場：無料・当日入場\n\n#SENE #韓国旅行 #聖水 #保護犬 #譲渡会",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n動物保護団体のウィーアクト（WEACT・위액트、@we.a.c.t）が、11月7日にソウル・聖水（ソンス）で譲渡会を開きます。\n\nウィーアクトが保護し、世話をしている犬たちに直接会える場なのですが、入場料はなく、当日会場でチェックインして入ります。今年のポスターには「사지않을개（サジアヌルケ）」――「買いません」と「犬（ケ）」をかけた言葉――と「BYE BUY」という言葉が書かれています。\n\n昨年の譲渡会は5月に3時間の開催でしたが、今年は聖水で土曜日の1日、7時間にわたって開かれます。迎え入れを考えているなら、写真ではなく実際に顔を合わせて考えることができる日です。\n\n期間：11月7日（土）11:00〜18:00\n場所：ソウル市城東区往十里路10ギル12（왕십리로10길 12）、Espace Cosy\n入場：無料・当日入場\n\n#SENE #保護犬 #譲渡会 #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793031749/aubqn3uafacx66gt7eat.jpg\n제목: 保護犬に会える譲渡会、|11月7日に聖水で\n부제: WEACT・1日限り・入場無料\n출처: @we.a.c.t\n",
+      "caption": "動物保護団体のウィーアクト（WEACT・위액트、@we.a.c.t）が、11月7日にソウル・聖水（ソンス）で譲渡会を開きます。\n\nウィーアクトが保護し、世話をしている犬たちに直接会える場なのですが、入場料はなく、当日会場でチェックインして入ります。今年のポスターには「사지않을개（サジアヌルケ）」――「買いません」と「犬（ケ）」をかけた言葉――と「BYE BUY」という言葉が書かれています。\n\n昨年の譲渡会は5月に3時間の開催でしたが、今年は聖水で土曜日の1日、7時間にわたって開かれます。迎え入れを考えているなら、写真ではなく実際に顔を合わせて考えることができる日です。\n\n期間：11月7日（土）11:00〜18:00\n場所：ソウル市城東区往十里路10ギル12（왕십리로10길 12）、Espace Cosy\n入場：無料・当日入場\n\n#SENE #保護犬 #譲渡会 #聖水 #韓国旅行",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032240/tafrsgqed88lctzxgnkv.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032240/tux9dhw5bn5cl9fcfj1h.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032307/iujnaeny2hgvlyx2akin.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032307/qqwh1ia7viquynsq5xdf.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032240/tafrsgqed88lctzxgnkv.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793032307/iujnaeny2hgvlyx2akin.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T01:30+09:00"
+       "at": "2026-10-27T01:31+09:00"
       }
      }
     }
@@ -4864,7 +4861,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T01:30+09:00"
+  "at": "2026-10-27T01:31+09:00"
  },
  "slots": {
   "basis": 0,
