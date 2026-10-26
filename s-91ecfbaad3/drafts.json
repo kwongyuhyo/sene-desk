@@ -2806,61 +2806,61 @@
       "A": "b015c242",
       "B": "30389955",
       "C": "fb044691",
-      "E": "d493e82f",
-      "J": "f0558b6c"
+      "E": "16bb5eb8",
+      "J": "66283a08"
      }
     }
    },
    "i18n_queued": "2026-10-26T14:53+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-26T14:54+09:00",
+    "at": "2026-10-26T14:55+09:00",
     "confirm": [
-     "검색으로 플레인아카이브의 연기 공지를 찾지 못했습니다. 그래서 날짜·가격·연기 사유는 모두 한국어 원문 그대로 옮겼습니다. 올리기 전에 플레인아카이브 공식 공지와 한 번 맞춰 봐 주세요.",
-     "플레인아카이브는 영어 'Plain Archive' 로 썼고, 일본어는 처음 한 번만 원어를 괄호에 넣었습니다. 작품명은 일본 원제 『ルックバック』, 영어 공식 제목 'Look Back' 입니다.",
-     "판본 이름은 'Fullslip'(フルスリップ), 'SteelBook'(スチールブック), 'Digipak'(デジパック) 으로 옮겼습니다. 플레인아카이브의 영문 판매 페이지 표기가 다르면 그 표기를 따라 주세요.",
-     "영어·일본어 · 'Fullslip'/'フルスリップ' — 수집가들은 보통 'full slip'으로 띄어 쓰는 편이라, 플레인아카이브가 영문으로 어떻게 표기하는지 확인하면 좋음 (이번 검수에서는 검색으로 확인하지 않았음)"
+     "플레인아카이브의 일본어 공식 표기는 찾지 못했습니다. 일본어판에는 プレーンアーカイブ（Plain Archive）로 적었습니다.",
+     "〈룩백〉의 영어 'Look Back'과 일본어 『ルックバック』은 널리 알려진 공식 제목이라 그대로 썼습니다. 이번 검색에서 따로 확인하지는 않았습니다.",
+     "출처 칸은 영어·일본어판 모두 브랜드의 영문 이름 'Plain Archive'로 옮겼습니다. 한글 '플레인아카이브'를 그대로 두려면 고쳐 주세요.",
+     "영어·일본어 · 플레인아카이브 영문 표기 — 'Plain Archive'로 옮겼으나 레이블 공식 로고·계정의 대소문자 표기(PLAIN ARCHIVE 등)는 확인하지 못함, 올리기 전 공식 계정에서 확인",
+     "일본어 · 표지 제목 '4K版' — 원문 '4K 블루레이'를 줄 길이 때문에 줄인 것으로 보임, 뜻은 통하나 필요하면 '4K BD'로"
     ],
     "review": {
-     "at": "2026-10-26T14:54+09:00",
-     "fixes": [
-      "일본어 · 캡션 둘째 단락 · 'Plain Archive（플레인아카이브）' → 'Plain Archive' — 일본어판에 한글이 남아 있었음. 공식 영문 표기를 쓰고 있으니 원어를 괄호로 덧붙일 필요가 없음"
-     ],
+     "at": "2026-10-26T14:55+09:00",
+     "fixes": [],
      "doubt": [
-      "영어·일본어 · 'Fullslip'/'フルスリップ' — 수집가들은 보통 'full slip'으로 띄어 쓰는 편이라, 플레인아카이브가 영문으로 어떻게 표기하는지 확인하면 좋음 (이번 검수에서는 검색으로 확인하지 않았음)"
+      "영어·일본어 · 플레인아카이브 영문 표기 — 'Plain Archive'로 옮겼으나 레이블 공식 로고·계정의 대소문자 표기(PLAIN ARCHIVE 등)는 확인하지 못함, 올리기 전 공식 계정에서 확인",
+      "일본어 · 표지 제목 '4K版' — 원문 '4K 블루레이'를 줄 길이 때문에 줄인 것으로 보임, 뜻은 통하나 필요하면 '4K BD'로"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Korean 4K Blu-ray release of the animated film 'Look Back' has been pushed back to January 2027.\n\nIt was originally due out on Oct 22. In a notice, distributor Plain Archive said the Dolby Vision HDR grading of the 4K feature is being redone from the mastering stage.\n\nAs a result, ship dates now differ by edition. The two box sets that include the 4K UHD disc, a SteelBook and a Digipak, ship on Jan 19, while the Blu-ray Fullslip and the DVD ship on Nov 5. If you have preordered, it is worth checking your order history to see which edition you have.\n\nShipping: Blu-ray Fullslip, DVD — Nov 5, 2026 (Thu)\nShipping: 4K+BD SteelBook and Digipak box sets — Jan 19, 2027 (Tue)\nPrice: SteelBook KRW 107,900 · Digipak KRW 97,900 · Fullslip KRW 47,900 · DVD KRW 27,900\n\n#SENE #LookBack #PlainArchive #BluRay #Steelbook\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792994007/xug5tybv9z7kiahpz5lh.jpg\n제목: 'Look Back' 4K Blu-ray|Delayed to January\n부제: Fullslip and DVD ship Nov 5\n출처: Plain Archive\n",
-      "caption": "The Korean 4K Blu-ray release of the animated film 'Look Back' has been pushed back to January 2027.\n\nIt was originally due out on Oct 22. In a notice, distributor Plain Archive said the Dolby Vision HDR grading of the 4K feature is being redone from the mastering stage.\n\nAs a result, ship dates now differ by edition. The two box sets that include the 4K UHD disc, a SteelBook and a Digipak, ship on Jan 19, while the Blu-ray Fullslip and the DVD ship on Nov 5. If you have preordered, it is worth checking your order history to see which edition you have.\n\nShipping: Blu-ray Fullslip, DVD — Nov 5, 2026 (Thu)\nShipping: 4K+BD SteelBook and Digipak box sets — Jan 19, 2027 (Tue)\nPrice: SteelBook KRW 107,900 · Digipak KRW 97,900 · Fullslip KRW 47,900 · DVD KRW 27,900\n\n#SENE #LookBack #PlainArchive #BluRay #Steelbook",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Korean 4K Blu-ray of the animated film 'Look Back' has been pushed back to January 2027.\n\nIt was originally due out on Oct 22. In a notice, the label Plain Archive said the Dolby Vision HDR grading for the 4K feature is being redone from the mastering stage.\n\nAs a result, shipping dates now differ by edition. The two box sets that include the 4K UHD, a SteelBook and a Digipak, ship Jan 19, while the Blu-ray full-slip and the DVD ship Nov 5. It is worth checking your order history to see which edition you reserved.\n\nShips: Blu-ray full-slip, DVD – Thu, Nov 5, 2026\nShips: 4K+BD SteelBook and Digipak box sets – Tue, Jan 19, 2027\nPrice: SteelBook KRW 107,900 · Digipak KRW 97,900 · Full-slip KRW 47,900 · DVD KRW 27,900\n\n#SENE #LookBack #PlainArchive #Bluray #Steelbook\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792994007/xug5tybv9z7kiahpz5lh.jpg\n제목: 'Look Back' 4K Blu-ray|Delayed to January\n부제: Full-slip and DVD ship Nov 5\n출처: Plain Archive\n",
+      "caption": "The Korean 4K Blu-ray of the animated film 'Look Back' has been pushed back to January 2027.\n\nIt was originally due out on Oct 22. In a notice, the label Plain Archive said the Dolby Vision HDR grading for the 4K feature is being redone from the mastering stage.\n\nAs a result, shipping dates now differ by edition. The two box sets that include the 4K UHD, a SteelBook and a Digipak, ship Jan 19, while the Blu-ray full-slip and the DVD ship Nov 5. It is worth checking your order history to see which edition you reserved.\n\nShips: Blu-ray full-slip, DVD – Thu, Nov 5, 2026\nShips: 4K+BD SteelBook and Digipak box sets – Tue, Jan 19, 2027\nPrice: SteelBook KRW 107,900 · Digipak KRW 97,900 · Full-slip KRW 47,900 · DVD KRW 27,900\n\n#SENE #LookBack #PlainArchive #Bluray #Steelbook",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994092/jhkrul3y6wzyvwhq2cy6.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994092/qtkxcts9wnia9rn5qoec.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994155/ygmfyag2stk33fvdcgsj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994155/wwthpxeq1yrwbj1ce7y0.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994092/jhkrul3y6wzyvwhq2cy6.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994155/ygmfyag2stk33fvdcgsj.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T14:54+09:00"
+       "at": "2026-10-26T14:55+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nアニメーション映画『ルックバック』の韓国版4Kブルーレイが、2027年1月に延期されました。\n\n当初は10月22日に発売される予定でしたが、発売元のPlain Archiveは告知で、4K本編のドルビービジョンHDRグレーディングをマスター段階からやり直すことになったと説明しています。\n\nそのため、出荷日はエディションごとに分かれました。4K UHDを収めたスチールブックとデジパックのボックスセット2種は1月19日、ブルーレイのフルスリップとDVDは11月5日の出荷です。予約したエディションがどちらなのか、注文履歴で一度確かめておくと安心です。\n\n出荷：ブルーレイ フルスリップ・DVD 2026年11月5日（木）\n出荷：4K+BD スチールブック・デジパック ボックスセット 2027年1月19日（火）\n価格：スチールブック 107,900ウォン・デジパック 97,900ウォン・フルスリップ 47,900ウォン・DVD 27,900ウォン\n\n#SENE #ルックバック #ブルーレイ #スチールブック #韓国盤\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792994007/xug5tybv9z7kiahpz5lh.jpg\n제목: 『ルックバック』4K BD|来年1月に延期\n부제: フルスリップ・DVDは11月5日出荷\n출처: Plain Archive\n",
-      "caption": "アニメーション映画『ルックバック』の韓国版4Kブルーレイが、2027年1月に延期されました。\n\n当初は10月22日に発売される予定でしたが、発売元のPlain Archiveは告知で、4K本編のドルビービジョンHDRグレーディングをマスター段階からやり直すことになったと説明しています。\n\nそのため、出荷日はエディションごとに分かれました。4K UHDを収めたスチールブックとデジパックのボックスセット2種は1月19日、ブルーレイのフルスリップとDVDは11月5日の出荷です。予約したエディションがどちらなのか、注文履歴で一度確かめておくと安心です。\n\n出荷：ブルーレイ フルスリップ・DVD 2026年11月5日（木）\n出荷：4K+BD スチールブック・デジパック ボックスセット 2027年1月19日（火）\n価格：スチールブック 107,900ウォン・デジパック 97,900ウォン・フルスリップ 47,900ウォン・DVD 27,900ウォン\n\n#SENE #ルックバック #ブルーレイ #スチールブック #韓国盤",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nアニメーション映画『ルックバック』の韓国版4K Blu-rayが、2027年1月に延期されました。\n\n当初は10月22日に発売される予定でしたが、発売元のプレーンアーカイブ（Plain Archive）は告知で、4K本編のドルビービジョンHDRグレーディングをマスター段階から作業し直すことになったと説明しています。\n\nそのため、出荷日は仕様ごとに分かれました。4K UHDを収めたスチールブックとデジパックのボックスセット2種は1月19日、Blu-rayフルスリップとDVDは11月5日の出荷です。予約した仕様がどちらなのか、注文履歴で一度確認しておくとよさそうです。\n\n出荷：Blu-rayフルスリップ・DVD　2026年11月5日（木）\n出荷：4K+BD スチールブック・デジパック ボックスセット　2027年1月19日（火）\n価格：スチールブック 107,900ウォン・デジパック 97,900ウォン・フルスリップ 47,900ウォン・DVD 27,900ウォン\n\n#SENE #ルックバック #韓国盤 #ブルーレイ #スチールブック\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1792994007/xug5tybv9z7kiahpz5lh.jpg\n제목: 『ルックバック』4K版|来年1月に延期\n부제: フルスリップ・DVDは11月5日出荷\n출처: Plain Archive\n",
+      "caption": "アニメーション映画『ルックバック』の韓国版4K Blu-rayが、2027年1月に延期されました。\n\n当初は10月22日に発売される予定でしたが、発売元のプレーンアーカイブ（Plain Archive）は告知で、4K本編のドルビービジョンHDRグレーディングをマスター段階から作業し直すことになったと説明しています。\n\nそのため、出荷日は仕様ごとに分かれました。4K UHDを収めたスチールブックとデジパックのボックスセット2種は1月19日、Blu-rayフルスリップとDVDは11月5日の出荷です。予約した仕様がどちらなのか、注文履歴で一度確認しておくとよさそうです。\n\n出荷：Blu-rayフルスリップ・DVD　2026年11月5日（木）\n出荷：4K+BD スチールブック・デジパック ボックスセット　2027年1月19日（火）\n価格：スチールブック 107,900ウォン・デジパック 97,900ウォン・フルスリップ 47,900ウォン・DVD 27,900ウォン\n\n#SENE #ルックバック #韓国盤 #ブルーレイ #スチールブック",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994095/d48sbazg9el60xxirik0.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994094/rkv71dleh4wxxibrpsd7.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994158/u6ryxcnuvtyf8gkfnfwh.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994157/jl0md95qgnaqvwddyvnu.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994095/d48sbazg9el60xxirik0.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1792994158/u6ryxcnuvtyf8gkfnfwh.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-26T14:54+09:00"
+       "at": "2026-10-26T14:55+09:00"
       }
      }
     }
@@ -2995,7 +2995,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-26T14:54+09:00"
+  "at": "2026-10-26T14:55+09:00"
  },
  "slots": {
   "basis": 0,
