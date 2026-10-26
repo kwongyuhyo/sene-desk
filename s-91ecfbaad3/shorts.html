@@ -164,44 +164,47 @@ header .count{
   position:absolute; inset:0; background-size:cover; background-position:center;
   opacity:0; transition:opacity .25s ease;
 }
-/* SENE 숏폼 A안 (2026-07-25 확정 · generators/sene_short_overlay.py 와 같은 수치)
-     워드마크 SENE.   (72,208) 50px · 마침표만 로즈 · Archivo 900/wdth 112 · 자간 -.035em
-     카테고리         (74,284) 27px 로즈 · Pretendard ExtraBold — "패션 · FILA"
-     헤드라인         왼쪽 아래 92px(64 까지 줄임) · 2줄까지 · 종이색 · Pretendard Black · 줄 간격 int(px×1.16)
-                      출처 줄 38px 위에 바닥을 맞춘다 · 폭 808(오른쪽 200 비움)
-     출처             y 1418 · 26px · 회색 (150,146,140) — "출처 · 패션엔"
-     그라디언트       아래 800px 선형 α 0→224 + 위 180px 스크림 α 115→0
-   좌표는 PIL 처럼 '글자 상자 위'(ascender) 기준이라, CSS 에서는 기준선을 맞춰 top 을 계산한다
-   (app.js paintFrame). 여기 값은 기본 자리다. */
+/* SENE 숏폼 A2 (2026-10-26 확정 · generators/sene_short_overlay.py 와 같은 수치 — 카드뉴스 v2 의 틀)
+     마스트헤드 SENE. (64,236) 46px · 마침표 로즈 · 그 아래 y310 종이색 가는 줄 · 오른쪽 끝 영문 카테고리 22px
+     헤드라인         왼쪽 64 · 88px(64 까지) · 2줄까지 · 종이색 · 바닥 y1226 · 폭 816 · *낱말* 은 로즈
+     말자막           종이색 상자 · 먹색 Bold 40 · 상자 바닥 y1368
+     아래 띠          y1384 가는 줄(64→880) · SELECT EVERY NEW EDIT · 오른쪽 880 끝에 출처 22px
+     그라디언트       먹색 — 아래 820→1520 α 0→235, 위 120~480 스크림 α 160→0
+   좌표는 PIL 처럼 '글자 상자 위'(ascender) 기준이라, CSS 에서는 기준선을 맞춰 top 을 계산한다 (app.js paintFrame). */
 .frame .grad{
-  position:absolute; left:0; right:0; bottom:0; height:800px; pointer-events:none;
-  background:linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,.878) 100%);
+  position:absolute; left:0; right:0; bottom:0; height:1100px; pointer-events:none;
+  background:linear-gradient(to bottom, rgba(36,34,32,0) 0px, rgba(36,34,32,.92) 700px, rgba(36,34,32,.92) 100%);
 }
-.frame .grad::before{content:''; position:absolute; left:0; right:0; top:-1120px; height:180px;
-  background:linear-gradient(to bottom, rgba(0,0,0,.451) 0%, rgba(0,0,0,0) 100%)}
+.frame .grad::before{content:''; position:absolute; left:0; right:0; top:-820px; height:480px;
+  background:linear-gradient(to bottom, rgba(36,34,32,.627) 0px, rgba(36,34,32,.627) 120px, rgba(36,34,32,0) 480px)}
+.frame .grad::after{content:'SELECT EVERY NEW EDIT'; position:absolute; left:64px; right:200px; top:564px;
+  border-top:2px solid #968F88; padding-top:14px; font-family:Pretendard,sans-serif; font-weight:700; font-size:19px;
+  letter-spacing:.06em; line-height:1; color:#C8C2BA; white-space:nowrap}
 .frame.hasPhoto .photo{opacity:1}
 .frame.hasPhoto::after{display:none}
-.frame .logo{position:absolute; left:72px; top:210.3px; line-height:1; white-space:nowrap;
-  font-family:SeneMark,'Archivo',sans-serif; font-weight:900; font-size:50px; letter-spacing:-1.75px;
+.frame .logo{position:absolute; left:64px; top:238.1px; line-height:1; white-space:nowrap;
+  font-family:SeneMark,'Archivo',sans-serif; font-weight:900; font-size:46px; letter-spacing:-1.61px;
   color:#F5F2EC}
 .frame .logo i{font-style:normal; color:#E8CDD2}
-.frame .catBar{display:none}
+.frame .catBar{display:block; position:absolute; left:64px; right:64px; top:309px; height:2px; background:#F5F2EC}
 .frame .cat{
-  position:absolute; left:74px; top:286.9px; line-height:1;
-  font-family:PlotPre,Pretendard,sans-serif; font-weight:800;
-  font-size:27px; color:#E8CDD2; white-space:nowrap;
+  position:absolute; right:64px; top:252px; line-height:1;
+  font-family:Pretendard,sans-serif; font-weight:700; letter-spacing:.06em;
+  font-size:22px; color:#F5F2EC; white-space:nowrap;
 }
 .frame .line{
-  position:absolute; left:72px; top:1283.3px;
+  position:absolute; left:64px; top:1138px;
   font-family:PlotNoto,Pretendard,sans-serif; font-weight:900;
-  color:#F5F2EC; white-space:nowrap; line-height:1; font-size:92px;
+  color:#F5F2EC; white-space:nowrap; line-height:1; font-size:88px;
 }
+.frame .line .hi{color:#E8CDD2}
 .frame .ttx{display:inline-block; line-height:1}
 .frame .artist{display:none}
 .frame .suffix{display:none}
 .frame .src{
-  position:absolute; left:72px; top:1420.8px; font-family:PlotPre,Pretendard,sans-serif;
-  font-weight:800; font-size:26px; line-height:1; color:#96928C; white-space:nowrap;
+  position:absolute; right:200px; top:1396px; font-family:Pretendard,sans-serif;
+  font-weight:600; font-size:22px; line-height:1; color:#C8C2BA; white-space:nowrap;
+  max-width:450px; overflow:hidden; text-overflow:ellipsis;
 }
 .frame .over{outline:2px dashed var(--bad); outline-offset:6px}
 .pvNote{margin-top:6px; font-size:12.5px; color:var(--dim); line-height:1.45}
@@ -297,17 +300,18 @@ details.formFold>summary{cursor:pointer; font-size:12.5px; color:var(--faint); p
 }
 
 
-/* 재생 미리보기 — 완성본 / 구간 칸, 말자막 (SENE 말자막 규격: Pretendard Bold 56 · 종이색 · 먹색 외곽선 · 왼쪽 x72 · 폭 808 · y1030) */
+/* 재생 미리보기 — 완성본 / 구간 칸, 말자막 (SENE A2 말자막: 종이색 상자 · 먹색 Bold 40 · 왼쪽 x64 · 상자 바닥 y1368) */
 .ppTabs{display:flex; gap:6px; padding:0 14px 8px; flex:none}
 .ppTabs[hidden]{display:none}
 .ppTab{flex:1; background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.16); color:rgba(255,255,255,.75);
   border-radius:8px; font:inherit; font-size:13.5px; font-weight:700; padding:8px; cursor:pointer}
 .ppTab.on{background:#fff; color:#000; border-color:#fff}
 .ppTab[hidden]{display:none}
-.ppOver .sub{position:absolute; left:72px; width:808px; top:1030px; transform:translateY(-50%);
-  text-align:left; color:#F5F2EC; font-family:PlotPre,Pretendard,sans-serif; font-weight:700; font-size:56px; line-height:1.3;
-  -webkit-text-stroke:6px rgba(36,34,32,.84); paint-order:stroke fill; text-shadow:0 4px 12px rgba(0,0,0,.6);
+.ppOver .sub{position:absolute; left:64px; max-width:776px; bottom:552px; top:auto; transform:none;
+  text-align:left; color:#242220; background:rgba(245,242,236,.95); border-radius:10px; padding:12px 20px;
+  font-family:Pretendard,sans-serif; font-weight:700; font-size:40px; line-height:1.3;
   text-wrap:balance; white-space:pre-line}
+.ppOver .sub:empty{display:none}
 .ppOver[hidden]{display:none}
 .ppSubList{max-height:30vh; overflow:auto; margin:8px 14px 0; flex:none; -webkit-overflow-scrolling:touch}
 .ppSubList[hidden]{display:none}
@@ -1135,7 +1139,7 @@ html:root[data-gap="wide"] .wrap{ padding-left:24px; padding-right:24px }
     <div class="side">
       <div class="pvHead"><b>미리보기</b><span id="pvWhich"></span></div>
       <div class="pvStatus" id="pvStatus"></div>
-      <div class="pvNote" id="pvNote">SENE A안 · 1080×1920 기준 글자 배치입니다.</div>
+      <div class="pvNote" id="pvNote">SENE A2 · 1080×1920 기준 글자 배치입니다 (릴스 화면 UI 를 피한 자리).</div>
       <button class="pvPlayBtn" id="pvPlay" type="button" hidden>▶ 구간 재생해서 보기</button>
     </div>
   </div>
@@ -1760,11 +1764,10 @@ async function ytThumb(id, atFrac) {
 /* 완성본 하단 그라디언트(높이 820 · 최대 알파 245)를 같이 계산한다.
    이걸 빼고 재면 글자 자리가 실제보다 훨씬 밝게 나와 "배경이 밝습니다" 경고가
    쓸데없이 떴다. 출처 줄 자리는 실제로는 거의 검정이다(알파 0.9 이상). */
-function gradFactor(canvasY) {                      // A안: 아래 800px α 0→224 · 위 180px 스크림 115→0
-  if (canvasY < 180) return 1 - (115 / 255) * (1 - canvasY / 180);
-  const t = (canvasY - (1920 - 800)) / 800;
-  if (t <= 0) return 1;
-  return 1 - (224 / 255) * Math.min(1, t);
+function gradFactor(canvasY) {                      // A2: 아래 820→1520 α 0→235 · 위 120~480 스크림 160→0
+  const top = (160 / 255) * Math.max(0, Math.min(1, 1 - (canvasY - 120) / 360));
+  const bot = (235 / 255) * Math.max(0, Math.min(1, (canvasY - 820) / 700));
+  return 1 - Math.max(top, bot);
 }
 
 function zoneLuma(img, crop) {
@@ -1791,9 +1794,9 @@ function zoneLuma(img, crop) {
     return n ? sum / n : null;
   };
   return {
-    cat:  zone(72, 208, 560, 320),      // 워드마크·카테고리
-    body: zone(72, 1168, 880, 1380),    // 헤드라인
-    src:  zone(72, 1418, 700, 1452),    // 출처
+    cat:  zone(64, 236, 1016, 312),     // 마스트헤드·카테고리
+    body: zone(64, 1050, 880, 1230),    // 헤드라인
+    src:  zone(500, 1390, 880, 1422),   // 출처
   };
 }
 
@@ -2638,12 +2641,19 @@ function escapeHtml(s) {
   return s.replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
 }
 
-/* ── 미리보기 — SENE 숏폼 A안 ─────────────────────────────────────────────
+/* ── 미리보기 — SENE 숏폼 A2 (10/26 · 위 A안 설명은 좌표 계산 방식이 같아 그대로 둔다) ───────────────
    완성본 틀 하나를 채운다. 미리보기와 구간 선택기가 같은 함수를 쓴다 — 두 곳이 따로 그리면 반드시 어긋난다.
    수치는 generators/sene_short_overlay.py 그대로다. 그쪽은 PIL 이라 글자 좌표가 '글자 상자 위(ascender)'
    기준이다 — 기준선 = y + ceil(ascent × px). CSS 는 줄 상자 위 기준이라 같은 기준선이 되도록 top 을 잡는다.
    Pretendard: ascent 1950 · descent 494 (upem 2048) → line-height:1 일 때 기준선 = top + 0.8555 × px. */
-const A_HEAD = { x: 72, px: 92, min: 64, lead: 1.16, maxW: 1080 - 72 - 200, srcY: 1418, gap: 38 };
+const A_HEAD = { x: 64, px: 88, min: 64, lead: 1.18, maxW: 1080 - 64 - 200, bottom: 1226 };
+const CAT_EN = { 패션: 'FASHION', 뷰티: 'BEAUTY', 공간: 'SPACE', 푸드: 'FOOD', 컬처: 'CULTURE', 트렌드: 'TREND', 놀거리: 'PLAY', 이슈: 'ISSUE' };
+function catEn(b) {                                   // 마스트헤드 오른쪽 — sene_short_overlay.category_text
+  const raw = catText(b).split('·')[0].trim();
+  return (CAT_EN[raw] || raw).toUpperCase();
+}
+const HI_RX = /\*([^*\n]{1,30})\*/g;                 // *낱말* — 로즈 강조 (sene_short_overlay.HI)
+const plainHi = (t) => String(t || '').replace(HI_RX, '$1');
 const PRE_ASC = 1950 / 2048, PRE_DESC = 494 / 2048;
 const preTop = (pilY, px) => pilY + Math.ceil(PRE_ASC * px) - (px * (1 - PRE_ASC - PRE_DESC) / 2 + PRE_ASC * px);
 let _mc = null;
@@ -2682,6 +2692,7 @@ function wrapHead(text, px) {
 }
 /* sene_short_overlay.fit_headline — 92px 에서 64px 까지 2 씩, 두 줄에 들면 그 크기. 안 되면 64px 두 줄 + 말줄임 */
 function fitHead(parts) {
+  parts = parts.map(plainHi).filter(x => x.trim());
   if (!parts.length) return { lines: [], px: A_HEAD.px, cut: false };
   const joined = parts.join(' ');
   const cands = parts.length === 1 ? [parts] : [parts, [joined]];
@@ -2700,17 +2711,24 @@ function fitHead(parts) {
 function paintFrame(root, b) {
   if (!root || !b) return;
   const q = (c) => root.querySelector('.' + c);
-  q('cat').textContent = catText(b);
-  const fit = fitHead(headParts(b));
+  q('cat').textContent = catEn(b);
+  const raw = headParts(b);
+  const his = [].concat(...raw.map(x => Array.from(String(x).matchAll(HI_RX), m => m[1].trim()))).filter(Boolean);
+  const fit = fitHead(raw);
   b._head = fit;
   const lh = Math.floor(fit.px * A_HEAD.lead);
-  const y0 = A_HEAD.srcY - A_HEAD.gap - lh * fit.lines.length;
+  const y0 = A_HEAD.bottom - lh * (fit.lines.length - 1) - fit.px;
   // 줄 자리 두 개(.hook 위 · .title 아래)를 쓴다. 한 줄이면 아래 자리만. .artist 는 A안에 없다.
   const slots = fit.lines.length === 2 ? [q('hook'), q('title')] : [q('title')];
   [q('hook'), q('title'), q('artist')].forEach(n => { n.textContent = ''; n.style.display = 'none'; });
   fit.lines.forEach((ln, k) => {
     const n = slots[k];
-    const tx = el('span', 'ttx'); tx.textContent = ln; n.append(tx);
+    const tx = el('span', 'ttx');
+    if (his.length) {                                  // *낱말* 은 로즈 — 렌더러 _segments 와 같은 일
+      const rx = new RegExp('(' + his.map(h => h.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')).join('|') + ')');
+      ln.split(rx).filter(Boolean).forEach(p => { const sp = el('span', his.includes(p) ? 'hi' : ''); sp.textContent = p; tx.append(sp); });
+    } else tx.textContent = ln;
+    n.append(tx);
     n.style.display = '';
     n.style.fontSize = fit.px + 'px';
     n.style.top = preTop(y0 + k * lh, fit.px).toFixed(2) + 'px';
@@ -2721,7 +2739,7 @@ function paintFrame(root, b) {
 
 /* 넘침 — A안 렌더러는 헤드라인을 64px 까지 줄이고, 그래도 넘치면 말줄임으로 자른다(위 fitHead 와 같은 일).
    카테고리는 줄이지 않는다 — 오른쪽 안전영역(200px)을 넘으면 표시만 한다. */
-const FIT_RIGHT = 1080 - 200;     // sene_short_overlay.SAFE_RIGHT
+const FIT_RIGHT = 1080 - 64;      // 마스트헤드 오른쪽 끝 (카테고리는 오른쪽 정렬 · 오른쪽 200 액션 열은 위쪽엔 없다)
 
 function fitFrame(root, fit) {
   const rep = { over: [], shrunk: [], wrapFeat: false, cut: [] };
@@ -2729,7 +2747,7 @@ function fitFrame(root, fit) {
   if (fit && fit.cut) rep.cut.push('헤드라인');
   const c = root.querySelector('.cat');
   if (c) {
-    const still = 74 + c.scrollWidth > FIT_RIGHT;
+    const still = c.scrollWidth > FIT_RIGHT - 64 - 260;   // "SENE." 와 겹치면
     c.classList.toggle('over', still);
     if (still) rep.over.push('카테고리');
   }
@@ -5097,9 +5115,9 @@ window.addEventListener('resize', () => { if ($('#ppSubList') && $('#ppSubList')
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.26 17:50';
+    a.title = '판 10.26 19:07';
     var ver = document.createElement('span');
-    ver.textContent = '10.26 17:50';
+    ver.textContent = '10.26 19:07';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
