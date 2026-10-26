@@ -3708,7 +3708,64 @@
     "at": "2026-10-26T17:47+09:00"
    },
    "i18n_queued": "2026-10-26T17:47+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-26T17:48+09:00",
+    "confirm": [
+     "앙리 바바 정원의 영어 제목은 출처마다 다릅니다. Korea JoongAng Daily 는 'Garden Beneath the Flowing Forest', 서울시 PDF 는 'The garden of eternal flow' 로 적었습니다. 영어판에는 한국어 제목과 뜻이 맞는 JoongAng Daily 쪽을 넣었으니, 박람회 공식 사이트에서 확인해 주세요.",
+     "이남진 작가 '기다림의 정원'의 공식 영어 제목은 찾지 못했습니다. 그래서 영어판 'Garden of Waiting', 일본어판 「待つことの庭園」은 제가 뜻을 옮긴 것입니다. 작가 이름 영문 표기 Lee Nam-jin 도 공식 표기가 아니라 로마자로 옮긴 것입니다.",
+     "일본어 공식 행사명은 확인하지 못해 「ソウル国際庭園博覧会」로 뜻을 옮겼습니다. 'Henri Bava' 는 「アンリ・バヴァ」로 적었습니다.",
+     "한국어 원문에는 '내일(27일)'이라고 돼 있어 영어·일본어판에도 그대로 옮겼습니다. 10월 27일 이후에 올리면 이 표현을 고쳐야 합니다.",
+     "영어·일본어 · 초청 정원 이름 'Garden Beneath the Flowing Forest'·'Garden of Waiting' / 「流れる森の下の庭園」·「待つことの庭園」은 직접 옮긴 이름입니다. 박람회 공식 영어 이름이 있으면 그것으로 바꿔 주세요 (이번엔 검색으로 확인하지 못함)",
+     "일본어 · 'イ・ナムジン（이남진）'은 번역 규칙(처음 한 번 괄호 안에 원어)대로 한글을 남겨 둔 것입니다. 한글을 못 읽는 일본 독자에게도 이 꼴이 괜찮은지 봐 주세요",
+     "공통 · 내일 막을 내리는 행사라 올리기 전에 서울시 공식 안내에서 마지막 날 운영 시간이 바뀌지 않았는지 다시 봐 주세요"
+    ],
+    "review": {
+     "at": "2026-10-26T17:48+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · 'The show opened on May 1 and has run for 180 days' → 'The 180-day show opened on May 1' — 180일째는 마지막 날인 내일이라, 오늘 기준 '180일 동안 이어졌다'고 쓰면 사실과 어긋남"
+     ],
+     "doubt": [
+      "영어·일본어 · 초청 정원 이름 'Garden Beneath the Flowing Forest'·'Garden of Waiting' / 「流れる森の下の庭園」·「待つことの庭園」은 직접 옮긴 이름입니다. 박람회 공식 영어 이름이 있으면 그것으로 바꿔 주세요 (이번엔 검색으로 확인하지 못함)",
+      "일본어 · 'イ・ナムジン（이남진）'은 번역 규칙(처음 한 번 괄호 안에 원어)대로 한글을 남겨 둔 것입니다. 한글을 못 읽는 일본 독자에게도 이 꼴이 괜찮은지 봐 주세요",
+      "공통 · 내일 막을 내리는 행사라 올리기 전에 서울시 공식 안내에서 마지막 날 운영 시간이 바뀌지 않았는지 다시 봐 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nThe Seoul International Garden Show 2026, held at Seoul Forest, closes tomorrow (Oct 27).\n\nThe 180-day show opened on May 1, filling Seoul Forest and the surrounding Seongsu-dong area with 167 gardens. Among them are invited gardens such as French garden designer Henri Bava's 'Garden Beneath the Flowing Forest' and Lee Nam-jin's 'Garden of Waiting.'\n\nPath-shaped gardens linking the plots stretch for about 10 km. This year's theme was 'Seoul, Green Culture.'\n\nDates: Through Tue, Oct 27\nLocation: Seoul Forest and the Seongsu-dong area, Seongdong-gu, Seoul\n#SENE #SeoulGardenShow #SeoulForest #Seongsu #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004445/a2n58ph85gl3bdkjxmv0.jpg\n제목: Seoul Forest Garden Show|Ends Tomorrow\n부제: Seoul International Garden Show 2026 · Through Tue, Oct 27\n출처: Seoul Metropolitan Government\n",
+      "caption": "The Seoul International Garden Show 2026, held at Seoul Forest, closes tomorrow (Oct 27).\n\nThe 180-day show opened on May 1, filling Seoul Forest and the surrounding Seongsu-dong area with 167 gardens. Among them are invited gardens such as French garden designer Henri Bava's 'Garden Beneath the Flowing Forest' and Lee Nam-jin's 'Garden of Waiting.'\n\nPath-shaped gardens linking the plots stretch for about 10 km. This year's theme was 'Seoul, Green Culture.'\n\nDates: Through Tue, Oct 27\nLocation: Seoul Forest and the Seongsu-dong area, Seongdong-gu, Seoul\n#SENE #SeoulGardenShow #SeoulForest #Seongsu #SeoulTravel",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004533/hejqdfni2hggqtc3t5lf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004532/y2swtiopk6xkmoyysvtj.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004533/hejqdfni2hggqtc3t5lf.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T17:48+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nソウルの森で開かれてきた2026ソウル国際庭園博覧会が、明日（27日）閉幕します。\n\n5月1日に開幕し、180日間続いた博覧会で、ソウルの森と聖水洞（ソンスドン）一帯に167の庭園が設けられました。フランスの庭園作家アンリ・バヴァによる「流れる森の下の庭園」、イ・ナムジン（이남진）による「待つことの庭園」といった招待庭園もこの中にあります。\n\n庭園同士をつなぐ道の形をした庭園も、約10kmに及びます。今年のテーマは「Seoul, Green Culture」でした。\n\n期間：10月27日（火）まで\n場所：ソウル・城東区（ソンドング）ソウルの森および聖水洞（ソンスドン）一帯\n#SENE #ソウル国際庭園博覧会 #ソウルの森 #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793004445/a2n58ph85gl3bdkjxmv0.jpg\n제목: ソウルの森の庭園博覧会、|明日が最終日\n부제: 2026ソウル国際庭園博覧会・10月27日（火）まで\n출처: ソウル市\n",
+      "caption": "ソウルの森で開かれてきた2026ソウル国際庭園博覧会が、明日（27日）閉幕します。\n\n5月1日に開幕し、180日間続いた博覧会で、ソウルの森と聖水洞（ソンスドン）一帯に167の庭園が設けられました。フランスの庭園作家アンリ・バヴァによる「流れる森の下の庭園」、イ・ナムジン（이남진）による「待つことの庭園」といった招待庭園もこの中にあります。\n\n庭園同士をつなぐ道の形をした庭園も、約10kmに及びます。今年のテーマは「Seoul, Green Culture」でした。\n\n期間：10月27日（火）まで\n場所：ソウル・城東区（ソンドング）ソウルの森および聖水洞（ソンスドン）一帯\n#SENE #ソウル国際庭園博覧会 #ソウルの森 #聖水 #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004536/bpencnsiu96kbn0b18r0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004535/mtkmuruwvd3qog7hy6oy.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793004536/bpencnsiu96kbn0b18r0.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-26T17:48+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
