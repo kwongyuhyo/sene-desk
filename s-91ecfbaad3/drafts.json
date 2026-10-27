@@ -3118,58 +3118,61 @@
       "A": "c55076f6",
       "B": "576b2d0c",
       "C": "30635760",
-      "E": "c2939f02",
-      "J": "5eff1a89"
+      "E": "7632b9dd",
+      "J": "647f4e17"
      }
     }
    },
    "i18n_queued": "2026-10-27T16:50+09:00",
    "corner_name": "이슈",
    "i18n": {
-    "at": "2026-10-27T16:53+09:00",
+    "at": "2026-10-27T16:54+09:00",
     "confirm": [
-     "공통 · 출처가 Fox Business 한 곳뿐 — 11월 20일 적용일과 금지·허용 항목을 Airbnb 공식 발표(뉴스룸·호스트 정책 페이지)로 올리기 전에 확인",
-     "공통 · 한국어 '11월 20일 이후'가 20일을 포함하는지 애매함 — 영어 'from Nov 20'·일본어 '以降'은 20일을 포함하는 뜻이라 공식 문구와 맞는지 확인"
+     "Fox Business 기사 원문은 직접 열어 보지 못했습니다. 같은 내용을 Live5News·Fox19·Cybernews 기사로 대조했습니다(11월 20일 적용, 설거지·시트 벗기기·쓰레기 밖에 버리기 금지, 그릇은 싱크대에·수건 모으기는 가능, 예약 뒤 규칙 추가와 호스트 벌금 금지).",
+     "출처 칸은 'Fox Business' 그대로 두었습니다.",
+     "출처가 Fox Business 한 곳뿐 — 지침의 '공식 출처나 기사 두 곳' 기준에 맞는지, 적용일(11월 20일 확정 예약부터)과 금지 항목을 Airbnb 공식 발표로 다시 확인"
     ],
     "review": {
-     "at": "2026-10-27T16:53+09:00",
-     "fixes": [],
+     "at": "2026-10-27T16:54+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · make up the beds → tidy up the bedding — 원문 '침구 정리'보다 뜻이 좁고, 퇴실 맥락에서 '침대를 새로 정돈하다'로 읽혀 바로 뒤의 '시트 벗기기'와 엇갈림",
+      "일본어 · 캡션 둘째 단락 · 求められなくなります → 求めることはできなくなります — 가능형과 수동형('요구받지 않게 된다') 두 뜻으로 읽힘"
+     ],
      "doubt": [
-      "공통 · 출처가 Fox Business 한 곳뿐 — 11월 20일 적용일과 금지·허용 항목을 Airbnb 공식 발표(뉴스룸·호스트 정책 페이지)로 올리기 전에 확인",
-      "공통 · 한국어 '11월 20일 이후'가 20일을 포함하는지 애매함 — 영어 'from Nov 20'·일본어 '以降'은 20일을 포함하는 뜻이라 공식 문구와 맞는지 확인"
+      "출처가 Fox Business 한 곳뿐 — 지침의 '공식 출처나 기사 두 곳' 기준에 맞는지, 적용일(11월 20일 확정 예약부터)과 금지 항목을 Airbnb 공식 발표로 다시 확인"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\nAirbnb (@airbnb) is changing its checkout cleaning rules.\n\nMany guests have said they paid a cleaning fee and still had to wash dishes and strip the beds. For bookings confirmed from Nov 20, hosts can no longer ask guests to wash or put away dishes, strip the bed sheets, or take trash out of the property. Hosts can still make small requests, such as leaving used dishes in the sink or gathering used towels in one place.\n\nAll house rules must be listed on the listing page before booking. Hosts cannot add new rules by message or notice after a booking is made, and they cannot charge their own fines for broken rules. Airbnb says the change reflects guest feedback that the old rules were confusing and burdensome.\n\nApplies to: Bookings confirmed from Nov 20, 2026\nNo longer allowed: Washing or putting away dishes, stripping bed sheets, taking trash out of the property, host-imposed fines\nStill allowed: Leaving dishes in the sink, gathering used towels\n\n#SENE #Airbnb #AirbnbCheckout #TravelNews #TravelTips\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg\n제목: Airbnb Checkout:|No More Dishes\n부제: Checkout cleaning rules change for bookings confirmed from Nov 20\n출처: Fox Business\n",
-      "caption": "Airbnb (@airbnb) is changing its checkout cleaning rules.\n\nMany guests have said they paid a cleaning fee and still had to wash dishes and strip the beds. For bookings confirmed from Nov 20, hosts can no longer ask guests to wash or put away dishes, strip the bed sheets, or take trash out of the property. Hosts can still make small requests, such as leaving used dishes in the sink or gathering used towels in one place.\n\nAll house rules must be listed on the listing page before booking. Hosts cannot add new rules by message or notice after a booking is made, and they cannot charge their own fines for broken rules. Airbnb says the change reflects guest feedback that the old rules were confusing and burdensome.\n\nApplies to: Bookings confirmed from Nov 20, 2026\nNo longer allowed: Washing or putting away dishes, stripping bed sheets, taking trash out of the property, host-imposed fines\nStill allowed: Leaving dishes in the sink, gathering used towels\n\n#SENE #Airbnb #AirbnbCheckout #TravelNews #TravelTips",
+      "form": "[카테고리]\n이슈\n\n[캡션]\nAirbnb (@airbnb) is changing its pre-checkout cleaning rules.\n\nMany guests have complained about paying a cleaning fee and still being asked to wash dishes and tidy up the bedding. For bookings confirmed after November 20, hosts can no longer require guests to wash or put away dishes, strip the beds, or take trash out of the property. Hosts can still make lighter requests, such as leaving used dishes in the sink or gathering used towels in one place.\n\nAll house rules must be listed on the listing page before booking, and hosts cannot add new ones through messages or notices after a reservation is made. Hosts are also barred from charging their own fines for rule violations. Airbnb says the change reflects guest feedback that the existing rules were confusing and burdensome.\n\nApplies to: Bookings confirmed after Nov 20, 2026\nNot allowed: Washing or putting away dishes, stripping beds, taking trash outside the property, host-imposed fines\nAllowed: Leaving dishes in the sink, gathering used towels\n\n#SENE #Airbnb #AirbnbCheckout #VacationRental #TravelTips\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg\n제목: Airbnb Checkout:|No More Washing Dishes\n부제: Checkout cleaning rules change for bookings confirmed from Nov 20\n출처: Fox Business\n",
+      "caption": "Airbnb (@airbnb) is changing its pre-checkout cleaning rules.\n\nMany guests have complained about paying a cleaning fee and still being asked to wash dishes and tidy up the bedding. For bookings confirmed after November 20, hosts can no longer require guests to wash or put away dishes, strip the beds, or take trash out of the property. Hosts can still make lighter requests, such as leaving used dishes in the sink or gathering used towels in one place.\n\nAll house rules must be listed on the listing page before booking, and hosts cannot add new ones through messages or notices after a reservation is made. Hosts are also barred from charging their own fines for rule violations. Airbnb says the change reflects guest feedback that the existing rules were confusing and burdensome.\n\nApplies to: Bookings confirmed after Nov 20, 2026\nNot allowed: Washing or putting away dishes, stripping beds, taking trash outside the property, host-imposed fines\nAllowed: Leaving dishes in the sink, gathering used towels\n\n#SENE #Airbnb #AirbnbCheckout #VacationRental #TravelTips",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087625/g4vkx2nq9irv939ekoge.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087624/tdvmunhhgxsbgmzn61j4.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087683/atxef1ecunanboinf12l.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087683/optsbgq15njm8zlmlwkz.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087625/g4vkx2nq9irv939ekoge.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087683/atxef1ecunanboinf12l.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T16:53+09:00"
+       "at": "2026-10-27T16:54+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n이슈\n\n[캡션]\nAirbnb（エアビーアンドビー、@airbnb）が、チェックアウト前の清掃ルールを変更します。\n\n清掃料金を払っても皿洗いやベッドの片付けまでしなければならなかった、という声が多くありました。11月20日以降に確定する予約からは、ホストが皿洗いや食器の片付け、ベッドシーツの取り外し、ゴミを宿泊先の外に出すことをゲストに求めることはできません。使った食器をシンクに置く、タオルを一か所にまとめるといった程度のお願いは、これまで通り可能です。\n\nハウスルールは予約前に宿泊先ページにすべて記載されている必要があり、予約後にメッセージや案内文で追加することはできません。ルール違反を理由にホストが独自に罰金を科すことも禁止されます。Airbnbは、従来のルールがわかりにくく負担が大きいという利用者の声を反映したと説明しています。\n\n適用：2026年11月20日以降に確定する予約から\n禁止：皿洗い・食器の片付け、ベッドシーツの取り外し、ゴミの屋外への搬出、ホスト独自の罰金\n可能：食器をシンクに置く、使用済みタオルをまとめる\n\n#SENE #Airbnb #エアビー #海外旅行 #旅行好きな人と繋がりたい\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg\n제목: Airbnb退室時の|皿洗いが不要に\n부제: 11月20日以降に確定した予約から、チェックアウト時の清掃ルールが変わります\n출처: Fox Business\n",
-      "caption": "Airbnb（エアビーアンドビー、@airbnb）が、チェックアウト前の清掃ルールを変更します。\n\n清掃料金を払っても皿洗いやベッドの片付けまでしなければならなかった、という声が多くありました。11月20日以降に確定する予約からは、ホストが皿洗いや食器の片付け、ベッドシーツの取り外し、ゴミを宿泊先の外に出すことをゲストに求めることはできません。使った食器をシンクに置く、タオルを一か所にまとめるといった程度のお願いは、これまで通り可能です。\n\nハウスルールは予約前に宿泊先ページにすべて記載されている必要があり、予約後にメッセージや案内文で追加することはできません。ルール違反を理由にホストが独自に罰金を科すことも禁止されます。Airbnbは、従来のルールがわかりにくく負担が大きいという利用者の声を反映したと説明しています。\n\n適用：2026年11月20日以降に確定する予約から\n禁止：皿洗い・食器の片付け、ベッドシーツの取り外し、ゴミの屋外への搬出、ホスト独自の罰金\n可能：食器をシンクに置く、使用済みタオルをまとめる\n\n#SENE #Airbnb #エアビー #海外旅行 #旅行好きな人と繋がりたい",
+      "form": "[카테고리]\n이슈\n\n[캡션]\nAirbnb（@airbnb、エアビーアンドビー）が、チェックアウト前の清掃ルールを変更します。\n\n清掃料金を払っているのに、皿洗いやベッドの片付けまで求められるという声が多く寄せられていました。11月20日以降に確定する予約からは、ホストがゲストに皿洗いや食器の片付け、ベッドシーツの取り外し、ゴミを宿泊先の外に出すことを求めることはできなくなります。使った食器をシンクに置く、タオルを一か所にまとめるといった程度のお願いは、これまでどおり可能です。\n\nハウスルールは予約前にリスティングページにすべて記載しておく必要があり、予約後にメッセージや案内文で追加することはできません。ルール違反を理由にホストが独自に罰金を科すことも禁止されます。Airbnbは、従来のルールがわかりにくく負担が大きいという利用者の意見を反映したと説明しています。\n\n適用：2026年11月20日以降に確定する予約から\n禁止：皿洗い・食器の片付け、ベッドシーツの取り外し、ゴミの屋外への搬出、ホスト独自の罰金\n可能：食器をシンクに置く、使用済みタオルをまとめる\n\n#SENE #Airbnb #エアビー #海外旅行 #旅行好きな人と繋がりたい\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg\n제목: Airbnb退室前の|皿洗いが不要に\n부제: 11月20日以降に確定した予約から、チェックアウト時の清掃ルールが変わります\n출처: Fox Business\n",
+      "caption": "Airbnb（@airbnb、エアビーアンドビー）が、チェックアウト前の清掃ルールを変更します。\n\n清掃料金を払っているのに、皿洗いやベッドの片付けまで求められるという声が多く寄せられていました。11月20日以降に確定する予約からは、ホストがゲストに皿洗いや食器の片付け、ベッドシーツの取り外し、ゴミを宿泊先の外に出すことを求めることはできなくなります。使った食器をシンクに置く、タオルを一か所にまとめるといった程度のお願いは、これまでどおり可能です。\n\nハウスルールは予約前にリスティングページにすべて記載しておく必要があり、予約後にメッセージや案内文で追加することはできません。ルール違反を理由にホストが独自に罰金を科すことも禁止されます。Airbnbは、従来のルールがわかりにくく負担が大きいという利用者の意見を反映したと説明しています。\n\n適用：2026年11月20日以降に確定する予約から\n禁止：皿洗い・食器の片付け、ベッドシーツの取り外し、ゴミの屋外への搬出、ホスト独自の罰金\n可能：食器をシンクに置く、使用済みタオルをまとめる\n\n#SENE #Airbnb #エアビー #海外旅行 #旅行好きな人と繋がりたい",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087627/avwng5nslc6vkfgkhkbb.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087627/itirkupnxwpeil4sefwc.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087685/pbulttr1ko3c6wqal9q7.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087685/lmg2lhxedipgckirjvtd.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087627/avwng5nslc6vkfgkhkbb.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087685/pbulttr1ko3c6wqal9q7.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T16:53+09:00"
+       "at": "2026-10-27T16:54+09:00"
       }
      }
     }
@@ -3304,7 +3307,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T16:53+09:00"
+  "at": "2026-10-27T16:54+09:00"
  },
  "slots": {
   "basis": 0,
