@@ -3668,33 +3668,29 @@
    "i18n_queued": "2026-10-27T17:48+09:00",
    "corner_name": "그 말",
    "i18n": {
-    "at": "2026-10-27T17:49+09:00",
+    "at": "2026-10-27T17:50+09:00",
     "confirm": [
-     "Japanese title 『デビルズ・プラン：デッド・アゲイン』 is inferred from the series' earlier Japanese titles. I couldn't find an official Japanese listing for season 3, so check Netflix Japan before posting.",
-     "Official romanizations of the players' and producers' names (Seo Chul-gu, Jung Hyun-kyu, Choi Yoon-hee, etc.) were not checked against Netflix's English and Japanese cast lists.",
-     "Nov 10 (Tue) premiere matches Netflix's press release. The 14 episodes released over three weeks and the trailer being released today come from the Korean original and were not checked again.",
-     "The source channel name 'TEO 테오' was kept as is.",
-     "일본어 공식 제목 미확인 — 「デビルズ・プラン：デッド・アゲイン」이 Netflix 재팬의 공식 표기인지 확인 필요 (영어 'The Devil's Plan: Dead Again'은 넷플릭스 보도 페이지 주소와 일치)",
-     "원문의 '메인 예고편' — 검색 결과에는 넷플릭스 코리아의 '티저 예고편'만 확인됨. 오늘 나온 영상이 메인 예고편인지 원문 확인 필요 (en 'main trailer', ja 'メイン予告編'도 함께)",
-     "정종연 PD 로마자 — 넷플릭스 영문 크레디트가 Jeong Jong-yeon 인지 Jung Jong-yeon 인지 확인 필요",
-     "서출구 로마자 Seo Chul-gu·일본어 ソ・チュルグ — 본인·넷플릭스 공식 표기 미확인",
-     "출처 줄 'TEO 테오'에 한글이 남아 있음 — 채널 이름 그대로 두는 규칙에 따른 것이지만, 외국 독자용으로 'TEO'만 쓸지 사람이 판단",
+     "일본어 시즌 부제 — 일본 넷플릭스의 시리즈 제목은 『悪魔の計略 ~デビルズ・プラン~』으로 확인했지만, 이번 시즌 부제 'Dead Again' 의 일본어 공식 표기는 찾지 못해 「デッド・アゲイン」 으로 적었습니다. 일본 넷플릭스 작품 페이지에서 다시 확인해 주세요.",
+     "영어 제목 'The Devil's Plan: Dead Again' 과 11월 10일 공개는 넷플릭스 뉴스룸 보도와 Soompi 에서 확인했습니다. 14부작·3주 공개는 해외 매체 한 곳에서만 확인됐는데, 원문에 있는 내용이라 그대로 옮겼습니다.",
+     "서출구의 로마자(Seo Chul-goo / ソ・チュルグ)와 재재(Jaejae / ジェジェ) 표기는 공식 영어·일본어 표기를 확인하지 못했습니다. 정종연·최윤희 PD의 로마자(Jung Jong-yeon / Choi Yun-hee) 표기도 마찬가지입니다.",
+     "출처 칸의 'TEO 테오' 는 채널 이름이라 번역하지 않고 그대로 두었습니다.",
+     "시즌 부제 공식 표기 미확인 — 영어 'Dead Again'·일본어 'デッド・アゲイン' 이 넷플릭스 공식 표기인지 확인 필요 (일본어 기본 제목 『悪魔の計略 ~デビルズ・プラン~』은 JustWatch 일본판에서 확인)",
+     "출연자 로마자·카타카나 표기(Seo Chul-goo / ソ・チュルグ, Jeong Hyun-gyu, Choi Yun-hee 등) 공식 표기 미확인",
+     "일본어 숏폼 세 줄이 '新章 / 募集します / ロマンあるお人よし' 로 목적어가 동사 뒤에 오는 도치 — 화면에서 자연스러운지 확인",
      "영어판 출처에 한글이 남음",
      "영어판 숏폼 캡션에 한글이 남음",
      "일본어판 출처에 한글이 남음",
      "일본어판 숏폼 캡션에 한글이 남음"
     ],
     "review": {
-     "at": "2026-10-27T17:49+09:00",
+     "at": "2026-10-27T17:50+09:00",
      "fixes": [
-      "일본어 · 숏폼 둘째 줄 · 募集します → 求む — 세 줄을 위에서 아래로 읽으면 「募集します / ロマンあるお人よし」로 동사가 목적어 앞에 와 어순이 어색함. 구인 광고 꼴 「求む、○○」은 순서대로 자연스럽게 읽힘"
+      "영어 · 숏폼 캡션 첫 문장 · \"Netflix's 'The Devil's Plan: Dead Again' releases its main trailer today\" → \"Netflix has released the main trailer for 'The Devil's Plan: Dead Again' today\" — 프로그램이 예고편을 공개하는 꼴의 직역투, 원문 '공개했습니다' 시제에 맞춤"
      ],
      "doubt": [
-      "일본어 공식 제목 미확인 — 「デビルズ・プラン：デッド・アゲイン」이 Netflix 재팬의 공식 표기인지 확인 필요 (영어 'The Devil's Plan: Dead Again'은 넷플릭스 보도 페이지 주소와 일치)",
-      "원문의 '메인 예고편' — 검색 결과에는 넷플릭스 코리아의 '티저 예고편'만 확인됨. 오늘 나온 영상이 메인 예고편인지 원문 확인 필요 (en 'main trailer', ja 'メイン予告編'도 함께)",
-      "정종연 PD 로마자 — 넷플릭스 영문 크레디트가 Jeong Jong-yeon 인지 Jung Jong-yeon 인지 확인 필요",
-      "서출구 로마자 Seo Chul-gu·일본어 ソ・チュルグ — 본인·넷플릭스 공식 표기 미확인",
-      "출처 줄 'TEO 테오'에 한글이 남아 있음 — 채널 이름 그대로 두는 규칙에 따른 것이지만, 외국 독자용으로 'TEO'만 쓸지 사람이 판단",
+      "시즌 부제 공식 표기 미확인 — 영어 'Dead Again'·일본어 'デッド・アゲイン' 이 넷플릭스 공식 표기인지 확인 필요 (일본어 기본 제목 『悪魔の計略 ~デビルズ・プラン~』은 JustWatch 일본판에서 확인)",
+      "출연자 로마자·카타카나 표기(Seo Chul-goo / ソ・チュルグ, Jeong Hyun-gyu, Choi Yun-hee 등) 공식 표기 미확인",
+      "일본어 숏폼 세 줄이 '新章 / 募集します / ロマンあるお人よし' 로 목적어가 동사 뒤에 오는 도치 — 화면에서 자연스러운지 확인",
       "영어판 출처에 한글이 남음",
       "영어판 숏폼 캡션에 한글이 남음",
       "일본어판 출처에 한글이 남음",
@@ -3703,14 +3699,14 @@
     },
     "en": {
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:39-1:08\n곡: *Devil's Plan* returns\n아티스트: Now recruiting\n피처링:\n후킹: romantic pushovers\n출처: TEO 테오\n자막: 자동",
-      "caption": "Netflix's 'The Devil's Plan: Dead Again' released its main trailer today.\n\nThe rules have changed this season. Losing all of your pieces no longer means instant elimination, and survival comes down to game results alone. In the trailer, Seo Chul-gu says \"Looking for romantic pushovers\" as he searches for people to go the distance with.\n\nThe 16 players include Jang Dong-min, Hong Jin-ho, Ha Seok-jin, Jung Hyun-kyu, John Park, Jaejae and Stella Jang. Producers Jeong Jong-yeon and Choi Yoon-hee direct.\n\nPremiere: Nov 10 (Tue) on Netflix · 14 episodes, released over three weeks\nVideo: TEO 테오 official YouTube\n#SENE #TheDevilsPlan #DeadAgain #Netflix #KoreanVariety"
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:29-1:08\n곡: New *Devil's Plan*\n아티스트: Now recruiting\n피처링:\n후킹: Romantic pushovers\n출처: TEO 테오\n자막: 자동",
+      "caption": "Netflix has released the main trailer for 'The Devil's Plan: Dead Again' today.\n\nThis season changes the rules. Players who lose all their pieces are no longer out on the spot, and survival comes down to game results alone. In the trailer, Seo Chul-goo says he is \"recruiting romantic pushovers\" as he looks for people to go the distance with.\n\nThe cast of 16 includes Jang Dong-min, Hong Jin-ho, Ha Seok-jin, Jeong Hyun-gyu, John Park, Jaejae and Stella Jang. Producers Jung Jong-yeon and Choi Yun-hee direct.\n\nPremiere: Tue, Nov 10 on Netflix · 14 episodes, released over three weeks\nVideo: TEO 테오 official YouTube\n#SENE #TheDevilsPlan #DeadAgain #Netflix #KoreanVariety"
      }
     },
     "ja": {
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:39-1:08\n곡: 新*デビルズ・プラン*\n아티스트: 求む\n피처링:\n후킹: ロマンあるお人よし\n출처: TEO 테오\n자막: 자동",
-      "caption": "Netflix『デビルズ・プラン：デッド・アゲイン』が本日、メイン予告編を公開しました。\n\n今シーズンはルールから変わっています。ピースをすべて失ってもすぐには脱落せず、生き残りはゲームの結果だけで決まります。映像の中でソ・チュルグ（서출구）は「ロマンのあるお人よし、募集します」と、最後まで一緒に行く仲間を探します。\n\nチャン・ドンミン、ホン・ジノ、ハ・ソクジン、チョン・ヒョンギュ、ジョン・パク、ジェジェ、ステラ・チャンら16人が出演し、チョン・ジョンヨンPDとチェ・ユニPDが演出を手がけました。\n\n配信：11月10日（火）Netflix・全14話、3週に分けて配信\n映像：TEO 테오 公式YouTube\n#SENE #デビルズプラン #Netflix #韓国バラエティ #ネトフリ"
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:29-1:08\n곡: *デビルズ・プラン*新章\n아티스트: 募集します\n피처링:\n후킹: ロマンあるお人よし\n출처: TEO 테오\n자막: 자동",
+      "caption": "Netflix『悪魔の計略 ~デビルズ・プラン~：デッド・アゲイン』が、本日メイン予告編を公開しました。\n\n今シーズンはルールから変わりました。ピースをすべて失ってもすぐには脱落せず、生き残りはゲームの結果だけで決まります。映像の中でソ・チュルグ（서출구）は「ロマンのあるお人よし、募集します」と、最後まで一緒に進む仲間を探します。\n\nチャン・ドンミン、ホン・ジノ、ハ・ソクジン、チョン・ヒョンギュ、ジョン・パク、ジェジェ、ステラ・ジャンら16人が出演し、チョン・ジョンヨン、チェ・ユニ両PDが演出を手がけました。\n\n配信：11月10日（火）Netflix · 全14話、3週に分けて配信\n映像：TEO 테오 公式YouTube\n#SENE #デビルズプラン #悪魔の計略 #Netflix #韓国バラエティ"
      }
     }
    }
@@ -3844,7 +3840,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T17:49+09:00"
+  "at": "2026-10-27T17:50+09:00"
  },
  "slots": {
   "basis": 0,
