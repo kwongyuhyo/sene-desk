@@ -1653,6 +1653,13 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: arrives Oct 29\n아티스트: Margiela 4th collab\n피처링:\n후킹: *Gentle Monster* ×\n출처: GENTLE MONSTER\n자막: 자동",
       "caption": "This is the campaign video Gentle Monster (@gentlemonster) and Maison Margiela released ahead of their fourth collaboration collection.\n\nIt is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes. The collection's theme is \"Deconstruction,\" with designs that join frames and lenses in irregular forms and oversized eyewear.\n\nThe lineup totals 68 styles: 43 sunglasses and 25 optical frames.\n\nRelease: Oct 29 (Thu)\nAvailable at: Gentle Monster official online and offline stores\nVideo: GENTLE MONSTER official YouTube\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear"
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_CfhFGZWE/",
+      "cover": "E",
+      "at": "2026-10-27T13:50+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -1676,6 +1683,13 @@
       "caption": "ジェントルモンスター（@gentlemonster）とメゾン マルジェラが、4度目のコラボレーションコレクションを前に公開したキャンペーン映像です。\n\nアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常風景の裏にある不思議な瞬間を、ひとりの旅路を通して追いかけます。コレクションのテーマは「脱構築（Deconstruction）」で、フレームとレンズを不定形に組み合わせたデザインとオーバーサイズのアイウェアがそろいます。\n\nサングラス43型と眼鏡25型、計68型です。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n映像：GENTLE MONSTER公式YouTube\n#SENE #ジェントルモンスター #メゾンマルジェラ #アレックスプラガー #アイウェア"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De_Ccf3mX5v/",
+    "cover": "A",
+    "at": "2026-10-27T13:50+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -1777,11 +1791,67 @@
      "at": "2026-10-27T11:49+09:00",
      "v": {
       "A": "59ecfe73",
-      "B": "7e1ccd29"
+      "B": "7e1ccd29",
+      "E": "9e6d2e0d",
+      "J": "f72944c7"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-27T13:50+09:00",
+    "confirm": [
+     "일본어 공식 표기 「ダンキン・ワンダーズ」는 공식 일본어 자료로 확인하지 못해 カタカナ로 옮기고 원어를 괄호에 함께 적었습니다",
+     "영어 표기 'Dunkin' Wonders Cheongdam'은 영어 기사(Asiae, World Coffee Portal)에서 확인했습니다",
+     "주소 — 기사(일간스포츠·데일리안 영문판 등)는 던킨 원더스 청담의 위치를 '강남구 신사동'으로 적었는데, 원문 해시태그는 #청담동(번역 #Cheongdam·#清潭洞)입니다. 매장 이름 때문에 붙인 태그라면 괜찮지만, 동 이름이 맞는지 확인이 필요합니다",
+     "2주년 — 매장은 2024년 9월 12일에 열었다고 보도됐습니다(2026년 9월이 2주년이라 맞음). 행사가 정기 프로그램이 되었는지, 참가비 9,900원·선착순 30명이 맞는지는 던킨 공식 공지로 다시 확인해야 합니다"
+    ],
+    "review": {
+     "at": "2026-10-27T13:50+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · Doughnuts in One Minute → One-Minute Doughnut Grab — '1분 만에 만드는 도넛'으로도 읽혀서, 1분 동안 담아 가는 행사라는 뜻이 하나로 읽히게 고침",
+      "영어 · 캡션 · Dunkin's official account → the official Dunkin' account — 브랜드 이름의 아포스트로피 뒤에 소유격 's가 붙어 어색함"
+     ],
+     "doubt": [
+      "주소 — 기사(일간스포츠·데일리안 영문판 등)는 던킨 원더스 청담의 위치를 '강남구 신사동'으로 적었는데, 원문 해시태그는 #청담동(번역 #Cheongdam·#清潭洞)입니다. 매장 이름 때문에 붙인 태그라면 괜찮지만, 동 이름이 맞는지 확인이 필요합니다",
+      "2주년 — 매장은 2024년 9월 12일에 열었다고 보도됐습니다(2026년 9월이 2주년이라 맞음). 행사가 정기 프로그램이 되었는지, 참가비 9,900원·선착순 30명이 맞는지는 던킨 공식 공지로 다시 확인해야 합니다"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nDunkin' Wonders Cheongdam now holds an event every Tuesday where guests have one minute to fill a bucket with doughnuts to take home.\n\nThe event first ran for a single week in September for the store's second anniversary. Dunkin' says participants took home 11 doughnuts on average then, and it is now a regular program. The brand says there is no set number of doughnuts per bucket.\n\nWithin the time limit, guests pick one doughnut of each kind, so the same doughnut can't go in twice. Items that aren't doughnuts, such as sandwiches and salads, aren't included. Post a photo of your bucket to your Instagram Story with the official Dunkin' account tagged, show it to a staff member, and you get a reusable bottle.\n\nSchedule: Every Tuesday, 2 p.m. (numbered tickets from 1:30 p.m.)\nCapacity: First 30 people\nFee: KRW 9,900\nLocation: Dunkin' Wonders Cheongdam, Dosan-daero, Gangnam-gu, Seoul\n#SENE #DunkinWonders #Cheongdam #SeoulCafe #SeoulFood\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069317/hgmdjyneyspzn6ip0wo5.jpg\n제목: One-Minute Doughnut Grab,|Tuesdays in Cheongdam\n부제: Dunkin' Wonders Cheongdam Bucket Day · 2 p.m., first 30 people\n출처: Dunkin'\n",
+      "caption": "Dunkin' Wonders Cheongdam now holds an event every Tuesday where guests have one minute to fill a bucket with doughnuts to take home.\n\nThe event first ran for a single week in September for the store's second anniversary. Dunkin' says participants took home 11 doughnuts on average then, and it is now a regular program. The brand says there is no set number of doughnuts per bucket.\n\nWithin the time limit, guests pick one doughnut of each kind, so the same doughnut can't go in twice. Items that aren't doughnuts, such as sandwiches and salads, aren't included. Post a photo of your bucket to your Instagram Story with the official Dunkin' account tagged, show it to a staff member, and you get a reusable bottle.\n\nSchedule: Every Tuesday, 2 p.m. (numbered tickets from 1:30 p.m.)\nCapacity: First 30 people\nFee: KRW 9,900\nLocation: Dunkin' Wonders Cheongdam, Dosan-daero, Gangnam-gu, Seoul\n#SENE #DunkinWonders #Cheongdam #SeoulCafe #SeoulFood",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076640/vint7oqsxk5tgvlha3qp.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076639/sjogbc63fw6ipaqtdlpe.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076640/vint7oqsxk5tgvlha3qp.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:50+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nダンキン・ワンダーズ清潭（던킨 원더스 청담）が、1分間でドーナツをバケツに詰めて持ち帰れるイベントを毎週火曜日に開きます。\n\nもともとは今年9月、店舗の2周年に合わせて1週間だけ開かれたイベントです。ダンキンによると当時の参加者の平均は11個で、今回から定期プログラムになりました。詰める個数に決まりはないとブランドは説明しています。\n\n制限時間内にドーナツを種類ごとに1個ずつ選ぶ方式のため、同じドーナツを複数入れることはできず、サンドイッチやサラダなどドーナツ以外の商品は対象外です。ダンキン公式アカウントをタグ付けしたバケツの写真をInstagramのストーリーに投稿してスタッフに見せると、リユーザブルボトルがもらえます。\n\n日程：毎週火曜日 午後2時（整理券は午後1時30分から）\n人数：先着30名\n参加費：9,900ウォン\n場所：ソウル・江南区 島山大路（トサンデロ） ダンキン・ワンダーズ清潭（チョンダム）\n#SENE #韓国旅行 #韓国カフェ #清潭洞 #ダンキン\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069317/hgmdjyneyspzn6ip0wo5.jpg\n제목: 1分で詰めるドーナツ、|毎週火曜は清潭で\n부제: ダンキン・ワンダーズ清潭 バケツデー・午後2時 先着30名\n출처: ダンキン（Dunkin'）\n",
+      "caption": "ダンキン・ワンダーズ清潭（던킨 원더스 청담）が、1分間でドーナツをバケツに詰めて持ち帰れるイベントを毎週火曜日に開きます。\n\nもともとは今年9月、店舗の2周年に合わせて1週間だけ開かれたイベントです。ダンキンによると当時の参加者の平均は11個で、今回から定期プログラムになりました。詰める個数に決まりはないとブランドは説明しています。\n\n制限時間内にドーナツを種類ごとに1個ずつ選ぶ方式のため、同じドーナツを複数入れることはできず、サンドイッチやサラダなどドーナツ以外の商品は対象外です。ダンキン公式アカウントをタグ付けしたバケツの写真をInstagramのストーリーに投稿してスタッフに見せると、リユーザブルボトルがもらえます。\n\n日程：毎週火曜日 午後2時（整理券は午後1時30分から）\n人数：先着30名\n参加費：9,900ウォン\n場所：ソウル・江南区 島山大路（トサンデロ） ダンキン・ワンダーズ清潭（チョンダム）\n#SENE #韓国旅行 #韓国カフェ #清潭洞 #ダンキン",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076643/z73k7q9kyki7n1x52t2f.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076643/sgejjxf6xuppojxxxd8y.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076643/z73k7q9kyki7n1x52t2f.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:50+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2106,7 +2176,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T11:53+09:00"
+  "at": "2026-10-27T13:50+09:00"
  },
  "slots": {
   "basis": 0,
