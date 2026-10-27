@@ -571,11 +571,11 @@
      "key": "fYRCixyKTVI@4.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793048348/sene_studio/vc1aa4mmjrsquewzgm6a.mp4",
-     "at": "2026-10-27T05:59+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793088012/sene_studio/fs92dqevptjydsphtedf.mp4",
+     "at": "2026-10-27T17:00+09:00",
      "file": "ANi_ChungBunHae_LaLaLaenDeu_DaSi_Geu_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793048351233-3eac8dd2",
+      "id": "st:1793088014449-3eac8dd2",
       "segs": [
        {
         "start": 18.62,
@@ -858,6 +858,10 @@
      "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793051344/sene_studio/khyb2rqascueksmam1wy.mp4",
      "at": "2026-10-27T06:49+09:00",
      "file": "Jeo_HaNaDo_Mos_AlADeulEossEoYo_KeolCheo_no_lyrics.mp4"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T16:58+09:00"
     }
    },
    "i18n_queued": "2026-10-27T06:46+09:00",
@@ -1694,6 +1698,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T16:58+09:00"
     }
    },
    "pick": {
@@ -2712,6 +2720,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T16:58+09:00"
     }
    },
    "i18n_queued": "2026-10-27T14:04+09:00",
@@ -2974,6 +2986,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T16:58+09:00"
     }
    },
    "i18n_queued": "2026-10-27T14:56+09:00",
@@ -3307,7 +3323,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T16:54+09:00"
+  "at": "2026-10-27T17:00+09:00"
  },
  "slots": {
   "basis": 0,
