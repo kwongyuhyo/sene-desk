@@ -1305,6 +1305,13 @@
     "rank": 2,
     "why": "설빙 포켓몬 빙수가 내일 출시 — 캐릭터 굿즈 열풍과 디저트가 겹치고 날짜가 코앞이다",
     "at": "2026-10-27T11:48+09:00"
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De_CnB-GVuO/",
+    "cover": "A",
+    "at": "2026-10-27T13:51+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -1681,6 +1688,13 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: 29日に発売です\n아티스트: マルジェラ第4弾が\n피처링:\n후킹: *ジェントルモンスター*×\n출처: GENTLE MONSTER\n자막: 자동",
       "caption": "ジェントルモンスター（@gentlemonster）とメゾン マルジェラが、4度目のコラボレーションコレクションを前に公開したキャンペーン映像です。\n\nアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常風景の裏にある不思議な瞬間を、ひとりの旅路を通して追いかけます。コレクションのテーマは「脱構築（Deconstruction）」で、フレームとレンズを不定形に組み合わせたデザインとオーバーサイズのアイウェアがそろいます。\n\nサングラス43型と眼鏡25型、計68型です。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n映像：GENTLE MONSTER公式YouTube\n#SENE #ジェントルモンスター #メゾンマルジェラ #アレックスプラガー #アイウェア"
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_ChzImRrv/",
+      "cover": "J",
+      "at": "2026-10-27T13:50+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -1940,11 +1954,68 @@
      "cvr": 2,
      "at": "2026-10-27T11:49+09:00",
      "v": {
-      "A": "779efbe9"
+      "A": "779efbe9",
+      "E": "716d96d7",
+      "J": "eff2eed5"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-27T13:51+09:00",
+    "confirm": [
+     "영어 브랜드 표기 'AP BEAUTY' 는 기사(아시아경제 영문판)로 확인. 일본어 공식 표기는 찾지 못해 'AP BEAUTY（エーピービューティー）' 로 처리",
+     "제품명 영문('Rejuvenating Booster Shot M.D. Serum', 'Dual Repair Lift Cream')과 일본어 カタカナ 표기는 공식 표기를 확인하지 못함 — 원문에서 옮긴 것",
+     "'M.D. Clinical Lounge' 팝업은 웹 검색으로 확인되지 않음 — 원문 기준으로 옮김",
+     "더현대 서울 일본어 표기 'ザ・現代ソウル' 는 통용 표기이며 공식 일본어 표기는 확인하지 않음",
+     "영어 · 표지 제목 둘째 줄 · 원문 '더현대 서울에'가 'in Yeouido'로 바뀌었습니다. 더현대 서울은 여의도에 있어 사실은 맞습니다. 'at The Hyundai Seoul'로 쓰면 22자 안팎을 넘어 그대로 두었으니, 장소 이름을 살릴지 정해 주세요.",
+     "일본어 · 「ザ・現代ソウル」 · 일본 독자는 '現代'를 げんだい로 읽을 수 있습니다. 일본 여행 매체에서는 「ザ・ヒョンデ ソウル」로도 적으니 어느 표기로 맞출지 확인해 주세요.",
+     "확인한 것 · 영어 제품명 'Rejuvenating Booster Shot M.D. Serum'·'Dual Repair Lift Cream'과 브랜드 표기 'AP BEAUTY'는 아모레몰 글로벌 공식 페이지 표기와 같습니다 (https://global.amoremall.com/products/ap-beauty-rejuvenating-booster-shot-m-d-serum · https://global.amoremall.com/products/ap-beauty-dual-repair-lift-cream). 일본어 제품명 カタカナ는 공식 일본어 페이지에서 확인하지 못했습니다."
+    ],
+    "review": {
+     "at": "2026-10-27T13:51+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어 · 표지 제목 둘째 줄 · 원문 '더현대 서울에'가 'in Yeouido'로 바뀌었습니다. 더현대 서울은 여의도에 있어 사실은 맞습니다. 'at The Hyundai Seoul'로 쓰면 22자 안팎을 넘어 그대로 두었으니, 장소 이름을 살릴지 정해 주세요.",
+      "일본어 · 「ザ・現代ソウル」 · 일본 독자는 '現代'를 げんだい로 읽을 수 있습니다. 일본 여행 매체에서는 「ザ・ヒョンデ ソウル」로도 적으니 어느 표기로 맞출지 확인해 주세요.",
+      "확인한 것 · 영어 제품명 'Rejuvenating Booster Shot M.D. Serum'·'Dual Repair Lift Cream'과 브랜드 표기 'AP BEAUTY'는 아모레몰 글로벌 공식 페이지 표기와 같습니다 (https://global.amoremall.com/products/ap-beauty-rejuvenating-booster-shot-m-d-serum · https://global.amoremall.com/products/ap-beauty-dual-repair-lift-cream). 일본어 제품명 カタカナ는 공식 일본어 페이지에서 확인하지 못했습니다."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nAmorepacific's AP BEAUTY opens the brand's first pop-up today at The Hyundai Seoul.\n\nIt is called the 'M.D. Clinical Lounge.' The brand describes it as an experience space modeled on the process of receiving professional skin care. The centerpiece is the M.D. line, launched in August last year.\n\nVisitors can try the 'Rejuvenating Booster Shot M.D. Serum,' the 'Dual Repair Lift Cream' and a neck mask, and private beauty classes are held during the run. Actress Lee Da-hee stopped by the opening event on the first day.\n\nDates: Oct 27 (Tue) – Nov 4 (Wed)\nLocation: The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu, Seoul (Yeouido)\n#SENE #APBeauty #TheHyundaiSeoul #SeoulPopup #Yeouido #Amorepacific\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069322/jfgia3g42ualmaniz7fn.jpg\n제목: AP BEAUTY's First Pop-Up|Opens Today in Yeouido\n부제: M.D. Clinical Lounge · Through Nov 4\n출처: \n",
+      "caption": "Amorepacific's AP BEAUTY opens the brand's first pop-up today at The Hyundai Seoul.\n\nIt is called the 'M.D. Clinical Lounge.' The brand describes it as an experience space modeled on the process of receiving professional skin care. The centerpiece is the M.D. line, launched in August last year.\n\nVisitors can try the 'Rejuvenating Booster Shot M.D. Serum,' the 'Dual Repair Lift Cream' and a neck mask, and private beauty classes are held during the run. Actress Lee Da-hee stopped by the opening event on the first day.\n\nDates: Oct 27 (Tue) – Nov 4 (Wed)\nLocation: The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu, Seoul (Yeouido)\n#SENE #APBeauty #TheHyundaiSeoul #SeoulPopup #Yeouido #Amorepacific",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076715/g6gfiep1cjkjzjk3vmqm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076715/xnimcv362sqfc56jpbk2.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076715/g6gfiep1cjkjzjk3vmqm.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:51+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nアモーレパシフィックのAP BEAUTY（エーピービューティー）が、本日ザ・現代ソウル（더현대 서울）でブランド初のポップアップをオープンします。\n\n名前は「M.D. クリニカルラウンジ」。専門的なスキンケアを受けるプロセスをモチーフにした体験空間だと、ブランドは説明しています。中心となるのは、昨年8月に発売されたM.D.ラインです。\n\n「リジュビネイティング ブースターショット M.D. セラム」と「デュアル リペア リフト クリーム」、ネックマスクを実際に試すことができ、期間中はプライベートビューティークラスも開かれます。初日のオープニングイベントには俳優のイ・ダヒ（이다희）が訪れました。\n\n期間：10月27日（火）〜11月4日（水）\n場所：ソウル・汝矣島（ヨイド） 永登浦区汝矣大路108 ザ・現代ソウル\n#SENE #韓国旅行 #ザ現代ソウル #汝矣島 #韓国コスメ #アモーレパシフィック\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069322/jfgia3g42ualmaniz7fn.jpg\n제목: AP BEAUTY初のポップアップ|本日ザ・現代ソウルで\n부제: M.D.クリニカルラウンジ・11月4日まで\n출처: \n",
+      "caption": "アモーレパシフィックのAP BEAUTY（エーピービューティー）が、本日ザ・現代ソウル（더현대 서울）でブランド初のポップアップをオープンします。\n\n名前は「M.D. クリニカルラウンジ」。専門的なスキンケアを受けるプロセスをモチーフにした体験空間だと、ブランドは説明しています。中心となるのは、昨年8月に発売されたM.D.ラインです。\n\n「リジュビネイティング ブースターショット M.D. セラム」と「デュアル リペア リフト クリーム」、ネックマスクを実際に試すことができ、期間中はプライベートビューティークラスも開かれます。初日のオープニングイベントには俳優のイ・ダヒ（이다희）が訪れました。\n\n期間：10月27日（火）〜11月4日（水）\n場所：ソウル・汝矣島（ヨイド） 永登浦区汝矣大路108 ザ・現代ソウル\n#SENE #韓国旅行 #ザ現代ソウル #汝矣島 #韓国コスメ #アモーレパシフィック",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076718/gwkejdiakg6ndwtnu0or.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076718/a0hteatla0qggbvrruii.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076718/gwkejdiakg6ndwtnu0or.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:51+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2176,7 +2247,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T13:50+09:00"
+  "at": "2026-10-27T13:51+09:00"
  },
  "slots": {
   "basis": 0,
