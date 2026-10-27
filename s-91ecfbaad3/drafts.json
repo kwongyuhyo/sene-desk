@@ -665,11 +665,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *ラ・ラ・ランド*、劇場へ\n아티스트: いいえ、十分よ。\n피처링:\n후킹: 私じゃ足りないかも —\n출처: パンシネマ\n자막: 자동",
       "caption": "映画『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\nパンシネマ（판씨네마・@pancinema）が公開した10周年予告編の一場面です。「Maybe I'm not good enough」という言葉に、「Yes, you are」と答えが返ってきます。夢と恋のあいだで揺れる二人、女優志望のミアとジャズピアニストのセバスチャンの物語です。\n\n2016年に韓国で380万人が観たこの映画は、これまで特別上映でときどき戻ってきましたが、今回は正式な再公開です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n映像：パンシネマ『ラ・ラ・ランド』10周年予告編\n#SENE #ララランド #lalaland #再上映 #韓国旅行",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T05:13+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793132174/sene_studio/p32mo2qtsv9geophpq03.mp4",
+       "at": "2026-10-28T05:16+09:00",
+       "file": "iieShiFenyo_ra-ra-randoJuChanghe_KeolCheo_no_lyrics.mp4",
        "sig": "5aaf4e2021",
-       "job": 73
+       "v": "daf446bc"
       }
      }
     }
@@ -4710,7 +4711,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T05:15+09:00"
+  "at": "2026-10-28T05:16+09:00"
  },
  "slots": {
   "basis": 0,
