@@ -1892,11 +1892,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: — Oct 29\n아티스트: Margiela Vol. 4\n피처링:\n후킹: *Gentle Monster* ×\n출처: GENTLE MONSTER\n자막: 자동",
       "caption": "This is the campaign video Gentle Monster (@gentlemonster) and Maison Margiela released ahead of their fourth collaboration collection.\n\nIt is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes. The collection's theme is Deconstruction, with designs that join frames and lenses in irregular forms, alongside oversized eyewear.\n\nThe lineup totals 68 pieces: 43 sunglasses and 25 optical frames.\n\nRelease: Thu, Oct 29\nAvailable at: Gentle Monster official online and offline stores\nVideo: GENTLE MONSTER official YouTube\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T06:32+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793137217/sene_studio/idqq471txhwagcisyo0j.mp4",
+       "at": "2026-10-28T06:40+09:00",
+       "file": "Margiela_Vol_4_-_Oct_29_PaeSyeon_no_lyrics.mp4",
        "sig": "07de9adf59",
-       "job": 92
+       "v": "c1ae9a50"
       }
      },
      "published": {
@@ -4789,7 +4790,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:36+09:00"
+  "at": "2026-10-28T06:40+09:00"
  },
  "slots": {
   "basis": 0,
