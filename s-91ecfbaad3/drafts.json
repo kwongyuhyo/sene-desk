@@ -571,21 +571,21 @@
      "key": "fYRCixyKTVI@4.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793091784/sene_studio/s7f4cynesnkqmiclnn43.mp4",
-     "at": "2026-10-27T18:03+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793092094/sene_studio/u3c0a0ls2vsyidwmxc71.mp4",
+     "at": "2026-10-27T18:08+09:00",
      "file": "ANi_ChungBunHae_LaLaLaenDeu_DaSi_Geu_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793091786841-3eac8dd2",
+      "id": "st:1793092095344-3eac8dd2",
       "segs": [
        {
-        "start": 1.46,
-        "end": 4.4,
-        "text": "자기 자신에게 꺼려줘"
+        "start": 21.16,
+        "end": 24.38,
+        "text": "친구에게 pois 하지 않고ksom시간 자막"
        },
        {
-        "start": 5.12,
-        "end": 23.44,
-        "text": "꾸며 그걸 행복하지 않는 날엔"
+        "start": 24.38,
+        "end": 25.82,
+        "text": "marked violated medal지도"
        }
       ]
      }
@@ -3953,7 +3953,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T18:03+09:00"
+  "at": "2026-10-27T18:08+09:00"
  },
  "slots": {
   "basis": 0,
