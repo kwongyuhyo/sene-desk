@@ -2389,68 +2389,71 @@
       "A": "3b6c54ed",
       "B": "d6cc3374",
       "C": "81d00636",
-      "E": "388e0a73",
-      "J": "ef065a82"
+      "E": "8074562e",
+      "J": "dc3ca6b3"
      }
     }
    },
    "i18n_queued": "2026-10-27T13:59+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-27T14:10+09:00",
+    "at": "2026-10-27T14:11+09:00",
     "confirm": [
-     "영어 운영사 이름은 기사에 나온 'SigmaChain' 으로 썼습니다. 일본어 공식 이름은 찾지 못해 シグマチェーン 으로 옮기고 원어를 함께 적었습니다.",
-     "8월 기사에서는 베타 10월·정식 2027년 상반기였습니다. 바뀐 일정(베타 11월 말·정식 2027년 4월)은 이번 검색으로 다시 확인하지 못했으니 원문의 26일 발표를 다시 확인해 주세요.",
-     "원문 '26일'은 10월 26일로 보고, 번역문에도 날짜만(the 26th · 26日) 남겼습니다.",
-     "'방문록'은 영어 'visit log', 일본어 「訪問録」으로 옮겼습니다. 공식 외국어 표기는 확인하지 못했습니다.",
-     "'26일 발표·11월 말 베타·2027년 4월 정식 서비스' 일정은 검색으로 확인하지 못했습니다. 8월 보도(Digital Today·아시아경제)에서는 베타를 10월, 정식 서비스를 2027년 상반기로 잡았으니, 올리기 전에 26일 발표 원문과 최신 보도를 다시 봐 주세요",
-     "8월 보도에는 김호광 전 대표가 싸이월드 사업권·도메인이 가압류 중인데도 매각이 이뤄졌다며 이의를 제기했다는 내용이 있습니다. 원문에는 없는 내용이라 번역에 넣지 않았습니다. 운영권 표기('운영사 시그마체인')를 이대로 써도 되는지 봐 주세요",
-     "영어판 SigmaChain 표기는 영문 보도(Digital Today)와 같습니다. 일본어판 シグマチェーン 은 공식 일본어 표기를 찾지 못해 카타카나로 옮긴 것입니다"
+     "운영사 영문 표기는 기사 기준 'SigmaChain' (공식 영문·일문 표기 확인 못 함 — 일본어는 シグマチェーン 으로 음역)",
+     "웹 검색에서는 8월 기자회견 당시 '10월 베타·2027년 상반기 정식' 보도만 확인됨 — 원문의 26일 발표(11월 말 베타·내년 4월 정식)는 번역 대상이라 그대로 옮김, 올리기 전 최신 공식 발표 대조 권장",
+     "일촌·방문록은 공식 영문·일문 기능명 확인 못 함 — 영어 'ilchon'·'visitor log', 일본어 '一村（イルチョン）'·'訪問録' 으로 옮김",
+     "'26일'은 원문 그대로 월 없이 옮김 (10월 26일로 추정)",
+     "운영사 영문 표기 'SigmaChain'(대소문자) — 검색으로는 공식 영문 표기를 확인하지 못함. 공식 홈페이지·보도자료에서 'Sigmachain' 인지 'SigmaChain' 인지 확인 필요 (영어 캡션·해시태그, 일본어 괄호)",
+     "'26일' 발표 — 검색에서는 11월 말 베타 일정 보도를 찾지 못함 (8월 10일 인수 발표 기사만 확인). 올리기 전 10월 26일 발표 원문을 다시 확인",
+     "일본어 해시태그 #ミニホムピィ — 일본 독자가 실제로 쓰는 표기인지(ミニホムピ 등) 확인하지 못함"
     ],
     "review": {
-     "at": "2026-10-27T14:10+09:00",
+     "at": "2026-10-27T14:11+09:00",
      "fixes": [
-      "영어 · 캡션 둘째 단락 · 'The beta comes first with identity verification, so users can…' → 'In the beta, the first step is recovering old accounts through identity verification and checking ilchon…' — 직역투라 '베타가 본인인증과 함께 먼저 나온다'로 잘못 읽힘",
-      "일본어 · 부제 · 「アカウントと一村が先」 → 「アカウントと友達関係が先」 — 부제에는 설명이 없어서 '一村'을 일본 독자가 알아보지 못함(캡션에는 설명이 있으므로 그대로 둠)",
-      "일본어 · 해시태그 · #ミニホムピィ → #ミニホムピ — 일본에서 실제로 쓰는 표기"
+      "영어 · 부제 · 'ilchon' → 'friend links' — 설명 없이 부제에 나온 ilchon 은 영어권 독자가 처음 보면 무슨 말인지 모름 (캡션 본문에는 설명이 붙어 있어 그대로 둠)",
+      "영어 · 캡션 둘째 단락 · 'A feed for posting photos, comments, and a \"visitor log\"... will open alongside it' → 'A photo feed with comments will also open, along with a \"visitor log\"...' — 나열이 엉켜 무엇이 무엇과 함께 열리는지 흐렸음",
+      "일본어 · 부제·캡션 · 一村 → イルチョン — 일촌의 한자는 一寸(촌수)이라 一村은 틀린 한자이고, 일본 독자에게는 '마을'로 읽힘",
+      "일본어 · 캡션 · 一村コメント → イルチョン評 — 같은 이유, 원문 '일촌평'에 맞춤",
+      "일본어 · 캡션 첫 문장 · （싸이월드・@cyworld_official） → （Cyworld・@cyworld_official） — 남은 한글, 공식 로마자 표기로 바꿈",
+      "일본어 · 캡션 둘째 단락 · '明らかにした日程ですが、' → '明らかにした日程によると、' — 한국어 '~인데요'를 그대로 옮긴 직역투"
      ],
      "doubt": [
-      "'26일 발표·11월 말 베타·2027년 4월 정식 서비스' 일정은 검색으로 확인하지 못했습니다. 8월 보도(Digital Today·아시아경제)에서는 베타를 10월, 정식 서비스를 2027년 상반기로 잡았으니, 올리기 전에 26일 발표 원문과 최신 보도를 다시 봐 주세요",
-      "8월 보도에는 김호광 전 대표가 싸이월드 사업권·도메인이 가압류 중인데도 매각이 이뤄졌다며 이의를 제기했다는 내용이 있습니다. 원문에는 없는 내용이라 번역에 넣지 않았습니다. 운영권 표기('운영사 시그마체인')를 이대로 써도 되는지 봐 주세요",
-      "영어판 SigmaChain 표기는 영문 보도(Digital Today)와 같습니다. 일본어판 シグマチェーン 은 공식 일본어 표기를 찾지 못해 카타카나로 옮긴 것입니다"
+      "운영사 영문 표기 'SigmaChain'(대소문자) — 검색으로는 공식 영문 표기를 확인하지 못함. 공식 홈페이지·보도자료에서 'Sigmachain' 인지 'SigmaChain' 인지 확인 필요 (영어 캡션·해시태그, 일본어 괄호)",
+      "'26일' 발표 — 검색에서는 11월 말 베타 일정 보도를 찾지 못함 (8월 10일 인수 발표 기사만 확인). 올리기 전 10월 26일 발표 원문을 다시 확인",
+      "일본어 해시태그 #ミニホムピィ — 일본 독자가 실제로 쓰는 표기인지(ミニホムピ 등) 확인하지 못함"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\nCyworld (@cyworld_official) is coming back as a mobile app beta as early as late November.\n\nOperator SigmaChain announced the schedule on the 26th. In the beta, the first step is recovering old accounts through identity verification and checking ilchon, the platform's friend connections. A photo feed, comments and a 'visit log' that takes the place of the old guestbook also open with it.\n\nOld photo albums, diaries and ilchon notes are not part of this beta. The company says it will restore them in stages after the service officially launches next April. Direct messages and miniroom decorating are slated for an update then as well.\n\nBeta: Targeted for late November (by year-end at the latest)\nOfficial launch: Planned for April 2027 (with the website)\n#SENE #Cyworld #Minihompy #KoreanNostalgia #Y2K\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077157/anmoxuhosfactol0xffx.jpg\n제목: Cyworld Returns as an App|by Late November\n부제: Accounts and ilchon first, old photo albums from next April\n출처: @cyworld_official\n",
-      "caption": "Cyworld (@cyworld_official) is coming back as a mobile app beta as early as late November.\n\nOperator SigmaChain announced the schedule on the 26th. In the beta, the first step is recovering old accounts through identity verification and checking ilchon, the platform's friend connections. A photo feed, comments and a 'visit log' that takes the place of the old guestbook also open with it.\n\nOld photo albums, diaries and ilchon notes are not part of this beta. The company says it will restore them in stages after the service officially launches next April. Direct messages and miniroom decorating are slated for an update then as well.\n\nBeta: Targeted for late November (by year-end at the latest)\nOfficial launch: Planned for April 2027 (with the website)\n#SENE #Cyworld #Minihompy #KoreanNostalgia #Y2K",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nCyworld (@cyworld_official) is returning as a mobile app beta as early as late November.\n\nThe schedule was announced on the 26th by operator SigmaChain. The beta focuses first on recovering old accounts through identity verification and checking ilchon, Cyworld's friend connections. A photo feed with comments will also open, along with a \"visitor log\" that takes the place of the old guestbook.\n\nOld photo albums, diaries, and ilchon comments are not part of this beta. The company says it will restore them in stages after the switch to the full service next April. Messages and miniroom decorating are also slated for an update then.\n\nBeta: Targeted for late November (by year-end at the latest)\nFull service: Planned for April 2027 (website included)\n#SENE #Cyworld #Minihompy #SigmaChain #KoreanNostalgia\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077157/anmoxuhosfactol0xffx.jpg\n제목: Cyworld Returns as an App|in Late November\n부제: Accounts and friend links first, old photo albums from next April\n출처: @cyworld_official\n",
+      "caption": "Cyworld (@cyworld_official) is returning as a mobile app beta as early as late November.\n\nThe schedule was announced on the 26th by operator SigmaChain. The beta focuses first on recovering old accounts through identity verification and checking ilchon, Cyworld's friend connections. A photo feed with comments will also open, along with a \"visitor log\" that takes the place of the old guestbook.\n\nOld photo albums, diaries, and ilchon comments are not part of this beta. The company says it will restore them in stages after the switch to the full service next April. Messages and miniroom decorating are also slated for an update then.\n\nBeta: Targeted for late November (by year-end at the latest)\nFull service: Planned for April 2027 (website included)\n#SENE #Cyworld #Minihompy #SigmaChain #KoreanNostalgia",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077844/eihoxbzws0xdgz8rkes4.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077844/yghcjifqzkodns5rjwy4.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077922/tbfef7cfsfxqn1dikksb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077921/ite3kgwl9mi4hajmzubt.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077844/eihoxbzws0xdgz8rkes4.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077922/tbfef7cfsfxqn1dikksb.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T14:10+09:00"
+       "at": "2026-10-27T14:12+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\nサイワールド（싸이월드、@cyworld_official）が、早ければ11月末にモバイルアプリのベータ版で戻ってきます。\n\n運営会社シグマチェーン（시그마체인）が26日に明らかにした日程ですが、ベータ版ではまず本人認証で昔のアカウントを見つけ、一村（イルチョン）、つまり友達関係を確認することから始まります。写真を投稿するフィードとコメント、昔のゲストブックの役割を引き継ぐ「訪問録」も同時に公開されます。\n\n過去の写真帳や日記、一村評は今回のベータ版には含まれません。会社は来年4月に正式サービスへ移行した後、段階的に復元すると説明しています。メッセージ機能とミニルームの飾り付けも、その時期に見直す計画です。\n\nベータ版：11月末目標（遅くとも年内）\n正式サービス：2027年4月予定（ウェブサイトも同時）\n#SENE #サイワールド #ミニホムピ #韓国トレンド #韓国SNS\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077157/anmoxuhosfactol0xffx.jpg\n제목: サイワールド、11月末|アプリで再始動\n부제: アカウントと友達関係が先、昔の写真帳は来年4月から\n출처: @cyworld_official\n",
-      "caption": "サイワールド（싸이월드、@cyworld_official）が、早ければ11月末にモバイルアプリのベータ版で戻ってきます。\n\n運営会社シグマチェーン（시그마체인）が26日に明らかにした日程ですが、ベータ版ではまず本人認証で昔のアカウントを見つけ、一村（イルチョン）、つまり友達関係を確認することから始まります。写真を投稿するフィードとコメント、昔のゲストブックの役割を引き継ぐ「訪問録」も同時に公開されます。\n\n過去の写真帳や日記、一村評は今回のベータ版には含まれません。会社は来年4月に正式サービスへ移行した後、段階的に復元すると説明しています。メッセージ機能とミニルームの飾り付けも、その時期に見直す計画です。\n\nベータ版：11月末目標（遅くとも年内）\n正式サービス：2027年4月予定（ウェブサイトも同時）\n#SENE #サイワールド #ミニホムピ #韓国トレンド #韓国SNS",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nサイワールド（Cyworld・@cyworld_official）が、早ければ11月末にモバイルアプリのベータ版で戻ってきます。\n\n運営会社シグマチェーン（SigmaChain）が26日に明らかにした日程によると、ベータ版ではまず本人認証で昔のアカウントを見つけ、イルチョン（サイワールドの友達関係）を確認することから始まります。写真を投稿するフィードとコメント、昔のゲストブックの役割を引き継ぐ「訪問録」も同時に公開されます。\n\n過去の写真帳や日記、イルチョン評は今回のベータ版には含まれません。会社は来年4月の正式サービス移行後、段階的に復元すると説明しています。メッセージ機能やミニルームのデコレーションも、その時に手を入れる計画です。\n\nベータ版：11月末目標（遅くとも年内）\n正式サービス：2027年4月予定（ウェブサイトも同時）\n#SENE #サイワールド #ミニホムピィ #韓国SNS #韓国トレンド\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077157/anmoxuhosfactol0xffx.jpg\n제목: サイワールド、11月末|アプリで再始動\n부제: アカウントとイルチョンが先、昔の写真帳は来年4月から\n출처: @cyworld_official\n",
+      "caption": "サイワールド（Cyworld・@cyworld_official）が、早ければ11月末にモバイルアプリのベータ版で戻ってきます。\n\n運営会社シグマチェーン（SigmaChain）が26日に明らかにした日程によると、ベータ版ではまず本人認証で昔のアカウントを見つけ、イルチョン（サイワールドの友達関係）を確認することから始まります。写真を投稿するフィードとコメント、昔のゲストブックの役割を引き継ぐ「訪問録」も同時に公開されます。\n\n過去の写真帳や日記、イルチョン評は今回のベータ版には含まれません。会社は来年4月の正式サービス移行後、段階的に復元すると説明しています。メッセージ機能やミニルームのデコレーションも、その時に手を入れる計画です。\n\nベータ版：11月末目標（遅くとも年内）\n正式サービス：2027年4月予定（ウェブサイトも同時）\n#SENE #サイワールド #ミニホムピィ #韓国SNS #韓国トレンド",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077847/iyxonshffr6ya45hed30.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077846/jeiwyxltagnst8teje9p.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077924/khl6ua9vqg10opkewzvq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077924/wa8zbobxhkq4ogelousu.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077847/iyxonshffr6ya45hed30.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077924/khl6ua9vqg10opkewzvq.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T14:10+09:00"
+       "at": "2026-10-27T14:12+09:00"
       }
      }
     }
@@ -2820,7 +2823,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T14:10+09:00"
+  "at": "2026-10-27T14:12+09:00"
  },
  "slots": {
   "basis": 0,
