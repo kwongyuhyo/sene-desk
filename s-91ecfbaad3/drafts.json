@@ -1927,11 +1927,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: 第4弾は29日\n아티스트: マルジェラ\n피처링:\n후킹: *ジェントルモンスター*×\n출처: GENTLE MONSTER\n자막: 자동",
       "caption": "ジェントルモンスター（@gentlemonster）とメゾン マルジェラが、4度目のコラボレーションコレクションを前に公開したキャンペーン映像です。\n\nアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常の風景の裏にある不思議な瞬間を、ひとりの旅路としてたどります。コレクションのテーマは「脱構築主義（Deconstruction）」で、フレームとレンズを不定形に組み合わせたデザインとオーバーサイズのアイウェアが登場します。\n\nサングラス43型とメガネ25型、計68型です。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n映像：GENTLE MONSTER公式YouTube\n#SENE #ジェントルモンスター #メゾンマルジェラ #アイウェア #韓国ファッション",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T06:32+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793137421/sene_studio/nwvgadfgagwgxjhseo5m.mp4",
+       "at": "2026-10-28T06:43+09:00",
+       "file": "marujiera_Di4Danha29Ri_PaeSyeon_no_lyrics.mp4",
        "sig": "bfb3dd8095",
-       "job": 93
+       "v": "cf74effc"
       }
      },
      "published": {
@@ -4790,7 +4791,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:40+09:00"
+  "at": "2026-10-28T06:43+09:00"
  },
  "slots": {
   "basis": 0,
