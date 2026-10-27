@@ -571,16 +571,16 @@
      "key": "fYRCixyKTVI@4.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793088012/sene_studio/fs92dqevptjydsphtedf.mp4",
-     "at": "2026-10-27T17:00+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793089380/sene_studio/uxunov7vintwyyy7f8gv.mp4",
+     "at": "2026-10-27T17:23+09:00",
      "file": "ANi_ChungBunHae_LaLaLaenDeu_DaSi_Geu_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793088014449-3eac8dd2",
+      "id": "st:1793089381802-3eac8dd2",
       "segs": [
        {
-        "start": 18.62,
-        "end": 23.18,
-        "text": "다음 영상에서 만나요!"
+        "start": 24.58,
+        "end": 25.98,
+        "text": "EVERthose"
        }
       ]
      }
@@ -858,6 +858,10 @@
      "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793088105/sene_studio/ga6qpbpoapuhgkfme57k.mp4",
      "at": "2026-10-27T17:01+09:00",
      "file": "Jeo_HaNaDo_Mos_AlADeulEossEoYo_KeolCheo_no_lyrics.mp4"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T17:20+09:00"
     }
    },
    "i18n_queued": "2026-10-27T06:46+09:00",
@@ -1684,6 +1688,10 @@
      "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793088287/sene_studio/rjr16xp7cdyvkiszhkwi.mp4",
      "at": "2026-10-27T17:04+09:00",
      "file": "Ne_BeonJjae_HyeobEob_29Il_NaObNiDa_PaeSyeon_no_lyrics.mp4"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T17:20+09:00"
     }
    },
    "pick": {
@@ -2877,6 +2885,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T17:20+09:00"
     }
    },
    "i18n_queued": "2026-10-27T14:04+09:00",
@@ -3144,6 +3156,10 @@
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T17:20+09:00"
     }
    },
    "i18n_queued": "2026-10-27T14:56+09:00",
@@ -3477,7 +3493,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T17:15+09:00"
+  "at": "2026-10-27T17:23+09:00"
  },
  "slots": {
   "basis": 0,
