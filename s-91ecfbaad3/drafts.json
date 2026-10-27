@@ -808,8 +808,8 @@
       "A": "9a601fba",
       "B": "7be2a193",
       "C": "5253269a",
-      "E": "94d9b763",
-      "J": "5528be03"
+      "E": "95e7d657",
+      "J": "1f01d892"
      }
     },
     "photo_tried": {
@@ -941,84 +941,66 @@
    "i18n_queued": "2026-10-27T06:46+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-27T06:52+09:00",
+    "at": "2026-10-28T06:23+09:00",
     "confirm": [
-     "프로그램 영어 공식 표기가 하나로 정해져 있지 않음 — TenAsia 등은 'Bo-gum Magical'·'Bogum Magical', 위키백과는 'The Village Barber' 로 씀. 'Bogum Magical 2' 로 옮겼으니 tvN 공식 영어 표기를 확인해 주세요",
-     "일본어 제목 『ボゴム・マジカル』는 스타뉴스 일본어판 표기를 따름 — 일본 방영처(있다면)의 공식 제목은 확인하지 못함",
-     "고경표 영어 표기 Ko Kyung-pyo / Go Kyung-pyo 중 공식 표기를 확인하지 못함 — Ko Kyung-pyo 로 씀",
-     "숏폼 세 줄은 화면 순서를 후킹 → 아티스트 → 곡으로 보고 한 문장으로 이어지게 옮김 (EN: A Tongyeong accent — / I didn't catch / a single word. · JA: 統営の客の方言 / 僕、ひとつも / 聞き取れませんでした)",
-     "일본어 프로그램명 『ボゴム・マジカル』 — 일본 쪽 공식 표기(방송·OTT 편성)를 찾지 못했음. 영어판 'Bogum Magical'은 한국 매체의 영어 기사에서 확인함",
-     "일본어 · 「僕、ひとつも聞き取れませんでした」 — 영상에서 누가 한 말인지 확인하지 못했음. 화자에게 「僕」가 맞는지 영상으로 확인해야 함",
-     "일본어 캡션 해시태그 #韓ドラ好きな人と繋がりたい — 드라마용 태그를 예능에 붙였음. 숏폼 캡션에는 없어서 남겨 둘지 사람이 판단해야 함",
-     "'23일' — 영어는 'on the 23rd'로 둠. 10월 23일이 맞다면 'Oct 23'으로 써야 외국 독자가 알아보기 쉬움"
+     "프로그램 공식 영어 제목은 확인하지 못했습니다. 영어 매체마다 'Bogum Magical' · 'Magic Cut' · 'The Village Barber'로 다르게 쓰는데, 그중 가장 많이 쓰이고 원제와도 가까운 'Bogum Magical'을 골랐습니다. 올리기 전에 tvN 글로벌 표기를 확인해 주세요.",
+     "일본어 공식 제목(邦題)도 찾지 못해 『ボゴム・マジカル』로 음역하고, 처음 나올 때 괄호에 원어를 붙였습니다.",
+     "숏폼 세 칸: 영어는 40자 제한 때문에 아티스트 칸(가운데 칸)을 비웠습니다. 이 때문에 영어판 후킹에서는 '손님'이 빠졌습니다(*Tongyeong* dialect — / I didn't get a word.).",
+     "해시태그: 원문의 #고경표 대신 그 언어 독자가 실제로 찾는 #KVariety · #韓国バラエティ 를 넣었습니다. 영어판은 고경표 태그가 빠졌고, 일본어판은 #コギョンピョ 를 남겼습니다.",
+     "프로그램 영어 제목 — tvN 공식 영어 표기를 확인하지 못했습니다. 영어 매체에서는 'Bogum Magical'(FanPlus·TenAsia)이 가장 많이 쓰이지만 'Magic Cut'·'Bogum Magic Curl' 표기도 보입니다. 일본어 『ボゴム・マジカル』 역시 공식 일본 방영 제목인지 확인하지 못했습니다.",
+     "영어 숏폼 세 칸 '*Tongyeong* dialect — / (빈 칸) / I didn't get a word.' — 손님이 아니라 박보검 쪽이 한 말이라는 점이 화면 제목만으로는 잘 드러나지 않습니다. 글자 수 한도(한 칸 20자) 때문에 그대로 두었습니다."
     ],
     "review": {
-     "at": "2026-10-27T06:52+09:00",
+     "at": "2026-10-28T06:23+09:00",
      "fixes": [
-      "영어 · 캡션·숏폼 캡션 · Ko Kyung-pyo → Go Kyung-pyo — 고경표의 영어 표기는 Go Kyung-pyo가 통용되고, 보도에서도 'Bogum Magical 2'에 Go Kyung-pyo로 나옴",
-      "영어 · 부제 · 'Next: a Tongyeong hair salon in ... in November' → ''Bogum Magical 2' moves to a Tongyeong salon in Nov' — in이 두 번 겹쳐 어색하고, 한 줄로 쓰기엔 너무 김"
+      "일본어 · 숏폼 후킹 · '*統営*のお客さんの方言' → '*統営*のお客さんの方言、' — 다음 칸 '全然'과 이어 읽을 때 끊어 주는 부호가 없어 한 덩어리로 붙어 읽힘 (세 칸 합 22자, 24자 안)",
+      "일본어 · 캡션 출연 줄 · 'パク・ボゴム · イ・サンイ · コ・ギョンピョ' → 'パク・ボゴム、イ・サンイ、コ・ギョンピョ' — 이름 안의 ・ 와 구분점 · 가 섞여 일본 독자에게 이름 경계가 헷갈림"
      ],
      "doubt": [
-      "일본어 프로그램명 『ボゴム・マジカル』 — 일본 쪽 공식 표기(방송·OTT 편성)를 찾지 못했음. 영어판 'Bogum Magical'은 한국 매체의 영어 기사에서 확인함",
-      "일본어 · 「僕、ひとつも聞き取れませんでした」 — 영상에서 누가 한 말인지 확인하지 못했음. 화자에게 「僕」가 맞는지 영상으로 확인해야 함",
-      "일본어 캡션 해시태그 #韓ドラ好きな人と繋がりたい — 드라마용 태그를 예능에 붙였음. 숏폼 캡션에는 없어서 남겨 둘지 사람이 판단해야 함",
-      "'23일' — 영어는 'on the 23rd'로 둠. 10월 23일이 맞다면 'Oct 23'으로 써야 외국 독자가 알아보기 쉬움"
+      "프로그램 영어 제목 — tvN 공식 영어 표기를 확인하지 못했습니다. 영어 매체에서는 'Bogum Magical'(FanPlus·TenAsia)이 가장 많이 쓰이지만 'Magic Cut'·'Bogum Magic Curl' 표기도 보입니다. 일본어 『ボゴム・マジカル』 역시 공식 일본 방영 제목인지 확인하지 못했습니다.",
+      "영어 숏폼 세 칸 '*Tongyeong* dialect — / (빈 칸) / I didn't get a word.' — 손님이 아니라 박보검 쪽이 한 말이라는 점이 화면 제목만으로는 잘 드러나지 않습니다. 글자 수 한도(한 칸 20자) 때문에 그대로 두었습니다."
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nPark Bo-gum (@bogummy) has passed Korea's national hairdresser certification exam.\n\nHe earned a barber's license during his military service, then took on the hairdresser exam earlier this year on tvN's 'Bogum Magical'. He passed the written test but failed the perm practical. He kept practicing perms between filming schedules and passed on his second attempt, tvN said on the 23rd. According to the production team, the exam's average pass rate is in the 20–30% range.\n\nNow holding both licenses, 'Director Park' leaves the rural barbershop in Muju from season one for a hair salon in a small seaside town. Lee Sang-yi returns, Go Kyung-pyo joins the cast, and the official teaser calls the new shop the 'Tongyeong branch'.\n\nBroadcast: 'Bogum Magical 2' on tvN, premieres in November (date to be announced)\nCast: Park Bo-gum · Lee Sang-yi · Go Kyung-pyo\n\n#SENE #ParkBogum #BogumMagical #Tongyeong #KoreanVariety #tvN\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793051208/mp3016xfumczgmtgy33m.jpg\n제목: Park Bo-gum Passes|Hairdresser Exam on Retry\n부제: 'Bogum Magical 2' moves to a Tongyeong salon in Nov\n출처: @bogummy\n",
-      "caption": "Park Bo-gum (@bogummy) has passed Korea's national hairdresser certification exam.\n\nHe earned a barber's license during his military service, then took on the hairdresser exam earlier this year on tvN's 'Bogum Magical'. He passed the written test but failed the perm practical. He kept practicing perms between filming schedules and passed on his second attempt, tvN said on the 23rd. According to the production team, the exam's average pass rate is in the 20–30% range.\n\nNow holding both licenses, 'Director Park' leaves the rural barbershop in Muju from season one for a hair salon in a small seaside town. Lee Sang-yi returns, Go Kyung-pyo joins the cast, and the official teaser calls the new shop the 'Tongyeong branch'.\n\nBroadcast: 'Bogum Magical 2' on tvN, premieres in November (date to be announced)\nCast: Park Bo-gum · Lee Sang-yi · Go Kyung-pyo\n\n#SENE #ParkBogum #BogumMagical #Tongyeong #KoreanVariety #tvN",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nPark Bo-gum (@bogummy) has passed Korea's national hairdresser certification exam.\n\nHaving earned a barber license during his military service, he took on the hairdresser exam earlier this year on tvN's 'Bogum Magical', passing the written test but failing the perm practical. He kept practicing perms between shoots and passed on his next attempt, tvN said on the 23rd. The production team puts the exam's average pass rate in the 20–30% range.\n\nNow holding both licenses, 'Director Park' leaves the rural barbershop in Muju from season one for a hair salon in a small seaside town. Lee Sang-yi returns and Ko Kyung-pyo joins the cast, and the official teaser calls the new shop the 'Tongyeong branch'.\n\nBroadcast: 'Bogum Magical 2', tvN, premieres in November (date TBA)\nCast: Park Bo-gum · Lee Sang-yi · Ko Kyung-pyo\n\n#SENE #ParkBogum #BogumMagical #Tongyeong #KVariety #LeeSangyi\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793051208/mp3016xfumczgmtgy33m.jpg\n제목: On Second Try, Park Bo-gum|Earns Hairdresser License\n부제: 'Bogum Magical 2' moves to a Tongyeong hair salon in November\n출처: @bogummy\n",
+      "caption": "Park Bo-gum (@bogummy) has passed Korea's national hairdresser certification exam.\n\nHaving earned a barber license during his military service, he took on the hairdresser exam earlier this year on tvN's 'Bogum Magical', passing the written test but failing the perm practical. He kept practicing perms between shoots and passed on his next attempt, tvN said on the 23rd. The production team puts the exam's average pass rate in the 20–30% range.\n\nNow holding both licenses, 'Director Park' leaves the rural barbershop in Muju from season one for a hair salon in a small seaside town. Lee Sang-yi returns and Ko Kyung-pyo joins the cast, and the official teaser calls the new shop the 'Tongyeong branch'.\n\nBroadcast: 'Bogum Magical 2', tvN, premieres in November (date TBA)\nCast: Park Bo-gum · Lee Sang-yi · Ko Kyung-pyo\n\n#SENE #ParkBogum #BogumMagical #Tongyeong #KVariety #LeeSangyi",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077219/qc7l5khwa0ettqvztict.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077218/thqrmymfmrv7jqdbmqis.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136234/kypnofsrtl70dnng6p2v.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136232/qpeygfdijq1ugcq7gswk.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077219/qc7l5khwa0ettqvztict.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136234/kypnofsrtl70dnng6p2v.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T14:00+09:00"
+       "at": "2026-10-28T06:23+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=HtMca7WnlPs\n구간: 0:00-0:28\n곡: a single word.\n아티스트: I didn't catch\n피처링:\n후킹: A *Tongyeong* accent —\n출처: tvN Joy\n자막: 자동",
-      "caption": "At the new hair salon in Tongyeong, the first hurdle is the local dialect.\n\nThis scene comes from a dialect teaser for tvN's 'Bogum Magical 2', which premieres in November. A customer talks at length in the local accent, and the reply comes back: \"I didn't catch a single word.\" After the rural barbershop in Muju in season one, the shop has moved to a small seaside town.\n\nMeanwhile, Park Bo-gum (@bogummy) retook the national hairdresser certification exam he failed in season one and passed, tvN said on the 23rd. It is his second license, after the barber's license he earned during his military service. Lee Sang-yi returns, and Go Kyung-pyo joins the cast.\n\nBroadcast: 'Bogum Magical 2' on tvN, premieres in November (date to be announced)\nVideo: tvN Joy\n\n#SENE #ParkBogum #BogumMagical #Tongyeong #KoreanVariety #tvN",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793136072/sene_studio/rnyxjxpeentlyadfa6fh.mp4",
-       "at": "2026-10-28T06:21+09:00",
-       "file": "I_didnt_catch_a_single_word_KeolCheo_no_lyrics.mp4",
-       "sig": "e8d9fa6f67",
-       "v": "4889c51f"
-      }
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=HtMca7WnlPs\n구간: 0:00-0:28\n곡: I didn't get a word.\n아티스트: \n피처링:\n후킹: *Tongyeong* dialect —\n출처: tvN Joy\n자막: 자동",
+      "caption": "At the new hair salon in Tongyeong, the first hurdle is the local dialect.\n\nIn a dialect teaser for tvN's 'Bogum Magical 2', which premieres in November, a customer talks in a rush and gets the reply, \"I didn't understand a single word.\" After the rural barbershop in Muju in season one, this time the shop opens in a small seaside town.\n\nMeanwhile, Park Bo-gum (@bogummy) retook the national hairdresser certification exam he failed in season one and has now passed, tvN said on the 23rd. It is his second license, after the barber license he earned during his military service. Lee Sang-yi returns and Ko Kyung-pyo joins the cast.\n\nBroadcast: 'Bogum Magical 2', tvN, premieres in November (date TBA)\nVideo: tvN Joy\n\n#SENE #ParkBogum #BogumMagical #Tongyeong #KVariety #LeeSangyi"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nパク・ボゴム（@bogummy）が美容師の国家技術資格試験に最終合格しました。\n\n兵役中に理容師の資格を先に取得していた彼は、今年初めにtvN『ボゴム・マジカル』で美容師試験に挑戦したのですが、筆記には合格したもののパーマの実技で不合格となりました。撮影の合間もパーマの練習を続け、再受験で合格したとtvNが23日に伝えました。制作陣はこの試験の平均合格率を20〜30%台と説明しています。\n\n二つの資格を手にした「パク院長」は、シーズン1の茂朱（ムジュ）の田舎の理髪店を離れ、小さな海辺の町のヘアサロンへ移ります。イ・サンイが再び加わり、コ・ギョンピョが新たに合流。公式ティーザーでは今回の店を「統営（トンヨン）店」と呼んでいます。\n\n放送：『ボゴム・マジカル2』tvN、11月初回放送（日程は後日発表）\n出演：パク・ボゴム、イ・サンイ、コ・ギョンピョ\n\n#SENE #パクボゴム #ボゴムマジカル #韓国バラエティ #統営 #韓ドラ好きな人と繋がりたい\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793051208/mp3016xfumczgmtgy33m.jpg\n제목: パク・ボゴム、再挑戦で|美容師資格に合格\n부제: 11月『ボゴム・マジカル2』で統営のヘアサロンへ\n출처: @bogummy\n",
-      "caption": "パク・ボゴム（@bogummy）が美容師の国家技術資格試験に最終合格しました。\n\n兵役中に理容師の資格を先に取得していた彼は、今年初めにtvN『ボゴム・マジカル』で美容師試験に挑戦したのですが、筆記には合格したもののパーマの実技で不合格となりました。撮影の合間もパーマの練習を続け、再受験で合格したとtvNが23日に伝えました。制作陣はこの試験の平均合格率を20〜30%台と説明しています。\n\n二つの資格を手にした「パク院長」は、シーズン1の茂朱（ムジュ）の田舎の理髪店を離れ、小さな海辺の町のヘアサロンへ移ります。イ・サンイが再び加わり、コ・ギョンピョが新たに合流。公式ティーザーでは今回の店を「統営（トンヨン）店」と呼んでいます。\n\n放送：『ボゴム・マジカル2』tvN、11月初回放送（日程は後日発表）\n出演：パク・ボゴム、イ・サンイ、コ・ギョンピョ\n\n#SENE #パクボゴム #ボゴムマジカル #韓国バラエティ #統営 #韓ドラ好きな人と繋がりたい",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nパク・ボゴム（@bogummy）が美容師の国家技術資格試験に最終合格しました。\n\n兵役中に理容師の資格を先に取得していた彼は、今年初めにtvN『ボゴム・マジカル（보검 매직컬）』で美容師試験に挑戦したのですが、筆記には合格したもののパーマの実技で不合格となりました。撮影スケジュールの合間もパーマの練習を続け、再受験で合格したとtvNが23日に伝えました。制作陣はこの試験の平均合格率を20〜30％台と説明しています。\n\n二つの資格をそろえた「パク院長」は、シーズン1の茂朱（ムジュ）の田舎の理髪店を離れ、小さな海辺の町のヘアサロンへ移ります。イ・サンイが再び加わり、コ・ギョンピョが新たに合流。公式ティザーは今回の店を「統営（トンヨン）店」と呼んでいます。\n\n放送：『ボゴム・マジカル2』tvN、11月初回放送（日程は後日発表）\n出演：パク・ボゴム、イ・サンイ、コ・ギョンピョ\n\n#SENE #パクボゴム #韓国バラエティ #統営 #イサンイ #コギョンピョ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793051208/mp3016xfumczgmtgy33m.jpg\n제목: パク・ボゴム、再挑戦で|美容師資格に合格\n부제: 11月『ボゴム・マジカル2』は統営のヘアサロンへ\n출처: @bogummy\n",
+      "caption": "パク・ボゴム（@bogummy）が美容師の国家技術資格試験に最終合格しました。\n\n兵役中に理容師の資格を先に取得していた彼は、今年初めにtvN『ボゴム・マジカル（보검 매직컬）』で美容師試験に挑戦したのですが、筆記には合格したもののパーマの実技で不合格となりました。撮影スケジュールの合間もパーマの練習を続け、再受験で合格したとtvNが23日に伝えました。制作陣はこの試験の平均合格率を20〜30％台と説明しています。\n\n二つの資格をそろえた「パク院長」は、シーズン1の茂朱（ムジュ）の田舎の理髪店を離れ、小さな海辺の町のヘアサロンへ移ります。イ・サンイが再び加わり、コ・ギョンピョが新たに合流。公式ティザーは今回の店を「統営（トンヨン）店」と呼んでいます。\n\n放送：『ボゴム・マジカル2』tvN、11月初回放送（日程は後日発表）\n出演：パク・ボゴム、イ・サンイ、コ・ギョンピョ\n\n#SENE #パクボゴム #韓国バラエティ #統営 #イサンイ #コギョンピョ",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077222/uwi6oltuozlnabvgo1dz.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077221/fcbcncxr3tlplzlbngyw.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136237/vfahsniab8flx7noitis.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136237/rv44xty2v7mq2dmpukxe.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077222/uwi6oltuozlnabvgo1dz.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136237/vfahsniab8flx7noitis.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T14:00+09:00"
+       "at": "2026-10-28T06:23+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=HtMca7WnlPs\n구간: 0:00-0:28\n곡: 聞き取れませんでした\n아티스트: 僕、ひとつも\n피처링:\n후킹: *統営*の客の方言\n출처: tvN Joy\n자막: 자동",
-      "caption": "統営（トンヨン）の新しいヘアサロンで、最初の壁は方言でした。\n\n11月の初回放送を控えたtvN『ボゴム・マジカル2』の方言ティーザーの一場面なのですが、お客さんがまくし立てる言葉に「僕、ひとつも聞き取れませんでした」という返事が返ってきます。シーズン1の茂朱（ムジュ）の田舎の理髪店を離れ、今回は小さな海辺の町に店を開きました。\n\nその間にパク・ボゴム（@bogummy）は、シーズン1で不合格だった美容師の国家技術資格試験に再挑戦し、最終合格したとtvNが23日に伝えました。兵役中に取得した理容師の資格に続く二つ目です。イ・サンイが再び加わり、コ・ギョンピョが新たに合流します。\n\n放送：『ボゴム・マジカル2』tvN、11月初回放送（日程は後日発表）\n映像：tvN Joy\n\n#SENE #パクボゴム #ボゴムマジカル #韓国バラエティ #統営",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793133022/sene_studio/rswrwdwpkgacncblwrqf.mp4",
-       "at": "2026-10-28T05:30+09:00",
-       "file": "Puhitotsumo_WenkiQuremasendeshit_KeolCheo_no_lyrics.mp4",
-       "sig": "7dda79e1fc",
-       "v": "00be3cbb"
-      }
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=HtMca7WnlPs\n구간: 0:00-0:28\n곡: 聞き取れなかったです\n아티스트: 全然\n피처링:\n후킹: *統営*のお客さんの方言、\n출처: tvN Joy\n자막: 자동",
+      "caption": "統営（トンヨン）の新しいヘアサロンで、最初の難関は方言でした。\n\n11月の初回放送を控えたtvN『ボゴム・マジカル2（보검 매직컬2）』の方言ティザーの一場面なのですが、お客さんが一気にまくし立てる言葉に「全然聞き取れなかったです」という返事が返ってきます。シーズン1の茂朱（ムジュ）の田舎の理髪店を離れ、今回は小さな海辺の町に店を開きました。\n\nその間にパク・ボゴム（@bogummy）は、シーズン1で不合格だった美容師の国家技術資格試験に再挑戦し、最終合格したとtvNが23日に伝えました。兵役中に取得した理容師資格に続き、二つ目です。イ・サンイが再び加わり、コ・ギョンピョが新たに合流します。\n\n放送：『ボゴム・マジカル2』tvN、11月初回放送（日程は後日発表）\n映像：tvN Joy\n\n#SENE #パクボゴム #韓国バラエティ #統営 #イサンイ #コギョンピョ"
      }
     }
    }
@@ -4798,7 +4780,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:21+09:00"
+  "at": "2026-10-28T06:23+09:00"
  },
  "slots": {
   "basis": 0,
