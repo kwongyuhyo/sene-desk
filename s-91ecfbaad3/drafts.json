@@ -3488,8 +3488,8 @@
      "v": {
       "A": "b884b0cc",
       "B": "d8c1e31c",
-      "E": "6c94fba7",
-      "J": "61ee3340"
+      "E": "548c14df",
+      "J": "5651a62e"
      }
     }
    },
@@ -3501,56 +3501,56 @@
    "i18n_queued": "2026-10-27T17:48+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-27T17:52+09:00",
+    "at": "2026-10-27T17:53+09:00",
     "confirm": [
-     "앙코르 시점이 원문과 다를 수 있음: 원문은 망토 담요 앙코르를 '3월'이라고 했는데, 인사이트 7월 26일 기사(insight.co.kr/news/539477)는 7월 23~24일 입고라고 함. 영어·일본어판은 원문대로 3월로 옮김. 한국어판과 함께 공식 공지로 확인 필요",
-     "팩 이름 '조사병단팩·벽속의거인팩·에렌의진격팩'은 검색으로 확인되지 않음. 공식 영어·일본어 이름이 없어 뜻대로 옮김(Survey Corps Pack / Titan in the Wall Pack / Eren's Attack Pack · 調査兵団パック / 壁の中の巨人パック / エレンの進撃パック)",
-     "영어 제목은 22자에 맞추려고 'Attack on Titan Sets | Return to Frank Burger'로 다시 씀. '오늘'과 '2차'는 캡션에 들어 있음",
-     "팩 이름 영어(Survey Corps Pack / Titan in the Wall Pack / Eren's Attack Pack)·일본어(調査兵団パック 등)는 공식 외국어 표기가 아니라 번역어임 — 공식 표기가 있으면 맞출 것",
-     "영어 표지의 'AOT' 약칭이 피드 독자에게 충분히 통하는지 한 번 볼 것 (캡션 본문에는 정식 명칭 있음)"
+     "2차 협업은 웹 검색으로 확인하지 못했습니다. 세트 이름 세 개, 구성, 10월 27일 시작일, 3월 앙코르 판매는 원문에서 그대로 옮겼습니다. 올리기 전에 프랭크버거 공식 계정에서 다시 확인해 주세요.",
+     "1월 1차 협업의 대기 줄과 굿즈 조기 소진은 MTN·다음 기사로 확인했습니다.",
+     "세트 이름(Survey Corps Pack / Titan in the Wall Pack / Eren's Attack Pack · 調査兵団パック 등)은 뜻을 풀어 옮긴 것입니다. 공식 외국어 표기를 찾지 못해 일본어판에는 처음 한 번 괄호 안에 한국어 원어를 붙였습니다.",
+     "'JG버거'는 영어 'JG Burger', 일본어 'JGバーガー'로 옮겼습니다. 'JG'가 무엇의 약자인지는 확인하지 못했습니다.",
+     "해시태그를 원문(#SENE 포함 5개)보다 하나 많은 6개로 붙였습니다. 영어판은 #KoreanFood, 일본어판은 #韓国旅行를 지우면 원문과 같은 수가 됩니다.",
+     "캐릭터 이름은 작품에서 널리 쓰는 표기(Levi·Hange / リヴァイ·ハンジ)를 따랐습니다. 공식 표기와 같은지는 웹 검색으로 따로 확인하지 않았습니다.",
+     "영어·일본어 공통 · 제목과 캡션의 'today/本日' 은 10월 27일 당일에 올릴 때만 맞습니다 — 날짜가 바뀌어 올리면 바꿔야 합니다",
+     "영어·일본어 공통 · 군번줄과 명찰이 같은 캐릭터로 나오는지 따로따로 무작위인지는 원문에서도 분명하지 않습니다 — 번역은 원문의 모호함을 그대로 옮겼습니다"
     ],
     "review": {
-     "at": "2026-10-27T17:52+09:00",
-     "fixes": [
-      "영어 · 표지 제목 · 'Attack on Titan Sets|Return to Frank Burger' → 'Frank Burger × AOT|Round 2 Starts Today' — 'Return' 은 같은 세트가 다시 나온다는 뜻으로 읽혀 원문(굿즈 새로 구성)과 어긋나고, 원문의 '2차'·'오늘'이 빠져 있었음",
-      "일본어 · 캡션 둘째 단락 · 「今回はグッズを新しく用意しました」 → 「今回はグッズが一新されています」 — 주어 없이 SENE 이 준비한 것처럼 읽힘"
-     ],
+     "at": "2026-10-27T17:53+09:00",
+     "fixes": [],
      "doubt": [
-      "팩 이름 영어(Survey Corps Pack / Titan in the Wall Pack / Eren's Attack Pack)·일본어(調査兵団パック 등)는 공식 외국어 표기가 아니라 번역어임 — 공식 표기가 있으면 맞출 것",
-      "영어 표지의 'AOT' 약칭이 피드 독자에게 충분히 통하는지 한 번 볼 것 (캡션 본문에는 정식 명칭 있음)"
+      "영어·일본어 공통 · 제목과 캡션의 'today/本日' 은 10월 27일 당일에 올릴 때만 맞습니다 — 날짜가 바뀌어 올리면 바꿔야 합니다",
+      "영어·일본어 공통 · 군번줄과 명찰이 같은 캐릭터로 나오는지 따로따로 무작위인지는 원문에서도 분명하지 않습니다 — 번역은 원문의 모호함을 그대로 옮겼습니다"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\nFrank Burger begins selling its second set of collaboration meals with 'Attack on Titan' today.\n\nThe first collaboration in January drew lines at some locations, and the merchandise ran out quickly. After customers asked for it to return, the Survey Corps cloak blanket came back for an encore run in March. This time the merchandise lineup is all new.\n\nThe Survey Corps Pack pairs a cheeseburger set with an enlistment kit: a tin case, a patch, a badge, a dog tag chain and a name tag. The Titan in the Wall Pack comes with a JG Burger set and a color-changing cup that reveals a Titan's face when filled with a cold drink. Eren's Attack Pack adds an acrylic diorama to a shrimp burger set. The dog tag chain and name tag each feature one character, chosen at random from Eren, Mikasa, Levi, Erwin and Hange.\n\nStarts: Oct 27 (Tue)\nAvailable at: Participating Frank Burger locations across Korea (set sales end at each location once its merchandise sells out)\n#SENE #FrankBurger #AttackOnTitan #AOT #SurveyCorps\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793090907/cxuzmcqlmojdqmhxuima.jpg\n제목: Frank Burger × AOT|Round 2 Starts Today\n부제: Enlistment Kit · Color-Changing Cup · Acrylic Diorama\n출처: Frank Burger\n",
-      "caption": "Frank Burger begins selling its second set of collaboration meals with 'Attack on Titan' today.\n\nThe first collaboration in January drew lines at some locations, and the merchandise ran out quickly. After customers asked for it to return, the Survey Corps cloak blanket came back for an encore run in March. This time the merchandise lineup is all new.\n\nThe Survey Corps Pack pairs a cheeseburger set with an enlistment kit: a tin case, a patch, a badge, a dog tag chain and a name tag. The Titan in the Wall Pack comes with a JG Burger set and a color-changing cup that reveals a Titan's face when filled with a cold drink. Eren's Attack Pack adds an acrylic diorama to a shrimp burger set. The dog tag chain and name tag each feature one character, chosen at random from Eren, Mikasa, Levi, Erwin and Hange.\n\nStarts: Oct 27 (Tue)\nAvailable at: Participating Frank Burger locations across Korea (set sales end at each location once its merchandise sells out)\n#SENE #FrankBurger #AttackOnTitan #AOT #SurveyCorps",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nFrank Burger starts selling its second collaboration set with 'Attack on Titan' today.\n\nDuring the first collaboration in January, lines formed at some stores and the merchandise ran out quickly. After customers asked for it again, the Survey Corps cape blanket came back for an encore run in March. This time, the merchandise is all new.\n\nThe 'Survey Corps Pack' adds an enlistment kit to the cheeseburger set: a tin case, patch, badge, dog tag and name tag. The 'Titan in the Wall Pack' adds a color-changing cup to the JG Burger set, and a Titan's face appears when it holds a cold drink. The 'Eren's Attack Pack' adds an acrylic diorama to the Shrimp Burger set. Each dog tag and name tag features one random character: Eren, Mikasa, Levi, Erwin or Hange.\n\nStarts: Oct 27 (Tue)\nWhere: Participating Frank Burger stores across Korea (each store stops selling the sets once its merchandise runs out)\n#SENE #FrankBurger #AttackOnTitan #AOT #SurveyCorps #KoreanFood\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793090907/cxuzmcqlmojdqmhxuima.jpg\n제목: Frank Burger × AOT,|Second Set Starts Today\n부제: Enlistment Kit · Color-Changing Cup · Acrylic Diorama\n출처: Frank Burger\n",
+      "caption": "Frank Burger starts selling its second collaboration set with 'Attack on Titan' today.\n\nDuring the first collaboration in January, lines formed at some stores and the merchandise ran out quickly. After customers asked for it again, the Survey Corps cape blanket came back for an encore run in March. This time, the merchandise is all new.\n\nThe 'Survey Corps Pack' adds an enlistment kit to the cheeseburger set: a tin case, patch, badge, dog tag and name tag. The 'Titan in the Wall Pack' adds a color-changing cup to the JG Burger set, and a Titan's face appears when it holds a cold drink. The 'Eren's Attack Pack' adds an acrylic diorama to the Shrimp Burger set. Each dog tag and name tag features one random character: Eren, Mikasa, Levi, Erwin or Hange.\n\nStarts: Oct 27 (Tue)\nWhere: Participating Frank Burger stores across Korea (each store stops selling the sets once its merchandise runs out)\n#SENE #FrankBurger #AttackOnTitan #AOT #SurveyCorps #KoreanFood",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091153/eiqclmzhe1txltfdifju.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091152/rejaobfnm3c1x8glulco.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091225/ycqv2f9lgq1t8xwazuo3.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091225/nb6yuordxj0yztmua0hs.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091153/eiqclmzhe1txltfdifju.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091225/ycqv2f9lgq1t8xwazuo3.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T17:52+09:00"
+       "at": "2026-10-27T17:53+09:00"
       }
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\nフランクバーガーが今日から、『進撃の巨人』とのコラボセット第2弾を販売します。\n\n1月の第1弾では一部の店舗に行列ができ、グッズもすぐになくなりました。調査兵団マントのブランケットは再販を望む声を受けて、3月にアンコール販売されています。今回はグッズが一新されています。\n\n「調査兵団パック」はチーズバーガーセットに、缶ケース・ワッペン・バッジ・ドッグタグチェーン・ネームプレートが入った入団キットが付きます。「壁の中の巨人パック」はJGバーガーセットに、冷たい飲み物を注ぐと巨人の顔が浮かび上がる変色カップが付きます。「エレンの進撃パック」はシュリンプバーガーセットにアクリルジオラマが付きます。ドッグタグチェーンとネームプレートは、エレン・ミカサ・リヴァイ・エルヴィン・ハンジのうち1キャラクターがランダムで入ります。\n\n開始：10月27日（火）\n販売：韓国全国のフランクバーガー参加店舗（店舗ごとにグッズがなくなり次第セット販売終了）\n#SENE #進撃の巨人 #調査兵団 #フランクバーガー #韓国グルメ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793090907/cxuzmcqlmojdqmhxuima.jpg\n제목: フランクバーガー×進撃の巨人|第2弾セットが今日から\n부제: 入団キット・変色カップ・アクリルジオラマの3種\n출처: フランクバーガー\n",
-      "caption": "フランクバーガーが今日から、『進撃の巨人』とのコラボセット第2弾を販売します。\n\n1月の第1弾では一部の店舗に行列ができ、グッズもすぐになくなりました。調査兵団マントのブランケットは再販を望む声を受けて、3月にアンコール販売されています。今回はグッズが一新されています。\n\n「調査兵団パック」はチーズバーガーセットに、缶ケース・ワッペン・バッジ・ドッグタグチェーン・ネームプレートが入った入団キットが付きます。「壁の中の巨人パック」はJGバーガーセットに、冷たい飲み物を注ぐと巨人の顔が浮かび上がる変色カップが付きます。「エレンの進撃パック」はシュリンプバーガーセットにアクリルジオラマが付きます。ドッグタグチェーンとネームプレートは、エレン・ミカサ・リヴァイ・エルヴィン・ハンジのうち1キャラクターがランダムで入ります。\n\n開始：10月27日（火）\n販売：韓国全国のフランクバーガー参加店舗（店舗ごとにグッズがなくなり次第セット販売終了）\n#SENE #進撃の巨人 #調査兵団 #フランクバーガー #韓国グルメ",
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nフランクバーガー（프랭크버거）が本日から『進撃の巨人』との2回目のコラボセットを販売します。\n\n1月の初コラボでは一部の店舗に行列ができ、グッズも早々になくなったのですが、調査兵団マントブランケットは再販を求める声を受けて3月にアンコール販売されました。今回はグッズを新しく揃えています。\n\n「調査兵団パック（조사병단팩）」はチーズバーガーセットに、ティンケース・ワッペン・バッジ・ドッグタグ・名札が入った入団キットが付きます。「壁の中の巨人パック（벽속의거인팩）」はJGバーガーセットに、冷たい飲み物を注ぐと巨人の顔が浮かび上がる変色カップ付き。「エレンの進撃パック（에렌의진격팩）」はシュリンプバーガーセットにアクリルジオラマが付きます。ドッグタグと名札のキャラクターは、エレン・ミカサ・リヴァイ・エルヴィン・ハンジの中からランダムで1人です。\n\n開始：10月27日（火）\n販売：韓国全国のフランクバーガー参加店舗（店舗ごとにグッズがなくなり次第、セット販売終了）\n#SENE #進撃の巨人 #フランクバーガー #調査兵団 #韓国グルメ #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793090907/cxuzmcqlmojdqmhxuima.jpg\n제목: フランクバーガー×進撃の巨人|第2弾セット本日から\n부제: 入団キット・変色カップ・アクリルジオラマの3種\n출처: フランクバーガー\n",
+      "caption": "フランクバーガー（프랭크버거）が本日から『進撃の巨人』との2回目のコラボセットを販売します。\n\n1月の初コラボでは一部の店舗に行列ができ、グッズも早々になくなったのですが、調査兵団マントブランケットは再販を求める声を受けて3月にアンコール販売されました。今回はグッズを新しく揃えています。\n\n「調査兵団パック（조사병단팩）」はチーズバーガーセットに、ティンケース・ワッペン・バッジ・ドッグタグ・名札が入った入団キットが付きます。「壁の中の巨人パック（벽속의거인팩）」はJGバーガーセットに、冷たい飲み物を注ぐと巨人の顔が浮かび上がる変色カップ付き。「エレンの進撃パック（에렌의진격팩）」はシュリンプバーガーセットにアクリルジオラマが付きます。ドッグタグと名札のキャラクターは、エレン・ミカサ・リヴァイ・エルヴィン・ハンジの中からランダムで1人です。\n\n開始：10月27日（火）\n販売：韓国全国のフランクバーガー参加店舗（店舗ごとにグッズがなくなり次第、セット販売終了）\n#SENE #進撃の巨人 #フランクバーガー #調査兵団 #韓国グルメ #韓国旅行",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091155/b9ptrsopqxoyznh8n8aw.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091155/nd9kv5ulx1dfurzdjhzk.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091228/movoduadvejqr6anwuoh.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091227/gcxyawzphfwtsjsugb7f.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091155/b9ptrsopqxoyznh8n8aw.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793091228/movoduadvejqr6anwuoh.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T17:52+09:00"
+       "at": "2026-10-27T17:53+09:00"
       }
      }
     }
@@ -3712,9 +3712,135 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090928/oirgimxkxowjux5ifskb.jpg",
      "key": "VRbf-7pkui4@29.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-27T17:49+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793091184/sene_studio/uzwwpqcz6theozxrf0t7.mp4",
+     "at": "2026-10-27T17:53+09:00",
+     "file": "MoJibHabNiDa_DeBeulSeu_PeulLaen_S_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793091185658-0f9e6652",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 3.17,
+        "text": "이번 데블스 플랜에서는 보유한 피스를"
+       },
+       {
+        "start": 3.17,
+        "end": 6.48,
+        "text": "모두 잃어도 탈락하지 않습니다"
+       },
+       {
+        "start": 6.48,
+        "end": 9.65,
+        "text": "플레이어들의 운명은 오직 게임에 의해서만"
+       },
+       {
+        "start": 9.65,
+        "end": 10.76,
+        "text": "결정됩니다"
+       },
+       {
+        "start": 10.76,
+        "end": 12.42,
+        "text": "지니어스냐 데블스 플랜이냐"
+       },
+       {
+        "start": 12.42,
+        "end": 14.07,
+        "text": "지긋지긋한 장우라고"
+       },
+       {
+        "start": 14.07,
+        "end": 15.28,
+        "text": "반으로 줄일까요?"
+       },
+       {
+        "start": 15.28,
+        "end": 16.15,
+        "text": "진짜 잔인하다"
+       },
+       {
+        "start": 16.15,
+        "end": 17.68,
+        "text": "이게 뭐야"
+       },
+       {
+        "start": 17.68,
+        "end": 20.09,
+        "text": "원래 리더급이 많은 거에는 라인을 만들려고"
+       },
+       {
+        "start": 20.09,
+        "end": 20.72,
+        "text": "할 텐데"
+       },
+       {
+        "start": 20.72,
+        "end": 21.46,
+        "text": "장동민 님"
+       },
+       {
+        "start": 21.46,
+        "end": 22.5,
+        "text": "같이 하는 거죠?"
+       },
+       {
+        "start": 22.5,
+        "end": 24.12,
+        "text": "장우랑 한 번만 하게 해 주십시오"
+       },
+       {
+        "start": 24.12,
+        "end": 26.18,
+        "text": "전 아무래도 그 둘을 떼고 시작하는 게"
+       },
+       {
+        "start": 26.18,
+        "end": 27.9,
+        "text": "우승하려면 장동민 언젠가"
+       },
+       {
+        "start": 27.9,
+        "end": 28.9,
+        "text": "잡아야 되기 때문에"
+       },
+       {
+        "start": 28.9,
+        "end": 30.56,
+        "text": "그쪽 계획은 동민 형 죽이기예요"
+       },
+       {
+        "start": 30.56,
+        "end": 31.59,
+        "text": "어차피 나한테 다"
+       },
+       {
+        "start": 31.59,
+        "end": 32.72,
+        "text": "뒤○ 것들인데"
+       },
+       {
+        "start": 32.72,
+        "end": 34.65,
+        "text": "사실은 이런 상황이 올 때마다"
+       },
+       {
+        "start": 34.65,
+        "end": 35.68,
+        "text": "좀 참고 싶어요"
+       },
+       {
+        "start": 35.68,
+        "end": 37.42,
+        "text": "낭만 있는 호구를 모집합니다"
+       },
+       {
+        "start": 37.42,
+        "end": 38.52,
+        "text": "끝까지 같이 갑시다"
+       }
+      ]
+     }
     }
    },
    "pick": {
@@ -3897,7 +4023,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T17:52+09:00"
+  "at": "2026-10-27T17:53+09:00"
  },
  "slots": {
   "basis": 0,
