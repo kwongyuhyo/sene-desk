@@ -3926,11 +3926,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:29-1:08\n곡: *Devil's Plan* returns\n아티스트: wanted.\n피처링:\n후킹: Romantic saps\n출처: TEO 테오\n자막: 자동",
       "caption": "Netflix released the main trailer for 'The Devil's Plan: Dead Again' today.\n\nThis season changes the rules. Players who lose all their pieces are no longer out on the spot, and survival now depends only on game results. In the trailer, Seo Chul-gu looks for allies to go the distance, saying, \"Wanted: romantic saps.\"\n\nThe 16 players include Jang Dong-min, Hong Jin-ho, Ha Seok-jin, Jeong Hyun-gyu, John Park, Jaejae and Stella Jang. Jeong Jong-yeon and Choi Yun-hee direct.\n\nPremiere: Tue, Nov 10 on Netflix · 14 episodes released over three weeks\nVideo: TEO 테오 official YouTube\n#SENE #TheDevilsPlan #DeadAgain #Netflix #KoreanVariety",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T06:33+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793138316/sene_studio/ly6tc1gf8dvqxweyixeb.mp4",
+       "at": "2026-10-28T06:58+09:00",
+       "file": "wanted_Devils_Plan_returns_KeolCheo_no_lyrics.mp4",
        "sig": "406131fee1",
-       "job": 98
+       "v": "1cb6d74d"
       }
      }
     },
@@ -4795,7 +4796,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:55+09:00"
+  "at": "2026-10-28T06:58+09:00"
  },
  "slots": {
   "basis": 0,
