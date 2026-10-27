@@ -3302,6 +3302,13 @@
        "cvr": 2,
        "at": "2026-10-27T16:54+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_j1JAFK3S/",
+      "cover": "E",
+      "at": "2026-10-27T18:41+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -3319,8 +3326,22 @@
        "cvr": 2,
        "at": "2026-10-27T16:54+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_j3GZlEgr/",
+      "cover": "J",
+      "at": "2026-10-27T18:42+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De_jyxRlCTL/",
+    "cover": "A",
+    "at": "2026-10-27T18:41+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -3465,6 +3486,13 @@
        "cvr": 2,
        "at": "2026-10-27T17:54+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_jsGNFM4Y/",
+      "cover": "E",
+      "at": "2026-10-27T18:40+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -3482,8 +3510,22 @@
        "cvr": 2,
        "at": "2026-10-27T17:54+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_juE9FD8n/",
+      "cover": "J",
+      "at": "2026-10-27T18:40+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De_jp8FlBXg/",
+    "cover": "A",
+    "at": "2026-10-27T18:40+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -3953,7 +3995,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T18:08+09:00"
+  "at": "2026-10-27T18:42+09:00"
  },
  "slots": {
   "basis": 0,
