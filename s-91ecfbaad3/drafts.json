@@ -3939,11 +3939,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:29-1:08\n곡: *デビルズ・プラン*再び\n아티스트: 募集中。\n피처링:\n후킹: ロマンのあるお人好し\n출처: TEO 테오\n자막: 자동",
       "caption": "Netflixが『悪魔の計略 ~デビルズ・プラン~』新シーズン『Dead Again』のメイン予告編を本日公開しました。\n\n今シーズンはルールから変わりました。ピースをすべて失ってもすぐには脱落せず、生き残れるかどうかはゲームの結果だけで決まります。映像の中でソ・チュルグ（서출구）は「ロマンのあるお人好し、募集します」と語り、最後まで一緒に戦う仲間を探しています。\n\n出演はチャン・ドンミン、ホン・ジンホ、ハ・ソクジン、チョン・ヒョンギュ、ジョン・パク、ジェジェ、ステラ・ジャンら16人。演出はチョン・ジョンヨン、チェ・ユンヒ両PDです。\n\n配信：11月10日（火）Netflix・全14話、3週に分けて配信\n映像：TEO 테오 公式YouTube\n#SENE #デビルズプラン #悪魔の計略 #ネットフリックス #韓国バラエティ",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T06:33+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793138523/sene_studio/c9cvpykdvspbpfniacjp.mp4",
+       "at": "2026-10-28T07:02+09:00",
+       "file": "MuJiZhong_debiruzu-puranZaibi_KeolCheo_no_lyrics.mp4",
        "sig": "8012e8d57d",
-       "job": 99
+       "v": "be4a0931"
       }
      }
     }
@@ -4796,7 +4797,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:58+09:00"
+  "at": "2026-10-28T07:02+09:00"
  },
  "slots": {
   "basis": 0,
