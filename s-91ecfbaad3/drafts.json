@@ -1736,13 +1736,89 @@
      "key": "CSvoagEgP2A@12.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793088287/sene_studio/rjr16xp7cdyvkiszhkwi.mp4",
-     "at": "2026-10-27T17:04+09:00",
-     "file": "Ne_BeonJjae_HyeobEob_29Il_NaObNiDa_PaeSyeon_no_lyrics.mp4"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-27T17:20+09:00"
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793089769/sene_studio/huy8bo4dfqlfgltlykst.mp4",
+     "at": "2026-10-27T17:29+09:00",
+     "file": "Ne_BeonJjae_HyeobEob_29Il_NaObNiDa_PaeSyeon_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793089770659-753b6b11",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.34,
+        "text": "I live in a higher place"
+       },
+       {
+        "start": 2.34,
+        "end": 4.2,
+        "text": "mentally gone"
+       },
+       {
+        "start": 4.2,
+        "end": 5.54,
+        "text": "I live in a higher place"
+       },
+       {
+        "start": 5.54,
+        "end": 6.83,
+        "text": "mentally done"
+       },
+       {
+        "start": 6.83,
+        "end": 8.06,
+        "text": "People think I'm"
+       },
+       {
+        "start": 8.06,
+        "end": 9.14,
+        "text": "listening"
+       },
+       {
+        "start": 9.14,
+        "end": 10.31,
+        "text": "but they are wrong"
+       },
+       {
+        "start": 10.31,
+        "end": 12.0,
+        "text": "I live in a higher place"
+       },
+       {
+        "start": 12.0,
+        "end": 14.3,
+        "text": "mentally gone"
+       },
+       {
+        "start": 15.04,
+        "end": 17.96,
+        "text": "I live in a higher place"
+       },
+       {
+        "start": 17.96,
+        "end": 18.29,
+        "text": "mentally gone"
+       },
+       {
+        "start": 18.29,
+        "end": 19.26,
+        "text": "I live in a higher place"
+       },
+       {
+        "start": 19.26,
+        "end": 20.8,
+        "text": "mentally gone"
+       },
+       {
+        "start": 21.94,
+        "end": 26.0,
+        "text": "Happy birthday to you"
+       },
+       {
+        "start": 26.0,
+        "end": 27.06,
+        "text": "여전히 더운"
+       }
+      ]
+     }
     }
    },
    "pick": {
@@ -3544,7 +3620,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T17:25+09:00"
+  "at": "2026-10-27T17:29+09:00"
  },
  "slots": {
   "basis": 0,
