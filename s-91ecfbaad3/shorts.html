@@ -19,6 +19,10 @@
   font-weight:900; font-display:swap}
 @font-face{font-family:PlotPre;  src:url(f-eb.woff2) format('woff2');
   font-weight:800; font-display:swap}
+@font-face{font-family:SenePS; src:url(f-ps.woff2) format('woff2');
+  font-weight:600; font-display:swap}
+@font-face{font-family:SenePM; src:url(f-pm.woff2) format('woff2');
+  font-weight:500; font-display:swap}
 @font-face{font-family:SeneMark; src:url(data:font/woff2;base64,d09GMgABAAAAAAToABAAAAAACzAAAASOAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbdBwqBmA/U1RBVEwATBEICoJEgikBNgIkAxQLDAAEIAWMYgcgDAcb8wkRlZzpKb4+3hBpF/qghZadIEHsbUt10EQwDF+LK91BEFla+Eem42W979gPpDH4f9L7/7XPzFWShw+BFVGJnYBOrNiKRK1tVh9BDL61fk2WaoqGahZbk1vUaenrTnp1DkNne435VmPFUciZJRe+7vL0YvFo+EESyoXGeec4L+jWmNWLE7A04X95rws6zyiBhCfc3UYz+TDGBUCfgK37y3/cRj9/OPWxJR+HmwdbeIJwCI0xa7wcQZIcI/4rQK3OIdSMr6yur6qqrWtqq1CtQugah3kSasIXvltnqioqIuJsUf8jCIgAAEMIhxAQUFxV1rxl++6kjx8yfSLpeIBHY23ciKkTScI7iMdSRRIj/xZQXHmG4wVZiWNoIBMzLi6ptDf3ZwAA4O3KeLOAnTcLVpWX6NUg80tnAXwPnbpjGy6LdPOJ/yN8e20GArB0OwgKu6OkgewbAeXZrOHTR0swa42eLtCY6UPGKy+GJ5MQKHCLgMMw5QNAABigqA6x8dRGgGvVqKgFHekWszXZsr5a6pUkUEfSP7gDIgZAAHhgLLAMADwAIIRQlKeJD2MZRKQRkUYYC0es27Mnx8H8f6HQByP3Xsy5u2nLNGTF48ePNfNzTdfO47xvhPfUrl1bNJ193P2aJ+VF+1EZFBG0qb1nA3t9txiP6NeyfR+GFtJe63fv79/vnGyO7WboTpZ11taLKwbvs6x/L525etHiDyx/JNm1Ocuz26qibwtLuLfjcAUL3aXz5XrTcnjTqGvYJ4uXX1WGNjVkrW6Dq7W5TMu5ucqqvHMiej3JgZ8Pod7aHTKjbWLvjK75dAVoUS3sPWZj5UGDp7sMgNkIMJrWfVNn1P+Kx+7DYAAvfjoPwLtK/5P640c7D+IYAIK/pO/WSXyK34HgxZgtY3h22svKw78pRLkMpwEBMZogAAS9lyt5ccingN1MWBS2m410brOjpseXvZBj5E3EcQqnJCfoaC05Se6sLdcyufdzoDVaOaTm3DU/4jQVdss4neptN2dK9y85i8z2KZZH7vYrRxDFsrIIYgUpcJfu5CV3Vcr38YZsl67feLalQpZ8fRV8lQTnPi956eDNu4pyFZmgYecFh3q7THuZxbFlLcMiyl0bv7YdL4KcfW16im2vP/Kxiz6p5QvXmA+yoUGfRUmSzl+fX+7nSoXP6OdNL+w6qGfaP94jGIVBsB7NVgcnr1eDKwDAraK13kGvobZwi9dt2QNZ4zRV/gJZwU4GCQ32JMq2wFysBQbtNKRQ6N2+da9wn4nUFQrUsrWHO2xYDYEmq2QM6rGkTKI0g2gY7YwkSmjQKUmU0ztZXDcWAU+1Agk36fQ32AY1MDohk9KkhC0NXnl03mJD7u04dLhb+a9fWH3uihw6tzYO4lKY0Y3zis8KhQpf6rJRww5FMHYCwxAgAEhj/v4JXs2udvpXn3To9NgDoLSXYj7RvNVCuMQaUl00lVZ1kEBzPX+fPKczwKSSg9VeIUIUESUD9qF48punzWOO4yyHaz9c2ya/lMLyJMxG9aIh1EkXBNLa1XEvpTmdfehoEgA=) format('woff2');
   font-weight:900; font-display:block}
 .joinBox{margin-top:10px;padding:10px;border:1px dashed var(--line,rgba(127,127,127,.35));border-radius:12px}
@@ -169,8 +173,9 @@ header .count{
 }
 /* SENE 숏폼 A2 (2026-10-26 확정 · generators/sene_short_overlay.py 와 같은 수치 — 카드뉴스 v2 의 틀)
      마스트헤드 SENE. (64,236) 46px · 마침표 로즈 · 그 아래 y310 종이색 가는 줄 · 오른쪽 끝 영문 카테고리 22px
-     헤드라인         왼쪽 64 · 88px(64 까지) · 2줄까지 · 종이색 · 바닥 y1340 · 폭 816 · *낱말* 은 로즈
-     말자막           PLOT 결 — 종이색 Bold 54 · 먹색 외곽선·그림자 · 가운데(x530 · 폭 700) · 글자 바닥 y1040 (제목 위)
+     헤드라인         왼쪽 64 · Pretendard SemiBold 80(60 까지) · 자간 −2% · 2줄까지 · 종이색 · 바닥 y1340 · 폭 816 · *낱말* 은 로즈
+     말자막           종이색 Pretendard Medium 46(→40) · 외곽선 없이 옅은 그림자 · 가운데(x530 · 폭 700) · 글자 바닥 y1040 (제목 위)
+     (10/27 규효 "텍스트가 너무 뚱뚱하고 못생겼어" → A: Black 88 · Bold 54 외곽선에서 내림)
      아래 띠          y1384 가는 줄(64→880) · SELECT EVERY NEW EDIT · 오른쪽 880 끝에 출처 22px
      그라디언트       먹색 — 위 120~480 스크림 160→0 · 860→1240 α 0→205 · 1440 까지 205 · 맨 아래 110
    좌표는 PIL 처럼 '글자 상자 위'(ascender) 기준이라, CSS 에서는 기준선을 맞춰 top 을 계산한다 (app.js paintFrame). */
@@ -197,8 +202,8 @@ header .count{
 }
 .frame .line{
   position:absolute; left:64px; top:1138px;
-  font-family:PlotNoto,Pretendard,sans-serif; font-weight:900;
-  color:#F5F2EC; white-space:nowrap; line-height:1; font-size:88px;
+  font-family:SenePS,Pretendard,sans-serif; font-weight:600; letter-spacing:-0.02em;
+  color:#F5F2EC; white-space:nowrap; line-height:1; font-size:80px;
 }
 .frame .line .hi{color:#E8CDD2}
 .frame .ttx{display:inline-block; line-height:1}
@@ -303,7 +308,7 @@ details.formFold>summary{cursor:pointer; font-size:12.5px; color:var(--faint); p
 }
 
 
-/* 재생 미리보기 — 완성본 / 구간 칸, 말자막 (SENE A2 말자막 · PLOT 결: 종이색 Bold 54 · 먹색 외곽선·그림자 · 가운데 x530 · 글자 바닥 y1040 — 제목 위) */
+/* 재생 미리보기 — 완성본 / 구간 칸, 말자막 (SENE A2 말자막 · 종이색 Medium 46 · 외곽선 없이 옅은 그림자 · 가운데 x530 · 글자 바닥 y1040 — 제목 위) */
 .ppTabs{display:flex; gap:6px; padding:0 14px 8px; flex:none}
 .ppTabs[hidden]{display:none}
 .ppTab{flex:1; background:rgba(255,255,255,.08); border:1px solid rgba(255,255,255,.16); color:rgba(255,255,255,.75);
@@ -311,8 +316,8 @@ details.formFold>summary{cursor:pointer; font-size:12.5px; color:var(--faint); p
 .ppTab.on{background:#fff; color:#000; border-color:#fff}
 .ppTab[hidden]{display:none}
 .ppOver .sub{position:absolute; left:180px; width:700px; bottom:880px; top:auto; transform:none;
-  text-align:center; color:#F5F2EC; font-family:Pretendard,sans-serif; font-weight:700; font-size:54px; line-height:1.3;
-  -webkit-text-stroke:6px rgba(36,34,32,.84); paint-order:stroke fill; text-shadow:0 4px 12px rgba(0,0,0,.6), 0 0 22px rgba(0,0,0,.45);
+  text-align:center; color:#F5F2EC; font-family:SenePM,Pretendard,sans-serif; font-weight:500; font-size:46px; line-height:1.3;
+  text-shadow:0 3px 8px rgba(0,0,0,.55), 0 0 28px rgba(0,0,0,.4);
   text-wrap:balance; white-space:pre-line}
 .ppOver .sub:empty{display:none}
 .ppOver[hidden]{display:none}
@@ -2686,7 +2691,7 @@ function escapeHtml(s) {
    수치는 generators/sene_short_overlay.py 그대로다. 그쪽은 PIL 이라 글자 좌표가 '글자 상자 위(ascender)'
    기준이다 — 기준선 = y + ceil(ascent × px). CSS 는 줄 상자 위 기준이라 같은 기준선이 되도록 top 을 잡는다.
    Pretendard: ascent 1950 · descent 494 (upem 2048) → line-height:1 일 때 기준선 = top + 0.8555 × px. */
-const A_HEAD = { x: 64, px: 88, min: 64, lead: 1.18, maxW: 1080 - 64 - 200, bottom: 1340 };
+const A_HEAD = { x: 64, px: 80, min: 60, lead: 1.2, maxW: 1080 - 64 - 200, bottom: 1340, track: -0.02 };   // 10/27 A — SemiBold 80 · 자간 −2%
 const CAT_EN = { 패션: 'FASHION', 뷰티: 'BEAUTY', 공간: 'SPACE', 푸드: 'FOOD', 컬처: 'CULTURE', 트렌드: 'TREND', 놀거리: 'PLAY', 이슈: 'ISSUE' };
 function catEn(b) {                                   // 마스트헤드 오른쪽 — sene_short_overlay.category_text
   const raw = catText(b).split('·')[0].trim();
@@ -2699,8 +2704,8 @@ const preTop = (pilY, px) => pilY + Math.ceil(PRE_ASC * px) - (px * (1 - PRE_ASC
 let _mc = null;
 function headW(text, px) {
   _mc = _mc || document.createElement('canvas').getContext('2d');
-  _mc.font = '900 ' + px + 'px PlotNoto, Pretendard, sans-serif';
-  return _mc.measureText(text).width;
+  _mc.font = '600 ' + px + 'px SenePS, Pretendard, sans-serif';
+  return _mc.measureText(text).width + A_HEAD.track * px * Math.max(0, String(text).length - 1);   // 렌더러 tlen 과 같게 자간까지
 }
 function splitHead(t) {
   return String(t || '').replace(/\\n/g, '\n').replace(/\\\|/g, '\u0000').split(/[\n|]/)
@@ -2730,7 +2735,7 @@ function wrapHead(text, px) {
   }
   return res;
 }
-/* sene_short_overlay.fit_headline — 92px 에서 64px 까지 2 씩, 두 줄에 들면 그 크기. 안 되면 64px 두 줄 + 말줄임 */
+/* sene_short_overlay.fit_headline — 80px 에서 60px 까지 2 씩, 두 줄에 들면 그 크기. 안 되면 60px 두 줄 + 말줄임 */
 function fitHead(parts) {
   parts = parts.map(plainHi).filter(x => x.trim());
   if (!parts.length) return { lines: [], px: A_HEAD.px, cut: false };
@@ -2777,7 +2782,7 @@ function paintFrame(root, b) {
   return fitFrame(root, fit);
 }
 
-/* 넘침 — A안 렌더러는 헤드라인을 64px 까지 줄이고, 그래도 넘치면 말줄임으로 자른다(위 fitHead 와 같은 일).
+/* 넘침 — A안 렌더러는 헤드라인을 60px 까지 줄이고, 그래도 넘치면 말줄임으로 자른다(위 fitHead 와 같은 일).
    카테고리는 줄이지 않는다 — 오른쪽 안전영역(200px)을 넘으면 표시만 한다. */
 const FIT_RIGHT = 1080 - 64;      // 마스트헤드 오른쪽 끝 (카테고리는 오른쪽 정렬 · 오른쪽 200 액션 열은 위쪽엔 없다)
 
@@ -5292,9 +5297,9 @@ window.addEventListener('resize', () => { if ($('#ppSubList') && $('#ppSubList')
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.27 16:50';
+    a.title = '판 10.27 16:51';
     var ver = document.createElement('span');
-    ver.textContent = '10.27 16:50';
+    ver.textContent = '10.27 16:51';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);

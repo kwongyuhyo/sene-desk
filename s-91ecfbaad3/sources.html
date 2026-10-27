@@ -357,33 +357,39 @@ h1{margin:0 0 calc(var(--u)*0.5); font-size:29px; font-weight:800; letter-spacin
 .ig .track::-webkit-scrollbar{display:none}
 .ig .track img{flex:none; width:100%; aspect-ratio:4/5; object-fit:cover; scroll-snap-align:start; display:block; background:#111}
 .ig .cnt{position:absolute; top:10px; right:10px; background:rgba(0,0,0,.6); color:#fff; font-size:12px; padding:3px 8px; border-radius:999px}
-/* 숏폼 미리보기 — 숏폼 앱의 완성본 틀(webapp/shorts/page.html .frame)을 그대로 옮겼다.
-   10/11 규효 "숏폼은 미리보기가 안됨. 폼이 좀 다른거 같기도" — 예전엔 유튜브 썸네일 가운데에 작은 글자를 얹어서
-   완성본과 모양이 달랐다. 1080×1920 틀을 그대로 그려 화면 폭에 맞게 줄인다. 자리·글자 크기는 숏폼 앱과 같은 값
-   (tests/test_shorts_frame.py 가 숏폼 앱 쪽을 렌더러와 대조한다). */
-@font-face{font-family:PlotNoto; src:url(f-nb.woff2) format('woff2'); font-weight:900; font-display:swap}
+/* 숏폼 미리보기 — SENE A2 (10/27 규효 "영상은 수정된 안으로 나오는데 초안 미리보기는 기존 플롯처럼 나온다").
+   10/11 부터 PLOT 틀(webapp/shorts/page.html 의 옛 .frame)을 옮겨 썼는데, 10/26 A2 로 바꾸면서 여기를 안 따라 바꿨다.
+   지금 값은 generators/sene_short_overlay.py · 숏폼 앱(webapp/shorts/page.html .frame) 과 같다.
+     마스트헤드 SENE. (64,236) 46px · 마침표 로즈 · y310 종이색 줄 · 오른쪽 끝 영문 카테고리 22px
+     헤드라인 왼쪽 64 · Pretendard SemiBold 80(60 까지) · 자간 −2% · 2줄 · 바닥 y1340 · 폭 816 · *낱말* 로즈
+     아래 띠 y1384 줄 · SELECT EVERY NEW EDIT · 오른쪽 880 끝 출처 22px
+   1080×1920 틀을 그대로 그려 화면 폭에 맞게 줄인다. */
 @font-face{font-family:PlotPre; src:url(f-eb.woff2) format('woff2'); font-weight:800; font-display:swap}
+@font-face{font-family:SenePS; src:url(f-ps.woff2) format('woff2'); font-weight:600; font-display:swap}
+@font-face{font-family:SeneMark; src:url(data:font/woff2;base64,d09GMgABAAAAAAToABAAAAAACzAAAASOAAIAQgAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbdBwqBmA/U1RBVEwATBEICoJEgikBNgIkAxQLDAAEIAWMYgcgDAcb8wkRlZzpKb4+3hBpF/qghZadIEHsbUt10EQwDF+LK91BEFla+Eem42W979gPpDH4f9L7/7XPzFWShw+BFVGJnYBOrNiKRK1tVh9BDL61fk2WaoqGahZbk1vUaenrTnp1DkNne435VmPFUciZJRe+7vL0YvFo+EESyoXGeec4L+jWmNWLE7A04X95rws6zyiBhCfc3UYz+TDGBUCfgK37y3/cRj9/OPWxJR+HmwdbeIJwCI0xa7wcQZIcI/4rQK3OIdSMr6yur6qqrWtqq1CtQugah3kSasIXvltnqioqIuJsUf8jCIgAAEMIhxAQUFxV1rxl++6kjx8yfSLpeIBHY23ciKkTScI7iMdSRRIj/xZQXHmG4wVZiWNoIBMzLi6ptDf3ZwAA4O3KeLOAnTcLVpWX6NUg80tnAXwPnbpjGy6LdPOJ/yN8e20GArB0OwgKu6OkgewbAeXZrOHTR0swa42eLtCY6UPGKy+GJ5MQKHCLgMMw5QNAABigqA6x8dRGgGvVqKgFHekWszXZsr5a6pUkUEfSP7gDIgZAAHhgLLAMADwAIIRQlKeJD2MZRKQRkUYYC0es27Mnx8H8f6HQByP3Xsy5u2nLNGTF48ePNfNzTdfO47xvhPfUrl1bNJ193P2aJ+VF+1EZFBG0qb1nA3t9txiP6NeyfR+GFtJe63fv79/vnGyO7WboTpZ11taLKwbvs6x/L525etHiDyx/JNm1Ocuz26qibwtLuLfjcAUL3aXz5XrTcnjTqGvYJ4uXX1WGNjVkrW6Dq7W5TMu5ucqqvHMiej3JgZ8Pod7aHTKjbWLvjK75dAVoUS3sPWZj5UGDp7sMgNkIMJrWfVNn1P+Kx+7DYAAvfjoPwLtK/5P640c7D+IYAIK/pO/WSXyK34HgxZgtY3h22svKw78pRLkMpwEBMZogAAS9lyt5ccingN1MWBS2m410brOjpseXvZBj5E3EcQqnJCfoaC05Se6sLdcyufdzoDVaOaTm3DU/4jQVdss4neptN2dK9y85i8z2KZZH7vYrRxDFsrIIYgUpcJfu5CV3Vcr38YZsl67feLalQpZ8fRV8lQTnPi956eDNu4pyFZmgYecFh3q7THuZxbFlLcMiyl0bv7YdL4KcfW16im2vP/Kxiz6p5QvXmA+yoUGfRUmSzl+fX+7nSoXP6OdNL+w6qGfaP94jGIVBsB7NVgcnr1eDKwDAraK13kGvobZwi9dt2QNZ4zRV/gJZwU4GCQ32JMq2wFysBQbtNKRQ6N2+da9wn4nUFQrUsrWHO2xYDYEmq2QM6rGkTKI0g2gY7YwkSmjQKUmU0ztZXDcWAU+1Agk36fQ32AY1MDohk9KkhC0NXnl03mJD7u04dLhb+a9fWH3uihw6tzYO4lKY0Y3zis8KhQpf6rJRww5FMHYCwxAgAEhj/v4JXs2udvpXn3To9NgDoLSXYj7RvNVCuMQaUl00lVZ1kEBzPX+fPKczwKSSg9VeIUIUESUD9qF48punzWOO4yyHaz9c2ya/lMLyJMxG9aIh1EkXBNLa1XEvpTmdfehoEgA=) format('woff2'); font-weight:900; font-display:block}
 .ig .reel{position:relative; aspect-ratio:9/16; width:100%; max-width:calc(78vh * 9 / 16); margin:0 auto; background:#0b0c10; overflow:hidden}
 .sf{position:absolute; top:0; left:0; width:1080px; height:1920px; transform-origin:0 0; overflow:hidden;
-  background:radial-gradient(120% 70% at 50% 18%, #3a4152 0%, #23262f 45%, #14161c 100%)}
+  background:radial-gradient(120% 70% at 50% 18%, #4a4540 0%, #2c2926 45%, #1a1816 100%)}
 .sf .ph{position:absolute; left:0; top:0; width:100%; height:100%; object-fit:cover; display:block}
 .sf .ph.lb{width:auto; height:133.34%; top:-16.67%; left:50%; transform:translateX(-50%); max-width:none}
-.sf .gr{position:absolute; left:0; right:0; bottom:0; height:820px; pointer-events:none;
-  background:linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(0,0,0,.961) 100%)}
-.sf .lg{position:absolute; left:456px; top:38px; width:168px; height:104px; background:url(data:image/png;base64,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) no-repeat;
-  background-size:contain; opacity:.6}
-.sf .cb{position:absolute; left:59px; top:261px; width:8.55px; height:57.6px; background:#fff}
-.sf .ct{position:absolute; left:80px; bottom:1604px; line-height:1; font-family:PlotNoto,'Noto Sans KR',sans-serif;
-  font-weight:900; font-size:58.05px; letter-spacing:-3.825px; color:#fff; white-space:nowrap}
-.sf .ln{position:absolute; left:96px; font-family:PlotNoto,'Noto Sans KR',sans-serif; font-weight:900; color:#fff;
-  white-space:nowrap; line-height:1; font-size:85.14px; letter-spacing:-5.61px; text-shadow:0 2px 18px rgba(0,0,0,.45)}
-.sf .ttx{display:inline-block; line-height:1}
-.sf .hk{bottom:578px} .sf .ar{bottom:483px} .sf .tt{bottom:388px}
-.sf .sx{font-size:36.12px; font-weight:900; letter-spacing:-2.38px; margin-left:10px}
-.sf .sx.wrapped{position:absolute; left:-0.3px; bottom:-62.2px; margin-left:0}
-.sf .sr{position:absolute; right:51px; bottom:38px; font-family:PlotPre,Pretendard,sans-serif; font-weight:800;
-  font-size:32px; line-height:1; color:#606060; white-space:nowrap}
-.sf .over{outline:4px dashed #ff5a5f; outline-offset:10px}
+.sf .gr{position:absolute; left:0; right:0; bottom:0; height:1060px; pointer-events:none;
+  background:linear-gradient(to bottom, rgba(36,34,32,0) 0px, rgba(36,34,32,.804) 380px, rgba(36,34,32,.804) 580px, rgba(36,34,32,.431) 100%)}
+.sf .gr::before{content:''; position:absolute; left:0; right:0; top:-860px; height:480px;
+  background:linear-gradient(to bottom, rgba(36,34,32,.627) 0px, rgba(36,34,32,.627) 120px, rgba(36,34,32,0) 480px)}
+.sf .gr::after{content:'SELECT EVERY NEW EDIT'; position:absolute; left:64px; right:200px; top:524px;
+  border-top:2px solid #968F88; padding-top:14px; font-family:PlotPre,Pretendard,sans-serif; font-weight:800; font-size:19px;
+  letter-spacing:.06em; line-height:1; color:#C8C2BA; white-space:nowrap}
+.sf .mk{position:absolute; left:64px; top:238.1px; line-height:1; white-space:nowrap;
+  font-family:SeneMark,'Archivo',sans-serif; font-weight:900; font-size:46px; letter-spacing:-1.61px; color:#F5F2EC}
+.sf .mk i{font-style:normal; color:#E8CDD2}
+.sf .cbar{position:absolute; left:64px; right:64px; top:309px; height:2px; background:#F5F2EC}
+.sf .ct{position:absolute; right:64px; top:252px; line-height:1; font-family:PlotPre,Pretendard,sans-serif; font-weight:800;
+  letter-spacing:.06em; font-size:22px; color:#F5F2EC; white-space:nowrap}
+.sf .ln{position:absolute; left:64px; font-family:SenePS,Pretendard,sans-serif; font-weight:600; color:#F5F2EC;
+  white-space:nowrap; line-height:1; font-size:80px; letter-spacing:-0.02em}
+.sf .ln .hi{color:#E8CDD2}
+.sf .sr{position:absolute; right:200px; top:1396px; font-family:PlotPre,Pretendard,sans-serif; font-weight:800;
+  font-size:22px; line-height:1; color:#C8C2BA; white-space:nowrap; max-width:450px; overflow:hidden; text-overflow:ellipsis}
 .sf .empty{opacity:.35}
 .ig .rk{display:flex; flex-wrap:wrap; gap:5px; padding:8px 14px 0}
 .ig .rk span{color:var(--muted); font-size:12px; background:var(--panel); border:1px solid var(--line); padding:3px 8px; border-radius:6px}
@@ -3273,15 +3279,14 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     var sh = it.shorts, vd = sh.video || {}, f = sh.form;
     var cat = sfField(f, '카테고리'), hook = sfField(f, '후킹'), art = sfField(f, '아티스트'),
         song = sfField(f, '곡'), feat = sfField(f, '피처링'), span = sfField(f, '구간');
-    var music = false;                             // SENE 는 음악 카테고리가 없다 — 세 줄 모두 자유 문구
     var cap = captionOf(it, 'shorts');
-    function ln(cls, txt, ph) {
-      return '<div class="ln ' + cls + (txt ? '' : ' empty') + '"><span class="ttx">' + esc(txt || ph) + '</span>' +
-        (cls === 'tt' && feat ? '<span class="sx">' + esc(feat) + '</span>' : '') + '</div>';
-    }
-    var frame = '<div class="sf">' + sfPhoto(sh) + '<div class="gr"></div><div class="lg"></div>' +
-      '<div class="cb"></div><div class="ct">' + esc(cat) + '</div>' +
-      ln('hk', hook, '1줄') + ln('ar', art, music ? '아티스트' : '2줄') + ln('tt', song, music ? '곡 제목' : '3줄') +
+    var CAT_EN = { 패션: 'FASHION', 뷰티: 'BEAUTY', 공간: 'SPACE', 푸드: 'FOOD', 컬처: 'CULTURE', 트렌드: 'TREND', 놀거리: 'PLAY', 이슈: 'ISSUE' };
+    var catRaw = String(cat || '').split('·')[0].trim();
+    var head = sfHeadParts(hook, art, [song, feat].filter(Boolean).join(' '));
+    var subsOn = !/^(끔|없음|off|0|아니오|n|no)?$/i.test(sfField(f, '자막').trim());
+    var frame = '<div class="sf">' + sfPhoto(sh) + '<div class="gr"></div><div class="mk">SENE<i>.</i></div><div class="cbar"></div>' +
+      '<div class="ct">' + esc((CAT_EN[catRaw] || catRaw).toUpperCase()) + '</div>' +
+      '<div class="ln l1" data-head="' + esc(JSON.stringify(head)) + '"></div><div class="ln l2"></div>' +
       '<div class="sr">' + esc(sfCredit(sfField(f, '출처'))) + '</div></div>';
     var vlink = vd.url ? vd.url + (vd.range ? (vd.url.indexOf('?') >= 0 ? '&' : '?') + 't=' + Math.floor(vd.range[0]) : '') : '';
     var rd = sh.rendered || {}, rq = sh.render || {};
@@ -3290,7 +3295,10 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
         rq.status ? '<span>🎬 맥이 만드는 중</span>' : '') +
       (ytId(vd.url) ? '<button data-vfit hidden>전체 보기</button>' : '') +
       (vlink ? '<a class="yt" href="' + escU(vlink) + '" target="_blank" rel="noopener">원본 ↗</a>' : '') +
-      (song ? '' : '<span class="bad">' + (music ? '곡 제목 필요' : '3줄이 비었습니다 — 숏폼 앱은 맨 아래 줄이 있어야 만듭니다') + '</span>');
+      (head.length ? '' : '<span class="bad">제목이 비었습니다</span>') +
+      // 10/27 규효 "초안보기에서 간단한 제목 수정이나 자막 삭제 여부" — 가사 세부설정이 필요할 때만 숏폼 탭을 연다
+      '<button data-ht="' + i + '">✏️ 제목</button>' +
+      '<button data-sb="' + i + ':' + (subsOn ? '0' : '1') + '">' + (subsOn ? '말자막 끄기' : '말자막 켜기') + '</button>';
     return '<article class="ig">' + postHead(it, 'shorts', sh) +
       '<div class="rk">' + marks + '</div><div class="reel" data-reel' +
       (ytId(vd.url) ? ' data-vid="' + esc(ytId(vd.url)) + '" data-s="' + Math.floor((vd.range || [0])[0] || 0) + '" data-e="' +
@@ -3301,32 +3309,84 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
       '<div class="igc cl" data-cap><b>sene_mag</b> ' + esc(cap) + '</div>' +
       (cap.length > 60 ? '<button class="more" data-morecap>더 보기</button>' : '') + evBar(it, i) + postInfo(it, sh) + '</article>';
   }
-  /* 넘침보호 — 숏폼 앱 fitFrame 과 같은 규칙 (오른쪽 120px 여백까지, 70% 까지만 줄이고 그래도 넘치면 빨간 테두리) */
-  var SF_RIGHT = 1080 - 120, SF_MIN = 0.70, SF_SIZE = 85.14, SF_LS = -5.61, SF_CUT = (1920 - 110) * 0.66;
-  function sfFit(reel) {
-    var bad = [];
-    var names = { hk: '1줄', ar: '2줄', tt: '3줄' };
-    Object.keys(names).forEach(function (c) {
-      var n = reel.querySelector('.sf .' + c), tx = n && n.querySelector('.ttx');
-      if (!tx || n.classList.contains('empty')) return;
-      tx.style.fontSize = ''; tx.style.letterSpacing = '';
-      var room = SF_RIGHT - 96, w = tx.offsetWidth;
-      if (w > room) {
-        var r = Math.max(room / w, SF_MIN);
-        tx.style.fontSize = (SF_SIZE * r).toFixed(2) + 'px';
-        tx.style.letterSpacing = (SF_LS * r).toFixed(2) + 'px';
+  /* 헤드라인 — sene_short_overlay.headline_lines · fit_headline 과 같은 일 (숏폼 앱 headParts · fitHead).
+     후킹 → 가운데 줄 → 곡(+피처링). 두 줄이 넘으면 한 문장으로 잇고, 80px 에서 60px 까지 2 씩 줄여 두 줄에 넣는다.
+     그래도 안 들면 60px 두 줄 + 말줄임. 폭은 자간(−2%)까지 넣어 잰다 (렌더러 tlen). */
+  var SF_HEAD = { x: 64, px: 80, min: 60, lead: 1.2, maxW: 816, bottom: 1340, track: -0.02 };
+  var SF_HI = /\*([^*\n]{1,30})\*/g;
+  var SF_ASC = 1950 / 2048, SF_DESC = 494 / 2048;
+  function sfSplit(t) {
+    return String(t || '').replace(/\\n/g, '\n').split(/[\n|]/).map(function (x) { return x.trim(); }).filter(Boolean);
+  }
+  function sfHeadParts(hook, art, title) {
+    var parts = sfSplit(hook).concat(sfSplit(art), sfSplit(title));
+    return parts.length <= 2 ? parts : [parts.join(' ')];
+  }
+  var _sfc = null;
+  function sfW(t, px) {
+    _sfc = _sfc || document.createElement('canvas').getContext('2d');
+    _sfc.font = '600 ' + px + 'px SenePS, Pretendard, sans-serif';
+    return _sfc.measureText(t).width + SF_HEAD.track * px * Math.max(0, t.length - 1);
+  }
+  function sfWrap(text, px) {
+    var out = [], cur = '';
+    text.split(' ').forEach(function (w) {
+      var c = (cur + ' ' + w).trim();
+      if (!cur || sfW(c, px) <= SF_HEAD.maxW) cur = c; else { out.push(cur); cur = w; }
+    });
+    if (cur) out.push(cur);
+    var res = [];
+    out.forEach(function (ln) {
+      while (sfW(ln, px) > SF_HEAD.maxW && ln.length > 1) {
+        var k = ln.length;
+        while (k > 1 && sfW(ln.slice(0, k), px) > SF_HEAD.maxW) k--;
+        res.push(ln.slice(0, k)); ln = ln.slice(k);
       }
-      var sx = n.querySelector('.sx');
-      if (sx) { sx.classList.remove('wrapped'); if (96 + n.scrollWidth > SF_RIGHT) sx.classList.add('wrapped'); }
-      var still = 96 + tx.offsetWidth > SF_RIGHT + 0.5 || w > SF_CUT;
-      n.classList.toggle('over', still);
-      if (still) bad.push(names[c]);
+      res.push(ln);
+    });
+    return res;
+  }
+  function sfFitHead(parts) {
+    parts = parts.map(function (x) { return x.replace(SF_HI, '$1'); }).filter(function (x) { return x.trim(); });
+    if (!parts.length) return { lines: [], px: SF_HEAD.px, cut: false };
+    var joined = parts.join(' '), cands = parts.length === 1 ? [parts] : [parts, [joined]];
+    for (var c = 0; c < cands.length; c++) {
+      for (var px = SF_HEAD.px; px >= SF_HEAD.min; px -= 2) {
+        var out = [];
+        cands[c].forEach(function (ln) { out = out.concat(sfWrap(ln, px)); });
+        out = out.map(function (x) { return x.trim(); });
+        if (out.length <= 2) return { lines: out, px: px, cut: false };
+      }
+    }
+    var p2 = SF_HEAD.min, o2 = sfWrap(joined, p2).map(function (x) { return x.trim(); }).slice(0, 2), last = o2[o2.length - 1];
+    while (last && sfW(last + '…', p2) > SF_HEAD.maxW) last = last.slice(0, -1);
+    o2[o2.length - 1] = last.replace(/\s+$/, '') + '…';
+    return { lines: o2, px: p2, cut: true };
+  }
+  function sfFit(reel) {
+    var l1 = reel.querySelector('.sf .l1'), l2 = reel.querySelector('.sf .l2');
+    if (!l1) return;
+    var raw = []; try { raw = JSON.parse(l1.getAttribute('data-head') || '[]'); } catch (er) {}
+    var his = [];
+    raw.forEach(function (x) { String(x).replace(SF_HI, function (m0, w) { his.push(w.trim()); return m0; }); });
+    var fit = sfFitHead(raw), lh = Math.floor(fit.px * SF_HEAD.lead);
+    var y0 = SF_HEAD.bottom - lh * (fit.lines.length - 1) - fit.px;
+    var rx = his.length ? new RegExp('(' + his.map(function (h) { return h.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }).join('|') + ')') : null;
+    var slots = fit.lines.length === 2 ? [l1, l2] : [l2];
+    [l1, l2].forEach(function (n) { n.innerHTML = ''; n.style.display = 'none'; });
+    fit.lines.forEach(function (ln, k) {
+      var n = slots[k];
+      n.innerHTML = rx ? ln.split(rx).filter(Boolean).map(function (p) { return his.indexOf(p) >= 0 ? '<span class="hi">' + esc(p) + '</span>' : esc(p); }).join('') : esc(ln);
+      n.style.display = ''; n.style.fontSize = fit.px + 'px';
+      // 렌더러(PIL)는 글자 상자 위 기준 — CSS 는 기준선이 맞도록 top 을 고친다 (숏폼 앱 preTop)
+      var pil = y0 + k * lh;
+      n.style.top = (pil + Math.ceil(SF_ASC * fit.px) - (fit.px * (1 - SF_ASC - SF_DESC) / 2 + SF_ASC * fit.px)).toFixed(2) + 'px';
     });
     var rk = reel.parentNode.querySelector('.rk');
     if (!rk) return;
     var old = rk.querySelector('[data-over]');
     if (old) old.remove();
-    if (bad.length) rk.insertAdjacentHTML('beforeend', '<span class="bad" data-over>' + esc(bad.join('·')) + ' 잘림 — 줄여야 합니다</span>');
+    if (fit.cut) rk.insertAdjacentHTML('beforeend', '<span class="bad" data-over>제목이 두 줄에 안 들어 끝이 잘립니다 — 줄여 주세요</span>');
   }
   function sfScale(host) {
     (host || document).querySelectorAll('[data-reel]').forEach(function (r) {
@@ -3347,6 +3407,8 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     });
     var fit = function () { host.querySelectorAll('[data-reel]').forEach(sfFit); };
     fit();
+    // 헤드라인 글꼴은 글자가 들어가야 받기 시작한다 — 먼저 불러 놓고 다시 잰다 (안 그러면 대체 글꼴 폭으로 줄바꿈)
+    if (document.fonts && document.fonts.load) document.fonts.load('600 80px SenePS', '가A').then(fit, function () {});
     if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
     // 숨겨진 채로 그려지면(보기 전환) 폭이 0 이다 — 크기가 생기는 순간 다시 맞춘다
     if (window.ResizeObserver) {
@@ -3588,7 +3650,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     var w = window.open(u, '_blank');
     if (!w) location.href = u;
   }
-  function plotAction(code, label, confirmed, token) {
+  function plotAction(code, label, confirmed, token, text) {
     actMark(code);
     var ch = chGet();
     // 10/14 규효 "앱에서 누르면 텔레그램이 열린다" — 맡기기와 같은 표(sene_evals)에 kind='act' 로 바로 (collectors/orders.pull_acts)
@@ -3608,7 +3670,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
       sign.then(function (sig) {
         var rec = { id: 'act:' + Date.now() + '-' + Math.random().toString(36).slice(2, 6), kind: 'act', draft_date: kstDay(new Date()), draft_key: null,
           source_id: code, verdict: {}, reason: '', rewrite: {}, device: (navigator.userAgent.match(/iPhone|iPad|Android|Mac/) || ['?'])[0],
-          snapshot: { code: code, confirmed: !!confirmed, token: token || '', at: at, sig: sig, label: label || '' } };
+          snapshot: { code: code, confirmed: !!confirmed, token: token || '', at: at, sig: sig, label: label || '', text: text || '' } };
         return sbReq('sene_evals', { method: 'POST', body: JSON.stringify(rec), headers: { Prefer: 'resolution=merge-duplicates,return=minimal' } });
       }).then(function () { toast((label || '보냈습니다') + ' — 맥이 1~5분 안에 받습니다'); })
         .catch(function (er) { toast('못 보냈습니다 — ' + String(er && er.message || er).slice(0, 60)); });
@@ -3617,7 +3679,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     if (ch.url && ch.key) {
       fetch(ch.url.replace(/\/+$/, '') + '/a', {
         method: 'POST', headers: { 'content-type': 'application/json', 'x-app-key': ch.key },
-        body: JSON.stringify({ code: code, confirmed: !!confirmed, token: token || '' })
+        body: JSON.stringify({ code: code, confirmed: !!confirmed, token: token || '', text: text || '' })
       }).then(function (r) { return r.json(); }).then(function (d) {
         if (d && d.ok) toast((label || '보냈습니다') + ' — 맥이 1분 안에 받습니다 (결과는 텔레그램으로)');
         else viaTelegram(code, true);
@@ -4059,6 +4121,28 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     }
     var mc = e.target.closest('[data-morecap]');
     if (mc) { var cp = mc.previousElementSibling; if (cp) cp.classList.remove('cl'); mc.remove(); return; }
+    var htb = e.target.closest('[data-ht]');
+    if (htb) {                                       // 10/27 — 제목만 고쳐 다시 렌더 (collectors/app_actions ht)
+      var hit = (DR && DR.items || [])[Number(htb.getAttribute('data-ht'))], hf = hit && (hit.shorts || {}).form;
+      if (!hit || !hit.key || !hf) return;
+      var now = sfHeadParts(sfField(hf, '후킹'), sfField(hf, '아티스트'), [sfField(hf, '곡'), sfField(hf, '피처링')].filter(Boolean).join(' '));
+      var nv = window.prompt('숏폼 제목 — 두 줄이면 | 로 나눕니다. 강조할 낱말은 *낱말* (영어·일본어판 제목은 그대로)', now.join(' | '));
+      if (nv == null) return;
+      nv = nv.replace(/\s+/g, ' ').trim();
+      if (!nv) { toast('제목이 비어 보내지 않았습니다'); return; }
+      if (nv.replace(/[|*]/g, '').length > 60) { toast('너무 깁니다 — 두 줄 합 60자 안으로'); return; }
+      if (nv === now.join(' | ')) { toast('바뀐 게 없습니다'); return; }
+      plotAction('ht-' + hit.key, '제목 고쳐 다시 렌더', false, '', nv);
+      return;
+    }
+    var sbb = e.target.closest('[data-sb]');
+    if (sbb) {                                       // 10/27 — 말자막 끄기·켜기 후 다시 렌더 (collectors/app_actions sb)
+      var sp2 = sbb.getAttribute('data-sb').split(':'), sit = (DR && DR.items || [])[Number(sp2[0])];
+      if (!sit || !sit.key) return;
+      plotAction('sb-' + sit.key + '-' + sp2[1], sp2[1] === '1' ? '말자막 켜고 다시 렌더' : '말자막 끄고 다시 렌더');
+      sbb.disabled = true; sbb.textContent = '보냄 — 다시 렌더 중';
+      return;
+    }
     var tlb = e.target.closest('[data-tl]');
     if (tlb) {
       var tit = (DR && DR.items || [])[Number(tlb.getAttribute('data-tl'))];
@@ -4133,9 +4217,9 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.27 16:50';
+    a.title = '판 10.27 16:51';
     var ver = document.createElement('span');
-    ver.textContent = '10.27 16:50';
+    ver.textContent = '10.27 16:51';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);

@@ -3117,12 +3117,67 @@
      "v": {
       "A": "c55076f6",
       "B": "576b2d0c",
-      "C": "30635760"
+      "C": "30635760",
+      "E": "7637907d",
+      "J": "9bd2d886"
      }
     }
    },
    "i18n_queued": "2026-10-27T16:50+09:00",
-   "corner_name": "이슈"
+   "corner_name": "이슈",
+   "i18n": {
+    "at": "2026-10-27T16:51+09:00",
+    "confirm": [
+     "번역할 때 원문에 없는 사실은 더하지 않았습니다. 원문의 '적용·금지·가능' 줄 머리말은 정해진 꼴이 없어서 영어 'Applies to / Not allowed / Still allowed', 일본어 '適用 / 禁止 / 可能'으로 옮겼습니다.",
+     "Airbnb는 일본에서도 공식으로 'Airbnb'라고 써서 カタカナ로 바꾸지 않았습니다. 해시태그에만 많이 찾는 말인 '#エアビー'를 넣었습니다.",
+     "원문 · 부제는 '11월 20일 확정 예약부터', 캡션은 '11월 20일 이후 확정되는'으로 적혀 있어 11월 20일 당일에 확정된 예약도 포함되는지 표현이 엇갈림 — 영어판도 부제 'from Nov 20', 캡션 'after Nov 20'로 그대로 따라감. 에어비앤비 공식 발표 문구(on or after인지 after인지)를 확인한 뒤 세 판을 한 표현으로 맞출 것",
+     "적용일 2026년 11월 20일과 금지·허용 항목은 출처가 Fox Business 한 곳이라, 올리기 전에 에어비앤비 공식 발표(뉴스룸·호스트 안내)와 다시 대조할 것"
+    ],
+    "review": {
+     "at": "2026-10-27T16:51+09:00",
+     "fixes": [
+      "일본어 · 캡션 둘째 단락 · 「ホストがゲストに求められなくなります」→「ホストがゲストに求めることはできなくなります」 — 가능형 '求められる'가 수동형 '(호스트가) 요구받지 않게 된다'로도 읽혀 두 가지 뜻이 됨"
+     ],
+     "doubt": [
+      "원문 · 부제는 '11월 20일 확정 예약부터', 캡션은 '11월 20일 이후 확정되는'으로 적혀 있어 11월 20일 당일에 확정된 예약도 포함되는지 표현이 엇갈림 — 영어판도 부제 'from Nov 20', 캡션 'after Nov 20'로 그대로 따라감. 에어비앤비 공식 발표 문구(on or after인지 after인지)를 확인한 뒤 세 판을 한 표현으로 맞출 것",
+      "적용일 2026년 11월 20일과 금지·허용 항목은 출처가 Fox Business 한 곳이라, 올리기 전에 에어비앤비 공식 발표(뉴스룸·호스트 안내)와 다시 대조할 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nAirbnb (@airbnb) is changing its checkout cleaning rules.\n\nMany guests have said they paid a cleaning fee and were still asked to wash dishes and strip the beds. For bookings confirmed after Nov 20, hosts can no longer require guests to wash or put away dishes, strip bed sheets, or take trash outside the property. Hosts can still make smaller requests, like leaving used dishes in the sink or gathering towels in one place.\n\nAll house rules must be listed on the listing page before booking. Hosts can't add new rules after booking through messages or notices. Hosts also can't charge their own fines for broken rules. Airbnb says the change responds to guest feedback that the old rules were confusing and burdensome.\n\nApplies to: Bookings confirmed after Nov 20, 2026\nNot allowed: Washing or putting away dishes, stripping bed sheets, taking trash outside, host-imposed fines\nStill allowed: Leaving dishes in the sink, gathering used towels\n\n#SENE #Airbnb #AirbnbCheckout #TravelNews #Travel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg\n제목: Airbnb Guests Can Skip|the Dishes at Checkout\n부제: New checkout cleaning rules apply to bookings confirmed from Nov 20\n출처: Fox Business\n",
+      "caption": "Airbnb (@airbnb) is changing its checkout cleaning rules.\n\nMany guests have said they paid a cleaning fee and were still asked to wash dishes and strip the beds. For bookings confirmed after Nov 20, hosts can no longer require guests to wash or put away dishes, strip bed sheets, or take trash outside the property. Hosts can still make smaller requests, like leaving used dishes in the sink or gathering towels in one place.\n\nAll house rules must be listed on the listing page before booking. Hosts can't add new rules after booking through messages or notices. Hosts also can't charge their own fines for broken rules. Airbnb says the change responds to guest feedback that the old rules were confusing and burdensome.\n\nApplies to: Bookings confirmed after Nov 20, 2026\nNot allowed: Washing or putting away dishes, stripping bed sheets, taking trash outside, host-imposed fines\nStill allowed: Leaving dishes in the sink, gathering used towels\n\n#SENE #Airbnb #AirbnbCheckout #TravelNews #Travel",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087489/ursfbmu3b5dqazyptw5x.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087488/sbmbd1q6a2yjmzcekpic.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087489/ursfbmu3b5dqazyptw5x.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T16:51+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nAirbnb（@airbnb）が、チェックアウト前の清掃ルールを変更します。\n\n清掃料金を払っているのに、皿洗いやベッドの片付けまで求められたという声が多く寄せられていました。11月20日以降に確定する予約からは、皿洗いや食器の片付け、ベッドシーツの取り外し、ゴミを宿泊先の外に出すことを、ホストがゲストに求めることはできなくなります。使った食器をシンクに置く、タオルを一か所にまとめるといった程度のお願いは、これまでどおりできます。\n\nハウスルールは予約前に宿泊先のページにすべて記載しておく必要があり、予約後にメッセージや案内文で付け加えることはできません。ルール違反を理由にホストが独自に罰金を科すことも禁止されます。Airbnbは、従来のルールがわかりにくく負担が大きいという利用者の意見を反映したと説明しています。\n\n適用：2026年11月20日以降に確定する予約から\n禁止：皿洗い・食器の片付け、ベッドシーツの取り外し、ゴミの屋外への搬出、ホスト独自の罰金\n可能：食器をシンクに置く、使ったタオルをまとめる\n\n#SENE #Airbnb #エアビー #海外旅行 #旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg\n제목: Airbnb退室前の|皿洗いが不要に\n부제: 11月20日以降に確定した予約から、チェックアウト時の清掃ルールが変わります\n출처: Fox Business\n",
+      "caption": "Airbnb（@airbnb）が、チェックアウト前の清掃ルールを変更します。\n\n清掃料金を払っているのに、皿洗いやベッドの片付けまで求められたという声が多く寄せられていました。11月20日以降に確定する予約からは、皿洗いや食器の片付け、ベッドシーツの取り外し、ゴミを宿泊先の外に出すことを、ホストがゲストに求めることはできなくなります。使った食器をシンクに置く、タオルを一か所にまとめるといった程度のお願いは、これまでどおりできます。\n\nハウスルールは予約前に宿泊先のページにすべて記載しておく必要があり、予約後にメッセージや案内文で付け加えることはできません。ルール違反を理由にホストが独自に罰金を科すことも禁止されます。Airbnbは、従来のルールがわかりにくく負担が大きいという利用者の意見を反映したと説明しています。\n\n適用：2026年11月20日以降に確定する予約から\n禁止：皿洗い・食器の片付け、ベッドシーツの取り外し、ゴミの屋外への搬出、ホスト独自の罰金\n可能：食器をシンクに置く、使ったタオルをまとめる\n\n#SENE #Airbnb #エアビー #海外旅行 #旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087491/mmvvtizkgad4ki14n80p.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087491/tt1fikw6temiihgi5bis.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087491/mmvvtizkgad4ki14n80p.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T16:51+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -3253,7 +3308,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T16:50+09:00"
+  "at": "2026-10-27T16:51+09:00"
  },
  "slots": {
   "basis": 0,
