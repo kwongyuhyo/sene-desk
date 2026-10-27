@@ -4228,8 +4228,8 @@
      "at": "2026-10-27T21:51+09:00",
      "v": {
       "A": "ae7dd075",
-      "E": "07bbc0be",
-      "J": "88ea3687"
+      "E": "c09d1047",
+      "J": "aca518d1"
      }
     }
    },
@@ -4347,83 +4347,68 @@
    },
    "corner_name": "그 말",
    "i18n": {
-    "at": "2026-10-28T02:56+09:00",
+    "at": "2026-10-28T06:32+09:00",
     "confirm": [
-     "〈옆자리, 프란체스카〉 공식 영어·일본어 제목은 확인하지 못했습니다. 영어는 로마자 'Yeopjari, Francesca'에 뜻풀이를 한 번 붙였고, 일본어는 カタカナ에 원어를 괄호로 붙였습니다. 웨이브가 영어 제목을 공개했다면 그걸로 바꿔 주세요.",
-     "원작 영어 제목 'Hello, Francesca'는 TheTVDB 등록명 기준입니다 (https://thetvdb.com/series/hello-franceska/episodes/5856024).",
-     "원작 일본어 제목 『アンニョン！フランチェスカ』는 Filmarks 표기 기준입니다 (https://filmarks.com/dramas/8843/12622). 일본 공식 배급 표기는 따로 확인하지 못했습니다.",
-     "배우·배역 이름(한수아·김현진·피나영·장우주·박슬기·박희진)의 로마자·カタカナ 표기는 일반적인 표기법을 따른 것이고, 공식 표기와 맞춰 보지는 않았습니다.",
-     "영어 캡션의 특별 출연 문장은 'Shim Hye-jin … makes a special appearance in the same role she played'로 심혜진을 주어로 썼습니다. 원문은 세 사람이 모두 그때 배역 그대로 나온다는 뜻이라, 'make special appearances in their original roles'로 고치는 편이 원문에 더 가깝습니다.",
-     "〈옆자리, 프란체스카〉의 공식 영어·일본어 제목을 찾지 못해 로마자 'Yeopjari, Francesca'와 카타카나 『ヨプチャリ、フランチェスカ』를 그대로 뒀습니다. 웨이브가 해외용 제목을 발표했다면 그 표기로 바꿔야 합니다.",
-     "영어 해시태그에 원문의 #옆자리프란체스카에 해당하는 신작 태그가 없습니다(#KDrama로 대체됨). 공식 영어 제목이 확인되면 태그를 넣을지 정해 주세요."
+     "〈옆자리, 프란체스카〉는 공식 영어 제목을 찾지 못했습니다. Soompi 가 쓴 직역 제목 'Next Seat, Francesca' 를 썼습니다. 원작 영어 제목은 위키백과 표기 'Hello Franceska'(k 철자)라서 두 제목의 철자가 다르니, wavve 쪽 영어 표기를 확인해 주세요.",
+     "일본어 정식 제목도 찾지 못했습니다. 그래서 번역 제목 『こんにちは、フランチェスカ』·『となりの席のフランチェスカ』에 처음 한 번 한국어 원제를 괄호로 붙였습니다.",
+     "배우·배역의 영어·일본어 로마자 표기(Han Su-a/ハン・スア, Kim Hyun-jin, Pi Na-young, Jang Woo-ju, Shim Hye-jin, Park Seul-gi, Park Hee-jin)는 관례 표기라서, 공식 표기는 따로 확인하지 못했습니다.",
+     "숏폼 세 칸을 합치면 글자 수 한도를 넘습니다. 그래서 영어·일본어 모두 강조(*프란체스카*)를 후킹 칸으로 옮기고, 곡 칸은 'Out Nov 6.' / '11月6日配信' 로 줄였습니다.",
+     "shorts 캡션 안의 티저 대사 인용에 원문 느낌표가 있어, 원문 그대로 살렸습니다.",
+     "일본어 · 원작 〈안녕, 프란체스카〉와 〈옆자리, 프란체스카〉의 일본 공식 제목을 찾지 못함 — 『こんにちは、フランチェスカ』『となりの席のフランチェスカ』는 번역 제목이라 원어 괄호 병기는 그대로 둠",
+     "영어 · 영어 제목 'Next Seat, Francesca'는 국내 보도로만 확인됨. 원작은 'Hello Franceska'(TVDB·도서관 목록)와 'Hello, Francesca'가 섞여 쓰임 — 웨이브 공식 영어 표기를 한 번 더 확인",
+     "영어 · 장우주 로마자 표기(Woo-ju / Woo-joo)를 공식 표기로 확인하지 못함"
     ],
     "review": {
-     "at": "2026-10-28T02:56+09:00",
+     "at": "2026-10-28T06:32+09:00",
      "fixes": [
-      "영어 · 캡션 셋째 단락 · 'makes a special appearance in the same role she played' → 'also make special appearances, reprising their original roles' — 세 명이 함께 원래 배역으로 나오는데 심혜진 한 사람만 그런 것처럼 읽힘",
-      "영어 · 숏폼 캡션 영상 줄 · 'wavve 웨이브 official YouTube' → 'wavve official YouTube' — 한글이 남아 있었음 (출처 칸 번역 'wavve'에 맞춤)",
-      "일본어 · 캡션·숏폼 캡션 · 『アンニョン！フランチェスカ』 → 『アンニョン、フランチェスカ』 — Watcha 일본어판에 실린 표기에 맞추고, 원문에 없는 느낌표도 뺌",
-      "일본어 · 숏폼 캡션 영상 줄 · 'wavve 웨이브 公式YouTube' → 'wavve 公式YouTube' — 한글이 남아 있었음"
+      "영어 · 숏폼 아티스트 칸 · school time. → go to school. — 원문 '학교에 가세요'와 영어 캡션 속 대사 \"Miss Francesca, go to school!\"에 맞춤 (세 칸 합 38자)"
      ],
      "doubt": [
-      "〈옆자리, 프란체스카〉의 공식 영어·일본어 제목을 찾지 못해 로마자 'Yeopjari, Francesca'와 카타카나 『ヨプチャリ、フランチェスカ』를 그대로 뒀습니다. 웨이브가 해외용 제목을 발표했다면 그 표기로 바꿔야 합니다.",
-      "영어 해시태그에 원문의 #옆자리프란체스카에 해당하는 신작 태그가 없습니다(#KDrama로 대체됨). 공식 영어 제목이 확인되면 태그를 넣을지 정해 주세요."
+      "일본어 · 원작 〈안녕, 프란체스카〉와 〈옆자리, 프란체스카〉의 일본 공식 제목을 찾지 못함 — 『こんにちは、フランチェスカ』『となりの席のフランチェスカ』는 번역 제목이라 원어 괄호 병기는 그대로 둠",
+      "영어 · 영어 제목 'Next Seat, Francesca'는 국내 보도로만 확인됨. 원작은 'Hello Franceska'(TVDB·도서관 목록)와 'Hello, Francesca'가 섞여 쓰임 — 웨이브 공식 영어 표기를 한 번 더 확인",
+      "영어 · 장우주 로마자 표기(Woo-ju / Woo-joo)를 공식 표기로 확인하지 못함"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nThe vampire from the 2005 sitcom 'Hello, Francesca' is heading to a high school classroom this time.\n\nWavve Original 'Yeopjari, Francesca' (literally \"Francesca, in the Next Seat\") is a spin-off set in the original's world. It follows a vampire (Han Su-a) disguised as an ordinary transfer student named Pi Na-young, and class president Jang Woo-ju (Kim Hyun-jin), who is aiming for medical school.\n\nShim Hye-jin, the original Francesca, and Park Seul-gi and Park Hee-jin also make special appearances, reprising their original roles.\n\nPremiere: Fri, Nov 6 on Wavve · 4 episodes, 2 every Friday\n#SENE #HelloFrancesca #Wavve #KDrama #ShimHyeJin\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793105453/wjz8yy9ncdhgzgmxs5ol.jpg\n제목: Francesca the Vampire|Goes to High School\n부제: Wavve's 'Yeopjari, Francesca' Out Nov 6\n출처: wavve\n",
-      "caption": "The vampire from the 2005 sitcom 'Hello, Francesca' is heading to a high school classroom this time.\n\nWavve Original 'Yeopjari, Francesca' (literally \"Francesca, in the Next Seat\") is a spin-off set in the original's world. It follows a vampire (Han Su-a) disguised as an ordinary transfer student named Pi Na-young, and class president Jang Woo-ju (Kim Hyun-jin), who is aiming for medical school.\n\nShim Hye-jin, the original Francesca, and Park Seul-gi and Park Hee-jin also make special appearances, reprising their original roles.\n\nPremiere: Fri, Nov 6 on Wavve · 4 episodes, 2 every Friday\n#SENE #HelloFrancesca #Wavve #KDrama #ShimHyeJin",
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe vampire from the 2005 sitcom 'Hello Franceska' now heads to a high school classroom.\n\nThe wavve original 'Next Seat, Francesca' is a spin-off set in the world of the original series. It follows a vampire (Han Su-a) disguised as an ordinary transfer student named Pi Na-young, and class president Jang Woo-ju (Kim Hyun-jin), who is aiming for medical school.\n\nShim Hye-jin, the original Francesca, returns with Park Seul-gi and Park Hee-jin for special appearances in their original roles.\n\nRelease: Nov 6 (Fri) on wavve · 4 episodes, two every Friday\n#SENE #HelloFranceska #wavve #KDrama #ShimHyeJin\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793105453/wjz8yy9ncdhgzgmxs5ol.jpg\n제목: Vampire Francesca|Heads to High School\n부제: wavve's 'Next Seat, Francesca' Out Nov 6\n출처: wavve\n",
+      "caption": "The vampire from the 2005 sitcom 'Hello Franceska' now heads to a high school classroom.\n\nThe wavve original 'Next Seat, Francesca' is a spin-off set in the world of the original series. It follows a vampire (Han Su-a) disguised as an ordinary transfer student named Pi Na-young, and class president Jang Woo-ju (Kim Hyun-jin), who is aiming for medical school.\n\nShim Hye-jin, the original Francesca, returns with Park Seul-gi and Park Hee-jin for special appearances in their original roles.\n\nRelease: Nov 6 (Fri) on wavve · 4 episodes, two every Friday\n#SENE #HelloFranceska #wavve #KDrama #ShimHyeJin",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793123774/blso73aw7xiyz9cvgddv.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793123773/ynzwwcprzzf8kggwrsom.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136730/t8ow5ibi3ihozqbpxob6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136730/ozj4uxeui6irlye44fvg.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793123774/blso73aw7xiyz9cvgddv.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136730/t8ow5ibi3ihozqbpxob6.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-28T02:56+09:00"
+       "at": "2026-10-28T06:32+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=aDzxub0vNxQ\n구간: 0:00-0:30\n곡: *Francesca* Nov 6\n아티스트: go to school\n피처링:\n후킹: Miss Francesca,\n출처: wavve\n자막: 자동",
-      "caption": "The vampire from the 2005 sitcom 'Hello, Francesca' is heading to a high school classroom this time.\n\nThe first teaser for Wavve Original 'Yeopjari, Francesca' opens with the butler calling out in a hurry, \"Miss Francesca, go to school!\" The story gets rolling when the homeroom teacher puts class president Jang Woo-ju (Kim Hyun-jin) in charge of a vampire (Han Su-a) disguised as transfer student Pi Na-young.\n\nShim Hye-jin, Park Seul-gi and Park Hee-jin from the original also make special appearances in their original roles.\n\nPremiere: Fri, Nov 6 on Wavve · 4 episodes, 2 every Friday\nVideo: First teaser, wavve official YouTube\n#SENE #HelloFrancesca #Wavve #KDrama #ShimHyeJin",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793134769/sene_studio/hl5mliowco2ttuvxxrmh.mp4",
-       "at": "2026-10-28T05:59+09:00",
-       "file": "go_to_school_Francesca_Nov_6_KeolCheo_no_lyrics.mp4",
-       "sig": "15abdc8fce",
-       "v": "6406576e"
-      }
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=aDzxub0vNxQ\n구간: 0:00-0:30\n곡: Out Nov 6.\n아티스트: go to school.\n피처링:\n후킹: Miss *Francesca*,\n출처: wavve\n자막: 자동",
+      "caption": "The vampire from the 2005 sitcom 'Hello Franceska' now heads to a high school classroom.\n\nThe first teaser for the wavve original 'Next Seat, Francesca' opens with the butler calling out in a hurry, \"Miss Francesca, go to school!\" The story gets going when the homeroom teacher puts class president Jang Woo-ju (Kim Hyun-jin) in charge of a vampire (Han Su-a) disguised as transfer student Pi Na-young.\n\nShim Hye-jin, Park Seul-gi and Park Hee-jin from the original also make special appearances in their original roles.\n\nRelease: Nov 6 (Fri) on wavve · 4 episodes, two every Friday\nVideo: First teaser, wavve official YouTube\n#SENE #HelloFranceska #wavve #KDrama #ShimHyeJin"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\n2005年のシットコム『アンニョン、フランチェスカ』の吸血鬼が、今度は高校の教室へ向かいます。\n\nwavve（ウェーブ）オリジナル『ヨプチャリ、フランチェスカ（옆자리, 프란체스카）』は原作の世界観を受け継ぐスピンオフで、平凡な転校生ピ・ナヨンになりすました吸血鬼（ハン・スア）と、医学部を目指す学級委員長チャン・ウジュ（キム・ヒョンジン）の物語です。\n\n原作でフランチェスカを演じたシム・ヘジンと、パク・スルギ、パク・ヒジンも当時の役のまま特別出演します。\n\n配信：11月6日（金）wavve・全4話、毎週金曜日に2話ずつ\n#SENE #韓国ドラマ #アンニョンフランチェスカ #シムヘジン #wavve\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793105453/wjz8yy9ncdhgzgmxs5ol.jpg\n제목: 吸血鬼フランチェスカ、|今度は高校へ\n부제: wavve『ヨプチャリ、フランチェスカ』11/6配信\n출처: wavve\n",
-      "caption": "2005年のシットコム『アンニョン、フランチェスカ』の吸血鬼が、今度は高校の教室へ向かいます。\n\nwavve（ウェーブ）オリジナル『ヨプチャリ、フランチェスカ（옆자리, 프란체스카）』は原作の世界観を受け継ぐスピンオフで、平凡な転校生ピ・ナヨンになりすました吸血鬼（ハン・スア）と、医学部を目指す学級委員長チャン・ウジュ（キム・ヒョンジン）の物語です。\n\n原作でフランチェスカを演じたシム・ヘジンと、パク・スルギ、パク・ヒジンも当時の役のまま特別出演します。\n\n配信：11月6日（金）wavve・全4話、毎週金曜日に2話ずつ\n#SENE #韓国ドラマ #アンニョンフランチェスカ #シムヘジン #wavve",
+      "form": "[카테고리]\n컬처\n\n[캡션]\n2005年のシットコム『こんにちは、フランチェスカ（안녕, 프란체스카）』の吸血鬼が、今度は高校の教室へ向かいます。\n\nwavveオリジナル『となりの席のフランチェスカ（옆자리, 프란체스카）』は原作の世界観を受け継ぐスピンオフで、ごく普通の転校生ピ・ナヨンになりすました吸血鬼（ハン・スア）と、医学部を目指す学級委員長チャン・ウジュ（キム・ヒョンジン）の物語です。\n\n原作でフランチェスカを演じたシム・ヘジン、そしてパク・スルギとパク・ヒジンも、当時と同じ役で特別出演します。\n\n配信：11月6日（金）wavve・全4話、毎週金曜日に2話ずつ\n#SENE #韓国ドラマ #wavve #こんにちはフランチェスカ #シムヘジン\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793105453/wjz8yy9ncdhgzgmxs5ol.jpg\n제목: 吸血鬼フランチェスカ、|今度は高校へ\n부제: wavve『となりの席のフランチェスカ』11/6配信\n출처: wavve\n",
+      "caption": "2005年のシットコム『こんにちは、フランチェスカ（안녕, 프란체스카）』の吸血鬼が、今度は高校の教室へ向かいます。\n\nwavveオリジナル『となりの席のフランチェスカ（옆자리, 프란체스카）』は原作の世界観を受け継ぐスピンオフで、ごく普通の転校生ピ・ナヨンになりすました吸血鬼（ハン・スア）と、医学部を目指す学級委員長チャン・ウジュ（キム・ヒョンジン）の物語です。\n\n原作でフランチェスカを演じたシム・ヘジン、そしてパク・スルギとパク・ヒジンも、当時と同じ役で特別出演します。\n\n配信：11月6日（金）wavve・全4話、毎週金曜日に2話ずつ\n#SENE #韓国ドラマ #wavve #こんにちはフランチェスカ #シムヘジン",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793123777/sfsogzcf5rh9b2d8xsyn.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793123776/im7xk3utxy9twktj1wbk.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136733/ky0977tth4b4ygeznczs.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136733/jff3pigwshwsvn0inqtn.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793123777/sfsogzcf5rh9b2d8xsyn.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136733/ky0977tth4b4ygeznczs.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-28T02:56+09:00"
+       "at": "2026-10-28T06:32+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=aDzxub0vNxQ\n구간: 0:00-0:30\n곡: *フランチェスカ*11/6\n아티스트: 学校へ行ってください\n피처링:\n후킹: フランチェスカお嬢様、\n출처: wavve\n자막: 자동",
-      "caption": "2005年のシットコム『アンニョン、フランチェスカ』の吸血鬼が、今度は高校の教室へ向かいます。\n\nwavve（ウェーブ）オリジナル『ヨプチャリ、フランチェスカ（옆자리, 프란체스카）』の第1弾ティザーは、執事が「フランチェスカお嬢様、学校へ行ってください！」と慌てて呼ぶ場面から始まります。転校生ピ・ナヨンになりすました吸血鬼（ハン・スア）を、担任が学級委員長チャン・ウジュ（キム・ヒョンジン）に任せたところから物語が動き出します。\n\n原作のシム・ヘジン、パク・スルギ、パク・ヒジンも当時の役のまま特別出演します。\n\n配信：11月6日（金）wavve・全4話、毎週金曜日に2話ずつ\n映像：wavve 公式YouTube 第1弾ティザー\n#SENE #韓国ドラマ #アンニョンフランチェスカ #シムヘジン #wavve",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793134925/sene_studio/cj15dw8w7lwoxwswtja2.mp4",
-       "at": "2026-10-28T06:02+09:00",
-       "file": "XueXiaoheXingttekuda_furanchiesuka116_KeolCheo_no_lyrics.mp4",
-       "sig": "5121865856",
-       "v": "f81133ed"
-      }
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=aDzxub0vNxQ\n구간: 0:00-0:30\n곡: 11月6日配信\n아티스트: 学校のお時間です\n피처링:\n후킹: *フランチェスカ*様、\n출처: wavve\n자막: 자동",
+      "caption": "2005年のシットコム『こんにちは、フランチェスカ（안녕, 프란체스카）』の吸血鬼が、今度は高校の教室へ向かいます。\n\nwavveオリジナル『となりの席のフランチェスカ（옆자리, 프란체스카）』の第1弾ティザーは、執事が「フランチェスカお嬢様、学校へ行ってください！」と慌てて呼ぶ場面から始まります。転校生ピ・ナヨンになりすました吸血鬼（ハン・スア）を、担任が学級委員長チャン・ウジュ（キム・ヒョンジン）に任せるところから物語が動き出します。\n\n原作のシム・ヘジン、パク・スルギ、パク・ヒジンも当時と同じ役で特別出演します。\n\n配信：11月6日（金）wavve・全4話、毎週金曜日に2話ずつ\n映像：wavve公式YouTube 第1弾ティザー\n#SENE #韓国ドラマ #wavve #こんにちはフランチェスカ #シムヘジン"
      }
     }
    }
@@ -4730,7 +4715,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:30+09:00"
+  "at": "2026-10-28T06:32+09:00"
  },
  "slots": {
   "basis": 0,
