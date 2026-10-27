@@ -639,7 +639,14 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *La La Land* returns\n아티스트: You are.\n피처링:\n후킹: Am I enough?\n출처: Pancinema\n자막: 자동",
-      "caption": "'La La Land' returns to theaters on Nov 11 to mark the 10th anniversary of its release.\n\nThis scene comes from the 10th anniversary trailer released by Pancinema (@pancinema). In it, \"Maybe I'm not good enough\" is met with \"Yes, you are.\" It is the story of two people torn between dreams and love — aspiring actress Mia and jazz pianist Sebastian.\n\nThe film, seen by 3.8 million viewers in Korea in 2016, has returned now and then for special screenings. This time, it is an official re-release.\n\nRelease: Wed, Nov 11, in theaters nationwide in Korea\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\nVideo: Pancinema 'La La Land' 10th anniversary trailer\n#SENE #LaLaLand #LaLaLand10th #Rerelease #RyanGosling"
+      "caption": "'La La Land' returns to theaters on Nov 11 to mark the 10th anniversary of its release.\n\nThis scene comes from the 10th anniversary trailer released by Pancinema (@pancinema). In it, \"Maybe I'm not good enough\" is met with \"Yes, you are.\" It is the story of two people torn between dreams and love — aspiring actress Mia and jazz pianist Sebastian.\n\nThe film, seen by 3.8 million viewers in Korea in 2016, has returned now and then for special screenings. This time, it is an official re-release.\n\nRelease: Wed, Nov 11, in theaters nationwide in Korea\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\nVideo: Pancinema 'La La Land' 10th anniversary trailer\n#SENE #LaLaLand #LaLaLand10th #Rerelease #RyanGosling",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793132550/sene_studio/khv7gcti1zwnrexgk4x9.mp4",
+       "at": "2026-10-28T05:22+09:00",
+       "file": "You_are_La_La_Land_returns_KeolCheo_no_lyrics.mp4",
+       "sig": "7c01bc567b",
+       "v": "920adeac"
+      }
      }
     },
     "ja": {
@@ -660,7 +667,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *ラ・ラ・ランド*再び\n아티스트: いや、十分さ\n피처링:\n후킹: 私じゃ足りないかも\n출처: パンシネマ\n자막: 자동",
-      "caption": "『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\nパンシネマ（판씨네마・@pancinema）が公開した10周年予告編のワンシーンですが、「Maybe I'm not good enough」という言葉に「Yes, you are」という答えが返ってきます。夢と恋のあいだで揺れる二人、女優志望のミアとジャズピアニストのセバスチャンの物語です。\n\n2016年に韓国国内で380万人が観たこの映画は、これまで特別上映でときおり戻ってきていましたが、今回は正式な再公開です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n映像：パンシネマ『ラ・ラ・ランド』10周年予告編\n#SENE #ララランド #lalaland #再上映 #韓国映画館"
+      "caption": "『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\nパンシネマ（판씨네마・@pancinema）が公開した10周年予告編のワンシーンですが、「Maybe I'm not good enough」という言葉に「Yes, you are」という答えが返ってきます。夢と恋のあいだで揺れる二人、女優志望のミアとジャズピアニストのセバスチャンの物語です。\n\n2016年に韓国国内で380万人が観たこの映画は、これまで特別上映でときおり戻ってきていましたが、今回は正式な再公開です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n映像：パンシネマ『ラ・ラ・ランド』10周年予告編\n#SENE #ララランド #lalaland #再上映 #韓国映画館",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-28T05:20+09:00",
+       "sig": "278b13787f",
+       "job": 75
+      }
      }
     }
    }
@@ -4700,7 +4713,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T05:20+09:00"
+  "at": "2026-10-28T05:22+09:00"
  },
  "slots": {
   "basis": 0,
