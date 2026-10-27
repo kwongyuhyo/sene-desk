@@ -2604,8 +2604,8 @@
       "A": "007983ac",
       "B": "6e48b2e2",
       "C": "da4d1388",
-      "E": "476ce20a",
-      "J": "46af449b"
+      "E": "c52fa6cb",
+      "J": "3b043a1b"
      }
     }
    },
@@ -2696,63 +2696,69 @@
    "i18n_queued": "2026-10-27T14:04+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-27T14:13+09:00",
+    "at": "2026-10-27T14:14+09:00",
     "confirm": [
-     "영어 'Shu Bao' 표기는 Korea Times·Korea Herald 기준이고, 'Shubao' 로 붙여 쓴 매체도 있습니다 — 에버랜드 영문 공식 표기를 한 번 더 확인해 주세요",
-     "일본어 'シュバオ' 는 공식 일본어 표기를 찾지 못해 カタカナ로 옮겼습니다. 러바오는 일본 팬 사이에서 'ロバオ'·'ローバオ'·'ルバオ' 가 섞여 쓰이니 확인이 필요합니다",
-     "〈판다와쏭〉의 영어 'Panda wa Song'·일본어 'パンダワソン' 과 송바오 사육사의 'Song Bao'·'ソンバオ飼育員' 은 공식 외국어 표기를 확인하지 못했습니다",
-     "숏폼 일본어판의 사육사 말은 원문의 간접 화법을 「」 직접 인용으로 옮겼습니다 — 영상 속 실제 말과 맞는지 확인해 주세요 (아니면 간접 화법으로 되돌리기)",
-     "영어 · 숏폼 캡션 · 유튜브 〈판다와쏭〉 영어 표기 'Panda wa Song'과 해시태그 #PandaWaSong이 공식 표기인지 확인 못 함",
-     "영어·일본어 · 슈바오 표기 'Shu Bao'·'シュバオ'가 에버랜드 공식 표기인지 확인 못 함"
+     "슈바오 영어 표기 'Shu Bao' 는 코리아헤럴드·코리아타임스 기준 (일부 매체는 'Shubao'). 에버랜드 공식 영문 표기 확인 권장",
+     "슈바오 일본어 공식 표기를 찾지 못해 'シューバオ（슈바오）' 로 씀 — 일본 매체 표기 나오면 맞출 것",
+     "부모·언니 일본어 표기(ローバオ·アイバオ·ルイバオ·フイバオ·フーバオ)는 일본 매체 표기를 따름",
+     "〈판다와쏭〉 공식 영어·일본어 제목 확인 못 함 — 영어 'Pandawassong', 일본어 'パンダワッソン' 은 음역",
+     "송바오(송영관 사육사) 영어·일본어 표기 'Song Bao'·'ソンバオ' 는 음역",
+     "일본어 · 슈바오 표기 — 일본 매체 표기가 「シューバオ」인지 「シュバオ」인지 확인하지 못함 (영어 Shu Bao 는 Korea Herald·Korea Times 표기와 같음: https://koreatimes.co.kr/southkorea/20260911/fu-baos-youngest-sibling-named-shu-bao-grows-from-171g-to-55kg , https://koreaherald.com/article/10870883)",
+     "영어 · 'Pandawassong' — 〈판다와쏭〉 공식 영어 표기가 있는지 확인하지 못함"
     ],
     "review": {
-     "at": "2026-10-27T14:13+09:00",
-     "fixes": [],
+     "at": "2026-10-27T14:14+09:00",
+     "fixes": [
+      "영어 · 캡션·숏폼 캡션 첫 문장 · Everland's (@witheverland) youngest panda, Shu Bao, meets visitors … from Oct 30 → Shu Bao, the youngest panda at Everland (@witheverland), begins meeting visitors … on Oct 30 — 소유격 뒤에 핸들이 끼어 어색하고, 현재형+from 이 직역투",
+      "영어 · 캡션 둘째 단락 · watching her health and adjustment → monitoring her health and how she settles in — 직역투 연어",
+      "영어 · 캡션 셋째 단락 · The time with all five together is short → The window to see all five together is short — 직역투",
+      "일본어 · 캡션 둘째 단락 · 健康と環境への慣れ → 健康状態や環境への適応 — 어색한 연어"
+     ],
      "doubt": [
-      "영어 · 숏폼 캡션 · 유튜브 〈판다와쏭〉 영어 표기 'Panda wa Song'과 해시태그 #PandaWaSong이 공식 표기인지 확인 못 함",
-      "영어·일본어 · 슈바오 표기 'Shu Bao'·'シュバオ'가 에버랜드 공식 표기인지 확인 못 함"
+      "일본어 · 슈바오 표기 — 일본 매체 표기가 「シューバオ」인지 「シュバオ」인지 확인하지 못함 (영어 Shu Bao 는 Korea Herald·Korea Times 표기와 같음: https://koreatimes.co.kr/southkorea/20260911/fu-baos-youngest-sibling-named-shu-bao-grows-from-171g-to-55kg , https://koreaherald.com/article/10870883)",
+      "영어 · 'Pandawassong' — 〈판다와쏭〉 공식 영어 표기가 있는지 확인하지 못함"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nShu Bao, the youngest panda at Everland (@witheverland), meets visitors at Panda World starting Oct 30.\n\nThe female cub was born on June 3 to Ai Bao and Le Bao. She is the fourth giant panda born in Korea, after Fu Bao and the twins Rui Bao and Hui Bao. Everland says it will watch her health and adjustment and gradually extend viewing hours and visitor numbers.\n\nThe family of five will not be together for long. The twin sisters start quarantine on Nov 13 ahead of their move to China, and their last day on view at Everland is set for Dec 11. Until then, Le Bao, Ai Bao and their three daughters can be seen in one place.\n\nShu Bao on view: From Fri, Oct 30\nAll five pandas: Until Fri, Dec 11\nLocation: Panda World, Everland, Yongin, Gyeonggi-do\nViewing: Hours and visitor numbers expand in stages (check Everland's official notices)\n\n#SENE #ShuBao #Everland #PandaWorld #BaoFamily\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077474/etcqy6f1der2e4lxfigt.jpg\n제목: Everland's Youngest Panda|Shu Bao Debuts Oct 30\n부제: All five pandas on view until Dec 11\n출처: Everland\n",
-      "caption": "Shu Bao, the youngest panda at Everland (@witheverland), meets visitors at Panda World starting Oct 30.\n\nThe female cub was born on June 3 to Ai Bao and Le Bao. She is the fourth giant panda born in Korea, after Fu Bao and the twins Rui Bao and Hui Bao. Everland says it will watch her health and adjustment and gradually extend viewing hours and visitor numbers.\n\nThe family of five will not be together for long. The twin sisters start quarantine on Nov 13 ahead of their move to China, and their last day on view at Everland is set for Dec 11. Until then, Le Bao, Ai Bao and their three daughters can be seen in one place.\n\nShu Bao on view: From Fri, Oct 30\nAll five pandas: Until Fri, Dec 11\nLocation: Panda World, Everland, Yongin, Gyeonggi-do\nViewing: Hours and visitor numbers expand in stages (check Everland's official notices)\n\n#SENE #ShuBao #Everland #PandaWorld #BaoFamily",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nShu Bao, the youngest panda at Everland (@witheverland), begins meeting visitors at Panda World on Oct 30.\n\nShe is a female cub born on June 3 to Ai Bao and Le Bao, and the fourth baby panda born in Korea, after Fu Bao and twins Rui Bao and Hui Bao. Everland says it will gradually extend her viewing hours and visitor numbers while monitoring her health and how she settles in.\n\nThe window to see all five together is short. Her twin older sisters begin quarantine on Nov 13 ahead of their move to China, and their last public day at Everland is set for Dec 11. Until then, Le Bao, Ai Bao and their three daughters can be seen in one place.\n\nShu Bao debut: from Oct 30 (Fri)\nFive-panda family: through Dec 11 (Fri)\nLocation: Panda World, Everland, Yongin, Gyeonggi-do\nViewing: Hours and visitor numbers expand in stages (check Everland's official notices)\n\n#SENE #ShuBao #Everland #PandaWorld #BaoFamily\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077474/etcqy6f1der2e4lxfigt.jpg\n제목: Everland's Youngest Panda|Shu Bao Debuts Oct 30\n부제: Five-panda family together through Dec 11\n출처: Everland\n",
+      "caption": "Shu Bao, the youngest panda at Everland (@witheverland), begins meeting visitors at Panda World on Oct 30.\n\nShe is a female cub born on June 3 to Ai Bao and Le Bao, and the fourth baby panda born in Korea, after Fu Bao and twins Rui Bao and Hui Bao. Everland says it will gradually extend her viewing hours and visitor numbers while monitoring her health and how she settles in.\n\nThe window to see all five together is short. Her twin older sisters begin quarantine on Nov 13 ahead of their move to China, and their last public day at Everland is set for Dec 11. Until then, Le Bao, Ai Bao and their three daughters can be seen in one place.\n\nShu Bao debut: from Oct 30 (Fri)\nFive-panda family: through Dec 11 (Fri)\nLocation: Panda World, Everland, Yongin, Gyeonggi-do\nViewing: Hours and visitor numbers expand in stages (check Everland's official notices)\n\n#SENE #ShuBao #Everland #PandaWorld #BaoFamily",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078007/plinxbzojwm1o1cqt04w.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078006/opojdm0gitxcu7sxixfh.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078102/dzi1crcdoqpqqiov6am5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078102/udfkmidc7jou7xxwfykw.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078007/plinxbzojwm1o1cqt04w.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078102/dzi1crcdoqpqqiov6am5.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T14:13+09:00"
+       "at": "2026-10-27T14:15+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=qHSufbvpk1c\n구간: 11:50-12:26\n곡: On view from Oct 30\n아티스트: Off to the enclosure\n피처링:\n후킹: Sleepy-eyed *Shu Bao*\n출처: EVERLAND\n자막: 자동",
-      "caption": "Shu Bao, the youngest panda at Everland (@witheverland), meets visitors at Panda World starting Oct 30.\n\nThe clip comes from episode 273 of Everland's YouTube series 'Panda wa Song.' Keeper Song Bao tells a drowsy Shu Bao that she needs to start walking now if she wants to follow her mother out into the enclosure. Born on June 3, Shu Bao is the fourth giant panda born in Korea, after Fu Bao and the twins Rui Bao and Hui Bao.\n\nThe twin sisters are set to move to China, so the family of five can be seen together only until Dec 11. Everland says it will gradually extend viewing hours and visitor numbers.\n\nShu Bao on view: From Fri, Oct 30\nAll five pandas: Until Fri, Dec 11\nLocation: Panda World, Everland, Yongin, Gyeonggi-do\n\n#SENE #ShuBao #Everland #PandaWaSong #BaoFamily"
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=qHSufbvpk1c\n구간: 11:50-12:26\n곡: Debuts Oct 30\n아티스트: Now out to the yard\n피처링:\n후킹: Sleepy-eyed *Shu Bao*\n출처: EVERLAND\n자막: 자동",
+      "caption": "Shu Bao, the youngest panda at Everland (@witheverland), begins meeting visitors at Panda World on Oct 30.\n\nThe clip is from episode 273 of Everland's YouTube series 'Pandawassong'. Keeper Song Bao tells a drowsy Shu Bao that she now has to walk if she wants to follow her mother out to the yard. Born on June 3, Shu Bao is the fourth baby panda born in Korea, after Fu Bao and twins Rui Bao and Hui Bao.\n\nWith her twin older sisters preparing to move to China, the five-panda family can be seen together only through Dec 11. Everland says it will expand viewing hours and visitor numbers in stages.\n\nShu Bao debut: from Oct 30 (Fri)\nFive-panda family: through Dec 11 (Fri)\nLocation: Panda World, Everland, Yongin, Gyeonggi-do\n\n#SENE #ShuBao #Everland #Pandawassong #BaoFamily"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n놀거리\n\n[캡션]\nエバーランド（@witheverland）の末っ子パンダ、シュバオ（슈바오）が10月30日からパンダワールドで一般公開されます。\n\n6月3日にアイバオとロバオの間に生まれたメスのパンダで、フーバオ、双子のルイバオ・フイバオに続き、韓国で生まれた4頭目の赤ちゃんパンダです。エバーランドは、シュバオの健康と環境への慣れを見ながら、公開時間と観覧人数を段階的に増やしていく予定だとしています。\n\n5頭がそろう時間は長くありません。双子の姉たちは中国への移動を控えて11月13日から検疫に入り、エバーランドでの最終公開日は12月11日に予定されています。それまではロバオ・アイバオと3頭の娘を一か所で見ることができます。\n\nシュバオ公開：10月30日（金）から\nパンダ一家5頭：12月11日（金）まで\n場所：京畿道・龍仁（ヨンイン）エバーランド パンダワールド\n観覧：公開時間・人数は段階的に拡大（エバーランド公式案内を確認）\n\n#SENE #シュバオ #エバーランド #韓国パンダ #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077474/etcqy6f1der2e4lxfigt.jpg\n제목: エバーランド末っ子パンダ|シュバオ、30日に公開\n부제: パンダ一家5頭は12月11日まで\n출처: エバーランド\n",
-      "caption": "エバーランド（@witheverland）の末っ子パンダ、シュバオ（슈바오）が10月30日からパンダワールドで一般公開されます。\n\n6月3日にアイバオとロバオの間に生まれたメスのパンダで、フーバオ、双子のルイバオ・フイバオに続き、韓国で生まれた4頭目の赤ちゃんパンダです。エバーランドは、シュバオの健康と環境への慣れを見ながら、公開時間と観覧人数を段階的に増やしていく予定だとしています。\n\n5頭がそろう時間は長くありません。双子の姉たちは中国への移動を控えて11月13日から検疫に入り、エバーランドでの最終公開日は12月11日に予定されています。それまではロバオ・アイバオと3頭の娘を一か所で見ることができます。\n\nシュバオ公開：10月30日（金）から\nパンダ一家5頭：12月11日（金）まで\n場所：京畿道・龍仁（ヨンイン）エバーランド パンダワールド\n観覧：公開時間・人数は段階的に拡大（エバーランド公式案内を確認）\n\n#SENE #シュバオ #エバーランド #韓国パンダ #韓国旅行",
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nエバーランド（@witheverland）の末っ子パンダ、シューバオ（슈바오）が10月30日からパンダワールドで一般公開されます。\n\n6月3日にアイバオとローバオの間に生まれたメスのパンダで、フーバオ、双子のルイバオ・フイバオに続き、韓国で生まれた4頭目の赤ちゃんパンダです。エバーランドは、シューバオの健康状態や環境への適応を見ながら、公開時間と観覧人数を段階的に増やしていく予定だとしています。\n\n5頭がそろう時間は長くありません。双子の姉たちは中国への移動を控えて11月13日から検疫に入り、エバーランドでの最後の公開日は12月11日に決まっているためです。それまでは、ローバオ・アイバオと3頭の娘たちを一か所で見ることができます。\n\nシューバオ公開：10月30日（金）から\nパンダ家族5頭：12月11日（金）まで\n場所：京畿道・龍仁（ヨンイン）エバーランド パンダワールド\n観覧：公開時間・人数は段階的に拡大（エバーランド公式案内をご確認ください）\n\n#SENE #シューバオ #エバーランド #パンダワールド #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077474/etcqy6f1der2e4lxfigt.jpg\n제목: エバーランド末っ子パンダ|シューバオ、30日公開\n부제: パンダ家族5頭は12月11日まで\n출처: エバーランド\n",
+      "caption": "エバーランド（@witheverland）の末っ子パンダ、シューバオ（슈바오）が10月30日からパンダワールドで一般公開されます。\n\n6月3日にアイバオとローバオの間に生まれたメスのパンダで、フーバオ、双子のルイバオ・フイバオに続き、韓国で生まれた4頭目の赤ちゃんパンダです。エバーランドは、シューバオの健康状態や環境への適応を見ながら、公開時間と観覧人数を段階的に増やしていく予定だとしています。\n\n5頭がそろう時間は長くありません。双子の姉たちは中国への移動を控えて11月13日から検疫に入り、エバーランドでの最後の公開日は12月11日に決まっているためです。それまでは、ローバオ・アイバオと3頭の娘たちを一か所で見ることができます。\n\nシューバオ公開：10月30日（金）から\nパンダ家族5頭：12月11日（金）まで\n場所：京畿道・龍仁（ヨンイン）エバーランド パンダワールド\n観覧：公開時間・人数は段階的に拡大（エバーランド公式案内をご確認ください）\n\n#SENE #シューバオ #エバーランド #パンダワールド #韓国旅行",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078010/tmzyppkhezlhcttdvknj.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078009/vl2q3eg1pzaaxnu8nvbu.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078105/d4x7zf7lifeeilu2n3y3.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078105/jpwadctdmficomz3oigp.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078010/tmzyppkhezlhcttdvknj.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793078105/d4x7zf7lifeeilu2n3y3.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T14:13+09:00"
+       "at": "2026-10-27T14:15+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=qHSufbvpk1c\n구간: 11:50-12:26\n곡: 10月30日に初公開\n아티스트: いよいよ放飼場へ\n피처링:\n후킹: 眠たげな目の*シュバオ*\n출처: EVERLAND\n자막: 자동",
-      "caption": "エバーランド（@witheverland）の末っ子パンダ、シュバオ（슈바오）が10月30日からパンダワールドで一般公開されます。\n\n映像はエバーランドのYouTube『パンダワソン（판다와쏭）』第273話のワンシーンです。眠気に勝てないシュバオに、ソンバオ飼育員が「お母さんについて放飼場に出るなら、もう歩かないとね」と声をかけます。6月3日に生まれたシュバオは、フーバオ、双子のルイバオ・フイバオに続き、韓国で生まれた4頭目の赤ちゃんパンダです。\n\n双子の姉たちは中国への移動を控えており、パンダ一家5頭がそろって見られるのは12月11日までです。エバーランドは公開時間と観覧人数を段階的に増やしていく予定だとしています。\n\nシュバオ公開：10月30日（金）から\nパンダ一家5頭：12月11日（金）まで\n場所：京畿道・龍仁（ヨンイン）エバーランド パンダワールド\n\n#SENE #シュバオ #エバーランド #パンダワソン #韓国旅行"
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=qHSufbvpk1c\n구간: 11:50-12:26\n곡: 10月30日初公開\n아티스트: いよいよ放飼場へ\n피처링:\n후킹: 眠たげな*シューバオ*\n출처: EVERLAND\n자막: 자동",
+      "caption": "エバーランド（@witheverland）の末っ子パンダ、シューバオ（슈바오）が10月30日からパンダワールドで一般公開されます。\n\n映像はエバーランドのYouTube『パンダワッソン（판다와쏭）』第273話のワンシーンです。ソンバオ飼育員が、眠気に勝てないシューバオに、お母さんについて放飼場に出るなら、これからは歩かなきゃねと語りかけます。6月3日に生まれたシューバオは、フーバオ、双子のルイバオ・フイバオに続き、韓国で生まれた4頭目の赤ちゃんパンダです。\n\n双子の姉たちは中国への移動を控えており、パンダ家族5頭がそろって見られるのは12月11日までです。エバーランドは公開時間と観覧人数を段階的に増やす予定だとしています。\n\nシューバオ公開：10月30日（金）から\nパンダ家族5頭：12月11日（金）まで\n場所：京畿道・龍仁（ヨンイン）エバーランド パンダワールド\n\n#SENE #シューバオ #エバーランド #パンダワッソン #韓国旅行"
      }
     }
    }
@@ -2886,7 +2892,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T14:13+09:00"
+  "at": "2026-10-27T14:15+09:00"
  },
  "slots": {
   "basis": 0,
