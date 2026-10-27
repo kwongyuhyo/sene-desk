@@ -1281,6 +1281,13 @@
        "cvr": 2,
        "at": "2026-10-27T11:46+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_CpzUGX9S/",
+      "cover": "E",
+      "at": "2026-10-27T13:52+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -1298,6 +1305,13 @@
        "cvr": 2,
        "at": "2026-10-27T11:46+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_CsckmfJI/",
+      "cover": "J",
+      "at": "2026-10-27T13:52+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -2112,11 +2126,75 @@
      "cvr": 2,
      "at": "2026-10-27T11:49+09:00",
      "v": {
-      "A": "ea601a65"
+      "A": "ea601a65",
+      "E": "a7359cab",
+      "J": "e086d2f6"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-27T13:53+09:00",
+    "confirm": [
+     "Brand names are written as SIE, ESSAIS and STAGE 35 based on search results, but I couldn't check how they write themselves in Latin letters (capitalization) or whether they have official Japanese names. The Japanese readings シエ and エセイズ are guesses.",
+     "I couldn't confirm the Latin spelling of 스튜디오에세이. 'Studio Essai' is a romanization guess. Please check it against the official account or company records.",
+     "The Korean caption says the shoe brand was launched by 'CEO Kim Tae-hee, who has run SIE.' The search only said 'the company that runs SIE', so I didn't confirm the person's name or the English and Japanese spelling of it.",
+     "I didn't separately check the official English and Japanese address formats for 35 Yeonmujang-gil.",
+     "'스튜디오에세이'의 공식 영문 표기(Studio Essai)와 일본어 カタカナ(スタジオエセ)는 검색으로 확인하지 못함 — 브랜드 공식 계정에서 표기 확인 필요",
+     "ESSAIS 의 일본어 읽기 「エセイズ」는 한국어 발음을 옮긴 것 — 브랜드 쪽 일본어 표기가 따로 있는지 확인 필요",
+     "대표 이름 Kim Tae-hee(キム・テヒ)는 같은 이름의 배우가 있어 해외 독자가 헷갈릴 수 있음 — 그대로 둘지 사람이 판단"
+    ],
+    "review": {
+     "at": "2026-10-27T13:53+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · Pop-Up Opens in Seongsu → Seongsu Pop-Up Opens Today — 원문 제목의 '오늘'이 빠져 있었음",
+      "일본어 · 표지 제목 · 聖水でポップアップ → 本日聖水でポップアップ — 원문 제목의 '오늘'이 빠져 있었음",
+      "영어 · 캡션 둘째 단락 · 'the shoe brand that Kim Tae-hee, who has led SIE, launched through…' → 'a shoe brand launched by SIE's CEO Kim Tae-hee through…' — 관계절이 겹친 직역투",
+      "영어 · 캡션 셋째 단락 · 'debut at this pop-up first' → 'debut first at this pop-up' — 어순 어색",
+      "일본어 · 캡션 첫 단락 · 女性服ブランド → レディースブランド, 一緒にポップアップを開きます → ともにポップアップを開催します — 일본어 연어로 자연스럽게",
+      "일본어 · 캡션 둘째 단락 · 名前は…から取られました → …に由来します — 직역투 수동"
+     ],
+     "doubt": [
+      "'스튜디오에세이'의 공식 영문 표기(Studio Essai)와 일본어 カタカナ(スタジオエセ)는 검색으로 확인하지 못함 — 브랜드 공식 계정에서 표기 확인 필요",
+      "ESSAIS 의 일본어 읽기 「エセイズ」는 한국어 발음을 옮긴 것 — 브랜드 쪽 일본어 표기가 따로 있는지 확인 필요",
+      "대표 이름 Kim Tae-hee(キム・テヒ)는 같은 이름의 배우가 있어 해외 독자가 헷갈릴 수 있음 — 그대로 둘지 사람이 판단"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nWomenswear label SIE (@sie___official) opens a pop-up today at STAGE 35 in Seongsu-dong, Seoul, together with shoe brand ESSAIS.\n\nESSAIS is a shoe brand launched by SIE's CEO Kim Tae-hee through Studio Essai, and its name comes from Montaigne's 'Essays' (Les Essais). This time, the two brands show their outerwear and shoes side by side in one space.\n\nNew pieces debut first at this pop-up. Add the brand's KakaoTalk channel and take a photo at the in-store photo booth; if you get a 'Lucky Frame', you can pick one item from the products in the pop-up.\n\nDates: Oct 27 (Tue) – Nov 10 (Tue)\nHours: 12:00–20:00\nLocation: STAGE 35, 35 Yeonmujang-gil, Seongdong-gu (Seongsu-dong), Seoul\n#SENE #SIE #ESSAIS #SeoulPopup #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069330/gshyivvm7zergsmua81i.jpg\n제목: SIE × ESSAIS|Seongsu Pop-Up Opens Today\n부제: STAGE 35 · Outerwear & Shoes · Through Nov 10\n출처: @sie___official\n",
+      "caption": "Womenswear label SIE (@sie___official) opens a pop-up today at STAGE 35 in Seongsu-dong, Seoul, together with shoe brand ESSAIS.\n\nESSAIS is a shoe brand launched by SIE's CEO Kim Tae-hee through Studio Essai, and its name comes from Montaigne's 'Essays' (Les Essais). This time, the two brands show their outerwear and shoes side by side in one space.\n\nNew pieces debut first at this pop-up. Add the brand's KakaoTalk channel and take a photo at the in-store photo booth; if you get a 'Lucky Frame', you can pick one item from the products in the pop-up.\n\nDates: Oct 27 (Tue) – Nov 10 (Tue)\nHours: 12:00–20:00\nLocation: STAGE 35, 35 Yeonmujang-gil, Seongdong-gu (Seongsu-dong), Seoul\n#SENE #SIE #ESSAIS #SeoulPopup #Seongsu",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076787/c26jy8ho99yuq7ahgt1k.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076787/rwfhrtuf3rqux1bmmurn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076787/c26jy8ho99yuq7ahgt1k.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:53+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nレディースブランドのSIE（シエ・@sie___official）が、本日からソウル・聖水洞（ソンスドン）のSTAGE 35で、靴ブランドESSAIS（エセイズ）とともにポップアップを開催します。\n\nESSAISは、SIEを手がけてきたキム・テヒ代表がスタジオエセ（Studio Essai）から送り出した靴ブランドで、名前はモンテーニュの『エセー（随想録）』（Les Essais）に由来します。今回は二つのブランドが一つの空間で、アウターとシューズを並べて見せます。\n\n新作はこのポップアップで最初に公開されます。カカオトークのチャンネルを追加し、店内のフォトブースで撮影して「ラッキーフレーム」が出ると、ポップアップに並ぶ商品の中から一つを選べます。\n\n期間：10月27日（火）〜11月10日（火）\n営業時間：12:00〜20:00\n場所：ソウル市城東区（ソンドング）練武場キル（ヨンムジャンギル）35 STAGE 35\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #SIE\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069330/gshyivvm7zergsmua81i.jpg\n제목: SIE×ESSAIS、|本日聖水でポップアップ\n부제: STAGE 35・アウター＆シューズ・11月10日まで\n출처: @sie___official\n",
+      "caption": "レディースブランドのSIE（シエ・@sie___official）が、本日からソウル・聖水洞（ソンスドン）のSTAGE 35で、靴ブランドESSAIS（エセイズ）とともにポップアップを開催します。\n\nESSAISは、SIEを手がけてきたキム・テヒ代表がスタジオエセ（Studio Essai）から送り出した靴ブランドで、名前はモンテーニュの『エセー（随想録）』（Les Essais）に由来します。今回は二つのブランドが一つの空間で、アウターとシューズを並べて見せます。\n\n新作はこのポップアップで最初に公開されます。カカオトークのチャンネルを追加し、店内のフォトブースで撮影して「ラッキーフレーム」が出ると、ポップアップに並ぶ商品の中から一つを選べます。\n\n期間：10月27日（火）〜11月10日（火）\n営業時間：12:00〜20:00\n場所：ソウル市城東区（ソンドング）練武場キル（ヨンムジャンギル）35 STAGE 35\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #SIE",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076790/ehghfsp1bpiidafnaqne.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076789/ecl0usvtqegmvwfnspoa.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076790/ehghfsp1bpiidafnaqne.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:53+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -2247,7 +2325,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T13:51+09:00"
+  "at": "2026-10-27T13:53+09:00"
  },
  "slots": {
   "basis": 0,
