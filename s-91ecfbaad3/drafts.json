@@ -1174,7 +1174,7 @@
    "pick": {
     "rank": 3,
     "why": "포터 90주년 전시가 이번 주 금요일 잠실에서 시작 — 주말 갈 곳으로 이어진다",
-    "at": "2026-10-27T17:48+09:00"
+    "at": "2026-10-27T21:50+09:00"
    }
   },
   {
@@ -3444,11 +3444,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "오늘 시작해 지금 매장에서 살 수 있는 캐릭터 굿즈 협업 — 1차 때 줄이 섰던 만큼 퇴근길에 가장 먼저 알 만한 소식",
-    "at": "2026-10-27T17:48+09:00"
-   },
    "i18n_queued": "2026-10-27T17:48+09:00",
    "corner_name": "소식",
    "i18n": {
@@ -3815,11 +3810,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 2,
-    "why": "오늘 나온 메인 예고편 숏폼 — 오늘 숏폼 중 아직 안 올라간 것 가운데 가장 넓게 이야기되는 작품",
-    "at": "2026-10-27T17:48+09:00"
-   },
    "i18n_queued": "2026-10-27T17:48+09:00",
    "corner_name": "그 말",
    "i18n": {
@@ -3864,7 +3854,357 @@
       "caption": "Netflix『デビルズ・プラン：デッド・アゲイン』が本日、メイン予告編を公開しました。\n\n今シーズンはルールから変わりました。ピースをすべて失ってもすぐには脱落せず、生き残りはゲームの結果だけで決まります。映像の中でソ・チュルグ（서출구）は「ロマンのあるカモ、募集します」と話し、最後まで一緒に進む仲間を探します。\n\nチャン・ドンミン、ホン・ジンホ、ハ・ソクジン、チョン・ヒョンギュ、ジョン・パク、ジェジェ、ステラ・ジャンら16人が出演し、チョン・ジョンヨン、チェ・ユニの両PDが演出を手がけました。\n\n配信：11月10日（火）Netflix・全14話、3週に分けて配信\n映像：TEO 테오 公式YouTube\n#SENE #デビルズプラン #デッドアゲイン #Netflix #韓国バラエティ"
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 나온 메인 예고편 숏폼 — 아직 안 올라간 숏폼 가운데 가장 넓게 이야기되는 작품",
+    "at": "2026-10-27T21:50+09:00"
    }
+  },
+  {
+   "source": {
+    "id": "claude:chipotle-shinsegae-gangnam",
+    "account": "@기사",
+    "url": "https://www.ngetnews.com/news/articleView.html?idxno=555178",
+    "image": null,
+    "head": "치폴레, 신세계 강남에 2호점 오픈…연내 3호점도 연다",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T21:50+09:00",
+   "key": "8764d914",
+   "by": "claude",
+   "subjects": [
+    "치폴레"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "치폴레 2호점 내일(10/28) 신세계 강남 스위트파크에 — 거리 매장 대신 백화점 지하 98석, 태블릿 대기 등록",
+    "why": "내일 아침 여는 매장. 개점일·지하 1층 스위트파크·98석·메뉴 동일·선착순 150명 키링·11/3까지 스티커는 뉴스웍스·데일리한국·넥스트데일리·인더뉴스 등이 맞고, 태블릿 대기 등록은 뉴스웍스(ngetnews)·검색 요약 기사가 맞는다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T21:50+09:00",
+   "corner": "followup",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n치폴레가 내일 신세계백화점 강남점에 국내 두 번째 매장을 엽니다.\n\n지난 9월 2일 강남대로에 첫 매장을 낸 지 두 달 만인데요, 이번엔 거리 매장이 아니라 백화점 지하 1층 디저트 전문관 '스위트파크' 안에 98석 규모로 자리를 잡았습니다. 메뉴는 1호점과 같습니다.\n\n매장 태블릿에 대기를 등록해 두면 줄에 서 있지 않아도 입장 10분 전에 알림이 옵니다. 개점 당일 선착순 150명에게는 키링을, 11월 3일까지 구매한 손님에게는 스티커를 줍니다.\n\n오픈: 10월 28일(수)\n장소: 서울 서초구 신반포로 176 신세계백화점 강남점 지하 1층 스위트파크\n혜택: 당일 선착순 150명 키링 · 11월 3일까지 구매 시 스티커\n#SENE #치폴레 #신세계강남 #스위트파크 #고속터미널\n\n[커버]\n소스: \n제목: 치폴레 2호점,|내일 신세계 강남에\n부제: 10/28 · 지하 1층 스위트파크 · 98석\n출처:\n",
+    "caption": "치폴레가 내일 신세계백화점 강남점에 국내 두 번째 매장을 엽니다.\n\n지난 9월 2일 강남대로에 첫 매장을 낸 지 두 달 만인데요, 이번엔 거리 매장이 아니라 백화점 지하 1층 디저트 전문관 '스위트파크' 안에 98석 규모로 자리를 잡았습니다. 메뉴는 1호점과 같습니다.\n\n매장 태블릿에 대기를 등록해 두면 줄에 서 있지 않아도 입장 10분 전에 알림이 옵니다. 개점 당일 선착순 150명에게는 키링을, 11월 3일까지 구매한 손님에게는 스티커를 줍니다.\n\n오픈: 10월 28일(수)\n장소: 서울 서초구 신반포로 176 신세계백화점 강남점 지하 1층 스위트파크\n혜택: 당일 선착순 150명 키링 · 11월 3일까지 구매 시 스티커\n#SENE #치폴레 #신세계강남 #스위트파크 #고속터미널",
+    "photos": [],
+    "photo_pool": [],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "치폴레 2호점,|내일 신세계 강남에",
+      "sub": "10/28 · 지하 1층 스위트파크 · 98석"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "운영 시간·가격은 기사에 없어 뺐음 — 10/26 「이번 주 오픈 예정」에 치폴레가 한 줄 들어갔으니 겹친다고 보면 빼도 됨",
+     "표지 사진 없음 — 기사 다섯 곳 사진이 모두 해상도 미달, 한국 공식 인스타 핸들도 못 찾음. 내일 매장 사진이 공식 계정에 오르면 넣기",
+     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "치폴레, 신세계 강남에 2호점 오픈…연내 3호점도 연다 - 뉴스웍스",
+      "link": "https://www.ngetnews.com/news/articleView.html?idxno=555178"
+     },
+     {
+      "title": "치폴레, 신세계백화점 강남점에 국내 2호점 개점…스위트파크에 98석 규모 - 넥스트데일리",
+      "link": "https://www.nextdaily.co.kr/news/articleView.html?idxno=254236"
+     },
+     {
+      "title": "치폴레, 신세계백화점 강남점에 국내 2호점 출점…연내 3호점까지 계획 - 데일리한국",
+      "link": "https://daily.hankooki.com/news/articleView.html?idxno=1418762"
+     },
+     {
+      "title": "치폴레, 신세계 강남 스위트파크 입성…아시아 2호점 오픈 - 인더뉴스",
+      "link": "https://www.inthenews.co.kr/news/article.html?no=93613"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105461/iqndqtgtk6zr3qkzxq3w.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105461/u73nw3hkcgwzgqfrhcns.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105461/iqndqtgtk6zr3qkzxq3w.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T21:51+09:00",
+     "v": {
+      "A": "663743a0"
+     }
+    }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "내일 아침 문을 여는 치폴레 2호점 — 출근길에 먼저 알면 바로 갈 수 있는 소식, 당일 선착순 혜택까지",
+    "at": "2026-10-27T21:50+09:00"
+   },
+   "corner_name": "후속",
+   "i18n_queued": "2026-10-27T21:51+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:hamilton-korea-cast",
+    "account": "@기사",
+    "url": "https://www.viva100.com/article/20261027501129",
+    "image": null,
+    "head": "뮤지컬 해밀턴 내한 캐스트 공개… 부산서 첫 선",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T21:50+09:00",
+   "key": "bcb534e3",
+   "by": "claude",
+   "subjects": [
+    "해밀턴"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "〈해밀턴〉 내한 캐스트 공개 — 해밀턴 제이슨 애로우·버 제이 페리, 티켓은 11월 11일 부산 2시·서울 3시",
+    "why": "오늘 제작사가 공개한 첫 내한 캐스트와 티켓 일정. 부산·서울 기간·장소·티켓 오픈 시각·선예매·캐스트는 에너지코리아·데일리안·브릿지경제가 맞는다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T21:50+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n뮤지컬 〈해밀턴〉이 한국 무대에 설 배우들을 공개했습니다.\n\n알렉산더 해밀턴은 제이슨 애로우가, 아론 버는 웨스트엔드에서 같은 역으로 블랙 브리티시 시어터 어워드 남우주연상을 받은 제이 페리가 맡는데요, 연출 토마스 케일은 이 배우들이 처음으로 한 무대에 모이는 공연이라고 설명했습니다.\n\n부산에서 먼저 막을 올리고 서울로 이어집니다. 첫 티켓 오픈에서 부산은 프리뷰를 뺀 전 회차를, 서울은 오프닝 주간 1층 VIP석만 먼저 엽니다.\n\n부산: 12월 17일 ~ 2027년 1월 16일, 드림씨어터\n서울: 2027년 1월 21일 ~ 3월 20일, 세종문화회관 대극장\n티켓: 11월 11일(수) 부산 오후 2시 · 서울 오후 3시 (11월 10일 멤버십 선예매)\n#SENE #해밀턴 #해밀턴내한 #드림씨어터 #세종문화회관\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793105449/qmzaancj22rckfj0pk8j.jpg\n제목: 해밀턴 내한 캐스트,|티켓은 11월 11일\n부제: 부산 12/17~ · 서울 1/21~ 세종문화회관\n출처: 에스앤코\n",
+    "caption": "뮤지컬 〈해밀턴〉이 한국 무대에 설 배우들을 공개했습니다.\n\n알렉산더 해밀턴은 제이슨 애로우가, 아론 버는 웨스트엔드에서 같은 역으로 블랙 브리티시 시어터 어워드 남우주연상을 받은 제이 페리가 맡는데요, 연출 토마스 케일은 이 배우들이 처음으로 한 무대에 모이는 공연이라고 설명했습니다.\n\n부산에서 먼저 막을 올리고 서울로 이어집니다. 첫 티켓 오픈에서 부산은 프리뷰를 뺀 전 회차를, 서울은 오프닝 주간 1층 VIP석만 먼저 엽니다.\n\n부산: 12월 17일 ~ 2027년 1월 16일, 드림씨어터\n서울: 2027년 1월 21일 ~ 3월 20일, 세종문화회관 대극장\n티켓: 11월 11일(수) 부산 오후 2시 · 서울 오후 3시 (11월 10일 멤버십 선예매)\n#SENE #해밀턴 #해밀턴내한 #드림씨어터 #세종문화회관",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105449/qmzaancj22rckfj0pk8j.jpg",
+      "credit": "에스앤코",
+      "from": "https://cdn.energykorea.co.kr/news/photo/202610/66727_57826_2053.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105449/qmzaancj22rckfj0pk8j.jpg",
+      "credit": "에스앤코",
+      "from": "https://cdn.energykorea.co.kr/news/photo/202610/66727_57826_2053.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "해밀턴 내한 캐스트,|티켓은 11월 11일",
+      "sub": "부산 12/17~ · 서울 1/21~ 세종문화회관"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "좌석 가격(부산 VIP 22만·R 18만·S 14만·A 10만·B 7만원)은 한국경제 기사 두 편뿐이라 뺐음 — 에스앤코 공지로 맞으면 실용 정보 줄에 추가",
+     "제이 페리 수상 경력은 브릿지경제·한국경제, 연출가 말은 브릿지경제 한 곳 — 표지는 공식 포스터라 아래쪽 포스터 문구가 제목 띠 뒤로 비침",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "[공연] 뮤지컬 해밀턴 내한 캐스트 공개… 부산서 첫 선 - 브릿지경제",
+      "link": "https://www.viva100.com/article/20261027501129"
+     },
+     {
+      "title": "제이슨 애로우·제이 페리 주연 내한…뮤지컬 '해밀턴' 월드투어 전 캐스트 공개 - 데일리안",
+      "link": "https://www.dailian.co.kr/news/view/1706754/"
+     },
+     {
+      "title": "브로드웨이 신드롬 '해밀턴' 내한…11월 11일 티켓 오픈 - 에너지코리아",
+      "link": "https://www.energykorea.co.kr/news/articleView.html?idxno=66727"
+     },
+     {
+      "title": "뮤지컬 '해밀턴' 티켓값, '심리적 저항선' 20만원 넘었다 - 한국경제",
+      "link": "https://www.hankyung.com/article/202610278208i"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105465/gbrubxk2blhq8aswxtr1.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105464/f4mzrzvzhnyl9lesldu4.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105465/gbrubxk2blhq8aswxtr1.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T21:51+09:00",
+     "v": {
+      "A": "69f8fbe1"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:francesca-next-door",
+    "account": "wavve 웨이브",
+    "url": "https://www.youtube.com/watch?v=aDzxub0vNxQ",
+    "image": null,
+    "head": "[Seatmate, Francesca] 1st Teaser | Wavve Original",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T21:50+09:00",
+   "key": "ca83fc72",
+   "by": "claude",
+   "subjects": [
+    "옆자리, 프란체스카"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "〈안녕, 프란체스카〉의 뱀파이어가 고등학교로 — 웨이브 스핀오프 11/6 공개, 원작 배역 심혜진·박슬기·박희진 특별 출연",
+    "why": "오늘 예고편이 나온 웨이브 오리지널. 11/6 공개·4부작·매주 금요일 2회·출연진·원작 특별 출연은 위키트리·뉴스컬처·일간스포츠가 맞고, 티저 첫 장면의 집사 대사는 위키트리가 적었다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T21:50+09:00",
+   "corner": "mal",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n2005년 시트콤 〈안녕, 프란체스카〉의 뱀파이어가 이번엔 고등학교 교실로 갑니다.\n\n웨이브 오리지널 〈옆자리, 프란체스카〉는 원작 세계관을 잇는 스핀오프인데요, 평범한 전학생 피나영으로 위장한 뱀파이어(한수아)와 의대를 목표로 하는 반장 장우주(김현진)의 이야기입니다.\n\n원작의 프란체스카 심혜진과 박슬기·박희진도 그때 배역 그대로 특별 출연합니다.\n\n공개: 11월 6일(금) 웨이브 · 4부작, 매주 금요일 2회씩\n#SENE #옆자리프란체스카 #안녕프란체스카 #웨이브 #심혜진\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793105453/wjz8yy9ncdhgzgmxs5ol.jpg\n제목: 뱀파이어 프란체스카,|이번엔 고등학교로\n부제: 웨이브 〈옆자리, 프란체스카〉 11/6 공개\n출처: 웨이브\n",
+    "caption": "2005년 시트콤 〈안녕, 프란체스카〉의 뱀파이어가 이번엔 고등학교 교실로 갑니다.\n\n웨이브 오리지널 〈옆자리, 프란체스카〉는 원작 세계관을 잇는 스핀오프인데요, 평범한 전학생 피나영으로 위장한 뱀파이어(한수아)와 의대를 목표로 하는 반장 장우주(김현진)의 이야기입니다.\n\n원작의 프란체스카 심혜진과 박슬기·박희진도 그때 배역 그대로 특별 출연합니다.\n\n공개: 11월 6일(금) 웨이브 · 4부작, 매주 금요일 2회씩\n#SENE #옆자리프란체스카 #안녕프란체스카 #웨이브 #심혜진",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105453/wjz8yy9ncdhgzgmxs5ol.jpg",
+      "credit": "웨이브",
+      "from": "https://cdn.nc.press/news/photo/202610/629552_866884_4339.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105455/jm8nbqehhme5efwkiwzg.jpg",
+      "credit": "웨이브",
+      "from": "https://isplus.com/data/isp/image/2026/10/20/isp20261020000201.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105456/pi2cmhvd3gkcyfvsoqsd.jpg",
+      "credit": "웨이브",
+      "from": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/20/202610201242312511_ent_ig.jpeg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105453/wjz8yy9ncdhgzgmxs5ol.jpg",
+      "credit": "웨이브",
+      "from": "https://cdn.nc.press/news/photo/202610/629552_866884_4339.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105455/jm8nbqehhme5efwkiwzg.jpg",
+      "credit": "웨이브",
+      "from": "https://isplus.com/data/isp/image/2026/10/20/isp20261020000201.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105456/pi2cmhvd3gkcyfvsoqsd.jpg",
+      "credit": "웨이브",
+      "from": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/20/202610201242312511_ent_ig.jpeg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "뱀파이어 프란체스카,|이번엔 고등학교로",
+      "sub": "웨이브 〈옆자리, 프란체스카〉 11/6 공개"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 카드 캡션의 심혜진 대사(\"너는 나 같은 실수를 안 하길 바란다\")는 뉴스컬처 한 곳뿐이라 뺐음 — 메인 예고편에서 확인되면 다시 넣기. 숏폼 0:02 자동 자막 'Francesca Gussie' 로 집사 대사 위치는 맞아 보이나 화면으로 확인. 표지 사진이 스틸 10컷 모음이라 제목 띠가 아래쪽 컷을 가림 — 스틸 한 장으로 바꾸는 게 나음",
+     "클립 위험: 높음 — wavve 웨이브 (OTT 오리지널 1차 티저, 30초)",
+     "오늘 나온 메인 예고편은 유튜브에서 못 찾아 10/20 1차 티저를 씀 — 자동 자막이 깨져 0:00 집사 대사는 기사 묘사 기준, 화면으로 확인. 심혜진 대사는 뉴스컬처 한 곳"
+    ],
+    "research": [
+     {
+      "title": "'옆자리, 프란체스카' 뱀파이어가 교실로 왔다…11월 6일 웨이브서 첫 공개 - 위키트리",
+      "link": "https://www.wikitree.co.kr/articles/1167632"
+     },
+     {
+      "title": "'옆자리, 프란체스카', 20년 전과 똑같은 심혜진 모습 담은 예고편 공개 - 뉴스컬처",
+      "link": "https://www.nc.press/news/articleView.html?idxno=629552"
+     },
+     {
+      "title": "일간스포츠 — 옆자리, 프란체스카 11월 6일 공개 (4부작)",
+      "link": "https://isplus.com/article/view/isp202610200092"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105468/hkahc1wps7pejvzotpqy.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105467/wb4vm2f4quwehdhkyaim.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105468/hkahc1wps7pejvzotpqy.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T21:51+09:00",
+     "v": {
+      "A": "ae7dd075"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=aDzxub0vNxQ\n구간: 0:00-0:30\n곡: *프란체스카* 11월 6일\n아티스트: 학교에 가세요\n피처링:\n후킹: 프란체스카 아가씨,\n출처: wavve 웨이브\n자막: 자동",
+    "caption": "2005년 시트콤 〈안녕, 프란체스카〉의 뱀파이어가 이번엔 고등학교 교실로 갑니다.\n\n웨이브 오리지널 〈옆자리, 프란체스카〉의 1차 티저는 집사가 \"프란체스카 아가씨, 학교에 가세요!\" 하고 다급하게 부르는 장면으로 시작하는데요, 전학생 피나영으로 위장한 뱀파이어(한수아)를 담임이 반장 장우주(김현진)에게 맡기면서 이야기가 굴러갑니다.\n\n원작의 심혜진·박슬기·박희진도 그때 배역 그대로 특별 출연합니다.\n\n공개: 11월 6일(금) 웨이브 · 4부작, 매주 금요일 2회씩\n영상: wavve 웨이브 공식 유튜브 1차 티저\n#SENE #옆자리프란체스카 #안녕프란체스카 #웨이브 #심혜진",
+    "hooks": {
+     "A": "프란체스카 아가씨, / 학교에 가세요 / *프란체스카* 11월 6일",
+     "B": "뱀파이어가 / 교실로 전학 왔다 / *옆자리, 프란체스카*",
+     "C": "그 뱀파이어 가족이 / 고등학교로 간다 / *프란체스카* 스핀오프"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=aDzxub0vNxQ",
+     "credit": "wavve 웨이브",
+     "range": [
+      0.0,
+      30.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 카드 캡션의 심혜진 대사(\"너는 나 같은 실수를 안 하길 바란다\")는 뉴스컬처 한 곳뿐이라 뺐음 — 메인 예고편에서 확인되면 다시 넣기. 숏폼 0:02 자동 자막 'Francesca Gussie' 로 집사 대사 위치는 맞아 보이나 화면으로 확인. 표지 사진이 스틸 10컷 모음이라 제목 띠가 아래쪽 컷을 가림 — 스틸 한 장으로 바꾸는 게 나음",
+     "클립 위험: 높음 — wavve 웨이브 (OTT 오리지널 1차 티저, 30초)",
+     "오늘 나온 메인 예고편은 유튜브에서 못 찾아 10/20 1차 티저를 씀 — 자동 자막이 깨져 0:00 집사 대사는 기사 묘사 기준, 화면으로 확인. 심혜진 대사는 뉴스컬처 한 곳"
+    ],
+    "research": [
+     {
+      "title": "'옆자리, 프란체스카' 뱀파이어가 교실로 왔다…11월 6일 웨이브서 첫 공개 - 위키트리",
+      "link": "https://www.wikitree.co.kr/articles/1167632"
+     },
+     {
+      "title": "'옆자리, 프란체스카', 20년 전과 똑같은 심혜진 모습 담은 예고편 공개 - 뉴스컬처",
+      "link": "https://www.nc.press/news/articleView.html?idxno=629552"
+     },
+     {
+      "title": "일간스포츠 — 옆자리, 프란체스카 11월 6일 공개 (4부작)",
+      "link": "https://isplus.com/article/view/isp202610200092"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/aDzxub0vNxQ/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105478/feyk0xbocoosdknt0hnq.jpg",
+     "key": "aDzxub0vNxQ@0.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T21:51+09:00"
+    }
+   },
+   "corner_name": "그 말"
   }
  ],
  "skipped": [],
@@ -3883,7 +4223,7 @@
     "need_today": 5,
     "day": null,
     "next_no": null,
-    "drafts": 14,
+    "drafts": 15,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -3943,7 +4283,7 @@
     "need_today": 1,
     "day": null,
     "next_no": null,
-    "drafts": 2,
+    "drafts": 3,
     "why": "인터뷰·방송·예고편·브랜드 영상 속 사람이 한 말 (짧은 인용)"
    },
    {
@@ -3979,7 +4319,7 @@
     "need_today": 2,
     "day": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "잘 된 글의 다음 편 — 연장·다음 도시·후속 컬렉션 (후속 기획 탭)"
    },
    {
@@ -3995,7 +4335,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T18:42+09:00"
+  "at": "2026-10-27T21:51+09:00"
  },
  "slots": {
   "basis": 0,
