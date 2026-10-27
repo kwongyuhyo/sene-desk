@@ -2870,7 +2870,51 @@
     }
    },
    "i18n_queued": "2026-10-27T14:56+09:00",
-   "corner_name": "그 말"
+   "corner_name": "그 말",
+   "i18n": {
+    "at": "2026-10-27T14:57+09:00",
+    "confirm": [
+     "〈타짜: 벨제붑의 노래〉의 공식 영어·일본어 제목을 검색으로 확인하지 못했습니다. 지금은 'Tazza: The Song of Beelzebub'·『タチャ：ベルゼブブの歌』로 직역해 두었습니다.",
+     "〈물처럼〉의 공식 영어·일본어 표기(영화·앨범)를 확인하지 못했습니다. 지금은 'Like Water (Mulcheoreom)'·『水のように（물처럼）』로 옮겼습니다.",
+     "스윙스의 일본어 표기 'スウィングス'와 채널 '장지수'의 로마자·가타카나 표기(Jang Ji-su·チャン・ジス)는 공식 표기가 아니라 음역입니다.",
+     "유튜브 영상 제목 영어·일본어판은 의역입니다. 원제는 〈현 시점 제일 핫한 배우 스윙스 초대석〉입니다.",
+     "〈타짜: 벨제붑의 노래〉의 공식 영어·일본어 제목을 찾지 못함 — 'Tazza: The Song of Beelzebub'·『タチャ：ベルゼブブの歌』는 임시 번역이니 CJ ENM 해외 표기를 확인할 것",
+     "일본어 숏폼 셋째 줄 「アルバム名は水のように」 — 『』 없이 쓰면 '앨범명은 물처럼(흘러)'처럼 비유로 읽힐 수 있음. 『』를 넣으면 12자가 되어 11자 제한을 넘기 때문에 그대로 둠",
+     "원문 · 출처 칸 '장지수'는 숏폼 세 줄 말을 한 사람이 아니라 채널 이름임 — 말한 사람은 스윙스이니 출처 표기가 맞는지 확인할 것",
+     "원문 숏폼 세 줄 순서(곡·아티스트·후킹 칸)가 '영화를 만들었어요 / 그 제목으로 / 제 앨범명이 물처럼'으로 위에서 아래로 한 문장처럼 읽히지 않음 — 번역도 같은 순서를 따름",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-10-27T14:57+09:00",
+     "fixes": [
+      "영어 · 출처 칸 · 장지수 → Jang Ji-su (장지수) — 한글만 남아 외국 독자가 못 읽음 (캡션의 로마자 표기에 맞춤)",
+      "일본어 · 출처 칸 · 장지수 → チャン・ジス（장지수） — 한글만 남아 있었음 (캡션의 표기에 맞춤)",
+      "영어 · 숏폼 캡션 · this time he stands on the making side → this time he has stepped into filmmaking — 직역투",
+      "일본어 · 숏폼 캡션 · 둘째 단락 「今月初めに…出演し」 앞에 「彼は」 추가 — 「物語なのですが」 뒤로 주어 없이 이어져 이야기(物語)가 출연한 것처럼 읽힘"
+     ],
+     "doubt": [
+      "〈타짜: 벨제붑의 노래〉의 공식 영어·일본어 제목을 찾지 못함 — 'Tazza: The Song of Beelzebub'·『タチャ：ベルゼブブの歌』는 임시 번역이니 CJ ENM 해외 표기를 확인할 것",
+      "일본어 숏폼 셋째 줄 「アルバム名は水のように」 — 『』 없이 쓰면 '앨범명은 물처럼(흘러)'처럼 비유로 읽힐 수 있음. 『』를 넣으면 12자가 되어 11자 제한을 넘기 때문에 그대로 둠",
+      "원문 · 출처 칸 '장지수'는 숏폼 세 줄 말을 한 사람이 아니라 채널 이름임 — 말한 사람은 스윙스이니 출처 표기가 맞는지 확인할 것",
+      "원문 숏폼 세 줄 순서(곡·아티스트·후킹 칸)가 '영화를 만들었어요 / 그 제목으로 / 제 앨범명이 물처럼'으로 위에서 아래로 한 문장처럼 읽히지 않음 — 번역도 같은 순서를 따름",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Neo27Kxa8RM\n구간: 13:35-14:09\n곡: I made a *movie*\n아티스트: under that title,\n피처링:\n후킹: my album: Like Water\n출처: Jang Ji-su (장지수)\n자막: 자동",
+      "caption": "The film Swings made himself shares its title with his album: 'Like Water' (Mulcheoreom).\n\nIt follows a fairly successful rapper who starts over at the bottom as a new actor and the conflicts he faces on the way back up. Appearing on the YouTube channel '장지수' (Jang Ji-su) earlier this month, Swings said he handled the story concept, about 30% of the script, casting, investment and the lead role himself.\n\nHe made his acting debut in 'Tazza: The Song of Beelzebub', and this time he has stepped into filmmaking. At the time of the interview the work was about 80% done, and he expected a release around November or December.\n\nRelease: Date TBA (Swings' own estimate: Nov – Dec)\nVideo: YouTube '장지수' (Jang Ji-su), 'Guest Seat: Swings, the Hottest Actor Right Now'\n#SENE #Swings #KoreanFilm #IndieFilm #KHipHop"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Neo27Kxa8RM\n구간: 13:35-14:09\n곡: *映画*を作りました\n아티스트: そのタイトルで\n피처링:\n후킹: アルバム名は水のように\n출처: チャン・ジス（장지수）\n자막: 자동",
+      "caption": "スウィングス（스윙스）が自ら手がけた映画のタイトルは、彼のアルバムと同じ『水のように（물처럼）』です。\n\nそれなりに成功したラッパーが新人俳優として下から再び這い上がる中で直面する葛藤を描いた物語なのですが、彼は今月初めにYouTubeチャンネル「장지수（チャン・ジス）」に出演し、ストーリーの構想と脚本の約30%、キャスティング、投資、主演まで自ら担当したと語りました。\n\n『タチャ：ベルゼブブの歌（타짜: 벨제붑의 노래）』で俳優デビューした彼が、今回は作る側に立ちました。インタビュー当時、作業は80%ほど終わっており、公開時期は11〜12月ごろと見込んでいました。\n\n公開：日程未定（スウィングス本人の予想は11〜12月）\n映像：YouTube「장지수」〈今いちばん熱い俳優スウィングス招待席〉\n#SENE #スウィングス #韓国映画 #インディーズ映画 #韓国ヒップホップ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -3001,7 +3045,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T14:56+09:00"
+  "at": "2026-10-27T14:57+09:00"
  },
  "slots": {
   "basis": 0,
