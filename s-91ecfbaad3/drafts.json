@@ -508,8 +508,8 @@
      "v": {
       "A": "f9f689d1",
       "B": "a04f5580",
-      "E": "64dea802",
-      "J": "d86721dd"
+      "E": "0501d583",
+      "J": "435f4706"
      }
     }
    },
@@ -595,83 +595,72 @@
    "i18n_queued": "2026-10-27T05:56+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-28T05:13+09:00",
+    "at": "2026-10-28T05:20+09:00",
     "confirm": [
-     "판씨네마의 공식 영문 표기(Pancinema / PANCINEMA)를 확인하지 못했습니다. 영어판은 로마자 'Pancinema', 일본어판은 カタカナ 'パンシネマ'에 처음 한 번 원어를 붙였습니다.",
-     "10주년 포스터 문구 '여전히, 꿈꾸는 당신을 위하여'의 공식 영어·일본어 문구는 확인하지 못해 직역했습니다 ('Still, for you who dream.' · 「今も、夢見るあなたへ」).",
-     "'라라핸드'는 공식 번역어가 없어 'La La Hand' · 「ララハンド」로 옮겼습니다.",
-     "일본어판은 한국 극장 개봉이라는 점이 일본 독자에게 분명히 읽히도록 '韓国の劇場'·'韓国全国の劇場'으로 적었습니다. 원문의 '전국 극장'이 가리키는 범위와 같습니다.",
-     "숏폼 영어 후킹 줄은 20자 제한에 맞추려고 실제 대사 'Maybe I'm not good enough'를 'I'm not good enough —'로 줄였습니다 (21자).",
-     "Pancinema·パンシネマ 표기 — 판씨네마의 공식 영어·일본어 표기는 확인하지 못했습니다(로마자·カタカナ 표기로 둠)"
+     "판씨네마의 공식 영문·일문 표기는 확인하지 못했습니다. 영어는 'Pancinema'(로마자), 일본어는 'パンシネマ'(가타카나)로 적었습니다.",
+     "포스터 문구 '여전히, 꿈꾸는 당신을 위하여'의 공식 영문·일문 문구는 확인하지 못했습니다. 그래서 직접 옮겼습니다(EN 'Still, for you who dream.' / JA「今も、夢見るあなたへ」).",
+     "외국 독자를 위해 '전국 극장'을 'in theaters nationwide in Korea'·「韓国全国の劇場」으로 풀어 적었습니다.",
+     "숏폼 세 칸은 영어 40자(I'm not enough — / You are. / La La Land again), 일본어 24자로 맞췄습니다.",
+     "영어 숏폼 후킹 'Am I enough?'는 원문 '난 부족한가 봐'(평서)를 질문으로 바꾼 것 — 뜻은 같지만 화면 문구로 괜찮은지 확인",
+     "일본어 숏폼 '*ラ・ラ・ランド*再び'에는 원문 '극장에'가 빠져 있음 — 24자 안에 맞추려고 그대로 둠",
+     "한국어 포스터 문구 '여전히, 꿈꾸는 당신을 위하여'의 공식 영어·일본어 문구가 있는지 확인 못 함 — 있으면 그 문구로 바꾸기"
     ],
     "review": {
-     "at": "2026-10-28T05:13+09:00",
+     "at": "2026-10-28T05:20+09:00",
      "fixes": [
-      "영어 · 후킹 · \"I'm not good enough —\" → \"I'm not good enough—\" — 21자로 한 줄 20자 제한을 넘어서 대시 앞 공백을 뺌",
-      "영어 · 해시태그 · #KoreanCinema → #Pancinema — 라라랜드는 한국 영화가 아니라서 잘못 읽힘 (캡션·숏폼 캡션 둘 다)",
-      "일본어 · 해시태그 · #韓国映画 → #再上映 — 한국 영화가 아님 · #ラ・ラ・ランド → #lalaland — '・'에서 해시태그가 끊김 (캡션·숏폼 캡션 둘 다)",
-      "일본어 · 캡션 둘째 단락 · '作品ですが、…この映画が…観客と出会います' → 두 문장으로 나눔 — '作品'과 'この映画'가 겹치는 직역투이고 '観客と出会う'가 어색함",
-      "일본어 · 캡션 · 'コピー' → 'キャッチコピー' — 포스터 문구라는 뜻이 더 분명하게 읽힘",
-      "일본어 · 숏폼 캡션 · '一場面ですが、…という答えが返ってきます' → '一場面です。…と答えが返ってきます' — '인데요'를 그대로 옮긴 'ですが'가 역접처럼 읽힘"
+      "영어 · 숏폼 세 칸 · 'I'm not enough —' / 'You are.' / '*La La Land* again' → 'Am I enough?' / 'You are.' / '*La La Land* returns' — 이어 읽으면 'I'm not enough — you are.'(나는 아니고 너는 충분하다)로 뜻이 뒤집혀 읽힘. 'again'만으로는 문장이 안 됨 · 합 38자",
+      "영어 · 캡션 · 'It is a version with Ryan Gosling's hand, once nicknamed…, redrawn' → 'This version corrects Ryan Gosling's hand pose, once nicknamed the 'La La Hand,'' — 직역투, 문장 구조가 꼬여 있음",
+      "영어 · 캡션 · 문구 'Still, for you who dream.' → 'Still, for the ones who dream.' — 'for you who dream'은 영어로 어색한 직역",
+      "영어 · 숏폼 캡션 · 'To \"Maybe I'm not good enough,\" the answer comes back: …' → 'In it, \"Maybe I'm not good enough\" is met with \"Yes, you are.\"' — 직역투 어순",
+      "영어 · 해시태그 · #KoreanCinema → #RyanGosling — 한국 영화가 아닌데 한국 영화로 읽힘",
+      "일본어 · 해시태그 · #ラ・ラ・ランド → #lalaland — 인스타그램 해시태그는 '・'에서 끊겨 #ラ 로만 걸림"
      ],
      "doubt": [
-      "Pancinema·パンシネマ 표기 — 판씨네마의 공식 영어·일본어 표기는 확인하지 못했습니다(로마자·カタカナ 표기로 둠)"
+      "영어 숏폼 후킹 'Am I enough?'는 원문 '난 부족한가 봐'(평서)를 질문으로 바꾼 것 — 뜻은 같지만 화면 문구로 괜찮은지 확인",
+      "일본어 숏폼 '*ラ・ラ・ランド*再び'에는 원문 '극장에'가 빠져 있음 — 24자 안에 맞추려고 그대로 둠",
+      "한국어 포스터 문구 '여전히, 꿈꾸는 당신을 위하여'의 공식 영어·일본어 문구가 있는지 확인 못 함 — 있으면 그 문구로 바꾸기"
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\n'La La Land' returns to theaters on Nov 11 to mark its 10th anniversary.\n\nThe film drew 3.8 million viewers in Korea in 2016, and while it has come back now and then for special screenings, this time it reaches audiences as an official re-release through its Korean distributor, Pancinema (@pancinema).\n\nThe 10th anniversary poster revisits the scene of Mia and Sebastian tap-dancing on a hillside at sunset. It is a revised version that fixes Ryan Gosling's hand pose, once nicknamed the 'La La Hand,' and its tagline reads 'Still, for you who dream.'\n\nRelease: Wed, Nov 11, theaters nationwide\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\n#SENE #LaLaLand #LaLaLand10th #MovieRerelease #Pancinema\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793048188/banlrv7k2pb6pg4fmghq.jpg\n제목: La La Land Turns 10,|Back in Theaters\n부제: Official re-release Nov 11\n출처: @pancinema\n",
-      "caption": "'La La Land' returns to theaters on Nov 11 to mark its 10th anniversary.\n\nThe film drew 3.8 million viewers in Korea in 2016, and while it has come back now and then for special screenings, this time it reaches audiences as an official re-release through its Korean distributor, Pancinema (@pancinema).\n\nThe 10th anniversary poster revisits the scene of Mia and Sebastian tap-dancing on a hillside at sunset. It is a revised version that fixes Ryan Gosling's hand pose, once nicknamed the 'La La Hand,' and its tagline reads 'Still, for you who dream.'\n\nRelease: Wed, Nov 11, theaters nationwide\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\n#SENE #LaLaLand #LaLaLand10th #MovieRerelease #Pancinema",
+      "form": "[카테고리]\n컬처\n\n[캡션]\n'La La Land' returns to theaters on Nov 11 to mark the 10th anniversary of its release.\n\nThe film drew 3.8 million viewers in Korea in 2016. Since then it has come back now and then for special screenings, but this time it returns as an official re-release through its Korean distributor, Pancinema (@pancinema).\n\nThe 10th anniversary poster revisits the scene of Mia and Sebastian tap dancing on a hillside at sunset. This version corrects Ryan Gosling's hand pose, once nicknamed the 'La La Hand,' and the tagline reads 'Still, for the ones who dream.'\n\nRelease: Wed, Nov 11, in theaters nationwide in Korea\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\n#SENE #LaLaLand #LaLaLand10th #Rerelease #RyanGosling\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793048188/banlrv7k2pb6pg4fmghq.jpg\n제목: La La Land at 10,|Back in Theaters\n부제: Official re-release on Nov 11\n출처: @pancinema\n",
+      "caption": "'La La Land' returns to theaters on Nov 11 to mark the 10th anniversary of its release.\n\nThe film drew 3.8 million viewers in Korea in 2016. Since then it has come back now and then for special screenings, but this time it returns as an official re-release through its Korean distributor, Pancinema (@pancinema).\n\nThe 10th anniversary poster revisits the scene of Mia and Sebastian tap dancing on a hillside at sunset. This version corrects Ryan Gosling's hand pose, once nicknamed the 'La La Hand,' and the tagline reads 'Still, for the ones who dream.'\n\nRelease: Wed, Nov 11, in theaters nationwide in Korea\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\n#SENE #LaLaLand #LaLaLand10th #Rerelease #RyanGosling",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132027/ys1cj7iphv7qs5rkjvjd.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132026/ocmxdzfqp6nbmke6pxlq.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132442/viza3zgom1bf9qqhjvua.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132442/chxbc64klnxic7qpun66.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132027/ys1cj7iphv7qs5rkjvjd.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132442/viza3zgom1bf9qqhjvua.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-28T05:13+09:00"
+       "at": "2026-10-28T05:20+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *La La Land* returns\n아티스트: Yes, you are.\n피처링:\n후킹: I'm not good enough—\n출처: Pancinema\n자막: 자동",
-      "caption": "'La La Land' returns to theaters on Nov 11 to mark its 10th anniversary.\n\nThis is a scene from the 10th anniversary trailer released by Pancinema (@pancinema): \"Maybe I'm not good enough,\" one says, and the answer comes back, \"Yes, you are.\" It is the story of two people torn between dreams and love — aspiring actress Mia and jazz pianist Sebastian.\n\nThe film, seen by 3.8 million viewers in Korea in 2016, has returned now and then for special screenings. This time, it is an official re-release.\n\nRelease: Wed, Nov 11, theaters nationwide\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\nVideo: Pancinema, 'La La Land' 10th anniversary trailer\n#SENE #LaLaLand #LaLaLand10th #MovieRerelease #Pancinema",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793132107/sene_studio/h6vkykk962gfwwqqfs3g.mp4",
-       "at": "2026-10-28T05:15+09:00",
-       "file": "Yes_you_are_La_La_Land_returns_KeolCheo_no_lyrics.mp4",
-       "sig": "a007e483ed",
-       "v": "4751115f"
-      }
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *La La Land* returns\n아티스트: You are.\n피처링:\n후킹: Am I enough?\n출처: Pancinema\n자막: 자동",
+      "caption": "'La La Land' returns to theaters on Nov 11 to mark the 10th anniversary of its release.\n\nThis scene comes from the 10th anniversary trailer released by Pancinema (@pancinema). In it, \"Maybe I'm not good enough\" is met with \"Yes, you are.\" It is the story of two people torn between dreams and love — aspiring actress Mia and jazz pianist Sebastian.\n\nThe film, seen by 3.8 million viewers in Korea in 2016, has returned now and then for special screenings. This time, it is an official re-release.\n\nRelease: Wed, Nov 11, in theaters nationwide in Korea\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\nVideo: Pancinema 'La La Land' 10th anniversary trailer\n#SENE #LaLaLand #LaLaLand10th #Rerelease #RyanGosling"
      }
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\n映画『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\n2016年に韓国で380万人が観た作品です。これまでは特別上映でときどき戻ってきていましたが、今回は輸入配給会社パンシネマ（판씨네마・@pancinema）による正式な再公開となります。\n\n10周年ポスターには、夕暮れの丘でミアとセバスチャンがタップダンスを踊る場面が改めて描かれました。「ララハンド」と呼ばれていたライアン・ゴズリングの手の形を修正したバージョンで、キャッチコピーは「今も、夢見るあなたへ」です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n#SENE #ララランド #lalaland #再上映 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793048188/banlrv7k2pb6pg4fmghq.jpg\n제목: ラ・ラ・ランド、10周年で|劇場に帰ってくる\n부제: 11月11日に正式再公開\n출처: @pancinema\n",
-      "caption": "映画『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\n2016年に韓国で380万人が観た作品です。これまでは特別上映でときどき戻ってきていましたが、今回は輸入配給会社パンシネマ（판씨네마・@pancinema）による正式な再公開となります。\n\n10周年ポスターには、夕暮れの丘でミアとセバスチャンがタップダンスを踊る場面が改めて描かれました。「ララハンド」と呼ばれていたライアン・ゴズリングの手の形を修正したバージョンで、キャッチコピーは「今も、夢見るあなたへ」です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n#SENE #ララランド #lalaland #再上映 #韓国旅行",
+      "form": "[카테고리]\n컬처\n\n[캡션]\n『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\n2016年に韓国国内で380万人が観た映画ですが、これまで特別上映でときおり戻ってきていた作品が、今回は輸入配給会社パンシネマ（판씨네마・@pancinema）を通じて正式な再公開として観客を迎えます。\n\n10周年ポスターは、夕日が沈む丘でミアとセバスチャンがタップダンスを踊る場面をあらためて描きました。「ララハンド」と呼ばれていたライアン・ゴズリングの手の形を修正したバージョンで、コピーは「今も、夢見るあなたへ」です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n#SENE #ララランド #lalaland #再上映 #韓国映画館\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793048188/banlrv7k2pb6pg4fmghq.jpg\n제목: 『ラ・ラ・ランド』10周年|劇場に帰ってくる\n부제: 11月11日に正式再公開\n출처: @pancinema\n",
+      "caption": "『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\n2016年に韓国国内で380万人が観た映画ですが、これまで特別上映でときおり戻ってきていた作品が、今回は輸入配給会社パンシネマ（판씨네마・@pancinema）を通じて正式な再公開として観客を迎えます。\n\n10周年ポスターは、夕日が沈む丘でミアとセバスチャンがタップダンスを踊る場面をあらためて描きました。「ララハンド」と呼ばれていたライアン・ゴズリングの手の形を修正したバージョンで、コピーは「今も、夢見るあなたへ」です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n#SENE #ララランド #lalaland #再上映 #韓国映画館",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132030/ljlaksqjmwtwybe2zaox.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132030/b5pwzv7efdjx1yyrakbc.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132445/rnww68n8jsnmuseaj2s5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132445/abkhtve3gb3f7skh1yny.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132030/ljlaksqjmwtwybe2zaox.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793132445/rnww68n8jsnmuseaj2s5.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-28T05:13+09:00"
+       "at": "2026-10-28T05:20+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *ラ・ラ・ランド*、劇場へ\n아티스트: いいえ、十分よ。\n피처링:\n후킹: 私じゃ足りないかも —\n출처: パンシネマ\n자막: 자동",
-      "caption": "映画『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\nパンシネマ（판씨네마・@pancinema）が公開した10周年予告編の一場面です。「Maybe I'm not good enough」という言葉に、「Yes, you are」と答えが返ってきます。夢と恋のあいだで揺れる二人、女優志望のミアとジャズピアニストのセバスチャンの物語です。\n\n2016年に韓国で380万人が観たこの映画は、これまで特別上映でときどき戻ってきましたが、今回は正式な再公開です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n映像：パンシネマ『ラ・ラ・ランド』10周年予告編\n#SENE #ララランド #lalaland #再上映 #韓国旅行",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793132174/sene_studio/p32mo2qtsv9geophpq03.mp4",
-       "at": "2026-10-28T05:16+09:00",
-       "file": "iieShiFenyo_ra-ra-randoJuChanghe_KeolCheo_no_lyrics.mp4",
-       "sig": "5aaf4e2021",
-       "v": "daf446bc"
-      }
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *ラ・ラ・ランド*再び\n아티스트: いや、十分さ\n피처링:\n후킹: 私じゃ足りないかも\n출처: パンシネマ\n자막: 자동",
+      "caption": "『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\nパンシネマ（판씨네마・@pancinema）が公開した10周年予告編のワンシーンですが、「Maybe I'm not good enough」という言葉に「Yes, you are」という答えが返ってきます。夢と恋のあいだで揺れる二人、女優志望のミアとジャズピアニストのセバスチャンの物語です。\n\n2016年に韓国国内で380万人が観たこの映画は、これまで特別上映でときおり戻ってきていましたが、今回は正式な再公開です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n映像：パンシネマ『ラ・ラ・ランド』10周年予告編\n#SENE #ララランド #lalaland #再上映 #韓国映画館"
      }
     }
    }
@@ -4711,7 +4700,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T05:16+09:00"
+  "at": "2026-10-28T05:20+09:00"
  },
  "slots": {
   "basis": 0,
