@@ -4457,11 +4457,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=aDzxub0vNxQ\n구간: 0:00-0:30\n곡: *Francesca* Nov 6\n아티스트: go to school\n피처링:\n후킹: Miss Francesca,\n출처: wavve\n자막: 자동",
       "caption": "The vampire from the 2005 sitcom 'Hello, Francesca' is heading to a high school classroom this time.\n\nThe first teaser for Wavve Original 'Yeopjari, Francesca' opens with the butler calling out in a hurry, \"Miss Francesca, go to school!\" The story gets rolling when the homeroom teacher puts class president Jang Woo-ju (Kim Hyun-jin) in charge of a vampire (Han Su-a) disguised as transfer student Pi Na-young.\n\nShim Hye-jin, Park Seul-gi and Park Hee-jin from the original also make special appearances in their original roles.\n\nPremiere: Fri, Nov 6 on Wavve · 4 episodes, 2 every Friday\nVideo: First teaser, wavve official YouTube\n#SENE #HelloFrancesca #Wavve #KDrama #ShimHyeJin",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T05:27+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793134769/sene_studio/hl5mliowco2ttuvxxrmh.mp4",
+       "at": "2026-10-28T05:59+09:00",
+       "file": "go_to_school_Francesca_Nov_6_KeolCheo_no_lyrics.mp4",
        "sig": "15abdc8fce",
-       "job": 87
+       "v": "6406576e"
       }
      }
     },
@@ -4796,7 +4797,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T05:57+09:00"
+  "at": "2026-10-28T05:59+09:00"
  },
  "slots": {
   "basis": 0,
