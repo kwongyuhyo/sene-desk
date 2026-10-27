@@ -2394,6 +2394,210 @@
    },
    "i18n_queued": "2026-10-27T13:59+09:00",
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:ord-4b7c5a7b",
+    "account": "@규효 공유 · @eyesmag",
+    "url": "https://www.instagram.com/p/De-uExxChMe/?exln=N21ub2xlYTltMzlp",
+    "image": null,
+    "head": "슈바오 10월 30일 공개, 판다 가족 다섯 마리를 함께 보는 건 12월 11일까지",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T14:04+09:00",
+   "key": "f517937c",
+   "by": "claude",
+   "subjects": [
+    "에버랜드"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "막내 판다 슈바오 10월 30일 첫 공개 — 판다 가족 다섯 마리를 함께 보는 건 12월 11일까지",
+    "why": "규효 맡기기 · 이번 주 금요일부터 실제로 보러 갈 수 있고, 쌍둥이 마지막 공개일과 겹쳐 기간이 짧다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T14:04+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n에버랜드(@witheverland)의 막내 판다 슈바오가 10월 30일부터 판다월드에서 관람객을 만납니다.\n\n지난 6월 3일 아이바오와 러바오 사이에서 태어난 암컷 판다인데요, 푸바오와 쌍둥이 루이바오·후이바오에 이어 국내에서 태어난 네 번째 아기 판다입니다. 에버랜드는 슈바오의 건강과 적응을 살피며 공개 시간과 관람 인원을 차례로 늘릴 계획이라고 밝혔습니다.\n\n다섯 마리가 함께인 시간은 길지 않습니다. 쌍둥이 언니들이 중국 이동을 앞두고 11월 13일부터 검역에 들어가고, 에버랜드에서의 마지막 공개일이 12월 11일로 잡혀 있기 때문입니다. 그때까지는 러바오·아이바오와 세 딸을 한곳에서 볼 수 있습니다.\n\n슈바오 공개: 10월 30일(금)부터\n판다 가족 다섯 마리: 12월 11일(금)까지\n장소: 경기 용인 에버랜드 판다월드\n관람: 공개 시간·인원은 단계적으로 확대 (에버랜드 공식 안내 확인)\n\n#SENE #슈바오 #에버랜드 #판다월드 #바오패밀리\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077474/etcqy6f1der2e4lxfigt.jpg\n제목: 에버랜드 막내 판다|슈바오, 30일 공개\n부제: 판다 가족 다섯 마리는 12월 11일까지\n출처: 에버랜드\n",
+    "caption": "에버랜드(@witheverland)의 막내 판다 슈바오가 10월 30일부터 판다월드에서 관람객을 만납니다.\n\n지난 6월 3일 아이바오와 러바오 사이에서 태어난 암컷 판다인데요, 푸바오와 쌍둥이 루이바오·후이바오에 이어 국내에서 태어난 네 번째 아기 판다입니다. 에버랜드는 슈바오의 건강과 적응을 살피며 공개 시간과 관람 인원을 차례로 늘릴 계획이라고 밝혔습니다.\n\n다섯 마리가 함께인 시간은 길지 않습니다. 쌍둥이 언니들이 중국 이동을 앞두고 11월 13일부터 검역에 들어가고, 에버랜드에서의 마지막 공개일이 12월 11일로 잡혀 있기 때문입니다. 그때까지는 러바오·아이바오와 세 딸을 한곳에서 볼 수 있습니다.\n\n슈바오 공개: 10월 30일(금)부터\n판다 가족 다섯 마리: 12월 11일(금)까지\n장소: 경기 용인 에버랜드 판다월드\n관람: 공개 시간·인원은 단계적으로 확대 (에버랜드 공식 안내 확인)\n\n#SENE #슈바오 #에버랜드 #판다월드 #바오패밀리",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077474/etcqy6f1der2e4lxfigt.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077476/jqlgtvetobp3rs4qgjd7.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_2.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077478/uw7rfbpcllixh8fgmo7q.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_3.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077480/l6cg7k2w59ni5rjztghy.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_4.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077482/jfs1njcwqe9153uciqps.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_5.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077474/etcqy6f1der2e4lxfigt.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077476/jqlgtvetobp3rs4qgjd7.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_2.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077478/uw7rfbpcllixh8fgmo7q.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_3.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077480/l6cg7k2w59ni5rjztghy.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_4.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077482/jfs1njcwqe9153uciqps.jpg",
+      "credit": "에버랜드",
+      "from": "https://news.samsungcnt.com/upload/2.0/wp-content/uploads/sites/2/2026/10/BabyPanda_300Days_5.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "에버랜드 막내 판다|슈바오, 30일 공개",
+      "sub": "판다 가족 다섯 마리는 12월 11일까지"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "판다 가족 다섯 마리|12월 11일까지",
+      "sub": "막내 슈바오 10월 30일 첫 공개"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "슈바오가 처음|관람객을 만나는 날",
+      "sub": "에버랜드 판다월드 · 10월 30일부터"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — EVERLAND 공식 채널 (#판다와쏭 #273, 9월 25일 공개분)",
+     "숏폼 11:50~12:26 송바오의 한국어 말과 말자막이 맞는지 (자막은 영어 번역본만 읽었다)"
+    ],
+    "research": [
+     {
+      "title": "에버랜드, 아기 판다 '슈바오' 오는 30일 일반 공개 - 삼성물산 뉴스룸",
+      "link": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%95%84%EA%B8%B0-%ED%8C%90%EB%8B%A4-%EC%8A%88%EB%B0%94%EC%98%A4-%EC%98%A4%EB%8A%94-30%EC%9D%BC-%EC%9D%BC%EB%B0%98-%EA%B3%B5%EA%B0%9C/"
+     },
+     {
+      "title": "아기 판다 슈바오, 30일 공개…쌍둥이 언니들과 마지막 동반 관람 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202610271052001/"
+     },
+     {
+      "title": "랜선으로만 보던 '슈바오' 드디어 만난다... 에버랜드, 30일부터 일반 공개 - 인사이트",
+      "link": "https://www.insight.co.kr/news/579282"
+     },
+     {
+      "title": "보름달이 3개나 떴어요! 풍요롭다 풍요로와｜#판다와쏭 #273 - EVERLAND",
+      "link": "https://www.youtube.com/watch?v=qHSufbvpk1c"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077488/ojhpsljj7swetcaq0wiv.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077487/xio8ywgxhbw2nyrtb8vf.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077491/lxdjj7m8xykubosru7qj.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077491/bwf2zvalogxqjae8bzzy.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077488/ojhpsljj7swetcaq0wiv.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T14:04+09:00",
+     "v": {
+      "A": "007983ac",
+      "B": "6e48b2e2",
+      "C": "da4d1388"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=qHSufbvpk1c\n구간: 11:50-12:26\n곡: 10월 30일 첫 공개\n아티스트: 이제 방사장으로\n피처링:\n후킹: 졸린 눈의 *슈바오*\n출처: EVERLAND\n자막: 자동",
+    "caption": "에버랜드(@witheverland)의 막내 판다 슈바오가 10월 30일부터 판다월드에서 관람객을 만납니다.\n\n영상은 에버랜드 유튜브 〈판다와쏭〉 273화의 한 장면인데요, 송바오 사육사가 졸음을 못 이기는 슈바오에게 엄마를 따라 방사장에 나가려면 이제 걸어야 한다고 말을 건넵니다. 6월 3일에 태어난 슈바오는 푸바오와 쌍둥이 루이바오·후이바오에 이어 국내에서 태어난 네 번째 아기 판다입니다.\n\n쌍둥이 언니들은 중국 이동을 앞두고 있어, 판다 가족 다섯 마리를 함께 볼 수 있는 건 12월 11일까지입니다. 에버랜드는 공개 시간과 관람 인원을 단계적으로 늘릴 계획이라고 밝혔습니다.\n\n슈바오 공개: 10월 30일(금)부터\n판다 가족 다섯 마리: 12월 11일(금)까지\n장소: 경기 용인 에버랜드 판다월드\n\n#SENE #슈바오 #에버랜드 #판다와쏭 #바오패밀리",
+    "hooks": {
+     "A": "졸린 눈의 *슈바오* / 이제 방사장으로 / 10월 30일 첫 공개",
+     "B": "막내 판다 *슈바오* / 30일부터 / 관람객을 만납니다",
+     "C": "*판다월드* 가족 다섯 / 함께 보는 건 / 12월 11일까지"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=qHSufbvpk1c",
+     "credit": "EVERLAND",
+     "range": [
+      710.0,
+      746.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — EVERLAND 공식 채널 (#판다와쏭 #273, 9월 25일 공개분)",
+     "숏폼 11:50~12:26 송바오의 한국어 말과 말자막이 맞는지 (자막은 영어 번역본만 읽었다)"
+    ],
+    "research": [
+     {
+      "title": "에버랜드, 아기 판다 '슈바오' 오는 30일 일반 공개 - 삼성물산 뉴스룸",
+      "link": "https://news.samsungcnt.com/ko/%EC%A0%84%EC%B2%B4%EA%B8%B0%EC%82%AC/%EB%A6%AC%EC%A1%B0%ED%8A%B8%EB%B6%80%EB%AC%B8/2026-10-%EC%97%90%EB%B2%84%EB%9E%9C%EB%93%9C-%EC%95%84%EA%B8%B0-%ED%8C%90%EB%8B%A4-%EC%8A%88%EB%B0%94%EC%98%A4-%EC%98%A4%EB%8A%94-30%EC%9D%BC-%EC%9D%BC%EB%B0%98-%EA%B3%B5%EA%B0%9C/"
+     },
+     {
+      "title": "아기 판다 슈바오, 30일 공개…쌍둥이 언니들과 마지막 동반 관람 - 경향신문",
+      "link": "https://www.khan.co.kr/article/202610271052001/"
+     },
+     {
+      "title": "랜선으로만 보던 '슈바오' 드디어 만난다... 에버랜드, 30일부터 일반 공개 - 인사이트",
+      "link": "https://www.insight.co.kr/news/579282"
+     },
+     {
+      "title": "보름달이 3개나 떴어요! 풍요롭다 풍요로와｜#판다와쏭 #273 - EVERLAND",
+      "link": "https://www.youtube.com/watch?v=qHSufbvpk1c"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/qHSufbvpk1c/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077502/digp0dza8zu4kclr3crb.jpg",
+     "key": "qHSufbvpk1c@710.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T14:05+09:00"
+    }
+   },
+   "i18n_queued": "2026-10-27T14:04+09:00",
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -2412,7 +2616,7 @@
     "need_today": 5,
     "day": null,
     "next_no": null,
-    "drafts": 11,
+    "drafts": 12,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -2524,7 +2728,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T14:00+09:00"
+  "at": "2026-10-27T14:05+09:00"
  },
  "slots": {
   "basis": 0,
