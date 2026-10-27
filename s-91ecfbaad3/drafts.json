@@ -3213,11 +3213,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Neo27Kxa8RM\n구간: 13:35-14:09\n곡: now my *film* too.\n아티스트: \n피처링:\n후킹: My album, Like Water —\n출처: 장지수\n자막: 자동",
       "caption": "The film Swings made is titled Like Water (물처럼), the same title as the rapper's album.\n\nThe story follows a fairly successful rapper who starts over at the bottom as a rookie actor and the conflicts that come with the climb back up. On the YouTube channel 장지수 (Jang Jisu) earlier this month, Swings said the project was a hands-on one: developing the story, writing about 30% of the script, casting, raising the investment and playing the lead.\n\nAfter an acting debut in Tazza: The Song of Beelzebub, Swings is now on the filmmaking side. At the time of the interview, the work was about 80% done, with a release expected around November or December.\n\nRelease: Date TBA (Swings expects Nov – Dec)\nVideo: YouTube '장지수' – '현 시점 제일 핫한 배우 스윙스 초대석' (The Hottest Actor Right Now: Swings)\n#SENE #Swings #LikeWater #KoreanIndieFilm #KoreanFilm",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T06:32+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793137915/sene_studio/fbmlekemkseanykxooxj.mp4",
+       "at": "2026-10-28T06:51+09:00",
+       "file": "unknown_now_my_film_too_KeolCheo_no_lyrics.mp4",
        "sig": "2fc3bbbd93",
-       "job": 96
+       "v": "0882623f"
       }
      }
     },
@@ -4793,7 +4794,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:48+09:00"
+  "at": "2026-10-28T06:51+09:00"
  },
  "slots": {
   "basis": 0,
