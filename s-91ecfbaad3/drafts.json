@@ -1587,9 +1587,20 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069342/fi2pa6koy70ga7b7zvd1.jpg",
      "key": "CSvoagEgP2A@12.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-27T11:49+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793069578/sene_studio/ytgasn2cr1bvejhwktfm.mp4",
+     "at": "2026-10-27T11:53+09:00",
+     "file": "Ne_BeonJjae_HyeobEob_29Il_NaObNiDa_PaeSyeon_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793069580166-753b6b11",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 4.4,
+        "text": "아라 아라 아라 아라"
+       }
+      ]
+     }
     }
    },
    "pick": {
@@ -2095,7 +2106,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T11:52+09:00"
+  "at": "2026-10-27T11:53+09:00"
  },
  "slots": {
   "basis": 0,
