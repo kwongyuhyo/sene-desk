@@ -2939,11 +2939,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=qHSufbvpk1c\n구간: 11:50-12:26\n곡: on Oct 30.\n아티스트: hits the yard\n피처링:\n후킹: Sleepy *Shu Bao*\n출처: EVERLAND\n자막: 자동",
       "caption": "Shu Bao, the youngest giant panda at Everland (@witheverland), meets visitors at Panda World from October 30.\n\nThe clip comes from episode 273 of Everland's YouTube series 'Pandawa Ssong (판다와쏭)'. Keeper Song Bao tells a drowsy Shu Bao that she now has to walk if she wants to follow her mother out to the yard. Born on June 3, Shu Bao is the fourth baby panda born in Korea, after Fu Bao and the twins Rui Bao and Hui Bao.\n\nWith the twin sisters preparing to move to China, the panda family of five can be seen together only through December 11. Everland says it will gradually extend viewing hours and visitor numbers.\n\nShu Bao on view: From Fri, Oct 30\nPanda family of five: Through Fri, Dec 11\nLocation: Panda World, Everland, Yongin, Gyeonggi-do\n\n#SENE #ShuBao #Everland #PandaWorld #BaoFamily",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T06:32+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793137571/sene_studio/endgksvzqv1qczvguqkp.mp4",
+       "at": "2026-10-28T06:46+09:00",
+       "file": "hits_the_yard_on_Oct_30_NolGeoLi_no_lyrics.mp4",
        "sig": "767c1b7a45",
-       "job": 94
+       "v": "bd07e3c0"
       }
      },
      "published": {
@@ -4791,7 +4792,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:43+09:00"
+  "at": "2026-10-28T06:46+09:00"
  },
  "slots": {
   "basis": 0,
