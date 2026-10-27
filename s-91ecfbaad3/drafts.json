@@ -3938,7 +3938,9 @@
      "cvr": 2,
      "at": "2026-10-27T21:51+09:00",
      "v": {
-      "A": "663743a0"
+      "A": "663743a0",
+      "E": "c6a77662",
+      "J": "28e9e83b"
      }
     }
    },
@@ -3948,7 +3950,58 @@
     "at": "2026-10-27T21:50+09:00"
    },
    "corner_name": "후속",
-   "i18n_queued": "2026-10-27T21:51+09:00"
+   "i18n_queued": "2026-10-27T21:51+09:00",
+   "i18n": {
+    "at": "2026-10-27T21:52+09:00",
+    "confirm": [
+     "일본어 표기 '스위트파크 → スイートパーク'는 일본어 블로그·여행 사이트 표기를 따랐습니다(공식 일본어 표기는 확인하지 못했습니다)",
+     "치폴레의 일본어 표기 'チポトレ'는 일본에서 흔히 쓰는 표기입니다. 이번에 검색으로 다시 확인하지는 않았습니다",
+     "영어 표지는 한 줄 22자 안팎에 맞추느라 'Gangnam'을 뺐습니다(장소는 부제·캡션에 있습니다)"
+    ],
+    "review": {
+     "at": "2026-10-27T21:52+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'Chipotle No. 2 Opens' → 'Second Chipotle Opens' — 'No. 2' 가 순위(2위)로도 읽힘",
+      "일본어 · 캡션 둘째 단락 · '2か月での出店ですが、今回は' → '2か月での出店です。今回は' — 'ですが' 가 역접으로 읽혀 어색함",
+      "일본어 · 캡션 셋째 단락 · '購入した客には' → '購入した人には' — '客' 단독은 딱딱하고 어색함"
+     ],
+     "doubt": []
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nChipotle opens its second store in Korea tomorrow at Shinsegae Department Store Gangnam.\n\nThe opening comes two months after the first store opened on Gangnam-daero on Sep 2. This time it is not a street-front shop: the 98-seat store sits inside Sweet Park, the dessert hall on the department store's first basement level. The menu is the same as at the first store.\n\nRegister on the in-store tablet to join the waitlist, and you receive a notification 10 minutes before entry, with no need to stand in line. The first 150 customers on opening day get a keyring, and customers who make a purchase through Nov 3 get a sticker.\n\nOpening: Oct 28 (Wed)\nLocation: Sweet Park, B1, Shinsegae Department Store Gangnam, 176 Sinbanpo-ro, Seocho-gu, Seoul\nPerks: Keyring for the first 150 customers on opening day · Sticker with purchase through Nov 3\n#SENE #Chipotle #ShinsegaeGangnam #SweetPark #SeoulFood #Gangnam\n\n[커버]\n소스: \n제목: Second Chipotle Opens|Tomorrow at Shinsegae\n부제: Oct 28 · Sweet Park, B1 · 98 Seats\n출처: \n",
+      "caption": "Chipotle opens its second store in Korea tomorrow at Shinsegae Department Store Gangnam.\n\nThe opening comes two months after the first store opened on Gangnam-daero on Sep 2. This time it is not a street-front shop: the 98-seat store sits inside Sweet Park, the dessert hall on the department store's first basement level. The menu is the same as at the first store.\n\nRegister on the in-store tablet to join the waitlist, and you receive a notification 10 minutes before entry, with no need to stand in line. The first 150 customers on opening day get a keyring, and customers who make a purchase through Nov 3 get a sticker.\n\nOpening: Oct 28 (Wed)\nLocation: Sweet Park, B1, Shinsegae Department Store Gangnam, 176 Sinbanpo-ro, Seocho-gu, Seoul\nPerks: Keyring for the first 150 customers on opening day · Sticker with purchase through Nov 3\n#SENE #Chipotle #ShinsegaeGangnam #SweetPark #SeoulFood #Gangnam",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105562/d3w7sazvoqnxfnbjtvum.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105561/erxfvu0jff1lvin9vxyz.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105562/d3w7sazvoqnxfnbjtvum.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T21:52+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nチポトレ（Chipotle）が明日、新世界百貨店 江南店に韓国2号店をオープンします。\n\n9月2日に江南大路（カンナムデロ）に1号店を出してから2か月での出店です。今回は路面店ではなく、百貨店地下1階のデザート専門館「スイートパーク（Sweet Park）」の中に98席の規模で入ります。メニューは1号店と同じです。\n\n店内のタブレットで順番待ちを登録しておけば、列に並ばなくても入店10分前に通知が届きます。オープン当日は先着150名にキーリングを、11月3日までに購入した人にはステッカーを配ります。\n\nオープン：10月28日（水）\n場所：ソウル・瑞草区（ソチョグ）新盤浦路176 新世界百貨店 江南店 地下1階 スイートパーク\n特典：当日先着150名にキーリング・11月3日までの購入でステッカー\n#SENE #チポトレ #新世界百貨店 #スイートパーク #韓国旅行 #ソウルグルメ\n\n[커버]\n소스: \n제목: チポトレ2号店、|あす新世界江南に\n부제: 10/28・地下1階スイートパーク・98席\n출처: \n",
+      "caption": "チポトレ（Chipotle）が明日、新世界百貨店 江南店に韓国2号店をオープンします。\n\n9月2日に江南大路（カンナムデロ）に1号店を出してから2か月での出店です。今回は路面店ではなく、百貨店地下1階のデザート専門館「スイートパーク（Sweet Park）」の中に98席の規模で入ります。メニューは1号店と同じです。\n\n店内のタブレットで順番待ちを登録しておけば、列に並ばなくても入店10分前に通知が届きます。オープン当日は先着150名にキーリングを、11月3日までに購入した人にはステッカーを配ります。\n\nオープン：10月28日（水）\n場所：ソウル・瑞草区（ソチョグ）新盤浦路176 新世界百貨店 江南店 地下1階 スイートパーク\n特典：当日先着150名にキーリング・11月3日までの購入でステッカー\n#SENE #チポトレ #新世界百貨店 #スイートパーク #韓国旅行 #ソウルグルメ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105565/kwr33oapimo6mvylt8oc.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105565/zavecc8b2tjrpmxocjba.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105565/kwr33oapimo6mvylt8oc.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T21:52+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -4335,7 +4388,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T21:51+09:00"
+  "at": "2026-10-27T21:52+09:00"
  },
  "slots": {
   "basis": 0,
