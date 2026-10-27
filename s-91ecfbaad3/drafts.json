@@ -3016,6 +3016,113 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:ord-f9bfcc6e",
+    "account": "@규효 공유 · @yomagazine_",
+    "url": "https://www.instagram.com/p/De_VglzBkhM/?srtk=dzdheXVrZDA4MGZt",
+    "image": null,
+    "head": "에어비앤비, 11월 20일 확정 예약부터 퇴실 전 청소 요구·호스트 자체 벌금 금지",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T16:50+09:00",
+   "key": "222b39b8",
+   "by": "claude",
+   "subjects": [
+    "에어비앤비"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "11월 20일 예약분부터 에어비앤비 호스트가 퇴실 청소(설거지·시트·쓰레기 배출)를 요구할 수 없다 — 여행자의 체크아웃이 달라진다",
+    "why": "숙소 예약하는 2030 여행자의 하루가 바로 달라지는 생활 변화, 적용 3주 전"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T16:50+09:00",
+   "corner": "issue",
+   "card": {
+    "form": "[카테고리]\n이슈\n\n[캡션]\n에어비앤비(@airbnb)가 퇴실 전 청소 규칙을 바꿉니다.\n\n청소비를 내고도 설거지와 침구 정리까지 해야 했다는 이야기가 많았는데요, 11월 20일 이후 확정되는 예약부터는 호스트가 설거지와 식기 정리, 침대 시트 벗기기, 쓰레기를 숙소 밖에 버리는 일을 요구할 수 없습니다. 쓴 그릇을 싱크대에 두거나 수건을 한곳에 모아 달라는 정도의 요청은 그대로 할 수 있습니다.\n\n숙소 규칙은 예약 전에 숙소 페이지에 모두 적혀 있어야 하고, 예약 뒤 메시지나 안내문으로 덧붙일 수 없습니다. 규칙을 어겼다며 호스트가 따로 벌금을 매기는 것도 금지됩니다. 에어비앤비는 기존 규칙이 혼란스럽고 부담스럽다는 이용자 의견을 반영했다고 설명합니다.\n\n적용: 2026년 11월 20일 이후 확정되는 예약부터\n금지: 설거지·식기 정리, 침대 시트 벗기기, 쓰레기 숙소 밖 배출, 호스트 자체 벌금\n가능: 식기 싱크대에 두기, 쓴 수건 모으기\n\n#SENE #에어비앤비 #에어비앤비퇴실 #숙소예약 #여행\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg\n제목: 에어비앤비 퇴실 전|설거지 안 해도 된다\n부제: 11월 20일 확정 예약부터 퇴실 청소 규칙이 바뀝니다\n출처: Fox Business\n",
+    "caption": "에어비앤비(@airbnb)가 퇴실 전 청소 규칙을 바꿉니다.\n\n청소비를 내고도 설거지와 침구 정리까지 해야 했다는 이야기가 많았는데요, 11월 20일 이후 확정되는 예약부터는 호스트가 설거지와 식기 정리, 침대 시트 벗기기, 쓰레기를 숙소 밖에 버리는 일을 요구할 수 없습니다. 쓴 그릇을 싱크대에 두거나 수건을 한곳에 모아 달라는 정도의 요청은 그대로 할 수 있습니다.\n\n숙소 규칙은 예약 전에 숙소 페이지에 모두 적혀 있어야 하고, 예약 뒤 메시지나 안내문으로 덧붙일 수 없습니다. 규칙을 어겼다며 호스트가 따로 벌금을 매기는 것도 금지됩니다. 에어비앤비는 기존 규칙이 혼란스럽고 부담스럽다는 이용자 의견을 반영했다고 설명합니다.\n\n적용: 2026년 11월 20일 이후 확정되는 예약부터\n금지: 설거지·식기 정리, 침대 시트 벗기기, 쓰레기 숙소 밖 배출, 호스트 자체 벌금\n가능: 식기 싱크대에 두기, 쓴 수건 모으기\n\n#SENE #에어비앤비 #에어비앤비퇴실 #숙소예약 #여행",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg",
+      "credit": "Fox Business",
+      "from": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Airbnb-Enhanced-Cleaning-Protocol.jpg?ve=1&amp;tl=1"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087405/hg5ydmp0cnqvfhooinmk.jpg",
+      "credit": "Fox Business",
+      "from": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/08/0/0/Airbnb-Enhanced-Cleaning-Protocol.jpg?ve=1&amp;tl=1"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "에어비앤비 퇴실 전|설거지 안 해도 된다",
+      "sub": "11월 20일 확정 예약부터 퇴실 청소 규칙이 바뀝니다"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "11월 20일부터|퇴실 청소 규칙 바뀐다",
+      "sub": "에어비앤비 호스트, 설거지·시트 정리 요구 못 해"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "청소비 내고 설거지,|이제 요구 못 한다",
+      "sub": "에어비앤비 새 숙소 규칙 · 11월 20일 예약분부터"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "숏폼은 비움 — 찾은 영상이 미국 지역 방송 뉴스(9NEWS·WCPO·KHOU) 앵커 리포트뿐이라, 말할 사람·현장 장면이 없고 클립 비중만 커짐 (클립 위험: 높음 — 방송사)",
+     "표지 사진은 기사 대표 사진 — 에어비앤비 공식 인스타 최근 사진은 모두 영문 문구가 박혀 있어 뺐음. 사진 저작권(AP 등) 눈으로 확인"
+    ],
+    "research": [
+     {
+      "title": "이코노미스트 — 에어비앤비, 퇴실 전 설거지·쓰레기 배출 요구 금지한다 (10/24)",
+      "link": "https://economist.co.kr/article/view/ecn202610240007"
+     },
+     {
+      "title": "Live 5 News — Airbnb drops mandatory checkout chores starting Nov. 20 (10/23)",
+      "link": "https://www.live5news.com/2026/10/23/airbnb-drops-mandatory-checkout-chores-starting-nov-20/"
+     },
+     {
+      "title": "9NEWS — Tired of Airbnb checkout chores? (YouTube, 10/22)",
+      "link": "https://www.youtube.com/watch?v=hOvLovYIFFY"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087408/hv8g1edbxhcvzbo6ikqi.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087408/taqxhxnxtmlcigm5qn4l.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087411/b00z9hjfeuk85w5sjz7y.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087411/kq2xrujhw5bp6vptn1uh.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793087408/hv8g1edbxhcvzbo6ikqi.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T16:50+09:00",
+     "v": {
+      "A": "c55076f6",
+      "B": "576b2d0c",
+      "C": "30635760"
+     }
+    }
+   },
+   "i18n_queued": "2026-10-27T16:50+09:00",
+   "corner_name": "이슈"
   }
  ],
  "skipped": [],
@@ -3118,7 +3225,7 @@
     "need_today": 1,
     "day": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
    },
    {
@@ -3146,7 +3253,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T15:10+09:00"
+  "at": "2026-10-27T16:50+09:00"
  },
  "slots": {
   "basis": 0,
