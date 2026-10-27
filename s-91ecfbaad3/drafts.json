@@ -571,19 +571,93 @@
      "key": "fYRCixyKTVI@4.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793089380/sene_studio/uxunov7vintwyyy7f8gv.mp4",
-     "at": "2026-10-27T17:23+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793090614/sene_studio/m7fd8syskqwnjpzeye7q.mp4",
+     "at": "2026-10-27T17:43+09:00",
      "file": "ANi_ChungBunHae_LaLaLaenDeu_DaSi_Geu_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793089381802-3eac8dd2",
+      "id": "st:1793090615829-3eac8dd2",
       "segs": [
        {
-        "start": 24.58,
-        "end": 25.98,
-        "text": "EVERthose"
+        "start": 2.42,
+        "end": 3.27,
+        "text": "...Maybe I'm not good"
+       },
+       {
+        "start": 3.27,
+        "end": 3.56,
+        "text": "enough"
+       },
+       {
+        "start": 3.56,
+        "end": 4.12,
+        "text": "Yes, you are"
+       },
+       {
+        "start": 4.12,
+        "end": 4.84,
+        "text": "Maybe I'm not"
+       },
+       {
+        "start": 4.84,
+        "end": 5.96,
+        "text": "It's like a pipe dream"
+       },
+       {
+        "start": 5.96,
+        "end": 7.09,
+        "text": "This is the dream"
+       },
+       {
+        "start": 7.09,
+        "end": 8.24,
+        "text": "It's conflict"
+       },
+       {
+        "start": 8.24,
+        "end": 9.5,
+        "text": "and it's compromise"
+       },
+       {
+        "start": 9.5,
+        "end": 10.34,
+        "text": "It's very"
+       },
+       {
+        "start": 10.34,
+        "end": 12.3,
+        "text": "very exciting"
+       },
+       {
+        "start": 13.1,
+        "end": 14.42,
+        "text": "Someone in the crowd can"
+       },
+       {
+        "start": 14.42,
+        "end": 15.71,
+        "text": "win you Someone in the"
+       },
+       {
+        "start": 15.71,
+        "end": 17.6,
+        "text": "crowd take a friend of a"
+       },
+       {
+        "start": 17.6,
+        "end": 20.24,
+        "text": "groud comple Someone"
+       },
+       {
+        "start": 20.24,
+        "end": 24.34,
+        "text": "ready to revolve"
        }
       ]
      }
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-27T17:44+09:00"
     }
    },
    "i18n_queued": "2026-10-27T05:56+09:00",
@@ -1168,8 +1242,8 @@
    },
    "pick": {
     "rank": 3,
-    "why": "포터 90주년 전시가 이번 주 금요일 잠실에서 시작 — 언론 11곳이 다룬 이번 주 가장 큰 패션 전시",
-    "at": "2026-10-27T11:48+09:00"
+    "why": "포터 90주년 전시가 이번 주 금요일 잠실에서 시작 — 주말 갈 곳으로 이어진다",
+    "at": "2026-10-27T17:45+09:00"
    }
   },
   {
@@ -1380,11 +1454,6 @@
       "via": "api"
      }
     }
-   },
-   "pick": {
-    "rank": 2,
-    "why": "설빙 포켓몬 빙수가 내일 출시 — 캐릭터 굿즈 열풍과 디저트가 겹치고 날짜가 코앞이다",
-    "at": "2026-10-27T11:48+09:00"
    },
    "published": {
     "permalink": "https://www.instagram.com/p/De_CnB-GVuO/",
@@ -1820,11 +1889,6 @@
       ]
      }
     }
-   },
-   "pick": {
-    "rank": 1,
-    "why": "젠틀몬스터×마르지엘라 네 번째 협업이 모레 출시 — 큰 이름 협업에 공식 캠페인 영상까지 있어 숏폼으로 바로 간다",
-    "at": "2026-10-27T11:48+09:00"
    },
    "i18n_queued": "2026-10-27T11:48+09:00",
    "corner_name": "소식",
@@ -3327,6 +3391,323 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:frankburger-aot-2",
+    "account": "@기사",
+    "url": "https://www.datanet.co.kr/news/articleView.html?idxno=215389",
+    "image": null,
+    "head": "프랭크버거, '진격의 거인' 2차 콜라보 시작",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T17:45+09:00",
+   "key": "164e8cfc",
+   "by": "claude",
+   "subjects": [
+    "프랭크버거",
+    "진격의 거인"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "프랭크버거×진격의 거인 2차 협업 오늘 시작 — 1월엔 담요·키링, 이번엔 입단키트·변색잔·디오라마 세 가지 세트",
+    "why": "오늘(10/27) 전국 참여 매장에서 시작한 굿즈 협업. 시작일·세트 이름·버거 구성·굿즈 구성·소진 시 종료는 데이터넷·천지일보가 맞고, 1차 상황과 3월 앙코르는 더퍼블릭·천지일보가 맞는다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T17:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n프랭크버거가 오늘부터 〈진격의 거인〉과 두 번째 협업 세트를 팝니다.\n\n지난 1월 첫 협업 때는 일부 매장에 대기 줄이 생기고 굿즈가 빠르게 소진됐는데요, 조사병단 망토 담요는 다시 팔아 달라는 요청에 3월 앙코르로 한 번 더 나왔습니다. 이번엔 굿즈를 새로 꾸렸습니다.\n\n'조사병단팩'은 치즈버거 세트에 틴케이스·와펜·배지·군번줄·명찰이 든 입단키트를, '벽속의거인팩'은 JG버거 세트에 차가운 음료를 담으면 거인 얼굴이 드러나는 변색잔을, '에렌의진격팩'은 쉬림프버거 세트에 아크릴 디오라마를 더했습니다. 군번줄과 명찰은 에렌·미카사·리바이·엘빈·한지 중 한 캐릭터로 무작위입니다.\n\n시작: 10월 27일(화)\n판매: 전국 프랭크버거 참여 매장 (매장별 굿즈 소진 시 세트 판매 종료)\n#SENE #프랭크버거 #진격의거인 #진격거 #조사병단\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793090744/n2jmzbio6oy2puqodjzs.jpg\n제목: 프랭크버거×진격의 거인,|오늘 2차 세트 시작\n부제: 입단키트 · 변색잔 · 아크릴 디오라마 세 가지\n출처: 프랭크버거\n",
+    "caption": "프랭크버거가 오늘부터 〈진격의 거인〉과 두 번째 협업 세트를 팝니다.\n\n지난 1월 첫 협업 때는 일부 매장에 대기 줄이 생기고 굿즈가 빠르게 소진됐는데요, 조사병단 망토 담요는 다시 팔아 달라는 요청에 3월 앙코르로 한 번 더 나왔습니다. 이번엔 굿즈를 새로 꾸렸습니다.\n\n'조사병단팩'은 치즈버거 세트에 틴케이스·와펜·배지·군번줄·명찰이 든 입단키트를, '벽속의거인팩'은 JG버거 세트에 차가운 음료를 담으면 거인 얼굴이 드러나는 변색잔을, '에렌의진격팩'은 쉬림프버거 세트에 아크릴 디오라마를 더했습니다. 군번줄과 명찰은 에렌·미카사·리바이·엘빈·한지 중 한 캐릭터로 무작위입니다.\n\n시작: 10월 27일(화)\n판매: 전국 프랭크버거 참여 매장 (매장별 굿즈 소진 시 세트 판매 종료)\n#SENE #프랭크버거 #진격의거인 #진격거 #조사병단",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090744/n2jmzbio6oy2puqodjzs.jpg",
+      "credit": "프랭크버거",
+      "from": "https://cdn.newscj.com/news/photo/202610/3442509_3565062_2310.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090744/n2jmzbio6oy2puqodjzs.jpg",
+      "credit": "프랭크버거",
+      "from": "https://cdn.newscj.com/news/photo/202610/3442509_3565062_2310.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "프랭크버거×진격의 거인,|오늘 2차 세트 시작",
+      "sub": "입단키트 · 변색잔 · 아크릴 디오라마 세 가지"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "조사병단 입단키트,|이번엔 버거 세트로",
+      "sub": "프랭크버거 × 진격의 거인 두 번째 협업"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "세트 가격(조사병단팩 28,900원 · 벽속의거인팩 23,900원 · 에렌의진격팩 19,800원)은 데이터넷 한 곳과 커뮤니티 글뿐이라 뺐음 — 프랭크버거 공식 공지로 맞으면 실용 정보 줄에 추가",
+     "종료일·1인 구매 제한·참여 매장 수는 기사에 없음",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "프랭크버거, '진격의 거인' 2차 콜라보 시작 - 데이터넷",
+      "link": "https://www.datanet.co.kr/news/articleView.html?idxno=215389"
+     },
+     {
+      "title": "프랭크버거 '진격의 거인' 2차 협업 예정… 오픈런 열기 잇는다 - 천지일보",
+      "link": "https://www.newscj.com/news/articleView.html?idxno=3442509"
+     },
+     {
+      "title": "프랭크버거, '진격의 거인'과 두 번째 만남…한정판 굿즈로 팬심 공략 - 더퍼블릭",
+      "link": "https://www.thepublic.kr/news/articleView.html?idxno=322709"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090750/l99oewqkkzrx2dwbeiqg.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090750/rfhvd0rsh6l1tftnzq8z.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090753/nnxgfu4gbqbmngtsd8xf.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090750/l99oewqkkzrx2dwbeiqg.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T17:45+09:00",
+     "v": {
+      "A": "30144bbb",
+      "B": "1c19693d"
+     }
+    }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 시작해 지금 매장에서 살 수 있는 캐릭터 굿즈 협업 — 1차 때 줄이 섰던 만큼 퇴근길에 가장 먼저 알 만한 소식",
+    "at": "2026-10-27T17:45+09:00"
+   },
+   "i18n_queued": "2026-10-27T17:45+09:00",
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:penhaligons-thehyundai",
+    "account": "@기사",
+    "url": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279786",
+    "image": null,
+    "head": "펜할리곤스, 더현대 서울 팝업 오픈…홀리데이 선물 제안",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T17:45+09:00",
+   "key": "bf4d59cc",
+   "by": "claude",
+   "subjects": [
+    "펜할리곤스"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "B",
+    "kind": "정보",
+    "angle": "펜할리곤스 올해 홀리데이 컬렉션을 공식 출시(11/1)보다 먼저 — 더현대 서울 1층 엿새 팝업, 네이버 예약 방문 시 샘플",
+    "why": "오늘 시작해 이번 주 일요일에 끝나는 짧은 뷰티 팝업. 기간·층·선판매·예약 샘플·포토존·지창욱 방문은 비즈니스코리아·고코리아 두 곳이 맞는다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T17:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n뷰티\n\n[캡션]\n영국 향수 브랜드 펜할리곤스(@penhaligons)가 오늘부터 더현대 서울 1층에서 팝업을 엽니다.\n\n올해 홀리데이 컬렉션을 11월 1일 공식 출시보다 먼저 살 수 있는 자리인데요, 향수와 바디 제품, 홈 프래그런스까지 전 제품군으로 꾸려졌습니다. 포트레이트 컬렉션의 '로드 조지'도 함께 맡아 볼 수 있습니다.\n\n현장에서는 향을 맡으며 선물 상담과 기프트 래핑을 받을 수 있고, 라이언 오브제를 둔 포토존이 있습니다. 첫날에는 배우 지창욱이 다녀갔습니다.\n\n기간: 10월 27일(화) ~ 11월 1일(일)\n장소: 서울 영등포구 여의대로 108 더현대 서울 1층\n예약: 네이버 예약 (예약 방문 시 1.5ml 향수 샘플)\n#SENE #펜할리곤스 #더현대서울 #여의도팝업 #홀리데이컬렉션\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793090747/nkmy7thxnatkz9s5fvhy.jpg\n제목: 펜할리곤스 홀리데이,|더현대 서울서 먼저\n부제: 10/27~11/1 · 1층 팝업 · 공식 출시 전 선판매\n출처: @penhaligons\n",
+    "caption": "영국 향수 브랜드 펜할리곤스(@penhaligons)가 오늘부터 더현대 서울 1층에서 팝업을 엽니다.\n\n올해 홀리데이 컬렉션을 11월 1일 공식 출시보다 먼저 살 수 있는 자리인데요, 향수와 바디 제품, 홈 프래그런스까지 전 제품군으로 꾸려졌습니다. 포트레이트 컬렉션의 '로드 조지'도 함께 맡아 볼 수 있습니다.\n\n현장에서는 향을 맡으며 선물 상담과 기프트 래핑을 받을 수 있고, 라이언 오브제를 둔 포토존이 있습니다. 첫날에는 배우 지창욱이 다녀갔습니다.\n\n기간: 10월 27일(화) ~ 11월 1일(일)\n장소: 서울 영등포구 여의대로 108 더현대 서울 1층\n예약: 네이버 예약 (예약 방문 시 1.5ml 향수 샘플)\n#SENE #펜할리곤스 #더현대서울 #여의도팝업 #홀리데이컬렉션",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090747/nkmy7thxnatkz9s5fvhy.jpg",
+      "credit": "@penhaligons",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/863242878_18649030468035613_1878479212654286360_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cGf3NIEJpSQQ7kNvwHlhhxp&_nc_oc=Adoro2i-jHzJ6hUVihPT9qFDQ4ccQMs55_4q-qQzS2MpQWdgKh9NHpRA02hGKxvT2pU&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=QfA40kiDlu9aeZBrIQilBw&oh=00_AQP8IGtRHxIoG1GmBxKI5KCKk8Mi0DFeYJ9cd88EBL14SA&oe=6AE62D2B"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090747/nkmy7thxnatkz9s5fvhy.jpg",
+      "credit": "@penhaligons",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/863242878_18649030468035613_1878479212654286360_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cGf3NIEJpSQQ7kNvwHlhhxp&_nc_oc=Adoro2i-jHzJ6hUVihPT9qFDQ4ccQMs55_4q-qQzS2MpQWdgKh9NHpRA02hGKxvT2pU&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=QfA40kiDlu9aeZBrIQilBw&oh=00_AQP8IGtRHxIoG1GmBxKI5KCKk8Mi0DFeYJ9cd88EBL14SA&oe=6AE62D2B"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "펜할리곤스 홀리데이,|더현대 서울서 먼저",
+      "sub": "10/27~11/1 · 1층 팝업 · 공식 출시 전 선판매"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "운영 시간·구매 기프트 조건·가격은 기사에 없어 뺐음 — 표지 사진이 지창욱 포토월 사진이면 매장·제품 사진으로 바꿀지 확인"
+    ],
+    "research": [
+     {
+      "title": "펜할리곤스, 더현대 서울 팝업 오픈…홀리데이 선물 제안 - 비즈니스코리아",
+      "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=279786"
+     },
+     {
+      "title": "펜할리곤스, 더현대 서울 팝업서 향수 시향·홀리데이 기프트 행사 - 고코리아",
+      "link": "https://www.gokorea.kr/news/articleView.html?idxno=882987"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090755/eknnw7gtwjg6df7xo2dm.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090755/z0woh4aivv6kffziqg4j.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090755/eknnw7gtwjg6df7xo2dm.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-27T17:45+09:00",
+     "v": {
+      "A": "83b50d38"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:devilsplan-dead-again",
+    "account": "TEO 테오",
+    "url": "https://www.youtube.com/watch?v=VRbf-7pkui4",
+    "image": null,
+    "head": "[Main Trailer] Shall We Team Up? | The Devil's Plan: Dead Again",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-27T17:45+09:00",
+   "key": "0f9e6652",
+   "by": "claude",
+   "subjects": [
+    "데블스 플랜: 데드 어게인"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "〈데블스 플랜: 데드 어게인〉 메인 예고편 오늘 공개 — 피스를 다 잃어도 탈락하지 않는 새 규칙, 서출구의 '낭만 있는 호구 모집'",
+    "why": "오늘 공개된 넷플릭스 예능 메인 예고편. 공개일 11/10·14부작·3주 공개·16인·새 규칙·대사는 톱스타뉴스·위키트리 두 곳이 맞고, 구간은 TEO 공식 예고편 자막(0:34 규칙, 1:04 서출구 대사)으로 확인"
+   },
+   "added": "claude",
+   "added_at": "2026-10-27T17:45+09:00",
+   "corner": "mal",
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:39-1:08\n곡: *데블스 플랜* 새 시즌\n아티스트: 모집합니다\n피처링:\n후킹: 낭만 있는 호구\n출처: TEO 테오\n자막: 자동",
+    "caption": "넷플릭스 〈데블스 플랜: 데드 어게인〉이 오늘 메인 예고편을 공개했습니다.\n\n이번 시즌은 규칙부터 달라졌는데요, 피스를 모두 잃어도 바로 탈락하지 않고 생존은 오직 게임 결과로 갈립니다. 영상 속 서출구는 \"낭만 있는 호구 모집합니다\"라며 끝까지 함께 갈 사람을 찾습니다.\n\n장동민·홍진호·하석진·정현규·존박·재재·스텔라장 등 16명이 나오고, 정종연·최윤희 PD가 연출했습니다.\n\n공개: 11월 10일(화) 넷플릭스 · 14부작, 3주에 나눠 공개\n영상: TEO 테오 공식 유튜브\n#SENE #데블스플랜 #데드어게인 #넷플릭스 #정종연",
+    "hooks": {
+     "A": "낭만 있는 호구 / 모집합니다 / *데블스 플랜* 새 시즌",
+     "B": "피스를 다 잃어도 / 탈락은 없다 / *데블스 플랜* 11월 10일",
+     "C": "끝까지 같이 / 갑시다, 라고 말한 / *데블스 플랜* 16인"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=VRbf-7pkui4",
+     "credit": "TEO 테오",
+     "range": [
+      39.0,
+      68.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — TEO 테오 (넷플릭스 예능 예고편, 29초)",
+     "구간은 TEO 영상(121초) 영어 자막 기준 — 넷플릭스 코리아판(135초)과 편집이 다를 수 있음. 1:04 대사가 서출구인지 화면으로 확인"
+    ],
+    "research": [
+     {
+      "title": "넷플릭스 '데블스 플랜: 데드 어게인' 메인 예고편 공개…\"피스 잃어도 탈락 없다\" - 톱스타뉴스",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16259061"
+     },
+     {
+      "title": "'데블스 플랜: 데드 어게인' 피스 잃어도 탈락 없다…\"제 계획은 장동민 죽이기\" - 위키트리",
+      "link": "https://www.wikitree.co.kr/articles/1169443"
+     },
+     {
+      "title": "데블스 플랜: 데드 어게인 | 공식 예고편 — Netflix Korea",
+      "link": "https://www.youtube.com/watch?v=o6tHnRtkxBY"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/VRbf-7pkui4/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793090765/jqnualvjmxciysqhw7ab.jpg",
+     "key": "VRbf-7pkui4@39.0"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 나온 메인 예고편 숏폼 — 오늘 숏폼 중 아직 안 올라간 것 가운데 가장 넓게 이야기되는 작품",
+    "at": "2026-10-27T17:45+09:00"
+   },
+   "i18n_queued": "2026-10-27T17:45+09:00",
+   "corner_name": "그 말",
+   "i18n": {
+    "at": "2026-10-27T17:46+09:00",
+    "confirm": [
+     "영어 제목 'The Devil's Plan: Dead Again' 과 11월 10일 공개는 넷플릭스 공식 발표(about.netflix.com)에서 확인했습니다. 일본어 공식 제목은 찾지 못했습니다 — 『デビルズ・プラン：デッド・アゲイン』은 앞 시즌 일본어 표기를 따라 짐작한 것이라 넷플릭스 재팬에서 확인이 필요합니다.",
+     "출연자 영어 표기: 정현규는 넷플릭스 표기(Jeong Hyun-gyu)를 따랐습니다. 장동민·홍진호·하석진·존박·재재·스텔라장, 정종연·최윤희 PD 의 로마자·カタカナ 표기는 일반 표기로 썼고, 공식 표기는 확인하지 못했습니다.",
+     "서출구의 영어(Seo Chul-gu)·일본어(ソ・チュルグ) 표기는 확인하지 못했습니다 — 넷플릭스 출연진 안내에서 확인이 필요합니다.",
+     "'낭만 있는 호구 모집합니다' 의 번역(EN 'pushovers with a sense of romance' · JA 'ロマンのあるお人よし')은 의역입니다. 숏폼 세 줄은 원문 순서(새 시즌 / 모집합니다 / 낭만 있는 호구)를 그대로 따랐습니다.",
+     "원문 '14부작, 3주에 나눠 공개' 와 메인 예고편 공개일(오늘)은 이번 검색에서 따로 확인하지 못했습니다 — 원문 그대로 옮겼습니다.",
+     "일본어 · 작품명 · 일본 Netflix 의 시즌 1 제목은 『悪魔の計略 ~デビルズ・プラン~』 입니다(JustWatch 일본). 『デビルズ・プラン：デッド・アゲイン』 이 일본 Netflix 의 시즌 3 공식 제목과 같은지는 확인하지 못했으니, 올리기 전에 일본 Netflix 작품 페이지에서 확인해 주세요 (#デビルズプラン 태그도 함께).",
+     "공통 · 출연자 로마자 · 서출구(Seo Chul-gu), 정현규(Jeong Hyun-gyu), 최윤희(Choi Yun-hee)의 공식 영어 표기를 확인하지 못했습니다. Netflix 영문 보도자료와 맞는지 확인이 필요합니다.",
+     "공통 · 공개일 11월 10일(화)과 14부작·3주 분할 공개는 원문을 그대로 옮긴 것이고, 이 검수에서 따로 확인하지는 않았습니다 (요일은 2026년 달력과 맞음).",
+     "일본어 · 숏폼 세 줄 · 위에서 아래로 읽으면 「デビルズ・プラン新章 / 募集します / ロマンあるお人よし」 순서가 됩니다. 일본어로는 목적어가 동사 뒤에 오는 도치 꼴이라 조금 어색하지만, 칸 순서가 정해져 있어 그대로 두었습니다.",
+     "영어판 출처에 한글이 남음",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-10-27T17:46+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 · 〈The Devil's Plan: Dead Again〉 → The Devil's Plan: Dead Again — 영어권에서는 〈 〉 괄호를 쓰지 않아 낯설게 읽혀 괄호를 뺌 (영어 제목은 Soompi 표기와 같음)"
+     ],
+     "doubt": [
+      "일본어 · 작품명 · 일본 Netflix 의 시즌 1 제목은 『悪魔の計略 ~デビルズ・プラン~』 입니다(JustWatch 일본). 『デビルズ・プラン：デッド・アゲイン』 이 일본 Netflix 의 시즌 3 공식 제목과 같은지는 확인하지 못했으니, 올리기 전에 일본 Netflix 작품 페이지에서 확인해 주세요 (#デビルズプラン 태그도 함께).",
+      "공통 · 출연자 로마자 · 서출구(Seo Chul-gu), 정현규(Jeong Hyun-gyu), 최윤희(Choi Yun-hee)의 공식 영어 표기를 확인하지 못했습니다. Netflix 영문 보도자료와 맞는지 확인이 필요합니다.",
+      "공통 · 공개일 11월 10일(화)과 14부작·3주 분할 공개는 원문을 그대로 옮긴 것이고, 이 검수에서 따로 확인하지는 않았습니다 (요일은 2026년 달력과 맞음).",
+      "일본어 · 숏폼 세 줄 · 위에서 아래로 읽으면 「デビルズ・プラン新章 / 募集します / ロマンあるお人よし」 순서가 됩니다. 일본어로는 목적어가 동사 뒤에 오는 도치 꼴이라 조금 어색하지만, 칸 순서가 정해져 있어 그대로 두었습니다.",
+      "영어판 출처에 한글이 남음",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:39-1:08\n곡: New *Devil's Plan*\n아티스트: Now Recruiting\n피처링:\n후킹: Romantic Pushovers\n출처: TEO 테오\n자막: 자동",
+      "caption": "Netflix released the main trailer for The Devil's Plan: Dead Again today.\n\nThis season changes the rules. Players who lose all their pieces are no longer out on the spot; survival comes down to game results alone. In the trailer, Seo Chul-gu says, \"Now recruiting pushovers with a sense of romance,\" looking for people to go the distance with.\n\nThe 16-player cast includes Jang Dong-min, Hong Jin-ho, Ha Seok-jin, Jeong Hyun-gyu, John Park, Jaejae and Stella Jang. Jung Jong-yeon and Choi Yun-hee direct.\n\nPremiere: Tue, Nov 10 on Netflix · 14 episodes, released over three weeks\nVideo: TEO 테오 official YouTube\n#SENE #TheDevilsPlan #DeadAgain #Netflix #KoreanVariety"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:39-1:08\n곡: *デビルズ・プラン*新章\n아티스트: 募集します\n피처링:\n후킹: ロマンあるお人よし\n출처: TEO 테오\n자막: 자동",
+      "caption": "Netflix『デビルズ・プラン：デッド・アゲイン』が、本日メイン予告編を公開しました。\n\n今シーズンはルールから変わりました。ピースをすべて失ってもすぐには脱落せず、生き残りはゲームの結果だけで決まります。映像の中でソ・チュルグ（서출구）は「ロマンのあるお人よし、募集します」と、最後まで一緒に進む相手を探しています。\n\nチャン・ドンミン、ホン・ジノ、ハ・ソクジン、チョン・ヒョンギュ、ジョン・パク、ジェジェ、ステラ・ジャンら16人が出演し、チョン・ジョンヨン、チェ・ユニの両PDが演出を手がけました。\n\n配信：11月10日（火）Netflix・全14話、3週に分けて配信\n映像：TEO 테오 公式YouTube\n#SENE #デビルズプラン #デッドアゲイン #ネットフリックス #韓国バラエティ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -3345,7 +3726,7 @@
     "need_today": 5,
     "day": null,
     "next_no": null,
-    "drafts": 12,
+    "drafts": 14,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -3405,7 +3786,7 @@
     "need_today": 1,
     "day": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 2,
     "why": "인터뷰·방송·예고편·브랜드 영상 속 사람이 한 말 (짧은 인용)"
    },
    {
@@ -3457,7 +3838,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T17:36+09:00"
+  "at": "2026-10-27T17:46+09:00"
  },
  "slots": {
   "basis": 0,
