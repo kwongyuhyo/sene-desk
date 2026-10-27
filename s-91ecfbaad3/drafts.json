@@ -2388,12 +2388,77 @@
      "v": {
       "A": "3b6c54ed",
       "B": "d6cc3374",
-      "C": "81d00636"
+      "C": "81d00636",
+      "E": "2c23488f",
+      "J": "c808bacc"
      }
     }
    },
    "i18n_queued": "2026-10-27T13:59+09:00",
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-27T14:06+09:00",
+    "confirm": [
+     "시그마체인 공식 영문 표기를 찾지 못해 'SigmaChain'(영어)·'シグマチェーン'(일본어, 원어 병기)으로 썼습니다. 회사 공식 표기가 있다면 바꿔 주세요.",
+     "'일촌'은 영어로 'ilchon'으로 옮기고 한 번 풀어 썼으며, 일본어는 '一寸（イルチョン）'으로 썼습니다. '일촌평'은 각각 'ilchon comments'·'一寸評'입니다.",
+     "'방문록'은 'visitor log'·'訪問録'으로 옮겼습니다. 앱에 공식 영어·일본어 메뉴 이름이 있으면 그 이름으로 맞춰야 합니다.",
+     "원문의 '26일'은 10월 26일로 보고 영어판에 'the 26th'로 남겼습니다. 날짜를 다시 확인해 주세요. 영어판 표지 순서는 'Cyworld Returns as an App | in Late November'로 바꿨습니다.",
+     "10월 26일 일정 발표 자체는 이번에 따로 확인하지 않았습니다. 다만 앞서 나온 기사(세계일보)에는 '10월 베타·2027년 상반기 정식 출시'로 적혀 있어 원문과 다릅니다. 올리기 전에 최신 발표를 다시 확인해 주세요.",
+     "운영사 영문 표기 SigmaChain / Sigmachain — 공식 표기를 확인하지 못함 (기사에서는 '시그마체인'만 확인됨)",
+     "'26일 발표 · 11월 말 베타 · 2027년 4월 정식' 일정 — 이번 검색에서는 8월 10일 '싸이월드 3.0' 기자회견 기사만 나오고, 26일 발표는 확인하지 못함. 올리기 전에 원문 출처를 다시 볼 것",
+     "일본어 해시태그 #ミニホムピィ — 일본에서 더 많이 쓰는 표기(ミニホムピ 등)인지 확인하지 못함",
+     "일본어판 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-10-27T14:06+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · also open with it → also launch alongside it — 직역투, 'open'이 무엇을 여는지 애매함",
+      "일본어 · 부제 · 一寸が先 → イルチョンが先 — 일본 독자에게 一寸은 'ちょっと(조금)'로 읽혀 '계정과 조금이 먼저'처럼 보임",
+      "일본어 · 캡션 · 一寸（イルチョン） → イルチョン（一寸） — 같은 이유로 カタカナ를 앞에, 한자 원어는 괄호로",
+      "일본어 · 캡션 · 一寸評 → イルチョン評 — 위와 맞춤"
+     ],
+     "doubt": [
+      "운영사 영문 표기 SigmaChain / Sigmachain — 공식 표기를 확인하지 못함 (기사에서는 '시그마체인'만 확인됨)",
+      "'26일 발표 · 11월 말 베타 · 2027년 4월 정식' 일정 — 이번 검색에서는 8월 10일 '싸이월드 3.0' 기자회견 기사만 나오고, 26일 발표는 확인하지 못함. 올리기 전에 원문 출처를 다시 볼 것",
+      "일본어 해시태그 #ミニホムピィ — 일본에서 더 많이 쓰는 표기(ミニホムピ 등)인지 확인하지 못함",
+      "일본어판 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nCyworld (@cyworld_official) returns as a mobile app beta as early as late November.\n\nThe timeline comes from operator SigmaChain, which announced it on the 26th. The beta starts with the basics: recovering old accounts through identity verification and checking ilchon, the service's close-friend connections. A feed for posting photos, comments, and a 'visitor log' that takes the place of the old guestbook also launch alongside it.\n\nPast photo albums, diaries, and ilchon comments are not part of this beta. The company says it will restore them in stages after the official launch next April. Private messages and Miniroom decorating are also slated for an update then.\n\nBeta: Targeting late November (by year-end at the latest)\nOfficial launch: Planned for April 2027 (website included)\n#SENE #Cyworld #Minihompy #KoreanNostalgia #Y2K\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077157/anmoxuhosfactol0xffx.jpg\n제목: Cyworld Returns as an App|in Late November\n부제: Accounts and ilchon first, old photo albums from April\n출처: Source: @cyworld_official\n",
+      "caption": "Cyworld (@cyworld_official) returns as a mobile app beta as early as late November.\n\nThe timeline comes from operator SigmaChain, which announced it on the 26th. The beta starts with the basics: recovering old accounts through identity verification and checking ilchon, the service's close-friend connections. A feed for posting photos, comments, and a 'visitor log' that takes the place of the old guestbook also launch alongside it.\n\nPast photo albums, diaries, and ilchon comments are not part of this beta. The company says it will restore them in stages after the official launch next April. Private messages and Miniroom decorating are also slated for an update then.\n\nBeta: Targeting late November (by year-end at the latest)\nOfficial launch: Planned for April 2027 (website included)\n#SENE #Cyworld #Minihompy #KoreanNostalgia #Y2K",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077579/mh3szmwoxbprmwrtmln0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077579/eptv558xfijhtcfjzwhn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077579/mh3szmwoxbprmwrtmln0.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T14:06+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nサイワールド（싸이월드・@cyworld_official）が、早ければ11月末にモバイルアプリのベータ版で戻ってきます。\n\n運営会社のシグマチェーン（시그마체인）が26日に明らかにした日程ですが、ベータ版ではまず本人認証で昔のアカウントを見つけ、イルチョン（一寸）と呼ばれる友達関係を確認することから始まります。写真を投稿するフィードとコメント、昔のゲストブックにあたる「訪問録」も同時に公開されます。\n\n過去の写真帳やダイアリー、イルチョン評は今回のベータ版には含まれません。会社は来年4月の正式サービス移行後、段階的に復元すると説明しています。メッセージ機能とミニルームの飾り付けも、その時期に手を入れる計画です。\n\nベータ版：11月末目標（遅くとも年内）\n正式サービス：2027年4月予定（ウェブサイトも同時）\n#SENE #サイワールド #싸이월드 #ミニホムピィ #韓国トレンド\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793077157/anmoxuhosfactol0xffx.jpg\n제목: サイワールド、11月末|アプリで再始動\n부제: アカウントとイルチョンが先、昔の写真帳は来年4月から\n출처: 出典：@cyworld_official\n",
+      "caption": "サイワールド（싸이월드・@cyworld_official）が、早ければ11月末にモバイルアプリのベータ版で戻ってきます。\n\n運営会社のシグマチェーン（시그마체인）が26日に明らかにした日程ですが、ベータ版ではまず本人認証で昔のアカウントを見つけ、イルチョン（一寸）と呼ばれる友達関係を確認することから始まります。写真を投稿するフィードとコメント、昔のゲストブックにあたる「訪問録」も同時に公開されます。\n\n過去の写真帳やダイアリー、イルチョン評は今回のベータ版には含まれません。会社は来年4月の正式サービス移行後、段階的に復元すると説明しています。メッセージ機能とミニルームの飾り付けも、その時期に手を入れる計画です。\n\nベータ版：11月末目標（遅くとも年内）\n正式サービス：2027年4月予定（ウェブサイトも同時）\n#SENE #サイワールド #싸이월드 #ミニホムピィ #韓国トレンド",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077583/dhnbbf9gwzsa0vzmamix.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077582/fvl0agpcy507zgwnzjvp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793077583/dhnbbf9gwzsa0vzmamix.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T14:06+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2728,7 +2793,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T14:05+09:00"
+  "at": "2026-10-27T14:06+09:00"
  },
  "slots": {
   "basis": 0,
