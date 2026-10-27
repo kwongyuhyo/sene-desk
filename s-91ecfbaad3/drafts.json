@@ -1691,8 +1691,8 @@
      "v": {
       "A": "45031dee",
       "B": "df877cad",
-      "E": "93cc6101",
-      "J": "a0ef9c44"
+      "E": "3e76f40a",
+      "J": "96143c58"
      }
     }
    },
@@ -1839,55 +1839,45 @@
    "i18n_queued": "2026-10-27T11:48+09:00",
    "corner_name": "소식",
    "i18n": {
-    "at": "2026-10-27T11:51+09:00",
+    "at": "2026-10-28T06:25+09:00",
     "confirm": [
-     "웹 검색으로는 네 번째 협업(10/29 출시, 68종, '해체주의', 알렉스 프래거 숏필름) 기사를 아직 찾지 못했습니다. 검색에 걸린 건 1~3차 협업뿐이라, 올리기 전에 원문 사실을 젠틀몬스터 공식 게시물로 다시 확인해 주세요.",
-     "일본어 브랜드 표기 'ジェントルモンスター'·'メゾン マルジェラ'는 WWD JAPAN·FASHIONSNAP 표기를 따랐습니다. 'アレックス・プラガー'는 공식 일본어 표기를 확인하지 못해 관용 표기를 쓰고, 처음 한 번 괄호에 원어를 붙였습니다.",
-     "영어 숏폼 세 줄은 한 줄 20자 제한 때문에 'Gentle Monster × / Margiela 4th collab / arrives Oct 29'로 줄을 다시 나눴습니다. 순서는 후킹 → 아티스트 → 곡입니다.",
-     "일본어 표지 첫 줄 'ジェントルモンスター×マルジェラ'는 16자로, 12자 기준보다 깁니다. 브랜드명이 길어서 두 줄 구조를 지키느라 그대로 두었습니다.",
-     "2026년 10월 29일이 목요일인 것은 확인했습니다.",
-     "일본어 · 표지 제목 첫 줄 'ジェントルモンスター×マルジェラ'가 16자라 기준(12자 안팎)보다 깁니다. 브랜드 이름만으로 된 줄이라 줄이지 않았으니, 화면에서 넘치지 않는지 봐 주세요.",
-     "영어 · 숏폼 첫 줄 '*Gentle Monster* ×'가 ×로 끝나고 다음 줄 'Margiela'로 이어집니다. 글자 수 기준은 맞지만, 화면에서 줄이 끊긴 것처럼 보이지 않는지 봐 주세요."
+     "Alex Prager 의 일본어 표기 'アレックス・プラガー' — 이번 협업 관련 일본 매체 표기를 찾지 못했다. 원어를 괄호로 함께 적었다. WWD JAPAN·FASHIONSNAP 의 공식 표기와 맞는지 확인 필요",
+     "WWD JAPAN·FASHIONSNAP 에서 확인한 일본어 표기: ジェントルモンスター · メゾン マルジェラ",
+     "일본어 숏폼 세 칸은 24자 안에 넣느라 '마르지엘라 네 번째 협업이 29일 나옵니다'를 'ジェントルモンスター×マルジェラ 第4弾は29日'로 줄였다",
+     "영어 숏폼 세 칸은 'Gentle Monster × Margiela No. 4 Out Oct 29.'로 이어지며 40자 정도다",
+     "일본어 · 표지 제목 첫 줄 'ジェントルモンスター×マルジェラ' 는 16자라 한 줄 12자 안팎보다 깁니다. 브랜드 이름이라 줄이지 않았으니 화면에서 잘리지 않는지 확인해 주세요.",
+     "영어 · 부제 '43 Sunglasses · 25 Optical Frames · Theme: Deconstruction' 은 57자로 깁니다. 표지 화면에서 한 줄에 들어가는지 확인해 주세요."
     ],
     "review": {
-     "at": "2026-10-27T11:51+09:00",
+     "at": "2026-10-28T06:25+09:00",
      "fixes": [
-      "영어 · 캡션 첫 문장 · on the 29th → on Oct 29 — 어느 달인지 영어 독자가 바로 알 수 있게",
-      "영어 · 캡션 둘째 단락 · This season's theme → This collection's theme — 원문 '이번'에는 시즌이라는 뜻이 없음",
-      "영어 · 캡션 둘째 단락 · 'Frames and lenses are joined …, alongside oversized eyewear' → 'It pairs designs that join … with oversized eyewear' — alongside 가 어디에 걸리는지 애매한 문장 구조라 고침",
-      "영어 · 캡션·숏폼 캡션 · 68 pieces → 68 styles — '종'은 디자인 가짓수인데 pieces 는 수량(개수)으로 읽힘"
+      "영어 · 숏폼 아티스트 칸 · Margiela No. 4 → Margiela Vol. 4 — 'Margiela No. 4' 는 향수 같은 제품명으로 읽힘",
+      "영어 · 숏폼 곡 칸 · Out Oct 29. → — Oct 29 — 이어 읽으면 문장 중간에 대문자 'Out' 이 끼고, 세 칸 합이 41자로 40자 한도를 넘었음 (고친 뒤 40자)"
      ],
      "doubt": [
-      "일본어 · 표지 제목 첫 줄 'ジェントルモンスター×マルジェラ'가 16자라 기준(12자 안팎)보다 깁니다. 브랜드 이름만으로 된 줄이라 줄이지 않았으니, 화면에서 넘치지 않는지 봐 주세요.",
-      "영어 · 숏폼 첫 줄 '*Gentle Monster* ×'가 ×로 끝나고 다음 줄 'Margiela'로 이어집니다. 글자 수 기준은 맞지만, 화면에서 줄이 끊긴 것처럼 보이지 않는지 봐 주세요."
+      "일본어 · 표지 제목 첫 줄 'ジェントルモンスター×マルジェラ' 는 16자라 한 줄 12자 안팎보다 깁니다. 브랜드 이름이라 줄이지 않았으니 화면에서 잘리지 않는지 확인해 주세요.",
+      "영어 · 부제 '43 Sunglasses · 25 Optical Frames · Theme: Deconstruction' 은 57자로 깁니다. 표지 화면에서 한 줄에 들어가는지 확인해 주세요."
      ]
     },
     "en": {
      "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nThe fourth collaboration collection from Gentle Monster (@gentlemonster) and Maison Margiela arrives on Oct 29.\n\nThis collection's theme is \"Deconstruction.\" It pairs designs that join frames and lenses in irregular forms, as if paused midway between making and unmaking, with oversized eyewear that wraps broadly around the face.\n\nThe lineup totals 68 styles: 43 sunglasses and 25 optical frames. The campaign video released this week is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes.\n\nRelease: Oct 29 (Thu)\nAvailable at: Gentle Monster official online and offline stores\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069310/d4nmvry7soqh9r6ttzii.jpg\n제목: Gentle Monster×Margiela|4th Collab Out Oct 29\n부제: 43 Sunglasses · 25 Optical Frames · Theme: Deconstruction\n출처: @gentlemonster\n",
-      "caption": "The fourth collaboration collection from Gentle Monster (@gentlemonster) and Maison Margiela arrives on Oct 29.\n\nThis collection's theme is \"Deconstruction.\" It pairs designs that join frames and lenses in irregular forms, as if paused midway between making and unmaking, with oversized eyewear that wraps broadly around the face.\n\nThe lineup totals 68 styles: 43 sunglasses and 25 optical frames. The campaign video released this week is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes.\n\nRelease: Oct 29 (Thu)\nAvailable at: Gentle Monster official online and offline stores\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear",
+      "form": "[카테고리]\n패션\n\n[캡션]\nThe fourth collaboration collection from Gentle Monster (@gentlemonster) and Maison Margiela arrives on the 29th.\n\nThe theme this time is Deconstruction. Frames and lenses are joined in irregular forms, as if paused midway between making and unmaking, alongside oversized eyewear that wraps broadly around the face.\n\nThe lineup totals 68 pieces: 43 sunglasses and 25 optical frames. The campaign video released this week is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes.\n\nRelease: Thu, Oct 29\nAvailable at: Gentle Monster official online and offline stores\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069310/d4nmvry7soqh9r6ttzii.jpg\n제목: Gentle Monster × Margiela|Collab No. 4 Out Oct 29\n부제: 43 Sunglasses · 25 Optical Frames · Theme: Deconstruction\n출처: @gentlemonster\n",
+      "caption": "The fourth collaboration collection from Gentle Monster (@gentlemonster) and Maison Margiela arrives on the 29th.\n\nThe theme this time is Deconstruction. Frames and lenses are joined in irregular forms, as if paused midway between making and unmaking, alongside oversized eyewear that wraps broadly around the face.\n\nThe lineup totals 68 pieces: 43 sunglasses and 25 optical frames. The campaign video released this week is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes.\n\nRelease: Thu, Oct 29\nAvailable at: Gentle Monster official online and offline stores\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069523/tbgl2htgbvvdyisf1h6p.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069522/kbawmxmrl8mwm7xbgpds.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136326/vpbebwpn8k3nrbadmdrf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136326/byep2v4uprj5nyqxmvxb.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069523/tbgl2htgbvvdyisf1h6p.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136326/vpbebwpn8k3nrbadmdrf.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T11:52+09:00"
+       "at": "2026-10-28T06:25+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: arrives Oct 29\n아티스트: Margiela 4th collab\n피처링:\n후킹: *Gentle Monster* ×\n출처: GENTLE MONSTER\n자막: 자동",
-      "caption": "This is the campaign video Gentle Monster (@gentlemonster) and Maison Margiela released ahead of their fourth collaboration collection.\n\nIt is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes. The collection's theme is \"Deconstruction,\" with designs that join frames and lenses in irregular forms and oversized eyewear.\n\nThe lineup totals 68 styles: 43 sunglasses and 25 optical frames.\n\nRelease: Oct 29 (Thu)\nAvailable at: Gentle Monster official online and offline stores\nVideo: GENTLE MONSTER official YouTube\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793133235/sene_studio/jdjbhdggrh7d5r0r6juf.mp4",
-       "at": "2026-10-28T05:33+09:00",
-       "file": "Margiela_4th_collab_arrives_Oct_29_PaeSyeon_no_lyrics.mp4",
-       "sig": "4888202dcd",
-       "v": "d7662f69"
-      }
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: — Oct 29\n아티스트: Margiela Vol. 4\n피처링:\n후킹: *Gentle Monster* ×\n출처: GENTLE MONSTER\n자막: 자동",
+      "caption": "This is the campaign video Gentle Monster (@gentlemonster) and Maison Margiela released ahead of their fourth collaboration collection.\n\nIt is a short film made with artist Alex Prager, following one person's journey through the strange moments behind familiar everyday scenes. The collection's theme is Deconstruction, with designs that join frames and lenses in irregular forms, alongside oversized eyewear.\n\nThe lineup totals 68 pieces: 43 sunglasses and 25 optical frames.\n\nRelease: Thu, Oct 29\nAvailable at: Gentle Monster official online and offline stores\nVideo: GENTLE MONSTER official YouTube\n#SENE #GentleMonster #MaisonMargiela #AlexPrager #Eyewear"
      },
      "published": {
       "permalink": "https://www.instagram.com/p/De_CfhFGZWE/",
@@ -1899,30 +1889,23 @@
     },
     "ja": {
      "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nジェントルモンスター（@gentlemonster）とメゾン マルジェラによる4度目のコラボレーションコレクションが、29日に発売されます。\n\n今回のテーマは「脱構築（Deconstruction）」です。制作と解体の途中で止まったかのようにフレームとレンズを不定形に組み合わせたデザインと、顔を大きく包み込むオーバーサイズのアイウェアがそろいます。\n\n構成はサングラス43型と眼鏡25型、計68型です。今週公開されたキャンペーン映像はアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常風景の裏にある不思議な瞬間を、ひとりの旅路を通して追いかけます。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n#SENE #ジェントルモンスター #メゾンマルジェラ #アレックスプラガー #アイウェア\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069310/d4nmvry7soqh9r6ttzii.jpg\n제목: ジェントルモンスター×マルジェラ|第4弾コラボ 29日発売\n부제: サングラス43型・眼鏡25型・テーマは脱構築\n출처: @gentlemonster\n",
-      "caption": "ジェントルモンスター（@gentlemonster）とメゾン マルジェラによる4度目のコラボレーションコレクションが、29日に発売されます。\n\n今回のテーマは「脱構築（Deconstruction）」です。制作と解体の途中で止まったかのようにフレームとレンズを不定形に組み合わせたデザインと、顔を大きく包み込むオーバーサイズのアイウェアがそろいます。\n\n構成はサングラス43型と眼鏡25型、計68型です。今週公開されたキャンペーン映像はアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常風景の裏にある不思議な瞬間を、ひとりの旅路を通して追いかけます。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n#SENE #ジェントルモンスター #メゾンマルジェラ #アレックスプラガー #アイウェア",
+      "form": "[카테고리]\n패션\n\n[캡션]\nジェントルモンスター（@gentlemonster）とメゾン マルジェラによる4度目のコラボレーションコレクションが、29日に発売されます。\n\n今回のテーマは「脱構築主義（Deconstruction）」です。制作と解体の途中で止まったかのように、フレームとレンズを不定形に組み合わせたデザインと、顔を大きく包み込むオーバーサイズのアイウェアがそろいます。\n\nラインナップはサングラス43型とメガネ25型、計68型です。今週公開されたキャンペーン映像はアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常の風景の裏にある不思議な瞬間を、ひとりの旅路としてたどります。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n#SENE #ジェントルモンスター #メゾンマルジェラ #アイウェア #韓国ファッション\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793069310/d4nmvry7soqh9r6ttzii.jpg\n제목: ジェントルモンスター×マルジェラ|第4弾コラボ 29日発売\n부제: サングラス43型・メガネ25型・テーマは脱構築主義\n출처: @gentlemonster\n",
+      "caption": "ジェントルモンスター（@gentlemonster）とメゾン マルジェラによる4度目のコラボレーションコレクションが、29日に発売されます。\n\n今回のテーマは「脱構築主義（Deconstruction）」です。制作と解体の途中で止まったかのように、フレームとレンズを不定形に組み合わせたデザインと、顔を大きく包み込むオーバーサイズのアイウェアがそろいます。\n\nラインナップはサングラス43型とメガネ25型、計68型です。今週公開されたキャンペーン映像はアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常の風景の裏にある不思議な瞬間を、ひとりの旅路としてたどります。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n#SENE #ジェントルモンスター #メゾンマルジェラ #アイウェア #韓国ファッション",
       "preview": {
        "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069526/oie3qufirifcs9anpci7.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069525/m6qcpximixntxgvhref7.jpg"
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136329/a8f82j6kkllfn02khgfg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136329/uobin4q7qe136nhyd6bh.jpg"
        ],
        "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069526/oie3qufirifcs9anpci7.jpg"
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793136329/a8f82j6kkllfn02khgfg.jpg"
        },
        "cvr": 2,
-       "at": "2026-10-27T11:52+09:00"
+       "at": "2026-10-28T06:25+09:00"
       }
      },
      "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: 29日に発売です\n아티스트: マルジェラ第4弾が\n피처링:\n후킹: *ジェントルモンスター*×\n출처: GENTLE MONSTER\n자막: 자동",
-      "caption": "ジェントルモンスター（@gentlemonster）とメゾン マルジェラが、4度目のコラボレーションコレクションを前に公開したキャンペーン映像です。\n\nアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常風景の裏にある不思議な瞬間を、ひとりの旅路を通して追いかけます。コレクションのテーマは「脱構築（Deconstruction）」で、フレームとレンズを不定形に組み合わせたデザインとオーバーサイズのアイウェアがそろいます。\n\nサングラス43型と眼鏡25型、計68型です。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n映像：GENTLE MONSTER公式YouTube\n#SENE #ジェントルモンスター #メゾンマルジェラ #アレックスプラガー #アイウェア",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793133450/sene_studio/kl6lqg5g0erlhfjgx2cr.mp4",
-       "at": "2026-10-28T05:37+09:00",
-       "file": "marujieraDi4Danga_29RiniFaMaidesu_PaeSyeon_no_lyrics.mp4",
-       "sig": "f03f8d3dd6",
-       "v": "7f61184c"
-      }
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=CSvoagEgP2A\n구간: 0:12-0:40\n곡: 第4弾は29日\n아티스트: マルジェラ\n피처링:\n후킹: *ジェントルモンスター*×\n출처: GENTLE MONSTER\n자막: 자동",
+      "caption": "ジェントルモンスター（@gentlemonster）とメゾン マルジェラが、4度目のコラボレーションコレクションを前に公開したキャンペーン映像です。\n\nアーティストのアレックス・プラガー（Alex Prager）と制作したショートフィルムで、見慣れた日常の風景の裏にある不思議な瞬間を、ひとりの旅路としてたどります。コレクションのテーマは「脱構築主義（Deconstruction）」で、フレームとレンズを不定形に組み合わせたデザインとオーバーサイズのアイウェアが登場します。\n\nサングラス43型とメガネ25型、計68型です。\n\n発売：10月29日（木）\n販売：ジェントルモンスター公式オンライン・オフラインストア\n映像：GENTLE MONSTER公式YouTube\n#SENE #ジェントルモンスター #メゾンマルジェラ #アイウェア #韓国ファッション"
      },
      "published": {
       "permalink": "https://www.instagram.com/p/De_ChzImRrv/",
@@ -4780,7 +4763,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T06:23+09:00"
+  "at": "2026-10-28T06:25+09:00"
  },
  "slots": {
   "basis": 0,
