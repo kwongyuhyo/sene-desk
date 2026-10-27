@@ -3215,11 +3215,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Neo27Kxa8RM\n구간: 13:35-14:09\n곡: I made a *film*\n아티스트: and for its title,\n피처링:\n후킹: my album, Like Water\n출처: Source: Jang Ji-su\n자막: 자동",
       "caption": "The film Swings made himself shares its title with his album: 'Like Water.'\n\nIt tells the story of a fairly successful rapper who starts over from the bottom as a rookie actor, and the conflicts he faces along the way. Appearing on the YouTube channel 'Jang Ji-su' earlier this month, Swings said he took on the story concept, about 30% of the script, casting, investment and the lead role himself.\n\nAfter making his acting debut in 'Tazza: The Song of Beelzebub,' this time he is the one making the film. At the time of the interview, the work was about 80% done, and he expected a release around November or December.\n\nRelease: TBA (Swings expects Nov – Dec)\nVideo: YouTube 'Jang Ji-su' — 'Guest Seat: Swings, the Hottest Actor Right Now'\n#SENE #Swings #LikeWater #KoreanFilm #IndieFilm",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T05:26+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793133991/sene_studio/yhkhjdwbpbed0ljeskzb.mp4",
+       "at": "2026-10-28T05:46+09:00",
+       "file": "and_for_its_title_I_made_a_film_KeolCheo_no_lyrics.mp4",
        "sig": "7af2e3f2ea",
-       "job": 83
+       "v": "aa3a7bc0"
       }
      }
     },
@@ -4792,7 +4793,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T05:43+09:00"
+  "at": "2026-10-28T05:46+09:00"
  },
  "slots": {
   "basis": 0,
