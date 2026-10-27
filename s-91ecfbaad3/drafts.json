@@ -4503,12 +4503,64 @@
      "v": {
       "A": "6fc79be8",
       "B": "61f8b7a8",
-      "C": "1d1a2533"
+      "C": "1d1a2533",
+      "E": "03243c7d",
+      "J": "9ce4175f"
      }
     }
    },
    "corner_name": "이슈",
-   "i18n_queued": "2026-10-28T03:01+09:00"
+   "i18n_queued": "2026-10-28T03:01+09:00",
+   "i18n": {
+    "at": "2026-10-28T03:02+09:00",
+    "confirm": [
+     "'2m 미만 목줄'은 원문 그대로 옮겼습니다 (영어 'leash shorter than 2 m', 일본어「2m未満のリード」). 법 조문이 묶어 두는 줄을 말하는지 산책용 목줄을 말하는지 확인하면 tether / leash 중 맞는 말로 고칠 수 있습니다.",
+     "기관 이름은 흔히 쓰는 영어·일본어 표기로 적었습니다 (Ministry of Agriculture, Food and Rural Affairs · 農林畜産食品部 / Korea Law Information Center · 国家法令情報センター). 이번에 웹 검색으로 따로 확인하지는 않았습니다.",
+     "'과태료'는 영어 'administrative fine', 일본어「過料」로 옮겼습니다."
+    ],
+    "review": {
+     "at": "2026-10-28T03:02+09:00",
+     "fixes": [
+      "일본어 · 캡션 첫 문장 · 裁判所が…動物を飼うことを禁じられるようになります → 裁判所が…動物の飼育を禁止できるようになります — 주어 '裁判所が'와 수동·가능형 '禁じられる'가 엉켜 법원이 금지당하는 것으로도 읽힘",
+      "일본어 · 캡션 셋째 단락 · 休み場所 → 休息場所 — 일본어로 어색한 연어"
+     ],
+     "doubt": []
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nCourts in Korea will be able to bar people who abuse animals from keeping animals for up to five years.\n\nThe revised Animal Protection Act was promulgated on Oct 27. The ban applies to serious abuse crimes that kill or injure animals. People punished for abuse will also be barred from adopting animals from local governments for a set period.\n\nSome changes also reach the daily lives of people who live with animals. Owners who break care and management duties, such as using a leash shorter than 2 m or giving no shelter from heat and cold, can face an administrative fine of up to KRW 1,000,000. Leaving an animal at a pet hotel or animal hospital and never picking it up now counts as abandonment.\n\nPromulgated: Tue, Oct 27, 2026\nEffective: Thu, Oct 28, 2027\nInfo: Ministry of Agriculture, Food and Rural Affairs · Korea Law Information Center\n#SENE #AnimalWelfare #AnimalProtection #KoreaNews #PetHotel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793124077/fvedfyt5lltobn17w2tg.jpg\n제목: Animal Abusers Face|Up to 5-Year Pet Ban\n부제: Revised Animal Protection Act takes effect Oct 28, 2027\n출처: Pexels · Ekaterina Lukyanenko\n",
+      "caption": "Courts in Korea will be able to bar people who abuse animals from keeping animals for up to five years.\n\nThe revised Animal Protection Act was promulgated on Oct 27. The ban applies to serious abuse crimes that kill or injure animals. People punished for abuse will also be barred from adopting animals from local governments for a set period.\n\nSome changes also reach the daily lives of people who live with animals. Owners who break care and management duties, such as using a leash shorter than 2 m or giving no shelter from heat and cold, can face an administrative fine of up to KRW 1,000,000. Leaving an animal at a pet hotel or animal hospital and never picking it up now counts as abandonment.\n\nPromulgated: Tue, Oct 27, 2026\nEffective: Thu, Oct 28, 2027\nInfo: Ministry of Agriculture, Food and Rural Affairs · Korea Law Information Center\n#SENE #AnimalWelfare #AnimalProtection #KoreaNews #PetHotel",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124158/fgf0aggtgaxrzne1m6c5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124158/ihnzd2nmlwz8wivkvtkg.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124158/fgf0aggtgaxrzne1m6c5.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T03:02+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\n動物を虐待した人に対し、裁判所が最長5年間、動物の飼育を禁止できるようになります。\n\n改正動物保護法が10月27日に公布されました。対象は動物を死なせたり傷つけたりする重大な虐待犯罪です。虐待犯罪で処罰された人は、一定期間、地方自治体から動物の譲渡を受けることもできません。\n\n動物と暮らす人の日常に関わる内容もあります。2m未満のリードを使う、暑さ・寒さをしのげる休息場所を与えないなど、飼育・管理の義務に違反すると、100万ウォン以下の過料が科されることがあります。ペットホテルや動物病院に預けたまま引き取りに来ないことも、今後は遺棄とみなされます。\n\n公布：2026年10月27日（火）\n施行：2027年10月28日（木）\n案内：農林畜産食品部・国家法令情報センター\n#SENE #動物保護法 #韓国ニュース #ペットのいる暮らし #ペットホテル\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793124077/fvedfyt5lltobn17w2tg.jpg\n제목: 動物虐待者に|最長5年の飼育禁止命令\n부제: 改正動物保護法、2027年10月28日施行\n출처: Pexels · Ekaterina Lukyanenko\n",
+      "caption": "動物を虐待した人に対し、裁判所が最長5年間、動物の飼育を禁止できるようになります。\n\n改正動物保護法が10月27日に公布されました。対象は動物を死なせたり傷つけたりする重大な虐待犯罪です。虐待犯罪で処罰された人は、一定期間、地方自治体から動物の譲渡を受けることもできません。\n\n動物と暮らす人の日常に関わる内容もあります。2m未満のリードを使う、暑さ・寒さをしのげる休息場所を与えないなど、飼育・管理の義務に違反すると、100万ウォン以下の過料が科されることがあります。ペットホテルや動物病院に預けたまま引き取りに来ないことも、今後は遺棄とみなされます。\n\n公布：2026年10月27日（火）\n施行：2027年10月28日（木）\n案内：農林畜産食品部・国家法令情報センター\n#SENE #動物保護法 #韓国ニュース #ペットのいる暮らし #ペットホテル",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124162/fuad1qb6jhcecq21omb5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124162/ytwo1pqhzbf08wgyusnh.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124162/fuad1qb6jhcecq21omb5.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T03:02+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -4639,7 +4691,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T03:01+09:00"
+  "at": "2026-10-28T03:02+09:00"
  },
  "slots": {
   "basis": 0,
