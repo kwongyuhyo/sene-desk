@@ -588,7 +588,8 @@
         "text": "marked violated medal지도"
        }
       ]
-     }
+     },
+     "v": "d81a67b8"
     }
    },
    "i18n_queued": "2026-10-27T05:56+09:00",
@@ -636,7 +637,14 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *La La Land* returns\n아티스트: Yes, you are.\n피처링:\n후킹: I'm not good enough\n출처: Pancinema\n자막: 자동",
-      "caption": "'La La Land' returns to Korean theaters on Nov 11 to mark its 10th anniversary.\n\nThis scene is from the 10th-anniversary trailer released by Pancinema (@pancinema). \"Maybe I'm not good enough,\" one says, and the answer comes back: \"Yes, you are.\" It is the story of two people torn between dreams and love: aspiring actress Mia and jazz pianist Sebastian.\n\nThe film drew 3.8 million moviegoers in Korea in 2016 and has returned now and then for special screenings. This time it is an official re-release.\n\nRelease: Nov 11 (Wed), theaters nationwide in Korea\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\nVideo: Pancinema, 'La La Land' 10th-anniversary trailer\n#SENE #LaLaLand #LaLaLandRerelease #MovieRerelease #Pancinema"
+      "caption": "'La La Land' returns to Korean theaters on Nov 11 to mark its 10th anniversary.\n\nThis scene is from the 10th-anniversary trailer released by Pancinema (@pancinema). \"Maybe I'm not good enough,\" one says, and the answer comes back: \"Yes, you are.\" It is the story of two people torn between dreams and love: aspiring actress Mia and jazz pianist Sebastian.\n\nThe film drew 3.8 million moviegoers in Korea in 2016 and has returned now and then for special screenings. This time it is an official re-release.\n\nRelease: Nov 11 (Wed), theaters nationwide in Korea\nDirector: Damien Chazelle\nCast: Emma Stone, Ryan Gosling\nVideo: Pancinema, 'La La Land' 10th-anniversary trailer\n#SENE #LaLaLand #LaLaLandRerelease #MovieRerelease #Pancinema",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793131732/sene_studio/lr6yqwn9ksm9vjykfcnj.mp4",
+       "at": "2026-10-28T05:08+09:00",
+       "file": "Yes_you_are_La_La_Land_returns_KeolCheo_no_lyrics.mp4",
+       "sig": "aa60ef8029",
+       "v": "bd22f7fa"
+      }
      }
     },
     "ja": {
@@ -657,7 +665,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fYRCixyKTVI\n구간: 0:04-0:30\n곡: *ラ・ラ・ランド*再上映\n아티스트: ううん、十分だよ\n피처링:\n후킹: 私は力不足かも\n출처: パンシネマ\n자막: 자동",
-      "caption": "『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\nパンシネマ（판씨네마・@pancinema）が公開した10周年予告編のワンシーンです。「Maybe I'm not good enough」という言葉に、「Yes, you are」という答えが返ってきます。夢と恋のあいだで揺れる二人、女優志望のミアとジャズピアニストのセバスチャンの物語です。\n\n2016年に韓国で380万人が観たこの映画は、これまで特別上映でときどき戻ってきましたが、今回は正式な再上映です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n映像：パンシネマ『ラ・ラ・ランド』10周年予告編\n#SENE #ララランド #リバイバル上映 #韓国映画館 #韓国旅行"
+      "caption": "『ラ・ラ・ランド』が公開10周年を迎え、11月11日に韓国の劇場で再び上映されます。\n\nパンシネマ（판씨네마・@pancinema）が公開した10周年予告編のワンシーンです。「Maybe I'm not good enough」という言葉に、「Yes, you are」という答えが返ってきます。夢と恋のあいだで揺れる二人、女優志望のミアとジャズピアニストのセバスチャンの物語です。\n\n2016年に韓国で380万人が観たこの映画は、これまで特別上映でときどき戻ってきましたが、今回は正式な再上映です。\n\n公開：11月11日（水）韓国全国の劇場\n監督：デイミアン・チャゼル\n出演：エマ・ストーン、ライアン・ゴズリング\n映像：パンシネマ『ラ・ラ・ランド』10周年予告編\n#SENE #ララランド #リバイバル上映 #韓国映画館 #韓国旅行",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-28T05:07+09:00",
+       "sig": "92f43816cb",
+       "job": 71
+      }
      }
     }
    }
@@ -917,7 +931,8 @@
         "text": "사투리를 잘 못 알아들어서 죄송해요. 그러하네"
        }
       ]
-     }
+     },
+     "v": "54912293"
     }
    },
    "i18n_queued": "2026-10-27T06:46+09:00",
@@ -1818,7 +1833,8 @@
         "text": "여전히 더운"
        }
       ]
-     }
+     },
+     "v": "e5e5b995"
     }
    },
    "i18n_queued": "2026-10-27T11:48+09:00",
@@ -2851,7 +2867,8 @@
         "text": "잘 자야지 쑥쑥 자라지"
        }
       ]
-     }
+     },
+     "v": "8b058cc9"
     }
    },
    "i18n_queued": "2026-10-27T14:04+09:00",
@@ -3118,7 +3135,8 @@
         "text": "11월, 12월 되지 않을까?"
        }
       ]
-     }
+     },
+     "v": "051791e7"
     }
    },
    "i18n_queued": "2026-10-27T14:56+09:00",
@@ -3807,7 +3825,8 @@
         "text": "끝까지 같이 갑시다"
        }
       ]
-     }
+     },
+     "v": "6801bd03"
     }
    },
    "i18n_queued": "2026-10-27T17:48+09:00",
@@ -4317,7 +4336,8 @@
         "text": "너 뭐야?"
        }
       ]
-     }
+     },
+     "v": "b275b0ea"
     }
    },
    "corner_name": "그 말",
@@ -4691,7 +4711,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T03:02+09:00"
+  "at": "2026-10-28T05:08+09:00"
  },
  "slots": {
   "basis": 0,

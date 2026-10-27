@@ -601,6 +601,9 @@ details.fsum{display:block} details.fsum summary{display:list-item; margin-botto
 .chn button{border:1px solid var(--line); background:none; color:var(--text); border-radius:8px; padding:7px 12px; font-size:13px; margin-right:6px}
 .pubsheet .pv{display:flex; gap:6px; overflow-x:auto; padding:0 16px}
 .pubsheet .pv img{width:120px; aspect-ratio:4/5; object-fit:cover; border-radius:6px; flex:none}
+.pubsheet .pv video{width:150px; aspect-ratio:9/16; object-fit:cover; border-radius:8px; flex:none; background:#000}
+.ig .rk .lgst{font-size:11.5px}
+.ig .rk .lgst.ok{color:var(--ok, #2f9e6a); border-color:rgba(47,158,106,.45)}
 .pubsheet .cp{margin:10px 16px; max-height:30vh; overflow:auto; white-space:pre-wrap; font-size:13px; color:var(--muted);
   border:1px solid var(--line); border-radius:8px; padding:8px 10px}
 .pubsheet .warn{margin:0 16px 6px; font-size:12.5px; color:var(--amber)}
@@ -3275,6 +3278,44 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     if (vm) vm.hidden = false;
     toast('소리는 영상을 눌러 켜세요 — 구간만 재생합니다');
   }
+  function reelLangMarks(it) {                 // 영어·일본어판 릴스 — 번역·렌더·발행 상태 한눈에
+    return ['en', 'ja'].map(function (lg) {
+      var x = (((it.i18n || {})[lg] || {}).shorts) || {}, nm = lg.toUpperCase();
+      if ((x.published || {}).permalink) return '<a class="yt lgst ok" href="' + escU(x.published.permalink) + '" target="_blank" rel="noopener">' + nm + ' 올림 ↗</a>';
+      if ((x.rendered || {}).url) return '<a class="yt lgst ok" href="' + escU(x.rendered.url) + '" target="_blank" rel="noopener">' + nm + ' 완성 ▶</a>';
+      if ((x.render || {}).status) return '<span class="lgst">' + nm + ' 만드는 중</span>';
+      if (x.form) return '<span class="lgst">' + nm + ' 렌더 대기</span>';
+      return '';
+    }).join('');
+  }
+  function openReelPublish(it) {
+    var sh = it.shorts || {}, rd = sh.rendered || {}, cap = captionOf(it, 'shorts'), tok = rd.v || '', ch = chGet();
+    if (!rd.url) { toast('완성 영상이 아직 없습니다 — 렌더가 끝난 뒤에'); return; }
+    if (!tok) { toast('앱을 새로 고친 뒤 다시 눌러 주세요 (영상 지문이 없습니다)'); return; }
+    var langs = ['en', 'ja'].map(function (lg) {
+      var x = (((it.i18n || {})[lg] || {}).shorts) || {};
+      return (x.published || {}).permalink ? '' : (x.rendered || {}).url ? '@sene_mag_' + (lg === 'en' ? 'global' : 'japan') + ' 바로'
+        : x.form ? '@sene_mag_' + (lg === 'en' ? 'global' : 'japan') + ' 렌더가 끝나는 대로' : '@sene_mag_' + (lg === 'en' ? 'global' : 'japan') + ' 번역·렌더 뒤';
+    }).filter(Boolean);
+    var sent = actSent('rl-' + it.key);
+    var shh = document.createElement('div'); shh.className = 'sheet pubsheet';
+    shh.innerHTML = '<div class="pn"><div class="hd"></div>' +
+      '<div style="padding:0 20px 8px;font-weight:800">이 영상을 릴스로 올릴까요? · @sene_mag</div>' +
+      (langs.length ? '<div style="padding:0 20px 8px;font-size:12.5px;color:var(--dim)">🌐 영어·일본어판도 이어서 — ' + esc(langs.join(' · ')) + '</div>' : '') +
+      (sent ? '<div class="warn">이미 릴스 발행 요청을 보냈습니다 — 텔레그램 결과를 먼저 확인해 주세요 (맥이 두 번은 안 올립니다)</div>' : '') +
+      '<div class="pv"><video src="' + esc(rd.url) + '" muted playsinline controls preload="metadata"></video></div>' +
+      '<div class="cp">' + esc(cap || '') + '</div>' +
+      '<button data-act="go"><b>📤 발행 확정</b><small>' + (ch.url && ch.key ? '맥이 바로 올립니다 (인스타 인코딩 1~3분)' :
+        '앱 열쇠로 서명해 보냅니다 — 맥이 1~5분 안에 받아 올립니다') + '</small></button>' +
+      '<button data-act="no">취소</button></div>';
+    shh.addEventListener('click', function (e) {
+      if (e.target === shh) { shh.remove(); return; }
+      var b = e.target.closest('[data-act]'); if (!b) return;
+      shh.remove();
+      if (b.getAttribute('data-act') === 'go') plotAction('rl-' + it.key + '-K', '릴스 발행 요청', true, tok);
+    });
+    document.body.appendChild(shh);
+  }
   function reelPost(it, i) {
     var sh = it.shorts, vd = sh.video || {}, f = sh.form;
     var cat = sfField(f, '카테고리'), hook = sfField(f, '후킹'), art = sfField(f, '아티스트'),
@@ -3293,6 +3334,10 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     var marks = '<span>' + esc(span ? '구간 ' + span : '구간 미정') + '</span>' +
       (rd.url ? '<a class="yt" href="' + escU(rd.url) + '" target="_blank" rel="noopener">완성 영상 ▶</a>' :
         rq.status ? '<span>🎬 맥이 만드는 중</span>' : '') +
+      // 10/28 규효 "숏폼 앱에서 바로 업로드 — 세 계정 다" — 릴스 발행 (collectors/app_actions rl · reel_pub)
+      ((sh.published || {}).permalink ? '<a class="yt" href="' + escU(sh.published.permalink) + '" target="_blank" rel="noopener">올린 릴스 ↗</a>' :
+        rd.url ? '<button data-rpub="' + i + '">📤 릴스 올리기</button>' : '') +
+      reelLangMarks(it) +
       (ytId(vd.url) ? '<button data-vfit hidden>전체 보기</button>' : '') +
       (vlink ? '<a class="yt" href="' + escU(vlink) + '" target="_blank" rel="noopener">원본 ↗</a>' : '') +
       (head.length ? '' : '<span class="bad">제목이 비었습니다</span>') +
@@ -3655,7 +3700,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     var ch = chGet();
     // 10/14 규효 "앱에서 누르면 텔레그램이 열린다" — 맡기기와 같은 표(sene_evals)에 kind='act' 로 바로 (collectors/orders.pull_acts)
     if (sbOn() && !ch.url) {
-      var pub = /^(pb|sc|sx|yu)-/.test(code);
+      var pub = /^(pb|sc|sx|yu|rl)-/.test(code);
       if (pub && !ch.key) {
         var k = window.prompt('발행은 앱 열쇠가 필요합니다 — 맥 .env 의 SENE_APP_KEY 와 같은 값을 한 번만 넣어 주세요');
         if (!k || !k.trim()) { toast('열쇠가 없어 발행을 보내지 않았습니다'); return; }
@@ -4121,6 +4166,8 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     }
     var mc = e.target.closest('[data-morecap]');
     if (mc) { var cp = mc.previousElementSibling; if (cp) cp.classList.remove('cl'); mc.remove(); return; }
+    var rpb = e.target.closest('[data-rpub]');
+    if (rpb) { var rit = (DR && DR.items || [])[Number(rpb.getAttribute('data-rpub'))]; if (rit && rit.key) openReelPublish(rit); return; }
     var htb = e.target.closest('[data-ht]');
     if (htb) {                                       // 10/27 — 제목만 고쳐 다시 렌더 (collectors/app_actions ht)
       var hit = (DR && DR.items || [])[Number(htb.getAttribute('data-ht'))], hf = hit && (hit.shorts || {}).form;
@@ -4217,9 +4264,9 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.28 03:02';
+    a.title = '판 10.28 05:08';
     var ver = document.createElement('span');
-    ver.textContent = '10.28 03:02';
+    ver.textContent = '10.28 05:08';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
