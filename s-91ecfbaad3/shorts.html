@@ -4385,7 +4385,7 @@ function tgTheme() {
 /* ── 시작 ─────────────────────────────────────────────── */
 function boot() {
   // 헤드라인 폭은 캔버스로 잰다 — 글꼴(f-nb)이 오기 전에 잰 값은 틀리므로 온 뒤 한 번 더 그린다
-  try { document.fonts.load('900 92px PlotNoto').then(() => { try { refresh(); } catch (_) {} }); } catch (_) {}
+  try { Promise.all([document.fonts.load('600 80px SenePS', '가A'), document.fonts.load('500 46px SenePM', '가A')]).then(() => { try { refresh(); } catch (_) {} }); } catch (_) {}   // 10/27 A 글꼴
 
   if (IN_TG) {
     TG.ready(); TG.expand();
@@ -5297,9 +5297,9 @@ window.addEventListener('resize', () => { if ($('#ppSubList') && $('#ppSubList')
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.27 16:51';
+    a.title = '판 10.27 16:52';
     var ver = document.createElement('span');
-    ver.textContent = '10.27 16:51';
+    ver.textContent = '10.27 16:52';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
