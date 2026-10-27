@@ -4252,9 +4252,70 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793105478/feyk0xbocoosdknt0hnq.jpg",
      "key": "aDzxub0vNxQ@0.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-27T21:51+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793105674/sene_studio/ejatoasa6mrpfu21eb9m.mp4",
+     "at": "2026-10-27T21:54+09:00",
+     "file": "HagGyoE_GaSeYo_PeuLanCheSeuKa_11Wol_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793105675690-ca83fc72",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.52,
+        "text": "프란체스카 아가씨, 학교에 가세요. 공짜니까"
+       },
+       {
+        "start": 2.52,
+        "end": 5.3,
+        "text": "한 끼 정도는 해결할 수 있으실 겁니다"
+       },
+       {
+        "start": 7.52,
+        "end": 10.57,
+        "text": "자, 오늘은 새로운 전학생이 있어요"
+       },
+       {
+        "start": 10.57,
+        "end": 14.84,
+        "text": "이름이 피나영이라고 해요. 어! 어!"
+       },
+       {
+        "start": 15.36,
+        "end": 16.41,
+        "text": "미○ 깜짝이야!"
+       },
+       {
+        "start": 16.41,
+        "end": 17.98,
+        "text": "부추티가 좀 챙기라고"
+       },
+       {
+        "start": 17.98,
+        "end": 20.51,
+        "text": "네? 너 대학 갈 때 리더십 전형 거기도"
+       },
+       {
+        "start": 20.51,
+        "end": 22.46,
+        "text": "엄청 도움될 거 아니야. 반지인가?"
+       },
+       {
+        "start": 22.46,
+        "end": 25.68,
+        "text": "오, 예, 예, 예. 야, 야"
+       },
+       {
+        "start": 25.68,
+        "end": 28.58,
+        "text": "쉿, 조용해야 돼"
+       },
+       {
+        "start": 29.3,
+        "end": 29.9,
+        "text": "너 뭐야?"
+       }
+      ]
+     }
     }
    },
    "corner_name": "그 말"
@@ -4388,7 +4449,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T21:52+09:00"
+  "at": "2026-10-27T21:54+09:00"
  },
  "slots": {
   "basis": 0,
