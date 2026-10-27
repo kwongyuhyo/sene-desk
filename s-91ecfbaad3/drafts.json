@@ -1431,11 +1431,72 @@
      "v": {
       "A": "5b0da8ca",
       "B": "d7d963eb",
-      "C": "dae37bd9"
+      "C": "dae37bd9",
+      "E": "f01511b4",
+      "J": "502082cc"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-27T13:54+09:00",
+    "confirm": [
+     "Red carpet MC news: my searches didn't find an English or Japanese report naming Lee Dae-hwi and Choi Mina Sue as the 2026 MAMA red carpet MCs. Check the official @mnet_mama post before publishing.",
+     "Show title: no official English or Japanese title for tvN's 킬잇: 스타일 크리에이터 대전쟁 turned up. I used a romanization plus a literal translation ('Kill It: Style Creator War' / 『キルイット（킬잇）：スタイルクリエイター大戦争』). Swap in the official title if tvN or CJ ENM has one.",
+     "Spelling of names: I used Lee Dae-hwi / イ・デフィ and Choi Mina Sue / チェ・ミナス, the usual English and Japanese spellings. Check them against the official MAMA announcement.",
+     "Red carpet times: I assumed the times are Japan time (Japan and Korea share the same time zone).",
+     "영어 'Kill It: Style Creator Contest' 영문 제목 — 검색 요약에만 나왔고 CJ ENM·tvN 공식 페이지 원문은 직접 보지 못함. 올리기 전 확인",
+     "일본어 『キルイット（킬잇）：スタイルクリエイター大戦争』 — 일본 공식 제목이 있는지 확인 못 함 (지금은 카타카나에 원어 괄호를 단 표기)",
+     "일본어 『脱出おひとり島5』 — Netflix 일본의 시즌 5 공식 표기(『脱出おひとり島 シーズン5』일 수도 있음) 확인 필요"
+    ],
+    "review": {
+     "at": "2026-10-27T13:54+09:00",
+     "fixes": [
+      "영어 · 캡션 · 'Kill It: Style Creator War' → 'Kill It: Style Creator Contest' — 대전쟁 직역이었고, 검색 요약에 CJ ENM 공식 영문 제목이 'Contest'로 나온다고 함",
+      "일본어 · 캡션 실용 정보 · 午後12時30分 → 昼12時30分 — 일본어에서 '午後12時'는 어색하고 헷갈림 (원문 '낮 12시 30분')",
+      "일본어 · 해시태그 · #イ・デフィ #チェ・ミナス → #イデフィ #チェミナス — 가운뎃점 '・'에서 인스타 해시태그가 끊김"
+     ],
+     "doubt": [
+      "영어 'Kill It: Style Creator Contest' 영문 제목 — 검색 요약에만 나왔고 CJ ENM·tvN 공식 페이지 원문은 직접 보지 못함. 올리기 전 확인",
+      "일본어 『キルイット（킬잇）：スタイルクリエイター大戦争』 — 일본 공식 제목이 있는지 확인 못 함 (지금은 카타카나에 원어 괄호를 단 표기)",
+      "일본어 『脱出おひとり島5』 — Netflix 일본의 시즌 5 공식 표기(『脱出おひとり島 シーズン5』일 수도 있음) 확인 필요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nLee Dae-hwi and Choi Mina Sue will host the red carpet at the 2026 MAMA AWARDS (@mnet_mama).\n\nIt is the first time either of them has hosted the ceremony's red carpet. Lee, who debuted with Wanna One in 2017, comes to MAMA as a solo artist for the first time. Choi became known through variety shows such as Netflix's 'Single's Inferno 5' and tvN's 'Kill It: Style Creator Contest'.\n\nThis year's ceremony takes place over two days in Osaka, Japan, and the red carpet will stream live on digital platforms on both days.\n\nDates: Nov 20 (Fri) – Nov 21 (Sat)\nLocation: Kyocera Dome Osaka, Japan\nRed Carpet: Nov 20, 3:30 p.m. · Nov 21, 12:30 p.m.\n\n#SENE #MAMA #2026MAMA #LeeDaehwi #ChoiMinaSue\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793058340/ifqkkpkptyf2atilaf1i.jpg\n제목: Lee Dae-hwi, Choi Mina Sue|to Host MAMA Red Carpet\n부제: Nov 20–21, Kyocera Dome Osaka\n출처: @mnet_mama\n",
+      "caption": "Lee Dae-hwi and Choi Mina Sue will host the red carpet at the 2026 MAMA AWARDS (@mnet_mama).\n\nIt is the first time either of them has hosted the ceremony's red carpet. Lee, who debuted with Wanna One in 2017, comes to MAMA as a solo artist for the first time. Choi became known through variety shows such as Netflix's 'Single's Inferno 5' and tvN's 'Kill It: Style Creator Contest'.\n\nThis year's ceremony takes place over two days in Osaka, Japan, and the red carpet will stream live on digital platforms on both days.\n\nDates: Nov 20 (Fri) – Nov 21 (Sat)\nLocation: Kyocera Dome Osaka, Japan\nRed Carpet: Nov 20, 3:30 p.m. · Nov 21, 12:30 p.m.\n\n#SENE #MAMA #2026MAMA #LeeDaehwi #ChoiMinaSue",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076868/gyhbsayidq3tsgzexvo0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076867/j1b1j6wegfmae4hr3ab1.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076868/gyhbsayidq3tsgzexvo0.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:54+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nイ・デフィとチェ・ミナスが「2026 MAMA AWARDS」(@mnet_mama) のレッドカーペット進行を務めます。\n\n二人ともこの授賞式のレッドカーペットMCは初めてです。2017年にWanna Oneとしてデビューしたイ・デフィはソロとして初めてMAMAに参加し、チェ・ミナスはNetflix『脱出おひとり島5』やtvN『キルイット（킬잇）：スタイルクリエイター大戦争』などのバラエティ番組で知られてきました。\n\n今年の授賞式は日本・大阪で2日間にわたって開かれ、レッドカーペットも両日ともデジタルプラットフォームで生中継されます。\n\n日程：11月20日（金）〜21日（土）\n場所：日本・京セラドーム大阪\nレッドカーペット：20日 午後3時30分・21日 昼12時30分\n\n#SENE #MAMA #2026MAMA #イデフィ #チェミナス\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793058340/ifqkkpkptyf2atilaf1i.jpg\n제목: イ・デフィ＆チェ・ミナス|MAMAレッドカーペットMC\n부제: 11月20〜21日 京セラドーム大阪\n출처: @mnet_mama\n",
+      "caption": "イ・デフィとチェ・ミナスが「2026 MAMA AWARDS」(@mnet_mama) のレッドカーペット進行を務めます。\n\n二人ともこの授賞式のレッドカーペットMCは初めてです。2017年にWanna Oneとしてデビューしたイ・デフィはソロとして初めてMAMAに参加し、チェ・ミナスはNetflix『脱出おひとり島5』やtvN『キルイット（킬잇）：スタイルクリエイター大戦争』などのバラエティ番組で知られてきました。\n\n今年の授賞式は日本・大阪で2日間にわたって開かれ、レッドカーペットも両日ともデジタルプラットフォームで生中継されます。\n\n日程：11月20日（金）〜21日（土）\n場所：日本・京セラドーム大阪\nレッドカーペット：20日 午後3時30分・21日 昼12時30分\n\n#SENE #MAMA #2026MAMA #イデフィ #チェミナス",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076871/gu6xr1fvvzqzifyo17ye.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076870/gxqhdmhua9t9jxfdwmpp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793076871/gu6xr1fvvzqzifyo17ye.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T13:54+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2325,7 +2386,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T13:53+09:00"
+  "at": "2026-10-27T13:54+09:00"
  },
  "slots": {
   "basis": 0,
