@@ -3937,11 +3937,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=VRbf-7pkui4\n구간: 0:29-1:08\n곡: *デビルズ・プラン*新章\n아티스트: 募集します\n피처링:\n후킹: ロマンのあるカモ\n출처: TEO 테오\n자막: 자동",
       "caption": "Netflix『デビルズ・プラン：デッド・アゲイン』が本日、メイン予告編を公開しました。\n\n今シーズンはルールから変わりました。ピースをすべて失ってもすぐには脱落せず、生き残りはゲームの結果だけで決まります。映像の中でソ・チュルグ（서출구）は「ロマンのあるカモ、募集します」と話し、最後まで一緒に進む仲間を探します。\n\nチャン・ドンミン、ホン・ジンホ、ハ・ソクジン、チョン・ヒョンギュ、ジョン・パク、ジェジェ、ステラ・ジャンら16人が出演し、チョン・ジョンヨン、チェ・ユニの両PDが演出を手がけました。\n\n配信：11月10日（火）Netflix・全14話、3週に分けて配信\n映像：TEO 테오 公式YouTube\n#SENE #デビルズプラン #デッドアゲイン #Netflix #韓国バラエティ",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T05:27+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793134619/sene_studio/fd1ehk9d7oaft1mbgrjk.mp4",
+       "at": "2026-10-28T05:57+09:00",
+       "file": "MuJishimasu_debiruzu-puranXinZha_KeolCheo_no_lyrics.mp4",
        "sig": "96b5da1b6b",
-       "job": 86
+       "v": "6faeac1f"
       }
      }
     }
@@ -4795,7 +4796,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T05:53+09:00"
+  "at": "2026-10-28T05:57+09:00"
  },
  "slots": {
   "basis": 0,
