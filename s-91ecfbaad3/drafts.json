@@ -4669,6 +4669,526 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-fea7ce9e",
+    "account": "@속보",
+    "url": "https://blog.naver.com/jurineeee/224456220512",
+    "image": null,
+    "head": "일본 콜라보 카페 '사쿠라와 토모요의 티파티'가 11/11~29 무신사 스페이스 서울숲에서, 11/4 팝가 예약",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-28T08:39+09:00",
+   "key": "af8cfcce",
+   "by": "claude",
+   "subjects": [
+    "카드캡터 체리"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "일본에서만 열렸던 〈카드캡터 체리〉 콜라보 카페가 서울숲으로 — 일본 한정 굿즈 15종, 11월 4일 예약 시작",
+    "why": "속보 감지 — 커뮤니티 반응 급증, 원작 연재 30주년, 예약 오픈 전이라 먼저 알려 줄 수 있음"
+   },
+   "added": "claude",
+   "added_at": "2026-10-28T08:39+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n일본에서 열렸던 〈카드캡터 체리〉 콜라보 카페가 서울숲으로 옵니다.\n\n'사쿠라와 토모요의 티파티'는 지난해 도쿄·오사카·나고야에서 열린 카페인데요, 그때 일본 현장과 일본 온라인에서만 팔던 콜라보 굿즈 15종을 이번엔 서울에서 살 수 있습니다. 올해는 원작 만화가 연재 30주년을 맞은 해이기도 합니다.\n\n음료는 캐릭터 이름을 붙인 6종으로, '사쿠라의 스트로베리 쇼트케이크 드링크'와 '샤오랑의 멜론 크림 소다' 같은 메뉴가 나옵니다. 전 좌석 사전예약제이고, 굿즈도 예약하고 방문한 사람만 살 수 있습니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일(수)부터 팝가(POPGA), 날짜·회차 선택\n\n#SENE #카드캡터체리 #카드캡터사쿠라 #서울숲 #콜라보카페 #서울숲팝업\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793144342/urbprreyf9bepe7xqahm.jpg\n제목: 카드캡터 체리 카페,|서울숲에 온다\n부제: 11월 11일~29일 · 무신사 스페이스 서울숲\n출처: 링크업파트너스\n",
+    "caption": "일본에서 열렸던 〈카드캡터 체리〉 콜라보 카페가 서울숲으로 옵니다.\n\n'사쿠라와 토모요의 티파티'는 지난해 도쿄·오사카·나고야에서 열린 카페인데요, 그때 일본 현장과 일본 온라인에서만 팔던 콜라보 굿즈 15종을 이번엔 서울에서 살 수 있습니다. 올해는 원작 만화가 연재 30주년을 맞은 해이기도 합니다.\n\n음료는 캐릭터 이름을 붙인 6종으로, '사쿠라의 스트로베리 쇼트케이크 드링크'와 '샤오랑의 멜론 크림 소다' 같은 메뉴가 나옵니다. 전 좌석 사전예약제이고, 굿즈도 예약하고 방문한 사람만 살 수 있습니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 무신사 스페이스 서울숲\n예약: 11월 4일(수)부터 팝가(POPGA), 날짜·회차 선택\n\n#SENE #카드캡터체리 #카드캡터사쿠라 #서울숲 #콜라보카페 #서울숲팝업",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144342/urbprreyf9bepe7xqahm.jpg",
+      "credit": "링크업파트너스",
+      "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura-768x1086.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144342/urbprreyf9bepe7xqahm.jpg",
+      "credit": "링크업파트너스",
+      "from": "https://www.venturesquare.net/wp-content/uploads/2026/10/sakura-768x1086.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "카드캡터 체리 카페,|서울숲에 온다",
+      "sub": "11월 11일~29일 · 무신사 스페이스 서울숲"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "일본 한정 체리 굿즈|서울에서 판다",
+      "sub": "'사쿠라와 토모요의 티파티' 11월 11일부터"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "카드캡터 체리 카페|11월 4일 예약 시작",
+      "sub": "전 좌석 사전예약 · 팝가"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "숏폼 비움 — 브랜드·주최 공식 유튜브 영상을 찾지 못함",
+     "표지 — 쓸 수 있는 공식 사진이 링크업파트너스 배포 포스터 한 장뿐이라, 포스터 아래쪽 문구('초대장이 곧 도착합니다·예약 오픈 11/4')가 제목 뒤에 비침. 공식 계정에 사진이 올라오면 바꿀 것",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "카드캡터 사쿠라, 서울숲서 일본 한정 굿즈 만난다…11월 11일 콜라보 카페 개장 (벤처스퀘어)",
+      "link": "https://www.venturesquare.net/1123060"
+     },
+     {
+      "title": "'카드캡터 사쿠라' 콜라보 카페, 서울숲서 개최…日 굿즈 15종 선봬 (싱글리스트)",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=776334"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144346/m3jymw4fbubh81tavrbh.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144346/iriq2i9encop1v1yaazq.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144349/qmm6f0z85cnzhmofhwlr.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144349/pffjy6umb0fslqwpka1q.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144346/m3jymw4fbubh81tavrbh.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-28T08:39+09:00",
+     "v": {
+      "A": "6e760877",
+      "B": "21db55a3",
+      "C": "c96f4aaf"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-fa0a8d48",
+    "account": "@속보",
+    "url": "https://blog.naver.com/trend8-/224453430323",
+    "image": null,
+    "head": "롯데월드 아쿠아리움 산리오 '머메이드 파티', 11월 29일까지 — 종료 한 달 앞",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-28T08:43+09:00",
+   "key": "92a02188",
+   "by": "claude",
+   "subjects": [
+    "롯데월드 아쿠아리움",
+    "산리오캐릭터즈"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "9월 4일 시작한 롯데월드 아쿠아리움 × 산리오 '머메이드 파티' — 11월 29일 종료까지 한 달, 가서 할 것 정리",
+    "why": "속보 감지기가 잡은 블로그 반응 급증. 신규 발표는 아니지만 종료까지 한 달 남은 시점이라 '가 볼 수 있는' 정보로 쓸 만함"
+   },
+   "added": "claude",
+   "added_at": "2026-10-28T08:43+09:00",
+   "corner": "followup",
+   "card": {
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n롯데월드 아쿠아리움(@lotteworld_aquarium)의 산리오캐릭터즈 협업 '머메이드 파티'가 11월 29일까지 열립니다.\n\n지난해에 이은 두 번째 협업인데요, 올해는 마이멜로디·쿠로미·시나모롤·폼폼푸린·한교동이 인어로 변신해 관람객을 파티에 초대한다는 설정입니다.\n\n입구에는 약 2m 높이의 마이멜로디 벌룬이 서 있고, 바다거북 존 앞에는 무도회장 콘셉트의 '달빛 조개 캐슬' 포토존이 꾸려졌습니다. 매주 토요일에는 지하 2층 메인수조 앞에서 마이멜로디 포토타임이 하루 세 번 열립니다. 유료 패키지에 든 초대장 QR로 미션을 마치면 지하 1층 아쿠아샵에서 랜덤 ID카드 키링을 받습니다.\n\n기간: 9월 4일(금) ~ 11월 29일(일)\n장소: 서울 송파구 올림픽로 300 롯데월드몰 롯데월드 아쿠아리움\n포토타임: 매주 토요일 11:30 · 14:00 · 16:00 (지하 2층 메인수조 앞)\n#SENE #롯데월드아쿠아리움 #산리오캐릭터즈 #머메이드파티 #잠실\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793144625/ka8gx4hvv0qpezgxtt4f.jpg\n제목: 인어 된 마이멜로디,|11월 29일까지\n부제: 롯데월드 아쿠아리움 × 산리오캐릭터즈 '머메이드 파티'\n출처: 롯데월드\n",
+    "caption": "롯데월드 아쿠아리움(@lotteworld_aquarium)의 산리오캐릭터즈 협업 '머메이드 파티'가 11월 29일까지 열립니다.\n\n지난해에 이은 두 번째 협업인데요, 올해는 마이멜로디·쿠로미·시나모롤·폼폼푸린·한교동이 인어로 변신해 관람객을 파티에 초대한다는 설정입니다.\n\n입구에는 약 2m 높이의 마이멜로디 벌룬이 서 있고, 바다거북 존 앞에는 무도회장 콘셉트의 '달빛 조개 캐슬' 포토존이 꾸려졌습니다. 매주 토요일에는 지하 2층 메인수조 앞에서 마이멜로디 포토타임이 하루 세 번 열립니다. 유료 패키지에 든 초대장 QR로 미션을 마치면 지하 1층 아쿠아샵에서 랜덤 ID카드 키링을 받습니다.\n\n기간: 9월 4일(금) ~ 11월 29일(일)\n장소: 서울 송파구 올림픽로 300 롯데월드몰 롯데월드 아쿠아리움\n포토타임: 매주 토요일 11:30 · 14:00 · 16:00 (지하 2층 메인수조 앞)\n#SENE #롯데월드아쿠아리움 #산리오캐릭터즈 #머메이드파티 #잠실",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144625/ka8gx4hvv0qpezgxtt4f.jpg",
+      "credit": "롯데월드",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/08/24/news-p.v1.20260824.806e7c8c20b54e89a8e6dc567b737c9e_P1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144622/tdbvpsuiz5ivacfjln79.jpg",
+      "credit": "@lotteworld_aquarium",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/832633336_18379838524236340_5718588801594826551_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6xIp88_OeH4Q7kNvwEtWePF&_nc_oc=Adpjyqs0WvUXnyre7VgiH5OEMsnFix-ROyBXkiEDGo4lVBHgDgXgGa4OgTGeDIUIF00&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Kte0vSfXMbzHuarSQ9tQLQ&_nc_tpa=Q5bMBQJdl8Z6Fq0-RkVsM47Ze8j1JHUqT-S2HAPc8W26I0h62jc5RauH57VcdoMPyrpEIccugAKzFtA_yw&oh=00_AQRGrwdiItHt42tfMg9Akc2wVAz6XpBT2A4z9RKlrpaikA&oe=6AE70BDA"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144625/ka8gx4hvv0qpezgxtt4f.jpg",
+      "credit": "롯데월드",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/08/24/news-p.v1.20260824.806e7c8c20b54e89a8e6dc567b737c9e_P1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144622/tdbvpsuiz5ivacfjln79.jpg",
+      "credit": "@lotteworld_aquarium",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/832633336_18379838524236340_5718588801594826551_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=6xIp88_OeH4Q7kNvwEtWePF&_nc_oc=Adpjyqs0WvUXnyre7VgiH5OEMsnFix-ROyBXkiEDGo4lVBHgDgXgGa4OgTGeDIUIF00&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Kte0vSfXMbzHuarSQ9tQLQ&_nc_tpa=Q5bMBQJdl8Z6Fq0-RkVsM47Ze8j1JHUqT-S2HAPc8W26I0h62jc5RauH57VcdoMPyrpEIccugAKzFtA_yw&oh=00_AQRGrwdiItHt42tfMg9Akc2wVAz6XpBT2A4z9RKlrpaikA&oe=6AE70BDA"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "인어 된 마이멜로디,|11월 29일까지",
+      "sub": "롯데월드 아쿠아리움 × 산리오캐릭터즈 '머메이드 파티'"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "산리오 인어 파티,|종료까지 한 달",
+      "sub": "잠실 롯데월드 아쿠아리움 · 11월 29일까지"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "아쿠아리움에|산리오가 다시 왔다",
+      "sub": "지난해에 이은 두 번째 협업 · 11월 29일까지"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — 아폭(apoc) (AR 미션 콘텐츠 제작사 채널, 자막 없음 — 0:00-0:45 장면에 캐릭터·아쿠아리움이 보이는지 눈으로 확인)",
+     "속보로 잡혔지만 행사는 9월 4일 시작 — 기간 연장·조기 종료 공지가 없는지 공식 인스타 최신 글 확인",
+     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "인어로 변신한 산리오 캐릭터…롯데월드 아쿠아리움 '머메이드 파티' - 헤럴드경제 (8/24)",
+      "link": "https://biz.heraldcorp.com/article/10849412"
+     },
+     {
+      "title": "롯데월드 아쿠아리움, 산리오캐릭터즈와 가을 시즌 축제 - 주간한국 (8/24)",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180291"
+     },
+     {
+      "title": "인어 된 쿠로미·펭귄섬 찾는 핑구…캐릭터 만나러 아쿠아리움 가요 - 서울경제 (9/15)",
+      "link": "https://m.sedaily.com/article/20091272"
+     },
+     {
+      "title": "롯데월드 아쿠아리움 x 산리오캐릭터즈 '머메이드 파티' 모바일 콘텐츠 - 아폭(apoc)",
+      "link": "https://www.youtube.com/watch?v=nroLotMqwyg"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144630/itel1yj9sbe4pi42yw7y.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144629/clexcmmilykeookpcgcs.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144632/rco7i970swxt2qelylen.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144632/doyl4grlzhmkzujrgw4g.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144630/itel1yj9sbe4pi42yw7y.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-28T08:43+09:00",
+     "v": {
+      "A": "8eadc20d",
+      "B": "64bd3e63",
+      "C": "dd93b8c4"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=nroLotMqwyg\n구간: 0:00-0:45\n곡: 11월 29일까지\n아티스트: 인어 파티\n피처링:\n후킹: 아쿠아리움 *산리오*\n출처: 아폭(apoc)\n자막: 자동",
+    "caption": "롯데월드 아쿠아리움(@lotteworld_aquarium)의 산리오캐릭터즈 협업 '머메이드 파티'가 11월 29일까지 열립니다.\n\n영상은 이번 협업의 미션형 AR 콘텐츠를 만든 아폭이 공개한 소개 영상인데요, 관람객이 각 존의 명판과 생물을 휴대폰으로 인식해 미션을 풀어 가는 방식입니다.\n\n모든 미션을 마치면 산리오캐릭터즈와 함께 찍는 AR 필터가 열리고, 지하 1층 아쿠아샵에서 랜덤 ID카드 키링을 받습니다. 미션은 유료 패키지에 든 초대장 QR로 시작합니다.\n\n기간: 9월 4일(금) ~ 11월 29일(일)\n장소: 서울 송파구 올림픽로 300 롯데월드몰 롯데월드 아쿠아리움\n영상: 아폭(apoc)\n#SENE #롯데월드아쿠아리움 #산리오캐릭터즈 #머메이드파티 #잠실",
+    "hooks": {
+     "A": "인어가 된 / *마이멜로디*가 / 파티에 초대합니다",
+     "B": "아쿠아리움 *산리오* / 인어 파티 / 11월 29일까지",
+     "C": "존 명판을 비추면 /*산리오* 미션이 / 시작됩니다"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=nroLotMqwyg",
+     "credit": "아폭(apoc)",
+     "range": [
+      0.0,
+      45.0
+     ]
+    },
+    "guided": {
+     "rec": "B",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — 아폭(apoc) (AR 미션 콘텐츠 제작사 채널, 자막 없음 — 0:00-0:45 장면에 캐릭터·아쿠아리움이 보이는지 눈으로 확인)",
+     "속보로 잡혔지만 행사는 9월 4일 시작 — 기간 연장·조기 종료 공지가 없는지 공식 인스타 최신 글 확인",
+     "[작문 H2] 후킹C: 16자 넘는 줄 '존 명판을 비추면 /산리오 미션이' → 한 줄 16자 안 · 세 줄 합 42자 안 · 세 줄이 같은 말을 되풀이하지 않는다"
+    ],
+    "research": [
+     {
+      "title": "인어로 변신한 산리오 캐릭터…롯데월드 아쿠아리움 '머메이드 파티' - 헤럴드경제 (8/24)",
+      "link": "https://biz.heraldcorp.com/article/10849412"
+     },
+     {
+      "title": "롯데월드 아쿠아리움, 산리오캐릭터즈와 가을 시즌 축제 - 주간한국 (8/24)",
+      "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7180291"
+     },
+     {
+      "title": "인어 된 쿠로미·펭귄섬 찾는 핑구…캐릭터 만나러 아쿠아리움 가요 - 서울경제 (9/15)",
+      "link": "https://m.sedaily.com/article/20091272"
+     },
+     {
+      "title": "롯데월드 아쿠아리움 x 산리오캐릭터즈 '머메이드 파티' 모바일 콘텐츠 - 아폭(apoc)",
+      "link": "https://www.youtube.com/watch?v=nroLotMqwyg"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/nroLotMqwyg/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793144640/afltg4t5xemwzkqun11p.jpg",
+     "key": "nroLotMqwyg@0.0"
+    },
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793144903/sene_studio/umqq9f2glry2tmls4hmj.mp4",
+     "at": "2026-10-28T08:48+09:00",
+     "file": "InEo_PaTi_11Wol_29IlKkaJi_NolGeoLi_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793144905670-92a02188",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 39.97,
+        "text": "!! 다음"
+       },
+       {
+        "start": 39.97,
+        "end": 42.18,
+        "text": "영상에서 만나요"
+       }
+      ]
+     },
+     "v": "883f9b27"
+    }
+   },
+   "corner_name": "후속"
+  },
+  {
+   "source": {
+    "id": "claude:brk-9a0f64b0",
+    "account": "@속보",
+    "url": "https://blog.naver.com/newsforwarder/224456218604",
+    "image": null,
+    "head": "성수 드래곤볼 전시 11월 15일 폐막 — 종료 전 일정·예매 정리",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-28T08:50+09:00",
+   "key": "dcbad261",
+   "by": "claude",
+   "subjects": [
+    "드래곤볼 히어로즈 라이즈 서울"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "성수 드래곤볼 전시, 11월 15일 폐막까지 3주가 채 안 남았다",
+    "why": "커뮤니티 후기가 다시 몰리는 중 — 종료일·장소·예매처를 정리해 이번 주말 갈 수 있게"
+   },
+   "added": "claude",
+   "added_at": "2026-10-28T08:50+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n성수의 드래곤볼 전시가 11월 15일에 막을 내립니다.\n\n토에이 애니메이션의 공식 승인을 받은 〈드래곤볼: 히어로즈 라이즈 아시아 투어〉인데요, 지난해 시작된 투어의 세 번째 도시가 서울입니다. 스테이지엑스 성수 403을 손오공과 베지터의 성장과 전투 이야기로 채웠습니다.\n\n40여 점의 실물 크기 조형물 사이로, 화면에 에네르기파를 쏘거나 두 사람이 동작을 맞춰 퓨전을 해 보는 체험 공간이 이어집니다.\n\n기간: 8월 22일(토) ~ 11월 15일(일)\n장소: 서울 성동구 뚝섬로 403 스테이지엑스 성수 403\n운영 시간: 매일 11:00~21:00\n예매: 닷밀 티켓 플랫폼 bemill\n#SENE #드래곤볼 #성수전시 #스테이지엑스성수 #성수동\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793145058/rr73wnuxxhhgtyai5t4x.jpg\n제목: 성수 드래곤볼 전시|11월 15일까지\n부제: 스테이지엑스 성수 403 · 매일 11시~21시\n출처: @db_heroes_kr\n",
+    "caption": "성수의 드래곤볼 전시가 11월 15일에 막을 내립니다.\n\n토에이 애니메이션의 공식 승인을 받은 〈드래곤볼: 히어로즈 라이즈 아시아 투어〉인데요, 지난해 시작된 투어의 세 번째 도시가 서울입니다. 스테이지엑스 성수 403을 손오공과 베지터의 성장과 전투 이야기로 채웠습니다.\n\n40여 점의 실물 크기 조형물 사이로, 화면에 에네르기파를 쏘거나 두 사람이 동작을 맞춰 퓨전을 해 보는 체험 공간이 이어집니다.\n\n기간: 8월 22일(토) ~ 11월 15일(일)\n장소: 서울 성동구 뚝섬로 403 스테이지엑스 성수 403\n운영 시간: 매일 11:00~21:00\n예매: 닷밀 티켓 플랫폼 bemill\n#SENE #드래곤볼 #성수전시 #스테이지엑스성수 #성수동",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145058/rr73wnuxxhhgtyai5t4x.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/801869843_18163018396481984_58632114472127551_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_O7IHT-zNX4Q7kNvwERvXzp&_nc_oc=Adr-ro9mNknHFlXTtuDq8OzIP-RvXzVbedcjQCKiMJF7cG-3EJ32_ONLCkQUrdg8dRE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KLmgqXGBeqnkmKZJzYgOMg&_nc_tpa=Q5bMBQI4N5HZoRC7O2jRQl4Pcus6lYp7QH5vIgaPiblDOHbYytVRbAAhwqpGtwMV6-SqGZ9Mw8LqaIlefw&oh=00_AQSotVGoeOcT2RjIfSfrSpFVPuPsISD4VEG4loXxJD0xSQ&oe=6AE704BD"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145060/k0pg1jizo6nruz4bqhd9.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/780671964_18159062554481984_866565249189910896_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RQdu4eEI2-oQ7kNvwGWJ6h0&_nc_oc=Adr3bObBrZAdbymzXmyxUoLeWU34wtsOPlbpbz12EMNuLhm4jWXA5U3G-FI5WEIabWI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&oh=00_AQR5q6GLg2evkC4N4SJ_OPY9pfn11eYX0-PTMfkx0CQ3Zw&oe=6AE70850"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145062/cqmnqxhuaqtxaqxbniqm.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/792109358_18161740393481984_2454793880587222298_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6-IQZVRa1HAQ7kNvwHAfbpW&_nc_oc=AdpfiOBkn4b6JrEbWyeXVmNNf-DxfN3yMaVsQFq20oW1YgegFA-HuOmzNKtp90leewQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&oh=00_AQTu94Tmpc_fGAUA4hudaeLXC9xsfKE5-RKpLmg-Yz5AUw&oe=6AE721CD"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145065/orwrzwncaeefqadksgnu.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/789370742_18161266177481984_4934040510712874651_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=t9Slq1qkjugQ7kNvwH6F_Wt&_nc_oc=AdrHNBgY4lWqP2clk4cvP-qV6Ji4YUpvQDjBlLwEnpTRhjvGkK_nNBdSTlT-KKXHFZg&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&oh=00_AQT0SQ3h65zgKuvVO_jqys8GrFiP01ESPn8qLC77xLC8ng&oe=6AE72282"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145067/j7cfibsvagh91fgxijg6.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/814453003_18164929828481984_1902907995072521661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AcZI6I9mQhkQ7kNvwEaBPRm&_nc_oc=Ado0JP-on173lDkPnHQyT2q5xkOT6egZj6qinsi_hi4Tus2Y8h4rw8GTqX5DoS8k_9A&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&_nc_tpa=Q5bMBQJTz5gWzfQzMChtnoZ77-ZSEh68UjClMjSYtKGLaq12HL3wLa1rQzx2nkpiTlELeKqANa5BzqtF-g&oh=00_AQQ0dIh0DWGT8LcIv54Zxz1zhOxv-DGbh51NB5DKGgAPCg&oe=6AE71377"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145058/rr73wnuxxhhgtyai5t4x.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/801869843_18163018396481984_58632114472127551_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=_O7IHT-zNX4Q7kNvwERvXzp&_nc_oc=Adr-ro9mNknHFlXTtuDq8OzIP-RvXzVbedcjQCKiMJF7cG-3EJ32_ONLCkQUrdg8dRE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KLmgqXGBeqnkmKZJzYgOMg&_nc_tpa=Q5bMBQI4N5HZoRC7O2jRQl4Pcus6lYp7QH5vIgaPiblDOHbYytVRbAAhwqpGtwMV6-SqGZ9Mw8LqaIlefw&oh=00_AQSotVGoeOcT2RjIfSfrSpFVPuPsISD4VEG4loXxJD0xSQ&oe=6AE704BD"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145060/k0pg1jizo6nruz4bqhd9.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/780671964_18159062554481984_866565249189910896_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RQdu4eEI2-oQ7kNvwGWJ6h0&_nc_oc=Adr3bObBrZAdbymzXmyxUoLeWU34wtsOPlbpbz12EMNuLhm4jWXA5U3G-FI5WEIabWI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&oh=00_AQR5q6GLg2evkC4N4SJ_OPY9pfn11eYX0-PTMfkx0CQ3Zw&oe=6AE70850"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145062/cqmnqxhuaqtxaqxbniqm.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/792109358_18161740393481984_2454793880587222298_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=6-IQZVRa1HAQ7kNvwHAfbpW&_nc_oc=AdpfiOBkn4b6JrEbWyeXVmNNf-DxfN3yMaVsQFq20oW1YgegFA-HuOmzNKtp90leewQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&oh=00_AQTu94Tmpc_fGAUA4hudaeLXC9xsfKE5-RKpLmg-Yz5AUw&oe=6AE721CD"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145065/orwrzwncaeefqadksgnu.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/789370742_18161266177481984_4934040510712874651_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=t9Slq1qkjugQ7kNvwH6F_Wt&_nc_oc=AdrHNBgY4lWqP2clk4cvP-qV6Ji4YUpvQDjBlLwEnpTRhjvGkK_nNBdSTlT-KKXHFZg&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&oh=00_AQT0SQ3h65zgKuvVO_jqys8GrFiP01ESPn8qLC77xLC8ng&oe=6AE72282"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145067/j7cfibsvagh91fgxijg6.jpg",
+      "credit": "@db_heroes_kr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/814453003_18164929828481984_1902907995072521661_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AcZI6I9mQhkQ7kNvwEaBPRm&_nc_oc=Ado0JP-on173lDkPnHQyT2q5xkOT6egZj6qinsi_hi4Tus2Y8h4rw8GTqX5DoS8k_9A&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IzS5EGEx5Hx96XzoxBuuAA&_nc_tpa=Q5bMBQJTz5gWzfQzMChtnoZ77-ZSEh68UjClMjSYtKGLaq12HL3wLa1rQzx2nkpiTlELeKqANa5BzqtF-g&oh=00_AQQ0dIh0DWGT8LcIv54Zxz1zhOxv-DGbh51NB5DKGgAPCg&oe=6AE71377"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "성수 드래곤볼 전시|11월 15일까지",
+      "sub": "스테이지엑스 성수 403 · 매일 11시~21시"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "에네르기파 쏘는 전시|11월 15일 폐막",
+      "sub": "스테이지엑스 성수 403"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "아시아 투어 세 번째|도시, 서울",
+      "sub": "드래곤볼 전시 11월 15일까지"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진(@db_heroes_kr 손오공 조형물) 아래쪽 전시 로고·날짜 글자가 SENE 표지 제목과 겹쳐 지저분함 — 얼굴은 안 가림, 다른 사진으로 바꿀지 앱에서 확인",
+     "[검증] 한 곳에서만 확인된 사실은 캡션에서 뺌 — 올해 1월 타이베이 개최·두 개 층(헤이팝), QR로 드래곤볼 모으기(이코노미스트), 주차 공간 없음(팝가). 공식 계정에서 확인되면 다시 넣어도 됨",
+     "클립 위험: 낮음 — dotmill (주최사 공식 채널, 자막 없는 공간 영상)",
+     "공식 계정 @db_heroes_kr 최신 공지에서 종료일(11/15)·운영 시간 변동 없는지",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "[더벨]닷밀, 8월 성수 '드래곤볼 히어로즈 라이즈 아시아투어' - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/08/03/2026080313269694401"
+     },
+     {
+      "title": "닷밀, 이번엔 '드래곤볼'…성수동서 에네르기파 쏜다 - MTN",
+      "link": "https://news.mtn.co.kr/news-detail/2026080314555651086"
+     },
+     {
+      "title": "이코노미스트 — 드래곤볼 히어로즈 라이즈 개막",
+      "link": "https://economist.co.kr/article/view/ecn202608210013"
+     },
+     {
+      "title": "헤이팝 — 성수 드래곤볼·귀멸의 칼날 전시",
+      "link": "https://heypop.kr/n/142213/"
+     },
+     {
+      "title": "팝플리 — 드래곤볼 히어로즈 라이즈 서울",
+      "link": "https://popply.co.kr/popup/5793"
+     },
+     {
+      "title": "팝가 — 드래곤볼 히어로즈 라이즈 서울",
+      "link": "https://popga.co.kr/popup/8264"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145074/b7zmjaympsrsoceflgid.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145073/km6goak2bfckvgotlgnf.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145076/btmznhockprsnsnwpjpi.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145077/myduqhbdglihamsiaqwi.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145074/b7zmjaympsrsoceflgid.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-28T08:51+09:00",
+     "v": {
+      "A": "a1cb1842",
+      "B": "00399d01",
+      "C": "f3f0a1aa"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fEaKuxvSDf4\n구간: 0:00-0:56\n곡: 성수에서 11월 15일까지\n아티스트: 쏘는 *드래곤볼* 전시\n피처링:\n후킹: 화면에 에네르기파\n출처: dotmill\n자막: 자동",
+    "caption": "성수의 드래곤볼 전시가 11월 15일에 막을 내립니다.\n\n영상은 주최사 닷밀이 공개한 전시장 모습인데요, 토에이 애니메이션의 공식 승인을 받은 〈드래곤볼: 히어로즈 라이즈 아시아 투어〉가 세 번째 도시로 서울에 왔습니다.\n\n손오공·베지터·프리저·셀을 옮긴 40여 점의 조형물 사이로, 화면에 에네르기파를 쏘거나 두 사람이 동작을 맞춰 퓨전을 해 보는 체험 공간이 이어집니다.\n\n기간: 8월 22일(토) ~ 11월 15일(일)\n장소: 서울 성동구 뚝섬로 403 스테이지엑스 성수 403\n운영 시간: 매일 11:00~21:00\n예매: 닷밀 티켓 플랫폼 bemill\n영상: dotmill\n#SENE #드래곤볼 #성수전시 #스테이지엑스성수 #성수동",
+    "hooks": {
+     "A": "화면에 에네르기파 / 쏘는 *드래곤볼* 전시 / 성수에서 11월 15일까지",
+     "B": "성수 *드래곤볼* 전시 / 11월 15일에 / 막을 내립니다",
+     "C": "손오공부터 셀까지 / 조형물 40여 점이 / *성수*에 모였습니다"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=fEaKuxvSDf4",
+     "credit": "dotmill",
+     "range": [
+      0.0,
+      56.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진(@db_heroes_kr 손오공 조형물) 아래쪽 전시 로고·날짜 글자가 SENE 표지 제목과 겹쳐 지저분함 — 얼굴은 안 가림, 다른 사진으로 바꿀지 앱에서 확인",
+     "[검증] 한 곳에서만 확인된 사실은 캡션에서 뺌 — 올해 1월 타이베이 개최·두 개 층(헤이팝), QR로 드래곤볼 모으기(이코노미스트), 주차 공간 없음(팝가). 공식 계정에서 확인되면 다시 넣어도 됨",
+     "클립 위험: 낮음 — dotmill (주최사 공식 채널, 자막 없는 공간 영상)",
+     "공식 계정 @db_heroes_kr 최신 공지에서 종료일(11/15)·운영 시간 변동 없는지"
+    ],
+    "research": [
+     {
+      "title": "[더벨]닷밀, 8월 성수 '드래곤볼 히어로즈 라이즈 아시아투어' - 머니투데이",
+      "link": "https://www.mt.co.kr/stock/2026/08/03/2026080313269694401"
+     },
+     {
+      "title": "닷밀, 이번엔 '드래곤볼'…성수동서 에네르기파 쏜다 - MTN",
+      "link": "https://news.mtn.co.kr/news-detail/2026080314555651086"
+     },
+     {
+      "title": "이코노미스트 — 드래곤볼 히어로즈 라이즈 개막",
+      "link": "https://economist.co.kr/article/view/ecn202608210013"
+     },
+     {
+      "title": "헤이팝 — 성수 드래곤볼·귀멸의 칼날 전시",
+      "link": "https://heypop.kr/n/142213/"
+     },
+     {
+      "title": "팝플리 — 드래곤볼 히어로즈 라이즈 서울",
+      "link": "https://popply.co.kr/popup/5793"
+     },
+     {
+      "title": "팝가 — 드래곤볼 히어로즈 라이즈 서울",
+      "link": "https://popga.co.kr/popup/8264"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/fEaKuxvSDf4/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793145081/isplhfzecgpufkatdluv.jpg",
+     "key": "fEaKuxvSDf4@0.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-28T08:51+09:00"
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -4687,7 +5207,7 @@
     "need_today": 6,
     "day": null,
     "next_no": null,
-    "drafts": 15,
+    "drafts": 17,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -4783,7 +5303,7 @@
     "need_today": 2,
     "day": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 2,
     "why": "잘 된 글의 다음 편 — 연장·다음 도시·후속 컬렉션 (후속 기획 탭)"
    },
    {
@@ -4799,7 +5319,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T07:06+09:00"
+  "at": "2026-10-28T08:51+09:00"
  },
  "slots": {
   "basis": 0,
