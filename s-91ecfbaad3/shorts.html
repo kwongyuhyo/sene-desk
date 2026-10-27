@@ -4646,12 +4646,13 @@ function ppTick() {
 /* 10/26 규효 "요즘 유튜브 자막 잘 되는 거 같은데 그거 기본으로 먼저 받게 선택하는 버튼" — 기본은 유튜브 자막 먼저
    (사람이 올린 자막 → 유튜브 자동자막 → 없으면 받아쓰기). 누르면 「받아쓰기만」으로. 고른 건 이 기기에 남는다. */
 const CC_KEY = MEM + '.cc';
-function ccMode() { try { return localStorage.getItem(CC_KEY) === 'stt' ? 'stt' : 'yt'; } catch (_) { return 'yt'; } }
+// 10/27 기본을 「받아쓰기 먼저」로 — 목소리 분리·이름 힌트 받아쓰기가 시험에서 유튜브 자막보다 정확했다. 유튜브 자막은 대조(⚠ 확인할 줄)에 쓴다
+function ccMode() { try { return localStorage.getItem(CC_KEY + '2') === 'yt' ? 'yt' : 'stt'; } catch (_) { return 'stt'; } }
 function ccPaint() {
   const s = $('#ppSubsSrc'); if (!s) return;
   s.hidden = $('#ppSubs').hidden || PP.kind !== 'yt';
-  s.textContent = ccMode() === 'yt' ? '📺 유튜브 자막 먼저' : '🎙 받아쓰기만';
-  s.classList.toggle('on', ccMode() === 'yt');
+  s.textContent = ccMode() === 'yt' ? '📺 유튜브 자막 먼저' : '🎙 받아쓰기 먼저 · 유튜브와 대조';
+  s.classList.toggle('on', ccMode() === 'stt');
 }
 function ppSubsPaint() {
   const b = PP.b, btn = $('#ppSubs'), ed = $('#ppSubEdit');
@@ -4859,9 +4860,10 @@ function bindPlay() {
   $('#ppEdit').onclick = () => { const b = PP.b; PP._popping = true; ppStop(); PP._popping = false; if (b) openPicker(b); };
   $('#ppSubs').onclick = ppSubsFetch;
   $('#ppSubsSrc').onclick = () => {
-    try { localStorage.setItem(CC_KEY, ccMode() === 'yt' ? 'stt' : 'yt'); } catch (_) {}
+    try { localStorage.setItem(CC_KEY + '2', ccMode() === 'yt' ? 'stt' : 'yt'); } catch (_) {}
     ccPaint();
-    toast(ccMode() === 'yt' ? '📺 유튜브 자막(사람 → 자동)을 먼저 받고, 없으면 받아쓰기합니다' : '🎙 유튜브 자막 없이 맥이 직접 받아씁니다');
+    toast(ccMode() === 'yt' ? '📺 유튜브 자막(사람 → 자동)을 먼저 받고, 없으면 받아쓰기합니다'
+                            : '🎙 맥이 목소리만 뽑아 받아쓰고, 유튜브 자막과 다른 줄은 ⚠ 로 표시합니다');
   };
   $('#ppSubEdit').onclick = () => {
     if (!stOk(PP.b)) { if (PP.mode === 'done') openPlay(PP.i, 'seg').then(ppSubsManual); else ppSubsManual(); return; }
@@ -5317,9 +5319,9 @@ window.addEventListener('resize', () => { if ($('#ppSubList') && $('#ppSubList')
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.27 17:10';
+    a.title = '판 10.27 17:12';
     var ver = document.createElement('span');
-    ver.textContent = '10.27 17:10';
+    ver.textContent = '10.27 17:12';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
