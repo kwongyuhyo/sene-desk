@@ -4388,6 +4388,127 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:ord-6b27445f",
+    "account": "@규효 공유 · @eyesmag",
+    "url": "https://www.instagram.com/p/De_kTKCiMRx/?exln=MTVtanljZG53MDZtYw==",
+    "image": null,
+    "head": "개정 동물보호법 공포 — 학대자 최대 5년 사육 금지, 방치 과태료·펫호텔 미인수 유기, 2027년 10월 28일 시행",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-28T03:01+09:00",
+   "key": "25c99cae",
+   "by": "claude",
+   "subjects": [
+    "동물보호법"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "개정 동물보호법 공포 — 학대자 최대 5년 사육 금지, 반려인에게는 과태료·유기 기준이 달라진다 (2027.10.28 시행)",
+    "why": "반려동물과 사는 독자의 하루가 바뀌는 제도 변화 — 무엇이·언제부터·내게 무엇이 달라지나"
+   },
+   "added": "claude",
+   "added_at": "2026-10-28T03:01+09:00",
+   "corner": "issue",
+   "card": {
+    "form": "[카테고리]\n이슈\n\n[캡션]\n동물을 학대한 사람에게 법원이 최대 5년까지 동물을 키우지 못하게 할 수 있게 됩니다.\n\n개정 동물보호법이 10월 27일 공포됐는데요, 동물을 죽이거나 다치게 하는 중대한 학대 범죄가 대상이고, 학대 범죄로 처벌받은 사람은 일정 기간 지방정부에서 동물을 분양받을 수도 없습니다.\n\n동물과 사는 사람의 일상에 닿는 내용도 있습니다. 2m 미만 목줄을 쓰거나 더위·추위를 피할 쉴 곳을 주지 않는 등 사육·관리 의무를 어기면 100만 원 이하의 과태료를 물 수 있습니다. 펫호텔이나 동물병원에 맡겨 두고 찾아가지 않는 것도 이제 유기로 봅니다.\n\n공포: 2026년 10월 27일(화)\n시행: 2027년 10월 28일(목)\n안내: 농림축산식품부 · 국가법령정보센터\n#SENE #동물보호법 #반려동물 #반려견 #펫호텔\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793124077/fvedfyt5lltobn17w2tg.jpg\n제목: 동물 학대자에게|최대 5년 사육금지 명령\n부제: 개정 동물보호법, 2027년 10월 28일 시행\n출처: Pexels · Ekaterina Lukyanenko\n",
+    "caption": "동물을 학대한 사람에게 법원이 최대 5년까지 동물을 키우지 못하게 할 수 있게 됩니다.\n\n개정 동물보호법이 10월 27일 공포됐는데요, 동물을 죽이거나 다치게 하는 중대한 학대 범죄가 대상이고, 학대 범죄로 처벌받은 사람은 일정 기간 지방정부에서 동물을 분양받을 수도 없습니다.\n\n동물과 사는 사람의 일상에 닿는 내용도 있습니다. 2m 미만 목줄을 쓰거나 더위·추위를 피할 쉴 곳을 주지 않는 등 사육·관리 의무를 어기면 100만 원 이하의 과태료를 물 수 있습니다. 펫호텔이나 동물병원에 맡겨 두고 찾아가지 않는 것도 이제 유기로 봅니다.\n\n공포: 2026년 10월 27일(화)\n시행: 2027년 10월 28일(목)\n안내: 농림축산식품부 · 국가법령정보센터\n#SENE #동물보호법 #반려동물 #반려견 #펫호텔",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124077/fvedfyt5lltobn17w2tg.jpg",
+      "credit": "Pexels · Ekaterina Lukyanenko",
+      "from": "https://images.pexels.com/photos/15585198/pexels-photo-15585198.jpeg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124079/ug7mlyrfpddaf8h40a1h.jpg",
+      "credit": "농림축산식품부",
+      "from": "https://i3n.news1.kr/system/photos/2026/10/26/8178468/high.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124077/fvedfyt5lltobn17w2tg.jpg",
+      "credit": "Pexels · Ekaterina Lukyanenko",
+      "from": "https://images.pexels.com/photos/15585198/pexels-photo-15585198.jpeg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124079/ug7mlyrfpddaf8h40a1h.jpg",
+      "credit": "농림축산식품부",
+      "from": "https://i3n.news1.kr/system/photos/2026/10/26/8178468/high.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "동물 학대자에게|최대 5년 사육금지 명령",
+      "sub": "개정 동물보호법, 2027년 10월 28일 시행"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "펫호텔에 맡기고 안 찾으면|이제 유기입니다",
+      "sub": "개정 동물보호법 공포 · 2027년 10월 시행"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "반려인에게 달라지는|동물보호법",
+      "sub": "목줄·쉴 곳·위탁 — 2027년 10월 28일부터"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "표지 사진은 Pexels 무료 사진 — 공식 배포 이미지는 글자 가득한 농식품부 인포그래픽뿐이라 뒤 후보로만 넣음. 써도 될지 봐 주세요",
+     "숏폼 비움 — 이번 개정을 다룬 공식 채널 원본 영상이 없음 (검색된 건 2021·2022년 방송 뉴스뿐)"
+    ],
+    "research": [
+     {
+      "title": "아시아경제 — 동물학대자는 최대 5년간 사육 못한다…내년 10월부터 '사육금지명령제' 도입",
+      "link": "https://view.asiae.co.kr/article/2026102611004646145"
+     },
+     {
+      "title": "헤럴드경제 — 동물학대하면 최대 5년 사육금지…펫호텔에 맡기고 안 찾아가도 '유기'",
+      "link": "https://biz.heraldcorp.com/article/10914383"
+     },
+     {
+      "title": "뉴스1 — 동물 학대자 '최대 5년' 사육 금지 근거 마련…개정 동물보호법 공포",
+      "link": "https://www.news1.kr/economy/agri-food/6331746"
+     },
+     {
+      "title": "시사코리아 — 「동물보호법」 개정안 공포 (농식품부 자료)",
+      "link": "http://www.sisakorea.kr/99816"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124085/jce7ptve1fsrbcs4v5nd.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124084/jtehhkmrfurw8vrbj567.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124089/llorci530iqpn4a6mk3x.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124089/u7gqezrfpw0cbk6sazge.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793124085/jce7ptve1fsrbcs4v5nd.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-28T03:01+09:00",
+     "v": {
+      "A": "6fc79be8",
+      "B": "61f8b7a8",
+      "C": "1d1a2533"
+     }
+    }
+   },
+   "corner_name": "이슈",
+   "i18n_queued": "2026-10-28T03:01+09:00"
   }
  ],
  "skipped": [],
@@ -4490,7 +4611,7 @@
     "need_today": 1,
     "day": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 2,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
    },
    {
@@ -4518,7 +4639,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T02:56+09:00"
+  "at": "2026-10-28T03:01+09:00"
  },
  "slots": {
   "basis": 0,
