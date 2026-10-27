@@ -1036,7 +1036,9 @@
      "v": {
       "A": "54a35cbf",
       "B": "bad218ad",
-      "C": "71054ea1"
+      "C": "71054ea1",
+      "E": "a48557e6",
+      "J": "112a2b95"
      }
     }
    },
@@ -1046,7 +1048,63 @@
     "why": "포터 90주년 전시가 이번 주 금요일 잠실에서 시작 — 언론 11곳이 다룬 이번 주 가장 큰 패션 전시",
     "at": "2026-10-27T11:44+09:00"
    },
-   "i18n_queued": "2026-10-27T11:44+09:00"
+   "i18n_queued": "2026-10-27T11:44+09:00",
+   "i18n": {
+    "at": "2026-10-27T11:47+09:00",
+    "confirm": [
+     "작가 이주원의 공식 영문·일본어 표기를 찾지 못했습니다 — 로마자 Lee Joo-won · イ・ジュウォン으로 임시 표기했습니다.",
+     "잠실 한정 '탱커 오피서 키트'·'매거진 숄더백'의 공식 영문·일본어 제품명을 찾지 못해 직역했습니다 (TANKER Officer Kit · Magazine Shoulder Bag / タンカー オフィサーキット · マガジン ショルダーバッグ).",
+     "에비뉴엘 표기는 롯데 공식 영문 'AVENUEL'을 따랐습니다. 일본어 'アベニューエル'은 공식 표기를 확인하지 못했습니다.",
+     "도쿄 전시가 '지난해'(2025년 11월 14~16일, 九段ハウス)에 열린 것은 WWDJAPAN 보도로 확인했습니다. 서울 전시의 기간·장소·행사 시간은 원문 그대로 옮겼고 따로 다시 확인하지 않았습니다.",
+     "작가 이주원의 공식 영문 표기(Lee Joo-won)를 확인하지 못함 — 작가 본인 계정이나 롯데 보도자료 표기로 맞출 것",
+     "'탱커 오피서 키트'·'매거진 숄더백'의 영어·일본어 공식 제품명(TANKER Officer Kit / タンカー オフィサーキット 등)은 확인하지 못함"
+    ],
+    "review": {
+     "at": "2026-10-27T11:47+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · 'Early archive pieces … run through three sections' → 'The show moves through three sections … from early archive pieces … to paintings and videos' — 물건이 주어로 'run through' 하는 직역투",
+      "일본어 · 부제·장소 · アベニューエル → アヴェニュエル (장소 줄은 AVENUEL（アヴェニュエル）) — 일본어권 여행 안내에서 쓰는 표기"
+     ],
+     "doubt": [
+      "작가 이주원의 공식 영문 표기(Lee Joo-won)를 확인하지 못함 — 작가 본인 계정이나 롯데 보도자료 표기로 맞출 것",
+      "'탱커 오피서 키트'·'매거진 숄더백'의 영어·일본어 공식 제품명(TANKER Officer Kit / タンカー オフィサーキット 등)은 확인하지 못함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nYOSHIDA & Co., the company behind PORTER, brings its 90th anniversary exhibition to Seoul.\n\nThe exhibition opened first in Tokyo last year. It is being held only in Seoul and Tokyo, and the Seoul run has been extended to two weeks. It is also PORTER's first art collaboration exhibition in Korea since the brand arrived here in 2016.\n\nThe theme is 'Everyday Is a New Beginning'. The show moves through three sections, past, present and future, from early archive pieces and the signature 'TANKER' series to paintings and videos reinterpreted by contemporary artists. Two items sold only in Jamsil, the 'TANKER Officer Kit' and the 'Magazine Shoulder Bag', are also available. On Nov 7 at 3 p.m., artist Lee Joo-won draws postcard portraits of visitors wearing PORTER products (first come, first served), followed by a docent tour at 4 p.m.\n\nDates: Oct 31 (Sat) – Nov 15 (Sun)\nLocation: Art Hall, 6F, Lotte AVENUEL Jamsil, Songpa-gu, Seoul\nLive drawing: Nov 7 (Sat), 3 p.m. · Docent tour 4 p.m.\n#SENE #PORTER #YoshidaPorter #SeoulExhibition #Jamsil\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793057963/iqol5x9vqrup5z3klbdq.jpg\n제목: PORTER Turns 90|A Two-Week Show in Jamsil\n부제: After Tokyo, Seoul: AVENUEL Art Hall from Oct 31\n출처: Lotte Department Store\n",
+      "caption": "YOSHIDA & Co., the company behind PORTER, brings its 90th anniversary exhibition to Seoul.\n\nThe exhibition opened first in Tokyo last year. It is being held only in Seoul and Tokyo, and the Seoul run has been extended to two weeks. It is also PORTER's first art collaboration exhibition in Korea since the brand arrived here in 2016.\n\nThe theme is 'Everyday Is a New Beginning'. The show moves through three sections, past, present and future, from early archive pieces and the signature 'TANKER' series to paintings and videos reinterpreted by contemporary artists. Two items sold only in Jamsil, the 'TANKER Officer Kit' and the 'Magazine Shoulder Bag', are also available. On Nov 7 at 3 p.m., artist Lee Joo-won draws postcard portraits of visitors wearing PORTER products (first come, first served), followed by a docent tour at 4 p.m.\n\nDates: Oct 31 (Sat) – Nov 15 (Sun)\nLocation: Art Hall, 6F, Lotte AVENUEL Jamsil, Songpa-gu, Seoul\nLive drawing: Nov 7 (Sat), 3 p.m. · Docent tour 4 p.m.\n#SENE #PORTER #YoshidaPorter #SeoulExhibition #Jamsil",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069264/viqysacem48cuhcj8vq9.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069264/xermkujjqcjwiblped1c.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069264/viqysacem48cuhcj8vq9.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T11:47+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nポーターを手がける吉田カバンの90周年展が、ソウルで開かれます。\n\n昨年、東京で先に開かれた展覧会です。開催はソウルと東京の2都市だけで、ソウルでは会期を2週間に延ばしました。2016年にポーターが韓国に上陸して以来、初めてのアートコラボレーション展でもあります。\n\nテーマは「Everyday Is a New Beginning」。初期のアーカイブ製品、代表シリーズ「タンカー」、現代作家たちが描き直した絵画や映像まで、過去・現在・未来の3つのセクションでつながります。蚕室限定の「タンカー オフィサーキット」と「マガジン ショルダーバッグ」も販売されます。11月7日午後3時には、作家のイ・ジュウォン（이주원）がポーター製品を身に着けて来場した人の肖像をポストカードに描き（先着順）、午後4時からはドーセント解説があります。\n\n期間：10月31日（土）〜11月15日（日）\n場所：ソウル・松坡区（ソンパグ）蚕室（チャムシル）ロッテ AVENUEL（アヴェニュエル）6階 アートホール\nライブドローイング：11月7日（土）午後3時・ドーセント解説 午後4時\n#SENE #ポーター #吉田カバン #韓国旅行 #蚕室\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793057963/iqol5x9vqrup5z3klbdq.jpg\n제목: ポーター90周年展|蚕室で2週間\n부제: 東京に続きソウルへ、10月31日からアヴェニュエル アートホール\n출처: ロッテ百貨店\n",
+      "caption": "ポーターを手がける吉田カバンの90周年展が、ソウルで開かれます。\n\n昨年、東京で先に開かれた展覧会です。開催はソウルと東京の2都市だけで、ソウルでは会期を2週間に延ばしました。2016年にポーターが韓国に上陸して以来、初めてのアートコラボレーション展でもあります。\n\nテーマは「Everyday Is a New Beginning」。初期のアーカイブ製品、代表シリーズ「タンカー」、現代作家たちが描き直した絵画や映像まで、過去・現在・未来の3つのセクションでつながります。蚕室限定の「タンカー オフィサーキット」と「マガジン ショルダーバッグ」も販売されます。11月7日午後3時には、作家のイ・ジュウォン（이주원）がポーター製品を身に着けて来場した人の肖像をポストカードに描き（先着順）、午後4時からはドーセント解説があります。\n\n期間：10月31日（土）〜11月15日（日）\n場所：ソウル・松坡区（ソンパグ）蚕室（チャムシル）ロッテ AVENUEL（アヴェニュエル）6階 アートホール\nライブドローイング：11月7日（土）午後3時・ドーセント解説 午後4時\n#SENE #ポーター #吉田カバン #韓国旅行 #蚕室",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069267/e3py9k2iha86nk5e0ame.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069267/kqrcmzuuymrtnfshtqhr.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793069267/e3py9k2iha86nk5e0ame.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-27T11:47+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1960,7 +2018,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T11:46+09:00"
+  "at": "2026-10-27T11:47+09:00"
  },
  "slots": {
   "basis": 0,
