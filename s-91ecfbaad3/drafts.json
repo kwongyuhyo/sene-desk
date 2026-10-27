@@ -1932,6 +1932,13 @@
        "cvr": 2,
        "at": "2026-10-27T13:50+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_Ll6gFOmy/",
+      "cover": "E",
+      "at": "2026-10-27T15:10+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -1949,8 +1956,22 @@
        "cvr": 2,
        "at": "2026-10-27T13:50+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/De_Ln5cFGFT/",
+      "cover": "J",
+      "at": "2026-10-27T15:10+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/De_LjbYlLXQ/",
+    "cover": "A",
+    "at": "2026-10-27T15:09+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -3125,7 +3146,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-27T14:59+09:00"
+  "at": "2026-10-27T15:10+09:00"
  },
  "slots": {
   "basis": 0,

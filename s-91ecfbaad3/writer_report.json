@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-27T14:59+09:00",
+ "generated_at": "2026-10-27T15:37+09:00",
  "range": [
   "2026-10-21",
   "2026-10-27"
@@ -29,8 +29,8 @@
    "안 올림": 0
   },
   "why_top": [],
-  "published": 20,
-  "publish_rate": 0.26,
+  "published": 21,
+  "publish_rate": 0.27,
   "reach_mult": [],
   "verify_touched": 36,
   "orders": {
