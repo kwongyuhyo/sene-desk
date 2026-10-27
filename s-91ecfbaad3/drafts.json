@@ -4458,11 +4458,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=aDzxub0vNxQ\n구간: 0:00-0:30\n곡: Out Nov 6.\n아티스트: go to school.\n피처링:\n후킹: Miss *Francesca*,\n출처: wavve\n자막: 자동",
       "caption": "The vampire from the 2005 sitcom 'Hello Franceska' now heads to a high school classroom.\n\nThe first teaser for the wavve original 'Next Seat, Francesca' opens with the butler calling out in a hurry, \"Miss Francesca, go to school!\" The story gets going when the homeroom teacher puts class president Jang Woo-ju (Kim Hyun-jin) in charge of a vampire (Han Su-a) disguised as transfer student Pi Na-young.\n\nShim Hye-jin, Park Seul-gi and Park Hee-jin from the original also make special appearances in their original roles.\n\nRelease: Nov 6 (Fri) on wavve · 4 episodes, two every Friday\nVideo: First teaser, wavve official YouTube\n#SENE #HelloFranceska #wavve #KDrama #ShimHyeJin",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T06:33+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793138668/sene_studio/kyrp9tfudcsyvsgudkxz.mp4",
+       "at": "2026-10-28T07:04+09:00",
+       "file": "go_to_school_Out_Nov_6_KeolCheo_no_lyrics.mp4",
        "sig": "325bf623c8",
-       "job": 100
+       "v": "996c3ff9"
       }
      }
     },
@@ -4797,7 +4798,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T07:02+09:00"
+  "at": "2026-10-28T07:04+09:00"
  },
  "slots": {
   "basis": 0,
