@@ -2265,7 +2265,9 @@
      "cvr": 2,
      "at": "2026-10-28T19:34+09:00",
      "v": {
-      "A": "cbbc8121"
+      "A": "cbbc8121",
+      "E": "0e3b5767",
+      "J": "ecf06ecf"
      }
     },
     "photo_tried": {
@@ -2287,6 +2289,78 @@
     "at": "2026-10-28T19:38+09:00",
     "account": "sene",
     "via": "api"
+   },
+   "i18n": {
+    "at": "2026-10-28T19:41+09:00",
+    "confirm": [
+     "올리브베러의 공식 영문 표기(OLIVE BETTER / Olive Better)와 일본어 표기 — 검색에서 공식 일본어 표기를 찾지 못해 カタカナ 「オリーブベター」에 원어를 붙였습니다",
+     "검색 결과에서는 성수점 30일 오픈·성수일로 33 주소를 직접 확인하지 못했습니다 (연내 명동·성수 출점 계획만 보도됨) — 원문 근거인 CJ뉴스룸 보도자료로 다시 확인해 주세요",
+     "'올리브영N 성수'의 공식 영문 표기(OLIVE YOUNG N SEONGSU 등)를 확인해 주세요",
+     "원문 사실 확인 · 검수 중 검색에서는 올리브베러 성수점 10월 30일 오픈·성수일로 33 주소를 기사로 확인하지 못함(5월에 '성수 등 연내 출점 계획' 보도만 나옴) — 올리기 전에 CJ뉴스룸 원문으로 날짜·주소·'다섯 번째 매장'을 다시 확인할 것",
+     "일본어 해시태그에 #オリーブベター 가 없음 — 필요하면 #韓国コスメ 대신 넣는 것을 고려"
+    ],
+    "review": {
+     "at": "2026-10-28T19:41+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · inner beauty, easy health foods → inner-beauty products, healthy ready-to-eat meals — 'easy health foods' 는 원어민에게 뜻이 흐림(건강 간편식)",
+      "영어 · 캡션 둘째 단락 · has placed its fifth store → has opened its fifth store — 어색한 연어",
+      "일본어 · 표지 제목 둘째 줄 · 30日に店舗オープン → 30日オープン — '聖水に|30日に' 로 に가 겹쳐 어색함",
+      "일본어 · 캡션 첫 문장 · （올리브베러）→（OLIVE BETTER）— 남은 한글 제거, 브랜드 공식 표기가 OLIVE BETTER",
+      "일본어 · 캡션 둘째 단락 · 集めた店舗ですが、→ 集めた店舗で、— 한국어 '~는데요' 직역으로 역접처럼 읽힘"
+     ],
+     "doubt": [
+      "원문 사실 확인 · 검수 중 검색에서는 올리브베러 성수점 10월 30일 오픈·성수일로 33 주소를 기사로 확인하지 못함(5월에 '성수 등 연내 출점 계획' 보도만 나옴) — 올리기 전에 CJ뉴스룸 원문으로 날짜·주소·'다섯 번째 매장'을 다시 확인할 것",
+      "일본어 해시태그에 #オリーブベター 가 없음 — 필요하면 #韓国コスメ 대신 넣는 것을 고려"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nOlive Better, Olive Young's wellness store, opens in Seongsu.\n\nThe store brings together a curated selection of health supplements, inner-beauty products, healthy ready-to-eat meals and sleep products. After opening its first location in Gwanghwamun in January, the brand has opened its fifth store not by Seongsu Station or Yeonmujang-gil but near Ttukseom Station.\n\nEarlier this year, the brand ran a pop-up at Olive Young N Seongsu in the same neighborhood. This time it settles in as a permanent store, one stop over from the lanes lined with beauty shops.\n\nOpens: Fri, Oct 30\nLocation: 33 Seongsu-il-ro, Seongdong-gu, Seoul (near Ttukseom Station, Line 2)\n#SENE #OliveBetter #OliveYoung #Seongsu #SeoulShopping\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793183661/acrzb0jlkbsv2vjdxd07.jpg\n제목: Olive Better Opens|in Seongsu on Oct 30\n부제: Olive Young's fifth wellness store · Seongsu-il-ro near Ttukseom Station\n출처: CJ Olive Young (CJ Newsroom)\n",
+      "caption": "Olive Better, Olive Young's wellness store, opens in Seongsu.\n\nThe store brings together a curated selection of health supplements, inner-beauty products, healthy ready-to-eat meals and sleep products. After opening its first location in Gwanghwamun in January, the brand has opened its fifth store not by Seongsu Station or Yeonmujang-gil but near Ttukseom Station.\n\nEarlier this year, the brand ran a pop-up at Olive Young N Seongsu in the same neighborhood. This time it settles in as a permanent store, one stop over from the lanes lined with beauty shops.\n\nOpens: Fri, Oct 30\nLocation: 33 Seongsu-il-ro, Seongdong-gu, Seoul (near Ttukseom Station, Line 2)\n#SENE #OliveBetter #OliveYoung #Seongsu #SeoulShopping",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184118/gi1nobkghhoccm0qqdzg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184118/dwjbvsxb7ut4mgu8aqdu.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184118/gi1nobkghhoccm0qqdzg.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T19:41+09:00"
+      }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfCPiM5lFyq/",
+      "cover": "E",
+      "at": "2026-10-28T19:42+09:00",
+      "account": "sene_en",
+      "via": "api"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nオリーブヤングのウェルネス店舗「オリーブベター（OLIVE BETTER）」が、ソウル・聖水洞（ソンスドン）にオープンします。\n\n健康機能食品やインナービューティー、手軽な健康食、睡眠関連の商品を選んで集めた店舗で、1月に光化門（クァンファムン）で1号店を出したあと、5店目は聖水駅や練武場キル（ヨンムジャンギル）ではなく、トゥクソム駅側に構えました。\n\n今年初め、同じ街のオリーブヤングN聖水でまずポップアップを開いたブランドが、今回は期間を定めない店舗として根を下ろします。ビューティーショップが集まる路地から、一駅となりへ移った形です。\n\nオープン：10月30日（金）\n場所：ソウル特別市城東区聖水一路33（2号線トゥクソム駅近く）\n#SENE #オリーブヤング #韓国旅行 #聖水 #韓国コスメ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793183661/acrzb0jlkbsv2vjdxd07.jpg\n제목: オリーブベター、聖水に|30日オープン\n부제: オリーブヤングのウェルネス店舗5店目・トゥクソム駅近くの聖水一路\n출처: CJオリーブヤング（CJニュースルーム）\n",
+      "caption": "オリーブヤングのウェルネス店舗「オリーブベター（OLIVE BETTER）」が、ソウル・聖水洞（ソンスドン）にオープンします。\n\n健康機能食品やインナービューティー、手軽な健康食、睡眠関連の商品を選んで集めた店舗で、1月に光化門（クァンファムン）で1号店を出したあと、5店目は聖水駅や練武場キル（ヨンムジャンギル）ではなく、トゥクソム駅側に構えました。\n\n今年初め、同じ街のオリーブヤングN聖水でまずポップアップを開いたブランドが、今回は期間を定めない店舗として根を下ろします。ビューティーショップが集まる路地から、一駅となりへ移った形です。\n\nオープン：10月30日（金）\n場所：ソウル特別市城東区聖水一路33（2号線トゥクソム駅近く）\n#SENE #オリーブヤング #韓国旅行 #聖水 #韓国コスメ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184121/wn6wdlfm2nhuscqzt40s.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184120/t4hjvjwjucibm3rbogfn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184121/wn6wdlfm2nhuscqzt40s.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T19:42+09:00"
+      }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfCPk3uFLQD/",
+      "cover": "J",
+      "at": "2026-10-28T19:42+09:00",
+      "account": "sene_ja",
+      "via": "api"
+     }
+    }
    }
   }
  ],
@@ -2418,7 +2492,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T19:40+09:00"
+  "at": "2026-10-28T19:42+09:00"
  },
  "slots": {
   "basis": 0,
