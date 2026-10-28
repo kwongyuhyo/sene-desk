@@ -532,6 +532,12 @@
        "file": "Mermaid_Party_to_Nov_29_NolGeoLi_no_lyrics.mp4",
        "sig": "0cef652b1e",
        "v": "c7c0cf62"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:37+09:00",
+       "sig": "8adfd2e6b6",
+       "job": 135
       }
      }
     },
@@ -560,6 +566,12 @@
        "file": "RenYupatei_11Yue29Rimade_NolGeoLi_no_lyrics.mp4",
        "sig": "6cfc033107",
        "v": "4d69a1b3"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:37+09:00",
+       "sig": "8398f86a36",
+       "job": 136
       }
      }
     }
@@ -785,24 +797,10 @@
      "key": "fEaKuxvSDf4@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793145400/sene_studio/zk0p3iubpqrrvsbqzthq.mp4",
-     "at": "2026-10-28T08:56+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793209265/sene_studio/itrjwiod1t7s7akavtwr.mp4",
+     "at": "2026-10-29T02:41+09:00",
      "file": "SsoNeun_DeuLaeGonBol_SeongSuESeo_11Wol_15_KeolCheo_no_lyrics.mp4",
-     "subs": {
-      "id": "st:1793145402338-dcbad261",
-      "segs": [
-       {
-        "start": 28.58,
-        "end": 30.78,
-        "text": "Birds of the"
-       }
-      ]
-     },
-     "v": "1776ac10"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T02:29+09:00"
+     "v": "791a41ff"
     }
    },
    "corner_name": "소식",
@@ -3815,7 +3813,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T02:37+09:00"
+  "at": "2026-10-29T02:41+09:00"
  },
  "slots": {
   "basis": 0,
