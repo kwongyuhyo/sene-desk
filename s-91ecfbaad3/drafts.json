@@ -1619,6 +1619,13 @@
        "cvr": 2,
        "at": "2026-10-28T17:54+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfCOsSHlJgj/",
+      "cover": "E",
+      "at": "2026-10-28T19:34+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -1636,8 +1643,22 @@
        "cvr": 2,
        "at": "2026-10-28T17:54+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfCOtvllAgu/",
+      "cover": "J",
+      "at": "2026-10-28T19:35+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfCOqwoFK5D/",
+    "cover": "A",
+    "at": "2026-10-28T19:34+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -1782,6 +1803,12 @@
      "at": "2026-10-28T17:55+09:00",
      "file": "GeumBich_MeDalLiOng_DiOl_HolLiDeI_11Wol__ByuTi_no_lyrics.mp4",
      "v": "1c4feda1"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfCOyCwnIGc/",
+     "at": "2026-10-28T19:36+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "pick": {
@@ -1837,6 +1864,12 @@
        "file": "unknown_Dior_Holiday_Nov_1_ByuTi_no_lyrics.mp4",
        "sig": "de95508028",
        "v": "d6f8b24b"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfCO2WUjFlM/",
+       "at": "2026-10-28T19:36+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      },
      "published": {
@@ -1872,6 +1905,12 @@
        "file": "unknown_deioru111FaMai_ByuTi_no_lyrics.mp4",
        "sig": "7776d14e7e",
        "v": "66694a9f"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfCO6U5mV3c/",
+       "at": "2026-10-28T19:37+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      },
      "published": {
@@ -2223,7 +2262,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T19:34+09:00"
+  "at": "2026-10-28T19:37+09:00"
  },
  "slots": {
   "basis": 0,
