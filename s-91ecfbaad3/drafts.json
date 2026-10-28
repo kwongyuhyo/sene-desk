@@ -1830,7 +1830,14 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=PqOGLljj9Lw\n구간: 0:15-0:45\n곡: *Dior* Holiday, Nov 1\n아티스트: \n피처링:\n후킹: Cinnamon and honey:\n출처: Christian Dior\n자막: 자동",
-      "caption": "The 2026 holiday collection from Dior Beauty (@diorbeauty) goes on sale at stores across Korea from Nov 1.\n\nThe video is Dior's holiday campaign film for this year, and the collection is called Cinnamon Glaze. Peter Philips started from a gingerbread house, mixing cinnamon and honey tones with metallic blue, silver and glitter.\n\nIt first launched at the online boutique on Oct 15 and at the Shinsegae Gangnam and Lotte World Mall boutiques in Seoul on Oct 22, and from this weekend it expands to department stores nationwide and major online channels.\n\nNationwide: From Sun, Nov 1\nVideo: Christian Dior official YouTube 'Dior Beauty Holiday 2026'\n#SENE #DiorBeauty #DiorHoliday #CinnamonGlaze #HolidayMakeup"
+      "caption": "The 2026 holiday collection from Dior Beauty (@diorbeauty) goes on sale at stores across Korea from Nov 1.\n\nThe video is Dior's holiday campaign film for this year, and the collection is called Cinnamon Glaze. Peter Philips started from a gingerbread house, mixing cinnamon and honey tones with metallic blue, silver and glitter.\n\nIt first launched at the online boutique on Oct 15 and at the Shinsegae Gangnam and Lotte World Mall boutiques in Seoul on Oct 22, and from this weekend it expands to department stores nationwide and major online channels.\n\nNationwide: From Sun, Nov 1\nVideo: Christian Dior official YouTube 'Dior Beauty Holiday 2026'\n#SENE #DiorBeauty #DiorHoliday #CinnamonGlaze #HolidayMakeup",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793177851/sene_studio/vtfitzumtmtzess98u5r.mp4",
+       "at": "2026-10-28T17:57+09:00",
+       "file": "unknown_Dior_Holiday_Nov_1_ByuTi_no_lyrics.mp4",
+       "sig": "de95508028",
+       "v": "d6f8b24b"
+      }
      }
     },
     "ja": {
@@ -1851,7 +1858,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=PqOGLljj9Lw\n구간: 0:15-0:45\n곡: *ディオール*11/1発売\n아티스트: \n피처링:\n후킹: シナモンと蜂蜜色の\n출처: Christian Dior\n자막: 자동",
-      "caption": "ディオール ビューティー（@diorbeauty）の2026年ホリデー コレクションが、11月1日から韓国全国の店舗で発売されます。\n\n映像はディオールが公開した今年のホリデー キャンペーンフィルムで、コレクション名は〈シナモン グレイズ〉です。ピーター・フィリップスがジンジャーブレッドハウスを出発点に、シナモンと蜂蜜の色にメタリックなブルー・シルバー、グリッターを重ねました。\n\n10月15日にオンライン ブティック、22日にソウルの新世界百貨店 江南店（シンセゲ・カンナム）・ロッテワールドモールのブティックで先行発売され、今週末から韓国全国の百貨店と主要オンラインチャネルへ広がります。\n\n全国発売：11月1日（日）から\n映像：Christian Dior 公式YouTube『Dior Beauty Holiday 2026』\n#SENE #ディオール #ディオールホリデー #シナモングレイズ #ホリデーコスメ"
+      "caption": "ディオール ビューティー（@diorbeauty）の2026年ホリデー コレクションが、11月1日から韓国全国の店舗で発売されます。\n\n映像はディオールが公開した今年のホリデー キャンペーンフィルムで、コレクション名は〈シナモン グレイズ〉です。ピーター・フィリップスがジンジャーブレッドハウスを出発点に、シナモンと蜂蜜の色にメタリックなブルー・シルバー、グリッターを重ねました。\n\n10月15日にオンライン ブティック、22日にソウルの新世界百貨店 江南店（シンセゲ・カンナム）・ロッテワールドモールのブティックで先行発売され、今週末から韓国全国の百貨店と主要オンラインチャネルへ広がります。\n\n全国発売：11月1日（日）から\n映像：Christian Dior 公式YouTube『Dior Beauty Holiday 2026』\n#SENE #ディオール #ディオールホリデー #シナモングレイズ #ホリデーコスメ",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-28T17:56+09:00",
+       "sig": "7776d14e7e",
+       "job": 112
+      }
      }
     }
    }
@@ -2174,7 +2187,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T17:56+09:00"
+  "at": "2026-10-28T17:57+09:00"
  },
  "slots": {
   "basis": 0,
