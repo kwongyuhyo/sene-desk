@@ -1486,11 +1486,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=2T5L6XsgP6I\n구간: 3:59-4:14\n곡: *ハースト*は語る\n아티스트: いい考えだと\n피처링:\n후킹: 着られるアート、\n출처: BARRIE\n자막: 자동",
       "caption": "ダミアン・ハーストのドットと蝶が、カシミヤニットになりました。\n\nスコットランドのカシミヤブランド、バリー（BARRIE）と手がけた7つのアイテムで、ハーストを代表する2つのモチーフ「スポット（Spots）」と「バタフライ（Butterflies）」を落とし込んでいます。すべてカシミヤで作られ、色ごとに1番から100番までの番号が付きます。\n\n映像はバリーが公開したハーストの対談です。彼は、考えさせながら見た目にも美しいものを作りたいだけだと話し、着られるアートはいい考えだと語ります。\n\n映像：バリー公式YouTube『Damien Hirst in conversation with Cornelius Tittel』\n#SENE #ダミアンハースト #バリー #カシミヤ #BARRIE",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T11:50+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793155962/sene_studio/wwwt8dizxfsb62touz56.mp4",
+       "at": "2026-10-28T11:52+09:00",
+       "file": "iiKaoedato_hasutohaYuru_PaeSyeon_no_lyrics.mp4",
        "sig": "5409ed143b",
-       "job": 109
+       "v": "b3890bf2"
       }
      }
     }
@@ -1625,7 +1626,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T11:51+09:00"
+  "at": "2026-10-28T11:52+09:00"
  },
  "slots": {
   "basis": 0,
