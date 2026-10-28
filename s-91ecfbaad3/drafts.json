@@ -1293,7 +1293,39 @@
     "at": "2026-10-28T11:47+09:00"
    },
    "corner_name": "그 말",
-   "i18n_queued": "2026-10-28T11:47+09:00"
+   "i18n_queued": "2026-10-28T11:47+09:00",
+   "i18n": {
+    "at": "2026-10-28T11:48+09:00",
+    "confirm": [
+     "한국어 원문은 '모두 캐시미어로 만들었고'라고 썼지만, The Impression 보도에는 면 티셔츠도 컬렉션에 들어 있다고 나옵니다. 번역은 원문대로 두었으니, 한국어판과 함께 출처를 다시 확인해 주세요.",
+     "영어 숏폼 세 칸을 그대로 옮기면 40자를 넘어서 '데미안 허스트'를 성 'Hirst'로 줄였습니다. 이어 읽으면 'Wearable art is / a good idea, / says Hirst.'입니다. 일본어도 한 줄 11자에 맞추려고 'ハースト'로 줄였습니다.",
+     "일본어 브랜드 표기 'バリー（BARRIE）'는 공식 일본어 표기를 확인하지 못했습니다. 일본 공식 사이트·계정에서 다시 확인해 주세요.",
+     "일본어 · 'バリー' 는 일본에서 Bally 와 같은 표기라 헷갈릴 수 있음 — 첫 등장에 （BARRIE）를 붙여 두었으나, 해시태그 #バリー 가 Bally 쪽 게시물과 섞일 수 있으니 올리기 전 확인"
+    ],
+    "review": {
+     "at": "2026-10-28T11:48+09:00",
+     "fixes": [
+      "영어 · 캡션 · each colorway is numbered from 1 to 100 → the pieces in each colorway are numbered from 1 to 100 — 색이 100가지라는 뜻으로도 읽힘",
+      "영어 · 해시태그 · #Barrie 와 #BARRIE 가 인스타그램에선 같은 태그라 겹침 → #Barrie 빼고 #Knitwear 추가",
+      "일본어 · 캡션 · モチーフを写し取っています → 落とし込んでいます — 패션에서 무늬를 옷에 옮길 때 쓰는 자연스러운 연어"
+     ],
+     "doubt": [
+      "일본어 · 'バリー' 는 일본에서 Bally 와 같은 표기라 헷갈릴 수 있음 — 첫 등장에 （BARRIE）를 붙여 두었으나, 해시태그 #バリー 가 Bally 쪽 게시물과 섞일 수 있으니 올리기 전 확인"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=2T5L6XsgP6I\n구간: 3:59-4:14\n곡: says *Hirst*.\n아티스트: a good idea,\n피처링:\n후킹: Wearable art is\n출처: BARRIE\n자막: 자동",
+      "caption": "Damien Hirst's spots and butterflies have become cashmere knitwear.\n\nThe seven pieces were made with Scottish cashmere brand Barrie, and they carry Hirst's two signature motifs, Spots and Butterflies. Every piece is cashmere, and the pieces in each colorway are numbered from 1 to 100.\n\nThe video is a conversation with Hirst released by Barrie. He says he simply wants to make things that look good and make people think, and that wearable art is a good idea.\n\nVideo: Barrie official YouTube, 'Damien Hirst in conversation with Cornelius Tittel'\n#SENE #DamienHirst #BARRIE #Cashmere #Knitwear"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=2T5L6XsgP6I\n구간: 3:59-4:14\n곡: *ハースト*は語る\n아티스트: いい考えだと\n피처링:\n후킹: 着られるアート、\n출처: BARRIE\n자막: 자동",
+      "caption": "ダミアン・ハーストのドットと蝶が、カシミヤニットになりました。\n\nスコットランドのカシミヤブランド、バリー（BARRIE）と手がけた7つのアイテムで、ハーストを代表する2つのモチーフ「スポット（Spots）」と「バタフライ（Butterflies）」を落とし込んでいます。すべてカシミヤで作られ、色ごとに1番から100番までの番号が付きます。\n\n映像はバリーが公開したハーストの対談です。彼は、考えさせながら見た目にも美しいものを作りたいだけだと話し、着られるアートはいい考えだと語ります。\n\n映像：バリー公式YouTube『Damien Hirst in conversation with Cornelius Tittel』\n#SENE #ダミアンハースト #バリー #カシミヤ #BARRIE"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1424,7 +1456,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T11:47+09:00"
+  "at": "2026-10-28T11:48+09:00"
  },
  "slots": {
   "basis": 0,
