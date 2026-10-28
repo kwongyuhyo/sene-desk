@@ -1667,6 +1667,12 @@
        "file": "a_good_idea_says_Hirst_PaeSyeon_no_lyrics.mp4",
        "sig": "d5ed79cd58",
        "v": "565f8f03"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:47+09:00",
+       "sig": "b3dc949ee2",
+       "job": 141
       }
      }
     },
@@ -1680,6 +1686,12 @@
        "file": "iiKaoedato_hasutohaYuru_PaeSyeon_no_lyrics.mp4",
        "sig": "5409ed143b",
        "v": "b3890bf2"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:47+09:00",
+       "sig": "0b12c1a33d",
+       "job": 142
       }
      }
     }
@@ -1992,20 +2004,46 @@
      "key": "PqOGLljj9Lw@15.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793177703/sene_studio/mfcg8jwqvpw1oswifo3p.mp4",
-     "at": "2026-10-28T17:55+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793209833/sene_studio/i2zklyvizmttlmfbtugv.mp4",
+     "at": "2026-10-29T02:50+09:00",
      "file": "GeumBich_MeDalLiOng_DiOl_HolLiDeI_11Wol__ByuTi_no_lyrics.mp4",
-     "v": "1c4feda1"
+     "subs": {
+      "id": "st:1793209835855-6d80cdf2",
+      "segs": [
+       {
+        "start": 14.86,
+        "end": 18.32,
+        "text": "많은 노래 예유영 offices Award"
+       },
+       {
+        "start": 18.32,
+        "end": 18.81,
+        "text": "네 ellos 원적으로"
+       },
+       {
+        "start": 18.81,
+        "end": 23.14,
+        "text": "매진행 비 créumer"
+       },
+       {
+        "start": 23.14,
+        "end": 28.32,
+        "text": "organislaub overseas 다음"
+       },
+       {
+        "start": 28.32,
+        "end": 29.98,
+        "text": "영상에서 만나요"
+       }
+      ]
+     },
+     "v": "965c730a"
     },
     "published": {
      "permalink": "https://www.instagram.com/reel/DfCOyCwnIGc/",
      "at": "2026-10-28T19:36+09:00",
      "account": "sene",
      "via": "api"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T02:29+09:00"
     }
    },
    "corner_name": "소식",
@@ -3834,7 +3872,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T02:47+09:00"
+  "at": "2026-10-29T02:50+09:00"
  },
  "slots": {
   "basis": 0,
