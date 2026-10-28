@@ -1161,6 +1161,12 @@
        "file": "unknown_I_wrote_many_lines_KeolCheo_no_lyrics.mp4",
        "sig": "42e26c5f5a",
        "v": "663c926f"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:46+09:00",
+       "sig": "36c565eaa0",
+       "job": 139
       }
      }
     },
@@ -1174,6 +1180,12 @@
        "file": "tachiyanoTaiCi_DuokuhaPugaShuita_KeolCheo_no_lyrics.mp4",
        "sig": "1e39cedaa9",
        "v": "4b85b163"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:46+09:00",
+       "sig": "5b29a6bd1a",
+       "job": 140
       }
      }
     }
@@ -1573,54 +1585,55 @@
      "key": "2T5L6XsgP6I@239.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793155777/sene_studio/c5jnqnmyqaaepj6t1ebq.mp4",
-     "at": "2026-10-28T11:49+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793209677/sene_studio/ou4hrzbwlubmakfy0n9s.mp4",
+     "at": "2026-10-29T02:47+09:00",
      "file": "JohEun_SaengGagILaGo_DeMiAn_HeoSeuTeuNeun_PaeSyeon_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793155778644-1dec8cd4",
+      "id": "st:1793209679106-1dec8cd4",
       "segs": [
        {
         "start": 0.0,
-        "end": 6.26,
-        "text": "그리고 무언가 위치 동작한 동작은 집에서"
+        "end": 0.42,
+        "text": "그리고 다음"
        },
        {
-        "start": 6.26,
-        "end": 8.58,
-        "text": "입을 수 있는 예술을 만들 수 있습니다"
+        "start": 0.42,
+        "end": 1.08,
+        "text": "영상에서 만나요"
        },
        {
-        "start": 8.58,
-        "end": 10.31,
-        "text": "저는 문과 같은 문 입니다"
+        "start": 1.08,
+        "end": 2.72,
+        "text": "여러분 그 누학 일정 대학 universe"
        },
        {
-        "start": 10.31,
-        "end": 13.39,
-        "text": "정말 좋은 예술을 만들 수 있습니다"
+        "start": 2.72,
+        "end": 3.86,
+        "text": "시 McCield Der 수업만"
        },
        {
-        "start": 13.39,
-        "end": 14.0,
-        "text": "잘 수 있습니다"
+        "start": 3.86,
+        "end": 7.52,
+        "text": "Maria 그러나 굉장히 매우 좋은"
        },
        {
-        "start": 14.0,
-        "end": 14.52,
-        "text": "단 좋습니다"
+        "start": 7.52,
+        "end": 9.16,
+        "text": "소속입니다"
        },
        {
-        "start": 14.52,
-        "end": 15.12,
-        "text": "감사합니다"
+        "start": 9.16,
+        "end": 12.25,
+        "text": "전문의 enter 주님 method입니다"
+       },
+       {
+        "start": 12.25,
+        "end": 14.48,
+        "text": "최고의 영상 좋은 영상입니다"
        }
       ]
      },
-     "v": "5ab02fa4"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T02:29+09:00"
+     "v": "436c0bd0"
     }
    },
    "corner_name": "그 말",
@@ -3821,7 +3834,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T02:46+09:00"
+  "at": "2026-10-29T02:47+09:00"
  },
  "slots": {
   "basis": 0,
