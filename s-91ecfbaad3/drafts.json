@@ -2745,7 +2745,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: *D'FESTA* to Nov 30\n아티스트: a giant set —\n피처링:\n후킹: 48 crossed\n출처: Dispatch\n자막: 자동",
-      "caption": "'D'FESTA THE ORIGIN', an exhibition bringing together 48 K-pop artists, is now open in Yeouido, Seoul.\n\nThe video is 'KANON NO. 48', a work from the exhibition. It weaves together the movements of 48 artists from G-DRAGON, BTS, Stray Kids (@realstraykids), TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS as they walk across a giant structure.\n\nInside, an 8-meter-wide black-and-white portrait, drawings by the members themselves and handwritten letters to fans follow. After Seoul, it heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, Yeouido · KRW 32,000 (general admission) · NOL Ticket\nVideo: Dispatch, '[D'FESTA THE ORIGIN] KANON NO.48'\n#SENE #DFESTA #DFESTATHEORIGIN #IFCMall #Yeouido #KpopExhibition"
+      "caption": "'D'FESTA THE ORIGIN', an exhibition bringing together 48 K-pop artists, is now open in Yeouido, Seoul.\n\nThe video is 'KANON NO. 48', a work from the exhibition. It weaves together the movements of 48 artists from G-DRAGON, BTS, Stray Kids (@realstraykids), TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS as they walk across a giant structure.\n\nInside, an 8-meter-wide black-and-white portrait, drawings by the members themselves and handwritten letters to fans follow. After Seoul, it heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, Yeouido · KRW 32,000 (general admission) · NOL Ticket\nVideo: Dispatch, '[D'FESTA THE ORIGIN] KANON NO.48'\n#SENE #DFESTA #DFESTATHEORIGIN #IFCMall #Yeouido #KpopExhibition",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-28T22:06+09:00",
+       "sig": "28bfbc8b8a",
+       "job": 120
+      }
      }
     },
     "ja": {
@@ -2766,7 +2772,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: *ディフェスタ*〜11/30\n아티스트: 巨大構造物\n피처링:\n후킹: 48人が歩いた\n출처: Dispatch\n자막: 자동",
-      "caption": "K-POPアーティスト48人をひとつの展示に収めた『D'FESTA THE ORIGIN（ディフェスタ ジ・オリジン）』が、ソウル・汝矣島（ヨイド）で開かれています。\n\n映像は展示作品「KANON NO. 48」です。G-DRAGON、BTS、Stray Kids（@realstraykids）、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの48人が巨大な構造物の上を歩く動きを、ひとつの作品に編み上げました。\n\n会場には横幅8mのモノクロポートレート、メンバー自ら描いた絵、ファンに宛てた直筆の手紙が続きます。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：汝矣島 IFCモール L3 MPXギャラリー・一般32,000ウォン・NOL ticket\n映像：Dispatch「[D'FESTA THE ORIGIN] KANON NO.48」\n#SENE #ディフェスタ #DFESTA #韓国旅行 #汝矣島 #IFCモール"
+      "caption": "K-POPアーティスト48人をひとつの展示に収めた『D'FESTA THE ORIGIN（ディフェスタ ジ・オリジン）』が、ソウル・汝矣島（ヨイド）で開かれています。\n\n映像は展示作品「KANON NO. 48」です。G-DRAGON、BTS、Stray Kids（@realstraykids）、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの48人が巨大な構造物の上を歩く動きを、ひとつの作品に編み上げました。\n\n会場には横幅8mのモノクロポートレート、メンバー自ら描いた絵、ファンに宛てた直筆の手紙が続きます。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：汝矣島 IFCモール L3 MPXギャラリー・一般32,000ウォン・NOL ticket\n映像：Dispatch「[D'FESTA THE ORIGIN] KANON NO.48」\n#SENE #ディフェスタ #DFESTA #韓国旅行 #汝矣島 #IFCモール",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-28T22:06+09:00",
+       "sig": "1e9b153496",
+       "job": 121
+      }
      }
     }
    }
@@ -3249,9 +3261,86 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793192492/e3tkqo7b5n8c5f4jyhed.jpg",
      "key": "Bl5weOt6TUE@123.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-28T22:02+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793192931/sene_studio/afj6qjrnqgudxjf6tdye.mp4",
+     "at": "2026-10-28T22:08+09:00",
+     "file": "SiGan_BoNaeNeun_Ge_NeoMu_HwanSangJeogIb_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793192932508-c328bf34",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 1.53,
+        "text": "남미에 와서"
+       },
+       {
+        "start": 1.53,
+        "end": 2.76,
+        "text": "남미 팬분들과"
+       },
+       {
+        "start": 2.76,
+        "end": 5.85,
+        "text": "이렇게 시간 보내는 게 너무 환상적입니다"
+       },
+       {
+        "start": 5.85,
+        "end": 7.17,
+        "text": "너무 기분 좋고"
+       },
+       {
+        "start": 7.17,
+        "end": 10.48,
+        "text": "멕시코 팬분들에게 너무 감사하고"
+       },
+       {
+        "start": 10.48,
+        "end": 13.82,
+        "text": "공연을 했다는 것도 엄청 영광이고"
+       },
+       {
+        "start": 13.82,
+        "end": 16.79,
+        "text": "공연도 같이 노래 부르고 뛰어다니면서"
+       },
+       {
+        "start": 16.79,
+        "end": 20.22,
+        "text": "했었는데 너무너무 좋았습니다"
+       },
+       {
+        "start": 20.22,
+        "end": 23.06,
+        "text": "근데 시차는 확실히 적응할 시간이"
+       },
+       {
+        "start": 23.06,
+        "end": 24.37,
+        "text": "필요한 것 같아요"
+       },
+       {
+        "start": 24.37,
+        "end": 27.38,
+        "text": "지금 시간대쯤 되면 꼭 졸리더라고요"
+       },
+       {
+        "start": 27.38,
+        "end": 28.74,
+        "text": "딱 지금 6시"
+       },
+       {
+        "start": 28.74,
+        "end": 31.84,
+        "text": "한국은 새벽 6시 저는 시차 같은"
+       },
+       {
+        "start": 31.84,
+        "end": 32.98,
+        "text": "걸 잘 모른다고 생각해요"
+       }
+      ]
+     },
+     "v": "2669f194"
     }
    },
    "corner_name": "소식"
@@ -3532,7 +3621,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T22:06+09:00"
+  "at": "2026-10-28T22:08+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3541,7 +3630,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T22:08+09:00",
+  "next": "2026-10-28T22:10+09:00",
   "n": 0,
   "gap": 20
  }
