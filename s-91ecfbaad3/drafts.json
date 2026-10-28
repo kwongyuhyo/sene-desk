@@ -3435,7 +3435,9 @@
      "cvr": 2,
      "at": "2026-10-28T22:01+09:00",
      "v": {
-      "A": "0f424ba0"
+      "A": "0f424ba0",
+      "E": "1f88b93d",
+      "J": "d3b5a4cf"
      }
     }
    },
@@ -3559,7 +3561,95 @@
      "v": "55c66359"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfCit8nlAhC/",
+    "cover": "A",
+    "at": "2026-10-28T22:29+09:00",
+    "account": "sene",
+    "via": "api"
+   },
+   "i18n": {
+    "at": "2026-10-28T22:32+09:00",
+    "confirm": [
+     "영어 제목 'Dead-End Job'은 넷플릭스 공식 보도자료(about.netflix.com)와 여러 매체에서 확인했습니다. 일본어 공식 제목은 찾지 못해, 한국어 제목 꿀알바를 カタカナ로 옮겨 『クルアルバ』라고 쓰고 괄호 안에 원어와 영어 제목을 함께 적었습니다. 올리기 전 넷플릭스 재팬 작품 페이지에서 일본어 제목을 확인해 주세요.",
+     "일본어 이름 표기(イ・ジェウク / コ・ミンシ / キム・ミンハ / イ・ヒジュン / ハン・ジュニ)와 인물 이름(ヒョクジュン·ヨンジュ / Hyeok-jun·Yeon-ju)은 흔히 쓰는 로마자·カタカナ 표기를 따랐을 뿐, 넷플릭스 재팬 공식 표기로 확인한 것은 아닙니다. 이희준의 영어 표기도 매체마다 Lee Hee-joon과 Lee Hee-jun으로 갈립니다.",
+     "〈D.P.〉와 〈약한영웅〉은 일본 넷플릭스 제목으로 알려진 『D.P. -脱走兵追跡官-』와 『弱いヒーロー』로, 영어는 'D.P.'와 'Weak Hero'로 옮겼습니다. 이번 검색에서 공식 표기로 다시 확인하지는 못했습니다.",
+     "청소년 관람불가 등급은 영어로 'Rated 19+', 일본어로 「青少年観覧不可（19歳以上）」라고 옮겼습니다.",
+     "출처 칸의 'Netflix Korea 넷플릭스 코리아'는 채널 이름이라 바꾸지 않았습니다.",
+     "영어 숏폼 세 칸: 한 칸에 20자, 세 칸 합 40자를 넘지 않도록 아티스트 칸을 비웠습니다.",
+     "일본어 공식 제목(Netflix Japan 표기)을 확인하지 못했습니다. 『クルアルバ』는 임시 음역이라 일본 독자에게 뜻이 안 통합니다. 올리기 전에 Netflix Japan 작품 페이지에서 일본어 제목을 확인하고, 있으면 표지·숏폼·캡션에 반영해야 합니다",
+     "영어 제목은 매체마다 'Perfect Job'(가제)·'Sweet Gig'으로도 나왔습니다. 넷플릭스 공식 보도자료 기준은 'Dead-End Job'이라 그대로 두었습니다",
+     "숏폼 캡션의 예고편 제목 『꿀알바 | 公式予告編』·'Dead-End Job | Official Trailer'가 유튜브의 실제 영상 제목과 같은지 확인이 필요합니다",
+     "영어판 출처에 한글이 남음",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-10-28T22:32+09:00",
+     "fixes": [
+      "영어 · 부제·캡션·숏폼 캡션 · Go Min-si → Ko Min-si, Lee Hee-joon → Lee Hee-jun — 넷플릭스 공식 보도자료(about.netflix.com) 표기에 맞춤",
+      "영어 · 캡션·숏폼 캡션 · 'Dead-End Job' (꿀알바) → 'Dead-End Job' — 공식 영어 제목이 있어 남은 한글 삭제",
+      "영어 · 캡션·숏폼 캡션 · jobs paying from 50 times → jobs starting at 50 times — 어색한 연어",
+      "일본어 · 숏폼 아티스트 칸 · 始まるバイト → 始まるバイト、 — 세 칸을 이어 읽을 때 문장 부호 보강",
+      "일본어 · 캡션 · 〜訪ねる物語ですが、→ 〜訪ねる物語です。 — 「〜인데요」 직역이라 역접으로 읽힘",
+      "일본어 · 숏폼 캡션 · 公式予告編ですが、→ 公式予告編です。 — 같은 이유",
+      "일본어 · 캡션·숏폼 캡션 · 青少年観覧不可（19歳以上）→ 19歳以上対象 — 한국 등급 직역투"
+     ],
+     "doubt": [
+      "일본어 공식 제목(Netflix Japan 표기)을 확인하지 못했습니다. 『クルアルバ』는 임시 음역이라 일본 독자에게 뜻이 안 통합니다. 올리기 전에 Netflix Japan 작품 페이지에서 일본어 제목을 확인하고, 있으면 표지·숏폼·캡션에 반영해야 합니다",
+      "영어 제목은 매체마다 'Perfect Job'(가제)·'Sweet Gig'으로도 나왔습니다. 넷플릭스 공식 보도자료 기준은 'Dead-End Job'이라 그대로 두었습니다",
+      "숏폼 캡션의 예고편 제목 『꿀알바 | 公式予告編』·'Dead-End Job | Official Trailer'가 유튜브의 실제 영상 제목과 같은지 확인이 필요합니다",
+      "영어판 출처에 한글이 남음",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nNetflix's series 'Dead-End Job' releases all eight episodes at once this Friday.\n\nHyeok-jun (Lee Jae-wook), a young man buried in debt, walks into a staffing agency that only offers part-time jobs starting at 50 times the usual hourly wage. The more dangerous the work, the higher the pay, and the harder it is to get out. Netflix calls the series 'make-a-living horror.'\n\nKo Min-si plays Yeon-ju, an accident investigator at an occupational injury protection agency, Lee Hee-jun plays the head of the staffing agency, and Kim Min-ha joins the cast. Han Jun-hee, the creator behind 'D.P.' and 'Weak Hero,' oversaw the project.\n\nPremiere: Oct 30 (Fri) · Netflix · 8 episodes · Rated 19+\n#SENE #DeadEndJob #Netflix #LeeJaeWook #KDrama\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793192447/ncvmeqmjkdy7y3friat3.jpg\n제목: The Price of 50x Pay|'Dead-End Job' Out Friday\n부제: Netflix, 8 episodes · Lee Jae-wook, Ko Min-si, Kim Min-ha, Lee Hee-jun · Oct 30\n출처: Netflix\n",
+      "caption": "Netflix's series 'Dead-End Job' releases all eight episodes at once this Friday.\n\nHyeok-jun (Lee Jae-wook), a young man buried in debt, walks into a staffing agency that only offers part-time jobs starting at 50 times the usual hourly wage. The more dangerous the work, the higher the pay, and the harder it is to get out. Netflix calls the series 'make-a-living horror.'\n\nKo Min-si plays Yeon-ju, an accident investigator at an occupational injury protection agency, Lee Hee-jun plays the head of the staffing agency, and Kim Min-ha joins the cast. Han Jun-hee, the creator behind 'D.P.' and 'Weak Hero,' oversaw the project.\n\nPremiere: Oct 30 (Fri) · Netflix · 8 episodes · Rated 19+\n#SENE #DeadEndJob #Netflix #LeeJaeWook #KDrama",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793194327/pfuz4p7qgse1oppaahhw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793194327/joxougerxfmrxawyvpc5.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793194327/pfuz4p7qgse1oppaahhw.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T22:32+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=LV7t01LnTDA\n구간: 0:20-0:50\n곡: *Dead-End Job* out Fri\n아티스트: \n피처링:\n후킹: Gigs at 50x pay —\n출처: Netflix Korea 넷플릭스 코리아\n자막: 자동",
+      "caption": "Netflix's series 'Dead-End Job' releases all eight episodes at once this Friday.\n\nThis is the official trailer released by Netflix. The story begins when Hyeok-jun (Lee Jae-wook), a young man buried in debt, steps into a staffing agency that only offers part-time jobs starting at 50 times the usual hourly wage. The more dangerous the work, the higher the pay.\n\nKo Min-si, Kim Min-ha and Lee Hee-jun co-star, and Han Jun-hee, the creator behind 'D.P.' and 'Weak Hero,' oversaw the project.\n\nPremiere: Oct 30 (Fri) · Netflix · 8 episodes · Rated 19+\nVideo: Netflix Korea 넷플릭스 코리아(@netflixkr) 'Dead-End Job | Official Trailer'\n#SENE #DeadEndJob #Netflix #LeeJaeWook #KDrama"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nNetflixシリーズ『クルアルバ（꿀알바／英題：Dead-End Job）』が、今週金曜日に全8話一挙配信されます。\n\n借金に追われる青年ヒョクジュン（イ・ジェウク）が、時給50倍から始まるバイトだけを紹介する人材事務所を訪ねる物語です。仕事が危険になるほど時給も上がり、簡単には抜け出せません。Netflixはこの作品を「生計型メシ稼ぎホラー」と呼んでいます。\n\nコ・ミンシが労働災害保護院の事故調査官ヨンジュを、イ・ヒジュンが人材事務所の社長を演じ、キム・ミンハも出演します。『D.P. -脱走兵追跡官-』『弱いヒーロー』のハン・ジュニが企画を総括しました。\n\n配信：10月30日（金）・Netflix・全8話・19歳以上対象\n#SENE #韓国ドラマ #Netflix #イジェウク #コミンシ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793192447/ncvmeqmjkdy7y3friat3.jpg\n제목: 時給50倍の代償|『クルアルバ』金曜配信\n부제: Netflix全8話・イ・ジェウク、コ・ミンシ、キム・ミンハ、イ・ヒジュン・10月30日\n출처: Netflix\n",
+      "caption": "Netflixシリーズ『クルアルバ（꿀알바／英題：Dead-End Job）』が、今週金曜日に全8話一挙配信されます。\n\n借金に追われる青年ヒョクジュン（イ・ジェウク）が、時給50倍から始まるバイトだけを紹介する人材事務所を訪ねる物語です。仕事が危険になるほど時給も上がり、簡単には抜け出せません。Netflixはこの作品を「生計型メシ稼ぎホラー」と呼んでいます。\n\nコ・ミンシが労働災害保護院の事故調査官ヨンジュを、イ・ヒジュンが人材事務所の社長を演じ、キム・ミンハも出演します。『D.P. -脱走兵追跡官-』『弱いヒーロー』のハン・ジュニが企画を総括しました。\n\n配信：10月30日（金）・Netflix・全8話・19歳以上対象\n#SENE #韓国ドラマ #Netflix #イジェウク #コミンシ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793194330/eabp1gjrzprra6stsow5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793194330/x1iuleqmqun3bqxqwmdp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793194330/eabp1gjrzprra6stsow5.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T22:32+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=LV7t01LnTDA\n구간: 0:20-0:50\n곡: *クルアルバ*金曜配信\n아티스트: 始まるバイト、\n피처링:\n후킹: 時給50倍から\n출처: Netflix Korea 넷플릭스 코리아\n자막: 자동",
+      "caption": "Netflixシリーズ『クルアルバ（꿀알바／英題：Dead-End Job）』が、今週金曜日に全8話一挙配信されます。\n\n映像はNetflixが公開した公式予告編です。借金に追われる青年ヒョクジュン（イ・ジェウク）が、時給50倍から始まるバイトだけを紹介する人材事務所に足を踏み入れるところから物語が始まります。仕事が危険になるほど時給も上がります。\n\nコ・ミンシ、キム・ミンハ、イ・ヒジュンが共演し、『D.P. -脱走兵追跡官-』『弱いヒーロー』のハン・ジュニが企画を総括しました。\n\n配信：10月30日（金）・Netflix・全8話・19歳以上対象\n映像：Netflix Korea 넷플릭스 코리아（@netflixkr）『꿀알바 | 公式予告編』\n#SENE #韓国ドラマ #Netflix #イジェウク #コミンシ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -3690,7 +3780,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T22:14+09:00"
+  "at": "2026-10-28T22:32+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3699,7 +3789,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T22:16+09:00",
+  "next": "2026-10-28T22:49+09:00",
   "n": 0,
   "gap": 20
  }
