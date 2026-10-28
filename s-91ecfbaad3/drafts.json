@@ -2832,6 +2832,12 @@
        "file": "a_giant_set_-_DFESTA_to_Nov_30_KeolCheo_no_lyrics.mp4",
        "sig": "28bfbc8b8a",
        "v": "639d84b3"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:52+09:00",
+       "sig": "608ef36e30",
+       "job": 145
       }
      }
     },
@@ -2860,6 +2866,12 @@
        "file": "JuDaGouZaoWu_deifuesuta1130_KeolCheo_no_lyrics.mp4",
        "sig": "1e9b153496",
        "v": "9a434086"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:52+09:00",
+       "sig": "ca3c4068b3",
+       "job": 146
       }
      }
     }
@@ -3344,11 +3356,11 @@
      "key": "Bl5weOt6TUE@123.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793192931/sene_studio/afj6qjrnqgudxjf6tdye.mp4",
-     "at": "2026-10-28T22:08+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793210217/sene_studio/oymvikqun9rmw0ipljdv.mp4",
+     "at": "2026-10-29T02:56+09:00",
      "file": "SiGan_BoNaeNeun_Ge_NeoMu_HwanSangJeogIb_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793192932508-c328bf34",
+      "id": "st:1793210218495-c328bf34",
       "segs": [
        {
         "start": 0.0,
@@ -3362,16 +3374,16 @@
        },
        {
         "start": 2.76,
-        "end": 5.85,
+        "end": 5.86,
         "text": "이렇게 시간 보내는 게 너무 환상적입니다"
        },
        {
-        "start": 5.85,
-        "end": 7.17,
+        "start": 5.86,
+        "end": 7.18,
         "text": "너무 기분 좋고"
        },
        {
-        "start": 7.17,
+        "start": 7.18,
         "end": 10.48,
         "text": "멕시코 팬분들에게 너무 감사하고"
        },
@@ -3387,11 +3399,11 @@
        },
        {
         "start": 16.79,
-        "end": 20.22,
+        "end": 20.18,
         "text": "했었는데 너무너무 좋았습니다"
        },
        {
-        "start": 20.22,
+        "start": 20.18,
         "end": 23.06,
         "text": "근데 시차는 확실히 적응할 시간이"
        },
@@ -3407,13 +3419,13 @@
        },
        {
         "start": 27.38,
-        "end": 28.74,
+        "end": 28.4,
         "text": "딱 지금 6시"
        },
        {
-        "start": 28.74,
+        "start": 28.4,
         "end": 31.84,
-        "text": "한국은 새벽 6시 저는 시차 같은"
+        "text": "그리고 한국은 새벽 6시 저는 시차 같은"
        },
        {
         "start": 31.84,
@@ -3422,11 +3434,7 @@
        }
       ]
      },
-     "v": "2669f194"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T02:29+09:00"
+     "v": "da57904e"
     }
    },
    "corner_name": "소식"
@@ -3880,7 +3888,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T02:52+09:00"
+  "at": "2026-10-29T02:56+09:00"
  },
  "slots": {
   "basis": 0,
