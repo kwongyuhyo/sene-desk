@@ -472,25 +472,20 @@
      "key": "nroLotMqwyg@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793197639/sene_studio/e1jgxy5dskxstgt61j0i.mp4",
-     "at": "2026-10-28T23:27+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793209024/sene_studio/tzwuaa2siu2xx7a4ps9p.mp4",
+     "at": "2026-10-29T02:37+09:00",
      "file": "InEo_PaTi_11Wol_29IlKkaJi_NolGeoLi_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793197640725-92a02188",
+      "id": "st:1793209026129-92a02188",
       "segs": [
        {
-        "start": 0.0,
-        "end": 34.96,
-        "text": "!! 다음"
-       },
-       {
-        "start": 34.96,
-        "end": 36.94,
-        "text": "영상에서 만나요"
+        "start": 10.44,
+        "end": 12.64,
+        "text": "dryer"
        }
       ]
      },
-     "v": "0a703851"
+     "v": "ac1187ca"
     }
    },
    "corner_name": "후속",
@@ -804,6 +799,10 @@
       ]
      },
      "v": "1776ac10"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T02:29+09:00"
     }
    },
    "corner_name": "소식",
@@ -1106,6 +1105,10 @@
       ]
      },
      "v": "dbb288e8"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T02:29+09:00"
     }
    },
    "corner_name": "그 말",
@@ -1608,6 +1611,10 @@
       ]
      },
      "v": "5ab02fa4"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T02:29+09:00"
     }
    },
    "corner_name": "그 말",
@@ -1976,6 +1983,10 @@
      "at": "2026-10-28T19:36+09:00",
      "account": "sene",
      "via": "api"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T02:29+09:00"
     }
    },
    "corner_name": "소식",
@@ -2690,6 +2701,10 @@
       ]
      },
      "v": "47e656e7"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T02:29+09:00"
     }
    },
    "pick": {
@@ -3343,6 +3358,10 @@
       ]
      },
      "v": "2669f194"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T02:29+09:00"
     }
    },
    "corner_name": "소식"
@@ -3559,6 +3578,10 @@
       ]
      },
      "v": "55c66359"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T02:29+09:00"
     }
    },
    "corner_name": "소식",
@@ -3667,7 +3690,7 @@
  "skipped": [],
  "corners": {
   "week": "10/26~11/01",
-  "days_left": 5,
+  "days_left": 4,
   "done": 0,
   "goal": 66,
   "corners": [
@@ -3677,7 +3700,7 @@
     "weekly": 28,
     "done": 0,
     "left": 28,
-    "need_today": 6,
+    "need_today": 7,
     "day": null,
     "next_no": null,
     "drafts": 15,
@@ -3689,7 +3712,7 @@
     "weekly": 5,
     "done": 0,
     "left": 5,
-    "need_today": 1,
+    "need_today": 2,
     "day": null,
     "next_no": 1,
     "drafts": 0,
@@ -3725,7 +3748,7 @@
     "weekly": 10,
     "done": 0,
     "left": 10,
-    "need_today": 2,
+    "need_today": 3,
     "day": null,
     "next_no": null,
     "drafts": 0,
@@ -3792,7 +3815,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T23:34+09:00"
+  "at": "2026-10-29T02:37+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3801,7 +3824,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T23:36+09:00",
+  "next": "2026-10-29T08:00+09:00",
   "n": 0,
   "gap": 20
  }
