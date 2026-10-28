@@ -3582,11 +3582,11 @@
      "key": "LV7t01LnTDA@20.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793193096/sene_studio/fhncuscjignjr82l84zp.mp4",
-     "at": "2026-10-28T22:11+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793210378/sene_studio/oxxkgggtzojoz7rntta5.mp4",
+     "at": "2026-10-29T02:59+09:00",
      "file": "SiJagHaNeun_AlBa_KkulAlBa_GeumYoIl_Go_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793193097997-4ee5ca2b",
+      "id": "st:1793210381087-4ee5ca2b",
       "segs": [
        {
         "start": 0.0,
@@ -3601,7 +3601,7 @@
        {
         "start": 3.75,
         "end": 6.51,
-        "text": "일당이 평소 9배 높아집니다"
+        "text": "일당이 평소 2배 높아집니다"
        },
        {
         "start": 6.51,
@@ -3630,16 +3630,16 @@
        },
        {
         "start": 22.36,
-        "end": 23.58,
+        "end": 23.62,
         "text": "귀신이 무섭냐?"
        },
        {
-        "start": 23.58,
-        "end": 25.95,
-        "text": "그지 내 물은 무섭지"
+        "start": 23.62,
+        "end": 25.9,
+        "text": "그지 된 분 무섭지"
        },
        {
-        "start": 25.95,
+        "start": 25.9,
         "end": 28.3,
         "text": "알바 시작하겠습니다"
        },
@@ -3650,11 +3650,7 @@
        }
       ]
      },
-     "v": "55c66359"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T02:29+09:00"
+     "v": "eda62b3f"
     }
    },
    "corner_name": "소식",
@@ -3888,7 +3884,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T02:56+09:00"
+  "at": "2026-10-29T02:59+09:00"
  },
  "slots": {
   "basis": 0,
