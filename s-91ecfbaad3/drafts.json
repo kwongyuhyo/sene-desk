@@ -3652,11 +3652,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=LV7t01LnTDA\n구간: 0:20-0:50\n곡: *クルアルバ*金曜配信\n아티스트: 始まるバイト、\n피처링:\n후킹: 時給50倍から\n출처: Netflix Korea 넷플릭스 코리아\n자막: 자동",
       "caption": "Netflixシリーズ『クルアルバ －おいしいバイト－』（꿀알바）が、今週金曜日に全8話一挙配信されます。\n\n映像はNetflixが公開した公式予告編です。借金に追われる青年ヒョクジュン（イ・ジェウク）が、時給50倍から始まるバイトだけを紹介する人材事務所に足を踏み入れるところから物語が始まります。仕事が危険になるほど、時給も上がっていきます。\n\nコ・ミンシ、キム・ミンハ、イ・ヒジュンが共演し、『D.P. -脱走兵追跡官-』『弱いヒーロー』のハン・ジュニが企画を総括しました。\n\n配信：10月30日（金）・Netflix・全8話・18歳以上対象\n映像：Netflix Korea 넷플릭스 코리아(@netflixkr)『クルアルバ | 公式予告編』\n#SENE #クルアルバ #Netflix #韓国ドラマ #イジェウク",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T22:34+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793194761/sene_studio/tfenpm66pvka1errdvwv.mp4",
+       "at": "2026-10-28T22:39+09:00",
+       "file": "Shimarubaito_kuruarubaJinYaoPeiXi_KeolCheo_no_lyrics.mp4",
        "sig": "0075f62552",
-       "job": 123
+       "v": "99af6050"
       }
      }
     }
@@ -3791,7 +3792,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T22:36+09:00"
+  "at": "2026-10-28T22:39+09:00"
  },
  "slots": {
   "basis": 0,
