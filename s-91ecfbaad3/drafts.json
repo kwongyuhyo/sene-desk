@@ -300,7 +300,9 @@
      "cvr": 2,
      "at": "2026-10-29T08:34+09:00",
      "v": {
-      "A": "348e70ed"
+      "A": "348e70ed",
+      "E": "4a5c4f87",
+      "J": "df7c085d"
      }
     }
    },
@@ -310,7 +312,59 @@
     "at": "2026-10-29T08:34+09:00"
    },
    "corner_name": "이슈",
-   "i18n_queued": "2026-10-29T08:34+09:00"
+   "i18n_queued": "2026-10-29T08:34+09:00",
+   "i18n": {
+    "at": "2026-10-29T08:35+09:00",
+    "confirm": [
+     "일본어판 · 일본 독자에게 이 제도는 자기 나라의 외국인 관광객용 면세라 '日本の免税'·#日本旅行 각도가 맞는지(일본어판에 올릴 소재인지) 사람이 판단 필요",
+     "공통 · 시행일 11월 1일(일)·5,000엔(세금 제외)·90일 기한은 원문 그대로 옮김 — 올리기 전 관광청 면세 특설 페이지 최신 안내와 다시 대조"
+    ],
+    "review": {
+     "at": "2026-10-29T08:35+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · The change is in the order of things → What changes is the order of steps — 직역투",
+      "영어 · 캡션 셋째 단락 · Food and cosmetics eaten or used → consumed or used — 'cosmetics eaten' 연어 어색"
+     ],
+     "doubt": [
+      "일본어판 · 일본 독자에게 이 제도는 자기 나라의 외국인 관광객용 면세라 '日本の免税'·#日本旅行 각도가 맞는지(일본어판에 올릴 소재인지) 사람이 판단 필요",
+      "공통 · 시행일 11월 1일(일)·5,000엔(세금 제외)·90일 기한은 원문 그대로 옮김 — 올리기 전 관광청 면세 특설 페이지 최신 안내와 다시 대조"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nFrom November 1, consumption tax on goods bought in Japan is refunded at the airport you depart from, not at the store.\n\nUntil now, showing a passport at the register meant the tax was taken off on the spot. Under the new refund system announced by the Japan Tourism Agency, shoppers pay the full price including tax, then get that amount back after a customs check when leaving the country. What counts is the purchase date, not the departure date, so anything bought by October 31 stays under the current system.\n\nWhat changes is the order of steps at the airport. Before checking bags, travelers scan their passport at a tax-free procedure kiosk, and if asked for verification, they must show the goods they bought. Once bags are checked, the procedure can no longer be completed. Food and cosmetics consumed or used in Japan are not refunded, and the special sealed packaging for consumables is discontinued.\n\nEffective: Purchases from Sun, Nov 1\nEligibility: JPY 5,000 or more per store per day (excluding tax)\nDeadline: Depart within 90 days of purchase and complete the customs check\nInfo: Japan Tourism Agency tax-free special page · Japan National Tourism Organization (JNTO)\n#SENE #JapanTravel #TaxFreeJapan #TaxRefund #JapanShopping\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793230466/jw921cvhnsvjm6zsairt.jpg\n제목: From Nov 1, Japan Tax-Free|Refunds at the Airport\n부제: Pay tax at purchase, get it back on departure · Customs check before bag drop · Purchase date applies\n출처: Japan National Tourism Organization (JNTO)\n",
+      "caption": "From November 1, consumption tax on goods bought in Japan is refunded at the airport you depart from, not at the store.\n\nUntil now, showing a passport at the register meant the tax was taken off on the spot. Under the new refund system announced by the Japan Tourism Agency, shoppers pay the full price including tax, then get that amount back after a customs check when leaving the country. What counts is the purchase date, not the departure date, so anything bought by October 31 stays under the current system.\n\nWhat changes is the order of steps at the airport. Before checking bags, travelers scan their passport at a tax-free procedure kiosk, and if asked for verification, they must show the goods they bought. Once bags are checked, the procedure can no longer be completed. Food and cosmetics consumed or used in Japan are not refunded, and the special sealed packaging for consumables is discontinued.\n\nEffective: Purchases from Sun, Nov 1\nEligibility: JPY 5,000 or more per store per day (excluding tax)\nDeadline: Depart within 90 days of purchase and complete the customs check\nInfo: Japan Tourism Agency tax-free special page · Japan National Tourism Organization (JNTO)\n#SENE #JapanTravel #TaxFreeJapan #TaxRefund #JapanShopping",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230543/o4xvuyw14kzmv70jjvlj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230543/gdp9aexufsrz3yq9r7wu.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230543/o4xvuyw14kzmv70jjvlj.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T08:35+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\n11月1日から、日本で購入した品物の消費税は、店頭ではなく出国する空港で払い戻されます。\n\nこれまではレジでパスポートを見せれば、その場で税額が差し引かれていましたが、観光庁が案内する新しい「リファンド方式」では、税込みで購入したうえで、出国時に税関の確認を経てその分が還付されます。基準は出国日ではなく購入日のため、10月31日までに購入した品物はこれまでの方式のままです。\n\n変わるのは空港での手順です。荷物を預ける前に免税手続き用の端末でパスポートを読み取り、確認を求められた場合は購入品を提示する必要があります。荷物を先に預けてしまうと手続きができません。日本国内で飲食・使用した食品や化粧品は還付の対象外となり、消耗品の特殊包装は廃止されます。\n\n施行：11月1日（日）購入分から\n対象：同一店舗で1日5,000円以上（税抜）\n期限：購入日から90日以内に出国し、税関確認を受けること\n案内：観光庁 免税特設ページ・日本政府観光局（JNTO）\n#SENE #免税 #リファンド方式 #タックスフリー #日本旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793230466/jw921cvhnsvjm6zsairt.jpg\n제목: 日本の免税、11月から|店頭でなく空港で\n부제: 税込みで購入し出国時に還付・荷物を預ける前に税関確認・購入日が基準\n출처: 日本政府観光局（JNTO）\n",
+      "caption": "11月1日から、日本で購入した品物の消費税は、店頭ではなく出国する空港で払い戻されます。\n\nこれまではレジでパスポートを見せれば、その場で税額が差し引かれていましたが、観光庁が案内する新しい「リファンド方式」では、税込みで購入したうえで、出国時に税関の確認を経てその分が還付されます。基準は出国日ではなく購入日のため、10月31日までに購入した品物はこれまでの方式のままです。\n\n変わるのは空港での手順です。荷物を預ける前に免税手続き用の端末でパスポートを読み取り、確認を求められた場合は購入品を提示する必要があります。荷物を先に預けてしまうと手続きができません。日本国内で飲食・使用した食品や化粧品は還付の対象外となり、消耗品の特殊包装は廃止されます。\n\n施行：11月1日（日）購入分から\n対象：同一店舗で1日5,000円以上（税抜）\n期限：購入日から90日以内に出国し、税関確認を受けること\n案内：観光庁 免税特設ページ・日本政府観光局（JNTO）\n#SENE #免税 #リファンド方式 #タックスフリー #日本旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230546/m0rv0kwxsgyykscnggl3.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230546/i4z0ksnrjgofvexacekf.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230546/m0rv0kwxsgyykscnggl3.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T08:35+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -506,10 +560,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T08:34+09:00"
+  "at": "2026-10-29T08:35+09:00"
  },
  "queue": {
-  "next": "2026-10-29T08:36+09:00",
+  "next": "2026-10-29T08:37+09:00",
   "n": 0,
   "gap": 20
  },
