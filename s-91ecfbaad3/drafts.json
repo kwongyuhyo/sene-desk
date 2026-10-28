@@ -532,11 +532,11 @@
       "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=nroLotMqwyg\n구간: 0:00-0:45\n곡: to Nov 29\n아티스트: Mermaid Party\n피처링:\n후킹: *Sanrio* × Aquarium:\n출처: apoc\n자막: 자동",
       "caption": "Lotte World Aquarium (@lotteworld_aquarium) runs 'Mermaid Party,' its collaboration with Sanrio Characters, through Nov 29.\n\nThe video is an introduction released by apoc, which created the collaboration's mission-based AR content. Visitors scan each zone's name plates and sea creatures with their phones to solve missions.\n\nFinish all the missions to unlock an AR filter for photos with Sanrio Characters, and receive a random ID card keyring at the Aqua Shop on B1. The missions start with the QR code on the invitation included in the paid package.\n\nDates: Sep 4 (Fri) – Nov 29 (Sun)\nLocation: Lotte World Aquarium, Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul\nVideo: apoc\n#SENE #LotteWorldAquarium #Sanrio #SeoulTravel #Jamsil",
       "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793184975/sene_studio/reyvgrny1dqnplwfzzv4.mp4",
-       "at": "2026-10-28T19:56+09:00",
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793197869/sene_studio/tlyhfjex9mukazwoj4z5.mp4",
+       "at": "2026-10-28T23:31+09:00",
        "file": "Mermaid_Party_to_Nov_29_NolGeoLi_no_lyrics.mp4",
-       "sig": "f2315b2418",
-       "v": "84bbaed2"
+       "sig": "0cef652b1e",
+       "v": "c7c0cf62"
       }
      }
     },
@@ -565,6 +565,12 @@
        "file": "RenYupatei_11Yue29Rimade_NolGeoLi_no_lyrics.mp4",
        "sig": "dbcc1b12b1",
        "v": "b910df13"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-28T23:27+09:00",
+       "sig": "6cfc033107",
+       "job": 126
       }
      }
     }
@@ -3792,7 +3798,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T23:27+09:00"
+  "at": "2026-10-28T23:31+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3801,7 +3807,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T23:29+09:00",
+  "next": "2026-10-28T23:33+09:00",
   "n": 0,
   "gap": 20
  }
