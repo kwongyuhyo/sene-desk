@@ -81,9 +81,31 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230480/zbxifymcw7rjfqyn7mwa.jpg",
      "key": "Vi_ejz-hU7k@40.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T08:34+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793230795/sene_studio/ffttbeas3vkoecyqpmjx.mp4",
+     "at": "2026-10-29T08:39+09:00",
+     "file": "BulGaLi_JeonSi_ONeul_CheongDamDongS_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793230797764-64ce52f7",
+      "segs": [
+       {
+        "start": 12.26,
+        "end": 15.78,
+        "text": "동영상 미 traum 동영상 미 traum"
+       },
+       {
+        "start": 25.4,
+        "end": 31.55,
+        "text": "동영상 미 traum 유민 소 gifts 잠깐만요"
+       },
+       {
+        "start": 31.55,
+        "end": 32.56,
+        "text": "조금만 더 할게요"
+       }
+      ]
+     },
+     "v": "e3c0bdc5"
     }
    },
    "pick": {
@@ -114,13 +136,27 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Vi_ejz-hU7k\n구간: 0:40-1:20\n곡: opens today\n아티스트: Bulgari show\n피처링:\n후킹: Seen by *Wonyoung*:\n출처: NewsInStar\n자막: 자동",
-      "caption": "A Bulgari exhibition previewed by IVE's Jang Wonyoung (@for_everyoung10) opens today at SONGEUN in Cheongdam-dong, Seoul.\n\nThe video shows the photo wall at the preview, held the day before the opening, where Jang Wonyoung appeared as a Bulgari ambassador.\n\nIn 'LIGHT, FORM AND VISION,' six Korean artist teams each reinterpret Bulgari's B.zero1 collection in their own way. Byeon Woo-seok narrates the audio guide, and guided tours run on site at 3 p.m. and 5 p.m.\n\nDates: Oct 29 – Nov 14\nLocation: SONGEUN, 441 Dosan-daero, Gangnam-gu, Seoul\nHours: Mon–Sat, 11 a.m. – 6:30 p.m. (closed Sundays and public holidays)\nReservations: Entry only with an advance reservation on Naver\nVideo: NewsInStar\n#SENE #JangWonyoung #Bulgari #SONGEUN #Cheongdam #SeoulExhibition"
+      "caption": "A Bulgari exhibition previewed by IVE's Jang Wonyoung (@for_everyoung10) opens today at SONGEUN in Cheongdam-dong, Seoul.\n\nThe video shows the photo wall at the preview, held the day before the opening, where Jang Wonyoung appeared as a Bulgari ambassador.\n\nIn 'LIGHT, FORM AND VISION,' six Korean artist teams each reinterpret Bulgari's B.zero1 collection in their own way. Byeon Woo-seok narrates the audio guide, and guided tours run on site at 3 p.m. and 5 p.m.\n\nDates: Oct 29 – Nov 14\nLocation: SONGEUN, 441 Dosan-daero, Gangnam-gu, Seoul\nHours: Mon–Sat, 11 a.m. – 6:30 p.m. (closed Sundays and public holidays)\nReservations: Entry only with an advance reservation on Naver\nVideo: NewsInStar\n#SENE #JangWonyoung #Bulgari #SONGEUN #Cheongdam #SeoulExhibition",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793231064/sene_studio/de91pdqodwidncqq28hg.mp4",
+       "at": "2026-10-29T08:44+09:00",
+       "file": "Bulgari_show_opens_today_KeolCheo_no_lyrics.mp4",
+       "sig": "ae50fde6ff",
+       "v": "c6948dca"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Vi_ejz-hU7k\n구간: 0:40-1:20\n곡: 本日、清潭洞で開幕\n아티스트: ブルガリ展\n피처링:\n후킹: *ウォニョン*が見た\n출처: NewsInStar\n자막: 자동",
-      "caption": "IVEのチャン・ウォニョン（@for_everyoung10）がプレビューに訪れたブルガリの展覧会が、本日ソウル・清潭洞（チョンダムドン）のソンウン（SONGEUN）で開幕します。\n\n映像は開幕前日に開かれたプレビューのフォトウォールの様子です。ブルガリのアンバサダーであるチャン・ウォニョンがこの場に立ちました。\n\n展覧会『LIGHT, FORM AND VISION』では、韓国のアーティスト6組がブルガリの「ビー・ゼロワン」コレクションをそれぞれの手法で解釈し直しました。オーディオガイドのナレーションはピョン・ウソクが担当し、会場でのドーセントツアーは15時と17時に行われます。\n\n期間：10月29日（木）〜11月14日（土）\n場所：ソウル・江南区 島山大路（トサンデロ）441 ソンウン（SONGEUN）\n営業時間：月〜土 11:00〜18:30（日曜・祝日休館）\n予約：NAVERでの事前予約者のみ入場可\n映像：NewsInStar\n#SENE #チャンウォニョン #ブルガリ #韓国旅行 #清潭洞 #ソウル展示"
+      "caption": "IVEのチャン・ウォニョン（@for_everyoung10）がプレビューに訪れたブルガリの展覧会が、本日ソウル・清潭洞（チョンダムドン）のソンウン（SONGEUN）で開幕します。\n\n映像は開幕前日に開かれたプレビューのフォトウォールの様子です。ブルガリのアンバサダーであるチャン・ウォニョンがこの場に立ちました。\n\n展覧会『LIGHT, FORM AND VISION』では、韓国のアーティスト6組がブルガリの「ビー・ゼロワン」コレクションをそれぞれの手法で解釈し直しました。オーディオガイドのナレーションはピョン・ウソクが担当し、会場でのドーセントツアーは15時と17時に行われます。\n\n期間：10月29日（木）〜11月14日（土）\n場所：ソウル・江南区 島山大路（トサンデロ）441 ソンウン（SONGEUN）\n営業時間：月〜土 11:00〜18:30（日曜・祝日休館）\n予約：NAVERでの事前予約者のみ入場可\n映像：NewsInStar\n#SENE #チャンウォニョン #ブルガリ #韓国旅行 #清潭洞 #ソウル展示",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793231327/sene_studio/ucbngfuaffulmq5lasmc.mp4",
+       "at": "2026-10-29T08:48+09:00",
+       "file": "burugariZhan_BenRiQingTanDongdeKa_KeolCheo_no_lyrics.mp4",
+       "sig": "a312b5bace",
+       "v": "961b12c8"
+      }
      }
     }
    }
@@ -450,6 +486,362 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-048de3df",
+    "account": "@속보",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1oZ2ZQRS1naWFSS3BvTVFKd09wRzZiMk5ZMS1qc3ZuZmFJQXp0a2oxY3JvYXA4SFpGd1Zxa3dJcHpVY3BENUpFUWVoMDJDZ19XU0ZidEcxV01DQ0RyU0ZDVWNtcklJTGxMMVZlcEJsWUc?oc=5",
+    "image": null,
+    "head": "치폴레 2호점, 강남역 다음은 신세계 강남점 스위트파크 — 백화점 첫 입점",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T08:45+09:00",
+   "key": "17ae82b0",
+   "by": "claude",
+   "subjects": [
+    "치폴레"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "강남역 1호점 두 달 만에 치폴레가 백화점(신세계 강남점 스위트파크)으로 들어갔다 — 국내 유통시설 첫 입점",
+    "why": "9월 아시아 1호점 대기 행렬 뒤 첫 추가 매장, 10/28 오픈 직후라 이번 주말 갈 수 있는 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T08:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n치폴레가 신세계백화점 강남점에 국내 두 번째 매장을 열었습니다.\n\n지난 9월 2일 강남역 인근에 아시아 첫 매장을 낸 미국 멕시칸 브랜드인데요, 두 달 만의 다음 매장은 백화점 지하 1층 스위트파크에 자리를 잡았습니다. 치폴레가 국내 백화점·쇼핑몰에 들어간 건 이번이 처음입니다.\n\n주문 방식은 1호점과 같습니다. 부리토·볼·타코·샐러드 가운데 하나를 고르고 단백질과 라이스, 살사를 차례로 골라 담습니다. 1호점은 문을 연 뒤 몇 시간씩 기다리는 줄이 이어졌던 곳이라, 백화점 개점 시간에 맞춰 가도 대기가 있을 수 있습니다. 운영사는 연내 3호점을 더현대 서울에 열 계획입니다.\n\n오픈: 10월 28일(수)\n장소: 서울 서초구 신반포로 176 신세계백화점 강남점 지하 1층 스위트파크\n\n#SENE #치폴레 #신세계강남점 #스위트파크 #강남맛집\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793231107/mygzoouqjl2ueebdq5wr.jpg\n제목: 치폴레 2호점,|신세계 강남점에 열다\n부제: 강남역 1호점 두 달 만에 백화점으로\n출처: 상미당홀딩스\n",
+    "caption": "치폴레가 신세계백화점 강남점에 국내 두 번째 매장을 열었습니다.\n\n지난 9월 2일 강남역 인근에 아시아 첫 매장을 낸 미국 멕시칸 브랜드인데요, 두 달 만의 다음 매장은 백화점 지하 1층 스위트파크에 자리를 잡았습니다. 치폴레가 국내 백화점·쇼핑몰에 들어간 건 이번이 처음입니다.\n\n주문 방식은 1호점과 같습니다. 부리토·볼·타코·샐러드 가운데 하나를 고르고 단백질과 라이스, 살사를 차례로 골라 담습니다. 1호점은 문을 연 뒤 몇 시간씩 기다리는 줄이 이어졌던 곳이라, 백화점 개점 시간에 맞춰 가도 대기가 있을 수 있습니다. 운영사는 연내 3호점을 더현대 서울에 열 계획입니다.\n\n오픈: 10월 28일(수)\n장소: 서울 서초구 신반포로 176 신세계백화점 강남점 지하 1층 스위트파크\n\n#SENE #치폴레 #신세계강남점 #스위트파크 #강남맛집",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231107/mygzoouqjl2ueebdq5wr.jpg",
+      "credit": "상미당홀딩스",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.0479c2d7077749bd97a0de744ee4792c_P1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231105/sbftetjgdyzlnvuujced.jpg",
+      "credit": "상미당홀딩스",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.6d30f80bd59c4cffa1a99c23b85a65ea_P1.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231107/mygzoouqjl2ueebdq5wr.jpg",
+      "credit": "상미당홀딩스",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.0479c2d7077749bd97a0de744ee4792c_P1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231105/sbftetjgdyzlnvuujced.jpg",
+      "credit": "상미당홀딩스",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/09/01/news-p.v1.20260901.6d30f80bd59c4cffa1a99c23b85a65ea_P1.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "치폴레 2호점,|신세계 강남점에 열다",
+      "sub": "강남역 1호점 두 달 만에 백화점으로"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "치폴레가 처음으로|백화점에 들어갔다",
+      "sub": "신세계 강남점 지하 1층 스위트파크"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "강남역 다음은|스위트파크, 치폴레",
+      "sub": "10월 28일 2호점 오픈"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "운영 시간·가격이 1호점과 같은지 공식 채널로 확인 (확인 못 해 캡션에서 뺌)",
+     "숏폼 없음(2호점 공식·방송 영상 없음) · 표지는 9/1 1호점 간담회 허희수 CVO 사진(상미당홀딩스 제공) — 2호점 매장 사진이 아니니 공식 계정의 2호점 사진으로 바꿀지 결정",
+     "이어지는 소식 — 10-27에 다룬 소재. 새 사실: 10/27 초안은 오픈 예고 — 10/28 실제로 문을 열었고(지하 1층 스위트파크), 3호점 후보로 더현대 서울이 새로 거론됨"
+    ],
+    "research": [
+     {
+      "title": "[현장] 상미당홀딩스 '치폴레' 2호점 오픈… 오픈런 에도 대기 108번 - 미디어워치",
+      "link": "https://www.mediawatch.kr/news/article.html?no=261523"
+     },
+     {
+      "title": "치폴레, 신세계百 강남점 오픈...이지화이트 브레드, 가맹 계약 50호점 - 스포츠서울 슬리스트",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=777215"
+     },
+     {
+      "title": "허 사장, 수제버거 이어 멕시칸 푸드로 외식 포트폴리오 확장 - CEO스코어데일리",
+      "link": "https://ceoscoredaily.com/page/view/2026091615231888952"
+     },
+     {
+      "title": "치폴레 한국 1호점 (뉴데일리)",
+      "link": "https://biz.newdaily.co.kr/site/data/html/2026/09/01/2026090100125.html"
+     },
+     {
+      "title": "'고객이 메뉴 완성'…치폴레, 강남역에 아시아 1호점 - 헤럴드경제",
+      "link": "https://www.heraldk.com/article/2026090119180457396"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231112/qrt0gbsfs0wrjtn9a3gi.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231111/ou9bgtovqrmphvjqyptj.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231115/mroay414vxtpdkiu1hso.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231115/op7fiyfwhawnwrohiltm.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231112/qrt0gbsfs0wrjtn9a3gi.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-29T08:45+09:00",
+     "v": {
+      "A": "ccfe424a",
+      "B": "627ef970",
+      "C": "622c4ec7"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-b4a2064e",
+    "account": "@속보",
+    "url": "https://blog.naver.com/lifeforecast/224457118822",
+    "image": null,
+    "head": "니케 × 무신사 팝업, 11월 6~19일 무신사 스토어 성수 · 30분 단위 예약제",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T08:48+09:00",
+   "key": "4ebbef55",
+   "by": "claude",
+   "subjects": [
+    "승리의 여신: 니케",
+    "무신사"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "게임 4주년 협업이 굿즈를 넘어 옷으로 — 11월 6일부터 2주간 무신사 스토어 성수, 30분 단위 예약제",
+    "why": "10월 27일 사전 예약이 열리며 게임 매체 여러 곳이 같은 일정으로 보도, 오픈 전 실용 정보(기간·예약)를 먼저 알릴 수 있다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T08:48+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n모바일 게임 〈승리의 여신: 니케〉가 무신사와 함께 성수에서 팝업을 엽니다.\n\n서비스 4주년을 맞아 꾸린 협업인데요, 굿즈에 그치지 않고 수베니어 재킷·와플 후드 집업·반소매 티셔츠 같은 옷이 함께 나옵니다. 이타백·태피스트리 같은 굿즈와 키캡 세트·여권 케이스 등 한정 상품 7종도 매장에 놓입니다.\n\n입장은 30분 단위 예약제입니다. 방문하면 입장 티켓과 조각 스티커 세트를 받고, 구매 금액에 따른 특전은 선착순이라 수량이 떨어지면 일찍 끝날 수 있습니다.\n\n기간: 11월 6일(금) ~ 11월 19일(목)\n장소: 서울 성동구 성수이로 74, 무신사 스토어 성수\n운영 시간: 매일 오전 11시 ~ 오후 10시\n예약: 카카오 예약하기 사전 예약 · 현장은 나우웨이팅\n#SENE #니케 #무신사 #성수팝업 #성수\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793231333/vonezpheb4dwuwtegcpd.jpg\n제목: 니케 × 무신사,|성수에 팝업 오픈\n부제: 11월 6일부터 2주간 · 30분 단위 예약제\n출처: 레벨 인피니트\n",
+    "caption": "모바일 게임 〈승리의 여신: 니케〉가 무신사와 함께 성수에서 팝업을 엽니다.\n\n서비스 4주년을 맞아 꾸린 협업인데요, 굿즈에 그치지 않고 수베니어 재킷·와플 후드 집업·반소매 티셔츠 같은 옷이 함께 나옵니다. 이타백·태피스트리 같은 굿즈와 키캡 세트·여권 케이스 등 한정 상품 7종도 매장에 놓입니다.\n\n입장은 30분 단위 예약제입니다. 방문하면 입장 티켓과 조각 스티커 세트를 받고, 구매 금액에 따른 특전은 선착순이라 수량이 떨어지면 일찍 끝날 수 있습니다.\n\n기간: 11월 6일(금) ~ 11월 19일(목)\n장소: 서울 성동구 성수이로 74, 무신사 스토어 성수\n운영 시간: 매일 오전 11시 ~ 오후 10시\n예약: 카카오 예약하기 사전 예약 · 현장은 나우웨이팅\n#SENE #니케 #무신사 #성수팝업 #성수",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231333/vonezpheb4dwuwtegcpd.jpg",
+      "credit": "레벨 인피니트",
+      "from": "https://cdn.gamemeca.com/data_center/345/736/20261027174653.webp"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231333/vonezpheb4dwuwtegcpd.jpg",
+      "credit": "레벨 인피니트",
+      "from": "https://cdn.gamemeca.com/data_center/345/736/20261027174653.webp"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "니케 × 무신사,|성수에 팝업 오픈",
+      "sub": "11월 6일부터 2주간 · 30분 단위 예약제"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "게임 캐릭터 옷이|무신사 성수에",
+      "sub": "〈승리의 여신: 니케〉 4주년 협업"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "니케 성수 팝업|11월 6일부터",
+      "sub": "카카오 예약하기로 사전 예약"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "표지 사진은 레벨 인피니트 배포 포스터 한 장뿐(나머지 둘은 해상도 미달) — 아래쪽 포스터 글씨(날짜·주소)가 제목 뒤로 비침",
+     "숏폼 비움 — 이번 협업 공식 영상이 유튜브에 없음 (팬 채널 영상뿐)",
+     "이어지는 소식 — 10-28에 다룬 소재. 새 사실: 어제는 무신사 스페이스 서울숲의 다른 콜라보 카페 — 이번은 니케 4주년 협업 팝업(11/6~19 무신사 스토어 성수)으로 별개 소식",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "자켓부터 이타백까지…'니케×무신사' 성수 팝업 2주간 운영 - 플레이포럼",
+      "link": "https://www.playforum.net/news/articleView.html?idxno=635695"
+     },
+     {
+      "title": "'승리의 여신: 니케', 무신사 팝업스토어 오픈 - 경향게임스",
+      "link": "https://www.khgames.co.kr/news/articleView.html?idxno=309719"
+     },
+     {
+      "title": "독특한 협업 의상도, 승리의 여신: 니케×무신사 팝업 연다 - 게임메카",
+      "link": "https://www.gamemeca.com/view.php?gid=1782446"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231338/c22v0skhw76gmzjqylaw.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231337/wvjxjgvbdfqpt8ckvklg.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231340/c5ntmjkbfmcm4sedt0en.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231340/uvy6e9ipwnp8eunh1czk.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231338/c22v0skhw76gmzjqylaw.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-29T08:49+09:00",
+     "v": {
+      "A": "baafbdd8",
+      "B": "2b983f94",
+      "C": "56379c67"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-39b82a39",
+    "account": "@속보",
+    "url": "https://blog.naver.com/kkokyesang/224457394992",
+    "image": null,
+    "head": "구글 제미나이×전과자 '스낵이 제미나이 캠퍼스', 성수 한서빌딩 10/30~11/1 사흘 운영",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T08:54+09:00",
+   "key": "5b3facf8",
+   "by": "claude",
+   "subjects": [
+    "스낵이 제미나이 캠퍼스"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "구글 제미나이와 웹예능 〈전과자〉가 성수에 사흘짜리 가상 캠퍼스를 연다 — 내일(10/30) 오픈, 신청 없이 입장",
+    "why": "내일 시작해 사흘만 여는 팝업 — 이번 주말 바로 갈 수 있고, 매출은 대학생 등록금 지원에 기부"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T08:54+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n구글 제미나이와 웹예능 〈전과자〉가 성수동에 사흘짜리 가상 캠퍼스를 엽니다.\n\n'스낵이 제미나이 캠퍼스'는 〈전과자〉 진행자 카이가 제안한 오프라인 캠퍼스 아이디어를 공간으로 옮긴 팝업인데요, 모바일 학생증을 발급받아 경영학·항공우주공학 같은 전공 부스와 동아리 부스를 돌며 미션을 푸는 방식입니다. 미션은 딥 리서치·캔버스 같은 제미나이 기능으로 풀게 됩니다.\n\n두 IP를 합친 캐릭터 '똑부'의 한정 굿즈도 나오고, 팝업 매출은 두 곳 공동 명의로 저소득층 대학생 등록금 지원에 기부된다고 구글은 밝혔습니다. 대학(원)생이 주 대상이지만 일반 관람은 신청 없이 누구나 할 수 있습니다.\n\n기간: 10월 30일(금) ~ 11월 1일(일)\n장소: 서울 성동구 성수동 한서빌딩\n입장: 사전 신청 없이 현장 입장\n특강: 30일 고동완 PD · 31일 긱블 수드래곤 · 11월 1일 오빠두엑셀 (팀제미나이 카카오톡 채널에서 사전 신청)\n#SENE #성수팝업 #제미나이 #전과자 #성수동 #구글\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793231687/r357vhdxafve3qcq3y9o.jpg\n제목: 성수에 사흘만 여는|제미나이 캠퍼스\n부제: 구글 제미나이 × 웹예능 〈전과자〉 · 10/30~11/1\n출처: 구글코리아\n",
+    "caption": "구글 제미나이와 웹예능 〈전과자〉가 성수동에 사흘짜리 가상 캠퍼스를 엽니다.\n\n'스낵이 제미나이 캠퍼스'는 〈전과자〉 진행자 카이가 제안한 오프라인 캠퍼스 아이디어를 공간으로 옮긴 팝업인데요, 모바일 학생증을 발급받아 경영학·항공우주공학 같은 전공 부스와 동아리 부스를 돌며 미션을 푸는 방식입니다. 미션은 딥 리서치·캔버스 같은 제미나이 기능으로 풀게 됩니다.\n\n두 IP를 합친 캐릭터 '똑부'의 한정 굿즈도 나오고, 팝업 매출은 두 곳 공동 명의로 저소득층 대학생 등록금 지원에 기부된다고 구글은 밝혔습니다. 대학(원)생이 주 대상이지만 일반 관람은 신청 없이 누구나 할 수 있습니다.\n\n기간: 10월 30일(금) ~ 11월 1일(일)\n장소: 서울 성동구 성수동 한서빌딩\n입장: 사전 신청 없이 현장 입장\n특강: 30일 고동완 PD · 31일 긱블 수드래곤 · 11월 1일 오빠두엑셀 (팀제미나이 카카오톡 채널에서 사전 신청)\n#SENE #성수팝업 #제미나이 #전과자 #성수동 #구글",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231687/r357vhdxafve3qcq3y9o.jpg",
+      "credit": "구글코리아",
+      "from": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sajinjalyo3_gugeul_pabeob_seutoe.width-1200.format-webp.webp"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231683/kh9hk1919naiaiaw9wgh.jpg",
+      "credit": "구글코리아",
+      "from": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/15/img_20261015150116_8005de1c.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231685/hoc982wbpsq7e5gsa3r0.jpg",
+      "credit": "구글코리아",
+      "from": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sajinjalyo2_gugeul_pabeob_seutoe.width-1200.format-webp.webp"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231687/r357vhdxafve3qcq3y9o.jpg",
+      "credit": "구글코리아",
+      "from": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sajinjalyo3_gugeul_pabeob_seutoe.width-1200.format-webp.webp"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231683/kh9hk1919naiaiaw9wgh.jpg",
+      "credit": "구글코리아",
+      "from": "https://cdnweb01.wikitree.co.kr/webdata/editor/202610/15/img_20261015150116_8005de1c.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231685/hoc982wbpsq7e5gsa3r0.jpg",
+      "credit": "구글코리아",
+      "from": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/sajinjalyo2_gugeul_pabeob_seutoe.width-1200.format-webp.webp"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "성수에 사흘만 여는|제미나이 캠퍼스",
+      "sub": "구글 제미나이 × 웹예능 〈전과자〉 · 10/30~11/1"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "학생증 받고 들어가는|성수 팝업",
+      "sub": "스낵이 제미나이 캠퍼스 · 10/30~11/1"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "〈전과자〉가 성수에|캠퍼스를 차렸다",
+      "sub": "구글 제미나이와 함께 · 사흘간"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "표지 사진은 팝업 현장이 아니라 구글코리아 블로그의 #TeamGemini 대학생 모임 사진입니다 — 쓸 만한 팝업 공식 사진이 아직 없어서, 내일 오픈 뒤 공식 현장 사진이 나오면 바꾸세요",
+     "운영 시간·번지는 공식 안내에 없어 뺐습니다(팀제미나이 카톡 채널 확인). 숏폼은 비움 — 〈전과자〉 EP.128(ootb STUDIO)이 있으나 자막이 없어 팝업 관련 구간 확인 못 함"
+    ],
+    "research": [
+     {
+      "title": "구글코리아 블로그 — 제미나이 성수 팝업·대학생 밋업 안내 (2026-10-16)",
+      "link": "https://blog.google/intl/ko-kr/company-news/inside-google/gemini-seongsu-meetup-oct-kr/"
+     },
+     {
+      "title": "위키트리 — 구글, '제미나이' 활용 대학생 캠페인 전개… 성수동 팝업·전국 커리어 밋업",
+      "link": "https://www.wikitree.co.kr/articles/1166514"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231693/zpcnh6m74jqfipq9lqst.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231692/gnp17yk0shmrfmmyrbxx.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231695/w6ctxxuw0p0ry8c4ptf0.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231695/dwmkrfkf4yeptcfk4e4n.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793231693/zpcnh6m74jqfipq9lqst.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-29T08:54+09:00",
+     "v": {
+      "A": "3abe91ca",
+      "B": "f8ce32af",
+      "C": "4a28f678"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -469,7 +861,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 4,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -645,10 +1037,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T08:38+09:00"
+  "at": "2026-10-29T08:54+09:00"
  },
  "queue": {
-  "next": "2026-10-29T08:40+09:00",
+  "next": "2026-10-29T08:56+09:00",
   "n": 0,
   "gap": 20
  },
