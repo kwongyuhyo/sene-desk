@@ -92,7 +92,38 @@
     "at": "2026-10-29T08:34+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-10-29T08:34+09:00"
+   "i18n_queued": "2026-10-29T08:34+09:00",
+   "i18n": {
+    "at": "2026-10-29T08:37+09:00",
+    "confirm": [
+     "전시 영문 공식 제목은 기사 표기 'LIGHT, FORM AND VISION'(부제 Roman Heritage in Dialogue with Korean Contemporary Art)를 따랐습니다. 일본어 공식 제목은 찾지 못해 영문 제목을 그대로 썼습니다.",
+     "송은의 일본어 공식 표기는 확인하지 못했습니다. 그래서 ソンウン（SONGEUN）으로 적었습니다.",
+     "숏폼 영어 칸은 40자 제한 때문에 'Wonyoung'으로 줄였고, '청담동'은 뺐습니다(합 39자). 일본어 칸은 합 21자입니다.",
+     "출처: https://www.specialtimes.co.kr/news/articleView.html?idxno=474826 · https://oggi.jp/7585794",
+     "영어 · 숏폼 '곡' 칸 · 원문 '오늘 청담동서 개막'에서 '청담동'이 빠짐 — 세 칸 합이 이미 40자 한도라 넣지 않음(캡션 첫 문장에 Cheongdam-dong 있음). 'Bulgari show'는 패션쇼로도 읽힐 수 있으나 'exhibit'로 바꾸면 한도 초과 — 괜찮은지 사람이 판단",
+     "전시 영문 제목 'LIGHT, FORM AND VISION'은 불가리·송은 보도자료 표기와 일치함을 확인(정식 부제 'Roman Heritage in Dialogue with Korean Contemporary Art'는 생략)"
+    ],
+    "review": {
+     "at": "2026-10-29T08:37+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어 · 숏폼 '곡' 칸 · 원문 '오늘 청담동서 개막'에서 '청담동'이 빠짐 — 세 칸 합이 이미 40자 한도라 넣지 않음(캡션 첫 문장에 Cheongdam-dong 있음). 'Bulgari show'는 패션쇼로도 읽힐 수 있으나 'exhibit'로 바꾸면 한도 초과 — 괜찮은지 사람이 판단",
+      "전시 영문 제목 'LIGHT, FORM AND VISION'은 불가리·송은 보도자료 표기와 일치함을 확인(정식 부제 'Roman Heritage in Dialogue with Korean Contemporary Art'는 생략)"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Vi_ejz-hU7k\n구간: 0:40-1:20\n곡: opens today\n아티스트: Bulgari show\n피처링:\n후킹: Seen by *Wonyoung*:\n출처: NewsInStar\n자막: 자동",
+      "caption": "A Bulgari exhibition previewed by IVE's Jang Wonyoung (@for_everyoung10) opens today at SONGEUN in Cheongdam-dong, Seoul.\n\nThe video shows the photo wall at the preview, held the day before the opening, where Jang Wonyoung appeared as a Bulgari ambassador.\n\nIn 'LIGHT, FORM AND VISION,' six Korean artist teams each reinterpret Bulgari's B.zero1 collection in their own way. Byeon Woo-seok narrates the audio guide, and guided tours run on site at 3 p.m. and 5 p.m.\n\nDates: Oct 29 – Nov 14\nLocation: SONGEUN, 441 Dosan-daero, Gangnam-gu, Seoul\nHours: Mon–Sat, 11 a.m. – 6:30 p.m. (closed Sundays and public holidays)\nReservations: Entry only with an advance reservation on Naver\nVideo: NewsInStar\n#SENE #JangWonyoung #Bulgari #SONGEUN #Cheongdam #SeoulExhibition"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Vi_ejz-hU7k\n구간: 0:40-1:20\n곡: 本日、清潭洞で開幕\n아티스트: ブルガリ展\n피처링:\n후킹: *ウォニョン*が見た\n출처: NewsInStar\n자막: 자동",
+      "caption": "IVEのチャン・ウォニョン（@for_everyoung10）がプレビューに訪れたブルガリの展覧会が、本日ソウル・清潭洞（チョンダムドン）のソンウン（SONGEUN）で開幕します。\n\n映像は開幕前日に開かれたプレビューのフォトウォールの様子です。ブルガリのアンバサダーであるチャン・ウォニョンがこの場に立ちました。\n\n展覧会『LIGHT, FORM AND VISION』では、韓国のアーティスト6組がブルガリの「ビー・ゼロワン」コレクションをそれぞれの手法で解釈し直しました。オーディオガイドのナレーションはピョン・ウソクが担当し、会場でのドーセントツアーは15時と17時に行われます。\n\n期間：10月29日（木）〜11月14日（土）\n場所：ソウル・江南区 島山大路（トサンデロ）441 ソンウン（SONGEUN）\n営業時間：月〜土 11:00〜18:30（日曜・祝日休館）\n予約：NAVERでの事前予約者のみ入場可\n映像：NewsInStar\n#SENE #チャンウォニョン #ブルガリ #韓国旅行 #清潭洞 #ソウル展示"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -560,10 +591,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T08:35+09:00"
+  "at": "2026-10-29T08:37+09:00"
  },
  "queue": {
-  "next": "2026-10-29T08:37+09:00",
+  "next": "2026-10-29T08:39+09:00",
   "n": 0,
   "gap": 20
  },
