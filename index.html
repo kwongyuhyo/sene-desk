@@ -1277,6 +1277,7 @@ function typeOf(s, i) {
     return media ? "cover-photo" : "cover-type";
   }
   if (vidOf(s)) return "photo";
+  if (s.form === "evidence") return media ? "evidence" : "text";   // 자료 장 (10/28) — 사진이 없으면 글로
   if (s.form === "quote") return "quote";
   if (s.form === "text") return "text";
   if (s.form === "data") return "data";
@@ -1489,6 +1490,23 @@ function slideBodyPhoto(ctx, s, i, img, fit) {
   drawLines(ctx, b.lines, MX, bTop, "sb", b.s, 1.55, INK, -.022 * b.s);
   EM = null;
   hit("body", MX, bTop - 6, 940, Math.max(2 * 48, b.h) + 10);
+  foot(ctx, false, SLOGAN_EN, creditText(s.credit), "credit");
+}
+
+/* ── 자료 (10/28 규효 "영상·사건 캐러셀엔 캡처본을 본문 없이") ──────────────────
+   글 없이 영상 장면·기사·게시물 캡처를 잘리지 않게 크게. dove_render 의 .ev 와 같은 자리 (64,190 · 952×1020) */
+const EV_BOX = { x: 64, y: 190, w: 952, h: 1020 };
+function slideEvidence(ctx, s, img) {
+  ctx.fillStyle = PAPER; ctx.fillRect(0, 0, W, H);
+  chrome(ctx, false);
+  const R = EV_BOX;
+  if (img && (img.naturalWidth || img.width)) {
+    const iw = img.naturalWidth || img.width, ih = img.naturalHeight || img.height, k = Math.min(R.w / iw, R.h / ih);
+    const w = Math.round(iw * k), h = Math.round(ih * k), x = Math.round(R.x + (R.w - w) / 2), y = Math.round(R.y + (R.h - h) / 2);
+    ctx.imageSmoothingQuality = "high";
+    ctx.drawImage(img, x, y, w, h);
+    ctx.strokeStyle = "rgba(36,34,32,.16)"; ctx.lineWidth = 2; ctx.strokeRect(x - 1, y - 1, w + 2, h + 2);
+  }
   foot(ctx, false, SLOGAN_EN, creditText(s.credit), "credit");
 }
 
@@ -1886,6 +1904,7 @@ function paint(ctx, i, track) {
     else if (T === "cover-photo") slideCoverPhoto(ctx, s, img, fit);
     else if (T === "photo") slideBodyPhoto(ctx, s, i, img, fit);
     else if (T === "quote") slideQuote(ctx, s);
+    else if (T === "evidence") slideEvidence(ctx, s, img);
     else slideBodyText(ctx, s, i, T === "data");
     NOFILL = false;
   }
@@ -2106,8 +2125,8 @@ function formChips(s) {
   box.className = "formChips";
   const isCover = cur === 0;
   const opts = isCover ? [["", "자동"], ["type", "판면"], ["photo", "사진"]]
-                       : [["", "자동"], ["text", "글"], ["photo", "사진"], ["data", "수치"], ["quote", "인용"]];
-  const NAME = { "cover-type": "판면", "cover-photo": "사진", text: "글", photo: "사진", data: "수치", quote: "인용" };
+                       : [["", "자동"], ["text", "글"], ["photo", "사진"], ["data", "수치"], ["quote", "인용"], ["evidence", "자료"]];
+  const NAME = { "cover-type": "판면", "cover-photo": "사진", text: "글", photo: "사진", data: "수치", quote: "인용", evidence: "자료" };
   const lab = document.createElement("span"); lab.className = "fl"; lab.textContent = "형태";
   box.appendChild(lab);
   for (const [v, t] of opts) {
@@ -2571,7 +2590,8 @@ const unlit = (v) => String(v == null ? "" : v)
    강조: 편집기의 *별표* 는 양식에서 제목·인용은 <em>, 본문은 <b> 로 나간다(dove 와 같은 표시). */
 const FORM_KEYS = "형식|형태|번호|키커|수치|해설|화자|호수|날짜|소스|제목|부제|소제목|본문|출처|구간";
 const FORM_OF = { "타이포": "type", "판면": "type", "사진": "photo", "photo": "photo", "글": "text", "텍스트": "text", "text": "text",
-                  "수치": "data", "데이터": "data", "정보": "data", "data": "data", "인용": "quote", "quote": "quote" };
+                  "수치": "data", "데이터": "data", "정보": "data", "data": "data", "인용": "quote", "quote": "quote",
+                  "자료": "evidence", "evidence": "evidence" };
 /* *별표* ↔ 태그 */
 function starsToTags(t, tag) {
   const n = (String(t || "").match(/\*/g) || []).length;
@@ -2678,7 +2698,7 @@ function buildForm() {
   L.push("[캡션]", deck.caption || "", "");
   const c = deck.slides[0];
   const span = (s) => { const v = vidOf(s); return v && (v.s > 0 || v.e != null) ? ["구간: " + vFmt(v.s) + "-" + (v.e != null ? vFmt(v.e) : vFmt((v.dur || v.s + 60)))] : []; };
-  const FN = { type: "글", photo: "사진", text: "글", data: "수치", quote: "인용" };
+  const FN = { type: "글", photo: "사진", text: "글", data: "수치", quote: "인용", evidence: "자료" };
   const opt = (k, v) => (String(v || "").trim() ? [k + ": " + v] : []);
   // 스튜디오 칸(봇이 모르는 이름)이 먼저, 그다음 봇이 아는 칸
   L.push("[커버]", ...opt("호수", oneline(deck.edition)), ...opt("날짜", oneline(deck.date)), ...opt("형식", FN[c.form]),
