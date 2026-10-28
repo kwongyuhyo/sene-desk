@@ -2621,7 +2621,9 @@
      "cvr": 2,
      "at": "2026-10-28T22:00+09:00",
      "v": {
-      "A": "ab2bfb37"
+      "A": "ab2bfb37",
+      "E": "af647791",
+      "J": "3c859840"
      }
     }
    },
@@ -2696,7 +2698,78 @@
     "at": "2026-10-28T22:00+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-28T22:02+09:00"
+   "i18n_queued": "2026-10-28T22:02+09:00",
+   "i18n": {
+    "at": "2026-10-28T22:06+09:00",
+    "confirm": [
+     "전시명 공식 표기 'D'FESTA THE ORIGIN'은 영문 보도(Outlook Respawn)로 확인했습니다. 일본어 공식 표기는 찾지 못해 カタカナ 'ディフェスタ ジ・オリジン'을 처음 한 번 괄호로 붙였습니다.",
+     "내년 1월 도쿄 전시의 일본어 공식 정보(전시명·장소)는 검색되지 않았습니다. 원문에 있는 사실만 옮겼습니다.",
+     "운영 시간 '오후 8시 40분 마감 · 입장 마감 오후 7시'는 원문대로 옮겼습니다. 운영 시간과 입장 마감 사이가 꽤 길어 보이니 공식 공지에서 한 번 더 확인해 주세요.",
+     "숏폼 영어 세 칸('48 walked' / 'one giant set —' / '*D'FESTA* to Nov 30')은 공백을 넣으면 약 42자로, 40자보다 조금 깁니다. 잘리면 가운데 칸을 비워 주세요.",
+     "일본어 숏폼 곡 칸은 11자 안에 맞추려고 '11月30日まで'를 '11月末まで'로 줄였습니다. 같은 날짜입니다.",
+     "예매처 표기는 영어 'NOL Ticket' · 일본어 'NOL ticket'으로 썼습니다. 공식 영문 표기(대소문자)를 확인해 주세요.",
+     "출처: https://respawn.outlookindia.com/pop-culture/pop-culture-news/bts-g-dragon-and-46-more-stars-join-dfesta-the-origin , https://creatrip.com/en/event-info/1215",
+     "일본어 숏폼 곡 칸 '*ディフェスタ*〜11/30' 은 별표 빼고 12자로 한 줄 11자 기준을 한 글자 넘음 — 화면에서 잘리지 않는지 확인",
+     "원문 후킹 '48명이 함께 걸은' 의 '함께' 는 글자 수 때문에 영어·일본어 숏폼 제목에서 빠짐",
+     "D'FESTA THE ORIGIN 의 공식 영어·일본어 표기와 NOL ticket 표기는 이번 검수에서 웹으로 다시 확인하지 않음"
+    ],
+    "review": {
+     "at": "2026-10-28T22:06+09:00",
+     "fixes": [
+      "영어 · 숏폼 후킹·아티스트 · '48 walked' + 'one giant set —' → '48 crossed' + 'a giant set —' — 이어 읽으면 'walked one giant set' 이 어색함, 세 칸 합 40자 안으로",
+      "일본어 · 표지 제목 · K-POP48人の展示 → K-POPスター48人展 — 'K-POP48' 이 AKB48 같은 그룹 이름으로 읽힘",
+      "일본어 · 숏폼 곡·아티스트 · '*ディフェスタ*11月末まで' + '巨大な構造物' → '*ディフェスタ*〜11/30' + '巨大構造物' — 세 칸 합 26자 → 24자, 날짜도 원문(11월 30일) 그대로",
+      "일본어 · 캡션·숏폼 캡션 · ファンに宛てた手紙 → ファンに宛てた直筆の手紙 — 원문 '손편지' 의 '손으로 쓴' 이 빠져 있었음"
+     ],
+     "doubt": [
+      "일본어 숏폼 곡 칸 '*ディフェスタ*〜11/30' 은 별표 빼고 12자로 한 줄 11자 기준을 한 글자 넘음 — 화면에서 잘리지 않는지 확인",
+      "원문 후킹 '48명이 함께 걸은' 의 '함께' 는 글자 수 때문에 영어·일본어 숏폼 제목에서 빠짐",
+      "D'FESTA THE ORIGIN 의 공식 영어·일본어 표기와 NOL ticket 표기는 이번 검수에서 웹으로 다시 확인하지 않음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n'D'FESTA THE ORIGIN', an exhibition bringing together 48 K-pop artists, is now open in Yeouido, Seoul.\n\nG-DRAGON, BTS, Stray Kids (@realstraykids), TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS take part, and the theme is the dreams they first held. Over four months, more than 30 large sets were built and recorded in photos and video.\n\nThe show moves from 'THE NINEFOLD', an 8-meter-wide black-and-white portrait, and 'KANON NO. 48', a film of the 48 artists walking across a giant structure, to drawings by the members themselves and handwritten letters to fans. After Seoul, it heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul\nHours: Daily 11 AM – 8:40 PM (last entry 7 PM)\nPrice: KRW 32,000 (general admission)\nTickets: NOL Ticket\n#SENE #DFESTA #DFESTATHEORIGIN #IFCMall #Yeouido #KpopExhibition\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793192430/sknyhwwkcf0pyrpsguys.jpg\n제목: 48 K-Pop Artists, One Show|Yeouido, Through Nov 30\n부제: 'D'FESTA THE ORIGIN' · 9 acts incl. G-DRAGON, BTS, aespa, IVE, CORTIS · IFC Mall\n출처: D'FESTA\n",
+      "caption": "'D'FESTA THE ORIGIN', an exhibition bringing together 48 K-pop artists, is now open in Yeouido, Seoul.\n\nG-DRAGON, BTS, Stray Kids (@realstraykids), TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS take part, and the theme is the dreams they first held. Over four months, more than 30 large sets were built and recorded in photos and video.\n\nThe show moves from 'THE NINEFOLD', an 8-meter-wide black-and-white portrait, and 'KANON NO. 48', a film of the 48 artists walking across a giant structure, to drawings by the members themselves and handwritten letters to fans. After Seoul, it heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, 10 Gukjegeumyung-ro, Yeongdeungpo-gu, Seoul\nHours: Daily 11 AM – 8:40 PM (last entry 7 PM)\nPrice: KRW 32,000 (general admission)\nTickets: NOL Ticket\n#SENE #DFESTA #DFESTATHEORIGIN #IFCMall #Yeouido #KpopExhibition",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793192807/crsioidzd6b8pguhipfb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793192806/m5yy38mxdtiphjjggb4t.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793192807/crsioidzd6b8pguhipfb.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T22:06+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: *D'FESTA* to Nov 30\n아티스트: a giant set —\n피처링:\n후킹: 48 crossed\n출처: Dispatch\n자막: 자동",
+      "caption": "'D'FESTA THE ORIGIN', an exhibition bringing together 48 K-pop artists, is now open in Yeouido, Seoul.\n\nThe video is 'KANON NO. 48', a work from the exhibition. It weaves together the movements of 48 artists from G-DRAGON, BTS, Stray Kids (@realstraykids), TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS as they walk across a giant structure.\n\nInside, an 8-meter-wide black-and-white portrait, drawings by the members themselves and handwritten letters to fans follow. After Seoul, it heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, Yeouido · KRW 32,000 (general admission) · NOL Ticket\nVideo: Dispatch, '[D'FESTA THE ORIGIN] KANON NO.48'\n#SENE #DFESTA #DFESTATHEORIGIN #IFCMall #Yeouido #KpopExhibition"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nK-POPアーティスト48人をひとつの展示に収めた『D'FESTA THE ORIGIN（ディフェスタ ジ・オリジン）』が、ソウル・汝矣島（ヨイド）で開かれています。\n\nG-DRAGON、BTS、Stray Kids（@realstraykids）、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISが参加していて、テーマは彼らが最初に抱いた夢です。4か月をかけて30ほどの大型セットを組み、写真と映像で記録しました。\n\n横幅8mのモノクロポートレートが掛かる「THE NINEFOLD」、48人が巨大な構造物の上を歩いた映像「KANON NO. 48」に続き、メンバー自ら描いた絵やファンに宛てた直筆の手紙が並びます。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル特別市永登浦区国際金融路10 IFCモール L3 MPXギャラリー\n営業時間：毎日11:00〜20:40（最終入場19:00）\n料金：一般32,000ウォン\n予約：NOL ticket\n#SENE #ディフェスタ #DFESTA #韓国旅行 #汝矣島 #IFCモール\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793192430/sknyhwwkcf0pyrpsguys.jpg\n제목: K-POPスター48人展|汝矣島で11月30日まで\n부제: 『D'FESTA THE ORIGIN』・G-DRAGON、BTS、aespa、IVE、CORTISなど9組・IFCモール\n출처: D'FESTA\n",
+      "caption": "K-POPアーティスト48人をひとつの展示に収めた『D'FESTA THE ORIGIN（ディフェスタ ジ・オリジン）』が、ソウル・汝矣島（ヨイド）で開かれています。\n\nG-DRAGON、BTS、Stray Kids（@realstraykids）、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISが参加していて、テーマは彼らが最初に抱いた夢です。4か月をかけて30ほどの大型セットを組み、写真と映像で記録しました。\n\n横幅8mのモノクロポートレートが掛かる「THE NINEFOLD」、48人が巨大な構造物の上を歩いた映像「KANON NO. 48」に続き、メンバー自ら描いた絵やファンに宛てた直筆の手紙が並びます。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：ソウル特別市永登浦区国際金融路10 IFCモール L3 MPXギャラリー\n営業時間：毎日11:00〜20:40（最終入場19:00）\n料金：一般32,000ウォン\n予約：NOL ticket\n#SENE #ディフェスタ #DFESTA #韓国旅行 #汝矣島 #IFCモール",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793192810/yynzxw43mt9vjfons8qt.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793192809/ryeeyjcykbnj4bqh2dq3.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793192810/yynzxw43mt9vjfons8qt.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T22:06+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: *ディフェスタ*〜11/30\n아티스트: 巨大構造物\n피처링:\n후킹: 48人が歩いた\n출처: Dispatch\n자막: 자동",
+      "caption": "K-POPアーティスト48人をひとつの展示に収めた『D'FESTA THE ORIGIN（ディフェスタ ジ・オリジン）』が、ソウル・汝矣島（ヨイド）で開かれています。\n\n映像は展示作品「KANON NO. 48」です。G-DRAGON、BTS、Stray Kids（@realstraykids）、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの48人が巨大な構造物の上を歩く動きを、ひとつの作品に編み上げました。\n\n会場には横幅8mのモノクロポートレート、メンバー自ら描いた絵、ファンに宛てた直筆の手紙が続きます。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：汝矣島 IFCモール L3 MPXギャラリー・一般32,000ウォン・NOL ticket\n映像：Dispatch「[D'FESTA THE ORIGIN] KANON NO.48」\n#SENE #ディフェスタ #DFESTA #韓国旅行 #汝矣島 #IFCモール"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -3459,7 +3532,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T22:04+09:00"
+  "at": "2026-10-28T22:06+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3468,7 +3541,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T22:06+09:00",
+  "next": "2026-10-28T22:08+09:00",
   "n": 0,
   "gap": 20
  }
