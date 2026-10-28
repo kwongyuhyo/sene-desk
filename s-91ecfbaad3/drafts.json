@@ -2767,17 +2767,11 @@
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: *D'FESTA* to Nov 30\n아티스트: a giant set —\n피처링:\n후킹: 48 crossed\n출처: Dispatch\n자막: 자동",
       "caption": "'D'FESTA THE ORIGIN', an exhibition bringing together 48 K-pop artists, is now open in Yeouido, Seoul.\n\nThe video is 'KANON NO. 48', a work from the exhibition. It weaves together the movements of 48 artists from G-DRAGON, BTS, Stray Kids (@realstraykids), TOMORROW X TOGETHER, aespa, ENHYPEN, IVE, RIIZE and CORTIS as they walk across a giant structure.\n\nInside, an 8-meter-wide black-and-white portrait, drawings by the members themselves and handwritten letters to fans follow. After Seoul, it heads to Tokyo in January next year.\n\nDates: Oct 23 (Fri) – Nov 30 (Mon)\nLocation: MPX Gallery, L3, IFC Mall, Yeouido · KRW 32,000 (general admission) · NOL Ticket\nVideo: Dispatch, '[D'FESTA THE ORIGIN] KANON NO.48'\n#SENE #DFESTA #DFESTATHEORIGIN #IFCMall #Yeouido #KpopExhibition",
       "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793193180/sene_studio/gjagef4fbvjiezmgvcbd.mp4",
-       "at": "2026-10-28T22:13+09:00",
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793212305/sene_studio/jwpvzk69pp0gcyrvdbml.mp4",
+       "at": "2026-10-29T03:31+09:00",
        "file": "a_giant_set_-_DFESTA_to_Nov_30_KeolCheo_no_lyrics.mp4",
-       "sig": "28bfbc8b8a",
-       "v": "639d84b3"
-      },
-      "render": {
-       "status": "queued",
-       "at": "2026-10-29T02:52+09:00",
        "sig": "608ef36e30",
-       "job": 145
+       "v": "49628be3"
       }
      }
     },
@@ -3836,7 +3830,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T03:30+09:00"
+  "at": "2026-10-29T03:31+09:00"
  },
  "slots": {
   "basis": 0,
