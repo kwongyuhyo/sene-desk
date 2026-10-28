@@ -2774,11 +2774,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=M_VN5rC9CzU\n구간: 0:15-0:45\n곡: *ディフェスタ*〜11/30\n아티스트: 巨大構造物\n피처링:\n후킹: 48人が歩いた\n출처: Dispatch\n자막: 자동",
       "caption": "K-POPアーティスト48人をひとつの展示に収めた『D'FESTA THE ORIGIN（ディフェスタ ジ・オリジン）』が、ソウル・汝矣島（ヨイド）で開かれています。\n\n映像は展示作品「KANON NO. 48」です。G-DRAGON、BTS、Stray Kids（@realstraykids）、TOMORROW X TOGETHER、aespa、ENHYPEN、IVE、RIIZE、CORTISの48人が巨大な構造物の上を歩く動きを、ひとつの作品に編み上げました。\n\n会場には横幅8mのモノクロポートレート、メンバー自ら描いた絵、ファンに宛てた直筆の手紙が続きます。ソウルの次は来年1月の東京です。\n\n期間：10月23日（金）〜11月30日（月）\n場所：汝矣島 IFCモール L3 MPXギャラリー・一般32,000ウォン・NOL ticket\n映像：Dispatch「[D'FESTA THE ORIGIN] KANON NO.48」\n#SENE #ディフェスタ #DFESTA #韓国旅行 #汝矣島 #IFCモール",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T22:06+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793193261/sene_studio/lndumtkpr5umgxslqhob.mp4",
+       "at": "2026-10-28T22:14+09:00",
+       "file": "JuDaGouZaoWu_deifuesuta1130_KeolCheo_no_lyrics.mp4",
        "sig": "1e9b153496",
-       "job": 121
+       "v": "9a434086"
       }
      }
     }
@@ -3689,7 +3690,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T22:13+09:00"
+  "at": "2026-10-28T22:14+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3698,7 +3699,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T22:15+09:00",
+  "next": "2026-10-28T22:16+09:00",
   "n": 0,
   "gap": 20
  }
