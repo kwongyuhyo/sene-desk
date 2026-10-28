@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-28 21:01 KST",
+ "generated_at": "2026-10-28 22:36 KST",
  "weeks": [],
  "kinds": [],
  "top": [],
@@ -19,7 +19,7 @@
  },
  "note": "결 배수는 주차별 도달 중앙값으로 보정한 값이다. stable=false 는 한 주만 빼도 방향이 바뀌므로 판단 근거로 쓰지 않는다.",
  "runs": {
-  "daily": "2026-10-28 19:49 KST"
+  "daily": "2026-10-28 21:01 KST"
  },
  "feed": {
   "fetched_at": "",
@@ -27,7 +27,7 @@
  },
  "drafts": {
   "days": 28,
-  "drafts": 101,
+  "drafts": 108,
   "posted": 0,
   "posts": 0,
   "rate": 0.0,
@@ -35,7 +35,7 @@
   "own_mult": null,
   "lanes": {
    "정보": {
-    "drafts": 86,
+    "drafts": 93,
     "posted": 0,
     "mult": null
    },
@@ -52,7 +52,7 @@
   },
   "corners": {
    "news": {
-    "drafts": 78,
+    "drafts": 85,
     "posted": 0,
     "mult": null
    },
