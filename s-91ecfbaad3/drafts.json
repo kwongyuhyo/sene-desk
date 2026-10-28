@@ -472,25 +472,25 @@
      "key": "nroLotMqwyg@0.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793144903/sene_studio/umqq9f2glry2tmls4hmj.mp4",
-     "at": "2026-10-28T08:48+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793197639/sene_studio/e1jgxy5dskxstgt61j0i.mp4",
+     "at": "2026-10-28T23:27+09:00",
      "file": "InEo_PaTi_11Wol_29IlKkaJi_NolGeoLi_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793144905670-92a02188",
+      "id": "st:1793197640725-92a02188",
       "segs": [
        {
         "start": 0.0,
-        "end": 39.97,
+        "end": 34.96,
         "text": "!! 다음"
        },
        {
-        "start": 39.97,
-        "end": 42.18,
+        "start": 34.96,
+        "end": 36.94,
         "text": "영상에서 만나요"
        }
       ]
      },
-     "v": "883f9b27"
+     "v": "0a703851"
     }
    },
    "corner_name": "후속",
@@ -3792,7 +3792,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T22:39+09:00"
+  "at": "2026-10-28T23:27+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3801,7 +3801,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T22:49+09:00",
+  "next": "2026-10-28T23:29+09:00",
   "n": 0,
   "gap": 20
  }
