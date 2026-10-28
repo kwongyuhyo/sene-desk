@@ -2100,6 +2100,12 @@
        "at": "2026-10-28T19:36+09:00",
        "account": "sene_en",
        "via": "api"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:50+09:00",
+       "sig": "0c0c826b35",
+       "job": 143
       }
      },
      "published": {
@@ -2141,6 +2147,12 @@
        "at": "2026-10-28T19:37+09:00",
        "account": "sene_ja",
        "via": "api"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:50+09:00",
+       "sig": "1f79ee4ac3",
+       "job": 144
       }
      },
      "published": {
@@ -2744,24 +2756,20 @@
      "key": "M_VN5rC9CzU@15.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793192678/sene_studio/sfssup9mmqryngqtp3yd.mp4",
-     "at": "2026-10-28T22:04+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793209969/sene_studio/sqizkcbb4ps2vwsmc5zb.mp4",
+     "at": "2026-10-29T02:52+09:00",
      "file": "GeoDaeHan_GuJoMul_DiPeSeuTa_11Wol_30Il_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793192679824-dd3a8023",
+      "id": "st:1793209970538-dd3a8023",
       "segs": [
        {
         "start": 0.0,
-        "end": 9.08,
-        "text": "ansing .com"
+        "end": 2.0,
+        "text": "!"
        }
       ]
      },
-     "v": "47e656e7"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T02:29+09:00"
+     "v": "45e40dc8"
     }
    },
    "pick": {
@@ -3872,7 +3880,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T02:50+09:00"
+  "at": "2026-10-29T02:52+09:00"
  },
  "slots": {
   "basis": 0,
