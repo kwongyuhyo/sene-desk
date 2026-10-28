@@ -849,6 +849,12 @@
        "file": "at_Dragon_Ball_by_Nov_15_KeolCheo_no_lyrics.mp4",
        "sig": "f92b2c6bf5",
        "v": "fc58a846"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:41+09:00",
+       "sig": "c8d889f1fd",
+       "job": 137
       }
      }
     },
@@ -877,6 +883,12 @@
        "file": "doragonboruZhan_11Yue15Rimade_KeolCheo_no_lyrics.mp4",
        "sig": "c23c46bc11",
        "v": "50f12bde"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T02:41+09:00",
+       "sig": "bbcda2fbf5",
+       "job": 138
       }
      }
     }
@@ -959,11 +971,11 @@
      "key": "qE6qa6_-3xo@432.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793154198/sene_studio/e0b3t8ouiltbzxcht2zg.mp4",
-     "at": "2026-10-28T11:23+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793209559/sene_studio/gtxk6rej8v0h3y6gc7aq.mp4",
+     "at": "2026-10-29T02:46+09:00",
      "file": "TaJja_Sog_Jeo_DaeSa_JeGa_Sseun_Geo_ManhA_KeolCheo_no_lyrics.mp4",
      "subs": {
-      "id": "st:1793154200621-10fc8c6c",
+      "id": "st:1793209561884-10fc8c6c",
       "segs": [
        {
         "start": 0.0,
@@ -977,13 +989,13 @@
        },
        {
         "start": 4.98,
-        "end": 5.9,
+        "end": 5.99,
         "text": "훨씬 적었어요"
        },
        {
-        "start": 5.9,
+        "start": 5.99,
         "end": 8.13,
-        "text": "그래, 이런 미담은 풀어 줘야 돼요"
+        "text": "그래 이런 미담은 풀어줘야 돼요"
        },
        {
         "start": 8.13,
@@ -998,20 +1010,20 @@
        {
         "start": 11.4,
         "end": 12.81,
-        "text": "우리 김 부장 형님"
+        "text": "우리 김부장 형님"
        },
        {
         "start": 12.81,
-        "end": 15.51,
-        "text": "오셔서 지훈아 어쩌고저쩌고하면서"
+        "end": 15.35,
+        "text": "오셔서 지훈아 어쩌자 하면서"
        },
        {
-        "start": 15.51,
-        "end": 16.89,
-        "text": "나를 너무 챙겨 주시는 거예요"
+        "start": 15.35,
+        "end": 16.88,
+        "text": "나를 너무 챙겨주시는 거예요"
        },
        {
-        "start": 16.89,
+        "start": 16.88,
         "end": 17.88,
         "text": "그래서 감사합니다"
        },
@@ -1027,11 +1039,11 @@
        },
        {
         "start": 20.46,
-        "end": 21.35,
-        "text": "예 이러니까"
+        "end": 21.45,
+        "text": "예, 이러니까"
        },
        {
-        "start": 21.35,
+        "start": 21.45,
         "end": 22.6,
         "text": "그래 그러면 너도"
        },
@@ -1082,18 +1094,18 @@
        },
        {
         "start": 40.5,
-        "end": 42.34,
+        "end": 42.31,
         "text": "근데 Money First에 이거는"
        },
        {
-        "start": 42.34,
-        "end": 43.56,
-        "text": "완전 힙합 대사야 맞아"
+        "start": 42.31,
+        "end": 43.17,
+        "text": "완전 힙합 대사야"
        },
        {
-        "start": 43.56,
+        "start": 43.17,
         "end": 45.55,
-        "text": "Money First 우린 알죠"
+        "text": "맞아, Money First 우린 알죠"
        },
        {
         "start": 45.55,
@@ -1102,11 +1114,7 @@
        }
       ]
      },
-     "v": "dbb288e8"
-    },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T02:29+09:00"
+     "v": "6914f90d"
     }
    },
    "corner_name": "그 말",
@@ -3813,7 +3821,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T02:41+09:00"
+  "at": "2026-10-29T02:46+09:00"
  },
  "slots": {
   "basis": 0,
