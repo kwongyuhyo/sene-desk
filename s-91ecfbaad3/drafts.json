@@ -560,17 +560,11 @@
       "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=nroLotMqwyg\n구간: 0:00-0:45\n곡: 11月29日まで\n아티스트: 人魚パーティー\n피처링:\n후킹: 水族館に*サンリオ*、\n출처: apoc\n자막: 자동",
       "caption": "ロッテワールドアクアリウム（@lotteworld_aquarium）とサンリオキャラクターズのコラボ「マーメイドパーティー」が、11月29日まで開催されています。\n\n映像は、今回のコラボのミッション型ARコンテンツを手がけたapocが公開した紹介映像です。来場者が各ゾーンの銘板や生き物をスマートフォンで読み取り、ミッションを解いていく仕組みです。\n\nすべてのミッションをクリアすると、サンリオキャラクターズと一緒に撮れるARフィルターが使えるようになり、地下1階のアクアショップでランダムのIDカードキーホルダーがもらえます。ミッションは有料パッケージに含まれる招待状のQRコードから始まります。\n\n期間：9月4日（金）〜11月29日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック路300 ロッテワールドモール内 ロッテワールドアクアリウム\n映像：apoc\n#SENE #韓国旅行 #ロッテワールドアクアリウム #サンリオ #蚕室",
       "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793185193/sene_studio/s4ait2blz9xtb91ahweb.mp4",
-       "at": "2026-10-28T19:59+09:00",
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793198092/sene_studio/gku3uqccwpn5ityfnqyj.mp4",
+       "at": "2026-10-28T23:34+09:00",
        "file": "RenYupatei_11Yue29Rimade_NolGeoLi_no_lyrics.mp4",
-       "sig": "dbcc1b12b1",
-       "v": "b910df13"
-      },
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T23:27+09:00",
        "sig": "6cfc033107",
-       "job": 126
+       "v": "4d69a1b3"
       }
      }
     }
@@ -3798,7 +3792,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T23:31+09:00"
+  "at": "2026-10-28T23:34+09:00"
  },
  "slots": {
   "basis": 0,
@@ -3807,7 +3801,7 @@
  },
  "factors": {},
  "queue": {
-  "next": "2026-10-28T23:33+09:00",
+  "next": "2026-10-28T23:36+09:00",
   "n": 0,
   "gap": 20
  }
