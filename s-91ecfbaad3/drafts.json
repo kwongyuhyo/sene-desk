@@ -1859,11 +1859,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=PqOGLljj9Lw\n구간: 0:15-0:45\n곡: *ディオール*11/1発売\n아티스트: \n피처링:\n후킹: シナモンと蜂蜜色の\n출처: Christian Dior\n자막: 자동",
       "caption": "ディオール ビューティー（@diorbeauty）の2026年ホリデー コレクションが、11月1日から韓国全国の店舗で発売されます。\n\n映像はディオールが公開した今年のホリデー キャンペーンフィルムで、コレクション名は〈シナモン グレイズ〉です。ピーター・フィリップスがジンジャーブレッドハウスを出発点に、シナモンと蜂蜜の色にメタリックなブルー・シルバー、グリッターを重ねました。\n\n10月15日にオンライン ブティック、22日にソウルの新世界百貨店 江南店（シンセゲ・カンナム）・ロッテワールドモールのブティックで先行発売され、今週末から韓国全国の百貨店と主要オンラインチャネルへ広がります。\n\n全国発売：11月1日（日）から\n映像：Christian Dior 公式YouTube『Dior Beauty Holiday 2026』\n#SENE #ディオール #ディオールホリデー #シナモングレイズ #ホリデーコスメ",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T17:56+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793177931/sene_studio/pylwghknwicvnnvklhzc.mp4",
+       "at": "2026-10-28T17:58+09:00",
+       "file": "unknown_deioru111FaMai_ByuTi_no_lyrics.mp4",
        "sig": "7776d14e7e",
-       "job": 112
+       "v": "66694a9f"
       }
      }
     }
@@ -2187,7 +2188,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T17:57+09:00"
+  "at": "2026-10-28T17:58+09:00"
  },
  "slots": {
   "basis": 0,
