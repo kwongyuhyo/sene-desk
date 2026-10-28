@@ -1473,11 +1473,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=2T5L6XsgP6I\n구간: 3:59-4:14\n곡: says *Hirst*.\n아티스트: a good idea,\n피처링:\n후킹: Wearable art is\n출처: BARRIE\n자막: 자동",
       "caption": "Damien Hirst's spots and butterflies have become cashmere knitwear.\n\nThe seven pieces were made with Scottish cashmere brand Barrie, and they carry Hirst's two signature motifs, Spots and Butterflies. Every piece is cashmere, and the pieces in each colorway are numbered from 1 to 100.\n\nThe video is a conversation with Hirst released by Barrie. He says he simply wants to make things that look good and make people think, and that wearable art is a good idea.\n\nVideo: Barrie official YouTube, 'Damien Hirst in conversation with Cornelius Tittel'\n#SENE #DamienHirst #BARRIE #Cashmere #Knitwear",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-28T11:50+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793155886/sene_studio/qufvfbzrxwldfhhfhvkk.mp4",
+       "at": "2026-10-28T11:51+09:00",
+       "file": "a_good_idea_says_Hirst_PaeSyeon_no_lyrics.mp4",
        "sig": "d5ed79cd58",
-       "job": 108
+       "v": "565f8f03"
       }
      }
     },
