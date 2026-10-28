@@ -416,7 +416,9 @@
      "v": {
       "A": "8eadc20d",
       "B": "64bd3e63",
-      "C": "dd93b8c4"
+      "C": "dd93b8c4",
+      "E": "4a3e7488",
+      "J": "d94d5745"
      }
     }
    },
@@ -491,7 +493,68 @@
      "v": "883f9b27"
     }
    },
-   "corner_name": "후속"
+   "corner_name": "후속",
+   "i18n": {
+    "at": "2026-10-28T19:40+09:00",
+    "confirm": [
+     "행사 기간: 원문의 9월 4일~11월 29일은 한 매체(87일)와 맞지만, 일부 예약·정보 페이지(NOL World·popga)는 9월 5일~11월 30일로 적고 있음 — 올리기 전에 롯데월드 아쿠아리움 공식 계정에서 다시 확인",
+     "'Mermaid Party'·'マーメイドパーティー' 와 포토존 'Moonlight Shell Castle'·「月明かりの貝殻キャッスル」은 공식 영어·일본어 표기를 찾지 못해 직접 옮긴 이름",
+     "'아폭(apoc)'은 검색으로 공식 표기를 확인하지 못해 영어·일본어판 모두 원문 로마자 'apoc' 그대로 둠",
+     "숏폼 영어 세 칸은 40자 제한 때문에 'Sanrio Aquarium / Mermaid Party / to Nov 29' 로 줄임"
+    ],
+    "review": {
+     "at": "2026-10-28T19:40+09:00",
+     "fixes": [
+      "영어 · 숏폼 후킹 · *Sanrio* Aquarium → *Sanrio* × Aquarium: — 'Sanrio Aquarium'이 산리오라는 이름의 수족관처럼 읽힘. 세 칸을 이어 읽으면 'Sanrio × Aquarium: Mermaid Party to Nov 29'(40자)",
+      "일본어 · 캡션 둘째 단락 · 2回目のコラボですが、→ 2回目のコラボで、 — '~인데요'를 직역해 역접(ですが)으로 읽힘",
+      "일본어 · 숏폼 캡션 둘째 단락 · 紹介映像ですが、→ 紹介映像です。 — 같은 직역투, 역접으로 읽힘",
+      "일본어 · 숏폼 캡션 · ARフィルターが開放され → ARフィルターが使えるようになり — '開放'은 이 맥락에 어색한 연어"
+     ],
+     "doubt": []
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nLotte World Aquarium (@lotteworld_aquarium) runs 'Mermaid Party,' its collaboration with Sanrio Characters, through Nov 29.\n\nIt is the second collaboration, following last year's. This time, My Melody, Kuromi, Cinnamoroll, Pompompurin and Hangyodon turn into mermaids and invite visitors to a party.\n\nA My Melody balloon about 2 meters tall stands at the entrance, and in front of the sea turtle zone is 'Moonlight Shell Castle,' a ballroom-themed photo zone. Every Saturday, My Melody photo time is held three times a day in front of the main tank on B2. Complete the missions with the QR code on the invitation included in the paid package, and you receive a random ID card keyring at the Aqua Shop on B1.\n\nDates: Sep 4 (Fri) – Nov 29 (Sun)\nLocation: Lotte World Aquarium, Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul\nPhoto Time: Saturdays 11:30 · 14:00 · 16:00 (in front of the main tank, B2)\n#SENE #LotteWorldAquarium #Sanrio #SeoulTravel #Jamsil\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793144625/ka8gx4hvv0qpezgxtt4f.jpg\n제목: My Melody Goes Mermaid,|Through Nov 29\n부제: Lotte World Aquarium × Sanrio Characters 'Mermaid Party'\n출처: Lotte World\n",
+      "caption": "Lotte World Aquarium (@lotteworld_aquarium) runs 'Mermaid Party,' its collaboration with Sanrio Characters, through Nov 29.\n\nIt is the second collaboration, following last year's. This time, My Melody, Kuromi, Cinnamoroll, Pompompurin and Hangyodon turn into mermaids and invite visitors to a party.\n\nA My Melody balloon about 2 meters tall stands at the entrance, and in front of the sea turtle zone is 'Moonlight Shell Castle,' a ballroom-themed photo zone. Every Saturday, My Melody photo time is held three times a day in front of the main tank on B2. Complete the missions with the QR code on the invitation included in the paid package, and you receive a random ID card keyring at the Aqua Shop on B1.\n\nDates: Sep 4 (Fri) – Nov 29 (Sun)\nLocation: Lotte World Aquarium, Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul\nPhoto Time: Saturdays 11:30 · 14:00 · 16:00 (in front of the main tank, B2)\n#SENE #LotteWorldAquarium #Sanrio #SeoulTravel #Jamsil",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184045/tejkkljh31wnjyqam0rk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184045/cm4dguoog3fuxvlphxta.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184045/tejkkljh31wnjyqam0rk.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T19:40+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=nroLotMqwyg\n구간: 0:00-0:45\n곡: to Nov 29\n아티스트: Mermaid Party\n피처링:\n후킹: *Sanrio* × Aquarium:\n출처: apoc\n자막: 자동",
+      "caption": "Lotte World Aquarium (@lotteworld_aquarium) runs 'Mermaid Party,' its collaboration with Sanrio Characters, through Nov 29.\n\nThe video is an introduction released by apoc, which created the collaboration's mission-based AR content. Visitors scan each zone's name plates and sea creatures with their phones to solve missions.\n\nFinish all the missions to unlock an AR filter for photos with Sanrio Characters, and receive a random ID card keyring at the Aqua Shop on B1. The missions start with the QR code on the invitation included in the paid package.\n\nDates: Sep 4 (Fri) – Nov 29 (Sun)\nLocation: Lotte World Aquarium, Lotte World Mall, 300 Olympic-ro, Songpa-gu, Seoul\nVideo: apoc\n#SENE #LotteWorldAquarium #Sanrio #SeoulTravel #Jamsil"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nロッテワールドアクアリウム（@lotteworld_aquarium）とサンリオキャラクターズのコラボ「マーメイドパーティー」が、11月29日まで開催されています。\n\n昨年に続く2回目のコラボで、今年はマイメロディ・クロミ・シナモロール・ポムポムプリン・ハンギョドンが人魚に変身し、来場者をパーティーに招待するという設定です。\n\n入口には高さ約2mのマイメロディのバルーンが立ち、ウミガメゾーンの前には舞踏会がコンセプトのフォトゾーン「月明かりの貝殻キャッスル」が設けられました。毎週土曜日には地下2階のメイン水槽前で、マイメロディのフォトタイムが1日3回行われます。有料パッケージに含まれる招待状のQRコードでミッションをクリアすると、地下1階のアクアショップでランダムのIDカードキーホルダーがもらえます。\n\n期間：9月4日（金）〜11月29日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック路300 ロッテワールドモール内 ロッテワールドアクアリウム\nフォトタイム：毎週土曜日 11:30・14:00・16:00（地下2階メイン水槽前）\n#SENE #韓国旅行 #ロッテワールドアクアリウム #サンリオ #蚕室\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793144625/ka8gx4hvv0qpezgxtt4f.jpg\n제목: 人魚のマイメロディ、|11月29日まで\n부제: ロッテワールドアクアリウム×サンリオキャラクターズ「マーメイドパーティー」\n출처: ロッテワールド\n",
+      "caption": "ロッテワールドアクアリウム（@lotteworld_aquarium）とサンリオキャラクターズのコラボ「マーメイドパーティー」が、11月29日まで開催されています。\n\n昨年に続く2回目のコラボで、今年はマイメロディ・クロミ・シナモロール・ポムポムプリン・ハンギョドンが人魚に変身し、来場者をパーティーに招待するという設定です。\n\n入口には高さ約2mのマイメロディのバルーンが立ち、ウミガメゾーンの前には舞踏会がコンセプトのフォトゾーン「月明かりの貝殻キャッスル」が設けられました。毎週土曜日には地下2階のメイン水槽前で、マイメロディのフォトタイムが1日3回行われます。有料パッケージに含まれる招待状のQRコードでミッションをクリアすると、地下1階のアクアショップでランダムのIDカードキーホルダーがもらえます。\n\n期間：9月4日（金）〜11月29日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック路300 ロッテワールドモール内 ロッテワールドアクアリウム\nフォトタイム：毎週土曜日 11:30・14:00・16:00（地下2階メイン水槽前）\n#SENE #韓国旅行 #ロッテワールドアクアリウム #サンリオ #蚕室",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184048/z3x0qsbnkrjwae23vrci.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184048/loj5vru3akzjm5jd6bfp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793184048/z3x0qsbnkrjwae23vrci.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T19:40+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=nroLotMqwyg\n구간: 0:00-0:45\n곡: 11月29日まで\n아티스트: 人魚パーティー\n피처링:\n후킹: 水族館に*サンリオ*、\n출처: apoc\n자막: 자동",
+      "caption": "ロッテワールドアクアリウム（@lotteworld_aquarium）とサンリオキャラクターズのコラボ「マーメイドパーティー」が、11月29日まで開催されています。\n\n映像は、今回のコラボのミッション型ARコンテンツを手がけたapocが公開した紹介映像です。来場者が各ゾーンの銘板や生き物をスマートフォンで読み取り、ミッションを解いていく仕組みです。\n\nすべてのミッションをクリアすると、サンリオキャラクターズと一緒に撮れるARフィルターが使えるようになり、地下1階のアクアショップでランダムのIDカードキーホルダーがもらえます。ミッションは有料パッケージに含まれる招待状のQRコードから始まります。\n\n期間：9月4日（金）〜11月29日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック路300 ロッテワールドモール内 ロッテワールドアクアリウム\n映像：apoc\n#SENE #韓国旅行 #ロッテワールドアクアリウム #サンリオ #蚕室"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2355,7 +2418,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T19:39+09:00"
+  "at": "2026-10-28T19:40+09:00"
  },
  "slots": {
   "basis": 0,
