@@ -228,7 +228,9 @@
      "cvr": 2,
      "at": "2026-10-29T08:34+09:00",
      "v": {
-      "A": "0b9f91c3"
+      "A": "0b9f91c3",
+      "E": "72f161c6",
+      "J": "d6c7dff9"
      }
     }
    },
@@ -238,7 +240,59 @@
     "at": "2026-10-29T08:34+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-29T08:34+09:00"
+   "i18n_queued": "2026-10-29T08:34+09:00",
+   "i18n": {
+    "at": "2026-10-29T08:38+09:00",
+    "confirm": [
+     "The official English and Japanese spellings of 'NAVER Arena at INSPIRE' (and the Japanese 'NAVERアリーナ・アット・インスパイア') could not be confirmed in searches. Check them against INSPIRE's or NAVER's official announcement.",
+     "The English and Japanese spellings of 'FaceSign' (페이스사인) were not confirmed. Check them against Naver Pay's official notice.",
+     "The tennis event's English name was confirmed in reports as 'Naver X Hyundai Card THE SIX', held Dec 25–27 at Inspire Arena. One outlet (Khel Now) gives Dec 26–28 in Seoul, so the dates differ. The Japanese spelling of 現代カード also needs checking.",
+     "영어·일본어 공통 · 새 이름의 공식 외국어 표기('NAVER Arena at INSPIRE' 대문자 표기, 일본어 'NAVERアリーナ・アット・インスパイア') — WebSearch 로 네이버·인스파이어 공식 영문 발표를 찾지 못함. 올리기 전 보도자료로 확인 필요",
+     "영어·일본어 공통 · 'FaceSign'·'THE SIX' 영문 표기, '現代カード' 일본어 표기 — 공식 표기를 확인하지 못함"
+    ],
+    "review": {
+     "at": "2026-10-29T08:38+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 공통 · 새 이름의 공식 외국어 표기('NAVER Arena at INSPIRE' 대문자 표기, 일본어 'NAVERアリーナ・アット・インスパイア') — WebSearch 로 네이버·인스파이어 공식 영문 발표를 찾지 못함. 올리기 전 보도자료로 확인 필요",
+      "영어·일본어 공통 · 'FaceSign'·'THE SIX' 영문 표기, '現代カード' 일본어 표기 — 공식 표기를 확인하지 못함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nInspire Arena on Yeongjong Island takes on a new name, 'NAVER Arena,' starting in December.\n\nThe K-pop venue opened in December 2023 with the Melon Music Awards and has since hosted SBS Gayo Daejeon. With NAVER signing a three-year naming rights deal with INSPIRE Entertainment Resort, its official name becomes 'NAVER Arena at INSPIRE.'\n\nThe two companies say they plan to introduce entry using Naver Pay's face-recognition service 'FaceSign' and NFTs, along with augmented reality wayfinding. No start date has been set. The first event under the new name is the women's tennis tournament 'NAVER x Hyundai Card THE SIX,' Dec 25–27.\n\nWhen: During December (for three years)\nNew name: NAVER Arena at INSPIRE (NAVER Arena for short)\nLocation: INSPIRE Entertainment Resort, Yeongjong Island, Incheon · capacity approx. 15,000\n#SENE #NAVERArena #InspireArena #Incheon #KpopConcert\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793230460/ru19weejs4v1lpvhkbdg.jpg\n제목: Inspire Arena Becomes|NAVER Arena in December\n부제: Yeongjong Island K-pop venue · 3-year naming rights · face-recognition entry planned\n출처: Source: INSPIRE\n",
+      "caption": "Inspire Arena on Yeongjong Island takes on a new name, 'NAVER Arena,' starting in December.\n\nThe K-pop venue opened in December 2023 with the Melon Music Awards and has since hosted SBS Gayo Daejeon. With NAVER signing a three-year naming rights deal with INSPIRE Entertainment Resort, its official name becomes 'NAVER Arena at INSPIRE.'\n\nThe two companies say they plan to introduce entry using Naver Pay's face-recognition service 'FaceSign' and NFTs, along with augmented reality wayfinding. No start date has been set. The first event under the new name is the women's tennis tournament 'NAVER x Hyundai Card THE SIX,' Dec 25–27.\n\nWhen: During December (for three years)\nNew name: NAVER Arena at INSPIRE (NAVER Arena for short)\nLocation: INSPIRE Entertainment Resort, Yeongjong Island, Incheon · capacity approx. 15,000\n#SENE #NAVERArena #InspireArena #Incheon #KpopConcert",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230689/yoaurgv76imwa4gkjefr.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230689/zygjn1mpsd7xqdlfktny.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230689/yoaurgv76imwa4gkjefr.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T08:38+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\n仁川・永宗島（ヨンジョンド）のインスパイアアリーナが、12月から「NAVERアリーナ」という新しい名前になります。\n\n2023年12月に「MelOn Music Awards」でオープンし、その後「SBS歌謡大典」も開かれたK-POP公演会場ですが、NAVER（ネイバー）がインスパイア・リゾートと3年間の命名権契約を結んだことで、正式名称が「NAVERアリーナ・アット・インスパイア」に変わります。\n\n両社は、Naver Payの顔認証サービス「FaceSign（フェイスサイン）」やNFTを活用した入場、AR（拡張現実）による道案内を進めると発表しました。実施時期はまだ決まっていません。新しい名前で開かれる最初のイベントは、12月25日〜27日の女子テニス大会「NAVER×現代カード THE SIX」です。\n\n変更時期：12月中（3年間）\n新名称：NAVERアリーナ・アット・インスパイア（略称 NAVERアリーナ）\n場所：仁川・永宗島 インスパイア・リゾート · 約1万5,000人収容\n#SENE #NAVERアリーナ #インスパイアアリーナ #韓国旅行 #KPOPコンサート\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793230460/ru19weejs4v1lpvhkbdg.jpg\n제목: インスパイアアリーナ|12月からNAVERアリーナに\n부제: 永宗島のK-POP会場 · 命名権3年 · 顔認証入場を推進\n출처: 出典：INSPIRE\n",
+      "caption": "仁川・永宗島（ヨンジョンド）のインスパイアアリーナが、12月から「NAVERアリーナ」という新しい名前になります。\n\n2023年12月に「MelOn Music Awards」でオープンし、その後「SBS歌謡大典」も開かれたK-POP公演会場ですが、NAVER（ネイバー）がインスパイア・リゾートと3年間の命名権契約を結んだことで、正式名称が「NAVERアリーナ・アット・インスパイア」に変わります。\n\n両社は、Naver Payの顔認証サービス「FaceSign（フェイスサイン）」やNFTを活用した入場、AR（拡張現実）による道案内を進めると発表しました。実施時期はまだ決まっていません。新しい名前で開かれる最初のイベントは、12月25日〜27日の女子テニス大会「NAVER×現代カード THE SIX」です。\n\n変更時期：12月中（3年間）\n新名称：NAVERアリーナ・アット・インスパイア（略称 NAVERアリーナ）\n場所：仁川・永宗島 インスパイア・リゾート · 約1万5,000人収容\n#SENE #NAVERアリーナ #インスパイアアリーナ #韓国旅行 #KPOPコンサート",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230692/oatlql5zdbzmbiz3lost.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230691/zf3merdyfsvkau77wzgn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793230692/oatlql5zdbzmbiz3lost.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T08:38+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -591,10 +645,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T08:37+09:00"
+  "at": "2026-10-29T08:38+09:00"
  },
  "queue": {
-  "next": "2026-10-29T08:39+09:00",
+  "next": "2026-10-29T08:40+09:00",
   "n": 0,
   "gap": 20
  },
