@@ -648,7 +648,9 @@
      "v": {
       "A": "a1cb1842",
       "B": "00399d01",
-      "C": "f3f0a1aa"
+      "C": "f3f0a1aa",
+      "E": "1bea4e7e",
+      "J": "b601c5d8"
      }
     }
    },
@@ -727,7 +729,70 @@
      "v": "1776ac10"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-28T19:39+09:00",
+    "confirm": [
+     "일본어 공식 전시명 미확인 — 「ドラゴンボール ヒーローズライズ アジアツアー」는 카타카나로 옮기고 영문 원제를 괄호로 병기했다 (태국 회차 영문 표기 'Dragon Ball Heroes Rise Asia Tour' 는 확인).",
+     "'에네르기파' 는 원작 기술명 Kamehameha / かめはめ波 로 옮겼다.",
+     "스테이지엑스 성수 403 의 공식 영문·일문 표기(STAGE X Seongsu 403) 미확인 — 브랜드 영문 'STAGE X' 를 그대로 썼다.",
+     "숏폼 영어 세 칸은 'Fire a Kamehameha / at Dragon Ball / by Nov 15' (40자)로 줄이며 '성수에서' 를 뺐다. 일본어는 24자로 맞추며 '성수에서' 를 뺐다.",
+     "영어 · 숏폼 세 칸 · 이어 읽으면 'Fire a Kamehameha at Dragon Ball by Nov 15' — 'at Dragon Ball'이 '드래곤볼 전시에서'가 아니라 '드래곤볼을 향해'로도 읽히고 '전시'·'성수'가 빠짐. 'at the Dragon Ball show'로 풀면 40자를 넘어서 그대로 둠 — 사람이 판단 필요",
+     "영어·일본어 · 전시 영문명 'Dragon Ball: Heroes Rise Asia Tour'와 일본어 표기 『ドラゴンボール ヒーローズライズ アジアツアー』는 공식 영문·일본어 표기를 확인하지 못함 (한국 기사만 확인) — 주최 측 표기 확인 권장",
+     "공통 · 운영 시간 매일 11:00~21:00는 검색한 기사에서 확인하지 못함 (원문 기준으로 옮김) — 닷밀 공식 안내로 다시 확인"
+    ],
+    "review": {
+     "at": "2026-10-28T19:39+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어 · 숏폼 세 칸 · 이어 읽으면 'Fire a Kamehameha at Dragon Ball by Nov 15' — 'at Dragon Ball'이 '드래곤볼 전시에서'가 아니라 '드래곤볼을 향해'로도 읽히고 '전시'·'성수'가 빠짐. 'at the Dragon Ball show'로 풀면 40자를 넘어서 그대로 둠 — 사람이 판단 필요",
+      "영어·일본어 · 전시 영문명 'Dragon Ball: Heroes Rise Asia Tour'와 일본어 표기 『ドラゴンボール ヒーローズライズ アジアツアー』는 공식 영문·일본어 표기를 확인하지 못함 (한국 기사만 확인) — 주최 측 표기 확인 권장",
+      "공통 · 운영 시간 매일 11:00~21:00는 검색한 기사에서 확인하지 못함 (원문 기준으로 옮김) — 닷밀 공식 안내로 다시 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Dragon Ball exhibition in Seongsu closes on Nov 15.\n\nThe show is 'Dragon Ball: Heroes Rise Asia Tour', officially approved by Toei Animation, and Seoul is the third city on a tour that began last year. It fills STAGE X Seongsu 403 with the story of Goku and Vegeta as they grow and fight.\n\nAmong some 40 life-size sculptures, visitors move through interactive spaces where they can fire a Kamehameha at a screen or match moves with a partner to perform the Fusion.\n\nDates: Aug 22 (Sat) – Nov 15 (Sun)\nLocation: STAGE X Seongsu 403, 403 Ttukseom-ro, Seongdong-gu (Seongsu-dong), Seoul\nHours: Daily 11:00–21:00\nTickets: bemill, dotmill's ticketing platform\n#SENE #DragonBall #Seongsu #SeoulExhibition #SeoulTravel\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793145058/rr73wnuxxhhgtyai5t4x.jpg\n제목: Dragon Ball in Seongsu|Runs Through Nov 15\n부제: STAGE X Seongsu 403 · Daily 11am–9pm\n출처: @db_heroes_kr\n",
+      "caption": "The Dragon Ball exhibition in Seongsu closes on Nov 15.\n\nThe show is 'Dragon Ball: Heroes Rise Asia Tour', officially approved by Toei Animation, and Seoul is the third city on a tour that began last year. It fills STAGE X Seongsu 403 with the story of Goku and Vegeta as they grow and fight.\n\nAmong some 40 life-size sculptures, visitors move through interactive spaces where they can fire a Kamehameha at a screen or match moves with a partner to perform the Fusion.\n\nDates: Aug 22 (Sat) – Nov 15 (Sun)\nLocation: STAGE X Seongsu 403, 403 Ttukseom-ro, Seongdong-gu (Seongsu-dong), Seoul\nHours: Daily 11:00–21:00\nTickets: bemill, dotmill's ticketing platform\n#SENE #DragonBall #Seongsu #SeoulExhibition #SeoulTravel",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793183945/vuflkllz9ykyafwtzftt.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793183944/wctbtl8idcpkv2j77dxx.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793183945/vuflkllz9ykyafwtzftt.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T19:39+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fEaKuxvSDf4\n구간: 0:00-0:56\n곡: by Nov 15\n아티스트: at *Dragon Ball*\n피처링:\n후킹: Fire a Kamehameha\n출처: dotmill\n자막: 자동",
+      "caption": "The Dragon Ball exhibition in Seongsu closes on Nov 15.\n\nThe video shows the exhibition space as released by the organizer, dotmill. 'Dragon Ball: Heroes Rise Asia Tour', officially approved by Toei Animation, has come to Seoul as its third city.\n\nAmong some 40 sculptures of Goku, Vegeta, Frieza and Cell, visitors move through interactive spaces where they can fire a Kamehameha at a screen or match moves with a partner to perform the Fusion.\n\nDates: Aug 22 (Sat) – Nov 15 (Sun)\nLocation: STAGE X Seongsu 403, 403 Ttukseom-ro, Seongdong-gu (Seongsu-dong), Seoul\nHours: Daily 11:00–21:00\nTickets: bemill, dotmill's ticketing platform\nVideo: dotmill\n#SENE #DragonBall #Seongsu #SeoulExhibition #SeoulTravel"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n聖水のドラゴンボール展が11月15日に閉幕します。\n\n東映アニメーションの公式承認を受けた『ドラゴンボール ヒーローズライズ アジアツアー（Dragon Ball: Heroes Rise Asia Tour）』で、昨年始まったツアーの3都市目がソウルです。STAGE X 聖水403を、孫悟空とベジータの成長と戦いの物語で満たしました。\n\n40点あまりの実物大の造形物の間に、画面に向かってかめはめ波を撃ったり、2人で動きを合わせてフュージョンを試したりできる体験スペースが続きます。\n\n期間：8月22日（土）〜11月15日（日）\n場所：ソウル・聖水洞（ソンスドン） 城東区トゥクソム路403 STAGE X 聖水403\n営業時間：毎日11:00〜21:00\n予約：dotmill（ドットミル）のチケットプラットフォーム bemill\n#SENE #ドラゴンボール #韓国旅行 #聖水 #ソウル展示\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793145058/rr73wnuxxhhgtyai5t4x.jpg\n제목: 聖水のドラゴンボール展|11月15日まで\n부제: STAGE X 聖水403・毎日11時〜21時\n출처: @db_heroes_kr\n",
+      "caption": "聖水のドラゴンボール展が11月15日に閉幕します。\n\n東映アニメーションの公式承認を受けた『ドラゴンボール ヒーローズライズ アジアツアー（Dragon Ball: Heroes Rise Asia Tour）』で、昨年始まったツアーの3都市目がソウルです。STAGE X 聖水403を、孫悟空とベジータの成長と戦いの物語で満たしました。\n\n40点あまりの実物大の造形物の間に、画面に向かってかめはめ波を撃ったり、2人で動きを合わせてフュージョンを試したりできる体験スペースが続きます。\n\n期間：8月22日（土）〜11月15日（日）\n場所：ソウル・聖水洞（ソンスドン） 城東区トゥクソム路403 STAGE X 聖水403\n営業時間：毎日11:00〜21:00\n予約：dotmill（ドットミル）のチケットプラットフォーム bemill\n#SENE #ドラゴンボール #韓国旅行 #聖水 #ソウル展示",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793183948/wdo87ajb2evoios8kgsn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793183947/zwh10g7292dolxvos9ii.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793183948/wdo87ajb2evoios8kgsn.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T19:39+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fEaKuxvSDf4\n구간: 0:00-0:56\n곡: 11月15日まで\n아티스트: *ドラゴンボール*展\n피처링:\n후킹: 画面にかめはめ波、\n출처: dotmill\n자막: 자동",
+      "caption": "聖水のドラゴンボール展が11月15日に閉幕します。\n\n映像は主催のdotmill（ドットミル）が公開した会場の様子です。東映アニメーションの公式承認を受けた『ドラゴンボール ヒーローズライズ アジアツアー（Dragon Ball: Heroes Rise Asia Tour）』が、3都市目としてソウルにやって来ました。\n\n孫悟空・ベジータ・フリーザ・セルを再現した40点あまりの造形物の間に、画面に向かってかめはめ波を撃ったり、2人で動きを合わせてフュージョンを試したりできる体験スペースが続きます。\n\n期間：8月22日（土）〜11月15日（日）\n場所：ソウル・聖水洞（ソンスドン） 城東区トゥクソム路403 STAGE X 聖水403\n営業時間：毎日11:00〜21:00\n予約：dotmill のチケットプラットフォーム bemill\n映像：dotmill\n#SENE #ドラゴンボール #韓国旅行 #聖水 #ソウル展示"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1145,6 +1210,13 @@
        "cvr": 2,
        "at": "2026-10-28T11:51+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfCO-yKFG_O/",
+      "cover": "E",
+      "at": "2026-10-28T19:37+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -1162,6 +1234,13 @@
        "cvr": 2,
        "at": "2026-10-28T11:51+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfCPA66lC7V/",
+      "cover": "J",
+      "at": "2026-10-28T19:37+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -1169,6 +1248,13 @@
     "rank": 2,
     "why": "얼리버드 3,000매가 11/3 까지 — 오늘 열린 판매, 아직 유효",
     "at": "2026-10-28T17:52+09:00"
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfCO8kWlEbh/",
+    "cover": "A",
+    "at": "2026-10-28T19:37+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -2131,7 +2217,14 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793183661/acrzb0jlkbsv2vjdxd07.jpg"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfCPDMeFGy2/",
+    "cover": "A",
+    "at": "2026-10-28T19:38+09:00",
+    "account": "sene",
+    "via": "api"
+   }
   }
  ],
  "skipped": [],
@@ -2262,7 +2355,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T19:37+09:00"
+  "at": "2026-10-28T19:39+09:00"
  },
  "slots": {
   "basis": 0,
