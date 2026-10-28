@@ -1726,7 +1726,9 @@
      "cvr": 2,
      "at": "2026-10-28T17:52+09:00",
      "v": {
-      "A": "50dc5d3c"
+      "A": "50dc5d3c",
+      "E": "e122e9de",
+      "J": "9503fab1"
      }
     }
    },
@@ -1775,9 +1777,11 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793177575/erqzfz7wd8g9yupeocf9.jpg",
      "key": "PqOGLljj9Lw@15.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-28T17:53+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793177703/sene_studio/mfcg8jwqvpw1oswifo3p.mp4",
+     "at": "2026-10-28T17:55+09:00",
+     "file": "GeumBich_MeDalLiOng_DiOl_HolLiDeI_11Wol__ByuTi_no_lyrics.mp4",
+     "v": "1c4feda1"
     }
    },
    "pick": {
@@ -1786,7 +1790,71 @@
     "at": "2026-10-28T17:52+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-28T17:53+09:00"
+   "i18n_queued": "2026-10-28T17:53+09:00",
+   "i18n": {
+    "at": "2026-10-28T17:55+09:00",
+    "confirm": [
+     "숏폼 세 칸: 영어는 세 칸을 합치면 56자, 일본어는 27자라 기준(영어 40자·일본어 24자)을 넘습니다. 그래서 지침대로 가운데 칸(아티스트·'금빛 메달리옹')을 두 판 모두 비웠습니다. 영어 'Cinnamon and honey: / Dior Holiday, Nov 1'(38자), 일본어 'シナモンと蜂蜜色の / ディオール11/1発売'(20자).",
+     "일본판에서는 이 컬렉션의 일본 출시일(10/14 선행, 10/30 전국)이 한국과 다릅니다. 그래서 캡션·표지에 '韓国' 을 붙여 한국 판매 소식임을 밝혔습니다.",
+     "립밤 이름: 영어 'Dior Médaillon – Holiday Collection' 과 일본어 'ディオール メダリオン – ホリデー コレクション' 은 공식 제품 페이지에서 그 표기 그대로인지 확인하지 못했습니다(일본 매체에서 'ディオール メダリオン' 표기만 확인).",
+     "영어판 매장 표기: 'Shinsegae Gangnam'·'Lotte World Mall' 뒤에 원문에 없던 'Seoul' 을 붙였습니다. 외국 독자가 찾아갈 수 있게 하라는 지침 때문입니다. 일본어판의 '新世界百貨店 江南店' 은 흔히 쓰는 표기로, 공식 일본어 표기인지는 확인하지 못했습니다.",
+     "영어 컬렉션명 'Cinnamon Glaze' 는 Who What Wear, 일본어 〈シナモン グレイズ〉 는 일본 매체(Precious·VOCE)에서 확인했습니다.",
+     "립밤 제품명 'Dior Médaillon – Holiday Collection' / 「ディオール メダリオン – ホリデー コレクション」이 디올의 공식 영어·일본어 표기인지 확인하지 못함 — 올리기 전에 디올 공식 사이트(영문·일본)에서 확인 필요"
+    ],
+    "review": {
+     "at": "2026-10-28T17:55+09:00",
+     "fixes": [
+      "영어 · 캡션·숏폼 캡션 첫 문장 · Dior Beauty (@diorbeauty)'s → The 2026 holiday collection from Dior Beauty (@diorbeauty) — 괄호 뒤에 소유격 's가 붙어 어색함",
+      "영어 · 캡션·숏폼 캡션 · opened first → first launched — 컬렉션 출시를 'opened'로 쓰면 매장이 문을 연 것처럼 읽힘",
+      "영어 · 부제 · major online → major online stores — 형용사로 끝나 뜻이 덜 끝난 것처럼 읽힘"
+     ],
+     "doubt": [
+      "립밤 제품명 'Dior Médaillon – Holiday Collection' / 「ディオール メダリオン – ホリデー コレクション」이 디올의 공식 영어·일본어 표기인지 확인하지 못함 — 올리기 전에 디올 공식 사이트(영문·일본)에서 확인 필요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nThe 2026 holiday collection from Dior Beauty (@diorbeauty) goes on sale at stores across Korea from Nov 1.\n\nIt is called the Cinnamon Glaze Collection. Creative & Image Director Peter Philips started from a gingerbread house, mixing cinnamon and honey tones with metallic blue, silver and glitter.\n\nThe collection first launched at the online boutique on Oct 15 and at the Shinsegae Gangnam and Lotte World Mall boutiques in Seoul on Oct 22. From this weekend it expands to department stores nationwide and major online channels. The lip balm 'Dior Médaillon – Holiday Collection', topped with a gold Médaillon, is the face of the season.\n\nNationwide: From Sun, Nov 1\nWhere to buy: Dior Beauty counters at department stores nationwide · Dior Beauty boutiques · Major online channels\nEarly release: Dior Beauty online boutique (from Oct 15) · Shinsegae Gangnam and Lotte World Mall boutiques, Seoul (from Oct 22)\n#SENE #DiorBeauty #DiorHoliday #CinnamonGlaze #SeoulShopping\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793177555/dbmt12k5mjtmes5cmfit.jpg\n제목: Dior Holiday Arrives|Nationwide in Korea Nov 1\n부제: 2026 'Cinnamon Glaze Collection' · Department stores & major online stores\n출처: @diorbeauty\n",
+      "caption": "The 2026 holiday collection from Dior Beauty (@diorbeauty) goes on sale at stores across Korea from Nov 1.\n\nIt is called the Cinnamon Glaze Collection. Creative & Image Director Peter Philips started from a gingerbread house, mixing cinnamon and honey tones with metallic blue, silver and glitter.\n\nThe collection first launched at the online boutique on Oct 15 and at the Shinsegae Gangnam and Lotte World Mall boutiques in Seoul on Oct 22. From this weekend it expands to department stores nationwide and major online channels. The lip balm 'Dior Médaillon – Holiday Collection', topped with a gold Médaillon, is the face of the season.\n\nNationwide: From Sun, Nov 1\nWhere to buy: Dior Beauty counters at department stores nationwide · Dior Beauty boutiques · Major online channels\nEarly release: Dior Beauty online boutique (from Oct 15) · Shinsegae Gangnam and Lotte World Mall boutiques, Seoul (from Oct 22)\n#SENE #DiorBeauty #DiorHoliday #CinnamonGlaze #SeoulShopping",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793177762/zsxad32x2bg9mayyjtxg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793177761/khglalgabexdlqs7vrho.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793177762/zsxad32x2bg9mayyjtxg.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T17:56+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=PqOGLljj9Lw\n구간: 0:15-0:45\n곡: *Dior* Holiday, Nov 1\n아티스트: \n피처링:\n후킹: Cinnamon and honey:\n출처: Christian Dior\n자막: 자동",
+      "caption": "The 2026 holiday collection from Dior Beauty (@diorbeauty) goes on sale at stores across Korea from Nov 1.\n\nThe video is Dior's holiday campaign film for this year, and the collection is called Cinnamon Glaze. Peter Philips started from a gingerbread house, mixing cinnamon and honey tones with metallic blue, silver and glitter.\n\nIt first launched at the online boutique on Oct 15 and at the Shinsegae Gangnam and Lotte World Mall boutiques in Seoul on Oct 22, and from this weekend it expands to department stores nationwide and major online channels.\n\nNationwide: From Sun, Nov 1\nVideo: Christian Dior official YouTube 'Dior Beauty Holiday 2026'\n#SENE #DiorBeauty #DiorHoliday #CinnamonGlaze #HolidayMakeup"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nディオール ビューティー（@diorbeauty）の2026年ホリデー コレクションが、11月1日から韓国全国の店舗で発売されます。\n\n名前は〈シナモン グレイズ〉コレクション。クリエイティブ＆イメージ ディレクターのピーター・フィリップスがジンジャーブレッドハウスを出発点に、シナモンと蜂蜜の色にメタリックなブルー・シルバー、グリッターを重ねました。\n\n10月15日にオンライン ブティック、22日にソウルの新世界百貨店 江南店（シンセゲ・カンナム）・ロッテワールドモールのブティックで先行発売され、今週末から韓国全国の百貨店と主要オンラインチャネルへ広がります。金色のメダリオンをあしらったリップバーム「ディオール メダリオン – ホリデー コレクション」が今シーズンの顔です。\n\n全国発売：11月1日（日）から\n販売店：韓国全国の百貨店ディオール ビューティー売場・ディオール ビューティー ブティック・主要オンラインチャネル\n先行発売：ディオール ビューティー オンライン ブティック（10月15日〜）・新世界百貨店 江南店、ロッテワールドモール ブティック（10月22日〜）\n#SENE #ディオール #ディオールホリデー #シナモングレイズ #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793177555/dbmt12k5mjtmes5cmfit.jpg\n제목: ディオール ホリデー|韓国で11月1日全国発売\n부제: 2026〈シナモン グレイズ〉・百貨店・主要オンライン\n출처: @diorbeauty\n",
+      "caption": "ディオール ビューティー（@diorbeauty）の2026年ホリデー コレクションが、11月1日から韓国全国の店舗で発売されます。\n\n名前は〈シナモン グレイズ〉コレクション。クリエイティブ＆イメージ ディレクターのピーター・フィリップスがジンジャーブレッドハウスを出発点に、シナモンと蜂蜜の色にメタリックなブルー・シルバー、グリッターを重ねました。\n\n10月15日にオンライン ブティック、22日にソウルの新世界百貨店 江南店（シンセゲ・カンナム）・ロッテワールドモールのブティックで先行発売され、今週末から韓国全国の百貨店と主要オンラインチャネルへ広がります。金色のメダリオンをあしらったリップバーム「ディオール メダリオン – ホリデー コレクション」が今シーズンの顔です。\n\n全国発売：11月1日（日）から\n販売店：韓国全国の百貨店ディオール ビューティー売場・ディオール ビューティー ブティック・主要オンラインチャネル\n先行発売：ディオール ビューティー オンライン ブティック（10月15日〜）・新世界百貨店 江南店、ロッテワールドモール ブティック（10月22日〜）\n#SENE #ディオール #ディオールホリデー #シナモングレイズ #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793177765/ylpic0tnbcoe6xscvcsv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793177764/s3ainf0rmutgz0ezuuez.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793177765/ylpic0tnbcoe6xscvcsv.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-28T17:56+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=PqOGLljj9Lw\n구간: 0:15-0:45\n곡: *ディオール*11/1発売\n아티스트: \n피처링:\n후킹: シナモンと蜂蜜色の\n출처: Christian Dior\n자막: 자동",
+      "caption": "ディオール ビューティー（@diorbeauty）の2026年ホリデー コレクションが、11月1日から韓国全国の店舗で発売されます。\n\n映像はディオールが公開した今年のホリデー キャンペーンフィルムで、コレクション名は〈シナモン グレイズ〉です。ピーター・フィリップスがジンジャーブレッドハウスを出発点に、シナモンと蜂蜜の色にメタリックなブルー・シルバー、グリッターを重ねました。\n\n10月15日にオンライン ブティック、22日にソウルの新世界百貨店 江南店（シンセゲ・カンナム）・ロッテワールドモールのブティックで先行発売され、今週末から韓国全国の百貨店と主要オンラインチャネルへ広がります。\n\n全国発売：11月1日（日）から\n映像：Christian Dior 公式YouTube『Dior Beauty Holiday 2026』\n#SENE #ディオール #ディオールホリデー #シナモングレイズ #ホリデーコスメ"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2106,7 +2174,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-28T17:54+09:00"
+  "at": "2026-10-28T17:56+09:00"
  },
  "slots": {
   "basis": 0,
