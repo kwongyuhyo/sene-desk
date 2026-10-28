@@ -176,17 +176,17 @@ header .count{
 }
 /* SENE 숏폼 A2 (2026-10-26 확정 · generators/sene_short_overlay.py 와 같은 수치 — 카드뉴스 v2 의 틀)
      마스트헤드 SENE. (64,236) 46px · 마침표 로즈 · 그 아래 y310 종이색 가는 줄 · 오른쪽 끝 영문 카테고리 22px
-     헤드라인         왼쪽 64 · Pretendard SemiBold 80(60 까지) · 자간 −2% · 2줄까지 · 종이색 · 바닥 y1340 · 폭 816 · *낱말* 은 로즈
+     헤드라인         왼쪽 64 · Pretendard SemiBold 80(60 까지) · 자간 −2% · 2줄까지 · 종이색 · 바닥 y1480 · 폭 816 · *낱말* 은 로즈
      말자막           종이색 Pretendard Medium 46(→40) · 외곽선 없이 옅은 그림자 · 가운데(x530 · 폭 700) · 글자 바닥 y1040 (제목 위)
      (10/27 규효 "텍스트가 너무 뚱뚱하고 못생겼어" → A: Black 88 · Bold 54 외곽선에서 내림)
-     아래 띠          y1384 가는 줄(64→880) · SELECT EVERY NEW EDIT · 오른쪽 880 끝에 출처 22px
-     그라디언트       먹색 — 위 120~480 스크림 160→0 · 860→1240 α 0→205 · 1440 까지 205 · 맨 아래 110
+     아래 띠          y1524 가는 줄(64→880) · SELECT EVERY NEW EDIT · 오른쪽 880 끝에 출처 22px
+     그라디언트       먹색 — 위 120~480 스크림 160→0 · 1000→1380 α 0→205 · 1580 까지 205 · 맨 아래 110
    좌표는 PIL 처럼 '글자 상자 위'(ascender) 기준이라, CSS 에서는 기준선을 맞춰 top 을 계산한다 (app.js paintFrame). */
 .frame .grad{
-  position:absolute; left:0; right:0; bottom:0; height:1060px; pointer-events:none;
+  position:absolute; left:0; right:0; bottom:0; height:920px; pointer-events:none;
   background:linear-gradient(to bottom, rgba(36,34,32,0) 0px, rgba(36,34,32,.804) 380px, rgba(36,34,32,.804) 580px, rgba(36,34,32,.431) 100%);
 }
-.frame .grad::before{content:''; position:absolute; left:0; right:0; top:-860px; height:480px;
+.frame .grad::before{content:''; position:absolute; left:0; right:0; top:-1000px; height:480px;
   background:linear-gradient(to bottom, rgba(36,34,32,.627) 0px, rgba(36,34,32,.627) 120px, rgba(36,34,32,0) 480px)}
 .frame .grad::after{content:'SELECT EVERY NEW EDIT'; position:absolute; left:64px; right:200px; top:524px;
   border-top:2px solid #968F88; padding-top:14px; font-family:Pretendard,sans-serif; font-weight:700; font-size:19px;
@@ -213,7 +213,7 @@ header .count{
 .frame .artist{display:none}
 .frame .suffix{display:none}
 .frame .src{
-  position:absolute; right:200px; top:1396px; font-family:Pretendard,sans-serif;
+  position:absolute; right:200px; top:1536px; font-family:Pretendard,sans-serif;
   font-weight:600; font-size:22px; line-height:1; color:#C8C2BA; white-space:nowrap;
   max-width:450px; overflow:hidden; text-overflow:ellipsis;
 }
@@ -318,7 +318,7 @@ details.formFold>summary{cursor:pointer; font-size:12.5px; color:var(--faint); p
   border-radius:8px; font:inherit; font-size:13.5px; font-weight:700; padding:8px; cursor:pointer}
 .ppTab.on{background:#fff; color:#000; border-color:#fff}
 .ppTab[hidden]{display:none}
-.ppOver .sub{position:absolute; left:180px; width:700px; bottom:880px; top:auto; transform:none;
+.ppOver .sub{position:absolute; left:180px; width:700px; bottom:740px; top:auto; transform:none;
   text-align:center; color:#F5F2EC; font-family:SenePM,Pretendard,sans-serif; font-weight:500; font-size:46px; line-height:1.3;
   text-shadow:0 3px 8px rgba(0,0,0,.55), 0 0 28px rgba(0,0,0,.4);
   text-wrap:balance; white-space:pre-line}
@@ -1789,7 +1789,7 @@ async function ytThumb(id, atFrac) {
 /* 완성본 하단 그라디언트(높이 820 · 최대 알파 245)를 같이 계산한다.
    이걸 빼고 재면 글자 자리가 실제보다 훨씬 밝게 나와 "배경이 밝습니다" 경고가
    쓸데없이 떴다. 출처 줄 자리는 실제로는 거의 검정이다(알파 0.9 이상). */
-const GRAD_Y = [0, 120, 480, 860, 1240, 1440, 1920], GRAD_A = [160, 160, 0, 0, 205, 205, 110];   // sene_short_overlay.GRAD_*
+const GRAD_Y = [0, 120, 480, 1000, 1380, 1580, 1920], GRAD_A = [160, 160, 0, 0, 205, 205, 110];   // sene_short_overlay.GRAD_*
 function gradFactor(canvasY) {                      // A2 (10/26 아래까지 보이게)
   let a = GRAD_A[GRAD_A.length - 1];
   for (let i = 1; i < GRAD_Y.length; i++) {
@@ -1823,8 +1823,8 @@ function zoneLuma(img, crop) {
   };
   return {
     cat:  zone(64, 236, 1016, 312),     // 마스트헤드·카테고리
-    body: zone(64, 1150, 880, 1345),    // 헤드라인
-    src:  zone(500, 1390, 880, 1422),   // 출처
+    body: zone(64, 1290, 880, 1485),    // 헤드라인 (10/28 140 내림)
+    src:  zone(500, 1530, 880, 1562),   // 출처
   };
 }
 
@@ -2694,7 +2694,7 @@ function escapeHtml(s) {
    수치는 generators/sene_short_overlay.py 그대로다. 그쪽은 PIL 이라 글자 좌표가 '글자 상자 위(ascender)'
    기준이다 — 기준선 = y + ceil(ascent × px). CSS 는 줄 상자 위 기준이라 같은 기준선이 되도록 top 을 잡는다.
    Pretendard: ascent 1950 · descent 494 (upem 2048) → line-height:1 일 때 기준선 = top + 0.8555 × px. */
-const A_HEAD = { x: 64, px: 80, min: 60, lead: 1.2, maxW: 1080 - 64 - 200, bottom: 1340, track: -0.02 };   // 10/27 A — SemiBold 80 · 자간 −2%
+const A_HEAD = { x: 64, px: 80, min: 60, lead: 1.2, maxW: 1080 - 64 - 200, bottom: 1480, track: -0.02 };   // 10/27 A — SemiBold 80 · 자간 −2%
 const CAT_EN = { 패션: 'FASHION', 뷰티: 'BEAUTY', 공간: 'SPACE', 푸드: 'FOOD', 컬처: 'CULTURE', 트렌드: 'TREND', 놀거리: 'PLAY', 이슈: 'ISSUE' };
 function catEn(b) {                                   // 마스트헤드 오른쪽 — sene_short_overlay.category_text
   const raw = catText(b).split('·')[0].trim();
@@ -5319,9 +5319,9 @@ window.addEventListener('resize', () => { if ($('#ppSubList') && $('#ppSubList')
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.28 22:32';
+    a.title = '판 10.28 22:34';
     var ver = document.createElement('span');
-    ver.textContent = '10.28 22:32';
+    ver.textContent = '10.28 22:34';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);

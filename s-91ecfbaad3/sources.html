@@ -376,8 +376,8 @@ h1{margin:0 0 calc(var(--u)*0.5); font-size:29px; font-weight:800; letter-spacin
    10/11 부터 PLOT 틀(webapp/shorts/page.html 의 옛 .frame)을 옮겨 썼는데, 10/26 A2 로 바꾸면서 여기를 안 따라 바꿨다.
    지금 값은 generators/sene_short_overlay.py · 숏폼 앱(webapp/shorts/page.html .frame) 과 같다.
      마스트헤드 SENE. (64,236) 46px · 마침표 로즈 · y310 종이색 줄 · 오른쪽 끝 영문 카테고리 22px
-     헤드라인 왼쪽 64 · Pretendard SemiBold 80(60 까지) · 자간 −2% · 2줄 · 바닥 y1340 · 폭 816 · *낱말* 로즈
-     아래 띠 y1384 줄 · SELECT EVERY NEW EDIT · 오른쪽 880 끝 출처 22px
+     헤드라인 왼쪽 64 · Pretendard SemiBold 80(60 까지) · 자간 −2% · 2줄 · 바닥 y1480 · 폭 816 · *낱말* 로즈
+     아래 띠 y1524 줄 · SELECT EVERY NEW EDIT · 오른쪽 880 끝 출처 22px
    1080×1920 틀을 그대로 그려 화면 폭에 맞게 줄인다. */
 @font-face{font-family:PlotPre; src:url(f-eb.woff2) format('woff2'); font-weight:800; font-display:swap}
 @font-face{font-family:SenePS; src:url(f-ps.woff2) format('woff2'); font-weight:600; font-display:swap}
@@ -387,9 +387,9 @@ h1{margin:0 0 calc(var(--u)*0.5); font-size:29px; font-weight:800; letter-spacin
   background:radial-gradient(120% 70% at 50% 18%, #4a4540 0%, #2c2926 45%, #1a1816 100%)}
 .sf .ph{position:absolute; left:0; top:0; width:100%; height:100%; object-fit:cover; display:block}
 .sf .ph.lb{width:auto; height:133.34%; top:-16.67%; left:50%; transform:translateX(-50%); max-width:none}
-.sf .gr{position:absolute; left:0; right:0; bottom:0; height:1060px; pointer-events:none;
+.sf .gr{position:absolute; left:0; right:0; bottom:0; height:920px; pointer-events:none;
   background:linear-gradient(to bottom, rgba(36,34,32,0) 0px, rgba(36,34,32,.804) 380px, rgba(36,34,32,.804) 580px, rgba(36,34,32,.431) 100%)}
-.sf .gr::before{content:''; position:absolute; left:0; right:0; top:-860px; height:480px;
+.sf .gr::before{content:''; position:absolute; left:0; right:0; top:-1000px; height:480px;
   background:linear-gradient(to bottom, rgba(36,34,32,.627) 0px, rgba(36,34,32,.627) 120px, rgba(36,34,32,0) 480px)}
 .sf .gr::after{content:'SELECT EVERY NEW EDIT'; position:absolute; left:64px; right:200px; top:524px;
   border-top:2px solid #968F88; padding-top:14px; font-family:PlotPre,Pretendard,sans-serif; font-weight:800; font-size:19px;
@@ -403,7 +403,7 @@ h1{margin:0 0 calc(var(--u)*0.5); font-size:29px; font-weight:800; letter-spacin
 .sf .ln{position:absolute; left:64px; font-family:SenePS,Pretendard,sans-serif; font-weight:600; color:#F5F2EC;
   white-space:nowrap; line-height:1; font-size:80px; letter-spacing:-0.02em}
 .sf .ln .hi{color:#E8CDD2}
-.sf .sr{position:absolute; right:200px; top:1396px; font-family:PlotPre,Pretendard,sans-serif; font-weight:800;
+.sf .sr{position:absolute; right:200px; top:1536px; font-family:PlotPre,Pretendard,sans-serif; font-weight:800;
   font-size:22px; line-height:1; color:#C8C2BA; white-space:nowrap; max-width:450px; overflow:hidden; text-overflow:ellipsis}
 .sf .empty{opacity:.35}
 .ig .rk{display:flex; flex-wrap:wrap; gap:5px; padding:8px 14px 0}
@@ -3505,7 +3505,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
   /* 헤드라인 — sene_short_overlay.headline_lines · fit_headline 과 같은 일 (숏폼 앱 headParts · fitHead).
      후킹 → 가운데 줄 → 곡(+피처링). 두 줄이 넘으면 한 문장으로 잇고, 80px 에서 60px 까지 2 씩 줄여 두 줄에 넣는다.
      그래도 안 들면 60px 두 줄 + 말줄임. 폭은 자간(−2%)까지 넣어 잰다 (렌더러 tlen). */
-  var SF_HEAD = { x: 64, px: 80, min: 60, lead: 1.2, maxW: 816, bottom: 1340, track: -0.02 };
+  var SF_HEAD = { x: 64, px: 80, min: 60, lead: 1.2, maxW: 816, bottom: 1480, track: -0.02 };   // 10/28 140 내림
   var SF_HI = /\*([^*\n]{1,30})\*/g;
   var SF_ASC = 1950 / 2048, SF_DESC = 494 / 2048;
   function sfSplit(t) {
@@ -4422,9 +4422,9 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.28 22:32';
+    a.title = '판 10.28 22:34';
     var ver = document.createElement('span');
-    ver.textContent = '10.28 22:32';
+    ver.textContent = '10.28 22:34';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
