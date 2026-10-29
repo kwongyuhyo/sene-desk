@@ -1217,7 +1217,9 @@
      "cvr": 2,
      "at": "2026-10-29T14:33+09:00",
      "v": {
-      "A": "d4a2385f"
+      "A": "d4a2385f",
+      "E": "595b984b",
+      "J": "19b8f7b1"
      }
     }
    },
@@ -1227,7 +1229,61 @@
     "at": "2026-10-29T14:33+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-29T14:33+09:00"
+   "i18n_queued": "2026-10-29T14:33+09:00",
+   "i18n": {
+    "at": "2026-10-29T14:34+09:00",
+    "confirm": [
+     "아시아·오세아니아 일정(요코하마 출발 1/27, 서울 2/4, 오클랜드 3/5 종료)은 오늘 정오 발표라 아직 검색에 잡히지 않음. 번역은 원문 사실만 옮겼음 — 올리기 전 공식 SNS·위버스 게시물과 대조 필요",
+     "검색된 기사에는 '유럽·북미' 순서로 적혀 있어 영어·일본어판도 그 순서로 씀 (원문은 '북미·유럽')",
+     "일본어 표기: 일본 매체는 대체로 'KATSEYE' 영문 표기를 쓰고 'キャッツアイ'를 함께 적는 경우가 있어 처음 한 번 병기함 — 일본 공식 표기는 따로 확인 못 함",
+     "'예매' 머리말은 English 'Tickets:' · 日本語「チケット：」로 옮김 (지침의 Reservations/予約 대신)",
+     "부제가 영어 55자 · 일본어 30자 안팎으로 한 줄 기준(영 22자 · 일 12자)을 넘습니다. 원문도 한 줄로 길어서 그대로 두었으니, 표지에 맞게 들어가는지 확인해 주세요."
+    ],
+    "review": {
+     "at": "2026-10-29T14:34+09:00",
+     "fixes": [
+      "일본어 · 부제 · 11都市の4番目 → 11都市の4都市目 — 순번 표현이 일본어로 더 자연스럽게",
+      "일본어 · 캡션 · 4番目の都市です → 4都市目です — 부제와 표기 맞춤"
+     ],
+     "doubt": [
+      "부제가 영어 55자 · 일본어 30자 안팎으로 한 줄 기준(영 22자 · 일 12자)을 넘습니다. 원문도 한 줄로 길어서 그대로 두었으니, 표지에 맞게 들어가는지 확인해 주세요."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nKATSEYE (@katseyeworld) is holding its first solo concert in Korea.\n\nThe date comes from the Asia-Oceania schedule for 'THE WILDWORLD TOUR', released at noon today on the group's official social media and Weverse. The leg starts in Yokohama on January 27, 2027, and covers 11 cities. Seoul is the fourth, after Manila and Hong Kong.\n\nThe group sets out again after finishing its North America and Europe tour, and the Seoul stop is a single day. The venue is KSPO DOME in Olympic Park, Songpa-gu. The tour ends in Auckland, New Zealand, on March 5.\n\nDate: Thu, Feb 4, 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nTickets: Sale dates to be announced (official social media, Weverse)\n#SENE #KATSEYE #KSPODOME #SeoulConcert #OlympicPark\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793251991/zhih70phlykk5wrmlkp5.jpg\n제목: KATSEYE's First Korea Show|Feb 4 at KSPO DOME\n부제: Fourth of 11 Asia-Oceania cities on THE WILDWORLD TOUR\n출처: @katseyeworld\n",
+      "caption": "KATSEYE (@katseyeworld) is holding its first solo concert in Korea.\n\nThe date comes from the Asia-Oceania schedule for 'THE WILDWORLD TOUR', released at noon today on the group's official social media and Weverse. The leg starts in Yokohama on January 27, 2027, and covers 11 cities. Seoul is the fourth, after Manila and Hong Kong.\n\nThe group sets out again after finishing its North America and Europe tour, and the Seoul stop is a single day. The venue is KSPO DOME in Olympic Park, Songpa-gu. The tour ends in Auckland, New Zealand, on March 5.\n\nDate: Thu, Feb 4, 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nTickets: Sale dates to be announced (official social media, Weverse)\n#SENE #KATSEYE #KSPODOME #SeoulConcert #OlympicPark",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252078/ukcya9zkfhd6ey1qmfss.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252077/h3bkr15ix6mzbzgtduvy.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252078/ukcya9zkfhd6ey1qmfss.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T14:34+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nKATSEYE（キャッツアイ・@katseyeworld）が、韓国で初めての単独公演を開きます。\n\n本日正午に公式SNSとWeverseで発表された「THE WILDWORLD TOUR」アジア・オセアニア公演の日程です。2027年1月27日に横浜からスタートし、11都市を巡ります。ソウルはマニラ、香港に続く4都市目です。\n\n北米・ヨーロッパツアーを終えて再び始まる旅の中で、ソウル公演は1日だけです。会場は松坡区（ソンパグ）のオリンピック公園 KSPO DOMEで、ツアーは3月5日にニュージーランド・オークランドで幕を閉じます。\n\n日時：2027年2月4日（木）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\nチケット：販売日程は後日告知（公式SNS・Weverse）\n#SENE #KATSEYE #キャッツアイ #韓国コンサート #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793251991/zhih70phlykk5wrmlkp5.jpg\n제목: KATSEYE、初の韓国公演|2月4日 KSPO DOME\n부제: THE WILDWORLD TOUR アジア・オセアニア11都市の4都市目\n출처: @katseyeworld\n",
+      "caption": "KATSEYE（キャッツアイ・@katseyeworld）が、韓国で初めての単独公演を開きます。\n\n本日正午に公式SNSとWeverseで発表された「THE WILDWORLD TOUR」アジア・オセアニア公演の日程です。2027年1月27日に横浜からスタートし、11都市を巡ります。ソウルはマニラ、香港に続く4都市目です。\n\n北米・ヨーロッパツアーを終えて再び始まる旅の中で、ソウル公演は1日だけです。会場は松坡区（ソンパグ）のオリンピック公園 KSPO DOMEで、ツアーは3月5日にニュージーランド・オークランドで幕を閉じます。\n\n日時：2027年2月4日（木）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\nチケット：販売日程は後日告知（公式SNS・Weverse）\n#SENE #KATSEYE #キャッツアイ #韓国コンサート #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252082/pc1s1rg7d9rauzytdvmu.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252081/uelo06vyo8p2eanjniqs.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252082/pc1s1rg7d9rauzytdvmu.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T14:34+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1512,10 +1568,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T14:33+09:00"
+  "at": "2026-10-29T14:34+09:00"
  },
  "queue": {
-  "next": "2026-10-29T14:35+09:00",
+  "next": "2026-10-29T14:36+09:00",
   "n": 0,
   "gap": 20
  },
