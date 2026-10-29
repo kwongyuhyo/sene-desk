@@ -1846,11 +1846,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=qdEx8brOIu0\n구간: 0:05-0:40\n곡: DUNST's new face\n아티스트: *Sullyoon*,\n피처링:\n후킹: Behind a book,\n출처: Dunst\n자막: 자동",
       "caption": "NMIXX (@nmixx_official) member Sullyoon has shot her first campaign as a global ambassador for DUNST (@dunst_official).\n\nThe film is 'GOOD GIRL, STRANGE ROOM,' DUNST's 2026 winter campaign, posted on the brand's official channel. In a room where childhood memories mix with imagination, Sullyoon moves through the frame in coats, knitwear and padded jackets.\n\nIn September, Sullyoon sat at DUNST's first Seoul Fashion Week show and visited its flagship store in Seongsu-dong, Seoul, that same month. A month later, she is the face of the brand.\n\nCampaign: 'GOOD GIRL, STRANGE ROOM' (released Oct 23)\nVideo: Dunst\n#SENE #NMIXX #Sullyoon #DUNST #KoreanFashion #Seongsu",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-29T17:56+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793264467/sene_studio/cphegbg2ibqotszg5xkb.mp4",
+       "at": "2026-10-29T18:01+09:00",
+       "file": "Sullyoon_DUNSTs_new_face_PaeSyeon_no_lyrics.mp4",
        "sig": "68da192a01",
-       "job": 160
+       "v": "a08e58f7"
       }
      }
     },
@@ -2393,10 +2394,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T17:59+09:00"
+  "at": "2026-10-29T18:01+09:00"
  },
  "queue": {
-  "next": "2026-10-29T18:01+09:00",
+  "next": "2026-10-29T18:03+09:00",
   "n": 0,
   "gap": 20
  },
