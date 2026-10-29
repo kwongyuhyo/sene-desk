@@ -2369,9 +2369,96 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269903/slrzdwipy0fvqyungzkp.jpg",
      "key": "PrR13RXksn0@30.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T19:31+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793270151/sene_studio/tluj2cdwlyprowath3lx.mp4",
+     "at": "2026-10-29T19:35+09:00",
+     "file": "Laeb_20Nyeon_KkeutE_BaeUGa_Doen_SeuWingS_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793270148375-2df9abeb",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 3.81,
+        "text": "저는 20년 동안 음악을 했고"
+       },
+       {
+        "start": 3.81,
+        "end": 8.11,
+        "text": "언제나 영화를 엄청 사랑해왔는데 연기를 처음"
+       },
+       {
+        "start": 8.11,
+        "end": 11.22,
+        "text": "시작한다고 한 게 6개월 만에 캐스팅이"
+       },
+       {
+        "start": 11.22,
+        "end": 13.84,
+        "text": "됐는데 저는 한 5년 걸릴 줄 알았어요"
+       },
+       {
+        "start": 13.84,
+        "end": 15.65,
+        "text": "그래서 그 각오를 하고 했는데"
+       },
+       {
+        "start": 15.65,
+        "end": 18.3,
+        "text": "너무 빨리 들어와서 너무 감사했고"
+       },
+       {
+        "start": 18.3,
+        "end": 21.65,
+        "text": "어느 정도로 이게 제가 복에 겨웠는지"
+       },
+       {
+        "start": 21.65,
+        "end": 25.02,
+        "text": "알기 때문에 너무 무게감 때문에"
+       },
+       {
+        "start": 25.58,
+        "end": 26.78,
+        "text": "겸손해야겠다라고 생각하는데"
+       },
+       {
+        "start": 26.78,
+        "end": 28.34,
+        "text": "실제로 이렇게 여기까지 오니까"
+       },
+       {
+        "start": 28.34,
+        "end": 31.54,
+        "text": "사람이 감사하게도 바뀌고 있어요"
+       },
+       {
+        "start": 31.54,
+        "end": 33.48,
+        "text": "더 겸손해지고 있어요"
+       },
+       {
+        "start": 33.48,
+        "end": 36.37,
+        "text": "난 내가 한 것 때문에 여기 뽑힌 것도"
+       },
+       {
+        "start": 36.37,
+        "end": 37.51,
+        "text": "어느 정도 있겠죠"
+       },
+       {
+        "start": 37.51,
+        "end": 39.83,
+        "text": "근데 그에 비해 받은 축복이 훨씬 많은"
+       },
+       {
+        "start": 39.83,
+        "end": 42.16,
+        "text": "걸 알아가지고 전 되게 감사해요"
+       }
+      ]
+     },
+     "v": "aa525910"
     }
    },
    "corner_name": "소식",
@@ -2605,10 +2692,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T19:33+09:00"
+  "at": "2026-10-29T19:35+09:00"
  },
  "queue": {
-  "next": "2026-10-29T19:35+09:00",
+  "next": "2026-10-29T19:37+09:00",
   "n": 0,
   "gap": 20
  },
