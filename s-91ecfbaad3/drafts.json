@@ -436,7 +436,9 @@
      "cvr": 2,
      "at": "2026-10-30T08:34+09:00",
      "v": {
-      "A": "a0111dd9"
+      "A": "a0111dd9",
+      "E": "2e6af607",
+      "J": "1388abd1"
      }
     }
    },
@@ -447,7 +449,71 @@
    },
    "corner_name": "이번 주말 뭐 하지",
    "corner_no": 1,
-   "i18n_queued": "2026-10-30T08:34+09:00"
+   "i18n_queued": "2026-10-30T08:34+09:00",
+   "i18n": {
+    "at": "2026-10-30T08:36+09:00",
+    "confirm": [
+     "홍대 전시장 '덕스'의 공식 영문·일문 표기를 찾지 못해 영어는 'Duks', 일본어는 'ドクス（덕스）'로 임시 표기했습니다. 공식 표기를 확인해 주세요.",
+     "원문의 'NOL 티켓 상시 관람권'은 영어 'Open-date tickets', 일본어 '日付指定なしの入場券'으로 옮겼습니다. 상품 성격이 맞는지 확인해 주세요.",
+     "불가리 전시 영문 제목은 'LIGHT, FORM AND VISION'으로 확인했습니다(부제 'Roman Heritage in Dialogue with Korean Contemporary Art'). 일본어 공식 제목은 찾지 못해 영문 제목에 번역을 괄호로 붙였습니다.",
+     "'진격의 거인展 FINAL'은 일본어 '進撃の巨人展 FINAL'로 확인했습니다. 한국 전시의 공식 영어 표기는 찾지 못해 'Attack on Titan Exhibition FINAL'로 썼습니다.",
+     "한강 드론라이트쇼 수변무대, 더현대 서울 ALT.1, 송은의 영어·일본어 표기는 공식 다국어 안내에서 확인하지 못했습니다. 송은은 영문 로고 표기인 SONGEUN을 따랐습니다.",
+     "드론라이트쇼는 날씨에 따라 미뤄지거나 취소될 수 있습니다 — 10/31 당일 공식 공지를 확인하고 올리세요",
+     "더현대 서울 일본어 표기를 'ザ・現代ソウル'로 할지 'ザ・ヒュンダイ ソウル'로 할지 정해 주세요 — 지금 표기도 일본 매체에서 쓰이는 표기라 그대로 두었습니다"
+    ],
+    "review": {
+     "at": "2026-10-30T08:36+09:00",
+     "fixes": [
+      "영어 · 청담 본문·캡션 실용 정보 줄 · 'Light, Form and Vision' → 'LIGHT, FORM AND VISION' — 전시 공식 영문 표기(대문자)에 맞추고 일본어판과도 통일 (출처: https://www.specialtimes.co.kr/news/articleView.html?idxno=474826)"
+     ],
+     "doubt": [
+      "드론라이트쇼는 날씨에 따라 미뤄지거나 취소될 수 있습니다 — 10/31 당일 공식 공지를 확인하고 올리세요",
+      "더현대 서울 일본어 표기를 'ザ・現代ソウル'로 할지 'ザ・ヒュンダイ ソウル'로 할지 정해 주세요 — 지금 표기도 일본 매체에서 쓰이는 표기라 그대로 두었습니다"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nHere are four places to go in Seoul this weekend, listed from west to east.\n\n'Attack on Titan Exhibition FINAL' in Hongdae closes on Sunday, and 'Banksy: Still Here' at The Hyundai Seoul closes next Tuesday. On Saturday night, 2,000 drones will draw Marvel heroes over Ttukseom Hangang Park in the last Han River Drone Light Show of the second half of the year.\n\nIVE's Jang Won-young (@for_everyoung10) visited the preview of Bulgari's exhibition at SONGEUN in Cheongdam-dong. The venue is closed on Sundays, so this weekend it can only be seen on Saturday.\n\nAttack on Titan Exhibition FINAL: Through Sun, Nov 1 · LC Tower B3 Duks, Hongdae · Adults KRW 26,000\nBanksy: Still Here: Through Tue, Nov 3 · ALT.1, 6F, The Hyundai Seoul, Yeouido · Adults KRW 23,000\nDrone Light Show: Sat, Oct 31, 20:30 · Waterside Stage, Ttukseom Hangang Park · Free\nLIGHT, FORM AND VISION: Sat 11:00–18:30 · SONGEUN, Cheongdam-dong · Naver advance reservation\n#SENE #SeoulWeekend #Banksy #AttackOnTitan #HanRiverDroneShow\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793316832/mybmkovi5umwtgkxe47c.jpg\n제목: What to Do This Weekend|Sat Oct 31 · Sun Nov 1\n부제: Hongdae · Yeouido · Ttukseom · Cheongdam\n출처: Attack on Titan Exhibition\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793316835/ctnjbbyk4yjzgg9yb1zl.jpg\n소제목: Hongdae · Through Sun, Nov 1\n본문: This is the final weekend of 'Attack on Titan Exhibition FINAL.'|LC Tower B3 Duks, 186 Yanghwa-ro, Mapo-gu, Seoul|11:00–19:00 (last entry 18:20) · Adults KRW 26,000|Open-date tickets on NOL Ticket — sales end Nov 1 at 18:00\n출처: Attack on Titan Exhibition\n\n[슬라이드]\n소스: \n소제목: Yeouido · Through Tue, Nov 3\n본문: 'Banksy: Still Here' closes next Tuesday.|ALT.1, 6F, The Hyundai Seoul|Fri–Sun 10:30–20:30 (last entry 19:30)|Adults KRW 23,000 (per ticketing site)\n출처: \n\n[슬라이드]\n소스: \n소제목: Ttukseom · Sat, Oct 31, Evening\n본문: The last Han River Drone Light Show of the second half of the year. The theme is 'Marvel Special' — 2,000 drones draw Marvel heroes such as Iron Man across the night sky.|Main show 20:30–20:45 · Waterside Stage, Ttukseom Hangang Park · Free|The show may be postponed or canceled in case of rain or strong wind.\n출처: \n\n[슬라이드]\n소스: \n소제목: Cheongdam · Saturday Only This Weekend\n본문: Bulgari's exhibition 'LIGHT, FORM AND VISION,' previewed by IVE's Jang Won-young. Closed on Sundays and public holidays.|SONGEUN, 441 Dosan-daero, Gangnam-gu, Seoul|Mon–Sat 11:00–18:30 · Through Nov 14|Entry by Naver advance reservation only · Docent tours at 15:00 and 17:00 (reservation required)\n출처: \n",
+      "caption": "Here are four places to go in Seoul this weekend, listed from west to east.\n\n'Attack on Titan Exhibition FINAL' in Hongdae closes on Sunday, and 'Banksy: Still Here' at The Hyundai Seoul closes next Tuesday. On Saturday night, 2,000 drones will draw Marvel heroes over Ttukseom Hangang Park in the last Han River Drone Light Show of the second half of the year.\n\nIVE's Jang Won-young (@for_everyoung10) visited the preview of Bulgari's exhibition at SONGEUN in Cheongdam-dong. The venue is closed on Sundays, so this weekend it can only be seen on Saturday.\n\nAttack on Titan Exhibition FINAL: Through Sun, Nov 1 · LC Tower B3 Duks, Hongdae · Adults KRW 26,000\nBanksy: Still Here: Through Tue, Nov 3 · ALT.1, 6F, The Hyundai Seoul, Yeouido · Adults KRW 23,000\nDrone Light Show: Sat, Oct 31, 20:30 · Waterside Stage, Ttukseom Hangang Park · Free\nLIGHT, FORM AND VISION: Sat 11:00–18:30 · SONGEUN, Cheongdam-dong · Naver advance reservation\n#SENE #SeoulWeekend #Banksy #AttackOnTitan #HanRiverDroneShow",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316967/u3h41tjt2oyij68er4vz.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316968/ddhcnih9wgtzd72jmtyk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316967/h7a4zsasgok5lujyz8r6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316967/xlazckpenr1d30v80u2t.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316969/d6b3hmzcgfdddaxhfyho.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316968/dvecya9nmyanquxqcnka.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316967/u3h41tjt2oyij68er4vz.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T08:36+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n今週末ソウルで行ける4か所を、西側のエリアから順にまとめました。\n\n弘大の『進撃の巨人展 FINAL』は日曜日に、ザ・現代ソウルの『バンクシー：Still Here』は来週火曜日に終了しますが、土曜日の夜にはソウル・トゥクソム漢江公園の上空に、マーベルのヒーローを描くドローン2,000機が飛びます。今年下半期の漢江ドローンライトショーの最終回です。\n\nIVEのチャン・ウォニョン（@for_everyoung10）がプレビューに訪れた、ソウル・清潭洞（チョンダムドン）ソンウンのブルガリ展は日曜日が休館のため、今週末は土曜日にしか見られません。\n\n進撃の巨人展 FINAL：11月1日（日）まで・弘大 LCタワーB3 ドクス・大人26,000ウォン\nバンクシー：Still Here：11月3日（火）まで・汝矣島 ザ・現代ソウル6階 ALT.1・大人23,000ウォン\nドローンライトショー：10月31日（土）20:30・トゥクソム漢江公園 水辺ステージ・無料\nLIGHT, FORM AND VISION：土曜日11:00〜18:30・清潭洞 ソンウン・NAVER事前予約\n#SENE #韓国旅行 #ソウル旅行 #バンクシー #進撃の巨人\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793316832/mybmkovi5umwtgkxe47c.jpg\n제목: 今週末、どこへ行く|10/31（土）・11/1（日）\n부제: 弘大・汝矣島・トゥクソム・清潭の4か所\n출처: 進撃の巨人展\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793316835/ctnjbbyk4yjzgg9yb1zl.jpg\n소제목: 弘大・11月1日（日）まで\n본문: 『進撃の巨人展 FINAL』最後の週末です。|ソウル・麻浦区（マポグ）楊花路186 LCタワーB3 ドクス（덕스）|11:00〜19:00（入場締切18:20）・大人26,000ウォン|NOLチケットで日付指定なしの入場券を販売中 — 販売は11月1日18時まで\n출처: 進撃の巨人展\n\n[슬라이드]\n소스: \n소제목: 汝矣島・11月3日（火）まで\n본문: 『バンクシー：Still Here』は来週火曜日に終了します。|ザ・現代ソウル（더현대 서울）6階 ALT.1|金〜日 10:30〜20:30（入場締切19:30）|大人23,000ウォン（予約サイト基準）\n출처: \n\n[슬라이드]\n소스: \n소제목: トゥクソム・10月31日（土）夜\n본문: 今年下半期の漢江ドローンライトショー、最終回です。テーマは「マーベル・スペシャル」— 2,000機のドローンがアイアンマンなどマーベルのヒーローを夜空に描きます。|メインショー20:30〜20:45・トゥクソム漢江公園（뚝섬한강공원）水辺ステージ・無料|雨や強風の場合は延期・中止になることがあります。\n출처: \n\n[슬라이드]\n소스: \n소제목: 清潭・今週末は土曜日のみ\n본문: IVEのチャン・ウォニョンがプレビューに訪れたブルガリの展示『LIGHT, FORM AND VISION（光、形、そしてビジョン）』。日曜・祝日は休館です。|ソウル・江南区（カンナムグ）島山大路441 ソンウン（송은）|月〜土 11:00〜18:30・11月14日まで|NAVERの事前予約者のみ入場可・ドーセント15時・17時（要予約）\n출처: \n",
+      "caption": "今週末ソウルで行ける4か所を、西側のエリアから順にまとめました。\n\n弘大の『進撃の巨人展 FINAL』は日曜日に、ザ・現代ソウルの『バンクシー：Still Here』は来週火曜日に終了しますが、土曜日の夜にはソウル・トゥクソム漢江公園の上空に、マーベルのヒーローを描くドローン2,000機が飛びます。今年下半期の漢江ドローンライトショーの最終回です。\n\nIVEのチャン・ウォニョン（@for_everyoung10）がプレビューに訪れた、ソウル・清潭洞（チョンダムドン）ソンウンのブルガリ展は日曜日が休館のため、今週末は土曜日にしか見られません。\n\n進撃の巨人展 FINAL：11月1日（日）まで・弘大 LCタワーB3 ドクス・大人26,000ウォン\nバンクシー：Still Here：11月3日（火）まで・汝矣島 ザ・現代ソウル6階 ALT.1・大人23,000ウォン\nドローンライトショー：10月31日（土）20:30・トゥクソム漢江公園 水辺ステージ・無料\nLIGHT, FORM AND VISION：土曜日11:00〜18:30・清潭洞 ソンウン・NAVER事前予約\n#SENE #韓国旅行 #ソウル旅行 #バンクシー #進撃の巨人",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316973/ozaruj3ggpnyvikxpbtp.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316973/kgg26ehb5hxesnjzjipu.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316973/t4maer3vauhiyd0w9ved.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316973/eouhdmoabskpbijrvw6z.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316974/dorima3fknvmtjo8teju.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316974/mu9d3q9olivda44d2kos.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793316973/ozaruj3ggpnyvikxpbtp.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T08:36+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -695,10 +761,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T08:34+09:00"
+  "at": "2026-10-30T08:36+09:00"
  },
  "queue": {
-  "next": "2026-10-30T08:36+09:00",
+  "next": "2026-10-30T08:38+09:00",
   "n": 0,
   "gap": 20
  },
