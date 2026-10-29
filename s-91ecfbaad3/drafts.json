@@ -1372,7 +1372,50 @@
     "at": "2026-10-29T14:33+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-10-29T14:33+09:00"
+   "i18n_queued": "2026-10-29T14:33+09:00",
+   "i18n": {
+    "at": "2026-10-29T14:36+09:00",
+    "confirm": [
+     "어브 스튜디오의 공식 영어·일본어 표기를 찾지 못했습니다. 영어는 'Urb Studio', 일본어는 「オブ・スタジオ」로 임시로 적었으니 공간 공식 계정에서 확인해 주세요.",
+     "빵력장터·빵모닝도 공식 외국어 표기가 없어 로마자(Bbangryeok Jangteo, Bbang Morning)와 カタカナ로 적었습니다.",
+     "'갓나온 맛도리'의 영어 이름 'Freshly Baked Taste'는 SBS Star 기사 제목 기준입니다. 일본어 『カッナオン・マットリ』는 소리만 옮긴 것입니다.",
+     "300평·400평은 ㎡로 바꿔 괄호 안에 덧붙였습니다. 바꾼 값일 뿐 새 사실은 아닙니다.",
+     "숏폼 영어 제목은 40자 안에 맞추느라 아티스트 칸을 비웠습니다.",
+     "'성심당 줄' 후킹이 영상 속 실제 말인지는 자막으로 확인하지 못했습니다.",
+     "영어 · 후킹 'Sungsimdang line —' — 성심당을 모르는 영어권 독자에게는 '대전의 유명 빵집 줄만큼 길다'는 뜻이 잘 전해지지 않을 수 있음. 칸당 20자 제한 때문에 풀어 쓰지 못함",
+     "어브 스튜디오 공식 영문 표기(Urb Studio)를 검색으로 확인하지 못함. 공식 계정에서 영어·일본어 표기를 확인해야 함",
+     "출처 칸 '스브스뉴스'는 매체 이름은 그대로 둔다는 규칙에 따라 한글로 남겼으나, 캡션에서는 SBS SUBUSU NEWS / スブスニュース로 옮겼음. 화면 출처도 맞출지 결정이 필요함",
+     "일본어 주소 '11ガ通り' — 길(gil)을 '通り'로 옮겼음. 일본어판에서 흔히 쓰는 '11ガギル' 꼴로 쓸지 확인이 필요함",
+     "영어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-10-29T14:36+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 · 'without a physical store or that sell only online' → 'that have no physical store or sell only online' — 병렬 구조가 어긋난 직역투"
+     ],
+     "doubt": [
+      "영어 · 후킹 'Sungsimdang line —' — 성심당을 모르는 영어권 독자에게는 '대전의 유명 빵집 줄만큼 길다'는 뜻이 잘 전해지지 않을 수 있음. 칸당 20자 제한 때문에 풀어 쓰지 못함",
+      "어브 스튜디오 공식 영문 표기(Urb Studio)를 검색으로 확인하지 못함. 공식 계정에서 영어·일본어 표기를 확인해야 함",
+      "출처 칸 '스브스뉴스'는 매체 이름은 그대로 둔다는 규칙에 따라 한글로 남겼으나, 캡션에서는 SBS SUBUSU NEWS / スブスニュース로 옮겼음. 화면 출처도 맞출지 결정이 필요함",
+      "일본어 주소 '11ガ通り' — 길(gil)을 '通り'로 옮겼음. 일본어판에서 흔히 쓰는 '11ガギル' 꼴로 쓸지 확인이 필요함",
+      "영어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=e7965ty9ra4\n구간: 0:29-0:58\n곡: *Bread fair* in Seongsu\n아티스트: \n피처링:\n후킹: Sungsimdang line —\n출처: Source: 스브스뉴스\n자막: 자동",
+      "caption": "A bread market that drew a line of more than 100 meters in May opens again in Seongsu tomorrow.\n\nThe video shows last May's Bbangryeok Jangteo, as visited by SBS SUBUSU NEWS for its 'Freshly Baked Taste' series. Bread community Bbang Morning (@bbang.morning) brought together 25 bakeries that have no physical store or sell only online, in a 300-pyeong (about 990 m²) space in Bukgajwa-dong. The scene of arriving right at 11 a.m. and being taken aback by the line is from that day.\n\nThe second season moves to Urb Studio in Seongsu-dong, about 400 pyeong (roughly 1,320 m²), and grows to some 30 bakeries, local restaurants and home goods brands.\n\nDates: Oct 30 (Fri) – Nov 1 (Sun)\nLocation: Urb Studio, 6 Achasan-ro 11ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nVideo: SBS SUBUSU NEWS\n#SENE #SeoulBakery #SeoulPopup #Seongsu #KoreanBread"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=e7965ty9ra4\n구간: 0:29-0:58\n곡: *パン市場*が聖水へ\n아티스트: 行列、\n피처링:\n후킹: もはや聖心堂級の\n출처: 出典：스브스뉴스\n자막: 자동",
+      "caption": "5月に100mを超える行列ができたパンの市場が、明日ソウル・聖水洞（ソンスドン）で再び開かれます。\n\n映像はSBS「スブスニュース」の『カッナオン・マットリ』が訪れた5月のパンリョク市場（빵력장터）です。パンコミュニティ「パンモーニング」（@bbang.morning）が、北加佐洞（プッカジャドン）の300坪（約990㎡）の空間に、実店舗を持たない、またはオンラインのみで販売するベーカリー25店を集めました。11時ちょうどに着いて行列に驚く場面は、このときのものです。\n\n2回目となる今回は、聖水のオブ・スタジオ（어브 스튜디오）約400坪（約1,320㎡）に場所を移し、ベーカリーに地元の人気店やリビング雑貨のブランドも加えた30あまりのブランドに広がりました。\n\n期間：10月30日（金）〜11月1日（日）\n場所：ソウル・城東区峨嵯山路11ガ通り6 オブ・スタジオ（聖水洞）\n映像：SBS スブスニュース\n#SENE #韓国パン #韓国旅行 #聖水 #ソウルポップアップ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1568,10 +1611,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T14:34+09:00"
+  "at": "2026-10-29T14:36+09:00"
  },
  "queue": {
-  "next": "2026-10-29T14:36+09:00",
+  "next": "2026-10-29T14:38+09:00",
   "n": 0,
   "gap": 20
  },
