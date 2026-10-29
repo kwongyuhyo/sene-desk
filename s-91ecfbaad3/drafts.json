@@ -475,6 +475,13 @@
        "cvr": 2,
        "at": "2026-10-29T08:35+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfEVkZvlIE7/",
+      "cover": "J",
+      "at": "2026-10-29T15:13+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -836,11 +843,70 @@
      "v": {
       "A": "3abe91ca",
       "B": "f8ce32af",
-      "C": "4a28f678"
+      "C": "4a28f678",
+      "E": "5f7f6e2d",
+      "J": "5be9775c"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-29T15:14+09:00",
+    "confirm": [
+     "〈전과자〉 영어 공식 표기(Jeongwaja)와 '스낵이' 로마자 표기(Snack-i)·일본어 'スナギ'를 공식 채널에서 확인하지 못함",
+     "'똑부' 영어 Ttokbu·일본어 トックブ, '긱블 수드래곤'·'오빠두엑셀' 일본어 표기는 공식 표기가 아니라 음역임",
+     "캡션의 카이(엑소 KAI)는 영어·일본어 모두 이름만 적혀 있음 — 원문과 같지만, 그룹명을 붙일지는 원문 쪽에서 정할 일"
+    ],
+    "review": {
+     "at": "2026-10-29T15:14+09:00",
+     "fixes": [
+      "일본어 · 캡션 첫 문장 · 'ウェブバラエティĺ『' → 'ウェブバラエティ『' — 깨진 글자(ĺ) 섞임",
+      "일본어 · 캡션 둘째 단락 · '番組で提案した' → '提案した' — 원문에 없는 '방송에서'가 더해짐",
+      "영어 · 캡션 둘째 단락 · 'turns into a real space an idea … first suggested' → 'brings to life an offline campus idea proposed' — 어순이 꼬인 직역투, 원문에 없는 'first' 더해짐",
+      "영어 · 캡션 둘째 단락 · 'move through major booths' → 'make their way through booths for majors' — 'major booths'가 '큰 부스'로도 읽힘",
+      "영어 · 특강 줄 · 'PD Ko Dong-wan' → 'producer Ko Dong-wan' — 영어권 독자에게 'PD'가 안 통함"
+     ],
+     "doubt": [
+      "〈전과자〉 영어 공식 표기(Jeongwaja)와 '스낵이' 로마자 표기(Snack-i)·일본어 'スナギ'를 공식 채널에서 확인하지 못함",
+      "'똑부' 영어 Ttokbu·일본어 トックブ, '긱블 수드래곤'·'오빠두엑셀' 일본어 표기는 공식 표기가 아니라 음역임",
+      "캡션의 카이(엑소 KAI)는 영어·일본어 모두 이름만 적혀 있음 — 원문과 같지만, 그룹명을 붙일지는 원문 쪽에서 정할 일"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nGoogle Gemini and the web variety show 'Jeongwaja' are opening a three-day virtual campus in Seongsu-dong, Seoul.\n\nThe pop-up, 'Snack-i Gemini Campus', brings to life an offline campus idea proposed by the show's host, Kai. Visitors get a mobile student ID and make their way through booths for majors such as business administration and aerospace engineering, plus club booths, completing missions along the way. The missions are solved with Gemini features like Deep Research and Canvas.\n\nThere is also limited-edition merchandise featuring 'Ttokbu', a character that combines the two IPs. Google says pop-up sales will be donated in both partners' names to help low-income university students pay tuition. The pop-up is aimed mainly at university and graduate students, but anyone can visit without signing up.\n\nDates: Oct 30 (Fri) – Nov 1 (Sun)\nLocation: Hanseo Building, Seongsu-dong, Seongdong-gu, Seoul\nAdmission: Walk-in, no advance registration\nTalks: Oct 30 producer Ko Dong-wan · Oct 31 Geekble's Sudragon · Nov 1 Oppadu Excel (register in advance via the Team Gemini KakaoTalk channel)\n#SENE #SeoulPopup #Seongsu #GoogleGemini #Jeongwaja #Google\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793231687/r357vhdxafve3qcq3y9o.jpg\n제목: Gemini Campus Opens|in Seongsu for 3 Days\n부제: Google Gemini × web show 'Jeongwaja' · Oct 30 – Nov 1\n출처: Google Korea\n",
+      "caption": "Google Gemini and the web variety show 'Jeongwaja' are opening a three-day virtual campus in Seongsu-dong, Seoul.\n\nThe pop-up, 'Snack-i Gemini Campus', brings to life an offline campus idea proposed by the show's host, Kai. Visitors get a mobile student ID and make their way through booths for majors such as business administration and aerospace engineering, plus club booths, completing missions along the way. The missions are solved with Gemini features like Deep Research and Canvas.\n\nThere is also limited-edition merchandise featuring 'Ttokbu', a character that combines the two IPs. Google says pop-up sales will be donated in both partners' names to help low-income university students pay tuition. The pop-up is aimed mainly at university and graduate students, but anyone can visit without signing up.\n\nDates: Oct 30 (Fri) – Nov 1 (Sun)\nLocation: Hanseo Building, Seongsu-dong, Seongdong-gu, Seoul\nAdmission: Walk-in, no advance registration\nTalks: Oct 30 producer Ko Dong-wan · Oct 31 Geekble's Sudragon · Nov 1 Oppadu Excel (register in advance via the Team Gemini KakaoTalk channel)\n#SENE #SeoulPopup #Seongsu #GoogleGemini #Jeongwaja #Google",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254480/q33siqgotiqpvmwitam1.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254480/is8h4qwd6gum4ztemsd8.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254480/q33siqgotiqpvmwitam1.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T15:14+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nGoogle Geminiとウェブバラエティ『チョングァジャ（전과자）』が、ソウル・聖水洞（ソンスドン）に3日間限定のバーチャルキャンパスを開きます。\n\n「スナギ Geminiキャンパス」は、『チョングァジャ』の進行役カイが提案したオフラインキャンパスのアイデアを空間にしたポップアップです。モバイル学生証を発行してもらい、経営学や航空宇宙工学といった専攻ブースやサークルブースを回りながらミッションを解いていく仕組みで、ミッションはDeep ResearchやCanvasなどGeminiの機能を使って解きます。\n\n2つのIPを組み合わせたキャラクター「トックブ（똑부）」の限定グッズも登場します。ポップアップの売上は両者の共同名義で、低所得層の大学生の学費支援に寄付されるとGoogleは説明しています。主な対象は大学生・大学院生ですが、一般の見学は申し込みなしで誰でも可能です。\n\n期間：10月30日（金）〜11月1日（日）\n場所：ソウル・城東区（ソンドング）聖水洞 ハンソビル（한서빌딩）\n入場：事前申し込み不要、当日入場\n特別講義：30日 コ・ドンワンPD・31日 ギクブル スドラゴン・11月1日 オッパドゥエクセル（チームGeminiのカカオトークチャンネルで事前申し込み）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #Gemini #韓国好きな人と繋がりたい\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793231687/r357vhdxafve3qcq3y9o.jpg\n제목: 聖水で3日間だけの|Geminiキャンパス\n부제: Google Gemini × ウェブバラエティ『チョングァジャ』・10/30〜11/1\n출처: Google Korea\n",
+      "caption": "Google Geminiとウェブバラエティ『チョングァジャ（전과자）』が、ソウル・聖水洞（ソンスドン）に3日間限定のバーチャルキャンパスを開きます。\n\n「スナギ Geminiキャンパス」は、『チョングァジャ』の進行役カイが提案したオフラインキャンパスのアイデアを空間にしたポップアップです。モバイル学生証を発行してもらい、経営学や航空宇宙工学といった専攻ブースやサークルブースを回りながらミッションを解いていく仕組みで、ミッションはDeep ResearchやCanvasなどGeminiの機能を使って解きます。\n\n2つのIPを組み合わせたキャラクター「トックブ（똑부）」の限定グッズも登場します。ポップアップの売上は両者の共同名義で、低所得層の大学生の学費支援に寄付されるとGoogleは説明しています。主な対象は大学生・大学院生ですが、一般の見学は申し込みなしで誰でも可能です。\n\n期間：10月30日（金）〜11月1日（日）\n場所：ソウル・城東区（ソンドング）聖水洞 ハンソビル（한서빌딩）\n入場：事前申し込み不要、当日入場\n特別講義：30日 コ・ドンワンPD・31日 ギクブル スドラゴン・11月1日 オッパドゥエクセル（チームGeminiのカカオトークチャンネルで事前申し込み）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #Gemini #韓国好きな人と繋がりたい",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254483/g5xbpstgterekhamj00g.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254482/xhnvdukpxlu423ppqzzk.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254483/g5xbpstgterekhamj00g.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T15:14+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1779,7 +1845,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T15:13+09:00"
+  "at": "2026-10-29T15:14+09:00"
  },
  "queue": {
   "next": "2026-10-29T15:32+09:00",
