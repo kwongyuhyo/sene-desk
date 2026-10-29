@@ -1484,11 +1484,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=e7965ty9ra4\n구간: 0:29-0:58\n곡: *Bread fair* in Seongsu\n아티스트: \n피처링:\n후킹: Sungsimdang line —\n출처: Source: 스브스뉴스\n자막: 자동",
       "caption": "A bread market that drew a line of more than 100 meters in May opens again in Seongsu tomorrow.\n\nThe video shows last May's Bbangryeok Jangteo, as visited by SBS SUBUSU NEWS for its 'Freshly Baked Taste' series. Bread community Bbang Morning (@bbang.morning) brought together 25 bakeries that have no physical store or sell only online, in a 300-pyeong (about 990 m²) space in Bukgajwa-dong. The scene of arriving right at 11 a.m. and being taken aback by the line is from that day.\n\nThe second season moves to Urb Studio in Seongsu-dong, about 400 pyeong (roughly 1,320 m²), and grows to some 30 bakeries, local restaurants and home goods brands.\n\nDates: Oct 30 (Fri) – Nov 1 (Sun)\nLocation: Urb Studio, 6 Achasan-ro 11ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nVideo: SBS SUBUSU NEWS\n#SENE #SeoulBakery #SeoulPopup #Seongsu #KoreanBread",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-29T14:36+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793252385/sene_studio/honx3d2zdnjcxedtuhx6.mp4",
+       "at": "2026-10-29T14:39+09:00",
+       "file": "unknown_Bread_fair_in_Seongs_PuDeu_no_lyrics.mp4",
        "sig": "e25fddb985",
-       "job": 156
+       "v": "b6077db7"
       }
      }
     },
@@ -1700,10 +1701,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T14:36+09:00"
+  "at": "2026-10-29T14:39+09:00"
  },
  "queue": {
-  "next": "2026-10-29T14:38+09:00",
+  "next": "2026-10-29T14:41+09:00",
   "n": 0,
   "gap": 20
  },
