@@ -2684,9 +2684,66 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300554/dxjtsje86ljfhkzuxsp0.jpg",
      "key": "xB3pZokr8co@36.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-30T04:02+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793300758/sene_studio/xiywhus2nq50kfu9kvoi.mp4",
+     "at": "2026-10-30T04:06+09:00",
+     "file": "14Nyeon_BabSangEul_J_BaeU_ChoeBulAm_Byeol_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793300762242-fb232f07",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.26,
+        "text": "자, 밥이 왔어요"
+       },
+       {
+        "start": 2.26,
+        "end": 4.32,
+        "text": "밥 왔습니다"
+       },
+       {
+        "start": 4.32,
+        "end": 7.62,
+        "text": "네, 맛있는 밥 왔습니다"
+       },
+       {
+        "start": 7.62,
+        "end": 10.2,
+        "text": "그냥 그 수수한 의미에"
+       },
+       {
+        "start": 10.2,
+        "end": 11.73,
+        "text": "그냥 아무나 끼어들어서"
+       },
+       {
+        "start": 11.73,
+        "end": 15.41,
+        "text": "먹을 수 있는 여지가 많은 그런 분위기의"
+       },
+       {
+        "start": 15.41,
+        "end": 19.18,
+        "text": "상. 모난 데가 없어 둘러앉기 딱인 상"
+       },
+       {
+        "start": 19.18,
+        "end": 22.81,
+        "text": "밥 같은 밥은 정말 이래 먹는 게 함께야"
+       },
+       {
+        "start": 22.81,
+        "end": 27.2,
+        "text": "그치? 항상 이 두 분은 넉넉한 상이 돼요"
+       },
+       {
+        "start": 27.2,
+        "end": 28.52,
+        "text": "그 점이 참 좋아요"
+       }
+      ]
+     },
+     "v": "bd62d5ef"
     }
    },
    "corner_name": "소식",
@@ -3003,7 +3060,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T04:04+09:00"
+  "at": "2026-10-30T04:06+09:00"
  },
  "queue": {
   "next": "2026-10-30T08:00+09:00",
