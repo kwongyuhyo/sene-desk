@@ -929,7 +929,43 @@
     "at": "2026-10-29T11:50+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-10-29T11:51+09:00"
+   "i18n_queued": "2026-10-29T11:51+09:00",
+   "i18n": {
+    "at": "2026-10-29T11:52+09:00",
+    "confirm": [
+     "'락피쉬 노드' 화보의 공식 영문 표기를 찾지 못했습니다 — 영어는 'Rockfish Node', 일본어는 「ロックフィッシュ ノード」로 옮겼습니다. 브랜드 공식 표기로 맞춰 주세요.",
+     "'26 윈터 프레젠테이션'의 공식 영문 표기는 확인하지 못해 원문 그대로 옮겼습니다.",
+     "하음의 공식 로마자 표기는 일본 매체 기준 HAUM(ハウム)입니다. 영어판은 'Haum'으로 적었습니다. 영어권 일부 기사에서는 'Ha-eum'으로 씁니다.",
+     "영어 숏폼은 40자 제한 때문에 가운데 칸(아티스트 '오늘 아침 성수동')을 비웠습니다. 성수동은 캡션에 들어 있습니다.",
+     "원문에 'Seongsu store'로 표기된 매장 이름(성수점)의 공식 영어·일본어 표기는 확인하지 못했습니다.",
+     "'락피쉬 노드' 공식 영문·일문 표기(예: NODE)를 확인하지 못함 — 영어 'Rockfish Node', 일본어「ロックフィッシュ ノード」는 음역이라 브랜드 표기와 다를 수 있음",
+     "영어 숏폼 제목은 아티스트 칸(오늘 아침 성수동)이 비어 있어 '오늘 아침·성수동'이 화면 제목에 빠짐 — 40자 제한 때문에 비운 것으로 보이며 캡션에는 들어 있음"
+    ],
+    "review": {
+     "at": "2026-10-29T11:52+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 · this is not their first meeting → it isn't the group's first time working with the brand — 'their'가 누구인지 모호하고 '처음 만남'은 직역투",
+      "영어 · 숏폼 캡션 · If that shoot was → If that campaign was — 앞 문장의 'campaign'과 용어 통일",
+      "일본어 · 숏폼 캡션 · このブランドとは初対面ではありません → このブランドとの縁は今回が初めてではありません — '初対面'은 사람끼리 쓰는 말이라 브랜드와의 관계에 어색함"
+     ],
+     "doubt": [
+      "'락피쉬 노드' 공식 영문·일문 표기(예: NODE)를 확인하지 못함 — 영어 'Rockfish Node', 일본어「ロックフィッシュ ノード」는 음역이라 브랜드 표기와 다를 수 있음",
+      "영어 숏폼 제목은 아티스트 칸(오늘 아침 성수동)이 비어 있어 '오늘 아침·성수동'이 화면 제목에 빠짐 — 40자 제한 때문에 비운 것으로 보이며 캡션에는 들어 있음"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=a73BppPQJdY\n구간: 0:15-0:50\n곡: dressed for winter\n아티스트: \n피처링:\n후킹: *KiiiKiii*, all five,\n출처: topstarnews (Top Star News)\n자막: 자동",
+      "caption": "All five members of KiiiKiii stood together this morning at the Rockfish Weatherwear store in Seongsu-dong.\n\nThe footage comes from the photo wall marking the brand's '26 Winter Presentation', and it isn't the group's first time working with the brand. Member Haum earlier fronted the brand's 26FW 'Rockfish Node' campaign on her own.\n\nIf that campaign was Haum's winter alone, today Jiyu, Leesol, Sui, Haum and Kya all stood in the same spot.\n\nDate: Oct 29 (Thu), morning\nLocation: Rockfish Weatherwear Seongsu store, Seongsu-dong, Seongdong-gu, Seoul\nVideo: topstarnews (Top Star News)\n#SENE #KiiiKiii #RockfishWeatherwear #Seongsu #SeoulFashion"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=a73BppPQJdY\n구간: 0:15-0:50\n곡: 冬服で並んだ\n아티스트: 今朝の聖水洞で\n피처링:\n후킹: *キキ*5人が\n출처: topstarnews（トップスターニュース）\n자막: 자동",
+      "caption": "KiiiKiii（キキ）が今日の午前、ソウル・聖水洞（ソンスドン）のロックフィッシュウェザーウェア（ROCKFISH WEATHERWEAR）の店舗に5人そろって立ちました。\n\n映像はブランドの「'26 ウィンター・プレゼンテーション」を記念したフォトウォールの場面ですが、このブランドとの縁は今回が初めてではありません。メンバーのハウムが先に、26FW「ロックフィッシュ ノード」のビジュアルに一人で登場したブランドです。\n\nあの撮影がハウム一人の冬だったなら、今日はジユ・イソル・スイ・ハウム・キヤの5人全員が同じ場所に立ちました。\n\n日時：10月29日（木）午前\n場所：ソウル・聖水洞（ソンスドン） ロックフィッシュウェザーウェア 聖水店\n映像：topstarnews（トップスターニュース）\n#SENE #キキ #KiiiKiii #ロックフィッシュウェザーウェア #聖水 #韓国ファッション"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1225,10 +1261,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T11:51+09:00"
+  "at": "2026-10-29T11:52+09:00"
  },
  "queue": {
-  "next": "2026-10-29T11:53+09:00",
+  "next": "2026-10-29T11:54+09:00",
   "n": 0,
   "gap": 20
  },
