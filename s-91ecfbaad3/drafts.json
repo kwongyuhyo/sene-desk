@@ -2154,11 +2154,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=uJqaGLmZpGo\n구간: 1:19-1:47\n곡: *Chani* swore to fight\n아티스트: \n피처링:\n후킹: Now I'm the oppressor\n출처: Warner Bros.\n자막: 자동",
       "caption": "'Dune: Part Three' opens in Korea on Dec 16, ahead of every other country.\n\nThis clip is from the final trailer posted on Warner Bros.' official channel early in the morning the day before. It opens with the line \"I've become the oppressor Chani had sworn to fight.\" That one line holds the core of this story, in which Paul and Chani end up on opposite sides.\n\nThe North American release is Dec 18, two days after Korea.\n\nKorea release: Dec 16 (Wed)\nVideo: Warner Bros.\n#SENE #DunePartThree #TimotheeChalamet #Zendaya #DenisVilleneuve",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-29T19:31+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793270334/sene_studio/tlznijucms30p7othlua.mp4",
+       "at": "2026-10-29T19:38+09:00",
+       "file": "unknown_Chani_swore_to_fight_KeolCheo_no_lyrics.mp4",
        "sig": "a2cdf37545",
-       "job": 163
+       "v": "985a06bf"
       }
      }
     },
@@ -2704,10 +2705,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T19:36+09:00"
+  "at": "2026-10-29T19:38+09:00"
  },
  "queue": {
-  "next": "2026-10-29T19:38+09:00",
+  "next": "2026-10-29T19:40+09:00",
   "n": 0,
   "gap": 20
  },
