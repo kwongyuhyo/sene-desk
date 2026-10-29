@@ -2629,7 +2629,9 @@
      "v": {
       "A": "388d6880",
       "B": "07d03d50",
-      "C": "6caf9c48"
+      "C": "6caf9c48",
+      "E": "54700097",
+      "J": "59f7bee4"
      }
     }
    },
@@ -2688,7 +2690,72 @@
     }
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-30T04:02+09:00"
+   "i18n_queued": "2026-10-30T04:02+09:00",
+   "i18n": {
+    "at": "2026-10-30T04:04+09:00",
+    "confirm": [
+     "빅 이슈(부고) — 올리기 전 최신 공식 발표를 다시 확인할 것. 10월 29일 밤 10시께 서울 강서구 병원에서 별세했고 향년 87세라는 점은 문화일보·한국경제·한국일보 등 여러 매체에서 확인함",
+     "프로그램 영어 제목: 〈한국인의 밥상〉은 'Korean Table' · 'Korean Dining Table' 등 여러 표기가 쓰이고 KBS 공식 영어 제목은 확인하지 못함. 'Korean Table' 로 씀",
+     "〈수사반장〉 'Chief Inspector' · 〈전원일기〉 'Country Diaries' 는 흔히 쓰는 영어 제목이고, 일본어 『捜査班長』『田園日記』『韓国人の食卓』은 직역임. 공식 표기는 확인하지 못함",
+     "회차 제목 '둥근상이 떴습니다' 는 의역함 (A Round Table Appears / 丸い食卓が現れました)",
+     "출처 '최불암 측 제공' 은 영어 'Courtesy of Choi Bool-am's representatives' 로 옮김. 유족 쪽 제공이라면 'Courtesy of the family' 로 고칠 것",
+     "부고 속보 — 올리기 전 별세 일시·장소(10월 29일 밤 10시께, 강서구 병원)를 공식 발표·복수 매체로 다시 확인",
+     "〈한국인의 밥상〉 KBS 공식 영어 제목은 확인 못 함 — 영어 매체는 'Korean Table'·'Koreans' Table', 영어 위키백과는 'Korean Cuisine and Dining' 으로 갈림. 'Korean Table' 유지"
+    ],
+    "review": {
+     "at": "2026-10-30T04:04+09:00",
+     "fixes": [
+      "일본어 · 캡션 · 「記憶されてきた俳優ですが、」 → 「俳優で、」 — 'ですが' 가 역접(그런데도)으로 읽혀 뜻이 어긋남",
+      "일본어 · 캡션·숏폼 캡션 · 「進行役」 → 「司会」 — TV 프로그램 진행자는 일본어로 司会가 자연스러운 연어"
+     ],
+     "doubt": [
+      "부고 속보 — 올리기 전 별세 일시·장소(10월 29일 밤 10시께, 강서구 병원)를 공식 발표·복수 매체로 다시 확인",
+      "〈한국인의 밥상〉 KBS 공식 영어 제목은 확인 못 함 — 영어 매체는 'Korean Table'·'Koreans' Table', 영어 위키백과는 'Korean Cuisine and Dining' 으로 갈림. 'Korean Table' 유지"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nActor Choi Bool-am died on Oct 29. He was 87.\n\nAfter first taking the stage in a 1959 production of 'Hamlet,' he was long remembered as Chief Park in MBC's 'Chief Inspector' and as Chairman Kim of Yangchon-ri in 'Country Diaries.' From 2011, he hosted KBS 1TV's 'Korean Table' for 14 years, traveling the country to find its home-cooked meals and the people who make them.\n\nHe died around 10 p.m. on Oct 29 at a hospital in Gangseo-gu, Seoul, where he had been receiving inpatient treatment. May he rest in peace.\n\n#SENE #ChoiBoolam #KoreanTable #CountryDiaries #KBS\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793300519/xpkbe3d6prlutoadxpdl.jpg\n제목: Actor Choi Bool-am|Dies at 87\n부제: The Face of 'Korean Table' for 14 Years\n출처: Courtesy of Choi Bool-am's representatives\n",
+      "caption": "Actor Choi Bool-am died on Oct 29. He was 87.\n\nAfter first taking the stage in a 1959 production of 'Hamlet,' he was long remembered as Chief Park in MBC's 'Chief Inspector' and as Chairman Kim of Yangchon-ri in 'Country Diaries.' From 2011, he hosted KBS 1TV's 'Korean Table' for 14 years, traveling the country to find its home-cooked meals and the people who make them.\n\nHe died around 10 p.m. on Oct 29 at a hospital in Gangseo-gu, Seoul, where he had been receiving inpatient treatment. May he rest in peace.\n\n#SENE #ChoiBoolam #KoreanTable #CountryDiaries #KBS",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300656/vnmvpplwgztiotqztszk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300655/z9jzjh4pftubgkifveax.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300656/vnmvpplwgztiotqztszk.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T04:04+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=xB3pZokr8co\n구간: 0:36-1:05\n곡: *Choi Bool-am* dies\n아티스트: Korean Table host\n피처링:\n후킹: \n출처: KBS documentary\n자막: 자동",
+      "caption": "Actor Choi Bool-am died on Oct 29, aged 87.\n\nThe clip is the opening of 'A Round Table Appears,' an episode of KBS 1TV's 'Korean Table' that aired on Jan 31, 2019, in which the show set out to find round tables where people sit together to eat.\n\nHe hosted the program for 14 years from 2011, traveling the country to find its home-cooked meals and the people who make them. Before that, he was Chief Park in 'Chief Inspector' and Chairman Kim of Yangchon-ri in 'Country Diaries.' May he rest in peace.\n\n#SENE #ChoiBoolam #KoreanTable #CountryDiaries #KBS"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n俳優のチェ・ブラム（최불암）さんが10月29日に亡くなりました。87歳でした。\n\n1959年に演劇『ハムレット』で舞台に立って以来、MBC『捜査班長』のパク班長、『田園日記』のヤンチョン里のキム会長として長く記憶されてきた俳優で、2011年からはKBS 1TV『韓国人の食卓』の司会を14年間務め、全国の食卓と、そのご飯を作る人々を訪ね歩きました。\n\n10月29日午後10時ごろ、ソウル・江西区（カンソグ）の病院で入院治療中に息を引き取りました。ご冥福をお祈りします。\n\n#SENE #チェブラム #韓国人の食卓 #田園日記 #韓国ドラマ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793300519/xpkbe3d6prlutoadxpdl.jpg\n제목: 俳優チェ・ブラムさん、|87歳で死去\n부제: 『韓国人の食卓』14年の顔\n출처: 提供：チェ・ブラム側\n",
+      "caption": "俳優のチェ・ブラム（최불암）さんが10月29日に亡くなりました。87歳でした。\n\n1959年に演劇『ハムレット』で舞台に立って以来、MBC『捜査班長』のパク班長、『田園日記』のヤンチョン里のキム会長として長く記憶されてきた俳優で、2011年からはKBS 1TV『韓国人の食卓』の司会を14年間務め、全国の食卓と、そのご飯を作る人々を訪ね歩きました。\n\n10月29日午後10時ごろ、ソウル・江西区（カンソグ）の病院で入院治療中に息を引き取りました。ご冥福をお祈りします。\n\n#SENE #チェブラム #韓国人の食卓 #田園日記 #韓国ドラマ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300659/r9gdoiegijsbbajx4aoz.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300658/hcpsflsrj7ckiyjxv6bw.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300659/r9gdoiegijsbbajx4aoz.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T04:04+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=xB3pZokr8co\n구간: 0:36-1:05\n곡: 俳優*チェ・ブラム*死去\n아티스트: 食卓を14年守った\n피처링:\n후킹: \n출처: KBSドキュメンタリー\n자막: 자동",
+      "caption": "俳優のチェ・ブラム（최불암）さんが10月29日、87歳で亡くなりました。\n\n映像は2019年1月31日に放送されたKBS 1TV『韓国人の食卓』「丸い食卓が現れました」編の冒頭部分です。みんなで囲んで食べる丸い食卓を探しに出かけた回です。\n\nチェさんは2011年から14年間この番組の司会を務め、全国の食卓と、そのご飯を作る人々を訪ね歩きました。それ以前は『捜査班長』のパク班長、『田園日記』のヤンチョン里のキム会長でした。ご冥福をお祈りします。\n\n#SENE #チェブラム #韓国人の食卓 #田園日記 #韓国ドラマ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -2936,7 +3003,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T04:02+09:00"
+  "at": "2026-10-30T04:04+09:00"
  },
  "queue": {
   "next": "2026-10-30T08:00+09:00",
