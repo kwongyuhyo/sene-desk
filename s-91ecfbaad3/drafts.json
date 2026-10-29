@@ -451,6 +451,13 @@
        "cvr": 2,
        "at": "2026-10-29T08:35+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfEViYulEZr/",
+      "cover": "E",
+      "at": "2026-10-29T15:13+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -470,6 +477,13 @@
       }
      }
     }
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfEVgGuFEr3/",
+    "cover": "A",
+    "at": "2026-10-29T15:12+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -1122,11 +1136,74 @@
      "cvr": 2,
      "at": "2026-10-29T11:51+09:00",
      "v": {
-      "A": "10054f30"
+      "A": "10054f30",
+      "E": "bfb82eb2",
+      "J": "3197aa2f"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-29T15:13+09:00",
+    "confirm": [
+     "출처 칸 '어센틱'(주최사)은 지침대로 한국어 이름 그대로 뒀습니다. 공식 영문 표기(예: AUTHENTIC)는 확인하지 못했으니, 영어·일본어판에서 로마자로 바꿀지 확인이 필요합니다.",
+     "공연명 〈물음표〉는 공식 영어·일본어 표기를 찾지 못했습니다. 그래서 영어는 'Mureumpyo' (Question Mark), 일본어는 『물음표（ムルムピョ／疑問符）』로 옮겼습니다.",
+     "아티스트의 일본어 공식 표기는 확인하지 못했습니다. 일본어판도 HANRORO로 쓰고, 처음 한 번 （ハンロロ）를 붙였습니다.",
+     "새 공연장 이름은 네이버 보도자료 기준 영문 표기 'NAVER Arena at INSPIRE'(줄여서 NAVER Arena)로 썼습니다.",
+     "NOL 공연 페이지에 티켓 오픈 날짜와 D-day 표시가 서로 맞지 않는다는 검색 결과가 있었습니다. 올리기 전에 11월 13일(금) 오후 6시 일반 판매 일정을 다시 확인해 주세요.",
+     "새 공연장 이름 'NAVER Arena at INSPIRE'의 공식 영문·대소문자 표기는 검색으로 확인하지 못함 — NOL 공연 페이지에 적힌 표기와 맞는지 확인",
+     "공연 제목 〈물음표〉의 공식 영문 표기는 확인하지 못함 — 지금은 로마자 'Mureumpyo' (Question Mark)로 적음"
+    ],
+    "review": {
+     "at": "2026-10-29T15:13+09:00",
+     "fixes": [
+      "영어 · 출처 · 어센틱 → Authentic — 한글이 남아 있었고, 소속사 영문 표기는 Authentic(영문 기사 표기)",
+      "일본어 · 출처 · 어센틱 → Authentic — 한글이 남아 있었음",
+      "일본어 · 부제 · 『물음표』 → 『ムルムピョ』 — 일본 독자가 읽을 수 없는 한글 제목",
+      "일본어 · 캡션 · 『물음표（ムルムピョ／疑問符）』 → 『ムルムピョ（물음표／疑問符）』 — 규칙대로 カタカナ를 앞에, 원어는 괄호 안에",
+      "일본어 · 가격 줄 · 「・」로 이어 붙인 구분 → 「／」「、」로 나눔 — 어느 좌석이 어느 가격인지 헷갈리게 읽혔음",
+      "영어 · 캡션 · running two days, Jan 2 and 3 → running over two days, Jan 2 and 3 — 어색한 연어"
+     ],
+     "doubt": [
+      "새 공연장 이름 'NAVER Arena at INSPIRE'의 공식 영문·대소문자 표기는 검색으로 확인하지 못함 — NOL 공연 페이지에 적힌 표기와 맞는지 확인",
+      "공연 제목 〈물음표〉의 공식 영문 표기는 확인하지 못함 — 지금은 로마자 'Mureumpyo' (Question Mark)로 적음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nHANRORO is holding a solo concert in an arena for the first time since debuting.\n\nIt is the singer's fifth solo concert, 'Mureumpyo' (Question Mark), running over two days, Jan 2 and 3, 2027, at Inspire Arena on Yeongjongdo. On the NOL ticketing page, the venue already appears under the new name it takes from December: NAVER Arena at INSPIRE.\n\nWhen looking for tickets, just remember that both names refer to the same venue. The first floor is standing, and the second and third floors are reserved seating.\n\nDates: Sat, Jan 2, 2027, 6 p.m. · Sun, Jan 3, 5 p.m.\nLocation: NAVER Arena (formerly Inspire Arena), Yeongjongdo, Incheon\nTickets: NOL Ticket · General sale Fri, Nov 13, 6 p.m.\nPrices: 1F standing and 2F reserved KRW 143,000 · 3F reserved KRW 132,000\n#SENE #HANRORO #NaverArena #InspireArena #KoreaConcert\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793242252/k420bjoqffkvte0kpatn.jpg\n제목: HANRORO's First Arena Show|Jan 2–3, Yeongjongdo\n부제: Fifth solo concert 'Mureumpyo' (Question Mark) · Tickets on sale Nov 13, 6 p.m.\n출처: Authentic\n",
+      "caption": "HANRORO is holding a solo concert in an arena for the first time since debuting.\n\nIt is the singer's fifth solo concert, 'Mureumpyo' (Question Mark), running over two days, Jan 2 and 3, 2027, at Inspire Arena on Yeongjongdo. On the NOL ticketing page, the venue already appears under the new name it takes from December: NAVER Arena at INSPIRE.\n\nWhen looking for tickets, just remember that both names refer to the same venue. The first floor is standing, and the second and third floors are reserved seating.\n\nDates: Sat, Jan 2, 2027, 6 p.m. · Sun, Jan 3, 5 p.m.\nLocation: NAVER Arena (formerly Inspire Arena), Yeongjongdo, Incheon\nTickets: NOL Ticket · General sale Fri, Nov 13, 6 p.m.\nPrices: 1F standing and 2F reserved KRW 143,000 · 3F reserved KRW 132,000\n#SENE #HANRORO #NaverArena #InspireArena #KoreaConcert",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254404/tsfzlehiga9kadj05zq3.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254404/zof09vlsk7bnqwoquepg.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254404/tsfzlehiga9kadj05zq3.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T15:13+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nHANRORO（ハンロロ）が、デビュー後初めてアリーナで単独コンサートを開きます。\n\n5回目の単独コンサート『ムルムピョ（물음표／疑問符）』で、2027年1月2日と3日の2日間、仁川・永宗島（ヨンジョンド）のインスパイアアリーナで行われます。チケット販売サイトNOLの公演ページでは、会場が12月から使う新しい名称「NAVER Arena at INSPIRE」で表記されています。\n\nチケットを探すときは、二つの名前が同じ会場だということだけ覚えておけば大丈夫です。1階はスタンディング、2・3階は指定席です。\n\n日時：2027年1月2日（土）18:00・3日（日）17:00\n場所：仁川・永宗島 NAVER Arena（旧インスパイアアリーナ）\nチケット：NOLチケット・11月13日（金）18:00 一般販売\n料金：1階スタンディング／2階指定席 143,000ウォン、3階指定席 132,000ウォン\n#SENE #HANRORO #ハンロロ #インスパイアアリーナ #韓国ライブ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793242252/k420bjoqffkvte0kpatn.jpg\n제목: HANRORO、初アリーナ|1月2・3日 永宗島\n부제: 5回目の単独公演『ムルムピョ』・一般販売11月13日18時\n출처: Authentic\n",
+      "caption": "HANRORO（ハンロロ）が、デビュー後初めてアリーナで単独コンサートを開きます。\n\n5回目の単独コンサート『ムルムピョ（물음표／疑問符）』で、2027年1月2日と3日の2日間、仁川・永宗島（ヨンジョンド）のインスパイアアリーナで行われます。チケット販売サイトNOLの公演ページでは、会場が12月から使う新しい名称「NAVER Arena at INSPIRE」で表記されています。\n\nチケットを探すときは、二つの名前が同じ会場だということだけ覚えておけば大丈夫です。1階はスタンディング、2・3階は指定席です。\n\n日時：2027年1月2日（土）18:00・3日（日）17:00\n場所：仁川・永宗島 NAVER Arena（旧インスパイアアリーナ）\nチケット：NOLチケット・11月13日（金）18:00 一般販売\n料金：1階スタンディング／2階指定席 143,000ウォン、3階指定席 132,000ウォン\n#SENE #HANRORO #ハンロロ #インスパイアアリーナ #韓国ライブ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254407/dgkdo0slsxmmjztp8dag.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254407/p1umcxsfagwi7j97ayp8.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793254407/dgkdo0slsxmmjztp8dag.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T15:13+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1702,10 +1779,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T14:42+09:00"
+  "at": "2026-10-29T15:13+09:00"
  },
  "queue": {
-  "next": "2026-10-29T14:44+09:00",
+  "next": "2026-10-29T15:32+09:00",
   "n": 0,
   "gap": 20
  },
