@@ -1361,9 +1361,86 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252012/k5cfxf3lqp3wsmkzmpt7.jpg",
      "key": "e7965ty9ra4@29.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T14:33+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793252206/sene_studio/k1xoaztly1szpcrnqmjl.mp4",
+     "at": "2026-10-29T14:36+09:00",
+     "file": "SeongSimDang_JulIYa_Geu_PpangLyeogJangTe_PuDeu_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793252205592-9a60807c",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.82,
+        "text": "다 모아 놓은 빵집들만 모은 팝업을 연다고"
+       },
+       {
+        "start": 2.82,
+        "end": 3.58,
+        "text": "하더라고요"
+       },
+       {
+        "start": 3.58,
+        "end": 4.67,
+        "text": "규모도 생각보다"
+       },
+       {
+        "start": 4.67,
+        "end": 5.44,
+        "text": "되게 커요"
+       },
+       {
+        "start": 5.44,
+        "end": 8.4,
+        "text": "300평짜리를 빌려서 했다고"
+       },
+       {
+        "start": 12.1,
+        "end": 15.37,
+        "text": "그래, 여기가 빵 좋아하는 사람들이 다"
+       },
+       {
+        "start": 15.37,
+        "end": 16.38,
+        "text": "모인 거잖아"
+       },
+       {
+        "start": 16.38,
+        "end": 18.78,
+        "text": "오픈런 많이 본 사람들이 얼마나 많이 모였겠어"
+       },
+       {
+        "start": 18.78,
+        "end": 20.2,
+        "text": "내가 너무 안일하게 생각했다"
+       },
+       {
+        "start": 20.2,
+        "end": 22.12,
+        "text": "11시 맞춰서 오면 될 거라고"
+       },
+       {
+        "start": 22.12,
+        "end": 25.34,
+        "text": "이 정도면 거의 성심당 줄이야"
+       },
+       {
+        "start": 25.34,
+        "end": 26.96,
+        "text": "기다리는 동안 이거나 해 보자"
+       },
+       {
+        "start": 26.96,
+        "end": 28.86,
+        "text": "나의 빵 소비 유형은?"
+       },
+       {
+        "start": 28.86,
+        "end": 29.46,
+        "text": "감사합니다"
+       }
+      ]
+     },
+     "v": "8959954d"
     }
    },
    "pick": {
