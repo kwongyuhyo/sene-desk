@@ -154,11 +154,6 @@
       }
      }
     }
-   },
-   "pick": {
-    "rank": 1,
-    "why": "장원영이 프리뷰에 선 전시가 오늘 개막 — 예약제라 오늘 알아야 쓸모, 숏폼",
-    "at": "2026-10-29T11:50+09:00"
    }
   },
   {
@@ -475,11 +470,6 @@
       }
      }
     }
-   },
-   "pick": {
-    "rank": 3,
-    "why": "사흘 뒤 시행 — 11월 일본 여행·원정 덕질 가는 독자의 공항 순서가 바뀐다",
-    "at": "2026-10-29T11:50+09:00"
    }
   },
   {
@@ -980,11 +970,6 @@
      "v": "37106ceb"
     }
    },
-   "pick": {
-    "rank": 2,
-    "why": "오늘 오전 성수에서 찍힌 키키 다섯 명 완전체 장면 — 지금 가장 새 케이팝 현장 숏폼",
-    "at": "2026-10-29T11:50+09:00"
-   },
    "corner_name": "현장",
    "i18n_queued": "2026-10-29T11:51+09:00",
    "i18n": {
@@ -1036,6 +1021,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 오전 성수에서 찍힌 키키 다섯 명 완전체 장면 — 오늘 가장 새 케이팝 현장 숏폼",
+    "at": "2026-10-29T14:33+09:00"
    }
   },
   {
@@ -1137,6 +1127,196 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:katseye-seoul-kspo-2027",
+    "account": "@katseyeworld 공식 인스타 (10/29)",
+    "url": "https://www.instagram.com/katseyeworld/",
+    "image": null,
+    "head": "THE WILDWORLD TOUR is coming to Asia, Australia & New Zealand",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T14:33+09:00",
+   "key": "66916def",
+   "by": "claude",
+   "subjects": [
+    "캣츠아이"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "캣츠아이 첫 한국 단독 공연 — 'THE WILDWORLD TOUR' 아시아·오세아니아 11개 도시 중 서울은 2027년 2월 4일 KSPO DOME 하루",
+    "why": "오늘 정오 공식 SNS·위버스 발표 — 케이팝 시스템으로 데뷔한 글로벌 걸그룹의 첫 서울 공연이라 팬이 날짜·공연장부터 저장한다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T14:33+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n캣츠아이(@katseyeworld)가 처음으로 한국에서 단독 공연을 엽니다.\n\n오늘 정오 공식 SNS와 위버스로 공개한 'THE WILDWORLD TOUR' 아시아·오세아니아 일정인데요, 2027년 1월 27일 요코하마에서 출발해 11개 도시를 도는 동안 서울은 마닐라·홍콩 다음 네 번째 도시입니다.\n\n북미·유럽 투어를 마친 뒤 다시 떠나는 길에서 서울에 머무는 날은 하루뿐입니다. 장소는 송파구 올림픽공원 KSPO DOME이고, 투어는 3월 5일 뉴질랜드 오클랜드에서 끝납니다.\n\n일시: 2027년 2월 4일(목)\n장소: 서울 송파구 올림픽공원 KSPO DOME\n예매: 일정 추후 공지 (공식 SNS·위버스)\n#SENE #캣츠아이 #KATSEYE #KSPODOME #올림픽공원\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793251991/zhih70phlykk5wrmlkp5.jpg\n제목: 캣츠아이, 첫 한국 공연|2월 4일 KSPO돔\n부제: THE WILDWORLD TOUR 아시아·오세아니아 11개 도시 중 네 번째\n출처: @katseyeworld\n",
+    "caption": "캣츠아이(@katseyeworld)가 처음으로 한국에서 단독 공연을 엽니다.\n\n오늘 정오 공식 SNS와 위버스로 공개한 'THE WILDWORLD TOUR' 아시아·오세아니아 일정인데요, 2027년 1월 27일 요코하마에서 출발해 11개 도시를 도는 동안 서울은 마닐라·홍콩 다음 네 번째 도시입니다.\n\n북미·유럽 투어를 마친 뒤 다시 떠나는 길에서 서울에 머무는 날은 하루뿐입니다. 장소는 송파구 올림픽공원 KSPO DOME이고, 투어는 3월 5일 뉴질랜드 오클랜드에서 끝납니다.\n\n일시: 2027년 2월 4일(목)\n장소: 서울 송파구 올림픽공원 KSPO DOME\n예매: 일정 추후 공지 (공식 SNS·위버스)\n#SENE #캣츠아이 #KATSEYE #KSPODOME #올림픽공원",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793251991/zhih70phlykk5wrmlkp5.jpg",
+      "credit": "@katseyeworld",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869628208_18003869241024648_868467884867991318_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PC4iUICnjzkQ7kNvwFGDRC2&_nc_oc=Adqyf8N3SV0Df46JgNwrjSkUcesKkPHZcHfM0pveK1ybG2AqTvL8CGI-7sHwZPgQqEQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dBRtRGTTBPnBG2bU0IHKyA&oh=00_AQRvl6uzO7kpEGKKxShTAJ7fKrUF9xphupniBdmZJDa3GA&oe=6AE88F78"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793251994/lg6k3nrd9xqwtb29hj2k.jpg",
+      "credit": "@katseyeworld",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/867076379_18004136271024648_7476857281438568398_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VGBfwRUw7SsQ7kNvwF7V-BD&_nc_oc=AdrRgi_wGqIKgaOxRt4KvrgYlBWp7J8G7gNRc4q_vbY_tsN5pUKuRqSthKehwlASA2w&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dBRtRGTTBPnBG2bU0IHKyA&oh=00_AQRpp80zAfkapRbHoROmXZWSeew_nfVK-FrrPitrseYSpw&oe=6AE8924E"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793251991/zhih70phlykk5wrmlkp5.jpg",
+      "credit": "@katseyeworld",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869628208_18003869241024648_868467884867991318_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PC4iUICnjzkQ7kNvwFGDRC2&_nc_oc=Adqyf8N3SV0Df46JgNwrjSkUcesKkPHZcHfM0pveK1ybG2AqTvL8CGI-7sHwZPgQqEQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dBRtRGTTBPnBG2bU0IHKyA&oh=00_AQRvl6uzO7kpEGKKxShTAJ7fKrUF9xphupniBdmZJDa3GA&oe=6AE88F78"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793251994/lg6k3nrd9xqwtb29hj2k.jpg",
+      "credit": "@katseyeworld",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/867076379_18004136271024648_7476857281438568398_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VGBfwRUw7SsQ7kNvwF7V-BD&_nc_oc=AdrRgi_wGqIKgaOxRt4KvrgYlBWp7J8G7gNRc4q_vbY_tsN5pUKuRqSthKehwlASA2w&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=dBRtRGTTBPnBG2bU0IHKyA&oh=00_AQRpp80zAfkapRbHoROmXZWSeew_nfVK-FrrPitrseYSpw&oe=6AE8924E"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "캣츠아이, 첫 한국 공연|2월 4일 KSPO돔",
+      "sub": "THE WILDWORLD TOUR 아시아·오세아니아 11개 도시 중 네 번째"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "'첫 한국 단독 공연'은 스포츠W 표현 — 캡션은 '처음으로 한국에서 단독 공연'으로 씀 · 예매 일정·가격은 아직 발표 없음"
+    ],
+    "research": [
+     {
+      "title": "싱글리스트 — 캣츠아이, 내년 2월 KSPO돔 한국 콘서트 · 아시아·오세아니아 11개 도시 (10/29 공식 SNS·위버스 공개)",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=777430"
+     },
+     {
+      "title": "스포츠W — 캣츠아이, 내년 2월 첫 한국 콘서트 · 도시별 날짜 (요코하마 1/27 ~ 오클랜드 3/5, 서울 2/4)",
+      "link": "https://swtvnews.com/news/newsview.php?ncode=1065585252104028"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252000/l241irwpfs4a79fux1d5.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793251999/bdzlrxn9lom9gpnua2m0.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252000/l241irwpfs4a79fux1d5.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-29T14:33+09:00",
+     "v": {
+      "A": "d4a2385f"
+     }
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 정오 공식 발표된 캣츠아이 첫 한국 단독 공연 — 팬이 날짜·공연장을 저장해 둘 소식",
+    "at": "2026-10-29T14:33+09:00"
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-10-29T14:33+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:bbangryeok-market-seongsu",
+    "account": "빵모닝 공식 스레드 (10/17 게시물)",
+    "url": "https://www.threads.com/@bbang.morning",
+    "image": null,
+    "head": "빵력장터 시즌2 — 26년 10월 30일(금) ~ 11월 1일(일) · 서울 성동구 아차산로11가길 6 어브 스튜디오",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T14:33+09:00",
+   "key": "9a60807c",
+   "by": "claude",
+   "subjects": [
+    "빵력장터",
+    "빵모닝"
+   ],
+   "lane": "현장",
+   "editor": {
+    "grade": "A",
+    "kind": "현장",
+    "angle": "지난 5월 북가좌동에서 100m 줄이 섰던 빵 장터가 시즌2로 성수에 — 25곳에서 30여 곳으로, 내일부터 사흘",
+    "why": "실제로 줄이 섰던 행사의 두 번째 회 · 내일 개막이라 이번 주말 계획에 바로 쓰이는 정보 (케이팝 연결 없음 — 줄 서는 것만 쓰는 몫)"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T14:33+09:00",
+   "corner": "scene",
+   "shorts": {
+    "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=e7965ty9ra4\n구간: 0:29-0:58\n곡: 그 *빵력장터* 성수로\n아티스트: 성심당 줄이야\n피처링:\n후킹: 이 정도면 거의\n출처: 스브스뉴스\n자막: 자동",
+    "caption": "지난 5월 대기 줄이 100m를 넘었던 빵 장터가 내일 성수에서 다시 열립니다.\n\n영상은 SBS 스브스뉴스 '갓나온 맛도리'가 찾은 지난 5월 빵력장터인데요, 빵 커뮤니티 빵모닝(@bbang.morning)이 북가좌동 300평 공간에 오프라인 매장이 없거나 온라인으로만 파는 베이커리 25곳을 모았던 자리입니다. 11시에 맞춰 갔다가 줄을 보고 놀라는 장면이 이때입니다.\n\n두 번째 시즌은 성수 어브 스튜디오 약 400평, 베이커리와 로컬 맛집·리빙 소품 브랜드 30여 곳으로 커졌습니다.\n\n기간: 10월 30일(금) ~ 11월 1일(일)\n장소: 서울 성동구 아차산로11가길 6 어브 스튜디오\n영상: 스브스뉴스\n#SENE #빵력장터 #빵모닝 #성수팝업 #성수",
+    "hooks": {
+     "A": "이 정도면 거의 / 성심당 줄이야 / 그 *빵력장터* 성수로",
+     "B": "지난 5월 100m 줄 / 그 빵 장터가 / 내일 *성수*에 온다",
+     "C": "빵집·소품 30여 곳이 / 한 건물에 모인다 / *빵력장터* 시즌2"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=e7965ty9ra4",
+     "credit": "스브스뉴스",
+     "range": [
+      29.0,
+      58.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 높음 — 스브스뉴스(SBS) · 0:29-0:58 = 29초 · 지난 5월 시즌1 영상임을 캡션에 밝힘 · 빵모닝 공식 사진은 모두 글자 그래픽이라 카드는 뺌",
+     "운영 시간(블로그엔 매일 11~18시)·입장 방식은 공식 출처로 확인 못 해 뺌"
+    ],
+    "research": [
+     {
+      "title": "빵모닝 공식 스레드 — 빵력장터 시즌2 기간·장소 · 각 지역 빵 맛집과 리빙 소품 브랜드 30여 곳",
+      "link": "https://www.threads.com/@bbang.morning"
+     },
+     {
+      "title": "헤이팝 — 빵력장터 시즌2, 성수 어브 스튜디오 약 400평 · 토스 공식 파트너 · 페이스페이 할인 쿠폰·빵 가방·포토부스 · 성수 일대 협업 카페 이벤트",
+      "link": "https://heypop.kr/n/144844"
+     },
+     {
+      "title": "한국경제 — 5월 29일 북가좌동 빵력장터, 300평·베이커리 25곳·대기 줄 100m 넘어",
+      "link": "https://www.hankyung.com/article/202605296715g"
+     },
+     {
+      "title": "스브스뉴스 갓나온 맛도리 EP.177 — 5월 빵력장터 현장",
+      "link": "https://www.youtube.com/watch?v=e7965ty9ra4"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/e7965ty9ra4/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793252012/k5cfxf3lqp3wsmkzmpt7.jpg",
+     "key": "e7965ty9ra4@29.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T14:33+09:00"
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "내일 성수에서 문을 여는 빵 장터 — 지난 5월 100m 줄이 섰던 행사라 퇴근길·주말 계획에 바로 쓰인다",
+    "at": "2026-10-29T14:33+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-10-29T14:33+09:00"
   }
  ],
  "skipped": [],
@@ -1144,7 +1324,7 @@
   "week": "10/26~11/01",
   "days_left": 4,
   "done": 0,
-  "goal": 66,
+  "goal": 70,
   "corners": [
    {
     "key": "news",
@@ -1154,8 +1334,9 @@
     "left": 28,
     "need_today": 7,
     "day": null,
+    "mday": null,
     "next_no": null,
-    "drafts": 5,
+    "drafts": 6,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1166,6 +1347,7 @@
     "left": 5,
     "need_today": 2,
     "day": null,
+    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "날짜·장소·가격이 있는 모음 (이번 주 성수 팝업 · 이번 달 개봉작). 순위는 매기지 않는다"
@@ -1178,6 +1360,7 @@
     "left": 1,
     "need_today": 0,
     "day": 4,
+    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "금요일 고정 — 이번 토·일에 갈 수 있는 팝업·전시·축제·놀거리를 날짜·장소·가격으로 묶는다"
@@ -1190,9 +1373,65 @@
     "left": 1,
     "need_today": 0,
     "day": 0,
+    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "월요일 고정 — 이번 주(월~일) 새로 여는 매장·팝업·전시 일정표"
+   },
+   {
+    "key": "mvspot",
+    "name": "성지순례",
+    "weekly": 1,
+    "done": 0,
+    "left": 1,
+    "need_today": 0,
+    "day": 2,
+    "mday": null,
+    "next_no": 1,
+    "drafts": 0,
+    "why": "수요일 고정 — 화제 된 MV·화보·예능이 어디서 찍혔나, 지금 가 볼 수 있나 (주소·운영·촬영 장면). 새 MV가 터지면 요일 밖에서도"
+   },
+   {
+    "key": "fave",
+    "name": "최애가 쓴 것",
+    "weekly": 1,
+    "done": 0,
+    "left": 1,
+    "need_today": 0,
+    "day": 1,
+    "mday": null,
+    "next_no": 1,
+    "drafts": 0,
+    "why": "화요일 고정 — 공식 인터뷰·공식 게시물에서 본인이 직접 말한 향수·책·카페·물건 (출처 장면과 함께)"
+   },
+   {
+    "key": "bdaymap",
+    "name": "이달의 생일카페·팝업 지도",
+    "weekly": 1,
+    "done": 0,
+    "left": 1,
+    "need_today": 0,
+    "day": null,
+    "mday": [
+     1,
+     15
+    ],
+    "next_no": 1,
+    "drafts": 0,
+    "why": "월간 — 1일에 이달 것, 15일에 남은 보름 것. 아이돌 생일카페·팝업·전시를 날짜·동네·주소로 한 장에"
+   },
+   {
+    "key": "concert",
+    "name": "콘서트 가는 날",
+    "weekly": 1,
+    "done": 0,
+    "left": 1,
+    "need_today": 1,
+    "day": null,
+    "mday": null,
+    "next_no": 1,
+    "drafts": 0,
+    "why": "큰 공연장(고척·KSPO·인스파이어·잠실·체조) 공연 전날·당일 — 가는 길·먹고 갈 곳·굿즈 줄·물품보관 (공식 공지 기준)"
    },
    {
     "key": "scene",
@@ -1202,8 +1441,9 @@
     "left": 10,
     "need_today": 3,
     "day": null,
+    "mday": null,
     "next_no": null,
-    "drafts": 2,
+    "drafts": 3,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
    },
    {
@@ -1214,6 +1454,7 @@
     "left": 6,
     "need_today": 2,
     "day": null,
+    "mday": null,
     "next_no": null,
     "drafts": 0,
     "why": "인터뷰·방송·예고편·브랜드 영상 속 사람이 한 말 (짧은 인용)"
@@ -1226,6 +1467,7 @@
     "left": 3,
     "need_today": 1,
     "day": null,
+    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "해부형 — 한 브랜드·공간·유행이 왜 지금인가. 장 붙은 캐러셀"
@@ -1238,6 +1480,7 @@
     "left": 3,
     "need_today": 1,
     "day": null,
+    "mday": null,
     "next_no": null,
     "drafts": 1,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
@@ -1250,6 +1493,7 @@
     "left": 7,
     "need_today": 2,
     "day": null,
+    "mday": null,
     "next_no": null,
     "drafts": 0,
     "why": "잘 된 글의 다음 편 — 연장·다음 도시·후속 컬렉션 (후속 기획 탭)"
@@ -1262,15 +1506,16 @@
     "left": 2,
     "need_today": 1,
     "day": null,
+    "mday": null,
     "next_no": null,
     "drafts": 0,
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T12:01+09:00"
+  "at": "2026-10-29T14:33+09:00"
  },
  "queue": {
-  "next": "2026-10-29T12:03+09:00",
+  "next": "2026-10-29T14:35+09:00",
   "n": 0,
   "gap": 20
  },
