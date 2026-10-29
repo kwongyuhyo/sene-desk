@@ -1743,7 +1743,9 @@
      "cvr": 2,
      "at": "2026-10-29T17:54+09:00",
      "v": {
-      "A": "aafc43bf"
+      "A": "aafc43bf",
+      "E": "88332f71",
+      "J": "605cefe0"
      }
     }
    },
@@ -1803,7 +1805,70 @@
     "at": "2026-10-29T17:53+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-29T17:54+09:00"
+   "i18n_queued": "2026-10-29T17:54+09:00",
+   "i18n": {
+    "at": "2026-10-29T17:56+09:00",
+    "confirm": [
+     "Korea Herald(10/23) 기사 하나로만 앰버서더 발표·캠페인 이름·9월 서울패션위크 참석을 확인했습니다. 원문의 9월 성수동 플래그십 방문과 공식 유튜브 영상은 이번 검색으로 확인하지 못했습니다.",
+     "던스트의 일본어 공식 표기는 찾지 못했습니다. 그래서 처음 한 번만 'ダンスト（DUNST）'로 쓰고 이후에는 DUNST로 적었습니다. 영어는 브랜드 로고 표기인 대문자 DUNST로 썼습니다.",
+     "설윤의 일본어 표기는 일본 매체에서 'ソルユン'과 'ソリュン'이 섞여 쓰입니다. 'ソルユン'으로 썼으니 JYP 일본 공식 표기와 같은지 확인해 주세요.",
+     "숏폼 세 칸은 글자 수(영어 40자·일본어 24자) 제한에 맞추느라 '엔믹스'를 뺐습니다. 'NMIXX'는 캡션에 남아 있습니다.",
+     "일본어 · 표지 제목 'DUNSTの冬の顔に' 는 원문 '겨울 캠페인에 섰다' 보다 '겨울 얼굴이 됐다' 쪽으로 읽힘 — 글로벌 앰버서더라는 사실과 크게 어긋나지 않아 그대로 둠, 원하면 'DUNST冬広告に' 같은 꼴로 바꿀지 봐 주세요"
+    ],
+    "review": {
+     "at": "2026-10-29T17:56+09:00",
+     "fixes": [
+      "영어 · 숏폼 세 칸 · 'Behind a book, / *Sullyoon* / as DUNST's face' → 'Behind a book, / *Sullyoon*, / DUNST's new face' — 이어 읽으면 'Sullyoon as DUNST's face' 가 끊긴 말처럼 읽혀 쉼표로 동격을 만들고 원문 '새 얼굴' 을 살림 (세 칸 합 39자)"
+     ],
+     "doubt": [
+      "일본어 · 표지 제목 'DUNSTの冬の顔に' 는 원문 '겨울 캠페인에 섰다' 보다 '겨울 얼굴이 됐다' 쪽으로 읽힘 — 글로벌 앰버서더라는 사실과 크게 어긋나지 않아 그대로 둠, 원하면 'DUNST冬広告に' 같은 꼴로 바꿀지 봐 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nNMIXX (@nmixx_official) member Sullyoon is now a global ambassador for DUNST (@dunst_official).\n\nHer first campaign is titled 'GOOD GIRL, STRANGE ROOM.' Set in a room where childhood memories blur into imagination, it shows Sullyoon in coats, knitwear and padded jackets from the 2026 winter collection.\n\nThe connection began in September. Sullyoon sat in the audience at DUNST's first Seoul Fashion Week show, and after the show she also visited the brand's flagship store in Seongsu-dong, Seoul. The campaign film is on DUNST's official YouTube channel.\n\nCampaign: 'GOOD GIRL, STRANGE ROOM' (released Oct 23)\nCollection: DUNST 26 WINTER — official website and stores\n#SENE #NMIXX #Sullyoon #DUNST #KoreanFashion #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264037/nr4rr9gjxtnerhi9fo9n.jpg\n제목: NMIXX's Sullyoon Fronts|DUNST's Winter Campaign\n부제: 'GOOD GIRL, STRANGE ROOM' — her first campaign as global ambassador\n출처: @dunst_official\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264042/jjupeqqa3k6e9wbibhuj.jpg\n소제목: \n본문: \n출처: Dunst\n",
+      "caption": "NMIXX (@nmixx_official) member Sullyoon is now a global ambassador for DUNST (@dunst_official).\n\nHer first campaign is titled 'GOOD GIRL, STRANGE ROOM.' Set in a room where childhood memories blur into imagination, it shows Sullyoon in coats, knitwear and padded jackets from the 2026 winter collection.\n\nThe connection began in September. Sullyoon sat in the audience at DUNST's first Seoul Fashion Week show, and after the show she also visited the brand's flagship store in Seongsu-dong, Seoul. The campaign film is on DUNST's official YouTube channel.\n\nCampaign: 'GOOD GIRL, STRANGE ROOM' (released Oct 23)\nCollection: DUNST 26 WINTER — official website and stores\n#SENE #NMIXX #Sullyoon #DUNST #KoreanFashion #Seongsu",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264173/s5cqybdrncmi0wirncnr.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264173/giktus5shxlbauqq5evj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264173/wzii3l9wavmngpitnfka.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264173/s5cqybdrncmi0wirncnr.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T17:56+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=qdEx8brOIu0\n구간: 0:05-0:40\n곡: DUNST's new face\n아티스트: *Sullyoon*,\n피처링:\n후킹: Behind a book,\n출처: Dunst\n자막: 자동",
+      "caption": "NMIXX (@nmixx_official) member Sullyoon has shot her first campaign as a global ambassador for DUNST (@dunst_official).\n\nThe film is 'GOOD GIRL, STRANGE ROOM,' DUNST's 2026 winter campaign, posted on the brand's official channel. In a room where childhood memories mix with imagination, Sullyoon moves through the frame in coats, knitwear and padded jackets.\n\nIn September, Sullyoon sat at DUNST's first Seoul Fashion Week show and visited its flagship store in Seongsu-dong, Seoul, that same month. A month later, she is the face of the brand.\n\nCampaign: 'GOOD GIRL, STRANGE ROOM' (released Oct 23)\nVideo: Dunst\n#SENE #NMIXX #Sullyoon #DUNST #KoreanFashion #Seongsu"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nNMIXX（@nmixx_official）のソルユンが、ダンスト（DUNST・@dunst_official）のグローバルアンバサダーに就任しました。\n\n初のキャンペーンのタイトルは'GOOD GIRL, STRANGE ROOM'。幼い頃の記憶と想像が入り混じった部屋を舞台に、ソルユンが2026年冬コレクションのコート、ニット、ダウンを着こなしています。\n\nきっかけは9月でした。DUNSTが初めて参加したソウルファッションウィークのショーにソルユンが来場し、ショーの後にはソウル・聖水洞（ソンスドン）のフラッグシップストアも訪れています。キャンペーン映像はDUNST公式YouTubeで見ることができます。\n\nキャンペーン：'GOOD GIRL, STRANGE ROOM'（10月23日公開）\nコレクション：DUNST 26 WINTER — 公式サイト・店舗\n#SENE #NMIXX #ソルユン #DUNST #韓国ファッション #聖水\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264037/nr4rr9gjxtnerhi9fo9n.jpg\n제목: NMIXXソルユンが|DUNSTの冬の顔に\n부제: 'GOOD GIRL, STRANGE ROOM' — グローバルアンバサダーとして初のキャンペーン\n출처: @dunst_official\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264042/jjupeqqa3k6e9wbibhuj.jpg\n소제목: \n본문: \n출처: Dunst\n",
+      "caption": "NMIXX（@nmixx_official）のソルユンが、ダンスト（DUNST・@dunst_official）のグローバルアンバサダーに就任しました。\n\n初のキャンペーンのタイトルは'GOOD GIRL, STRANGE ROOM'。幼い頃の記憶と想像が入り混じった部屋を舞台に、ソルユンが2026年冬コレクションのコート、ニット、ダウンを着こなしています。\n\nきっかけは9月でした。DUNSTが初めて参加したソウルファッションウィークのショーにソルユンが来場し、ショーの後にはソウル・聖水洞（ソンスドン）のフラッグシップストアも訪れています。キャンペーン映像はDUNST公式YouTubeで見ることができます。\n\nキャンペーン：'GOOD GIRL, STRANGE ROOM'（10月23日公開）\nコレクション：DUNST 26 WINTER — 公式サイト・店舗\n#SENE #NMIXX #ソルユン #DUNST #韓国ファッション #聖水",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264177/k6qyeohlxruhp2mar3mq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264176/xlq8kgq7zhuyhov6nt6n.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264176/vphft8qzwxsyv0igcjlz.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264177/k6qyeohlxruhp2mar3mq.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T17:56+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=qdEx8brOIu0\n구간: 0:05-0:40\n곡: DUNSTの新しい顔に\n아티스트: *ソルユン*が\n피처링:\n후킹: 本に隠れた顔、\n출처: Dunst\n자막: 자동",
+      "caption": "NMIXX（@nmixx_official）のソルユンが、ダンスト（DUNST・@dunst_official）のグローバルアンバサダーとして初のキャンペーンを撮影しました。\n\n映像はDUNSTが公式チャンネルに公開した2026年冬キャンペーン'GOOD GIRL, STRANGE ROOM'。幼い頃の記憶と想像が混ざり合う部屋という設定の中で、ソルユンがコート、ニット、ダウンをまとって動きます。\n\n9月にDUNST初のソウルファッションウィークのショーに来場したソルユンは、同じ月にソウル・聖水洞（ソンスドン）のフラッグシップストアを訪問。その1か月後、ブランドの顔になりました。\n\nキャンペーン：'GOOD GIRL, STRANGE ROOM'（10月23日公開）\n映像：Dunst\n#SENE #NMIXX #ソルユン #DUNST #韓国ファッション #聖水"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2232,10 +2297,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T17:54+09:00"
+  "at": "2026-10-29T17:56+09:00"
  },
  "queue": {
-  "next": "2026-10-29T17:56+09:00",
+  "next": "2026-10-29T17:58+09:00",
   "n": 0,
   "gap": 20
  },
