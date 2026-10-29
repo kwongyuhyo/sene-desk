@@ -3326,7 +3326,9 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
   var DR_CAT = (function () { try { return sessionStorage.getItem('sene.drcat') || 'all'; } catch (e) { return 'all'; } })();
   function catSave() { try { sessionStorage.setItem('sene.drcat', DR_CAT); } catch (e) {} }
   var CAT_NAME = { news: '소식', roundup: '정리', scene: '현장', mal: '그 말', dissect: '왜 지금', issue: '이슈',
-    again: '다시 보기', followup: '후속' };     // SENE 편성 (collectors/corners · 10/22)
+    again: '다시 보기', followup: '후속', weekend: '이번 주말 뭐 하지', openweek: '이번 주 오픈 예정',
+    moment: '오늘의 순간', fave: '최애가 쓴 것', mvspot: '성지순례', look: '그 룩, 얼마', fancourse: '팬의 하루 코스',
+    weekscene: '한 주의 현장', bdaymap: '생일카페·팝업 지도', concert: '콘서트 가는 날' };     // SENE 편성 (collectors/corners · 10/22 · 10/29 정기 연재)
   function catOf(it) { return it.corner || 'etc'; }
   function catName(k) {
     var c = ((DR && DR.corners && DR.corners.corners) || []).filter(function (x) { return x.key === k; })[0];
@@ -4485,9 +4487,9 @@ function hlPick(parts) {
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.29 19:48';
+    a.title = '판 10.29 19:54';
     var ver = document.createElement('span');
-    ver.textContent = '10.29 19:48';
+    ver.textContent = '10.29 19:54';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
