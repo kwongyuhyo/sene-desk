@@ -2490,11 +2490,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=PrR13RXksn0\n구간: 0:30-1:13\n곡: *Swings* turns actor\n아티스트: 20 years into rap,\n피처링:\n후킹: \n출처: MTN STAR\n자막: 자동",
       "caption": "Swings has signed an exclusive contract with actor management agency Ace Factory.\n\nHe acts under his real name, Moon Ji-hoon, and made his screen debut as Abraham in 'Tazza: The Song of Beelzebub,' released in September. The clip is from the film's press conference on Aug 18. After 20 years of making music, he said he was cast six months after he began acting, though he had expected it to take five years.\n\nAce Factory also represents Lee Joon-hyuk, Lee Jong-suk and Yum Hye-ran, among others. The role has also earned him a Best New Actor nomination at the 47th Blue Dragon Film Awards.\n\n#SENE #Swings #MoonJihoon #TazzaTheSongOfBeelzebub #AceFactory #KoreanFilm",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-29T19:35+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793270723/sene_studio/v93zszbzmk96dawhhd5s.mp4",
+       "at": "2026-10-29T19:45+09:00",
+       "file": "20_years_into_rap_Swings_turns_actor_KeolCheo_no_lyrics.mp4",
        "sig": "4a96e357d0",
-       "job": 165
+       "v": "3ee6d43d"
       }
      }
     },
@@ -2706,10 +2707,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T19:41+09:00"
+  "at": "2026-10-29T19:45+09:00"
  },
  "queue": {
-  "next": "2026-10-29T19:43+09:00",
+  "next": "2026-10-29T19:47+09:00",
   "n": 0,
   "gap": 20
  },
