@@ -1971,7 +1971,9 @@
      "cvr": 2,
      "at": "2026-10-29T17:54+09:00",
      "v": {
-      "A": "1812fcc9"
+      "A": "1812fcc9",
+      "E": "9f1496b0",
+      "J": "3f8a79f9"
      }
     }
    },
@@ -2106,7 +2108,77 @@
      "v": "bca4bdc8"
     }
    },
-   "corner_name": "그 말"
+   "corner_name": "그 말",
+   "i18n": {
+    "at": "2026-10-29T19:27+09:00",
+    "confirm": [
+     "일본어판 공식 제목은 『デューン 砂の惑星PART3』입니다. 일본은 미국과 같은 12월 18일에 개봉해서, 일본어판 실용 정보 줄에는 「韓国公開」라고 적었습니다. 영어판도 같은 이유로 'Korea release' 로 적었습니다.",
+     "예고편 영어 대사는 매체마다 조금씩 다르게 옮겼습니다. 'I've become the oppressor Chani had sworn to fight.' 와 'After years of combat, I have become…' 두 가지가 보입니다. 숏폼 캡션에는 앞의 것을 썼으니 올리기 전에 자막과 맞는지 확인해 주세요.",
+     "영어 숏폼 세 칸은 40자 안에 넣느라 가운데(아티스트) 칸을 비웠고, 'Now I'm the oppressor / *Chani* swore to fight' 로 의역했습니다.",
+     "원문 맺음줄의 '개봉' 은 영어에서 'Korea release', 일본어에서 「韓国公開」로 옮겼습니다.",
+     "영어 · 숏폼 후킹 'Now I'm the oppressor' 가 21자로 한 줄 20자 기준을 1자 넘음 — 세 칸 합은 37자라 화면에는 들어가지만 확인 필요",
+     "영어 · 숏폼 캡션의 대사 인용 \"I've become the oppressor Chani had sworn to fight.\" 는 한국어 자막을 다시 영어로 옮긴 것으로 보임 — 예고편 원어(영어) 대사를 확인해 실제 문장으로 바꿀 것 (후킹 칸도 같이)",
+     "일본어판 · 일본은 12월 18일(금) 미일 동시 개봉으로 보도됨 — 원문에 없는 사실이라 넣지 않았지만, 일본 독자는 자국 개봉일을 궁금해할 수 있음",
+     "공통 · 개봉일 발표가 '오늘' 이라는 표현 — 게시 날짜가 발표일과 다르면 고쳐야 함"
+    ],
+    "review": {
+     "at": "2026-10-29T19:27+09:00",
+     "fixes": [
+      "영어 · 캡션·숏폼 캡션 · 〈Dune: Part Three〉·〈Dune〉 → 'Dune: Part Three'·'Dune' — 영어권 독자에게 낯선 홑화살괄호 대신 작은따옴표 (번역 규칙의 Film 'Parasite' 꼴)",
+      "영어 · 캡션 둘째 단락 · 'The final trailer came out worldwide at the same time, early in the morning the day before' → 'was released simultaneously worldwide in the early hours of the day before' — 'at the same time' 이 개봉일 발표와 같은 때로 읽힐 수 있음"
+     ],
+     "doubt": [
+      "영어 · 숏폼 후킹 'Now I'm the oppressor' 가 21자로 한 줄 20자 기준을 1자 넘음 — 세 칸 합은 37자라 화면에는 들어가지만 확인 필요",
+      "영어 · 숏폼 캡션의 대사 인용 \"I've become the oppressor Chani had sworn to fight.\" 는 한국어 자막을 다시 영어로 옮긴 것으로 보임 — 예고편 원어(영어) 대사를 확인해 실제 문장으로 바꿀 것 (후킹 칸도 같이)",
+      "일본어판 · 일본은 12월 18일(금) 미일 동시 개봉으로 보도됨 — 원문에 없는 사실이라 넣지 않았지만, 일본 독자는 자국 개봉일을 궁금해할 수 있음",
+      "공통 · 개봉일 발표가 '오늘' 이라는 표현 — 게시 날짜가 발표일과 다르면 고쳐야 함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n'Dune: Part Three' opens in Korea on Dec 16, ahead of every other country.\n\nWarner Bros. Korea announced the date today. The film reaches Korean theaters two days before its North American release on Dec 18. The final trailer was released simultaneously worldwide in the early hours of the day before.\n\nThe trailer is built around scenes of Paul and Chani turning against each other. This is the third and final chapter of Denis Villeneuve's 'Dune' series.\n\nKorea release: Dec 16 (Wed)\nDistributor: Warner Bros. Korea\n#SENE #DunePartThree #TimotheeChalamet #Zendaya #DenisVilleneuve\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264046/mltv3xufzkp3orvpbgc2.jpg\n제목: Dune: Part Three|Opens First in Korea\n부제: Dec 16 — two days ahead of North America\n출처: Warner Bros. Korea\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264049/qcseybnvyaaxvv9poygn.jpg\n소제목: \n본문: \n출처: Warner Bros.\n",
+      "caption": "'Dune: Part Three' opens in Korea on Dec 16, ahead of every other country.\n\nWarner Bros. Korea announced the date today. The film reaches Korean theaters two days before its North American release on Dec 18. The final trailer was released simultaneously worldwide in the early hours of the day before.\n\nThe trailer is built around scenes of Paul and Chani turning against each other. This is the third and final chapter of Denis Villeneuve's 'Dune' series.\n\nKorea release: Dec 16 (Wed)\nDistributor: Warner Bros. Korea\n#SENE #DunePartThree #TimotheeChalamet #Zendaya #DenisVilleneuve",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269643/t44baeli74pvvbbac0cr.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269640/po9jzuwzezl0bbvmuzgq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269641/b7ynjop7qbwyfamf6vuy.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269643/t44baeli74pvvbbac0cr.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T19:27+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=uJqaGLmZpGo\n구간: 1:19-1:47\n곡: *Chani* swore to fight\n아티스트: \n피처링:\n후킹: Now I'm the oppressor\n출처: Warner Bros.\n자막: 자동",
+      "caption": "'Dune: Part Three' opens in Korea on Dec 16, ahead of every other country.\n\nThis clip is from the final trailer posted on Warner Bros.' official channel early in the morning the day before. It opens with the line \"I've become the oppressor Chani had sworn to fight.\" That one line holds the core of this story, in which Paul and Chani end up on opposite sides.\n\nThe North American release is Dec 18, two days after Korea.\n\nKorea release: Dec 16 (Wed)\nVideo: Warner Bros.\n#SENE #DunePartThree #TimotheeChalamet #Zendaya #DenisVilleneuve"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n『デューン 砂の惑星PART3』が12月16日、韓国で世界に先駆けて公開されます。\n\nワーナー・ブラザース・コリアが本日発表した日程で、北米公開日の12月18日より2日早く韓国の劇場で上映されます。前日の未明には、ファイナル予告編が全世界で同時に公開されました。\n\n予告編は、ポールとチャニが互いに対立していく場面で構成されています。ドゥニ・ヴィルヌーヴ監督による『デューン』シリーズの3作目で、最後の物語です。\n\n韓国公開：12月16日（水）\n配給：ワーナー・ブラザース・コリア\n#SENE #デューン #デューン砂の惑星PART3 #ティモシーシャラメ #ゼンデイヤ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264046/mltv3xufzkp3orvpbgc2.jpg\n제목: 『デューン』完結編、|韓国で世界最速公開\n부제: 12月16日、北米より2日早く\n출처: ワーナー・ブラザース・コリア\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793264049/qcseybnvyaaxvv9poygn.jpg\n소제목: \n본문: \n출처: Warner Bros.\n",
+      "caption": "『デューン 砂の惑星PART3』が12月16日、韓国で世界に先駆けて公開されます。\n\nワーナー・ブラザース・コリアが本日発表した日程で、北米公開日の12月18日より2日早く韓国の劇場で上映されます。前日の未明には、ファイナル予告編が全世界で同時に公開されました。\n\n予告編は、ポールとチャニが互いに対立していく場面で構成されています。ドゥニ・ヴィルヌーヴ監督による『デューン』シリーズの3作目で、最後の物語です。\n\n韓国公開：12月16日（水）\n配給：ワーナー・ブラザース・コリア\n#SENE #デューン #デューン砂の惑星PART3 #ティモシーシャラメ #ゼンデイヤ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269646/buklrhjwhose7paalahb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269646/cm0sx0uysu1c6j3pd3ij.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269646/r1bctgdungcvfqtitmdu.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269646/buklrhjwhose7paalahb.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-29T19:27+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=uJqaGLmZpGo\n구간: 1:19-1:47\n곡: 私自身がなった\n아티스트: その圧制者に\n피처링:\n후킹: *チャニ*が戦うと誓った\n출처: Warner Bros.\n자막: 자동",
+      "caption": "『デューン 砂の惑星PART3』が12月16日、韓国で世界に先駆けて公開されます。\n\n映像は前日の未明にワーナー・ブラザースの公式チャンネルで公開されたファイナル予告編で、「チャニが戦うと誓った圧制者に、私自身がなった」というセリフから始まる部分です。ポールとチャニが敵対することになる今作の骨格が、この一言に込められています。\n\n北米公開は12月18日で、韓国より2日遅れます。\n\n韓国公開：12月16日（水）\n映像：Warner Bros.\n#SENE #デューン #デューン砂の惑星PART3 #ティモシーシャラメ #ゼンデイヤ"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -2395,10 +2467,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T18:02+09:00"
+  "at": "2026-10-29T19:27+09:00"
  },
  "queue": {
-  "next": "2026-10-29T18:04+09:00",
+  "next": "2026-10-29T19:29+09:00",
   "n": 0,
   "gap": 20
  },
