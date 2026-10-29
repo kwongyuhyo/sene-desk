@@ -2272,6 +2272,98 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:ord-3d5a7d75",
+    "account": "@규효 공유 · @eyesmag",
+    "url": "https://www.instagram.com/p/DfEepSOoJdd/?img_index=4&exln=MWd0a2xhbW9scnVuZQ==",
+    "image": null,
+    "head": "스윙스, 배우 문지훈으로 에이스팩토리와 전속계약 — 연기 시작 6개월 만에 캐스팅된 첫 영화 이후",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T19:31+09:00",
+   "key": "2df9abeb",
+   "by": "claude",
+   "subjects": [
+    "스윙스"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "래퍼 스윙스가 배우 문지훈으로 에이스팩토리와 전속계약 — 첫 영화 제작보고회에서 직접 한 말로",
+    "why": "10/29 발표 당일 소식이고, 〈타짜: 벨제붑의 노래〉 상영과 청룡영화상 신인남우상 후보로 이어지는 '보러 가는' 컬처 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T19:31+09:00",
+   "corner": "news",
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=PrR13RXksn0\n구간: 0:30-1:13\n곡: 배우가 된 *스윙스*\n아티스트: 랩 20년 끝에\n피처링:\n후킹: \n출처: MTN STAR\n자막: 자동",
+    "caption": "스윙스가 배우 매니지먼트사 에이스팩토리와 전속계약을 맺었습니다.\n\n연기 활동에서는 본명 문지훈으로 이름을 올리는데요, 지난 9월 개봉한 영화 〈타짜: 벨제붑의 노래〉에서 아브라함 역으로 스크린에 데뷔했습니다. 영상은 지난 8월 18일 이 영화의 제작보고회 장면입니다. 20년 동안 음악을 해 온 그는 연기를 시작하고 6개월 만에 캐스팅이 됐다며, 5년은 걸릴 줄 알았다고 말했습니다.\n\n에이스팩토리에는 이준혁·이종석·염혜란 등이 소속돼 있습니다. 그는 이 작품으로 제47회 청룡영화상 신인남우상 후보에도 올랐습니다.\n\n#SENE #스윙스 #문지훈 #타짜벨제붑의노래 #에이스팩토리",
+    "hooks": {
+     "A": "랩 20년 끝에 / 배우가 된 *스윙스*",
+     "B": "*스윙스*, 배우로 / 새 소속사 찾았다",
+     "C": "5년 걸릴 줄 / 알았던 *첫 캐스팅*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=PrR13RXksn0",
+     "credit": "MTN STAR",
+     "range": [
+      30.0,
+      73.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 개봉월: 스타뉴스(9/23)·스포츠경향은 9월, 아주경제는 '8월 개봉'으로 엇갈림 — 캡션은 9월로 두었으니 배급사 공지로 한 번 더. 배역 '살인청부업자'는 스타뉴스 한 곳뿐이라 뺐음",
+     "클립 위험: 중간 — MTN STAR (8/18 제작보고회 영상, 43초)",
+     "카드는 비움 — 공식 인스타(@itsjustswings) 사진을 메타 한도로 못 받았고 기사 사진은 공식 배포가 아님. 캐러셀이 필요하면 공식 계정 사진으로 다시"
+    ],
+    "research": [
+     {
+      "title": "뉴스1 — 스윙스, 이준혁·이종석 소속사 에이스팩토리로…본격 배우 행보",
+      "link": "https://www.news1.kr/entertain/celebrity-topic/6336619"
+     },
+     {
+      "title": "마이데일리 — [단독]연기에 진심… 스윙스, 이준혁·이종석과 한솥밥",
+      "link": "https://www.mydaily.co.kr/page/view/2026102914381720970"
+     },
+     {
+      "title": "스포츠경향 — 배우 문지훈으로 전속계약 스윙스 “최고의 제가 되겠다”",
+      "link": "https://sports.khan.co.kr/article/202610291720013/"
+     },
+     {
+      "title": "아주경제 — 스윙스, 이준혁·이종석 소속사 에이스팩토리로",
+      "link": "https://www.ajunews.com/view/20261029164117495"
+     },
+     {
+      "title": "스타뉴스 — '배우 데뷔' 스윙스, '타짜4' 개봉 소감",
+      "link": "https://www.starnewskorea.com/star/2026/09/24/2026092400172269041"
+     },
+     {
+      "title": "MTN STAR — '타짜4' 감독이 직접 밝힌 스윙스 캐스팅한 이유 (제작보고회)",
+      "link": "https://www.youtube.com/watch?v=PrR13RXksn0"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/PrR13RXksn0/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793269903/slrzdwipy0fvqyungzkp.jpg",
+     "key": "PrR13RXksn0@30.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T19:31+09:00"
+    }
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-10-29T19:31+09:00"
   }
  ],
  "skipped": [],
@@ -2291,7 +2383,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 8,
+    "drafts": 9,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -2467,10 +2559,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T19:27+09:00"
+  "at": "2026-10-29T19:31+09:00"
  },
  "queue": {
-  "next": "2026-10-29T19:29+09:00",
+  "next": "2026-10-29T19:33+09:00",
   "n": 0,
   "gap": 20
  },
