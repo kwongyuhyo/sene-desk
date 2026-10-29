@@ -1483,13 +1483,25 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=e7965ty9ra4\n구간: 0:29-0:58\n곡: *Bread fair* in Seongsu\n아티스트: \n피처링:\n후킹: Sungsimdang line —\n출처: Source: 스브스뉴스\n자막: 자동",
-      "caption": "A bread market that drew a line of more than 100 meters in May opens again in Seongsu tomorrow.\n\nThe video shows last May's Bbangryeok Jangteo, as visited by SBS SUBUSU NEWS for its 'Freshly Baked Taste' series. Bread community Bbang Morning (@bbang.morning) brought together 25 bakeries that have no physical store or sell only online, in a 300-pyeong (about 990 m²) space in Bukgajwa-dong. The scene of arriving right at 11 a.m. and being taken aback by the line is from that day.\n\nThe second season moves to Urb Studio in Seongsu-dong, about 400 pyeong (roughly 1,320 m²), and grows to some 30 bakeries, local restaurants and home goods brands.\n\nDates: Oct 30 (Fri) – Nov 1 (Sun)\nLocation: Urb Studio, 6 Achasan-ro 11ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nVideo: SBS SUBUSU NEWS\n#SENE #SeoulBakery #SeoulPopup #Seongsu #KoreanBread"
+      "caption": "A bread market that drew a line of more than 100 meters in May opens again in Seongsu tomorrow.\n\nThe video shows last May's Bbangryeok Jangteo, as visited by SBS SUBUSU NEWS for its 'Freshly Baked Taste' series. Bread community Bbang Morning (@bbang.morning) brought together 25 bakeries that have no physical store or sell only online, in a 300-pyeong (about 990 m²) space in Bukgajwa-dong. The scene of arriving right at 11 a.m. and being taken aback by the line is from that day.\n\nThe second season moves to Urb Studio in Seongsu-dong, about 400 pyeong (roughly 1,320 m²), and grows to some 30 bakeries, local restaurants and home goods brands.\n\nDates: Oct 30 (Fri) – Nov 1 (Sun)\nLocation: Urb Studio, 6 Achasan-ro 11ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nVideo: SBS SUBUSU NEWS\n#SENE #SeoulBakery #SeoulPopup #Seongsu #KoreanBread",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T14:36+09:00",
+       "sig": "e25fddb985",
+       "job": 156
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 푸드\nURL: https://www.youtube.com/watch?v=e7965ty9ra4\n구간: 0:29-0:58\n곡: *パン市場*が聖水へ\n아티스트: 行列、\n피처링:\n후킹: もはや聖心堂級の\n출처: 出典：스브스뉴스\n자막: 자동",
-      "caption": "5月に100mを超える行列ができたパンの市場が、明日ソウル・聖水洞（ソンスドン）で再び開かれます。\n\n映像はSBS「スブスニュース」の『カッナオン・マットリ』が訪れた5月のパンリョク市場（빵력장터）です。パンコミュニティ「パンモーニング」（@bbang.morning）が、北加佐洞（プッカジャドン）の300坪（約990㎡）の空間に、実店舗を持たない、またはオンラインのみで販売するベーカリー25店を集めました。11時ちょうどに着いて行列に驚く場面は、このときのものです。\n\n2回目となる今回は、聖水のオブ・スタジオ（어브 스튜디오）約400坪（約1,320㎡）に場所を移し、ベーカリーに地元の人気店やリビング雑貨のブランドも加えた30あまりのブランドに広がりました。\n\n期間：10月30日（金）〜11月1日（日）\n場所：ソウル・城東区峨嵯山路11ガ通り6 オブ・スタジオ（聖水洞）\n映像：SBS スブスニュース\n#SENE #韓国パン #韓国旅行 #聖水 #ソウルポップアップ"
+      "caption": "5月に100mを超える行列ができたパンの市場が、明日ソウル・聖水洞（ソンスドン）で再び開かれます。\n\n映像はSBS「スブスニュース」の『カッナオン・マットリ』が訪れた5月のパンリョク市場（빵력장터）です。パンコミュニティ「パンモーニング」（@bbang.morning）が、北加佐洞（プッカジャドン）の300坪（約990㎡）の空間に、実店舗を持たない、またはオンラインのみで販売するベーカリー25店を集めました。11時ちょうどに着いて行列に驚く場面は、このときのものです。\n\n2回目となる今回は、聖水のオブ・スタジオ（어브 스튜디오）約400坪（約1,320㎡）に場所を移し、ベーカリーに地元の人気店やリビング雑貨のブランドも加えた30あまりのブランドに広がりました。\n\n期間：10月30日（金）〜11月1日（日）\n場所：ソウル・城東区峨嵯山路11ガ通り6 オブ・スタジオ（聖水洞）\n映像：SBS スブスニュース\n#SENE #韓国パン #韓国旅行 #聖水 #ソウルポップアップ",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T14:36+09:00",
+       "sig": "fef17bba71",
+       "job": 157
+      }
      }
     }
    }
