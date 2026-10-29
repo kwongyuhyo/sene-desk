@@ -2183,11 +2183,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=uJqaGLmZpGo\n구간: 1:19-1:47\n곡: 私自身がなった\n아티스트: その圧制者に\n피처링:\n후킹: *チャニ*が戦うと誓った\n출처: Warner Bros.\n자막: 자동",
       "caption": "『デューン 砂の惑星PART3』が12月16日、韓国で世界に先駆けて公開されます。\n\n映像は前日の未明にワーナー・ブラザースの公式チャンネルで公開されたファイナル予告編で、「チャニが戦うと誓った圧制者に、私自身がなった」というセリフから始まる部分です。ポールとチャニが敵対することになる今作の骨格が、この一言に込められています。\n\n北米公開は12月18日で、韓国より2日遅れます。\n\n韓国公開：12月16日（水）\n映像：Warner Bros.\n#SENE #デューン #デューン砂の惑星PART3 #ティモシーシャラメ #ゼンデイヤ",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-29T19:31+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793270511/sene_studio/vduanf58wlb8qjpe3fhl.mp4",
+       "at": "2026-10-29T19:41+09:00",
+       "file": "sonoYaZhiZheni_SiZiShenganatta_KeolCheo_no_lyrics.mp4",
        "sig": "eb7c99fe88",
-       "job": 164
+       "v": "10e70b77"
       }
      }
     }
@@ -2705,10 +2706,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T19:38+09:00"
+  "at": "2026-10-29T19:41+09:00"
  },
  "queue": {
-  "next": "2026-10-29T19:40+09:00",
+  "next": "2026-10-29T19:43+09:00",
   "n": 0,
   "gap": 20
  },
