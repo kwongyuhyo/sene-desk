@@ -814,9 +814,141 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317491/d0lybghkvbwptyw1k9k1.jpg",
      "key": "egXq3n8UHfE@5.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-30T08:45+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793317743/sene_studio/cpnkvxzxcbijophwdpgq.mp4",
+     "at": "2026-10-30T08:49+09:00",
+     "file": "KDA_KaDeuLeul_JabJi_PyoJiCheoLeom_TeuLenDeu_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793317745756-4458822a",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 0.95,
+        "text": "J'ai envie de proposer"
+       },
+       {
+        "start": 0.95,
+        "end": 2.25,
+        "text": "aux fans quelque chose"
+       },
+       {
+        "start": 2.25,
+        "end": 3.38,
+        "text": "qui les sort un peu de"
+       },
+       {
+        "start": 3.38,
+        "end": 4.78,
+        "text": "l'univers classique à la"
+       },
+       {
+        "start": 4.78,
+        "end": 6.19,
+        "text": "fois K/DA et de League"
+       },
+       {
+        "start": 6.19,
+        "end": 7.02,
+        "text": "of Legends"
+       },
+       {
+        "start": 7.02,
+        "end": 8.21,
+        "text": "Une carte par membre du"
+       },
+       {
+        "start": 8.21,
+        "end": 9.46,
+        "text": "groupe à réaliser"
+       },
+       {
+        "start": 9.46,
+        "end": 9.99,
+        "text": "Les cartes"
+       },
+       {
+        "start": 9.99,
+        "end": 10.7,
+        "text": "elles ont été un peu"
+       },
+       {
+        "start": 10.7,
+        "end": 11.4,
+        "text": "pensées comme des"
+       },
+       {
+        "start": 11.4,
+        "end": 12.14,
+        "text": "couvertures de"
+       },
+       {
+        "start": 12.14,
+        "end": 12.92,
+        "text": "magazines"
+       },
+       {
+        "start": 12.92,
+        "end": 13.84,
+        "text": "une couverture un peu"
+       },
+       {
+        "start": 13.84,
+        "end": 14.58,
+        "text": "glamour"
+       },
+       {
+        "start": 14.58,
+        "end": 16.29,
+        "text": "J'adore la mode quand"
+       },
+       {
+        "start": 16.29,
+        "end": 17.0,
+        "text": "elle est le plus"
+       },
+       {
+        "start": 17.0,
+        "end": 18.04,
+        "text": "graphique possible"
+       },
+       {
+        "start": 18.04,
+        "end": 19.03,
+        "text": "d'où les références de"
+       },
+       {
+        "start": 19.03,
+        "end": 20.62,
+        "text": "vieux croquis de mode"
+       },
+       {
+        "start": 20.62,
+        "end": 21.57,
+        "text": "d'artistes comme René"
+       },
+       {
+        "start": 21.57,
+        "end": 22.96,
+        "text": "Gruau qui ont justement"
+       },
+       {
+        "start": 22.96,
+        "end": 24.72,
+        "text": "cette esthétique qui est"
+       },
+       {
+        "start": 24.72,
+        "end": 26.5,
+        "text": "très très graphique"
+       },
+       {
+        "start": 27.5,
+        "end": 39.98,
+        "text": "seekers"
+       }
+      ]
+     },
+     "v": "f8fec01d"
     }
    },
    "corner_name": "소식"
@@ -1187,10 +1319,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T08:47+09:00"
+  "at": "2026-10-30T08:49+09:00"
  },
  "queue": {
-  "next": "2026-10-30T08:50+09:00",
+  "next": "2026-10-30T08:51+09:00",
   "n": 0,
   "gap": 20
  },
