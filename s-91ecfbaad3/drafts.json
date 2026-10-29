@@ -918,9 +918,66 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242266/zuortaussszjfajebinn.jpg",
      "key": "a73BppPQJdY@15.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T11:51+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793242517/sene_studio/rnfxh7a6gcsot7xyehpr.mp4",
+     "at": "2026-10-29T11:55+09:00",
+     "file": "ONeul_AChim_SeongSuD_GyeoUl_Os_IbGo_Seoss_PaeSyeon_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793242516967-1a00fed1",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.7,
+        "text": "네, 검미언스카 먼저 부탁드리겠습니다"
+       },
+       {
+        "start": 2.7,
+        "end": 4.64,
+        "text": "검미언입니다"
+       },
+       {
+        "start": 9.22,
+        "end": 10.17,
+        "text": "검미언스카 다"
+       },
+       {
+        "start": 10.17,
+        "end": 10.96,
+        "text": "같이 보낸다"
+       },
+       {
+        "start": 10.96,
+        "end": 13.1,
+        "text": "한 번 부탁드립니다"
+       },
+       {
+        "start": 14.64,
+        "end": 15.25,
+        "text": "그대로 다"
+       },
+       {
+        "start": 15.25,
+        "end": 18.64,
+        "text": "같이 토라타 한 번 부탁드립니다. 검미언님"
+       },
+       {
+        "start": 24.64,
+        "end": 28.54,
+        "text": "그대로 시선을 왼쪽으로 다"
+       },
+       {
+        "start": 30.0,
+        "end": 30.4,
+        "text": "보세요"
+       },
+       {
+        "start": 30.4,
+        "end": 34.58,
+        "text": "다음 영상에서 만나요"
+       }
+      ]
+     },
+     "v": "37106ceb"
     }
    },
    "pick": {
@@ -1073,7 +1130,7 @@
   "week": "10/26~11/01",
   "days_left": 4,
   "done": 0,
-  "goal": 70,
+  "goal": 66,
   "corners": [
    {
     "key": "news",
@@ -1083,7 +1140,6 @@
     "left": 28,
     "need_today": 7,
     "day": null,
-    "mday": null,
     "next_no": null,
     "drafts": 5,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
@@ -1096,7 +1152,6 @@
     "left": 5,
     "need_today": 2,
     "day": null,
-    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "날짜·장소·가격이 있는 모음 (이번 주 성수 팝업 · 이번 달 개봉작). 순위는 매기지 않는다"
@@ -1109,7 +1164,6 @@
     "left": 1,
     "need_today": 0,
     "day": 4,
-    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "금요일 고정 — 이번 토·일에 갈 수 있는 팝업·전시·축제·놀거리를 날짜·장소·가격으로 묶는다"
@@ -1122,65 +1176,9 @@
     "left": 1,
     "need_today": 0,
     "day": 0,
-    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "월요일 고정 — 이번 주(월~일) 새로 여는 매장·팝업·전시 일정표"
-   },
-   {
-    "key": "mvspot",
-    "name": "성지순례",
-    "weekly": 1,
-    "done": 0,
-    "left": 1,
-    "need_today": 0,
-    "day": 2,
-    "mday": null,
-    "next_no": 1,
-    "drafts": 0,
-    "why": "수요일 고정 — 화제 된 MV·화보·예능이 어디서 찍혔나, 지금 가 볼 수 있나 (주소·운영·촬영 장면). 새 MV가 터지면 요일 밖에서도"
-   },
-   {
-    "key": "fave",
-    "name": "최애가 쓴 것",
-    "weekly": 1,
-    "done": 0,
-    "left": 1,
-    "need_today": 0,
-    "day": 1,
-    "mday": null,
-    "next_no": 1,
-    "drafts": 0,
-    "why": "화요일 고정 — 공식 인터뷰·공식 게시물에서 본인이 직접 말한 향수·책·카페·물건 (출처 장면과 함께)"
-   },
-   {
-    "key": "bdaymap",
-    "name": "이달의 생일카페·팝업 지도",
-    "weekly": 1,
-    "done": 0,
-    "left": 1,
-    "need_today": 0,
-    "day": null,
-    "mday": [
-     1,
-     15
-    ],
-    "next_no": 1,
-    "drafts": 0,
-    "why": "월간 — 1일에 이달 것, 15일에 남은 보름 것. 아이돌 생일카페·팝업·전시를 날짜·동네·주소로 한 장에"
-   },
-   {
-    "key": "concert",
-    "name": "콘서트 가는 날",
-    "weekly": 1,
-    "done": 0,
-    "left": 1,
-    "need_today": 1,
-    "day": null,
-    "mday": null,
-    "next_no": 1,
-    "drafts": 0,
-    "why": "큰 공연장(고척·KSPO·인스파이어·잠실·체조) 공연 전날·당일 — 가는 길·먹고 갈 곳·굿즈 줄·물품보관 (공식 공지 기준)"
    },
    {
     "key": "scene",
@@ -1190,7 +1188,6 @@
     "left": 10,
     "need_today": 3,
     "day": null,
-    "mday": null,
     "next_no": null,
     "drafts": 2,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
@@ -1203,7 +1200,6 @@
     "left": 6,
     "need_today": 2,
     "day": null,
-    "mday": null,
     "next_no": null,
     "drafts": 0,
     "why": "인터뷰·방송·예고편·브랜드 영상 속 사람이 한 말 (짧은 인용)"
@@ -1216,7 +1212,6 @@
     "left": 3,
     "need_today": 1,
     "day": null,
-    "mday": null,
     "next_no": 1,
     "drafts": 0,
     "why": "해부형 — 한 브랜드·공간·유행이 왜 지금인가. 장 붙은 캐러셀"
@@ -1229,7 +1224,6 @@
     "left": 3,
     "need_today": 1,
     "day": null,
-    "mday": null,
     "next_no": null,
     "drafts": 1,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
@@ -1242,7 +1236,6 @@
     "left": 7,
     "need_today": 2,
     "day": null,
-    "mday": null,
     "next_no": null,
     "drafts": 0,
     "why": "잘 된 글의 다음 편 — 연장·다음 도시·후속 컬렉션 (후속 기획 탭)"
@@ -1255,16 +1248,15 @@
     "left": 2,
     "need_today": 1,
     "day": null,
-    "mday": null,
     "next_no": null,
     "drafts": 0,
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T11:52+09:00"
+  "at": "2026-10-29T11:55+09:00"
  },
  "queue": {
-  "next": "2026-10-29T11:54+09:00",
+  "next": "2026-10-29T11:57+09:00",
   "n": 0,
   "gap": 20
  },
