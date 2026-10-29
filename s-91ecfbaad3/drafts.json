@@ -2817,11 +2817,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=xB3pZokr8co\n구간: 0:36-1:05\n곡: 俳優*チェ・ブラム*死去\n아티스트: 食卓を14年守った\n피처링:\n후킹: \n출처: KBSドキュメンタリー\n자막: 자동",
       "caption": "俳優のチェ・ブラム（최불암）さんが10月29日、87歳で亡くなりました。\n\n映像は2019年1月31日に放送されたKBS 1TV『韓国人の食卓』「丸い食卓が現れました」編の冒頭部分です。みんなで囲んで食べる丸い食卓を探しに出かけた回です。\n\nチェさんは2011年から14年間この番組の司会を務め、全国の食卓と、そのご飯を作る人々を訪ね歩きました。それ以前は『捜査班長』のパク班長、『田園日記』のヤンチョン里のキム会長でした。ご冥福をお祈りします。\n\n#SENE #チェブラム #韓国人の食卓 #田園日記 #韓国ドラマ",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-30T04:06+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793301106/sene_studio/sg4tlfojldeijihuv0hq.mp4",
+       "at": "2026-10-30T04:11+09:00",
+       "file": "ShiZhuoo14NianShoutt_PaiYouchie-buramuSiQ_KeolCheo_no_lyrics.mp4",
        "sig": "ddd09c5f0b",
-       "job": 169
+       "v": "f1639177"
       }
      }
     }
@@ -3073,7 +3074,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T04:09+09:00"
+  "at": "2026-10-30T04:11+09:00"
  },
  "queue": {
   "next": "2026-10-30T08:00+09:00",
