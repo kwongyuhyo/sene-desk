@@ -1013,13 +1013,26 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=a73BppPQJdY\n구간: 0:15-0:50\n곡: dressed for winter\n아티스트: \n피처링:\n후킹: *KiiiKiii*, all five,\n출처: topstarnews (Top Star News)\n자막: 자동",
-      "caption": "All five members of KiiiKiii stood together this morning at the Rockfish Weatherwear store in Seongsu-dong.\n\nThe footage comes from the photo wall marking the brand's '26 Winter Presentation', and it isn't the group's first time working with the brand. Member Haum earlier fronted the brand's 26FW 'Rockfish Node' campaign on her own.\n\nIf that campaign was Haum's winter alone, today Jiyu, Leesol, Sui, Haum and Kya all stood in the same spot.\n\nDate: Oct 29 (Thu), morning\nLocation: Rockfish Weatherwear Seongsu store, Seongsu-dong, Seongdong-gu, Seoul\nVideo: topstarnews (Top Star News)\n#SENE #KiiiKiii #RockfishWeatherwear #Seongsu #SeoulFashion"
+      "caption": "All five members of KiiiKiii stood together this morning at the Rockfish Weatherwear store in Seongsu-dong.\n\nThe footage comes from the photo wall marking the brand's '26 Winter Presentation', and it isn't the group's first time working with the brand. Member Haum earlier fronted the brand's 26FW 'Rockfish Node' campaign on her own.\n\nIf that campaign was Haum's winter alone, today Jiyu, Leesol, Sui, Haum and Kya all stood in the same spot.\n\nDate: Oct 29 (Thu), morning\nLocation: Rockfish Weatherwear Seongsu store, Seongsu-dong, Seongdong-gu, Seoul\nVideo: topstarnews (Top Star News)\n#SENE #KiiiKiii #RockfishWeatherwear #Seongsu #SeoulFashion",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793242716/sene_studio/hu6mdfgbkxnzukjo1bwa.mp4",
+       "at": "2026-10-29T11:58+09:00",
+       "file": "unknown_dressed_for_winter_PaeSyeon_no_lyrics.mp4",
+       "sig": "8c3de2110d",
+       "v": "5dc99787"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=a73BppPQJdY\n구간: 0:15-0:50\n곡: 冬服で並んだ\n아티스트: 今朝の聖水洞で\n피처링:\n후킹: *キキ*5人が\n출처: topstarnews（トップスターニュース）\n자막: 자동",
-      "caption": "KiiiKiii（キキ）が今日の午前、ソウル・聖水洞（ソンスドン）のロックフィッシュウェザーウェア（ROCKFISH WEATHERWEAR）の店舗に5人そろって立ちました。\n\n映像はブランドの「'26 ウィンター・プレゼンテーション」を記念したフォトウォールの場面ですが、このブランドとの縁は今回が初めてではありません。メンバーのハウムが先に、26FW「ロックフィッシュ ノード」のビジュアルに一人で登場したブランドです。\n\nあの撮影がハウム一人の冬だったなら、今日はジユ・イソル・スイ・ハウム・キヤの5人全員が同じ場所に立ちました。\n\n日時：10月29日（木）午前\n場所：ソウル・聖水洞（ソンスドン） ロックフィッシュウェザーウェア 聖水店\n映像：topstarnews（トップスターニュース）\n#SENE #キキ #KiiiKiii #ロックフィッシュウェザーウェア #聖水 #韓国ファッション"
+      "caption": "KiiiKiii（キキ）が今日の午前、ソウル・聖水洞（ソンスドン）のロックフィッシュウェザーウェア（ROCKFISH WEATHERWEAR）の店舗に5人そろって立ちました。\n\n映像はブランドの「'26 ウィンター・プレゼンテーション」を記念したフォトウォールの場面ですが、このブランドとの縁は今回が初めてではありません。メンバーのハウムが先に、26FW「ロックフィッシュ ノード」のビジュアルに一人で登場したブランドです。\n\nあの撮影がハウム一人の冬だったなら、今日はジユ・イソル・スイ・ハウム・キヤの5人全員が同じ場所に立ちました。\n\n日時：10月29日（木）午前\n場所：ソウル・聖水洞（ソンスドン） ロックフィッシュウェザーウェア 聖水店\n映像：topstarnews（トップスターニュース）\n#SENE #キキ #KiiiKiii #ロックフィッシュウェザーウェア #聖水 #韓国ファッション",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-29T11:55+09:00",
+       "sig": "9ce428196a",
+       "job": 154
+      }
      }
     }
    }
@@ -1253,10 +1266,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T11:55+09:00"
+  "at": "2026-10-29T11:58+09:00"
  },
  "queue": {
-  "next": "2026-10-29T11:57+09:00",
+  "next": "2026-10-29T12:00+09:00",
   "n": 0,
   "gap": 20
  },
