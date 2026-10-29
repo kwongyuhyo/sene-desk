@@ -1875,11 +1875,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=qdEx8brOIu0\n구간: 0:05-0:40\n곡: DUNSTの新しい顔に\n아티스트: *ソルユン*が\n피처링:\n후킹: 本に隠れた顔、\n출처: Dunst\n자막: 자동",
       "caption": "NMIXX（@nmixx_official）のソルユンが、ダンスト（DUNST・@dunst_official）のグローバルアンバサダーとして初のキャンペーンを撮影しました。\n\n映像はDUNSTが公式チャンネルに公開した2026年冬キャンペーン'GOOD GIRL, STRANGE ROOM'。幼い頃の記憶と想像が混ざり合う部屋という設定の中で、ソルユンがコート、ニット、ダウンをまとって動きます。\n\n9月にDUNST初のソウルファッションウィークのショーに来場したソルユンは、同じ月にソウル・聖水洞（ソンスドン）のフラッグシップストアを訪問。その1か月後、ブランドの顔になりました。\n\nキャンペーン：'GOOD GIRL, STRANGE ROOM'（10月23日公開）\n映像：Dunst\n#SENE #NMIXX #ソルユン #DUNST #韓国ファッション #聖水",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-29T17:56+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793264549/sene_studio/y9k1zc71pqt8gkpcortl.mp4",
+       "at": "2026-10-29T18:02+09:00",
+       "file": "soruyunga_DUNSTnoXinshiiYanni_PaeSyeon_no_lyrics.mp4",
        "sig": "817e70b5d4",
-       "job": 161
+       "v": "e6f7bb89"
       }
      }
     }
@@ -2394,10 +2395,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T18:01+09:00"
+  "at": "2026-10-29T18:02+09:00"
  },
  "queue": {
-  "next": "2026-10-29T18:03+09:00",
+  "next": "2026-10-29T18:04+09:00",
   "n": 0,
   "gap": 20
  },
