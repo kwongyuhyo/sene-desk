@@ -320,7 +320,7 @@ details.formFold>summary{cursor:pointer; font-size:12.5px; color:var(--faint); p
 .ppTab[hidden]{display:none}
 .ppOver .sub{position:absolute; left:180px; width:700px; bottom:740px; top:auto; transform:none;
   text-align:center; color:#F5F2EC; font-family:SenePM,Pretendard,sans-serif; font-weight:500; font-size:46px; line-height:1.3;
-  text-shadow:0 3px 8px rgba(0,0,0,.55), 0 0 28px rgba(0,0,0,.4);
+  text-shadow:0 0 2px rgba(0,0,0,.45), 0 3px 8px rgba(0,0,0,.55), 0 0 24px rgba(0,0,0,.5);   /* 10/29 밝은 화면 */
   text-wrap:balance; white-space:pre-line}
 .ppOver .sub:empty{display:none}
 .ppOver[hidden]{display:none}
@@ -1031,7 +1031,7 @@ html:root[data-fs="xl"] body{ zoom:1.26 }
         return r.status === 204 ? null : r.text().then(function (t) { return t ? JSON.parse(t) : null; });
       });
   }
-  var LIMIT = { shorts: 3 * 60e3, caption: 5 * 60e3, cut: 40 * 60e3, carousel: 10 * 60e3, special: 3 * 60e3, raw: 15 * 60e3, cardvid: 30 * 60e3, subs: 8 * 60e3 };
+  var LIMIT = { shorts: 3 * 60e3, caption: 5 * 60e3, cut: 40 * 60e3, carousel: 10 * 60e3, special: 3 * 60e3, raw: 15 * 60e3, cardvid: 30 * 60e3, subs: 8 * 60e3, ai_edit: 5 * 60e3 };
   function send(op, data, onStep) {
     var id = 'st:' + Date.now() + '-' + Math.random().toString(36).slice(2, 6);
     var sn = { op: op, at: new Date().toISOString() };
@@ -2142,7 +2142,7 @@ function buildBlock(b) {
       </span>
     </div>
 
-    <label>헤드라인 윗줄 <span class="opt">— 선택 · 두 줄로 쓸 때 위</span></label>
+    <label data-r="titleLbl">헤드라인 윗줄 <span class="opt">— 선택 · 두 줄로 쓸 때 위</span></label>
     <input type="text" data-f="hook" placeholder="한소희가 직접 그린">
 
     <label>헤드라인 <span class="opt">— 필수 · 맨 아래 큰 글씨 (한 줄이면 여기만)</span></label>
@@ -2258,6 +2258,16 @@ function buildBlock(b) {
       importText(t, true);
     });
   });
+
+  { // 헤드라인 AI 손보기 (10/29) — 두 줄(윗줄·헤드라인)을 함께
+    const lbl = body.querySelector('[data-r=titleLbl]');
+    if (lbl && typeof aiButton === 'function') lbl.appendChild(aiButton(() => aiSheet('hook',
+      () => [b.hook, b.title].map(x => String(x || '').trim()).filter(Boolean).join(' / '),
+      (v) => { const xs = String(v).split(/\s*\/\s*|\n|\|/).map(x => x.trim()).filter(Boolean);
+               b.hook = xs.length > 1 ? xs[0] : ''; b.title = xs.length > 1 ? xs.slice(1).join(' ') : (xs[0] || ''); sync(); refresh(); },
+      () => ({ '카테고리': b.cat || '', '원본': b.url || '', '구간': (b.start || '') + '-' + (b.end || ''), '출처': b.source || '',
+               '캡션': String(b.caption || '').slice(0, 400) }), '숏폼 헤드라인')));
+  }
 
   head.onclick = () => {
     const open = root.classList.contains('open');
@@ -4413,6 +4423,75 @@ function copy(text, msg) {
 }
 
 let toastT;
+/* ── AI 손보기 (10/29 규효 "제작에도 초안처럼 AI 수정 기능") — 맥 op=ai_edit (generators/ai_edit) ─────────────
+   칸 하나의 글을 작성기가 2~3안으로 고쳐 준다. 고른 안만 칸에 들어간다 (고르기 전엔 아무것도 안 바뀜). */
+const AI_ACTS = {
+  cover:    [["strong", "✨ 더 끌리게 3안"], ["polish", "다듬기"], ["short", "더 짧게"], ["fix", "맞춤법만"], ["custom", "직접 지시"]],
+  hook:     [["strong", "✨ 새 제목 3안"], ["polish", "다듬기"], ["short", "더 짧게"], ["fix", "맞춤법만"], ["custom", "직접 지시"]],
+  heading:  [["polish", "다듬기"], ["strong", "더 끌리게"], ["short", "더 짧게"], ["fix", "맞춤법만"], ["custom", "직접 지시"]],
+  subtitle: [["polish", "다듬기"], ["short", "더 짧게"], ["fix", "맞춤법만"], ["custom", "직접 지시"]],
+  body:     [["polish", "다듬기"], ["short", "더 짧게"], ["fix", "맞춤법·띄어쓰기만"], ["custom", "직접 지시"]],
+  caption:  [["polish", "다듬기"], ["short", "더 짧게"], ["strong", "첫 줄 더 끌리게"], ["fix", "맞춤법만"], ["custom", "직접 지시"]],
+  subs:     [["fix", "받아쓰기 오타·이름 고치기"], ["custom", "직접 지시"]],
+};
+function aiSheet(kind, getText, setText, ctxOf, title) {
+  if (!(window.plotStudio && plotStudio.on && plotStudio.on())) { toast("맥 연결이 없어 AI 손보기를 못 씁니다"); return; }
+  const old = document.getElementById("aiSheet"); if (old) old.remove();
+  const sh = document.createElement("div"); sh.id = "aiSheet";
+  sh.style.cssText = "position:fixed;inset:0;z-index:9999;background:rgba(0,0,0,.45);display:flex;align-items:flex-end;justify-content:center";
+  const pn = document.createElement("div");
+  pn.style.cssText = "width:100%;max-width:560px;max-height:82vh;overflow:auto;background:#1c1c1e;color:#f2f2f2;border-radius:16px 16px 0 0;" +
+    "padding:16px 16px calc(16px + env(safe-area-inset-bottom));font:15px/1.45 system-ui,-apple-system,sans-serif;box-sizing:border-box";
+  sh.append(pn);
+  const btn = (label, fn, strong) => {
+    const b = document.createElement("button"); b.type = "button";
+    b.style.cssText = "display:block;width:100%;text-align:left;margin:6px 0;padding:11px 13px;border-radius:11px;border:1px solid rgba(255,255,255,.14);" +
+      "background:" + (strong ? "#f2f2f2;color:#111" : "rgba(255,255,255,.06);color:#f2f2f2") + ";font:inherit;font-weight:600;cursor:pointer;white-space:pre-wrap";
+    b.textContent = label;
+    b.onclick = fn; pn.append(b); return b;
+  };
+  const head = (t) => { const d = document.createElement("div"); d.style.cssText = "font-weight:800;margin:0 2px 8px"; d.textContent = t; pn.append(d); return d; };
+  const close = () => sh.remove();
+  sh.addEventListener("click", (e) => { if (e.target === sh) close(); });
+  const menu = () => {
+    pn.innerHTML = "";
+    head("✨ AI 손보기 — " + (title || kind));
+    const pre = document.createElement("div");
+    pre.style.cssText = "opacity:.7;font-size:13px;white-space:pre-wrap;margin:0 2px 8px;max-height:120px;overflow:auto";
+    pre.textContent = String(getText() || "") || "(비어 있음)"; pn.append(pre);
+    (AI_ACTS[kind] || AI_ACTS.body).forEach(([act, label]) => btn(label, () => { if (act === "custom") ask(); else run(act, ""); }, act === "strong"));
+    btn("닫기", close);
+  };
+  const ask = () => {
+    pn.innerHTML = ""; head("어떻게 고칠까요?");
+    const ta = document.createElement("textarea"); ta.rows = 3; ta.placeholder = "예) 아티스트 이름을 앞으로 · 존댓말로 · 숫자 빼고";
+    ta.style.cssText = "width:100%;box-sizing:border-box;border-radius:10px;padding:10px;font:inherit;background:#2a2a2c;color:#fff;border:1px solid rgba(255,255,255,.2)";
+    pn.append(ta); setTimeout(() => ta.focus(), 50);
+    btn("보내기", () => { if (ta.value.trim()) run("custom", ta.value.trim()); }, true);
+    btn("뒤로", menu);
+  };
+  const run = (act, askTxt) => {
+    pn.innerHTML = ""; const h = head("작성기가 고치는 중… (20~60초)");
+    plotStudio.send("ai_edit", { kind: kind, act: act, text: String(getText() || ""), ask: askTxt, ctx: (ctxOf && ctxOf()) || {} },
+      (step) => { h.textContent = "✨ " + step; })
+      .then((sn) => {
+        pn.innerHTML = ""; head("하나를 고르면 그 칸에 들어갑니다");
+        if (sn.note) { const n = document.createElement("div"); n.style.cssText = "font-size:12.5px;opacity:.75;margin:0 2px 6px"; n.textContent = "📝 " + sn.note; pn.append(n); }
+        (sn.options || []).forEach((o) => btn(o, () => { setText(o); close(); toast("✓ 바꿨습니다 — 마음에 안 들면 그 칸에서 고치세요"); }));
+        btn("다른 손보기", menu); btn("닫기", close);
+      })
+      .catch((e) => { pn.innerHTML = ""; head("못 고쳤습니다 — " + String((e && e.message) || e).slice(0, 120)); btn("다시", menu); btn("닫기", close); });
+  };
+  menu();
+  document.body.append(sh);
+}
+function aiButton(onClick) {
+  const b = document.createElement("button"); b.type = "button"; b.textContent = "✨ AI"; b.className = "aiBtn";
+  b.style.cssText = "margin-left:8px;padding:2px 9px;border-radius:999px;border:1px solid currentColor;background:none;color:inherit;font:inherit;font-size:12px;opacity:.85;cursor:pointer;vertical-align:middle";
+  b.addEventListener("click", (e) => { e.preventDefault(); e.stopPropagation(); onClick(); });
+  return b;
+}
+
 function toast(msg) {
   const t = $('#toast');
   t.textContent = msg; t.classList.add('on');
@@ -5005,6 +5084,7 @@ function stBuild() {
     '<span class="stHint">' + (stPrNow() ? '눈금 끌기=재생 헤드 · 휠=이동 · ⌥/⌘+휠=확대 · Space 재생 · J K L · C 자르기 · I/O · ↑↓ 편집점 · U 확인할 줄 · \\ 맞춤 · S 붙기'
       : '타임라인을 밀어 이동 · 블록을 끌어 옮기기 · 양 끝으로 길이') + '</span>' +
     '<button type="button" class="stB stChk" data-st="chk" hidden title="확인할 줄로 (U) — 받아쓰기가 자신 없었거나 유튜브 자막과 다른 줄"></button>' +
+    '<button type="button" class="stB" data-st="ai" title="AI 로 받아쓰기 오타·이름 고치기 (줄·시간은 그대로)">✨ AI</button>' +
     '<button type="button" class="stB" data-st="undo" title="되돌리기 (⌘Z)">↶</button>' +
     '<button type="button" class="stB" data-st="zout" title="축소 (-)">−</button><button type="button" class="stB" data-st="zin" title="확대 (+)">＋</button></div>' +
     '<div class="stWrap"><div class="stScroll"><div class="stInner"><div class="stRuler"></div><div class="stTrack"></div></div></div><i class="stHeadLine"></i></div>' +
@@ -5214,6 +5294,18 @@ function stAct(a) {
   const segs = stSegs(), s = segs[ST.sel], t = stHeadRel();
   if (a === 'play') { ppSetPaused(!PP.paused); stNowPaint(t); return; }
   if (a === 'undo') return stUndo();
+  if (a === 'ai') {                                   // 10/29 자막 AI 손보기 — 줄 수·시간 그대로, 글만
+    const b = PP.b;
+    aiSheet('subs', () => stSegs().map((x) => x.text).join('\n'), (v) => {
+      const xs = String(v).split('\n'), sg = stSegs();
+      if (xs.length !== sg.length) { toast('줄 수가 달라 넣지 않았습니다'); return; }
+      stPush();
+      sg.forEach((x, i) => { if (x.text !== xs[i]) { x.text = xs[i]; x.chk = false; } });
+      b.subsRef.edited = true; ppSubsSave(); stPaintBlocks(); stChkPaint();
+    }, () => ({ '카테고리': (b && (b.cat === '__custom__' ? b.custom : b.cat)) || '', '제목': b ? [b.hook, b.artist, b.title].filter(Boolean).join(' / ') : '',
+                '출처': (b && b.source) || '', '음원': (b && b.song) || '', '원본': (b && b.url) || '' }), '말자막');
+    return;
+  }
   if (a === 'chk') {                                  // 10/27 다음 확인할 줄로 (재생 헤드 뒤 첫 줄, 없으면 처음부터)
     const i = segs.findIndex((x) => x.chk && x.start > t + 0.05), k = i >= 0 ? i : segs.findIndex((x) => x.chk);
     if (k < 0) { toast('확인할 줄이 없습니다'); return; }
@@ -5373,9 +5465,9 @@ window.addEventListener('resize', () => { if ($('#ppSubList') && $('#ppSubList')
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.29 13:24';
+    a.title = '판 10.29 14:09';
     var ver = document.createElement('span');
-    ver.textContent = '10.29 13:24';
+    ver.textContent = '10.29 14:09';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
