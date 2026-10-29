@@ -108,11 +108,6 @@
      "v": "e3c0bdc5"
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "장원영이 다녀간 전시가 오늘 개막 — 프리뷰 영상으로 출근길 숏폼, 예약제라 오늘 알아야 쓸모",
-    "at": "2026-10-29T08:34+09:00"
-   },
    "corner_name": "현장",
    "i18n_queued": "2026-10-29T08:34+09:00",
    "i18n": {
@@ -159,6 +154,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "장원영이 프리뷰에 선 전시가 오늘 개막 — 예약제라 오늘 알아야 쓸모, 숏폼",
+    "at": "2026-10-29T11:50+09:00"
    }
   },
   {
@@ -269,11 +269,6 @@
       "J": "d6c7dff9"
      }
     }
-   },
-   "pick": {
-    "rank": 2,
-    "why": "케이팝 팬이 가장 자주 가는 공연장 중 하나의 이름이 바뀐다 — 연말 공연 예매 전에 저장할 정보",
-    "at": "2026-10-29T08:34+09:00"
    },
    "corner_name": "소식",
    "i18n_queued": "2026-10-29T08:34+09:00",
@@ -427,11 +422,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 3,
-    "why": "사흘 뒤 시행 — 11월 일본 여행·덕질 원정 가는 독자 모두의 공항 순서가 바뀐다",
-    "at": "2026-10-29T08:34+09:00"
-   },
    "corner_name": "이슈",
    "i18n_queued": "2026-10-29T08:34+09:00",
    "i18n": {
@@ -485,6 +475,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "사흘 뒤 시행 — 11월 일본 여행·원정 덕질 가는 독자의 공항 순서가 바뀐다",
+    "at": "2026-10-29T11:50+09:00"
    }
   },
   {
@@ -842,6 +837,199 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:kiiikiii-rockfish-seongsu-shorts",
+    "account": "조이뉴스24",
+    "url": "https://www.joynews24.com/view/2020338",
+    "image": null,
+    "head": "[포토] 키키 '겨울 요정으로 변신' — 락피쉬웨더웨어 '26 윈터 프레젠테이션 기념 포토월, 29일 오전 성수점",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T11:50+09:00",
+   "key": "1a00fed1",
+   "by": "claude",
+   "subjects": [
+    "키키",
+    "락피쉬웨더웨어"
+   ],
+   "lane": "현장",
+   "editor": {
+    "grade": "A",
+    "kind": "현장",
+    "angle": "키키 다섯 명이 오늘 오전 성수 락피쉬웨더웨어 매장 포토월에 — 하음이 먼저 26FW 화보를 찍은 그 브랜드",
+    "why": "오늘 오전 행사라 지금 가장 새 케이팝 현장 · 다섯 명 완전체 장면 — 팬이 공유할 숏폼"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T11:50+09:00",
+   "corner": "scene",
+   "shorts": {
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=a73BppPQJdY\n구간: 0:15-0:50\n곡: 겨울 옷 입고 섰다\n아티스트: 오늘 아침 성수동\n피처링:\n후킹: *키키* 다섯 명이\n출처: topstarnews(톱스타뉴스)\n자막: 자동",
+    "caption": "키키가 오늘 오전 성수동 락피쉬웨더웨어 매장에 다섯 명이 함께 섰습니다.\n\n영상은 브랜드의 '26 윈터 프레젠테이션' 기념 포토월 장면인데요, 이 브랜드와는 처음 만나는 사이가 아닙니다. 멤버 하음이 앞서 26FW '락피쉬 노드' 화보에 혼자 나섰던 브랜드입니다.\n\n그 화보가 하음 한 사람의 겨울이었다면, 오늘은 지유·이솔·수이·하음·키야 다섯 명이 모두 같은 자리에 섰습니다.\n\n일시: 10월 29일(목) 오전\n장소: 서울 성동구 성수동 락피쉬웨더웨어 성수점\n영상: topstarnews(톱스타뉴스)\n#SENE #키키 #KiiiKiii #락피쉬웨더웨어 #성수",
+    "hooks": {
+     "A": "*키키* 다섯 명이 / 오늘 아침 성수동 / 겨울 옷 입고 섰다",
+     "B": "하음이 화보 찍은 / 그 브랜드 매장에 / *키키* 다섯이 모였다",
+     "C": "오늘 오전 성수 / *키키* 완전체 / 포토월 현장"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=a73BppPQJdY",
+     "credit": "topstarnews(톱스타뉴스)",
+     "range": [
+      15.0,
+      50.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 중간 — topstarnews(톱스타뉴스) (연예 영상 매체 · 0:15-0:50 = 35초 · 자막 없는 포토월 영상이라 구간 화면이 다섯 명 장면인지 한 번 보기)",
+     "브랜드 행사 포토월이라 광고판 경계 — 키키가 입은 제품명은 브랜드 발표가 없어 쓰지 않았음"
+    ],
+    "research": [
+     {
+      "title": "조이뉴스24 — 29일 오전 성수동 락피쉬웨더웨어 성수점 '26 윈터 프레젠테이션 기념 포토월",
+      "link": "https://www.joynews24.com/view/2020338"
+     },
+     {
+      "title": "싱글리스트 — 키키 '다섯 명의 겨울 요정들' (락피쉬웨더웨어 성수점, 29일 오전)",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=777388"
+     },
+     {
+      "title": "지피코리아 — 락피쉬웨더웨어, 키키 하음과 26FW 화보…'락피쉬 노드'",
+      "link": "https://www.gpkorea.com/news/articleView.html?idxno=147065"
+     },
+     {
+      "title": "한국섬유신문 — 락피쉬웨더웨어, 키키 하음과 '락피쉬 노드' 26FW 화보 공개",
+      "link": "http://www.ktnews.com/news/articleView.html?idxno=148854"
+     },
+     {
+      "title": "topstarnews 유튜브 — 키키 락피쉬 웨더웨어 포토월",
+      "link": "https://www.youtube.com/watch?v=a73BppPQJdY"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/a73BppPQJdY/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242266/zuortaussszjfajebinn.jpg",
+     "key": "a73BppPQJdY@15.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-29T11:51+09:00"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 오전 성수에서 찍힌 키키 다섯 명 완전체 장면 — 지금 가장 새 케이팝 현장 숏폼",
+    "at": "2026-10-29T11:50+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-10-29T11:51+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:hanroro-first-arena",
+    "account": "NOL 티켓 공식 예매 페이지",
+    "url": "https://nol.yanolja.com/ticket/products/26015537",
+    "image": null,
+    "head": "한로로 (HANRORO) 5th 단독콘서트 [물음표] — NOL 티켓",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-29T11:50+09:00",
+   "key": "94c30fc0",
+   "by": "claude",
+   "subjects": [
+    "한로로"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "한로로 첫 아레나 단독 〈물음표〉 1/2~3 — 예매 페이지엔 공연장이 이미 새 이름 '네이버 아레나'로, 11/13 18시 예매",
+    "why": "전 회차 매진을 이어 온 공연의 첫 아레나 — 예매 날짜·가격을 저장할 정보, 오늘 아침 네이버 아레나 이름 바뀜 초안과 이어진다"
+   },
+   "added": "claude",
+   "added_at": "2026-10-29T11:50+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n한로로가 데뷔 뒤 처음으로 아레나에서 단독 콘서트를 엽니다.\n\n다섯 번째 단독 콘서트 〈물음표〉인데요, 2027년 1월 2일과 3일 이틀 동안 영종도 인스파이어 아레나에서 열립니다. 예매처 NOL 공연 페이지에는 공연장이 12월부터 쓰는 새 이름 '네이버 아레나 앳 인스파이어'로 적혀 있습니다.\n\n표를 찾을 때는 두 이름이 같은 곳이라는 것만 기억하면 됩니다. 1층은 스탠딩, 2·3층은 지정석입니다.\n\n일시: 2027년 1월 2일(토) 오후 6시 · 3일(일) 오후 5시\n장소: 인천 영종도 네이버 아레나 (옛 인스파이어 아레나)\n예매: NOL 티켓 · 11월 13일(금) 오후 6시 일반 판매\n가격: 1층 스탠딩·2층 지정석 143,000원 · 3층 지정석 132,000원\n#SENE #한로로 #물음표 #네이버아레나 #인스파이어아레나\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793242252/k420bjoqffkvte0kpatn.jpg\n제목: 한로로, 첫 아레나 공연|1월 2·3일 영종도\n부제: 다섯 번째 단독 〈물음표〉 · 예매 11월 13일 오후 6시\n출처: 어센틱\n",
+    "caption": "한로로가 데뷔 뒤 처음으로 아레나에서 단독 콘서트를 엽니다.\n\n다섯 번째 단독 콘서트 〈물음표〉인데요, 2027년 1월 2일과 3일 이틀 동안 영종도 인스파이어 아레나에서 열립니다. 예매처 NOL 공연 페이지에는 공연장이 12월부터 쓰는 새 이름 '네이버 아레나 앳 인스파이어'로 적혀 있습니다.\n\n표를 찾을 때는 두 이름이 같은 곳이라는 것만 기억하면 됩니다. 1층은 스탠딩, 2·3층은 지정석입니다.\n\n일시: 2027년 1월 2일(토) 오후 6시 · 3일(일) 오후 5시\n장소: 인천 영종도 네이버 아레나 (옛 인스파이어 아레나)\n예매: NOL 티켓 · 11월 13일(금) 오후 6시 일반 판매\n가격: 1층 스탠딩·2층 지정석 143,000원 · 3층 지정석 132,000원\n#SENE #한로로 #물음표 #네이버아레나 #인스파이어아레나",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242252/k420bjoqffkvte0kpatn.jpg",
+      "credit": "어센틱",
+      "from": "https://isplus.com/data/isp/image/2026/10/25/isp20261025000008.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242254/wkx6vcqlwjvsjz2q3a6u.jpg",
+      "credit": "NOL 티켓",
+      "from": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20261023085031.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242252/k420bjoqffkvte0kpatn.jpg",
+      "credit": "어센틱",
+      "from": "https://isplus.com/data/isp/image/2026/10/25/isp20261025000008.800x.0.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242254/wkx6vcqlwjvsjz2q3a6u.jpg",
+      "credit": "NOL 티켓",
+      "from": "https://ticketimage.interpark.com/TicketImage/notice_poster/20/20261023085031.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "한로로, 첫 아레나 공연|1월 2·3일 영종도",
+      "sub": "다섯 번째 단독 〈물음표〉 · 예매 11월 13일 오후 6시"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "선예매(팬클럽) 여부·일정은 확인 못 함 — 캡션엔 NOL 페이지의 일반 판매 일시만",
+     "표지는 기사 대표 사진 — 공식 포스터가 아니면 NOL 페이지 포스터로 바꾸기"
+    ],
+    "research": [
+     {
+      "title": "NOL 티켓 — 2027.1.2(토) 18시·1.3(일) 17시 · 네이버 아레나 at 인스파이어 리조트(구 인스파이어 아레나) · 일반 판매 11/13(금) 18시 · 143,000/132,000원 · 주최 어센틱 · 주관 원더로크",
+      "link": "https://nol.yanolja.com/ticket/products/26015537"
+     },
+     {
+      "title": "일간스포츠 — 한로로, 인스파이어 아레나서 첫 아레나 단독 콘서트 (23일 공식 SNS 발표)",
+      "link": "https://isplus.com/article/view/isp202610250010"
+     },
+     {
+      "title": "서울경제 — 한로로, 인스파이어 아레나서 단독 콘서트 연다",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DSTVENDhDYmpUZFk1WFJ3NTk4MW5mdVdBSkRNMDhHb21FXzFlZGs1eWF2bWk0d0o5dlIwQ1MwS1ZqbWF0bElUdktPQmVWZUlaMHfSAVNBVV95cUxNeFJRdEZkTFR0Y3FDMlR3VG5jZ29qWm5Kd0lJbDhhT2ZSMmZFZUtHTUV5YmloX0ZkbWs1cEt4TjMtRzE3NU9HQzhMUGRJQkphZTRBMA?oc=5"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242269/dbzzsodrpgnos8jpv4en.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242269/igre1i7mew9q3ltbsz6i.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793242269/dbzzsodrpgnos8jpv4en.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-29T11:51+09:00",
+     "v": {
+      "A": "10054f30"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -861,7 +1049,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 4,
+    "drafts": 5,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -968,7 +1156,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 2,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
    },
    {
@@ -1037,10 +1225,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T08:54+09:00"
+  "at": "2026-10-29T11:51+09:00"
  },
  "queue": {
-  "next": "2026-10-29T08:56+09:00",
+  "next": "2026-10-29T11:53+09:00",
   "n": 0,
   "gap": 20
  },
