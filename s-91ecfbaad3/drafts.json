@@ -514,6 +514,432 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-789cd38f",
+    "account": "@속보",
+    "url": "https://www.cstimes.com/news/articleView.html?idxno=725939",
+    "image": null,
+    "head": "무신사 뷰티, 11월 11일 성수 연무장길에 두 번째 단독 매장 오픈",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-30T08:39+09:00",
+   "key": "e0671344",
+   "by": "claude",
+   "subjects": [
+    "무신사 뷰티"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "홍대에 이어 두 번째 단독 매장 — 11월 11일 성수 연무장길, 약국까지 들인 400평",
+    "why": "오늘 아침 여러 매체가 동시에 낸 오픈 일정 — 날짜·주소가 확정된 성수 새 매장"
+   },
+   "added": "claude",
+   "added_at": "2026-10-30T08:39+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n뷰티\n\n[캡션]\n무신사 뷰티가 11월 11일 성수동 연무장길에 두 번째 단독 매장을 엽니다.\n\n지난 9월 문을 연 홍대 매장에 이은 곳인데요, 지상 1~2층 약 400평에 약 700개 브랜드, 1만여 개 상품이 들어옵니다. 무신사는 이 가운데 99개 브랜드가 무신사 뷰티 오프라인 매장에 처음 입점한다고 밝혔습니다.\n\n눈에 띄는 건 2층입니다. 뷰티 특화 약국 '뷰티온누리약국'이 함께 들어서, 약사와 상담하며 제품을 고를 수 있는 자리가 마련됩니다.\n\n기간: 11월 11일(수) 오픈\n장소: 서울 성동구 연무장길 87\n\n#SENE #무신사뷰티 #무신사뷰티성수 #성수 #연무장길\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317161/fm2nds8s6kvv2xlnffny.jpg\n제목: 무신사 뷰티, 성수에|두 번째 매장 오픈\n부제: 11월 11일 · 연무장길 87\n출처: 무신사\n",
+    "caption": "무신사 뷰티가 11월 11일 성수동 연무장길에 두 번째 단독 매장을 엽니다.\n\n지난 9월 문을 연 홍대 매장에 이은 곳인데요, 지상 1~2층 약 400평에 약 700개 브랜드, 1만여 개 상품이 들어옵니다. 무신사는 이 가운데 99개 브랜드가 무신사 뷰티 오프라인 매장에 처음 입점한다고 밝혔습니다.\n\n눈에 띄는 건 2층입니다. 뷰티 특화 약국 '뷰티온누리약국'이 함께 들어서, 약사와 상담하며 제품을 고를 수 있는 자리가 마련됩니다.\n\n기간: 11월 11일(수) 오픈\n장소: 서울 성동구 연무장길 87\n\n#SENE #무신사뷰티 #무신사뷰티성수 #성수 #연무장길",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317161/fm2nds8s6kvv2xlnffny.jpg",
+      "credit": "무신사",
+      "from": "https://www.segye.com/content/image/2026/10/30/20261030502990.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317161/fm2nds8s6kvv2xlnffny.jpg",
+      "credit": "무신사",
+      "from": "https://www.segye.com/content/image/2026/10/30/20261030502990.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "무신사 뷰티, 성수에|두 번째 매장 오픈",
+      "sub": "11월 11일 · 연무장길 87"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "약국까지 들어선|성수 뷰티 매장",
+      "sub": "무신사 뷰티 성수 · 11월 11일"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "무신사 뷰티 성수|11월 11일 문 연다",
+      "sub": "700개 브랜드 · 1~2층 400평"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "운영 시간·오픈 이벤트는 두 기사 모두에 없어 뺐음 — 무신사 공식 공지 나오면 실용 정보 줄에 추가",
+     "표지 사진은 무신사 제공 외관 렌더링(기사 대표 사진) — 실제 매장 사진 나오면 교체",
+     "이어지는 소식 — 10-29에 다룬 소재. 새 사실: 어제 초안은 니케 콜라보 팝업 — 이번엔 10/30 발표된 무신사 뷰티 성수 단독 매장(11월 11일 개점, 연무장길 87)으로 다른 소식",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "무신사, 홍대 이어 성수에 뷰티 매장…'파머시 전략' 확대 (뉴시스)",
+      "link": "https://www.newsis.com/view/NISX20261030_0003847617"
+     },
+     {
+      "title": "무신사, 성수에 두 번째 뷰티 단독 매장…700개 브랜드 입점 (핀포인트뉴스)",
+      "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=499874"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317166/p3zvouk6xwiybsruhvui.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317165/vzizftnkaangmt1n1g88.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317168/yxctctuy6g5fgopjyo38.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317169/p43oeiizy19yniu9s49q.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317166/p3zvouk6xwiybsruhvui.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-30T08:39+09:00",
+     "v": {
+      "A": "3405040d",
+      "B": "abcc5681",
+      "C": "5c3e7320"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-6976258c",
+    "account": "@속보",
+    "url": "http://www.osen.co.kr/article/G1112900936",
+    "image": null,
+    "head": "리프트바운드 한정판 3종, 롯데월드몰·올리브영N 성수 팝업에서 10/29 선출시",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-30T08:44+09:00",
+   "key": "4458822a",
+   "by": "claude",
+   "subjects": [
+    "리프트바운드"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "아케인 스튜디오가 '잡지 표지처럼' 그린 K/DA 카드 — 리프트바운드 한정판 3종이 서울 팝업 두 곳에서 먼저 풀렸다",
+    "why": "10/29 현장 선출시 · 기간 짧은 팝업 두 곳(잠실 11/1, 성수 11/8)이라 이번 주말 갈 수 있는 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-10-30T08:44+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n리그 오브 레전드(@leagueoflegendskorea) 카드 게임 리프트바운드(@playriftbound)의 한정판 3종이 서울 팝업 두 곳에서 먼저 풀렸습니다.\n\n가장 눈에 띄는 건 'K/DA 쿠튀르 컬렉션'인데요, 〈아케인〉을 만든 애니메이션 스튜디오 포티셰가 K/DA 네 멤버를 카드 한 장씩 새로 그렸습니다. 작가 로맹 마즈베는 공식 영상에서 이 카드들을 조금 화려한 잡지 표지처럼 구상했다고 말합니다.\n\n나머지 둘은 '2026 월드 챔피언십 세트'와 한글판 '월드 챔피언 T1 플레이어 번들'입니다. 현장에서는 1인당 1개씩만 살 수 있습니다.\n\n가격: K/DA 쿠튀르 컬렉션 20만 원 · 2026 월드 챔피언십 세트 12만 원 · 월드 챔피언 T1 플레이어 번들 10만 원\n잠실: 롯데월드몰 1층 아트리움홀 (서울 송파구) · 11월 1일(일)까지 · 10:00~22:00\n성수: 트렌드팟 바이 올리브영N 성수 (서울 성동구) · 10월 29일(목) ~ 11월 8일(일) · 11:00~20:00 (마지막 날 18:00까지)\n온라인: 크림(KREAM), 계정당 1회\n#SENE #리프트바운드 #KDA #성수팝업 #롯데월드몰\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317471/bpnk1wu0bw36tr6g2fqc.jpg\n제목: 아케인 스튜디오가 그린|K/DA 한정판 카드\n부제: 리프트바운드 3종, 잠실·성수 팝업 선출시\n출처: @playriftbound\n",
+    "caption": "리그 오브 레전드(@leagueoflegendskorea) 카드 게임 리프트바운드(@playriftbound)의 한정판 3종이 서울 팝업 두 곳에서 먼저 풀렸습니다.\n\n가장 눈에 띄는 건 'K/DA 쿠튀르 컬렉션'인데요, 〈아케인〉을 만든 애니메이션 스튜디오 포티셰가 K/DA 네 멤버를 카드 한 장씩 새로 그렸습니다. 작가 로맹 마즈베는 공식 영상에서 이 카드들을 조금 화려한 잡지 표지처럼 구상했다고 말합니다.\n\n나머지 둘은 '2026 월드 챔피언십 세트'와 한글판 '월드 챔피언 T1 플레이어 번들'입니다. 현장에서는 1인당 1개씩만 살 수 있습니다.\n\n가격: K/DA 쿠튀르 컬렉션 20만 원 · 2026 월드 챔피언십 세트 12만 원 · 월드 챔피언 T1 플레이어 번들 10만 원\n잠실: 롯데월드몰 1층 아트리움홀 (서울 송파구) · 11월 1일(일)까지 · 10:00~22:00\n성수: 트렌드팟 바이 올리브영N 성수 (서울 성동구) · 10월 29일(목) ~ 11월 8일(일) · 11:00~20:00 (마지막 날 18:00까지)\n온라인: 크림(KREAM), 계정당 1회\n#SENE #리프트바운드 #KDA #성수팝업 #롯데월드몰",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317471/bpnk1wu0bw36tr6g2fqc.jpg",
+      "credit": "@playriftbound",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869657644_17928490311425512_8281568238291524259_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Qqh5wfG0AZ0Q7kNvwH08jT9&_nc_oc=AdrPYZJ9u6qQTon4wV0A8OcBlbc4YkQBIreiPuKfrlWHVwqMHtXUD9CWzfhW7HPPTno&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=VG0JXe-1ILnC3hzsY1U5NQ&_nc_tpa=Q5bMBQJQjBLzB9jCtrsccyrAseA8H0MA91yG39LmWYkAoeLtqVPSFmuCo5O5m2VRl44aB4APTIWIwcQimg&oh=00_AQS6tR_aut8EUEvwXGnpGlq6hWB4ehTEtypGxKw_8FyXnw&oe=6AE9A86F"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317469/npymd7tvticbt6z5n3rb.jpg",
+      "credit": "@playriftbound",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869628219_17928698433425512_5120800049238449153_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9KCP_Q9wlpMQ7kNvwEHof_Q&_nc_oc=AdrYjH0XA6ZnP6bjR-ivP2s2hhKDGMYyt7FK6_t_ECRg7PkadE0ZEKQ0bwC2SW9ftcw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=VG0JXe-1ILnC3hzsY1U5NQ&oh=00_AQS1a8RI0pdrprqqJbiOofo8kw1cW_1b8TMKlhny2ejSnw&oe=6AE9BFB3"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317473/ukzehoux53ugjaeraosm.jpg",
+      "credit": "@playriftbound",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/860538833_17928485730425512_2030354663139302002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JZBO4yFOQN0Q7kNvwGuE1wf&_nc_oc=AdoafdASPElt7XFdJyclfTwaUlQaa5k5I3kgsvvhYm3o2t97eFF7LmmXpA6Lp_DUpkI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=VG0JXe-1ILnC3hzsY1U5NQ&oh=00_AQQgUbZYlC4QR52S1T4pdLfr3UySit9D6bFqKyBlqpCiVw&oe=6AE9BBF8"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317471/bpnk1wu0bw36tr6g2fqc.jpg",
+      "credit": "@playriftbound",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869657644_17928490311425512_8281568238291524259_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Qqh5wfG0AZ0Q7kNvwH08jT9&_nc_oc=AdrPYZJ9u6qQTon4wV0A8OcBlbc4YkQBIreiPuKfrlWHVwqMHtXUD9CWzfhW7HPPTno&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=VG0JXe-1ILnC3hzsY1U5NQ&_nc_tpa=Q5bMBQJQjBLzB9jCtrsccyrAseA8H0MA91yG39LmWYkAoeLtqVPSFmuCo5O5m2VRl44aB4APTIWIwcQimg&oh=00_AQS6tR_aut8EUEvwXGnpGlq6hWB4ehTEtypGxKw_8FyXnw&oe=6AE9A86F"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317469/npymd7tvticbt6z5n3rb.jpg",
+      "credit": "@playriftbound",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869628219_17928698433425512_5120800049238449153_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=9KCP_Q9wlpMQ7kNvwEHof_Q&_nc_oc=AdrYjH0XA6ZnP6bjR-ivP2s2hhKDGMYyt7FK6_t_ECRg7PkadE0ZEKQ0bwC2SW9ftcw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=VG0JXe-1ILnC3hzsY1U5NQ&oh=00_AQS1a8RI0pdrprqqJbiOofo8kw1cW_1b8TMKlhny2ejSnw&oe=6AE9BFB3"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317473/ukzehoux53ugjaeraosm.jpg",
+      "credit": "@playriftbound",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/860538833_17928485730425512_2030354663139302002_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=JZBO4yFOQN0Q7kNvwGuE1wf&_nc_oc=AdoafdASPElt7XFdJyclfTwaUlQaa5k5I3kgsvvhYm3o2t97eFF7LmmXpA6Lp_DUpkI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=VG0JXe-1ILnC3hzsY1U5NQ&oh=00_AQQgUbZYlC4QR52S1T4pdLfr3UySit9D6bFqKyBlqpCiVw&oe=6AE9BBF8"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "아케인 스튜디오가 그린|K/DA 한정판 카드",
+      "sub": "리프트바운드 3종, 잠실·성수 팝업 선출시"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "리프트바운드 한정판|성수·잠실에서 먼저",
+      "sub": "K/DA·월즈·T1 3종 · 1인 1개"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "잡지 표지처럼 그린|K/DA 카드 네 장",
+      "sub": "포티셰가 그린 리프트바운드 한정판"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — Riftbound 공식 채널",
+     "현장 재고 — 공식 안내에 '재고에 따라 구매 대기표 배포' 문구가 있어, 올리기 전 성수·잠실 팝업 품절 공지 확인",
+     "[작문 P1] 캡션: 첫 문장 92자 → 첫 문장은 한 호흡 — 두 사실을 한 문장에 몰지 않는다 (80자 안)",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "OSEN — ‘리프트바운드’ 한정판 3종 출시… 롯데월드몰·올리브영N 성수 팝업",
+      "link": "http://www.osen.co.kr/article/G1112900936"
+     },
+     {
+      "title": "이투데이 — 라이엇게임즈, '리프트바운드' 한정판 3종 판매",
+      "link": "https://www.etoday.co.kr/news/view/2639335"
+     },
+     {
+      "title": "쿠키뉴스 — ‘리프트바운드’ 한정판 3종 출시…월즈·T1·‘K/DA’ 담았다",
+      "link": "https://www.kukinews.com/article/view/kuk202610230087"
+     },
+     {
+      "title": "리그 오브 레전드 공식 — 트렌드팟 바이 올리브영 N 성수 팝업 안내",
+      "link": "https://www.leagueoflegends.com/ko-kr/news/merch/trend-pot-riot-games-music-worlds-26-popup-store/"
+     },
+     {
+      "title": "리그 오브 레전드 공식 — 롯데월드몰 뮤직 앤 월즈 2026 팝업 안내",
+      "link": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store"
+     },
+     {
+      "title": "Riftbound 공식 유튜브 — K/DA Couture Collection: Behind the Scenes with Fortiche",
+      "link": "https://www.youtube.com/watch?v=egXq3n8UHfE"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317479/c1ia7ggakbmxyyuuf8hn.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317478/fass52zq6ywj33aiih88.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317481/evnsb043tclisvo9iww4.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317481/poxxxg8np5kbj9rnusxx.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317479/c1ia7ggakbmxyyuuf8hn.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-30T08:44+09:00",
+     "v": {
+      "A": "33d05f63",
+      "B": "7aa6035e",
+      "C": "aa456ea2"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=egXq3n8UHfE\n구간: 0:05-0:45\n곡: 잡지 표지처럼\n아티스트: *K/DA* 카드를\n피처링:\n후킹: \n출처: Riftbound\n자막: 자동",
+    "caption": "〈아케인〉을 만든 애니메이션 스튜디오 포티셰가 리그 오브 레전드(@leagueoflegendskorea) 카드 게임 리프트바운드(@playriftbound)의 K/DA 카드를 새로 그렸습니다.\n\n영상은 리프트바운드 공식 채널이 공개한 제작기인데요, 포티셰의 작가 로맹 마즈베가 멤버마다 카드 한 장씩, 조금 화려한 잡지 표지처럼 구상했다고 말합니다. 오래된 패션 일러스트를 참고해 손으로 그린 그림을 스캔해 겹친 뒤 색을 입혔다고 설명합니다.\n\n이 카드가 든 'K/DA 쿠튀르 컬렉션'은 10월 29일부터 서울 팝업 두 곳에서 먼저 판매 중입니다. 현장에서는 1인당 1개씩만 살 수 있습니다.\n\n가격: K/DA 쿠튀르 컬렉션 20만 원\n잠실: 롯데월드몰 1층 아트리움홀 · 11월 1일(일)까지 · 10:00~22:00\n성수: 트렌드팟 바이 올리브영N 성수 · 11월 8일(일)까지 · 11:00~20:00 (마지막 날 18:00까지)\n#SENE #리프트바운드 #KDA #아케인 #성수팝업",
+    "hooks": {
+     "A": "*K/DA* 카드를 / 잡지 표지처럼",
+     "B": "아케인 스튜디오가 / 그린 *K/DA* 카드",
+     "C": "손그림과 디지털을 / 섞어 그린 *카드*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=egXq3n8UHfE",
+     "credit": "Riftbound",
+     "range": [
+      5.0,
+      45.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — Riftbound 공식 채널",
+     "현장 재고 — 공식 안내에 '재고에 따라 구매 대기표 배포' 문구가 있어, 올리기 전 성수·잠실 팝업 품절 공지 확인",
+     "[작문 P1] 캡션: 첫 문장 107자 → 첫 문장은 한 호흡 — 두 사실을 한 문장에 몰지 않는다 (80자 안)"
+    ],
+    "research": [
+     {
+      "title": "OSEN — ‘리프트바운드’ 한정판 3종 출시… 롯데월드몰·올리브영N 성수 팝업",
+      "link": "http://www.osen.co.kr/article/G1112900936"
+     },
+     {
+      "title": "이투데이 — 라이엇게임즈, '리프트바운드' 한정판 3종 판매",
+      "link": "https://www.etoday.co.kr/news/view/2639335"
+     },
+     {
+      "title": "쿠키뉴스 — ‘리프트바운드’ 한정판 3종 출시…월즈·T1·‘K/DA’ 담았다",
+      "link": "https://www.kukinews.com/article/view/kuk202610230087"
+     },
+     {
+      "title": "리그 오브 레전드 공식 — 트렌드팟 바이 올리브영 N 성수 팝업 안내",
+      "link": "https://www.leagueoflegends.com/ko-kr/news/merch/trend-pot-riot-games-music-worlds-26-popup-store/"
+     },
+     {
+      "title": "리그 오브 레전드 공식 — 롯데월드몰 뮤직 앤 월즈 2026 팝업 안내",
+      "link": "https://www.leagueoflegends.com/ko-kr/news/merch/riot-games-music-worlds-2026-popup-store"
+     },
+     {
+      "title": "Riftbound 공식 유튜브 — K/DA Couture Collection: Behind the Scenes with Fortiche",
+      "link": "https://www.youtube.com/watch?v=egXq3n8UHfE"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/egXq3n8UHfE/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317491/d0lybghkvbwptyw1k9k1.jpg",
+     "key": "egXq3n8UHfE@5.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-30T08:45+09:00"
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-9ee53f06",
+    "account": "@속보",
+    "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877955",
+    "image": null,
+    "head": "11월 성수 팝업 — 날짜가 확인된 셋, 날짜순 정리",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-30T08:47+09:00",
+   "key": "89f2d2af",
+   "by": "claude",
+   "subjects": [
+    "성수동고릴라"
+   ],
+   "lane": "정리",
+   "editor": {
+    "grade": "A",
+    "kind": "정리",
+    "angle": "11월 성수에서 날짜·장소가 확인된 팝업·전시 셋을 날짜순으로",
+    "why": "성수동고릴라가 11월 팝업 리스트를 공개한 날 — 기간이 확인된 것만 골라 이번 달 계획용으로"
+   },
+   "added": "claude",
+   "added_at": "2026-10-30T08:47+09:00",
+   "corner": "roundup",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n성수동 팝업을 모아 소개하는 성수동고릴라가 11월 팝업 리스트를 공개했습니다.\n\n목록에는 게임·애니메이션 쪽 이름이 여럿 보이는데요, 그중 기간과 장소가 확인된 세 곳을 날짜순으로 정리했습니다. 이미 문을 연 라이엇 게임즈의 월즈 팝업은 11월 8일에 끝납니다.\n\n카드캡터 사쿠라 카페는 전 좌석 예약제이고, 굿즈도 예약하고 온 손님만 살 수 있습니다. 예약은 11월 4일에 열립니다.\n\n라이엇 게임즈 '뮤직 & 월즈26': 10월 29일(목) ~ 11월 8일(일), 트렌드팟 바이 올리브영N 성수\n사쿠라와 토모요의 티파티: 11월 11일(수) ~ 11월 29일(일), 무신사 스페이스 서울숲 (팝가 예약)\n러브라이브! 시리즈 15주년 기념 서울 전시회: 11월 14일(토) ~ 12월 31일(목), 성수동 어브 스튜디오 (티켓링크 예매)\n#SENE #성수팝업 #성수동 #카드캡터사쿠라 #러브라이브 #롤드컵\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317677/i0bbg9xixymhy09d2jzi.jpg\n제목: 11월 성수 팝업|날짜순 정리\n부제: 날짜가 확인된 세 곳만 모았습니다\n출처: 타키엘\n\n[슬라이드]\n소스: \n소제목: 라이엇 게임즈 '뮤직 & 월즈26'\n본문: 언제: 10월 29일(목) ~ 11월 8일(일)|어디: 트렌드팟 바이 올리브영N 성수|무엇: 2026 LoL 월드 챔피언십과 라이엇 게임즈 음악을 주제로 한 팝업\n출처: \n\n[슬라이드]\n소스: \n소제목: 카드캡터 사쿠라 카페 '사쿠라와 토모요의 티파티'\n본문: 언제: 11월 11일(수) ~ 11월 29일(일)|어디: 무신사 스페이스 서울숲|예약: 전 좌석 사전 예약제, 11월 4일부터 팝가|무엇: 콜라보 음료 6종, 굿즈 15종 (굿즈는 예약 방문객만 구매)\n출처: \n\n[슬라이드]\n소스: \n소제목: 러브라이브! 시리즈 15주년 기념 서울 전시회\n본문: 언제: 11월 14일(토) ~ 12월 31일(목)|어디: 성수동 어브 스튜디오|예매: 티켓링크|무엇: 시리즈의 발자취를 돌아보는 전시, 서울 단독 콘텐츠\n출처:\n",
+    "caption": "성수동 팝업을 모아 소개하는 성수동고릴라가 11월 팝업 리스트를 공개했습니다.\n\n목록에는 게임·애니메이션 쪽 이름이 여럿 보이는데요, 그중 기간과 장소가 확인된 세 곳을 날짜순으로 정리했습니다. 이미 문을 연 라이엇 게임즈의 월즈 팝업은 11월 8일에 끝납니다.\n\n카드캡터 사쿠라 카페는 전 좌석 예약제이고, 굿즈도 예약하고 온 손님만 살 수 있습니다. 예약은 11월 4일에 열립니다.\n\n라이엇 게임즈 '뮤직 & 월즈26': 10월 29일(목) ~ 11월 8일(일), 트렌드팟 바이 올리브영N 성수\n사쿠라와 토모요의 티파티: 11월 11일(수) ~ 11월 29일(일), 무신사 스페이스 서울숲 (팝가 예약)\n러브라이브! 시리즈 15주년 기념 서울 전시회: 11월 14일(토) ~ 12월 31일(목), 성수동 어브 스튜디오 (티켓링크 예매)\n#SENE #성수팝업 #성수동 #카드캡터사쿠라 #러브라이브 #롤드컵",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317677/i0bbg9xixymhy09d2jzi.jpg",
+      "credit": "타키엘",
+      "from": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/10/07/65c76316-5c4c-42f6-9eec-a6c6691e0c1d.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317677/i0bbg9xixymhy09d2jzi.jpg",
+      "credit": "타키엘",
+      "from": "https://talkimg.imbc.com/TVianUpload/tvian/TViews/image/2026/10/07/65c76316-5c4c-42f6-9eec-a6c6691e0c1d.jpg"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "11월 성수 팝업|날짜순 정리",
+      "sub": "날짜가 확인된 세 곳만 모았습니다"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "이번 달 성수에서|열리는 팝업 셋",
+      "sub": "롤 월즈 · 카드캡터 사쿠라 · 러브라이브!"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "사쿠라 카페부터|러브라이브! 전시까지",
+      "sub": "11월 성수 일정 정리"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 월즈 팝업의 포토존·퀴즈·우표는 잠실·성수 공통 안내라 성수 현장에 있는지 확인 안 돼 장에서 뺌. 사쿠라 카페 날짜(11/11~29)·예약 오픈(11/4)은 벤처스퀘어 한 곳만 확인 — 팝가 행사 페이지에서 다시 확인",
+     "러브라이브! 15주년 서울 전시 — 기사에 연도 표기가 없음. 티켓링크에서 2026년 11/14~12/31 일정인지 확인",
+     "숏폼 없음 — 세 행사 모두 공식 영상(유튜브)을 찾지 못함",
+     "사진이 모자라 3장(1, 2, 3번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "한스경제 — 성수 동고릴라, 11월 팝업 리스트 공개",
+      "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877955"
+     },
+     {
+      "title": "Inven Global — LoL Music & Worlds Pop-Up in Jamsil and Seongsu",
+      "link": "https://www.invenglobal.com/articles/27282/riot-games-to-hold-lol-music-worlds-pop-up-in-jamsil-and-seongsu-starting-oct-23"
+     },
+     {
+      "title": "루리웹 — 뮤직 & 월즈 팝업 성수 일정",
+      "link": "https://bbs.ruliweb.com/news/read/230944"
+     },
+     {
+      "title": "벤처스퀘어 — 사쿠라와 토모요의 티파티 서울 개최",
+      "link": "https://www.venturesquare.net/?p=1123060"
+     },
+     {
+      "title": "iMBC연예 — 러브라이브! 시리즈 15주년 기념 서울 전시회",
+      "link": "https://enews.imbc.com/News/ViewAmp/520375"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317682/faoqg0urvdxrpqjhwrf0.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317682/qlo3i1cyflujemwk1q6z.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317682/xw845ctnxnphcg4dtw3z.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317682/e1en4ip9wvteovrpmmed.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317683/jw4zkojhzleiwhy7gbxr.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317686/e6me7q03esiyow6eq9yg.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317686/oxdqq47xmogw0rrkxc4w.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793317682/faoqg0urvdxrpqjhwrf0.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-30T08:48+09:00",
+     "v": {
+      "A": "b730c7c6",
+      "B": "e0a20c15",
+      "C": "f78bb6e9"
+     }
+    }
+   },
+   "corner_name": "정리",
+   "corner_no": 1
   }
  ],
  "skipped": [],
@@ -533,7 +959,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 3,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -546,7 +972,7 @@
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "날짜·장소·가격이 있는 모음 (이번 주 성수 팝업 · 이번 달 개봉작). 순위는 매기지 않는다"
    },
    {
@@ -761,10 +1187,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T08:36+09:00"
+  "at": "2026-10-30T08:47+09:00"
  },
  "queue": {
-  "next": "2026-10-30T08:38+09:00",
+  "next": "2026-10-30T08:50+09:00",
   "n": 0,
   "gap": 20
  },
