@@ -1794,9 +1794,11 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793264062/hck3k9lisot6r8khjtwa.jpg",
      "key": "qdEx8brOIu0@5.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-29T17:54+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793264190/sene_studio/ujriup4ito3lswkjw56d.mp4",
+     "at": "2026-10-29T17:56+09:00",
+     "file": "EnMigSeu_SeolYunI_DeonSeuTeu_Sae_EolGu_PaeSyeon_no_lyrics.mp4",
+     "v": "b2fe141b"
     }
    },
    "pick": {
