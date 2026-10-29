@@ -2513,35 +2513,211 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:ord-d06f4d7d",
+    "account": "@규효 공유 · @hipkr_",
+    "url": "https://www.instagram.com/p/DfFYJGoSqcC/?psln=MWRzbWNpODNqZWhsMw==",
+    "image": null,
+    "head": "배우 최불암, 10월 29일 향년 87세로 별세 — 〈한국인의 밥상〉 14년 진행",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-30T04:01+09:00",
+   "key": "fb232f07",
+   "by": "claude",
+   "subjects": [
+    "최불암"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "〈한국인의 밥상〉으로 14년간 전국 밥상을 찾아다닌 배우 최불암 별세 — 그가 직접 말한 '둥근 밥상' 장면으로",
+    "why": "온 국민이 아는 배우의 별세, 푸드·컬처 독자에게는 〈한국인의 밥상〉의 얼굴"
+   },
+   "added": "claude",
+   "added_at": "2026-10-30T04:01+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n배우 최불암이 10월 29일 세상을 떠났습니다. 향년 87세.\n\n1959년 연극 〈햄릿〉으로 무대에 선 뒤 MBC 〈수사반장〉의 박 반장, 〈전원일기〉의 양촌리 김 회장으로 오래 기억된 배우인데요, 2011년부터는 KBS 1TV 〈한국인의 밥상〉을 14년간 진행하며 전국의 밥상과 그 밥을 짓는 사람들을 찾아다녔습니다.\n\n고인은 29일 밤 10시께 서울 강서구의 한 병원에서 입원 치료 중 숨을 거뒀습니다. 고인의 명복을 빕니다.\n\n#SENE #최불암 #한국인의밥상 #전원일기 #수사반장\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793300519/xpkbe3d6prlutoadxpdl.jpg\n제목: 배우 최불암,|향년 87세로 별세\n부제: 〈한국인의 밥상〉 14년의 얼굴\n출처: 최불암 측 제공\n",
+    "caption": "배우 최불암이 10월 29일 세상을 떠났습니다. 향년 87세.\n\n1959년 연극 〈햄릿〉으로 무대에 선 뒤 MBC 〈수사반장〉의 박 반장, 〈전원일기〉의 양촌리 김 회장으로 오래 기억된 배우인데요, 2011년부터는 KBS 1TV 〈한국인의 밥상〉을 14년간 진행하며 전국의 밥상과 그 밥을 짓는 사람들을 찾아다녔습니다.\n\n고인은 29일 밤 10시께 서울 강서구의 한 병원에서 입원 치료 중 숨을 거뒀습니다. 고인의 명복을 빕니다.\n\n#SENE #최불암 #한국인의밥상 #전원일기 #수사반장",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300519/xpkbe3d6prlutoadxpdl.jpg",
+      "credit": "최불암 측 제공",
+      "from": "https://newsimg.hankookilbo.com/2026/10/30/175148f6-62d1-44da-a98c-c6b4b1e36067.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300521/x5t78ru1qcglicbs8m7w.jpg",
+      "credit": "연합뉴스",
+      "from": "https://img.hankyung.com/photo/202610/ZK.46241525.1.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300519/xpkbe3d6prlutoadxpdl.jpg",
+      "credit": "최불암 측 제공",
+      "from": "https://newsimg.hankookilbo.com/2026/10/30/175148f6-62d1-44da-a98c-c6b4b1e36067.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300521/x5t78ru1qcglicbs8m7w.jpg",
+      "credit": "연합뉴스",
+      "from": "https://img.hankyung.com/photo/202610/ZK.46241525.1.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "배우 최불암,|향년 87세로 별세",
+      "sub": "〈한국인의 밥상〉 14년의 얼굴"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "14년 밥상을 지킨|배우 최불암 별세",
+      "sub": "1959년 〈햄릿〉에서 〈한국인의 밥상〉까지"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "수사반장, 김 회장,|그리고 밥상의 얼굴",
+      "sub": "배우 최불암 별세 · 향년 87세"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 숏폼 0:41~1:03 '아무나 끼어들어서 먹을 수 있는… 점이 참 좋아요' 화자가 최불암인지 자막으로 확인 안 됨 — 발언 귀속은 뺌. 올리기 전 영상으로 화자·구간 확인",
+     "클립 위험: 높음 — KBS 다큐 (〈한국인의 밥상〉 2019년 1월 31일 방송, 29초)",
+     "빅 이슈 — 올리기 전 최신 공식 발표 다시 확인 (빈소·발인은 기사 작성 시점에 아직 정해지지 않음)"
+    ],
+    "research": [
+     {
+      "title": "영원한 수사반장 최불암 별세…파하~ 웃음 남기고 떠난 국민 아버지(종합) — 한국경제(연합뉴스)",
+      "link": "https://www.hankyung.com/article/202610304763Y"
+     },
+     {
+      "title": "'국민 아버지' 최불암 별세… 든든한 '우리의 수사반장' 떠났다 — 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026103000360001928"
+     },
+     {
+      "title": "최불암, 14년 만에 '한국인의 밥상' 하차 [잇슈 컬처] — KBS News",
+      "link": "https://www.youtube.com/watch?v=7gsAR8cJlI8"
+     },
+     {
+      "title": "[한국인의밥상★풀버전] 둥근상이 떴습니다 (KBS 20190131 방송) — KBS 다큐",
+      "link": "https://www.youtube.com/watch?v=xB3pZokr8co"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300526/hxd9i2hyqeexjkcx0mkc.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300525/pcfunhwnka60ggg7cpyo.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300530/oqvxpoiv11uizwqgwlbn.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300530/uwfy16utg1rwzbfp792z.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300526/hxd9i2hyqeexjkcx0mkc.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-30T04:02+09:00",
+     "v": {
+      "A": "388d6880",
+      "B": "07d03d50",
+      "C": "6caf9c48"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=xB3pZokr8co\n구간: 0:36-1:05\n곡: 배우 *최불암* 별세\n아티스트: 14년 밥상을 지킨\n피처링:\n후킹: \n출처: KBS 다큐\n자막: 자동",
+    "caption": "배우 최불암이 10월 29일 향년 87세로 세상을 떠났습니다.\n\n영상은 2019년 1월 31일 방송된 KBS 1TV 〈한국인의 밥상〉 '둥근상이 떴습니다' 편의 도입부인데요, 둘러앉아 먹는 둥근 밥상을 찾아 나선 회차입니다.\n\n그는 2011년부터 14년간 이 프로그램을 진행하며 전국의 밥상과 그 밥을 짓는 사람들을 찾아다녔습니다. 그전에는 〈수사반장〉의 박 반장, 〈전원일기〉의 양촌리 김 회장이었습니다. 고인의 명복을 빕니다.\n\n#SENE #최불암 #한국인의밥상 #전원일기 #수사반장",
+    "hooks": {
+     "A": "14년 밥상을 지킨 / 배우 *최불암* 별세",
+     "B": "배우 *최불암*, / 향년 87세로 별세",
+     "C": "〈한국인의 밥상〉 / 14년의 얼굴 / 배우 *최불암*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=xB3pZokr8co",
+     "credit": "KBS 다큐",
+     "range": [
+      36.0,
+      65.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 숏폼 0:41~1:03 '아무나 끼어들어서 먹을 수 있는… 점이 참 좋아요' 화자가 최불암인지 자막으로 확인 안 됨 — 발언 귀속은 뺌. 올리기 전 영상으로 화자·구간 확인",
+     "클립 위험: 높음 — KBS 다큐 (〈한국인의 밥상〉 2019년 1월 31일 방송, 29초)",
+     "빅 이슈 — 올리기 전 최신 공식 발표 다시 확인 (빈소·발인은 기사 작성 시점에 아직 정해지지 않음)"
+    ],
+    "research": [
+     {
+      "title": "영원한 수사반장 최불암 별세…파하~ 웃음 남기고 떠난 국민 아버지(종합) — 한국경제(연합뉴스)",
+      "link": "https://www.hankyung.com/article/202610304763Y"
+     },
+     {
+      "title": "'국민 아버지' 최불암 별세… 든든한 '우리의 수사반장' 떠났다 — 한국일보",
+      "link": "https://www.hankookilbo.com/news/article/A2026103000360001928"
+     },
+     {
+      "title": "최불암, 14년 만에 '한국인의 밥상' 하차 [잇슈 컬처] — KBS News",
+      "link": "https://www.youtube.com/watch?v=7gsAR8cJlI8"
+     },
+     {
+      "title": "[한국인의밥상★풀버전] 둥근상이 떴습니다 (KBS 20190131 방송) — KBS 다큐",
+      "link": "https://www.youtube.com/watch?v=xB3pZokr8co"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/xB3pZokr8co/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793300554/dxjtsje86ljfhkzuxsp0.jpg",
+     "key": "xB3pZokr8co@36.0"
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-30T04:02+09:00"
+    }
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-10-30T04:02+09:00"
   }
  ],
  "skipped": [],
  "corners": {
   "week": "10/26~11/01",
-  "days_left": 4,
+  "days_left": 3,
   "done": 0,
-  "goal": 70,
+  "goal": 40,
   "corners": [
    {
     "key": "news",
     "name": "소식",
-    "weekly": 28,
+    "weekly": 10,
     "done": 0,
-    "left": 28,
-    "need_today": 7,
+    "left": 10,
+    "need_today": 4,
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 9,
+    "drafts": 10,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
     "key": "roundup",
     "name": "정리",
-    "weekly": 5,
+    "weekly": 2,
     "done": 0,
-    "left": 5,
-    "need_today": 2,
+    "left": 2,
+    "need_today": 1,
     "day": null,
     "mday": null,
     "next_no": 1,
@@ -2554,7 +2730,7 @@
     "weekly": 1,
     "done": 0,
     "left": 1,
-    "need_today": 0,
+    "need_today": 1,
     "day": 4,
     "mday": null,
     "next_no": 1,
@@ -2581,11 +2757,11 @@
     "done": 0,
     "left": 1,
     "need_today": 0,
-    "day": 2,
+    "day": null,
     "mday": null,
     "next_no": 1,
     "drafts": 0,
-    "why": "수요일 고정 — 화제 된 MV·화보·예능이 어디서 찍혔나, 지금 가 볼 수 있나 (주소·운영·촬영 장면). 새 MV가 터지면 요일 밖에서도"
+    "why": "새 MV·화보·예능이 서울에서 찍혔다고 밝혀지면 — 어디서 찍혔나, 지금 가 볼 수 있나 (주소·운영·촬영 장면)"
    },
    {
     "key": "fave",
@@ -2594,11 +2770,11 @@
     "done": 0,
     "left": 1,
     "need_today": 0,
-    "day": 1,
+    "day": null,
     "mday": null,
     "next_no": 1,
     "drafts": 0,
-    "why": "화요일 고정 — 공식 인터뷰·공식 게시물에서 본인이 직접 말한 향수·책·카페·물건 (출처 장면과 함께)"
+    "why": "인터뷰·공식 게시물에서 본인이 물건을 직접 말하면 — 향수·책·카페·물건 (출처 장면과 함께)"
    },
    {
     "key": "bdaymap",
@@ -2630,12 +2806,64 @@
     "why": "큰 공연장(고척·KSPO·인스파이어·잠실·체조) 공연 전날·당일 — 가는 길·먹고 갈 곳·굿즈 줄·물품보관 (공식 공지 기준)"
    },
    {
+    "key": "moment",
+    "name": "오늘의 순간",
+    "weekly": 7,
+    "done": 0,
+    "left": 7,
+    "need_today": 1,
+    "day": null,
+    "mday": null,
+    "next_no": 1,
+    "drafts": 0,
+    "why": "매일 숏폼 하나 — 공식 영상 속 한 사람의 표정·반응·작은 사건 10~30초 (무대·음악 자체는 PLOT)"
+   },
+   {
+    "key": "look",
+    "name": "그 룩, 얼마",
+    "weekly": 1,
+    "done": 0,
+    "left": 1,
+    "need_today": 0,
+    "day": null,
+    "mday": null,
+    "next_no": 1,
+    "drafts": 0,
+    "why": "공항·포토콜·행사 룩이 화제가 되면 — 공식 크레딧으로 확인된 아이템과 국내 공식가 합계"
+   },
+   {
+    "key": "fancourse",
+    "name": "팬의 하루 코스",
+    "weekly": 1,
+    "done": 0,
+    "left": 1,
+    "need_today": 0,
+    "day": 5,
+    "mday": null,
+    "next_no": 1,
+    "drafts": 0,
+    "why": "토요일 — 케이팝 팬이 서울 한 동네에서 보내는 하루 (공식 카페·굿즈숍·팝업·확인된 촬영지·먹을 곳). 영어·일본어판 몫이 크다"
+   },
+   {
+    "key": "weekscene",
+    "name": "한 주의 현장",
+    "weekly": 1,
+    "done": 0,
+    "left": 1,
+    "need_today": 0,
+    "day": 6,
+    "mday": null,
+    "next_no": 1,
+    "drafts": 0,
+    "why": "일요일 — 이번 주 케이팝 사람들이 공식 일정으로 서울 어디에 나타났나 (포토콜·팝업 방문·행사·팬 이벤트)"
+   },
+   {
     "key": "scene",
     "name": "현장",
-    "weekly": 10,
+    "weekly": 4,
     "done": 0,
-    "left": 10,
-    "need_today": 3,
+    "left": 4,
+    "need_today": 2,
     "day": null,
     "mday": null,
     "next_no": null,
@@ -2645,10 +2873,10 @@
    {
     "key": "mal",
     "name": "그 말",
-    "weekly": 6,
+    "weekly": 2,
     "done": 0,
-    "left": 6,
-    "need_today": 2,
+    "left": 2,
+    "need_today": 1,
     "day": null,
     "mday": null,
     "next_no": null,
@@ -2658,9 +2886,9 @@
    {
     "key": "dissect",
     "name": "왜 지금",
-    "weekly": 3,
+    "weekly": 2,
     "done": 0,
-    "left": 3,
+    "left": 2,
     "need_today": 1,
     "day": null,
     "mday": null,
@@ -2671,9 +2899,9 @@
    {
     "key": "issue",
     "name": "이슈",
-    "weekly": 3,
+    "weekly": 1,
     "done": 0,
-    "left": 3,
+    "left": 1,
     "need_today": 1,
     "day": null,
     "mday": null,
@@ -2684,10 +2912,10 @@
    {
     "key": "followup",
     "name": "후속",
-    "weekly": 7,
+    "weekly": 2,
     "done": 0,
-    "left": 7,
-    "need_today": 2,
+    "left": 2,
+    "need_today": 1,
     "day": null,
     "mday": null,
     "next_no": null,
@@ -2697,9 +2925,9 @@
    {
     "key": "again",
     "name": "다시 보기",
-    "weekly": 2,
+    "weekly": 1,
     "done": 0,
-    "left": 2,
+    "left": 1,
     "need_today": 1,
     "day": null,
     "mday": null,
@@ -2708,10 +2936,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-29T19:48+09:00"
+  "at": "2026-10-30T04:02+09:00"
  },
  "queue": {
-  "next": "2026-10-29T19:50+09:00",
+  "next": "2026-10-30T08:00+09:00",
   "n": 0,
   "gap": 20
  },
