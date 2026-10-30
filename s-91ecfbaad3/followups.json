@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-30 08:36 KST",
+ "generated_at": "2026-10-30 10:37 KST",
  "cards": [
   {
    "id": "d7bfa106",
@@ -121,73 +121,6 @@
    "preempt": null,
    "made_at": "2026-10-30T00:37+09:00",
    "expires": "2026-11-02T00:37+09:00"
-  },
-  {
-   "id": "ad701348",
-   "key": "closing:ZIB:2026-10-30",
-   "kind": "closing",
-   "kind_label": "종료 임박",
-   "who": [
-    "ZIB"
-   ],
-   "origin": {
-    "head": "ZIB · 2026-10-23~2026-10-30",
-    "url": "https://www.mediapen.com/news/view/1132738",
-    "at": "2026-10-23",
-    "mult": null
-   },
-   "evidence": [
-    {
-     "from": "mediapen.com",
-     "at": "2026-10-30",
-     "title": "3일 뒤 종료 · "
-    }
-   ],
-   "news": [
-    {
-     "title": "상하이에 한국문화 공간 ‘ZIB’ 12월 개관, 붐업 행사",
-     "link": "https://www.mediapen.com/news/view/1132738",
-     "summary": "공간 ‘ZIB(집)’을 전격 조성한다. 문화원은 정식 오픈에 앞서 10월부터 11월까지 두 달간 다채로운 사전... 오는 12월 중순으로 예정된 ZIB의 정식 개관에 앞서 문화원 2층에서 사전 붐업 프로그램이 열렸다./사진...",
-     "date": "2026-10-27",
-     "kind": "news"
-    },
-    {
-     "title": "주상하이한국문화원, 글로벌 K-존 ‘ZIB’ 사전 붐업행사 개최",
-     "link": "https://www.dt.co.kr/article/12091230?ref=naver",
-     "summary": "주상하이한국문화원은 문화체육관광부가 추진하는 ‘글로벌 K-존(Global K-Zone)’과 한국문화 공간 ‘ZIB... 주상하이문화원의 ‘ZIB’은 한국다움이 살아가는 집(House of Korean Culture)을 지향하며 K-Pop, K-Food, K-Beauty를...",
-     "date": "2026-10-26",
-     "kind": "news"
-    },
-    {
-     "title": "주상하이한국문화원, '글로벌 K-존' 12월 문 연다",
-     "link": "https://www.dongponews.net/news/articleView.html?idxno=61292",
-     "summary": "공간인 'ZIB(집)'을 조성하고, 12월 중순 정식 개관을 앞두고 10월부터 11월까지 사전 홍보행사를 개최한다고... 상하이문화원이 선보이는 'ZIB'은 '한국다움이 살아가는 집(House of Korean Culture)'을 지향한다. K-팝과 K-푸드, K...",
-     "date": "2026-10-26",
-     "kind": "news"
-    }
-   ],
-   "plans": [
-    {
-     "format": "종료 임박 정리",
-     "corner": "followup",
-     "title": "ZIB, 30일까지 남은 사흘",
-     "angle": "10월 23일~30일 ZIB를 종료 전 남은 날 기준으로, 기간·장소·입장 방법·현장 대기까지 한 장에 정리합니다.",
-     "why": "10월 30일 종료까지 사흘 남았습니다.",
-     "check": "확인: 10/23~30 ZIB의 장소·입장 방법, 상하이 문화원 건과 같은 행사인지"
-    },
-    {
-     "format": "현장 정리",
-     "corner": "followup",
-     "title": "ZIB, 한국다움이 사는 집",
-     "angle": "‘House of Korean Culture’를 내건 공간이 K-팝·K-푸드·K-뷰티를 어떻게 담는지 공식 사진 기준으로 봅니다.",
-     "why": "12월 중순 정식 개관을 앞두고 사전 붐업이 한창입니다.",
-     "check": "확인: 문화원 공식 사진·보도자료 사용 가능 여부, 정식 개관일"
-    }
-   ],
-   "score": 7.0,
-   "preempt": null,
-   "made_at": "2026-10-27T10:37+09:00",
-   "expires": "2026-10-30T10:37+09:00"
   },
   {
    "id": "229ff7a6",
