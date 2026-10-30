@@ -613,11 +613,67 @@
      "v": {
       "A": "3405040d",
       "B": "abcc5681",
-      "C": "5c3e7320"
+      "C": "5c3e7320",
+      "E": "62d9da17",
+      "J": "adbc691d"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-30T13:25+09:00",
+    "confirm": [
+     "성수 매장 2층 '뷰티온누리약국' 입점 — 검색 기사에서는 홍대점(지하 1층) 입점만 확인됨. 성수점 입점 여부는 무신사 공식 발표로 다시 확인 필요",
+     "'99개 브랜드 첫 입점'·'약 700개 브랜드'·'약 400평'·'연무장길 87' — 검색 결과에서 직접 확인 못 함. 원문 출처(무신사 발표) 재확인",
+     "홍대점 오픈 시기 '9월' — 한 기사(5월 보도)에는 '9월 성수·11월 홍대' 계획으로 나와 순서가 엇갈림. 실제 홍대점 오픈일 재확인",
+     "400평을 영어판에서 약 1,320㎡로 환산해 병기함 (원문엔 없는 환산치)",
+     "영어 해시태그 #KBeauty·#SeoulShopping, 일본어 #韓国コスメ 는 원문에 없는 현지 검색용 태그로 바꿔 넣음",
+     "영어·일본어 · '뷰티온누리약국' 공식 영문·일문 표기 미확인 — 지금은 로마자·카타카나로 옮김",
+     "일본어 · 캡션에 'MUSINSA BEAUTY'와 'ムシンサ' 표기가 섞여 있음 — 일본 공식 표기에 맞춰 하나로 맞출지 확인"
+    ],
+    "review": {
+     "at": "2026-10-30T13:25+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 · '뷰티온누리약국' 공식 영문·일문 표기 미확인 — 지금은 로마자·카타카나로 옮김",
+      "일본어 · 캡션에 'MUSINSA BEAUTY'와 'ムシンサ' 표기가 섞여 있음 — 일본 공식 표기에 맞춰 하나로 맞출지 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nMUSINSA BEAUTY opens its second standalone store on Yeonmujang-gil in Seongsu-dong on Nov 11.\n\nIt follows the Hongdae store that opened in September. Across the first and second floors, about 400 pyeong (roughly 1,320㎡), the store carries around 700 brands and more than 10,000 products. According to MUSINSA, 99 of those brands are appearing in a MUSINSA BEAUTY offline store for the first time.\n\nThe second floor is the one to note. Beauty Onnuri Pharmacy, a beauty-focused pharmacy, opens there too, giving shoppers a place to choose products after consulting a pharmacist.\n\nDates: Opens Wed, Nov 11\nLocation: 87 Yeonmujang-gil, Seongdong-gu, Seoul (Seongsu-dong)\n\n#SENE #MusinsaBeauty #Seongsu #SeoulShopping #KBeauty\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317161/fm2nds8s6kvv2xlnffny.jpg\n제목: MUSINSA BEAUTY Opens|Second Store in Seongsu\n부제: Nov 11 · 87 Yeonmujang-gil\n출처: MUSINSA\n",
+      "caption": "MUSINSA BEAUTY opens its second standalone store on Yeonmujang-gil in Seongsu-dong on Nov 11.\n\nIt follows the Hongdae store that opened in September. Across the first and second floors, about 400 pyeong (roughly 1,320㎡), the store carries around 700 brands and more than 10,000 products. According to MUSINSA, 99 of those brands are appearing in a MUSINSA BEAUTY offline store for the first time.\n\nThe second floor is the one to note. Beauty Onnuri Pharmacy, a beauty-focused pharmacy, opens there too, giving shoppers a place to choose products after consulting a pharmacist.\n\nDates: Opens Wed, Nov 11\nLocation: 87 Yeonmujang-gil, Seongdong-gu, Seoul (Seongsu-dong)\n\n#SENE #MusinsaBeauty #Seongsu #SeoulShopping #KBeauty",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334362/el0xnykapxe1eeecl8th.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334361/qfon4fzlsiinigmwingh.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334362/el0xnykapxe1eeecl8th.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T13:26+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nMUSINSA BEAUTY（ムシンサビューティー）が11月11日、ソウル・聖水洞（ソンスドン）のヨンムジャンギル（연무장길）に2店舗目の単独店をオープンします。\n\n9月にオープンした弘大（ホンデ）店に続く店舗で、地上1〜2階の約400坪に約700ブランド、1万点あまりの商品がそろいます。ムシンサによると、このうち99ブランドがMUSINSA BEAUTYのオフライン店舗に初めて入店するとのことです。\n\n注目は2階です。ビューティー特化型の薬局「ビューティーオンヌリ薬局（뷰티온누리약국）」が併設され、薬剤師に相談しながら商品を選べる場が設けられます。\n\n期間：11月11日（水）オープン\n場所：ソウル特別市城東区ヨンムジャンギル87（聖水洞）\n\n#SENE #ムシンサビューティー #韓国コスメ #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317161/fm2nds8s6kvv2xlnffny.jpg\n제목: ムシンサビューティー、|聖水に2号店オープン\n부제: 11月11日・ヨンムジャンギル87\n출처: MUSINSA\n",
+      "caption": "MUSINSA BEAUTY（ムシンサビューティー）が11月11日、ソウル・聖水洞（ソンスドン）のヨンムジャンギル（연무장길）に2店舗目の単独店をオープンします。\n\n9月にオープンした弘大（ホンデ）店に続く店舗で、地上1〜2階の約400坪に約700ブランド、1万点あまりの商品がそろいます。ムシンサによると、このうち99ブランドがMUSINSA BEAUTYのオフライン店舗に初めて入店するとのことです。\n\n注目は2階です。ビューティー特化型の薬局「ビューティーオンヌリ薬局（뷰티온누리약국）」が併設され、薬剤師に相談しながら商品を選べる場が設けられます。\n\n期間：11月11日（水）オープン\n場所：ソウル特別市城東区ヨンムジャンギル87（聖水洞）\n\n#SENE #ムシンサビューティー #韓国コスメ #聖水 #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334364/wap9ourkrstnyqtq0v7b.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334364/mtf38suwxrjmihqbyu6z.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334364/wap9ourkrstnyqtq0v7b.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T13:26+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1645,10 +1701,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T13:24+09:00"
+  "at": "2026-10-30T13:26+09:00"
  },
  "queue": {
-  "next": "2026-10-30T13:26+09:00",
+  "next": "2026-10-30T13:28+09:00",
   "n": 0,
   "gap": 20
  },
