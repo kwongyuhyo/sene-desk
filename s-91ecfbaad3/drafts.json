@@ -1903,9 +1903,21 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351277/ujp73cxywbauiol0g5ak.jpg",
      "key": "y_7jjgp6ROQ@30.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-30T18:08+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793351538/sene_studio/hms5swtqv3vuumeumqi1.mp4",
+     "at": "2026-10-30T18:12+09:00",
+     "file": "BulGaLi_JeonSiE_On_JangWonYeong_PaeSyeon_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793351540709-348db14e",
+      "segs": [
+       {
+        "start": 20.38,
+        "end": 30.0,
+        "text": "이번엔 hose 뒤로 귀엽 Know"
+       }
+      ]
+     },
+     "v": "6c05d93a"
     }
    },
    "corner_name": "그 룩, 얼마",
@@ -2235,10 +2247,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T18:11+09:00"
+  "at": "2026-10-30T18:12+09:00"
  },
  "queue": {
-  "next": "2026-10-30T18:13+09:00",
+  "next": "2026-10-30T18:14+09:00",
   "n": 0,
   "gap": 20
  },
