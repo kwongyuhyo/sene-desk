@@ -1979,7 +1979,13 @@
      "end": 105.0,
      "full": 195.0
     },
-    "subs_saved": "자동"
+    "subs_saved": "자동",
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfHcez3Ehq0/",
+     "at": "2026-10-30T20:11+09:00",
+     "account": "sene",
+     "via": "api"
+    }
    },
    "corner_name": "그 룩, 얼마",
    "corner_no": 1,
@@ -2039,6 +2045,12 @@
        "file": "At_the_Bulgari_show_Jang_Wonyoung_PaeSyeon_no_lyrics.mp4",
        "sig": "2ed0b81c1f",
        "v": "7ab801da"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfHcjCDlUKx/",
+       "at": "2026-10-30T20:12+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      }
     },
@@ -2071,6 +2083,12 @@
        "file": "burugariZhanniLaita_chiyan-uoniyon_PaeSyeon_no_lyrics.mp4",
        "sig": "57d4c462bf",
        "v": "33e7d2b4"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfHctNIicth/",
+       "at": "2026-10-30T20:13+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      }
     }
@@ -2328,10 +2346,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T19:52+09:00"
+  "at": "2026-10-30T20:13+09:00"
  },
  "queue": {
-  "next": "2026-10-30T19:54+09:00",
+  "next": "2026-10-30T20:31+09:00",
   "n": 0,
   "gap": 20
  },
