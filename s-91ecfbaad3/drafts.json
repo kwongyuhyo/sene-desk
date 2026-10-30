@@ -1914,7 +1914,7 @@
     }
    },
    "shorts": {
-    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=y_7jjgp6ROQ\n구간: 0:30-1:00\n곡: *장원영*\n아티스트: 불가리 전시에 온\n피처링:\n후킹: \n출처: CBC World\n자막: 자동",
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=y_7jjgp6ROQ\n구간: 0:30-1:00\n곡: *장원영*\n아티스트: 불가리 전시에 온\n피처링:\n후킹: \n출처: CBC World\n자막: 끔",
     "caption": "아이브 장원영(@for_everyoung10)이 불가리 전시 프리뷰 포토월에 섰습니다.\n\n불가리가 비제로원 컬렉션을 한국 현대미술로 다시 풀어낸 전시의 개막 자리였는데요, 앰버서더로 온 장원영은 로즈 골드 비제로원 체인 네크리스와 브레이슬릿, 링에 투보가스 워치를 더했습니다. 불가리가 모델 번호를 밝히지 않아 국내 공식가는 확인 안 됨입니다.\n\n영상은 10월 28일 송은 포토월 현장입니다. 전시는 무료로 열려 있습니다.\n\n기간: 10월 29일(목) ~ 11월 14일(토)\n장소: 송은 (서울 강남구 도산대로 441)\n관람: 무료 · 네이버 사전 예약\n영상: CBC World\n\n#SENE #그룩얼마 #장원영 #불가리 #송은",
     "hooks": {
      "A": "불가리 전시에 온 / *장원영*",
@@ -1967,20 +1967,10 @@
      "key": "y_7jjgp6ROQ@30.0"
     },
     "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793351538/sene_studio/hms5swtqv3vuumeumqi1.mp4",
-     "at": "2026-10-30T18:12+09:00",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793357222/sene_studio/gk8ixufh7grbswuofrtd.mp4",
+     "at": "2026-10-30T19:47+09:00",
      "file": "BulGaLi_JeonSiE_On_JangWonYeong_PaeSyeon_no_lyrics.mp4",
-     "subs": {
-      "id": "st:1793351540709-348db14e",
-      "segs": [
-       {
-        "start": 20.38,
-        "end": 30.0,
-        "text": "이번엔 hose 뒤로 귀엽 Know"
-       }
-      ]
-     },
-     "v": "6c05d93a"
+     "v": "bb0b9e71"
     },
     "px": {
      "vid": "y_7jjgp6ROQ",
@@ -1988,7 +1978,8 @@
      "off": 0.0,
      "end": 105.0,
      "full": 195.0
-    }
+    },
+    "subs_saved": "자동"
    },
    "corner_name": "그 룩, 얼마",
    "corner_no": 1,
@@ -2048,6 +2039,12 @@
        "file": "At_the_Bulgari_show_Jang_Wonyoung_PaeSyeon_no_lyrics.mp4",
        "sig": "0cebbea601",
        "v": "c6d1d644"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-30T19:47+09:00",
+       "sig": "2ed0b81c1f",
+       "job": 180
       }
      }
     },
@@ -2080,6 +2077,12 @@
        "file": "burugariZhanniLaita_chiyan-uoniyon_PaeSyeon_no_lyrics.mp4",
        "sig": "8f9ae3ed39",
        "v": "f44684b9"
+      },
+      "render": {
+       "status": "queued",
+       "at": "2026-10-30T19:47+09:00",
+       "sig": "57d4c462bf",
+       "job": 181
       }
      }
     }
@@ -2337,10 +2340,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T18:19+09:00"
+  "at": "2026-10-30T19:47+09:00"
  },
  "queue": {
-  "next": "2026-10-30T18:21+09:00",
+  "next": "2026-10-30T19:49+09:00",
   "n": 0,
   "gap": 20
  },
