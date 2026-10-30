@@ -1626,7 +1626,9 @@
      "cvr": 2,
      "at": "2026-10-30T17:44+09:00",
      "v": {
-      "A": "3631a836"
+      "A": "3631a836",
+      "E": "9d93a327",
+      "J": "4b5955c7"
      }
     }
    },
@@ -1637,7 +1639,75 @@
    },
    "corner_name": "콘서트 가는 날",
    "corner_no": 1,
-   "i18n_queued": "2026-10-30T17:44+09:00"
+   "i18n_queued": "2026-10-30T17:44+09:00",
+   "i18n": {
+    "at": "2026-10-30T17:45+09:00",
+    "confirm": [
+     "심규선 영문 표기: 공식 표기를 찾지 못해 로마자 'Shim Kyu-sun' 으로 썼습니다(활동명 Lucia 는 원문에 없어 넣지 않았습니다). 일본어는 シム・ギュソン（심규선）.",
+     "우리금융아트홀 영문 표기: 검색에서는 'Woori Art Hall'(옛 이름)만 나와 'Woori Financial Art Hall' 은 직역입니다. 일본어 「ウリ金融アートホール」도 직역 — 올림픽공원 공식 영문·일문 표기를 한 번 확인해 주세요.",
+     "'2019년 12월 31일 이후 출생자' 는 그날을 포함하는 뜻으로 보고 영어 'on or after Dec 31, 2019' 로 옮겼습니다. 예매처 안내 문구와 맞는지 확인해 주세요.",
+     "영어판 실용 정보 줄의 '일시'는 'Dates:', '가는 길'은 'Getting there:', '관람'은 'Admission:' 으로 썼습니다. 일본어판은 「日時：」「アクセス：」「観覧：」 입니다.",
+     "원문 '전석 매진' 은 Soompi 등 보도에서 EDAM엔터테인먼트 발표로 확인했습니다 — https://www.soompi.com/article/1816808wpp/woodz-announces-dates-and-cities-for-2026-world-tour-archive-1 · https://www.starnewskorea.com/en/music/2026/10/08/2026100811314463226",
+     "심규선의 공식 영어 표기를 확인하지 못함 — 'Shim Kyu Sun'·'Sim Kyu Seon'이 섞여 쓰이고 예전 활동명은 Lucia(루시아). 소속사·공식 계정 표기 확인 필요 (참고: https://wiki.d-addicts.com/Lucia , https://www.generasia.com/wiki/Sim_Kyu_Seon)",
+     "부제 한 줄이 영어 약 31자·일본어 약 18자로 권장 길이(22자·12자 안팎)를 넘음 — 표지에서 한 줄에 들어가는지 확인 필요",
+     "'2019년 12월 31일 이후 출생자'를 영·일 모두 그날을 포함하는 뜻(on or after / 以降)으로 옮김 — 원 공지의 기준일이 맞는지 확인 필요"
+    ],
+    "review": {
+     "at": "2026-10-30T17:45+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · SHINee's (@shinee) Onew → Onew of SHINee (@shinee) — 소유격 사이에 핸들 괄호가 끼어 어색함",
+      "일본어 · 본문(표를 현장에서 받는다면) · 身分証明書の原本をチケット売り場に提出します → チケット売り場で提示します — 提出은 신분증을 넘겨주는 뜻으로 읽힘",
+      "일본어 · 캡션 둘째 단락 · アンコール公演ですが、 → アンコール公演で、 — '~인데요' 직역으로 역접처럼 읽힘"
+     ],
+     "doubt": [
+      "심규선의 공식 영어 표기를 확인하지 못함 — 'Shim Kyu Sun'·'Sim Kyu Seon'이 섞여 쓰이고 예전 활동명은 Lucia(루시아). 소속사·공식 계정 표기 확인 필요 (참고: https://wiki.d-addicts.com/Lucia , https://www.generasia.com/wiki/Sim_Kyu_Seon)",
+      "부제 한 줄이 영어 약 31자·일본어 약 18자로 권장 길이(22자·12자 안팎)를 넘음 — 표지에서 한 줄에 들어가는지 확인 필요",
+      "'2019년 12월 31일 이후 출생자'를 영·일 모두 그날을 포함하는 뜻(on or after / 以降)으로 옮김 — 원 공지의 기준일이 맞는지 확인 필요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nWOODZ (@woodz_dnwm) takes the KSPO DOME stage for the first time tomorrow.\n\nThe shows are the Seoul encore closing his world tour 'Archive. 1', which began in Incheon in March. Both the Saturday and Sunday nights sold out as soon as general sales opened.\n\nIf you are picking up tickets on site, bring your booking confirmation and the ticket holder's own physical ID. Photocopies and phone photos are not accepted. On the same days, Onew of SHINee (@shinee) plays Olympic Hall and Shim Kyu-sun plays Woori Financial Art Hall inside Olympic Park, so audiences of all three shows will share the station and parking lots.\n\nDates: Sat, Oct 31, 6 PM · Sun, Nov 1, 5 PM (120 min)\nLocation: KSPO DOME, Olympic Park, 424 Olympic-ro, Songpa-gu, Seoul\nGetting there: Subway Lines 5 and 9, Olympic Park Station, Exit 3 · nearest entrances East Gate 2 and North Gate 2\nAdmission: Anyone born on or after Dec 31, 2019 cannot enter, even with a guardian\n#SENE #WOODZ #KSPODOME #OlympicPark #SeoulConcert #KpopConcert\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793349838/jufq0eklvssq2g7geslg.jpg\n제목: Concert Day|WOODZ at KSPO DOME\n부제: Oct 31 Sat 6PM · Nov 1 Sun 5PM\n출처: @woodz_dnwm\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793349841/l6npsykk9h2r92my5auv.jpg\n소제목: When · Where\n본문: Sat, Oct 31, 6 PM · Sun, Nov 1, 5 PM|Running time: 120 minutes|KSPO DOME, Olympic Park, 424 Olympic-ro, Songpa-gu, Seoul|Both nights sold out\n출처: @woodz_dnwm\n\n[슬라이드]\n소스: \n소제목: Picking Up Tickets On Site\n본문: Bring your booking confirmation with the reservation number and the ticket holder's own physical ID to the box office.|Photocopies and phone photos are not accepted.|Anyone born on or after Dec 31, 2019 cannot enter, even with a guardian.\n출처: \n\n[슬라이드]\n소스: \n소제목: Getting There\n본문: Subway Lines 5 and 9, Olympic Park Station, Exit 3|Nearest park entrances: East Gate 2 and North Gate 2|Buses 3216 · 3412 · 3413 · 3414 · Gyeonggi 30 · 30-5|Driving: P5 parking lot (181 spaces · 6 AM–10 PM · compact cars KRW 600 per 10 min)\n출처: \n\n[슬라이드]\n소스: \n소제목: Same Day, Same Park\n본문: Three venues in Olympic Park host shows this weekend.|Olympic Hall — SHINee Onew concert|Woori Financial Art Hall — Shim Kyu-sun solo concert|Audiences of all three shows share the station and parking lots.\n출처: \n",
+      "caption": "WOODZ (@woodz_dnwm) takes the KSPO DOME stage for the first time tomorrow.\n\nThe shows are the Seoul encore closing his world tour 'Archive. 1', which began in Incheon in March. Both the Saturday and Sunday nights sold out as soon as general sales opened.\n\nIf you are picking up tickets on site, bring your booking confirmation and the ticket holder's own physical ID. Photocopies and phone photos are not accepted. On the same days, Onew of SHINee (@shinee) plays Olympic Hall and Shim Kyu-sun plays Woori Financial Art Hall inside Olympic Park, so audiences of all three shows will share the station and parking lots.\n\nDates: Sat, Oct 31, 6 PM · Sun, Nov 1, 5 PM (120 min)\nLocation: KSPO DOME, Olympic Park, 424 Olympic-ro, Songpa-gu, Seoul\nGetting there: Subway Lines 5 and 9, Olympic Park Station, Exit 3 · nearest entrances East Gate 2 and North Gate 2\nAdmission: Anyone born on or after Dec 31, 2019 cannot enter, even with a guardian\n#SENE #WOODZ #KSPODOME #OlympicPark #SeoulConcert #KpopConcert",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349958/syiqknygff8lmxdszd2l.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349958/rh8gcpg2pzhp2zatceu0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349958/ogcbfehtv1g3bcnotcsv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349958/bveibsvhhjih0lmpn3su.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349959/an8cxtfvk4znvqkiwqz5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349959/ebbzeu2jf9xdix30b7fx.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349958/syiqknygff8lmxdszd2l.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T17:46+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nWOODZ（@woodz_dnwm）が明日、初めてKSPO DOMEのステージに立ちます。\n\n3月に仁川（インチョン）で始まったワールドツアー「Archive. 1」を締めくくるソウルでのアンコール公演で、土・日の2日間とも一般販売の開始と同時に全席完売しました。\n\nチケットを現地で受け取る場合は、予約確認書と予約者本人の身分証明書の原本が必要です。コピーやスマートフォンの写真は受け付けません。同じ日にはオリンピック公園内のオリンピックホールでSHINee（@shinee）のオンユ、ウリ金融アートホールでシム・ギュソン（심규선）の公演も開かれ、駅と駐車場を3公演の観客が一緒に利用します。\n\n日時：10月31日（土）18時・11月1日（日）17時（120分）\n場所：ソウル・松坡区（ソンパグ）オリンピック路424 オリンピック公園 KSPO DOME\nアクセス：地下鉄5・9号線 オリンピック公園駅 3番出口・最寄りの入口は東2門・北2門\n観覧：2019年12月31日以降に生まれた方は保護者同伴でも入場不可\n#SENE #WOODZ #韓国旅行 #KSPODOME #オリンピック公園 #韓国コンサート\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793349838/jufq0eklvssq2g7geslg.jpg\n제목: コンサートの日|WOODZ KSPO DOME\n부제: 10/31（土）18時・11/1（日）17時\n출처: @woodz_dnwm\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793349841/l6npsykk9h2r92my5auv.jpg\n소제목: いつ・どこで\n본문: 10月31日（土）18時・11月1日（日）17時|公演時間120分|ソウル・松坡区（ソンパグ）オリンピック路424 オリンピック公園 KSPO DOME|両日とも全席完売\n출처: @woodz_dnwm\n\n[슬라이드]\n소스: \n소제목: チケットを現地で受け取るなら\n본문: 予約番号が記載された予約確認書と、予約者本人の身分証明書の原本をチケット売り場で提示します。|コピーやスマートフォンの写真は受け付けません。|2019年12月31日以降に生まれた方は、保護者が同伴しても入場できません。\n출처: \n\n[슬라이드]\n소스: \n소제목: アクセス\n본문: 地下鉄5・9号線 オリンピック公園駅 3番出口|最寄りの公園入口は東2門・北2門|バス 3216・3412・3413・3414・京畿30・30-5|車の場合はP5駐車場（181台・6:00〜22:00・小型車10分ごとに600ウォン）\n출처: \n\n[슬라이드]\n소스: \n소제목: 同じ日、同じ公園で\n본문: 今週末、オリンピック公園では3つの会場で公演が開かれます。|オリンピックホール — SHINee オンユのコンサート|ウリ金融アートホール — シム・ギュソン（심규선）単独コンサート|駅と駐車場は3公演の観客が一緒に利用します。\n출처: \n",
+      "caption": "WOODZ（@woodz_dnwm）が明日、初めてKSPO DOMEのステージに立ちます。\n\n3月に仁川（インチョン）で始まったワールドツアー「Archive. 1」を締めくくるソウルでのアンコール公演で、土・日の2日間とも一般販売の開始と同時に全席完売しました。\n\nチケットを現地で受け取る場合は、予約確認書と予約者本人の身分証明書の原本が必要です。コピーやスマートフォンの写真は受け付けません。同じ日にはオリンピック公園内のオリンピックホールでSHINee（@shinee）のオンユ、ウリ金融アートホールでシム・ギュソン（심규선）の公演も開かれ、駅と駐車場を3公演の観客が一緒に利用します。\n\n日時：10月31日（土）18時・11月1日（日）17時（120分）\n場所：ソウル・松坡区（ソンパグ）オリンピック路424 オリンピック公園 KSPO DOME\nアクセス：地下鉄5・9号線 オリンピック公園駅 3番出口・最寄りの入口は東2門・北2門\n観覧：2019年12月31日以降に生まれた方は保護者同伴でも入場不可\n#SENE #WOODZ #韓国旅行 #KSPODOME #オリンピック公園 #韓国コンサート",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349964/wwveac7vxyen06yrbwdc.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349964/rqdbxarwwvzc6wvcl9ld.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349964/xrvefeghoogx13wxqhzj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349964/ksqvhhd6wvfbzuegjaun.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349965/a0ghhpdsfh3dvxvnornp.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349965/xqtkbjesugrothexaxnq.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349964/wwveac7vxyen06yrbwdc.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T17:46+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1885,10 +1955,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T17:44+09:00"
+  "at": "2026-10-30T17:46+09:00"
  },
  "queue": {
-  "next": "2026-10-30T17:46+09:00",
+  "next": "2026-10-30T17:48+09:00",
   "n": 0,
   "gap": 20
  },
