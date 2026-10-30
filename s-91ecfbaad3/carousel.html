@@ -2796,6 +2796,7 @@ function parseDeckForm(text) {
         if ((kv["날짜"] || "").trim()) out.date = kv["날짜"].trim();
       } else {
         sl.form = fm && fm !== "type" ? fm : "";
+        if (sl.vid && sl.form === "evidence") sl.form = "";      // 10/30 자료 영상 — 사진 칸에 영상
         const q = sl.form === "quote";
         sl.heading = tagsToStars(unlit(kv["소제목"] || ""), q ? ["em", "i"] : []);
         sl.body = tagsToStars(unlit(kv["본문"] || ""), q ? [] : ["b"]);
@@ -3944,9 +3945,9 @@ document.getElementById("clearSample").onclick = () => document.getElementById("
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.30 19:52';
+    a.title = '판 10.30 20:01';
     var ver = document.createElement('span');
-    ver.textContent = '10.30 19:52';
+    ver.textContent = '10.30 20:01';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
