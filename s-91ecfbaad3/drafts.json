@@ -514,6 +514,13 @@
        "cvr": 2,
        "at": "2026-10-30T08:36+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfHdPizFMDX/",
+      "cover": "E",
+      "at": "2026-10-30T20:18+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -535,6 +542,13 @@
        "cvr": 2,
        "at": "2026-10-30T08:36+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfHdTEDlFxe/",
+      "cover": "J",
+      "at": "2026-10-30T20:18+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -548,7 +562,14 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356847/fqo5x66wkad095lrszdr.jpg",
      "from": "https://news.seoul.go.kr/culture/archives/534345"
     }
-   ]
+   ],
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfHdLuTFBn4/",
+    "cover": "A",
+    "at": "2026-10-30T20:17+09:00",
+    "account": "sene",
+    "via": "api"
+   }
   },
   {
    "source": {
@@ -689,6 +710,13 @@
        "cvr": 2,
        "at": "2026-10-30T13:26+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfHdF9yFCVM/",
+      "cover": "E",
+      "at": "2026-10-30T20:16+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -706,6 +734,13 @@
        "cvr": 2,
        "at": "2026-10-30T13:26+09:00"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfHdICBlL1p/",
+      "cover": "J",
+      "at": "2026-10-30T20:17+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -714,7 +749,14 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356853/ft0whxocsnoles5npofg.jpg",
      "from": "https://www.newsis.com/view/NISX20261030_0003847617"
     }
-   ]
+   ],
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfHdDrglGXo/",
+    "cover": "A",
+    "at": "2026-10-30T20:16+09:00",
+    "account": "sene",
+    "via": "api"
+   }
   },
   {
    "source": {
@@ -1115,6 +1157,13 @@
        "sig": "4783270f5f",
        "v": "cbc637fc"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfHc810FL4Y/",
+      "cover": "E",
+      "at": "2026-10-30T20:15+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -1144,6 +1193,13 @@
        "sig": "4240925d57",
        "v": "7f718cef"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfHc-56FEhd/",
+      "cover": "J",
+      "at": "2026-10-30T20:16+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -1152,7 +1208,14 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356857/uppadbbmhmdnfaya7bbv.jpg",
      "from": "http://www.osen.co.kr/article/G1112900936"
     }
-   ]
+   ],
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfHc67jlJ7x/",
+    "cover": "A",
+    "at": "2026-10-30T20:15+09:00",
+    "account": "sene",
+    "via": "api"
+   }
   },
   {
    "source": {
@@ -2346,10 +2409,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T20:13+09:00"
+  "at": "2026-10-30T20:18+09:00"
  },
  "queue": {
-  "next": "2026-10-30T20:31+09:00",
+  "next": "2026-10-30T20:37+09:00",
   "n": 0,
   "gap": 20
  },
