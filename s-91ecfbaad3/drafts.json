@@ -330,11 +330,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 3,
-    "why": "어제 별세한 배우 최불암 — 오늘 다들 이야기하는 소식",
-    "at": "2026-10-30T11:44+09:00"
-   },
    "published": {
     "permalink": "https://www.instagram.com/p/DfGvJToGZQs/",
     "cover": "A",
@@ -531,9 +526,9 @@
     }
    },
    "pick": {
-    "rank": 2,
-    "why": "금요일 낮에 저장할 주말 정리 — 토요일 밤 드론쇼 하반기 마지막 회, 장원영이 다녀간 불가리 전시는 토요일만",
-    "at": "2026-10-30T11:44+09:00"
+    "rank": 3,
+    "why": "금요일 퇴근길에 저장할 주말 정리 — 토요일 밤 하반기 마지막 드론쇼, 장원영이 다녀간 불가리 전시는 토요일만",
+    "at": "2026-10-30T17:43+09:00"
    }
   },
   {
@@ -1469,11 +1464,6 @@
      "v": "8b7fcad5"
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "어제 공개된 아이들 공식 비하인드 속 슈화의 한 장면 — 오늘 유일한 숏폼이자 케이팝 순간형",
-    "at": "2026-10-30T11:44+09:00"
-   },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
    "i18n_queued": "2026-10-30T11:45+09:00",
@@ -1522,7 +1512,132 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "아이들 공식 비하인드 속 슈화의 한 장면 — 오늘 유일한 숏폼이자 케이팝 순간형",
+    "at": "2026-10-30T17:43+09:00"
    }
+  },
+  {
+   "source": {
+    "id": "claude:concert-woodz-kspo",
+    "account": "멜론티켓 공연 페이지",
+    "url": "https://ticket.melon.com/performance/index.htm?prodId=213923",
+    "image": null,
+    "head": "2026 WOODZ WORLD TOUR Archive. 1 : Completed — 10/31 토 18시 · 11/1 일 17시 · KSPO D",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-30T17:43+09:00",
+   "key": "a33f60ef",
+   "by": "claude",
+   "subjects": [
+    "우즈"
+   ],
+   "lane": "정리",
+   "editor": {
+    "grade": "A",
+    "kind": "정리",
+    "angle": "내일 우즈의 첫 KSPO DOME 공연 — 몇 시에, 어느 출구로, 무엇을 챙겨 가나. 같은 날 공원 안 세 공연장이 함께 열린다는 것까지",
+    "why": "연재 「콘서트 가는 날」 — 10/31 18시·11/1 17시 양일 매진 앙코르 공연 전날, 예매처·올림픽공원 공식 페이지로 확인한 것만"
+   },
+   "added": "claude",
+   "added_at": "2026-10-30T17:43+09:00",
+   "corner": "concert",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n우즈(@woodz_dnwm)가 내일 처음으로 KSPO DOME 무대에 섭니다.\n\n3월 인천에서 시작한 월드투어 'Archive. 1'을 마무리하는 서울 앙코르 공연인데요, 토·일 이틀 모두 일반 예매가 열리자마자 전석 매진됐습니다.\n\n표를 현장에서 받는다면 예매확인서와 예매자 본인의 실물 신분증을 챙겨야 합니다. 복사본이나 휴대폰 사진은 받지 않습니다. 같은 날 올림픽공원 안 올림픽홀에서는 샤이니(@shinee) 온유, 우리금융아트홀에서는 심규선의 공연도 열려 역과 주차장을 세 공연 관객이 함께 씁니다.\n\n일시: 10월 31일(토) 오후 6시 · 11월 1일(일) 오후 5시 (120분)\n장소: 서울 송파구 올림픽로 424 올림픽공원 KSPO DOME\n가는 길: 5·9호선 올림픽공원역 3번 출구 · 가까운 입구 동2문·북2문\n관람: 2019년 12월 31일 이후 출생자는 보호자가 있어도 입장 불가\n#SENE #SENE콘서트가는날 #우즈 #WOODZ #KSPO돔 #올림픽공원\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793349838/jufq0eklvssq2g7geslg.jpg\n제목: 콘서트 가는 날|우즈 KSPO DOME\n부제: 10/31 토 18시 · 11/1 일 17시\n출처: @woodz_dnwm\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793349841/l6npsykk9h2r92my5auv.jpg\n소제목: 언제 · 어디\n본문: 10월 31일(토) 오후 6시 · 11월 1일(일) 오후 5시|공연 시간 120분|서울 송파구 올림픽로 424 올림픽공원 KSPO DOME|양일 전석 매진\n출처: @woodz_dnwm\n\n[슬라이드]\n소스: \n소제목: 표를 현장에서 받는다면\n본문: 예매번호가 있는 예매확인서와 예매자 본인의 실물 신분증을 매표소에 냅니다.|복사본이나 휴대폰 사진은 받지 않습니다.|2019년 12월 31일 이후 출생자는 보호자가 함께 와도 입장할 수 없습니다.\n출처: \n\n[슬라이드]\n소스: \n소제목: 가는 길\n본문: 지하철 5·9호선 올림픽공원역 3번 출구|가까운 공원 입구는 동2문·북2문|버스 3216 · 3412 · 3413 · 3414 · 경기 30 · 30-5|차를 가져온다면 P5 주차장(181대 · 06:00~22:00 · 소형 10분당 600원)\n출처: \n\n[슬라이드]\n소스: \n소제목: 같은 날, 같은 공원\n본문: 이번 주말 올림픽공원에서는 세 공연장이 함께 문을 엽니다.|올림픽홀 — 샤이니 온유 콘서트|우리금융아트홀 — 심규선 단독 콘서트|역과 주차장은 세 공연 관객이 함께 씁니다.\n출처:\n",
+    "caption": "우즈(@woodz_dnwm)가 내일 처음으로 KSPO DOME 무대에 섭니다.\n\n3월 인천에서 시작한 월드투어 'Archive. 1'을 마무리하는 서울 앙코르 공연인데요, 토·일 이틀 모두 일반 예매가 열리자마자 전석 매진됐습니다.\n\n표를 현장에서 받는다면 예매확인서와 예매자 본인의 실물 신분증을 챙겨야 합니다. 복사본이나 휴대폰 사진은 받지 않습니다. 같은 날 올림픽공원 안 올림픽홀에서는 샤이니(@shinee) 온유, 우리금융아트홀에서는 심규선의 공연도 열려 역과 주차장을 세 공연 관객이 함께 씁니다.\n\n일시: 10월 31일(토) 오후 6시 · 11월 1일(일) 오후 5시 (120분)\n장소: 서울 송파구 올림픽로 424 올림픽공원 KSPO DOME\n가는 길: 5·9호선 올림픽공원역 3번 출구 · 가까운 입구 동2문·북2문\n관람: 2019년 12월 31일 이후 출생자는 보호자가 있어도 입장 불가\n#SENE #SENE콘서트가는날 #우즈 #WOODZ #KSPO돔 #올림픽공원",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349838/jufq0eklvssq2g7geslg.jpg",
+      "credit": "@woodz_dnwm",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/866074293_18416288230085831_5470469966861728382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QgqSq-FHAigQ7kNvwED0tjV&_nc_oc=Adq72KA9aigO-q_xsj_e2S9wxKCQAxwBFxE8J7RaukVe0cAwn81OdyCm4GMQYQ3dTqE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=OlkfDmshVIqaH0PY_Pqr6A&oh=00_AQRNI0BVNY-FYDq1e2NnVHy-iC9o8PgbZZNoMnV86GYdHA&oe=6AEA3774"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349841/l6npsykk9h2r92my5auv.jpg",
+      "credit": "@woodz_dnwm",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/831532851_18412428607085831_5209435548980194077_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zaEHahv2lbEQ7kNvwHyHrKu&_nc_oc=Adq4Q5tcZ4az-o8a-j16QRADuA13vPKDl2SYQtzHtBiBihYCMC7-d3DF4yEdsPgowJQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=OlkfDmshVIqaH0PY_Pqr6A&oh=00_AQTtu8aZCMsLrpHA6mCEPf8f7r5KJfpJtf9fZR7cntvUyg&oe=6AEA1C4D"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349838/jufq0eklvssq2g7geslg.jpg",
+      "credit": "@woodz_dnwm",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/866074293_18416288230085831_5470469966861728382_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=QgqSq-FHAigQ7kNvwED0tjV&_nc_oc=Adq72KA9aigO-q_xsj_e2S9wxKCQAxwBFxE8J7RaukVe0cAwn81OdyCm4GMQYQ3dTqE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=OlkfDmshVIqaH0PY_Pqr6A&oh=00_AQRNI0BVNY-FYDq1e2NnVHy-iC9o8PgbZZNoMnV86GYdHA&oe=6AEA3774"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349841/l6npsykk9h2r92my5auv.jpg",
+      "credit": "@woodz_dnwm",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/831532851_18412428607085831_5209435548980194077_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=zaEHahv2lbEQ7kNvwHyHrKu&_nc_oc=Adq4Q5tcZ4az-o8a-j16QRADuA13vPKDl2SYQtzHtBiBihYCMC7-d3DF4yEdsPgowJQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=OlkfDmshVIqaH0PY_Pqr6A&oh=00_AQTtu8aZCMsLrpHA6mCEPf8f7r5KJfpJtf9fZR7cntvUyg&oe=6AEA1C4D"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "콘서트 가는 날|우즈 KSPO DOME",
+      "sub": "10/31 토 18시 · 11/1 일 17시"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "MD 판매·반입 금지 물품 공지는 멜론티켓·검색에서 못 찾아 뺐음 — 오늘 밤 EDAM·우즈 공식 SNS 에 공지가 뜨면 장 하나 더하기",
+     "3번 출구·동2문·북2문은 올림픽공원 공식 KSPO DOME 안내 기준 (여행 안내 사이트 한 곳은 4번 출구라고 씀)",
+     "사진이 모자라 3장(2, 3, 4번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "멜론티켓 — 토 18시·일 17시 · 120분 · 8세 이상(2019.12.31 이후 출생자 보호자 동반 시에도 입장 불가) · 현장수령은 예매확인서+예매자 실물 신분증(복사본·사진 불가) · 주최 EDAM",
+      "link": "https://ticket.melon.com/performance/index.htm?prodId=213923"
+     },
+     {
+      "title": "올림픽공원 공식 일정 — KSPO DOME 우즈 10/31~11/1 토 18시·일 17시 / 같은 날 올림픽홀 온유 · 우리금융아트홀 심규선",
+      "link": "https://www.ksponco.or.kr/olympicpark/eventInfo/eventInfoList?mid=a20301010100"
+     },
+     {
+      "title": "올림픽공원 KSPO DOME 안내 — 5·9호선 올림픽공원역 3번 출구 · 가까운 입구 동2문·북2문 · P5 주차장 181대",
+      "link": "https://www.ksponco.or.kr/olympicpark/menu.es?mid=a20301030800"
+     },
+     {
+      "title": "텐아시아(10/8) — 3월 인천에서 시작한 월드투어 피날레 앙코르, 첫 KSPO DOME, 일반 예매 직후 양일 전석 매진",
+      "link": "https://www.tenasia.co.kr/article/2026100809754"
+     },
+     {
+      "title": "톱스타뉴스 — 우즈, KSPO DOME 첫 입성 서울 앙코르 콘서트 양일 전석 매진",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16241291"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349848/kderndlgpt3jqqgtg46l.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349848/usip3tvazoquomrhgans.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349847/cgsixcmmmvhd0hq50n2k.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349847/q7pczhpubjdnp7qddmib.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349849/or3srgygixspcsxwk0sd.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349849/mllujlbv4kn53tnpnmbr.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793349848/kderndlgpt3jqqgtg46l.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-30T17:44+09:00",
+     "v": {
+      "A": "3631a836"
+     }
+    }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "내일 18시 우즈의 첫 KSPO DOME — 양일 매진 관객이 오늘 밤 저장할 가는 날 정리 (실물 신분증·3번 출구)",
+    "at": "2026-10-30T17:43+09:00"
+   },
+   "corner_name": "콘서트 가는 날",
+   "corner_no": 1,
+   "i18n_queued": "2026-10-30T17:44+09:00"
   }
  ],
  "skipped": [],
@@ -1636,7 +1751,7 @@
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "큰 공연장(고척·KSPO·인스파이어·잠실·체조) 공연 전날·당일 — 가는 길·먹고 갈 곳·굿즈 줄·물품보관 (공식 공지 기준)"
    },
    {
@@ -1770,10 +1885,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T13:37+09:00"
+  "at": "2026-10-30T17:44+09:00"
  },
  "queue": {
-  "next": "2026-10-30T13:55+09:00",
+  "next": "2026-10-30T17:46+09:00",
   "n": 0,
   "gap": 20
  },
