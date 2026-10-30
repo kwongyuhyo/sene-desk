@@ -1238,13 +1238,26 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=vSKm0EN9Rm4\n구간: 0:45-1:18\n곡: but not its sound.\n아티스트: \n피처링:\n후킹: *Shuhua* hates rain,\n출처: i-dle\n자막: 자동",
-      "caption": "i-dle's Shuhua does not like rainy days.\n\nIt was raining in New York the day she shot for Seventeen magazine during the group's U.S. promotions. The moment she stepped out of the hotel, her energy dropped, and she admits that her bones and her head hurt more than usual that day. Even so, she adds that on nights when she can't sleep, she likes listening to the sound of rain.\n\nAfter saying she dislikes rain but loves the sound of it, Shuhua remarks that people probably find her hard to understand. The scene is taken from episode 264 of 'i-talk,' posted on i-dle's official YouTube channel on Oct 29, a behind-the-scenes look at the shoot and the group's U.S. promotions.\n\n#SENE #iDLE #Shuhua #NewYork #iTalk"
+      "caption": "i-dle's Shuhua does not like rainy days.\n\nIt was raining in New York the day she shot for Seventeen magazine during the group's U.S. promotions. The moment she stepped out of the hotel, her energy dropped, and she admits that her bones and her head hurt more than usual that day. Even so, she adds that on nights when she can't sleep, she likes listening to the sound of rain.\n\nAfter saying she dislikes rain but loves the sound of it, Shuhua remarks that people probably find her hard to understand. The scene is taken from episode 264 of 'i-talk,' posted on i-dle's official YouTube channel on Oct 29, a behind-the-scenes look at the shoot and the group's U.S. promotions.\n\n#SENE #iDLE #Shuhua #NewYork #iTalk",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793328671/sene_studio/sybzmgfcppoxi0f0iaej.mp4",
+       "at": "2026-10-30T11:51+09:00",
+       "file": "unknown_but_not_its_sound_KeolCheo_no_lyrics.mp4",
+       "sig": "3829bdb3b3",
+       "v": "fe8be15b"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=vSKm0EN9Rm4\n구간: 0:45-1:18\n곡: 雨音を聴く\n아티스트: 眠れない夜は\n피처링:\n후킹: 雨が嫌いな*シュファ*、\n출처: i-dle\n자막: 자동",
-      "caption": "i-dleのシュファは、雨の日が苦手です。\n\nアメリカでの活動中、ニューヨークで『Seventeen』のグラビアを撮影した日も雨が降っていました。ホテルを出た途端に元気がなくなり、今日はいつもより骨も頭も痛いと打ち明けます。それでも、眠れない夜には雨音を聴くのが好きだと付け加えます。\n\n雨は嫌いでも雨音は好きだと話したあと、シュファは自分のことは人に理解されにくいだろうと語ります。場面は10月29日にi-dle公式YouTubeで公開された「i-talk」第264回、グラビア撮影とアメリカでのプロモーションのビハインドから選びました。\n\n#SENE #iDLE #シュファ #ニューヨーク #韓国アイドル"
+      "caption": "i-dleのシュファは、雨の日が苦手です。\n\nアメリカでの活動中、ニューヨークで『Seventeen』のグラビアを撮影した日も雨が降っていました。ホテルを出た途端に元気がなくなり、今日はいつもより骨も頭も痛いと打ち明けます。それでも、眠れない夜には雨音を聴くのが好きだと付け加えます。\n\n雨は嫌いでも雨音は好きだと話したあと、シュファは自分のことは人に理解されにくいだろうと語ります。場面は10月29日にi-dle公式YouTubeで公開された「i-talk」第264回、グラビア撮影とアメリカでのプロモーションのビハインドから選びました。\n\n#SENE #iDLE #シュファ #ニューヨーク #韓国アイドル",
+      "render": {
+       "status": "queued",
+       "at": "2026-10-30T11:48+09:00",
+       "sig": "4963bfd8b0",
+       "job": 173
+      }
      }
     }
    }
@@ -1495,10 +1508,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T11:48+09:00"
+  "at": "2026-10-30T11:51+09:00"
  },
  "queue": {
-  "next": "2026-10-30T11:50+09:00",
+  "next": "2026-10-30T11:53+09:00",
   "n": 0,
   "gap": 20
  },
