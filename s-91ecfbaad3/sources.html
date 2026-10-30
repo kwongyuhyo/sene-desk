@@ -2444,6 +2444,11 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     }
     try {                                              // 10/22 미리 렌더한 완성본도 같이 넘긴다 (PLOT 반입)
       var rdn = kind === 'shorts' && ((it.shorts || {}).rendered || {});
+      var px = kind === 'shorts' && (it.shorts || {}).px;     // 10/30 광고 없는 사본 — 숏폼 앱이 유튜브 대신 튼다
+      if (px && px.vid && px.url) {
+        var pm = {}; try { pm = JSON.parse(localStorage.getItem('sene.px') || '{}') || {}; } catch (e) {}
+        px.at = Date.now(); pm[px.vid + '@' + px.off] = px; localStorage.setItem('sene.px', JSON.stringify(pm));
+      }
       if (rdn && rdn.url) localStorage.setItem('sene.form.handoff.done', JSON.stringify({ url: rdn.url, at: rdn.at || '', subs: rdn.subs || null }));
       else localStorage.removeItem('sene.form.handoff.done');
     } catch (e) {}
@@ -4567,9 +4572,9 @@ function hlPick(parts) {
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 10.30 19:06';
+    a.title = '판 10.30 19:34';
     var ver = document.createElement('span');
-    ver.textContent = '10.30 19:06';
+    ver.textContent = '10.30 19:34';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
