@@ -1153,7 +1153,39 @@
    },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
-   "i18n_queued": "2026-10-30T11:45+09:00"
+   "i18n_queued": "2026-10-30T11:45+09:00",
+   "i18n": {
+    "at": "2026-10-30T11:45+09:00",
+    "confirm": [
+     "슈화 일본어 표기 'シュファ' — 아이들 일본 공식 표기로 한 번 더 확인 필요 (웹 검색에서 공식 일본어 프로필은 찾지 못함)",
+     "영어 숏폼 세 칸: 원문대로 옮기면 40자를 넘어서 가운데 칸(아티스트 '잠 안 오는 밤엔')은 비우고 곡 칸을 'but not its sound.' 로 줄였습니다. '잠 안 오는 밤' 내용은 숏폼 캡션 본문에 그대로 있습니다",
+     "출처 칸 '(아이들)' 한글 병기는 빼고 공식 표기 i-dle 만 남겼습니다",
+     "i-talk 264회(10월 29일 공개)와 Seventeen 화보 내용은 원문 그대로 옮겼습니다. 웹 검색으로는 해당 회차를 따로 확인하지 못했습니다",
+     "영어 · 숏폼 제목 · 'Shuhua hates rain, but not its sound.' 는 원문 '잠 안 오는 밤엔 빗소리를 듣는다' 를 '빗소리는 싫지 않다'로 풀어 옮긴 것 — 뜻은 통하지만 '잠 안 오는 밤' 은 빠짐. 이대로 둘지 사람이 판단 필요"
+    ],
+    "review": {
+     "at": "2026-10-30T11:45+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 · 'which follows the shoot and the group's U.S. promotions behind the scenes' → 'a behind-the-scenes look at the shoot and the group's U.S. promotions' — behind the scenes 가 문장 끝에 붙어 어색한 직역투",
+      "일본어 · 숏폼 캡션 · 'シュファ（슈화）' → 'シュファ' — 남은 한글 제거 (シュファ가 일본에서 쓰는 표기이고, 본명 원어는 한국어가 아님)"
+     ],
+     "doubt": [
+      "영어 · 숏폼 제목 · 'Shuhua hates rain, but not its sound.' 는 원문 '잠 안 오는 밤엔 빗소리를 듣는다' 를 '빗소리는 싫지 않다'로 풀어 옮긴 것 — 뜻은 통하지만 '잠 안 오는 밤' 은 빠짐. 이대로 둘지 사람이 판단 필요"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=vSKm0EN9Rm4\n구간: 0:45-1:18\n곡: but not its sound.\n아티스트: \n피처링:\n후킹: *Shuhua* hates rain,\n출처: i-dle\n자막: 자동",
+      "caption": "i-dle's Shuhua does not like rainy days.\n\nIt was raining in New York the day she shot for Seventeen magazine during the group's U.S. promotions. The moment she stepped out of the hotel, her energy dropped, and she admits that her bones and her head hurt more than usual that day. Even so, she adds that on nights when she can't sleep, she likes listening to the sound of rain.\n\nAfter saying she dislikes rain but loves the sound of it, Shuhua remarks that people probably find her hard to understand. The scene is taken from episode 264 of 'i-talk,' posted on i-dle's official YouTube channel on Oct 29, a behind-the-scenes look at the shoot and the group's U.S. promotions.\n\n#SENE #iDLE #Shuhua #NewYork #iTalk"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=vSKm0EN9Rm4\n구간: 0:45-1:18\n곡: 雨音を聴く\n아티스트: 眠れない夜は\n피처링:\n후킹: 雨が嫌いな*シュファ*、\n출처: i-dle\n자막: 자동",
+      "caption": "i-dleのシュファは、雨の日が苦手です。\n\nアメリカでの活動中、ニューヨークで『Seventeen』のグラビアを撮影した日も雨が降っていました。ホテルを出た途端に元気がなくなり、今日はいつもより骨も頭も痛いと打ち明けます。それでも、眠れない夜には雨音を聴くのが好きだと付け加えます。\n\n雨は嫌いでも雨音は好きだと話したあと、シュファは自分のことは人に理解されにくいだろうと語ります。場面は10月29日にi-dle公式YouTubeで公開された「i-talk」第264回、グラビア撮影とアメリカでのプロモーションのビハインドから選びました。\n\n#SENE #iDLE #シュファ #ニューヨーク #韓国アイドル"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
