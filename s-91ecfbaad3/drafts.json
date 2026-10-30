@@ -1844,7 +1844,9 @@
      "v": {
       "A": "962f26d6",
       "B": "8a68330b",
-      "C": "67eb80f6"
+      "C": "67eb80f6",
+      "E": "b255151e",
+      "J": "9ff95b65"
      }
     }
    },
@@ -1908,7 +1910,84 @@
    },
    "corner_name": "그 룩, 얼마",
    "corner_no": 1,
-   "i18n_queued": "2026-10-30T18:08+09:00"
+   "i18n_queued": "2026-10-30T18:08+09:00",
+   "i18n": {
+    "at": "2026-10-30T18:11+09:00",
+    "confirm": [
+     "영어 전시 제목 'Light, Form and Vision' 은 기사 한 곳에서만 확인했습니다. 송은·불가리 공식 영문 표기를 다시 봐 주세요. 원제의 영문 부제는 'Roman Heritage in Dialogue with Korean Contemporary Art' 로 보입니다.",
+     "일본어 전시 제목 『光、形、そしてビジョン』은 공식 일본어 표기를 찾지 못해 옮겨 쓴 것입니다.",
+     "송은의 일본어 표기 'ソンウン（松恩）'과 영문 'SONGEUN' 이 공식 표기와 같은지 확인이 필요합니다.",
+     "숏폼 영어 두 칸(At the Bulgari show, / *Jang Wonyoung*)과 일본어 두 칸(ブルガリ展に来た / *チャン・ウォニョン*)은 '아티스트 → 곡' 순서로 이어 읽힌다고 보고 옮겼습니다.",
+     "전시 영어 제목 'Light, Form and Vision' 은 공식 영어 표기를 확인하지 못함 — 국내 보도상 전체 제목은 〈빛, 형상 그리고 비전: 한국 현대미술과 대화하는 로마의 유산〉, 송은·불가리 영문 자료 확인 필요",
+     "영어 숏폼 가운데 칸 'At the Bulgari show,' 는 20자 제한 때문에 'show' 를 남겨 둠 — 표지는 Exhibition 으로 고쳤으니 표현을 맞출지 사람이 판단",
+     "일본어 출처 칸 「トップスターニュース（톱스타뉴스）」 에 한글이 남아 있음 — 규칙상 허용(처음 한 번 원어 병기)이지만 출처 칸에서는 빼도 될지 판단"
+    ],
+    "review": {
+     "at": "2026-10-30T18:11+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · At the Bulgari Show → At the Bulgari Exhibition — 'show' 가 패션쇼로도 읽혀 뜻이 둘로 갈림",
+      "영어 · 캡션 첫 문장 · ATEEZ's (@ateez_official_) San → San of ATEEZ (@ateez_official_) — 소유격 뒤에 핸들이 끼어 어색함",
+      "영어 · 캡션·숏폼 캡션 둘째 단락 · The evening opened a show in which … is reinterpreted → The evening marked the opening of an exhibition that reinterprets … — 직역투, 'show' 모호함",
+      "일본어 · 부제 · 「あのルック、いくら・ソンウン…」 → 구분자 「・」를 「 / 」로 — 이름 안의 「・」와 섞여 끊어 읽는 곳이 헷갈림",
+      "일본어 · 장원영 소제목 · 「IVE チャン・ウォニョン・ブルガリ アンバサダー」 → 「IVE チャン・ウォニョン / ブルガリ アンバサダー」 — 이름의 「・」와 구분자 「・」가 이어져 '…ウォニョン・ブルガリ' 가 한 이름처럼 읽힘"
+     ],
+     "doubt": [
+      "전시 영어 제목 'Light, Form and Vision' 은 공식 영어 표기를 확인하지 못함 — 국내 보도상 전체 제목은 〈빛, 형상 그리고 비전: 한국 현대미술과 대화하는 로마의 유산〉, 송은·불가리 영문 자료 확인 필요",
+      "영어 숏폼 가운데 칸 'At the Bulgari show,' 는 20자 제한 때문에 'show' 를 남겨 둠 — 표지는 Exhibition 으로 고쳤으니 표현을 맞출지 사람이 판단",
+      "일본어 출처 칸 「トップスターニュース（톱스타뉴스）」 에 한글이 남아 있음 — 규칙상 허용(처음 한 번 원어 병기)이지만 출처 칸에서는 빼도 될지 판단"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nIVE's Jang Wonyoung (@for_everyoung10) and San of ATEEZ (@ateez_official_) attended the preview of a Bulgari exhibition.\n\nThe evening marked the opening of an exhibition that reinterprets Bulgari's B.zero1 collection through Korean contemporary art. Jang, attending as an ambassador, wore a rose gold B.zero1 chain necklace, bracelet and ring with a Tubogas watch. San wore a white suit; his pieces were not named in Bulgari's official credits. Model numbers for Jang's pieces were not disclosed either, so the official Korean prices remain unconfirmed.\n\nThe exhibition shows about 20 works by six artist teams, and a separate room on the second basement level traces the history of B.zero1. The Korean audio guide is narrated by ambassador Byeon Woo-seok.\n\nDates: Oct 29 (Thu) – Nov 14 (Sat)\nLocation: SONGEUN (441 Dosan-daero, Gangnam-gu, Seoul)\nHours: 11 a.m. – 6:30 p.m.\nAdmission: Free · advance booking via Naver\nDocent tours: 3 p.m. and 5 p.m. (separate sign-up)\n\n#SENE #Bulgari #BZERO1 #JangWonyoung #SeoulExhibition #Gangnam\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351242/boleslfuizsz8ei4eelm.jpg\n제목: At the Bulgari Exhibition:|Jang Wonyoung & San's Looks\n부제: The Look, Priced · SONGEUN 'Light, Form and Vision'\n출처: @for_everyoung10\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351248/heaxfyxukhs5rmxqiynq.jpg\n소제목: IVE's Jang Wonyoung · Bulgari Ambassador\n본문: Bulgari official credits|Rose gold B.zero1 chain necklace|Rose gold B.zero1 bracelet and ring|Bulgari Tubogas watch||Official Korean price: unconfirmed (model numbers not disclosed)\n출처: @for_everyoung10\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351254/xpktfsmijetq2yxsy6tk.jpg\n소제목: \n본문: \n출처: CBC World\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351244/zfkk3tocactbjzettds1.jpg\n소제목: ATEEZ's San\n본문: Stood at the photo wall in a white suit||Bulgari official credits: unconfirmed|Official Korean price: unconfirmed\n출처: Topstar News\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351246/hx4v4byywk4msgbba1fc.jpg\n소제목: Exhibition 'Light, Form and Vision'\n본문: About 20 paintings, sculptures, videos and installations by six Korean artist teams reinterpreting B.zero1||Dates: Oct 29 (Thu) – Nov 14 (Sat)|Location: SONGEUN (441 Dosan-daero, Gangnam-gu, Seoul)|Hours: 11 a.m. – 6:30 p.m.|Admission: Free · advance booking via Naver\n출처: Topstar News\n",
+      "caption": "IVE's Jang Wonyoung (@for_everyoung10) and San of ATEEZ (@ateez_official_) attended the preview of a Bulgari exhibition.\n\nThe evening marked the opening of an exhibition that reinterprets Bulgari's B.zero1 collection through Korean contemporary art. Jang, attending as an ambassador, wore a rose gold B.zero1 chain necklace, bracelet and ring with a Tubogas watch. San wore a white suit; his pieces were not named in Bulgari's official credits. Model numbers for Jang's pieces were not disclosed either, so the official Korean prices remain unconfirmed.\n\nThe exhibition shows about 20 works by six artist teams, and a separate room on the second basement level traces the history of B.zero1. The Korean audio guide is narrated by ambassador Byeon Woo-seok.\n\nDates: Oct 29 (Thu) – Nov 14 (Sat)\nLocation: SONGEUN (441 Dosan-daero, Gangnam-gu, Seoul)\nHours: 11 a.m. – 6:30 p.m.\nAdmission: Free · advance booking via Naver\nDocent tours: 3 p.m. and 5 p.m. (separate sign-up)\n\n#SENE #Bulgari #BZERO1 #JangWonyoung #SeoulExhibition #Gangnam",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351470/stfxcz1kuu2t60fdxwe0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351470/l3zxqblw2if52ju93cvv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351470/zlp5cof09ie8c0kpqau1.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351470/ypsjwpd0dsshofguoyjq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351471/k8zrymumbf87qd3q0pu2.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351471/ugyb3gdm3vdvzz1blwhz.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351470/stfxcz1kuu2t60fdxwe0.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T18:11+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=y_7jjgp6ROQ\n구간: 0:30-1:00\n곡: *Jang Wonyoung*\n아티스트: At the Bulgari show,\n피처링:\n후킹: \n출처: CBC World\n자막: 자동",
+      "caption": "IVE's Jang Wonyoung (@for_everyoung10) stood at the photo wall of a Bulgari exhibition preview.\n\nThe evening marked the opening of an exhibition that reinterprets Bulgari's B.zero1 collection through Korean contemporary art. Jang, attending as an ambassador, wore a rose gold B.zero1 chain necklace, bracelet and ring with a Tubogas watch. Bulgari did not disclose model numbers, so the official Korean prices are unconfirmed.\n\nThe video was filmed at the SONGEUN photo wall on Oct 28. The exhibition is open free of charge.\n\nDates: Oct 29 (Thu) – Nov 14 (Sat)\nLocation: SONGEUN (441 Dosan-daero, Gangnam-gu, Seoul)\nAdmission: Free · advance booking via Naver\nVideo: CBC World\n\n#SENE #Bulgari #JangWonyoung #BZERO1 #SeoulExhibition"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nIVEのチャン・ウォニョン（@for_everyoung10）とATEEZ（@ateez_official_）のサンが、ブルガリの展覧会のプレビューを訪れました。\n\nブルガリがビー・ゼロワン コレクションを韓国の現代美術で捉え直した展覧会の開幕の場でしたが、アンバサダーとして訪れたチャン・ウォニョンは、ローズゴールドのビー・ゼロワン チェーンネックレスとブレスレット、リングにトゥボガス ウォッチを合わせました。サンは白のスーツ姿で、着用アイテムはブルガリの公式クレジットに名前がありませんでした。チャン・ウォニョンのアイテムもモデル番号が出ていないため、韓国公式価格は未確認のままとします。\n\n会場には作家6組の作品約20点が並び、地下2階にはビー・ゼロワンの歴史を紹介する部屋が別に設けられています。韓国語のオーディオガイドは、アンバサダーのビョン・ウソクが読んでいます。\n\n期間：10月29日（木）〜11月14日（土）\n場所：ソンウン（松恩）ソウル・江南区 島山大路441\n営業時間：午前11時〜午後6時30分\n観覧：無料・NAVERで事前予約\nドーセントツアー：午後3時・5時（別途申し込み）\n\n#SENE #ブルガリ #ビーゼロワン #チャンウォニョン #韓国旅行 #ソウル展覧会\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351242/boleslfuizsz8ei4eelm.jpg\n제목: ブルガリ展に来た|ウォニョン＆サンのルック\n부제: あのルック、いくら / ソンウン『光、形、そしてビジョン』\n출처: @for_everyoung10\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351248/heaxfyxukhs5rmxqiynq.jpg\n소제목: IVE チャン・ウォニョン / ブルガリ アンバサダー\n본문: ブルガリ公式クレジット|ローズゴールド ビー・ゼロワン チェーンネックレス|ローズゴールド ビー・ゼロワン ブレスレット・リング|ブルガリ トゥボガス ウォッチ||韓国公式価格：未確認（モデル番号非公開）\n출처: @for_everyoung10\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351254/xpktfsmijetq2yxsy6tk.jpg\n소제목: \n본문: \n출처: CBC World\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351244/zfkk3tocactbjzettds1.jpg\n소제목: ATEEZ サン\n본문: 白のスーツ姿でフォトウォールに立ちました||ブルガリ公式クレジット：未確認|韓国公式価格：未確認\n출처: トップスターニュース（톱스타뉴스）\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793351246/hx4v4byywk4msgbba1fc.jpg\n소제목: 展覧会『光、形、そしてビジョン』\n본문: ビー・ゼロワンを韓国の作家6組が捉え直した絵画・彫刻・映像・インスタレーション約20点||期間：10月29日（木）〜11月14日（土）|場所：ソンウン（松恩）ソウル・江南区 島山大路441|営業時間：午前11時〜午後6時30分|観覧：無料・NAVERで事前予約\n출처: トップスターニュース（톱스타뉴스）\n",
+      "caption": "IVEのチャン・ウォニョン（@for_everyoung10）とATEEZ（@ateez_official_）のサンが、ブルガリの展覧会のプレビューを訪れました。\n\nブルガリがビー・ゼロワン コレクションを韓国の現代美術で捉え直した展覧会の開幕の場でしたが、アンバサダーとして訪れたチャン・ウォニョンは、ローズゴールドのビー・ゼロワン チェーンネックレスとブレスレット、リングにトゥボガス ウォッチを合わせました。サンは白のスーツ姿で、着用アイテムはブルガリの公式クレジットに名前がありませんでした。チャン・ウォニョンのアイテムもモデル番号が出ていないため、韓国公式価格は未確認のままとします。\n\n会場には作家6組の作品約20点が並び、地下2階にはビー・ゼロワンの歴史を紹介する部屋が別に設けられています。韓国語のオーディオガイドは、アンバサダーのビョン・ウソクが読んでいます。\n\n期間：10月29日（木）〜11月14日（土）\n場所：ソンウン（松恩）ソウル・江南区 島山大路441\n営業時間：午前11時〜午後6時30分\n観覧：無料・NAVERで事前予約\nドーセントツアー：午後3時・5時（別途申し込み）\n\n#SENE #ブルガリ #ビーゼロワン #チャンウォニョン #韓国旅行 #ソウル展覧会",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351476/h26hqcs2geyvujynojq8.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351476/tcyvlhxoef3mzw3s1x7r.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351476/xhggud01kagvll80xdel.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351476/melvtebh0ymwmzxo33lf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351478/tynglvr1rawsn99ojlxk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351477/swklramocfcbhhuowlkf.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793351476/h26hqcs2geyvujynojq8.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T18:11+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=y_7jjgp6ROQ\n구간: 0:30-1:00\n곡: *チャン・ウォニョン*\n아티스트: ブルガリ展に来た\n피처링:\n후킹: \n출처: CBC World\n자막: 자동",
+      "caption": "IVEのチャン・ウォニョン（@for_everyoung10）が、ブルガリの展覧会プレビューのフォトウォールに立ちました。\n\nブルガリがビー・ゼロワン コレクションを韓国の現代美術で捉え直した展覧会の開幕の場でしたが、アンバサダーとして訪れたチャン・ウォニョンは、ローズゴールドのビー・ゼロワン チェーンネックレスとブレスレット、リングにトゥボガス ウォッチを合わせました。ブルガリがモデル番号を明らかにしていないため、韓国公式価格は未確認です。\n\n映像は10月28日、ソンウンのフォトウォールでの様子です。展覧会は無料で公開されています。\n\n期間：10月29日（木）〜11月14日（土）\n場所：ソンウン（松恩）ソウル・江南区 島山大路441\n観覧：無料・NAVERで事前予約\n映像：CBC World\n\n#SENE #ブルガリ #チャンウォニョン #ビーゼロワン #ソウル展覧会"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -2156,10 +2235,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T18:08+09:00"
+  "at": "2026-10-30T18:11+09:00"
  },
  "queue": {
-  "next": "2026-10-30T18:10+09:00",
+  "next": "2026-10-30T18:13+09:00",
   "n": 0,
   "gap": 20
  },
