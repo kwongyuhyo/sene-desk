@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-10-30 22:36 KST",
+ "generated_at": "2026-10-31 00:36 KST",
  "cards": [
   {
    "id": "d7bfa106",
@@ -121,6 +121,59 @@
    "preempt": null,
    "made_at": "2026-10-30T00:37+09:00",
    "expires": "2026-11-02T00:37+09:00"
+  },
+  {
+   "id": "02018298",
+   "key": "closing:뱅크시 특별전 <BANKSY : Still Here>:2026-11-03",
+   "kind": "closing",
+   "kind_label": "종료 임박",
+   "who": [
+    "뱅크시 특별전 <BANKSY : Still Here>"
+   ],
+   "origin": {
+    "head": "뱅크시 특별전 <BANKSY : Still Here> · 2026-07-22~2026-11-03",
+    "url": "https://popply.co.kr/popup/5226",
+    "at": "2026-07-22",
+    "mult": null
+   },
+   "evidence": [
+    {
+     "from": "팝플리",
+     "at": "2026-11-03",
+     "title": "3일 뒤 종료 · 서울 영등포구 여의대로 108 더현대 서울 ALT.1"
+    }
+   ],
+   "news": [],
+   "plans": [
+    {
+     "format": "종료 임박 정리",
+     "corner": "followup",
+     "title": "뱅크시 전시, 마지막 주말 동선",
+     "angle": "11월 3일 종료를 앞둔 <BANKSY : Still Here>를 기간·장소·입장 방법·현장 대기 순으로 정리합니다.",
+     "why": "11월 3일 종료까지 사흘 남았습니다.",
+     "check": "확인: 입장 방법·운영 시간·현장 대기, 전시 장소가 더현대 서울 ALT.1이 맞는지"
+    },
+    {
+     "format": "그 후",
+     "corner": "followup",
+     "title": "뱅크시 전시, 오픈 그 뒤",
+     "angle": "7월 22일 오픈 이후 웨이팅·연장 등 달라진 점을 날짜순으로 되짚습니다.",
+     "why": "석 달 넘게 이어진 전시가 막을 내립니다.",
+     "check": "확인: 웨이팅·연장 등 날짜별 사실은 공식 발표로만 채울 것"
+    },
+    {
+     "format": "현장 정리",
+     "corner": "followup",
+     "title": "Still Here, 전시장 안은",
+     "angle": "공식 사진과 보도자료로 전시 공간 구성과 현장 판매 품목을 정리합니다.",
+     "why": "마지막 주말 전에 공간 구성을 미리 볼 수 있습니다.",
+     "check": "확인: 공식 사진·보도자료 사용 범위, 현장 판매 품목 유무"
+    }
+   ],
+   "score": 8.0,
+   "preempt": null,
+   "made_at": "2026-10-31T00:36+09:00",
+   "expires": "2026-11-03T00:36+09:00"
   },
   {
    "id": "1b00f548",
