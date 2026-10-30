@@ -753,7 +753,9 @@
      "v": {
       "A": "33d05f63",
       "B": "7aa6035e",
-      "C": "aa456ea2"
+      "C": "aa456ea2",
+      "E": "aefbf702",
+      "J": "3358acd7"
      }
     }
    },
@@ -951,7 +953,74 @@
      "v": "f8fec01d"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-10-30T13:22+09:00",
+    "confirm": [
+     "작가 '로맹 마즈베'의 로마자 표기(Romain Mazevet로 추정)를 웹에서 확인하지 못했습니다 — 공식 영상 크레딧에서 철자를 확인해 주세요 (일본어 ロマン・マズヴェ 도 같이)",
+     "리프트바운드는 공식 일본어판·일본어 표기를 찾지 못해 リフトバウンド（Riftbound）로 썼습니다. 포티셰는 フォーティシュ（Fortiche）로 썼습니다",
+     "제품 영문명 '2026 World Championship Set' · 'World Champion T1 Player Bundle' 은 한국어명을 옮긴 것입니다 — 공식 영문 표기를 확인해 주세요 (K/DA 쪽 공식 영문명은 'Riftbound x K/DA: Couture Collection')",
+     "'Trendpot by Olive Young N Seongsu' 는 Korea Herald 표기를 따랐습니다. 일본어 トレンドポット by オリーブヤングN 聖水 는 옮겨 쓴 표기입니다",
+     "영어 숏폼 세 칸은 '*K/DA* cards' + 'as magazine covers' 로 이어 읽힙니다 (합쳐 29자)",
+     "트렌드팟 바이 올리브영N 성수의 공식 영어·일본어 표기(Trendpot / TRENDPOT, トレンドポット)를 확인하지 못함 — 올리기 전 올리브영 공식 표기 확인",
+     "포티셰 일본어 표기 フォーティシュ 와 『アーケイン』 표기는 일본 공식(Netflix Japan·라이엇 재팬) 표기와 맞는지 확인 필요"
+    ],
+    "review": {
+     "at": "2026-10-30T13:22+09:00",
+     "fixes": [
+      "영어 · 부제 · sets out first → sets debut — 'out first' 가 어색한 직역투",
+      "영어 · 숏폼 캡션 · 'Drawing on vintage fashion illustrations, the hand-drawn artwork was scanned…' → 'He also describes drawing on…' — 현수 수식어(주어 어긋남) 바로잡고 원문의 '설명합니다' 주어(마즈베) 살림",
+      "일본어 · 캡션 · ハングル版 → 韓国語版 — 일본 독자에게 자연스러운 표기",
+      "일본어 · 캡션·숏폼 캡션 · 現地での購入 → 会場での購入 — 팝업 현장은 '会場' 이 자연스러움"
+     ],
+     "doubt": [
+      "트렌드팟 바이 올리브영N 성수의 공식 영어·일본어 표기(Trendpot / TRENDPOT, トレンドポット)를 확인하지 못함 — 올리기 전 올리브영 공식 표기 확인",
+      "포티셰 일본어 표기 フォーティシュ 와 『アーケイン』 표기는 일본 공식(Netflix Japan·라이엇 재팬) 표기와 맞는지 확인 필요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nThree limited-edition products for Riftbound (@playriftbound), the League of Legends (@leagueoflegendskorea) card game, went on sale first at two pop-ups in Seoul.\n\nThe standout is the 'K/DA Couture Collection'. Fortiche, the animation studio behind 'Arcane', newly illustrated one card for each of the four K/DA members. In an official video, artist Romain Mazevet explains that the cards were imagined as slightly flashy magazine covers.\n\nThe other two are the '2026 World Championship Set' and the Korean-language 'World Champion T1 Player Bundle'. On-site purchases are limited to one per person.\n\nPrices: K/DA Couture Collection KRW 200,000 · 2026 World Championship Set KRW 120,000 · World Champion T1 Player Bundle KRW 100,000\nJamsil: Atrium Hall, 1F, Lotte World Mall (Songpa-gu, Seoul) · through Nov 1 (Sun) · 10:00–22:00\nSeongsu: Trendpot by Olive Young N Seongsu (Seongdong-gu, Seoul) · Oct 29 (Thu) – Nov 8 (Sun) · 11:00–20:00 (until 18:00 on the last day)\nOnline: KREAM, once per account\n#SENE #Riftbound #KDA #SeoulPopup #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317471/bpnk1wu0bw36tr6g2fqc.jpg\n제목: Arcane's Studio Draws|Limited K/DA Cards\n부제: Three Riftbound sets debut at Jamsil and Seongsu pop-ups\n출처: @playriftbound\n",
+      "caption": "Three limited-edition products for Riftbound (@playriftbound), the League of Legends (@leagueoflegendskorea) card game, went on sale first at two pop-ups in Seoul.\n\nThe standout is the 'K/DA Couture Collection'. Fortiche, the animation studio behind 'Arcane', newly illustrated one card for each of the four K/DA members. In an official video, artist Romain Mazevet explains that the cards were imagined as slightly flashy magazine covers.\n\nThe other two are the '2026 World Championship Set' and the Korean-language 'World Champion T1 Player Bundle'. On-site purchases are limited to one per person.\n\nPrices: K/DA Couture Collection KRW 200,000 · 2026 World Championship Set KRW 120,000 · World Champion T1 Player Bundle KRW 100,000\nJamsil: Atrium Hall, 1F, Lotte World Mall (Songpa-gu, Seoul) · through Nov 1 (Sun) · 10:00–22:00\nSeongsu: Trendpot by Olive Young N Seongsu (Seongdong-gu, Seoul) · Oct 29 (Thu) – Nov 8 (Sun) · 11:00–20:00 (until 18:00 on the last day)\nOnline: KREAM, once per account\n#SENE #Riftbound #KDA #SeoulPopup #Seongsu",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334180/m8zft2msrsmg1ov6gbq7.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334179/ophzlbr6gspinmwaze1h.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334180/m8zft2msrsmg1ov6gbq7.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T13:22+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=egXq3n8UHfE\n구간: 0:05-0:45\n곡: as magazine covers\n아티스트: *K/DA* cards\n피처링:\n후킹: \n출처: Riftbound\n자막: 자동",
+      "caption": "Fortiche, the animation studio behind 'Arcane', has newly illustrated the K/DA cards for Riftbound (@playriftbound), the League of Legends (@leagueoflegendskorea) card game.\n\nThe video is a making-of released on Riftbound's official channel. Fortiche artist Romain Mazevet explains that each member got one card, imagined as a slightly flashy magazine cover. He also describes drawing on vintage fashion illustrations, then scanning and layering the hand-drawn artwork before adding color.\n\nThe 'K/DA Couture Collection', which contains these cards, has been on sale first at two pop-ups in Seoul since Oct 29. On-site purchases are limited to one per person.\n\nPrice: K/DA Couture Collection KRW 200,000\nJamsil: Atrium Hall, 1F, Lotte World Mall · through Nov 1 (Sun) · 10:00–22:00\nSeongsu: Trendpot by Olive Young N Seongsu · through Nov 8 (Sun) · 11:00–20:00 (until 18:00 on the last day)\n#SENE #Riftbound #KDA #Arcane #SeoulPopup"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nリーグ・オブ・レジェンド（@leagueoflegendskorea）のカードゲーム、リフトバウンド（Riftbound・@playriftbound）の限定版3種が、ソウルのポップアップ2か所で先行発売されました。\n\nいちばんの注目は「K/DAクチュール・コレクション」です。『アーケイン』を手がけたアニメーションスタジオ、フォーティシュ（Fortiche）が、K/DAのメンバー4人をカード1枚ずつ新たに描き下ろしました。アーティストのロマン・マズヴェ（Romain Mazevet）は公式映像で、これらのカードを少し華やかな雑誌の表紙のように構想したと語っています。\n\n残りの2つは「2026ワールドチャンピオンシップ・セット」と、韓国語版「ワールドチャンピオンT1プレイヤーバンドル」です。会場での購入はお一人様1点までです。\n\n価格：K/DAクチュール・コレクション 200,000ウォン・2026ワールドチャンピオンシップ・セット 120,000ウォン・ワールドチャンピオンT1プレイヤーバンドル 100,000ウォン\n蚕室（チャムシル）：ロッテワールドモール1階 アトリウムホール（ソウル・松坡区）・11月1日（日）まで・10:00〜22:00\n聖水（ソンス）：トレンドポット by オリーブヤングN 聖水（ソウル・城東区）・10月29日（木）〜11月8日（日）・11:00〜20:00（最終日は18:00まで）\nオンライン：KREAM（アカウントごとに1回）\n#SENE #リフトバウンド #KDA #韓国旅行 #聖水\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317471/bpnk1wu0bw36tr6g2fqc.jpg\n제목: アーケインの制作陣が描く|K/DA限定カード\n부제: リフトバウンド3種、蚕室・聖水のポップアップで先行発売\n출처: @playriftbound\n",
+      "caption": "リーグ・オブ・レジェンド（@leagueoflegendskorea）のカードゲーム、リフトバウンド（Riftbound・@playriftbound）の限定版3種が、ソウルのポップアップ2か所で先行発売されました。\n\nいちばんの注目は「K/DAクチュール・コレクション」です。『アーケイン』を手がけたアニメーションスタジオ、フォーティシュ（Fortiche）が、K/DAのメンバー4人をカード1枚ずつ新たに描き下ろしました。アーティストのロマン・マズヴェ（Romain Mazevet）は公式映像で、これらのカードを少し華やかな雑誌の表紙のように構想したと語っています。\n\n残りの2つは「2026ワールドチャンピオンシップ・セット」と、韓国語版「ワールドチャンピオンT1プレイヤーバンドル」です。会場での購入はお一人様1点までです。\n\n価格：K/DAクチュール・コレクション 200,000ウォン・2026ワールドチャンピオンシップ・セット 120,000ウォン・ワールドチャンピオンT1プレイヤーバンドル 100,000ウォン\n蚕室（チャムシル）：ロッテワールドモール1階 アトリウムホール（ソウル・松坡区）・11月1日（日）まで・10:00〜22:00\n聖水（ソンス）：トレンドポット by オリーブヤングN 聖水（ソウル・城東区）・10月29日（木）〜11月8日（日）・11:00〜20:00（最終日は18:00まで）\nオンライン：KREAM（アカウントごとに1回）\n#SENE #リフトバウンド #KDA #韓国旅行 #聖水",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334182/vifkfuiwbdmlcste6rp6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334182/dzzdeif9bfunxg2fsndx.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334182/vifkfuiwbdmlcste6rp6.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T13:23+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=egXq3n8UHfE\n구간: 0:05-0:45\n곡: 雑誌の表紙のように\n아티스트: *K/DA*カードを\n피처링:\n후킹: \n출처: Riftbound\n자막: 자동",
+      "caption": "『アーケイン』を手がけたアニメーションスタジオ、フォーティシュ（Fortiche）が、リーグ・オブ・レジェンド（@leagueoflegendskorea）のカードゲーム、リフトバウンド（Riftbound・@playriftbound）のK/DAカードを新たに描き下ろしました。\n\n映像はリフトバウンド公式チャンネルが公開したメイキングです。フォーティシュのアーティスト、ロマン・マズヴェ（Romain Mazevet）が、メンバーごとにカード1枚ずつ、少し華やかな雑誌の表紙のように構想したと語っています。古いファッションイラストを参考に、手描きの絵をスキャンして重ね、色を付けたと説明しています。\n\nこのカードが入った「K/DAクチュール・コレクション」は、10月29日からソウルのポップアップ2か所で先行販売中です。会場での購入はお一人様1点までです。\n\n価格：K/DAクチュール・コレクション 200,000ウォン\n蚕室（チャムシル）：ロッテワールドモール1階 アトリウムホール・11月1日（日）まで・10:00〜22:00\n聖水（ソンス）：トレンドポット by オリーブヤングN 聖水・11月8日（日）まで・11:00〜20:00（最終日は18:00まで）\n#SENE #リフトバウンド #KDA #アーケイン #聖水"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1509,10 +1578,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T11:53+09:00"
+  "at": "2026-10-30T13:23+09:00"
  },
  "queue": {
-  "next": "2026-10-30T11:55+09:00",
+  "next": "2026-10-30T13:25+09:00",
   "n": 0,
   "gap": 20
  },
