@@ -1141,9 +1141,71 @@
      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793328293/faibziewqrfkotezmut1.jpg",
      "key": "vSKm0EN9Rm4@45.0"
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-30T11:45+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793328496/sene_studio/hyuxjnrqg2w13s6xsnom.mp4",
+     "at": "2026-10-30T11:48+09:00",
+     "file": "Jam_An_ONeun_BamEn_BisSoLiLeul_DeudNeun_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793328496510-fc624b5c",
+      "segs": [
+       {
+        "start": 0.0,
+        "end": 2.02,
+        "text": "오늘 비 와서"
+       },
+       {
+        "start": 2.02,
+        "end": 6.64,
+        "text": "호텔 나가자마자 제 기가 많이 죽었어요"
+       },
+       {
+        "start": 6.76,
+        "end": 8.84,
+        "text": "나 비 싫어"
+       },
+       {
+        "start": 8.84,
+        "end": 10.65,
+        "text": "나 비 미워"
+       },
+       {
+        "start": 10.65,
+        "end": 15.54,
+        "text": "오늘 뭔가 뼈도 아프고 머리도 아프고 다"
+       },
+       {
+        "start": 15.54,
+        "end": 16.69,
+        "text": "이상해요"
+       },
+       {
+        "start": 16.69,
+        "end": 22.0,
+        "text": "비 소리 들으면 뭔가 하루가 나빠져"
+       },
+       {
+        "start": 22.0,
+        "end": 25.61,
+        "text": "근데 잠이 안 올 때는 비 소리가 좋거든요"
+       },
+       {
+        "start": 25.61,
+        "end": 27.03,
+        "text": "그건 좋은 거 아니야?"
+       },
+       {
+        "start": 27.03,
+        "end": 28.06,
+        "text": "그러니까"
+       },
+       {
+        "start": 30.14,
+        "end": 31.48,
+        "text": "Counselbei 무 Brilliant"
+       }
+      ]
+     },
+     "v": "8b7fcad5"
     }
    },
    "pick": {
@@ -1433,10 +1495,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T11:45+09:00"
+  "at": "2026-10-30T11:48+09:00"
  },
  "queue": {
-  "next": "2026-10-30T11:47+09:00",
+  "next": "2026-10-30T11:50+09:00",
   "n": 0,
   "gap": 20
  },
