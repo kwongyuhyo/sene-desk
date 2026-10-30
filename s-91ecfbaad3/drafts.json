@@ -1135,12 +1135,79 @@
      "v": {
       "A": "b730c7c6",
       "B": "e0a20c15",
-      "C": "f78bb6e9"
+      "C": "f78bb6e9",
+      "E": "810d4229",
+      "J": "3b1cc622"
      }
     }
    },
    "corner_name": "정리",
-   "corner_no": 1
+   "corner_no": 1,
+   "i18n": {
+    "at": "2026-10-30T13:24+09:00",
+    "confirm": [
+     "주최사 '타키엘'의 공식 영문·일본어 표기를 찾지 못해 Takiel 로 로마자 표기했습니다 — 공식 표기를 확인해 주세요.",
+     "'어브 스튜디오'의 공식 영문 표기를 찾지 못했습니다 — 영어는 Eobeu Studio, 일본어는 オブスタジオ로 적고 괄호 안에 한글을 붙였습니다.",
+     "'사쿠라와 토모요의 티파티'의 공식 일본어 이름을 찾지 못했습니다 — 일본 원작 표기를 따라 「さくらと知世のティーパーティー」로 옮겼습니다.",
+     "'성수동고릴라'는 공식 영문 표기를 찾지 못해 Seongsudong Gorilla / ソンスドンゴリラ로 로마자·カタカナ 표기했습니다.",
+     "라이엇 게임즈 팝업은 영문 기사(Inven Global)에 'LoL Music & Worlds Pop-Up'으로 나옵니다. 원문 제목 그대로 'Music & Worlds 26'로 적었습니다.",
+     "원문에 없는 내용은 더하지 않았습니다. 다만 기사에 따르면 라이엇 팝업은 잠실 롯데월드몰에서도 열립니다(10/23~11/1). 이 내용은 번역문에 넣지 않았습니다.",
+     "어브 스튜디오의 공식 영문·일본어 표기를 확인하지 못했습니다. 지금은 영어 'Eobeu Studio', 일본어 'オブスタジオ'로 두었으니 공식 계정에 영문 표기가 있으면 바꿔 주세요.",
+     "출처 칸의 '타키엘'은 기사에서 러브라이브 전시를 여는 주최사로 나옵니다. 영문 'Takiel' 표기가 이 회사의 공식 표기와 같은지는 확인하지 못했습니다.",
+     "검색한 기사에는 러브라이브 전시 날짜(11/14~12/31)와 티켓링크 예매가 원문과 같게 나옵니다. 다만 기사에 발행 연도가 없으니 올리기 전에 2026년 일정이 맞는지 티켓링크에서 다시 확인해 주세요."
+    ],
+    "review": {
+     "at": "2026-10-30T13:24+09:00",
+     "fixes": [
+      "영어 · 러브라이브 본문 장소 · 'Eobeu Studio (어브 스튜디오)' → 'Eobeu Studio' — 영어판에 남은 한글 삭제 (공식 영문 표기는 검색에서 찾지 못해 로마자 표기 유지)"
+     ],
+     "doubt": [
+      "어브 스튜디오의 공식 영문·일본어 표기를 확인하지 못했습니다. 지금은 영어 'Eobeu Studio', 일본어 'オブスタジオ'로 두었으니 공식 계정에 영문 표기가 있으면 바꿔 주세요.",
+      "출처 칸의 '타키엘'은 기사에서 러브라이브 전시를 여는 주최사로 나옵니다. 영문 'Takiel' 표기가 이 회사의 공식 표기와 같은지는 확인하지 못했습니다.",
+      "검색한 기사에는 러브라이브 전시 날짜(11/14~12/31)와 티켓링크 예매가 원문과 같게 나옵니다. 다만 기사에 발행 연도가 없으니 올리기 전에 2026년 일정이 맞는지 티켓링크에서 다시 확인해 주세요."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nSeongsudong Gorilla, an account that rounds up pop-ups in Seongsu-dong, Seoul, has released its November pop-up list.\n\nSeveral names from games and animation appear on the list, and we've sorted the three with confirmed dates and venues by date. Riot Games' Worlds pop-up, already open, ends Nov 8.\n\nThe Cardcaptor Sakura cafe is reservation-only for every seat, and its merchandise is sold only to guests who booked. Reservations open Nov 4.\n\nRiot Games 'Music & Worlds 26': Oct 29 (Thu) – Nov 8 (Sun), Trendpot by OLIVE YOUNG N Seongsu\nSakura & Tomoyo's Tea Party: Nov 11 (Wed) – Nov 29 (Sun), MUSINSA SPACE Seoul Forest (reservations via Popga)\nLove Live! Series 15th Anniversary Seoul Exhibition: Nov 14 (Sat) – Dec 31 (Thu), Eobeu Studio, Seongsu-dong (tickets via Ticketlink)\n#SENE #SeoulPopup #Seongsu #CardcaptorSakura #LoveLive #Worlds2026\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317677/i0bbg9xixymhy09d2jzi.jpg\n제목: November Seongsu Pop-Ups|By Date\n부제: Only the three with confirmed dates\n출처: Takiel\n\n[슬라이드]\n소스: \n소제목: Riot Games 'Music & Worlds 26'\n본문: When: Oct 29 (Thu) – Nov 8 (Sun)|Where: Trendpot by OLIVE YOUNG N Seongsu|What: A pop-up themed on the 2026 LoL World Championship and Riot Games music\n출처: \n\n[슬라이드]\n소스: \n소제목: Cardcaptor Sakura Cafe 'Sakura & Tomoyo's Tea Party'\n본문: When: Nov 11 (Wed) – Nov 29 (Sun)|Where: MUSINSA SPACE Seoul Forest|Reservations: All seats by advance booking, via Popga from Nov 4|What: 6 collaboration drinks, 15 merchandise items (merchandise for reservation holders only)\n출처: \n\n[슬라이드]\n소스: \n소제목: Love Live! Series 15th Anniversary Seoul Exhibition\n본문: When: Nov 14 (Sat) – Dec 31 (Thu)|Where: Eobeu Studio, Seongsu-dong|Tickets: Ticketlink|What: An exhibition tracing the series' history, with Seoul-only content\n출처: \n",
+      "caption": "Seongsudong Gorilla, an account that rounds up pop-ups in Seongsu-dong, Seoul, has released its November pop-up list.\n\nSeveral names from games and animation appear on the list, and we've sorted the three with confirmed dates and venues by date. Riot Games' Worlds pop-up, already open, ends Nov 8.\n\nThe Cardcaptor Sakura cafe is reservation-only for every seat, and its merchandise is sold only to guests who booked. Reservations open Nov 4.\n\nRiot Games 'Music & Worlds 26': Oct 29 (Thu) – Nov 8 (Sun), Trendpot by OLIVE YOUNG N Seongsu\nSakura & Tomoyo's Tea Party: Nov 11 (Wed) – Nov 29 (Sun), MUSINSA SPACE Seoul Forest (reservations via Popga)\nLove Live! Series 15th Anniversary Seoul Exhibition: Nov 14 (Sat) – Dec 31 (Thu), Eobeu Studio, Seongsu-dong (tickets via Ticketlink)\n#SENE #SeoulPopup #Seongsu #CardcaptorSakura #LoveLive #Worlds2026",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334285/blirvgelhjdd8ajr0edx.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334285/f80j8piay8vwcaxknm1b.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334285/fbajnfnwtj97nkbicnxk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334285/cbay07kgsjndgrnnqu7j.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334286/yjyhuv0cx4aovp9fwyv1.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334285/blirvgelhjdd8ajr0edx.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T13:24+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nソウル・聖水洞（ソンスドン）のポップアップをまとめて紹介している「ソンスドンゴリラ（성수동고릴라）」が、11月のポップアップリストを公開しました。\n\nリストにはゲームやアニメ関連の名前がいくつも並んでいますが、その中から期間と場所が確認できた3か所を日付順にまとめました。すでにオープンしているライアットゲームズのWorldsポップアップは11月8日に終了します。\n\nカードキャプターさくらカフェは全席予約制で、グッズも予約して来店した人だけが購入できます。予約は11月4日に始まります。\n\nライアットゲームズ「Music & Worlds 26」：10月29日（木）〜11月8日（日）、トレンドポット バイ オリーブヤングN 聖水\nさくらと知世のティーパーティー：11月11日（水）〜11月29日（日）、ムシンサ スペース ソウルの森（Popgaで予約）\nラブライブ！シリーズ15周年記念 ソウル展示会：11月14日（土）〜12月31日（木）、聖水洞 オブスタジオ（Ticketlinkで予約）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #カードキャプターさくら #ラブライブ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793317677/i0bbg9xixymhy09d2jzi.jpg\n제목: 11月の聖水ポップアップ|日付順まとめ\n부제: 日程が確認できた3か所だけを集めました\n출처: Takiel（타키엘）\n\n[슬라이드]\n소스: \n소제목: ライアットゲームズ「Music & Worlds 26」\n본문: いつ：10月29日（木）〜11月8日（日）|どこ：トレンドポット バイ オリーブヤングN 聖水|内容：2026 LoL ワールドチャンピオンシップとライアットゲームズの音楽をテーマにしたポップアップ\n출처: \n\n[슬라이드]\n소스: \n소제목: カードキャプターさくらカフェ「さくらと知世のティーパーティー」\n본문: いつ：11月11日（水）〜11月29日（日）|どこ：ムシンサ スペース ソウルの森（MUSINSA SPACE Seoul Forest）|予約：全席事前予約制、11月4日からPopga（팝가）にて|内容：コラボドリンク6種、グッズ15種（グッズは予約来店者のみ購入可）\n출처: \n\n[슬라이드]\n소스: \n소제목: ラブライブ！シリーズ15周年記念 ソウル展示会\n본문: いつ：11月14日（土）〜12月31日（木）|どこ：聖水洞 オブスタジオ（어브 스튜디오）|チケット：Ticketlink（티켓링크）|内容：シリーズの歩みを振り返る展示、ソウル限定コンテンツあり\n출처: \n",
+      "caption": "ソウル・聖水洞（ソンスドン）のポップアップをまとめて紹介している「ソンスドンゴリラ（성수동고릴라）」が、11月のポップアップリストを公開しました。\n\nリストにはゲームやアニメ関連の名前がいくつも並んでいますが、その中から期間と場所が確認できた3か所を日付順にまとめました。すでにオープンしているライアットゲームズのWorldsポップアップは11月8日に終了します。\n\nカードキャプターさくらカフェは全席予約制で、グッズも予約して来店した人だけが購入できます。予約は11月4日に始まります。\n\nライアットゲームズ「Music & Worlds 26」：10月29日（木）〜11月8日（日）、トレンドポット バイ オリーブヤングN 聖水\nさくらと知世のティーパーティー：11月11日（水）〜11月29日（日）、ムシンサ スペース ソウルの森（Popgaで予約）\nラブライブ！シリーズ15周年記念 ソウル展示会：11月14日（土）〜12月31日（木）、聖水洞 オブスタジオ（Ticketlinkで予約）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #カードキャプターさくら #ラブライブ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334290/fp3oowktjhndev8o3fkq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334290/ljlthsnyvzy9npftzty6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334290/y4ky7frpomyufwaszjpo.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334290/ygd6nppmsho62z97coaf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334291/t643tobkuwpmx7nx0yrc.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793334290/fp3oowktjhndev8o3fkq.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-30T13:24+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1578,10 +1645,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-30T13:23+09:00"
+  "at": "2026-10-30T13:24+09:00"
  },
  "queue": {
-  "next": "2026-10-30T13:25+09:00",
+  "next": "2026-10-30T13:26+09:00",
   "n": 0,
   "gap": 20
  },
