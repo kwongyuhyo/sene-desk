@@ -233,6 +233,13 @@
       ]
      },
      "v": "bd62d5ef"
+    },
+    "px": {
+     "vid": "xB3pZokr8co",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793356615/sene_studio/rxlsd5s53adphjzoiuqh.mp4",
+     "off": 0.0,
+     "end": 110.0,
+     "full": 2833.0
     }
    },
    "corner_name": "소식",
@@ -336,7 +343,13 @@
     "at": "2026-10-30T13:35+09:00",
     "account": "sene",
     "via": "api"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356844/tbgoiblryybqfieuh51c.jpg",
+     "from": "https://www.hankyung.com/article/202610304763Y"
+    }
+   ]
   },
   {
    "source": {
@@ -529,7 +542,13 @@
     "rank": 3,
     "why": "금요일 퇴근길에 저장할 주말 정리 — 토요일 밤 하반기 마지막 드론쇼, 장원영이 다녀간 불가리 전시는 토요일만",
     "at": "2026-10-30T17:43+09:00"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356847/fqo5x66wkad095lrszdr.jpg",
+     "from": "https://news.seoul.go.kr/culture/archives/534345"
+    }
+   ]
   },
   {
    "source": {
@@ -689,7 +708,13 @@
       }
      }
     }
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356853/ft0whxocsnoles5npofg.jpg",
+     "from": "https://www.newsis.com/view/NISX20261030_0003847617"
+    }
+   ]
   },
   {
    "source": {
@@ -1029,6 +1054,13 @@
       ]
      },
      "v": "f8fec01d"
+    },
+    "px": {
+     "vid": "egXq3n8UHfE",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793356667/sene_studio/etw6rauhp2sg9zuwjoil.mp4",
+     "off": 0.0,
+     "end": 70.0,
+     "full": 70.0
     }
    },
    "corner_name": "소식",
@@ -1114,7 +1146,13 @@
       }
      }
     }
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356857/uppadbbmhmdnfaya7bbv.jpg",
+     "from": "http://www.osen.co.kr/article/G1112900936"
+    }
+   ]
   },
   {
    "source": {
@@ -1327,7 +1365,13 @@
       }
      }
     }
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356864/gjamj5mvgseksy1jyl4n.jpg",
+     "from": "http://www.hansbiz.co.kr/news/articleView.html?idxno=877955"
+    }
+   ]
   },
   {
    "source": {
@@ -1462,6 +1506,13 @@
       ]
      },
      "v": "8b7fcad5"
+    },
+    "px": {
+     "vid": "vSKm0EN9Rm4",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793356750/sene_studio/zivjonel4x1iuqubkvpt.mp4",
+     "off": 0.0,
+     "end": 123.0,
+     "full": 794.0
     }
    },
    "corner_name": "오늘의 순간",
@@ -1517,7 +1568,13 @@
     "rank": 2,
     "why": "아이들 공식 비하인드 속 슈화의 한 장면 — 오늘 유일한 숏폼이자 케이팝 순간형",
     "at": "2026-10-30T17:43+09:00"
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356870/o6pgfgsk9gz30qlmodrc.jpg",
+     "from": "https://bbs.ruliweb.com/news/board/1005/read/3822217"
+    }
+   ]
   },
   {
    "source": {
@@ -1707,7 +1764,13 @@
       }
      }
     }
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356873/iek6yfvtj72w8jgtnq6m.jpg",
+     "from": "https://ticket.melon.com/performance/index.htm?prodId=213923"
+    }
+   ]
   },
   {
    "source": {
@@ -1918,6 +1981,13 @@
       ]
      },
      "v": "6c05d93a"
+    },
+    "px": {
+     "vid": "y_7jjgp6ROQ",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793356835/sene_studio/qlmxsb9z66ypekwoaznb.mp4",
+     "off": 0.0,
+     "end": 105.0,
+     "full": 195.0
     }
    },
    "corner_name": "그 룩, 얼마",
@@ -2013,7 +2083,13 @@
       }
      }
     }
-   }
+   },
+   "captures": [
+    {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793356879/caonmaqlnfpxnzjplzmd.jpg",
+     "from": "https://www.sportsworldi.com/newsView/20261029518770"
+    }
+   ]
   }
  ],
  "skipped": [],
