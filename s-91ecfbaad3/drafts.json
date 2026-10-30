@@ -92,7 +92,9 @@
      "cvr": 2,
      "at": "2026-10-31T08:26+09:00",
      "v": {
-      "A": "7c17245d"
+      "A": "7c17245d",
+      "E": "76a0f8d9",
+      "J": "c11867d1"
      }
     }
    },
@@ -102,7 +104,64 @@
     "at": "2026-10-31T08:26+09:00"
    },
    "corner_name": "이슈",
-   "i18n_queued": "2026-10-31T08:26+09:00"
+   "i18n_queued": "2026-10-31T08:26+09:00",
+   "i18n": {
+    "at": "2026-10-31T08:27+09:00",
+    "confirm": [
+     "빅 이슈 — 올리기 전 최신 공식 발표 다시 확인 (지하철 연장 운행 여부·무정차 역 목록이 오늘 밤 바뀔 수 있음)",
+     "원문 제목·첫 문장은 '14곳'인데 캡션에 나열된 중점관리지역은 8곳 — 나머지 6곳 표기 여부와 숫자를 서울시 발표로 확인 (번역은 원문 그대로 옮김)",
+     "지명 영어·일본어 표기는 통용 표기로 썼으며 이번에 WebSearch 로 따로 확인하지 않음 — 건대 맛의거리(Konkuk University food street / 建大グルメ通り), 홍대 클럽거리 표기 확인 권장",
+     "원문이 '14곳'이라고 해 놓고 중점관리지역 8곳만 이름을 댐 — 나머지 6곳이 빠진 게 독자에게 헷갈릴 수 있어 원문 단계에서 확인 필요(번역은 원문 그대로 둠)",
+     "당일 안전·교통 소식 — 올리기 전 서울시·서울교통공사 최신 공식 발표(통제 시간, 지하철 연장 운행 여부)를 다시 확인"
+    ],
+    "review": {
+     "at": "2026-10-31T08:27+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · 'This year Halloween, Oct 31, falls on' → 'This year, Halloween (Oct 31) falls on' — 쉼표 자리가 어색해 끊겨 읽힘",
+      "영어 · 실용 정보 지하철 줄 · 'non-stop passing' → 'trains skip stations' — 직역투라 뜻이 잘 안 읽힘",
+      "일본어 · 캡션 둘째 단락 · '車線を1本ふさいで歩行者用の道として' → '1車線を規制して歩行者用の通路として' — 직역투 연어",
+      "일본어 · 실용 정보 지하철 줄 · '無停車通過' → '列車の通過' — 일본어에서 잘 쓰지 않는 한국어식 한자어"
+     ],
+     "doubt": [
+      "원문이 '14곳'이라고 해 놓고 중점관리지역 8곳만 이름을 댐 — 나머지 6곳이 빠진 게 독자에게 헷갈릴 수 있어 원문 단계에서 확인 필요(번역은 원문 그대로 둠)",
+      "당일 안전·교통 소식 — 올리기 전 서울시·서울교통공사 최신 공식 발표(통제 시간, 지하철 연장 운행 여부)를 다시 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nCrowd management is in place at 14 busy districts across Seoul tonight.\n\nThis year, Halloween (Oct 31) falls on a Saturday. The Seoul Metropolitan Government (@seoul_official) has named eight priority areas: Itaewon, Hongdae, Ikseon-dong, Myeong-dong, the Seongsu-dong cafe street, the Konkuk University food street, Gangnam Station and Apgujeong Rodeo Street. Itaewon-ro is fully closed to vehicles today, and one lane of the Hongdae club street is turned into a walkway.\n\nIf crowds build up at Itaewon, Hongik Univ., Seongsu or Konkuk Univ. stations, entrances may be closed or trains may pass through without stopping. Extended subway service is still under review, so it is wise to plan your way home from a station one or two stops away.\n\nIntensive management: Oct 30 (Fri) – Nov 1 (Sun)\nRoad closures: Oct 31 (Sat), Itaewon-ro fully closed to vehicles · one lane closed on the Hongdae club street\nSubway: entrances closed and trains skip stations when crowded (Itaewon, Hongik Univ., Seongsu, Konkuk Univ. and others)\nInquiries: Dasan Call Center 120\n#SENE #Halloween #SeoulHalloween #Itaewon #Hongdae #Seongsu\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793402794/tbvxigorv3ca0uode1dq.jpg\n제목: Halloween Saturday Night|Crowd Control in 14 Areas\n부제: Itaewon-ro Closed to Cars · Trains May Skip Crowded Stations\n출처: Seoul Metropolitan Government\n",
+      "caption": "Crowd management is in place at 14 busy districts across Seoul tonight.\n\nThis year, Halloween (Oct 31) falls on a Saturday. The Seoul Metropolitan Government (@seoul_official) has named eight priority areas: Itaewon, Hongdae, Ikseon-dong, Myeong-dong, the Seongsu-dong cafe street, the Konkuk University food street, Gangnam Station and Apgujeong Rodeo Street. Itaewon-ro is fully closed to vehicles today, and one lane of the Hongdae club street is turned into a walkway.\n\nIf crowds build up at Itaewon, Hongik Univ., Seongsu or Konkuk Univ. stations, entrances may be closed or trains may pass through without stopping. Extended subway service is still under review, so it is wise to plan your way home from a station one or two stops away.\n\nIntensive management: Oct 30 (Fri) – Nov 1 (Sun)\nRoad closures: Oct 31 (Sat), Itaewon-ro fully closed to vehicles · one lane closed on the Hongdae club street\nSubway: entrances closed and trains skip stations when crowded (Itaewon, Hongik Univ., Seongsu, Konkuk Univ. and others)\nInquiries: Dasan Call Center 120\n#SENE #Halloween #SeoulHalloween #Itaewon #Hongdae #Seongsu",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793402868/l5menltekwqfsxkd5uyf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793402867/sag5pegcbzepplspuowc.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793402868/l5menltekwqfsxkd5uyf.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T08:27+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\n今夜、ソウルの繁華街14カ所で人出の管理が行われます。\n\n今年のハロウィンは10月31日が土曜日と重なりますが、ソウル市（@seoul_official）は梨泰院（イテウォン）・弘大（ホンデ）・益善洞（イクソンドン）・明洞（ミョンドン）・聖水洞（ソンスドン）カフェ通り・建大（コンデ）グルメ通り・江南（カンナム）駅・狎鴎亭（アックジョン）ロデオ通りの8カ所を重点管理地域に指定しました。今日は梨泰院路が車両の全面通行止めとなり、弘大クラブ通りは1車線を規制して歩行者用の通路として使います。\n\n梨泰院駅・弘大入口駅・聖水駅・建大入口駅に人が集中すると、出入口が閉鎖されたり、列車が停車せずに通過したりします。地下鉄の延長運行はまだ検討段階のため、帰り道は1〜2駅離れた駅まで考えておくと安心です。\n\n集中管理：10月30日（金）〜11月1日（日）\n交通規制：10月31日（土）梨泰院路 車両全面通行止め・弘大クラブ通り 1車線\n地下鉄：混雑時は出入口閉鎖・列車の通過（梨泰院・弘大入口・聖水・建大入口など）\n問い合わせ：タサンコールセンター 120\n#SENE #ハロウィン #韓国旅行 #梨泰院 #弘大 #聖水\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793402794/tbvxigorv3ca0uode1dq.jpg\n제목: ハロウィンの土曜の夜|繁華街14カ所で人出対策\n부제: 梨泰院路は車両通行止め・混雑時は駅を通過\n출처: ソウル市\n",
+      "caption": "今夜、ソウルの繁華街14カ所で人出の管理が行われます。\n\n今年のハロウィンは10月31日が土曜日と重なりますが、ソウル市（@seoul_official）は梨泰院（イテウォン）・弘大（ホンデ）・益善洞（イクソンドン）・明洞（ミョンドン）・聖水洞（ソンスドン）カフェ通り・建大（コンデ）グルメ通り・江南（カンナム）駅・狎鴎亭（アックジョン）ロデオ通りの8カ所を重点管理地域に指定しました。今日は梨泰院路が車両の全面通行止めとなり、弘大クラブ通りは1車線を規制して歩行者用の通路として使います。\n\n梨泰院駅・弘大入口駅・聖水駅・建大入口駅に人が集中すると、出入口が閉鎖されたり、列車が停車せずに通過したりします。地下鉄の延長運行はまだ検討段階のため、帰り道は1〜2駅離れた駅まで考えておくと安心です。\n\n集中管理：10月30日（金）〜11月1日（日）\n交通規制：10月31日（土）梨泰院路 車両全面通行止め・弘大クラブ通り 1車線\n地下鉄：混雑時は出入口閉鎖・列車の通過（梨泰院・弘大入口・聖水・建大入口など）\n問い合わせ：タサンコールセンター 120\n#SENE #ハロウィン #韓国旅行 #梨泰院 #弘大 #聖水",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793402871/sm50j1uyb0hxi6tcy08m.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793402870/mzf3pntwv9xymvjhmhwo.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793402871/sm50j1uyb0hxi6tcy08m.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T08:27+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -350,10 +409,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T08:26+09:00"
+  "at": "2026-10-31T08:27+09:00"
  },
  "queue": {
-  "next": "2026-10-31T08:28+09:00",
+  "next": "2026-10-31T08:29+09:00",
   "n": 0,
   "gap": 20
  },
