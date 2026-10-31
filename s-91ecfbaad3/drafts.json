@@ -98,11 +98,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "오늘 밤 핼러윈 토요일 — 나가기 전에 볼 통제 도로·무정차 역 정리",
-    "at": "2026-10-31T08:26+09:00"
-   },
    "corner_name": "이슈",
    "i18n_queued": "2026-10-31T08:26+09:00",
    "i18n": {
@@ -161,6 +156,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 밤이 핼러윈 토요일 — 나가기 전에 볼 통제·무정차 정보",
+    "at": "2026-10-31T11:48+09:00"
    }
   },
   {
@@ -623,7 +623,103 @@
     }
    },
    "corner_name": "콘서트 가는 날",
-   "corner_no": 1
+   "corner_no": 1,
+   "pick": {
+    "rank": 3,
+    "why": "크래비티 이병찬 단독 콘서트 2회 전석 매진 — 케이팝 공식 소식",
+    "at": "2026-10-31T11:48+09:00"
+   },
+   "i18n_queued": "2026-10-31T11:50+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:moment-1031",
+    "account": "IVE 공식 유튜브",
+    "url": "https://www.youtube.com/watch?v=IK4zCerfCM8",
+    "image": null,
+    "head": "IVE 아이브 PHOTOSHOOT 'Looks Can Kill' - Behind The Scenes",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-31T11:48+09:00",
+   "key": "d38e6246",
+   "by": "claude",
+   "subjects": [
+    "아이브",
+    "장원영"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "화보 촬영장에서 드럼을 맡은 장원영 — 드러머 닉네임을 'Brenda'로 정하고, 드럼 앞에서 웃음이 터진 30초",
+    "why": "매일 연재 「오늘의 순간」 — 10/29 아이브 공식 채널에 올라온 화보 촬영 비하인드 속 한 순간, 무대 밖 이야기"
+   },
+   "added": "claude",
+   "added_at": "2026-10-31T11:48+09:00",
+   "corner": "moment",
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=IK4zCerfCM8\n구간: 2:02-2:32\n곡: 드럼 치다 웃음 터졌다\n아티스트: 닉네임은 Brenda\n피처링:\n후킹: 드러머 *원영*입니다\n출처: IVE\n자막: 자동",
+    "caption": "아이브 장원영(@for_everyoung10)이 화보 촬영장에서 드럼 앞에 앉았습니다.\n\n이번 촬영에는 기타와 드럼 같은 악기가 소품으로 놓였는데요, 장원영은 드럼을 맡았습니다. 드러머 닉네임을 정해 보라는 질문에는 잠깐 고민하다 'Brenda'라고 답합니다.\n\n드럼 앞에서 머쓱해하던 장원영은 결국 '어떡해 나 웃음 터졌어'라며 웃음을 참지 못합니다. 장면은 10월 29일 아이브 공식 유튜브에 올라온 'Looks Can Kill' 화보 촬영 비하인드에서 골랐습니다.\n\n#SENE #SENE오늘의순간 #아이브 #장원영 #룩스캔킬 #화보비하인드",
+    "hooks": {
+     "A": "드러머 *원영*입니다 / 닉네임은 Brenda / 드럼 치다 웃음 터졌다",
+     "B": "어떡해 나 / 웃음 터졌어 / 드럼 앞의 *장원영*",
+     "C": "화보 촬영장에서 / 드럼을 맡은 *장원영* / 결국 웃음이 터졌다"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=IK4zCerfCM8",
+     "credit": "IVE",
+     "range": [
+      122.0,
+      152.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — IVE 공식 채널",
+     "2:02 첫 화면에 장원영 얼굴이 나오는지, 드럼 장면이 2:32 안에 끝나는지 한 번 보기",
+     "이어지는 소식 — 10-29에 다룬 소재. 새 사실: 10/30 글은 불가리 전시 프리뷰 착용 아이템 — 이번은 10/29 공개된 아이브 공식 화보 비하인드 속 다른 장면"
+    ],
+    "research": [
+     {
+      "title": "IVE 공식 유튜브 — 'Looks Can Kill' 화보 촬영 비하인드 · 2:00~2:33 장원영 드럼 장면 (자막 확인)",
+      "link": "https://www.youtube.com/watch?v=IK4zCerfCM8"
+     },
+     {
+      "title": "IVE 공식 채널 피드 — 같은 영상 게시일 2026-10-29",
+      "link": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-Fnix71vRP64WXeo0ikd0Q"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/IK4zCerfCM8/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793414906/snvqunxk2hxwxkvrzmsg.jpg",
+     "key": "IK4zCerfCM8@122.0"
+    },
+    "px": {
+     "vid": "IK4zCerfCM8",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793415006/sene_studio/zlxfluhdxuxf53zoawwi.mp4",
+     "off": 77.0,
+     "end": 197.0,
+     "full": 1503.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-10-31T11:50+09:00"
+    }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "이틀 전 공개된 아이브 공식 화보 비하인드 속 장원영의 드럼 한 장면 — 오늘 유일한 숏폼이자 케이팝 순간형",
+    "at": "2026-10-31T11:48+09:00"
+   },
+   "corner_name": "오늘의 순간",
+   "corner_no": 1,
+   "i18n_queued": "2026-10-31T11:50+09:00"
   }
  ],
  "skipped": [],
@@ -746,11 +842,11 @@
     "weekly": 7,
     "done": 0,
     "left": 7,
-    "need_today": 1,
+    "need_today": 0,
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "매일 숏폼 하나 — 공식 영상 속 한 사람의 표정·반응·작은 사건 10~30초 (무대·음악 자체는 PLOT)"
    },
    {
@@ -871,10 +967,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T08:49+09:00"
+  "at": "2026-10-31T11:50+09:00"
  },
  "queue": {
-  "next": "2026-10-31T08:52+09:00",
+  "next": "2026-10-31T11:52+09:00",
   "n": 0,
   "gap": 20
  },
