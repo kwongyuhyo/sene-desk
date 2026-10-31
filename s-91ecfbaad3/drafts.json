@@ -1013,7 +1013,9 @@
      "v": {
       "A": "c0c445c1",
       "B": "c4c92ba8",
-      "C": "58031519"
+      "C": "58031519",
+      "E": "5f7e9a38",
+      "J": "5dc24b5f"
      }
     }
    },
@@ -1082,7 +1084,71 @@
     }
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-31T17:18+09:00"
+   "i18n_queued": "2026-10-31T17:18+09:00",
+   "i18n": {
+    "at": "2026-10-31T17:19+09:00",
+    "confirm": [
+     "쿠로미 대사의 일본어 원문을 확인하지 못했습니다. 「あたいが主役の映画が決まった」는 한국어에서 다시 옮긴 문장이라, 영상 자막 원문과 맞춰 고쳐 주세요. 영어 인용문도 같은 이유로 확인이 필요합니다.",
+     "검색으로는 2027년 개봉, GAGA(ギャガ) 배급, 바쿠(バク)가 나온다는 내용을 찾지 못했습니다. 올리기 전에 kuromithemovie.com 과 GAGA 공식 발표에서 확인해 주세요.",
+     "영화 공식 영어·일본어 제목이 아직 없어서 제목 대신 'theatrical film'과 「劇場映画」로 옮겼습니다.",
+     "부제는 원문에 '|' 가 없어 한 줄로 옮겼는데, 영어 부제가 47자라 표지에서 길 수 있습니다.",
+     "쿠로미 인용문(일본어 「あたいが主役の映画が決まった」)이 공식 영상의 실제 대사와 같은지 올리기 전에 확인해야 합니다. 일본어판은 원어 그대로 실리므로 문말(「〜決まったの」 등)이 틀리면 바로 드러납니다.",
+     "영어 부제 'Japan Release in 2027 · Revealed on Her Birthday'는 48자로 깁니다. 표지 화면에서 줄바꿈이 괜찮은지 봐야 합니다."
+    ],
+    "review": {
+     "at": "2026-10-31T17:19+09:00",
+     "fixes": [
+      "영어 · 캡션 인용문 · \"A movie starring me has been decided\" → \"They've decided on a movie starring me\" — 직역투 수동문",
+      "영어 · 캡션·숏폼 캡션 한국 개봉 줄 · other regions outside Japan → regions outside Japan — other 와 outside 가 겹침"
+     ],
+     "doubt": [
+      "쿠로미 인용문(일본어 「あたいが主役の映画が決まった」)이 공식 영상의 실제 대사와 같은지 올리기 전에 확인해야 합니다. 일본어판은 원어 그대로 실리므로 문말(「〜決まったの」 등)이 틀리면 바로 드러납니다.",
+      "영어 부제 'Japan Release in 2027 · Revealed on Her Birthday'는 48자로 깁니다. 표지 화면에서 줄바꿈이 괜찮은지 봐야 합니다."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nSanrio's Kuromi takes the lead role for the first time in a theatrical animated film, set for release in Japan in 2027.\n\nThe news came on Oct 31, Kuromi's birthday. The character debuted in 2005, and this is the first time she has headlined a theatrical film.\n\nIn a video released alongside the announcement, Kuromi gets so excited she tears up, while her sidekick Baku appears only as a voice. \"They've decided on a movie starring me,\" Kuromi says, thanking her fans, the KUROMIES. The title, story and cast are still under wraps.\n\nRelease: 2027, theaters across Japan\nDistributor: GAGA\nKorea release: TBA (regions outside Japan to be announced once confirmed)\nOfficial site: kuromithemovie.com\n\n#SENE #Kuromi #Sanrio #KuromiMovie #AnimeMovie\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793434670/snfdmhsby8ypeyedhyho.jpg\n제목: Kuromi Stars in Her|First Theatrical Film\n부제: Japan Release in 2027 · Revealed on Her Birthday\n출처: @kuromithemovie\n",
+      "caption": "Sanrio's Kuromi takes the lead role for the first time in a theatrical animated film, set for release in Japan in 2027.\n\nThe news came on Oct 31, Kuromi's birthday. The character debuted in 2005, and this is the first time she has headlined a theatrical film.\n\nIn a video released alongside the announcement, Kuromi gets so excited she tears up, while her sidekick Baku appears only as a voice. \"They've decided on a movie starring me,\" Kuromi says, thanking her fans, the KUROMIES. The title, story and cast are still under wraps.\n\nRelease: 2027, theaters across Japan\nDistributor: GAGA\nKorea release: TBA (regions outside Japan to be announced once confirmed)\nOfficial site: kuromithemovie.com\n\n#SENE #Kuromi #Sanrio #KuromiMovie #AnimeMovie",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793434791/dcs7hmltxmzl285h8l2w.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793434791/sivvwuxizfkpooz0sjch.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793434791/dcs7hmltxmzl285h8l2w.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T17:19+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=IrB1Uqx0Jzg\n구간: 0:00-0:30\n곡: first feature film\n아티스트: *Kuromi* stars in her\n피처링:\n후킹: \n출처: GAGA official channel\n자막: 자동",
+      "caption": "Sanrio's Kuromi takes the lead role for the first time in a theatrical animated film, set for release in Japan in 2027.\n\nDistributor GAGA released this message video on Oct 31, Kuromi's birthday. Kuromi can't sit still at the news that her film is happening, while her sidekick Baku chimes in from off-screen, heard only as a voice.\n\nIt is her first theatrical lead since her 2005 debut. The title, story and cast are still under wraps.\n\nRelease: 2027, theaters across Japan\nDistributor: GAGA\nKorea release: TBA (regions outside Japan to be announced once confirmed)\n\n#SENE #Kuromi #Sanrio #KuromiMovie #AnimeMovie"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nサンリオのクロミが初めて主役を務める劇場アニメーションが、2027年に日本で公開されます。\n\n発表は10月31日、クロミの誕生日でした。2005年にデビューしたキャラクターが劇場映画の主役を務めるのは、今回が初めてです。\n\nあわせて公開された映像では、クロミが知らせに浮かれて涙まで見せ、手下のバクは声だけで登場します。クロミは「あたいが主役の映画が決まった」と、ファンのKUROMIESに感謝を伝えました。タイトルやストーリー、キャストはまだ明かされていません。\n\n公開：2027年 日本全国の劇場\n配給：ギャガ（GAGA）\n韓国公開：未定（日本以外の地域は決まり次第発表）\n公式サイト：kuromithemovie.com\n\n#SENE #クロミ #サンリオ #クロミ映画 #アニメ映画\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793434670/snfdmhsby8ypeyedhyho.jpg\n제목: クロミが主役の|初の劇場映画\n부제: 2027年日本公開・誕生日に発表\n출처: @kuromithemovie\n",
+      "caption": "サンリオのクロミが初めて主役を務める劇場アニメーションが、2027年に日本で公開されます。\n\n発表は10月31日、クロミの誕生日でした。2005年にデビューしたキャラクターが劇場映画の主役を務めるのは、今回が初めてです。\n\nあわせて公開された映像では、クロミが知らせに浮かれて涙まで見せ、手下のバクは声だけで登場します。クロミは「あたいが主役の映画が決まった」と、ファンのKUROMIESに感謝を伝えました。タイトルやストーリー、キャストはまだ明かされていません。\n\n公開：2027年 日本全国の劇場\n配給：ギャガ（GAGA）\n韓国公開：未定（日本以外の地域は決まり次第発表）\n公式サイト：kuromithemovie.com\n\n#SENE #クロミ #サンリオ #クロミ映画 #アニメ映画",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793434794/mzfmm2id7xun5hdkk4us.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793434793/kjjtspw7l6yz6tpfsfzz.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793434794/mzfmm2id7xun5hdkk4us.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T17:19+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=IrB1Uqx0Jzg\n구간: 0:00-0:30\n곡: 初の劇場映画\n아티스트: *クロミ*が主役の\n피처링:\n후킹: \n출처: ギャガ公式チャンネル\n자막: 자동",
+      "caption": "サンリオのクロミが初めて主役を務める劇場アニメーションが、2027年に日本で公開されます。\n\n配給のギャガがクロミの誕生日である10月31日に合わせて公開したメッセージ映像です。クロミは映画が決まった知らせにじっとしていられず、手下のバクは画面の外から声だけで相づちを打ちます。\n\n2005年のデビュー以来、初めての劇場映画の主演です。タイトルやストーリー、キャストはまだ明かされていません。\n\n公開：2027年 日本全国の劇場\n配給：ギャガ（GAGA）\n韓国公開：未定（日本以外の地域は決まり次第発表）\n\n#SENE #クロミ #サンリオ #クロミ映画 #アニメ映画"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1330,10 +1396,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T17:18+09:00"
+  "at": "2026-10-31T17:19+09:00"
  },
  "queue": {
-  "next": "2026-10-31T17:20+09:00",
+  "next": "2026-10-31T17:21+09:00",
   "n": 0,
   "gap": 20
  },
