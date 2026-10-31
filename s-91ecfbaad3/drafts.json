@@ -773,9 +773,66 @@
      "end": 197.0,
      "full": 1503.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-10-31T11:50+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793415237/sene_studio/qkw7pkvtp3w88jficyzn.mp4",
+     "at": "2026-10-31T11:53+09:00",
+     "file": "NigNeImEun_Brenda_DeuLeom_ChiDa_UsEum__KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793415239881-d38e6246",
+      "segs": [
+       {
+        "start": 10.58,
+        "end": 11.37,
+        "text": "드럼을 갖다"
+       },
+       {
+        "start": 11.37,
+        "end": 12.32,
+        "text": "주셨습니다"
+       },
+       {
+        "start": 12.32,
+        "end": 14.66,
+        "text": "드러머 원영입니다"
+       },
+       {
+        "start": 15.28,
+        "end": 17.56,
+        "text": "Brenda"
+       },
+       {
+        "start": 17.56,
+        "end": 20.12,
+        "text": "Brenda 원영으로 하겠습니다"
+       },
+       {
+        "start": 20.12,
+        "end": 21.48,
+        "text": "캘리걸이에요"
+       },
+       {
+        "start": 21.48,
+        "end": 22.56,
+        "text": "캘리걸"
+       },
+       {
+        "start": 26.15,
+        "end": 26.73,
+        "text": "땡기다"
+       },
+       {
+        "start": 26.73,
+        "end": 27.9,
+        "text": "웃음 터졌다"
+       },
+       {
+        "start": 27.9,
+        "end": 28.5,
+        "text": "Bu"
+       }
+      ]
+     },
+     "v": "f1e81045"
     }
    },
    "pick": {
@@ -1060,10 +1117,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T11:52+09:00"
+  "at": "2026-10-31T11:53+09:00"
  },
  "queue": {
-  "next": "2026-10-31T11:54+09:00",
+  "next": "2026-10-31T11:56+09:00",
   "n": 0,
   "gap": 20
  },
