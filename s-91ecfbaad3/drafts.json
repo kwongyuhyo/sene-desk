@@ -785,7 +785,34 @@
    },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
-   "i18n_queued": "2026-10-31T11:50+09:00"
+   "i18n_queued": "2026-10-31T11:50+09:00",
+   "i18n": {
+    "at": "2026-10-31T11:52+09:00",
+    "confirm": [
+     "'Looks Can Kill'이 IVE 신보 타이틀곡이라는 것은 확인했습니다. 다만 10월 29일 공식 유튜브에 올라온 화보 비하인드 영상 자체(드럼 장면, 'Brenda' 답변)는 검색으로 찾지 못했습니다. 올리기 전에 영상과 자막을 직접 봐 주세요.",
+     "이름 표기: 영어는 Korea Times 표기인 'Jang Wonyoung', 일본어는 일본 매체에서 흔히 쓰는 'チャン・ウォニョン'으로 했습니다. 일본어 공식 표기는 따로 확인하지 못했습니다.",
+     "숏폼 세 칸은 화면에서 후킹 → 아티스트 → 곡 순서로 읽힌다고 보고 맞췄습니다. 영어 'Drummer Wonyoung aka Brenda, cracks up.'은 칸 사이 띄어쓰기까지 세면 41자라 40자를 조금 넘습니다. 일본어는 23자입니다.",
+     "후킹 원문 '드러머 원영입니다'는 장원영이 직접 한 말인데, 글자 수 때문에 영어는 'Drummer Wonyoung', 일본어는 'ドラマーウォニョン'으로 줄였습니다.",
+     "해시태그 #SENE오늘의순간·#화보비하인드는 그대로 옮기지 않고 각 언어 독자가 실제로 찾는 태그로 바꿨습니다."
+    ],
+    "review": {
+     "at": "2026-10-31T11:52+09:00",
+     "fixes": [],
+     "doubt": []
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=IK4zCerfCM8\n구간: 2:02-2:32\n곡: cracks up.\n아티스트: aka Brenda,\n피처링:\n후킹: Drummer *Wonyoung*\n출처: IVE\n자막: 자동",
+      "caption": "IVE's Jang Wonyoung (@for_everyoung10) sits down at a drum kit on a photoshoot set.\n\nInstruments such as guitars and drums were set out as props for the shoot, and Jang took the drums. Asked to pick a drummer nickname, she thinks for a moment and answers 'Brenda.'\n\nLooking a little sheepish behind the kit, she finally can't hold back: 'Oh no, I'm cracking up.' The scene is from the behind-the-scenes video of the 'Looks Can Kill' photoshoot, posted on IVE's official YouTube channel on Oct 29.\n\n#SENE #IVE #JangWonyoung #LooksCanKill #BehindTheScenes"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=IK4zCerfCM8\n구간: 2:02-2:32\n곡: 思わず爆笑\n아티스트: 愛称Brenda、\n피처링:\n후킹: ドラマー*ウォニョン*\n출처: IVE\n자막: 자동",
+      "caption": "IVEのチャン・ウォニョン（@for_everyoung10）が、撮影現場でドラムの前に座りました。\n\n今回の撮影ではギターやドラムなどの楽器が小道具として置かれていましたが、チャン・ウォニョンはドラムを担当。ドラマーとしての愛称を決めてほしいという質問には、少し考えてから「Brenda」と答えます。\n\nドラムの前で照れくさそうにしていたチャン・ウォニョンは、最後に「どうしよう、笑っちゃった」と笑いをこらえきれません。場面は10月29日にIVE公式YouTubeで公開された「Looks Can Kill」撮影ビハインド映像から選びました。\n\n#SENE #IVE #ウォニョン #チャンウォニョン #LooksCanKill"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1033,10 +1060,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T11:51+09:00"
+  "at": "2026-10-31T11:52+09:00"
  },
  "queue": {
-  "next": "2026-10-31T11:53+09:00",
+  "next": "2026-10-31T11:54+09:00",
   "n": 0,
   "gap": 20
  },
