@@ -874,11 +874,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=IK4zCerfCM8\n구간: 2:02-2:32\n곡: 思わず爆笑\n아티스트: 愛称Brenda、\n피처링:\n후킹: ドラマー*ウォニョン*\n출처: IVE\n자막: 자동",
       "caption": "IVEのチャン・ウォニョン（@for_everyoung10）が、撮影現場でドラムの前に座りました。\n\n今回の撮影ではギターやドラムなどの楽器が小道具として置かれていましたが、チャン・ウォニョンはドラムを担当。ドラマーとしての愛称を決めてほしいという質問には、少し考えてから「Brenda」と答えます。\n\nドラムの前で照れくさそうにしていたチャン・ウォニョンは、最後に「どうしよう、笑っちゃった」と笑いをこらえきれません。場面は10月29日にIVE公式YouTubeで公開された「Looks Can Kill」撮影ビハインド映像から選びました。\n\n#SENE #IVE #ウォニョン #チャンウォニョン #LooksCanKill",
-      "render": {
-       "status": "queued",
-       "at": "2026-10-31T11:54+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793415630/sene_studio/h1l1wmucznpmmgvjkjr9.mp4",
+       "at": "2026-10-31T12:00+09:00",
+       "file": "AiChengBrenda_SiwazuBaoXiao_KeolCheo_no_lyrics.mp4",
        "sig": "0471a0dacb",
-       "job": 185
+       "v": "8f733555"
       }
      }
     }
@@ -1130,10 +1131,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T11:57+09:00"
+  "at": "2026-10-31T12:00+09:00"
  },
  "queue": {
-  "next": "2026-10-31T11:59+09:00",
+  "next": "2026-10-31T12:02+09:00",
   "n": 0,
   "gap": 20
  },
