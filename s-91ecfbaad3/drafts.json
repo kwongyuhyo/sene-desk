@@ -1090,6 +1090,12 @@
      "at": "2026-10-31T17:20+09:00",
      "file": "KuLoMiGa_JuInGongIn_Cheos_GeugJang_Yeong_KeolCheo_no_lyrics.mp4",
      "v": "e4925316"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfJzu-akUvB/",
+     "at": "2026-10-31T18:13+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "corner_name": "소식",
@@ -1140,6 +1146,12 @@
        "file": "Kuromi_stars_in_her_first_feature_film_KeolCheo_no_lyrics.mp4",
        "sig": "992265a17f",
        "v": "2aaf9f3d"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfJz6K-DNYY/",
+       "at": "2026-10-31T18:15+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      }
     },
@@ -1168,6 +1180,12 @@
        "file": "kuromigaZhuYino_ChunoJuChangYingHua_KeolCheo_no_lyrics.mp4",
        "sig": "ba6f531245",
        "v": "4e26af6e"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfJz-OPFafZ/",
+       "at": "2026-10-31T18:15+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      }
     }
@@ -1671,10 +1689,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T18:13+09:00"
+  "at": "2026-10-31T18:15+09:00"
  },
  "queue": {
-  "next": "2026-10-31T18:29+09:00",
+  "next": "2026-10-31T18:33+09:00",
   "n": 0,
   "gap": 20
  },
