@@ -1687,12 +1687,66 @@
      "v": {
       "A": "b95b8524",
       "B": "43023a72",
-      "C": "e7772ad1"
+      "C": "e7772ad1",
+      "E": "49be92db",
+      "J": "82dde016"
      }
     }
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-10-31T20:26+09:00"
+   "i18n_queued": "2026-10-31T20:26+09:00",
+   "i18n": {
+    "at": "2026-10-31T20:27+09:00",
+    "confirm": [
+     "SPAO 공식 사이트에서 일본어 표기 확인 못 함 — 일본어판은 SPAO 를 그대로 쓰고 처음 한 번만 「スパオ」를 괄호로 붙임",
+     "'수면 파자마' 를 영어 'sleep pajamas', 일본어 'スリープパジャマ' 로 옮김. 스파오 공식 영문 제품명은 확인 못 함 (KREAM 리셀 목록에는 'Warm Sleep Pajama')",
+     "12월 4일이 금요일인지 다시 계산함 (2026년 기준 맞음)",
+     "올리기 전 스파오 공식몰에서 예약 주문이 아직 열려 있는지, 판매가 45,900원과 발송일(12월 4일 이후)이 그대로인지 다시 확인"
+    ],
+    "review": {
+     "at": "2026-10-31T20:27+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · 'three colors, pink, yellow and blue, and five sizes' → 'three colors (pink, yellow and blue) and five sizes' — 쉼표가 이어져 색 목록과 사이즈가 섞여 읽힘"
+     ],
+     "doubt": [
+      "올리기 전 스파오 공식몰에서 예약 주문이 아직 열려 있는지, 판매가 45,900원과 발송일(12월 4일 이후)이 그대로인지 다시 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nSPAO (@spao_kr) has reopened pre-orders for its Chiikawa sleep pajamas.\n\nThe pajamas first came out on Oct 8, sold out, and already went through one round of pre-orders. This time they are back on the official online store as a new batch that will ship in order from Dec 4.\n\nThey come in three colors (pink, yellow and blue) and five sizes from S to XXL. With delivery in early December, they should arrive in time for a year-end pajama party.\n\nPrice: KRW 45,900 (launch price KRW 49,900)\nShipping: Ships in order from Fri, Dec 4\nWhere to buy: SPAO official online store\n#SENE #SPAO #Chiikawa #KoreanFashion #Pajamas\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793445946/lhylq6nnsrnx1cb8962f.jpg\n제목: Chiikawa Sleep Pajamas|Pre-Orders Reopen\n부제: SPAO · Shipping in order from Dec 4\n출처: Source: @spao_kr\n",
+      "caption": "SPAO (@spao_kr) has reopened pre-orders for its Chiikawa sleep pajamas.\n\nThe pajamas first came out on Oct 8, sold out, and already went through one round of pre-orders. This time they are back on the official online store as a new batch that will ship in order from Dec 4.\n\nThey come in three colors (pink, yellow and blue) and five sizes from S to XXL. With delivery in early December, they should arrive in time for a year-end pajama party.\n\nPrice: KRW 45,900 (launch price KRW 49,900)\nShipping: Ships in order from Fri, Dec 4\nWhere to buy: SPAO official online store\n#SENE #SPAO #Chiikawa #KoreanFashion #Pajamas",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793446033/t8gek9d3m2ayfapfbhvx.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793446033/oiyk208dtekyztk0bzut.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793446033/t8gek9d3m2ayfapfbhvx.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T20:27+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nSPAO（スパオ・@spao_kr）が、ちいかわのスリープパジャマの予約受付を再び始めました。\n\n10月8日に発売されたあと品切れになり、一度予約販売をしたパジャマです。今回は12月4日以降に順次発送される分として、公式オンラインストアに再登場しました。\n\nカラーはピンク・イエロー・ブルーの3色、サイズはSからXXLまでの5サイズです。届くのが12月初めなので、年末のパジャマパーティーの日程に合わせられます。\n\n価格：45,900ウォン（発売時価格49,900ウォン）\n配送：12月4日（金）以降順次発送\n購入：SPAO公式オンラインストア\n#SENE #SPAO #ちいかわ #韓国ファッション #パジャマ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793445946/lhylq6nnsrnx1cb8962f.jpg\n제목: ちいかわパジャマ|再び予約受付中\n부제: SPAO・12月4日以降順次発送\n출처: 出典：@spao_kr\n",
+      "caption": "SPAO（スパオ・@spao_kr）が、ちいかわのスリープパジャマの予約受付を再び始めました。\n\n10月8日に発売されたあと品切れになり、一度予約販売をしたパジャマです。今回は12月4日以降に順次発送される分として、公式オンラインストアに再登場しました。\n\nカラーはピンク・イエロー・ブルーの3色、サイズはSからXXLまでの5サイズです。届くのが12月初めなので、年末のパジャマパーティーの日程に合わせられます。\n\n価格：45,900ウォン（発売時価格49,900ウォン）\n配送：12月4日（金）以降順次発送\n購入：SPAO公式オンラインストア\n#SENE #SPAO #ちいかわ #韓国ファッション #パジャマ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793446036/ozwxxurckvybkhp7qngs.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793446035/xupa12he3fjivb3hjjjj.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793446036/ozwxxurckvybkhp7qngs.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T20:27+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1940,10 +1994,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T20:26+09:00"
+  "at": "2026-10-31T20:27+09:00"
  },
  "queue": {
-  "next": "2026-10-31T20:28+09:00",
+  "next": "2026-10-31T20:29+09:00",
   "n": 0,
   "gap": 20
  },
