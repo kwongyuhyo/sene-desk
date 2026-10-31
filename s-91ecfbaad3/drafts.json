@@ -618,7 +618,9 @@
      "v": {
       "A": "be2ed415",
       "B": "cf007c12",
-      "C": "ea849d5f"
+      "C": "ea849d5f",
+      "E": "9a58176a",
+      "J": "21fc6e00"
      }
     }
    },
@@ -629,7 +631,71 @@
     "why": "크래비티 이병찬 단독 콘서트 2회 전석 매진 — 케이팝 공식 소식",
     "at": "2026-10-31T11:48+09:00"
    },
-   "i18n_queued": "2026-10-31T11:50+09:00"
+   "i18n_queued": "2026-10-31T11:50+09:00",
+   "i18n": {
+    "at": "2026-10-31T11:51+09:00",
+    "confirm": [
+     "찾아본 기사에서 11월 15일 CKL스테이지 공연과 두 회차 매진은 확인하지 못했습니다. 검색에 나온 건 2025년 12월 27일 서울 공감센터 단독 콘서트 'Would you Merry me?' 보도와 2026년 9월 'All Seats Sold Out' 영문 기사였습니다. 올리기 전에 소속사(더블엑스엔터테인먼트)나 예매처 공지로 날짜·장소·매진을 다시 확인해야 합니다.",
+     "EP 'ㄴㅇㄱ'의 공식 영어·일본어 표기는 찾지 못해서 한글 그대로 뒀습니다.",
+     "이름 영문은 영문 기사에 나온 'Lee Byung-chan'을, 일본어는 공식 표기를 찾지 못해 'イ・ビョンチャン（이병찬）'으로 적었습니다.",
+     "소속사 영문명은 영문 기사의 'Double X Entertainment'를 그대로 썼습니다.",
+     "CKL스테이지 영문 주소 '40 Cheonggyecheon-ro, Jung-gu'는 원문 주소를 로마자로 옮긴 것으로, 공식 영문 표기는 확인하지 않았습니다.",
+     "실용 정보 줄 머리말을 원문(일시·예매)에 맞춰 영어는 Date·Tickets, 일본어는 日時·チケット로 바꿨습니다. 지침의 Dates·Reservations / 期間·予約로 맞추려면 고쳐 주세요.",
+     "음악을 다루는 글이지만 공연을 보러 가는 일로 쓰였고, 원문의 사실만 옮겼습니다.",
+     "영어·일본어 · EP 제목 'ㄴㅇㄱ' 이 한글 그대로 남아 있음 — 웹 검색으로는 이 EP와 공식 영문·일문 표기를 찾지 못함. 공식 표기(로마자 제목 등)가 있으면 바꾸고, 한글 제목이 공식이면 그대로 둠 (영어권·일본 독자는 읽지 못함)",
+     "사실 확인 · 11월 15일 CKL스테이지 2회 공연과 매진 여부는 웹 검색에서 확인되지 않음 (검색에 나온 이병찬 단독 콘서트는 2025년 12월 27일 공감센터 공연 'Would you Merry me?'). 올리기 전에 소속사 공지나 예매처에서 일정·회차·매진을 다시 확인해야 함",
+     "출처 칸 'Double X Entertainment' — 소속사 공식 영문 표기(띄어쓰기·대소문자 포함)를 확인하지 못함",
+     "영어판 캡션에 한글이 남음",
+     "일본어판 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-10-31T11:51+09:00",
+     "fixes": [
+      "일본어 · 해시태그 · #イ・ビョンチャン → #イビョンチャン — 인스타그램 해시태그는 가운뎃점(・)에서 끊겨 '#イ'만 태그로 걸림"
+     ],
+     "doubt": [
+      "영어·일본어 · EP 제목 'ㄴㅇㄱ' 이 한글 그대로 남아 있음 — 웹 검색으로는 이 EP와 공식 영문·일문 표기를 찾지 못함. 공식 표기(로마자 제목 등)가 있으면 바꾸고, 한글 제목이 공식이면 그대로 둠 (영어권·일본 독자는 읽지 못함)",
+      "사실 확인 · 11월 15일 CKL스테이지 2회 공연과 매진 여부는 웹 검색에서 확인되지 않음 (검색에 나온 이병찬 단독 콘서트는 2025년 12월 27일 공감센터 공연 'Would you Merry me?'). 올리기 전에 소속사 공지나 예매처에서 일정·회차·매진을 다시 확인해야 함",
+      "출처 칸 'Double X Entertainment' — 소속사 공식 영문 표기(띄어쓰기·대소문자 포함)를 확인하지 못함",
+      "영어판 캡션에 한글이 남음",
+      "일본어판 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nBoth shows of Lee Byung-chan's solo concert on Nov 15 are sold out.\n\nThe concert celebrates the release of his new EP 'ㄴㅇㄱ', and seats for both the 2 p.m. and 6 p.m. shows sold out as soon as tickets opened.\n\nThe venue is CKL Stage, beside Cheonggyecheon Stream. Across the two shows, he plans to sing tracks from the new EP live.\n\nDate: Sun, Nov 15 · 2 p.m. and 6 p.m.\nLocation: CKL Stage, 40 Cheonggyecheon-ro, Jung-gu, Seoul\nTickets: Both shows sold out\n\n#SENE #LeeByungchan #CKLStage #Cheonggyecheon #SeoulConcert\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793404196/qfljgi655ch09gpnkbic.jpg\n제목: Lee Byung-chan Concert|Both Shows Sold Out\n부제: Nov 15, CKL Stage\n출처: Double X Entertainment\n",
+      "caption": "Both shows of Lee Byung-chan's solo concert on Nov 15 are sold out.\n\nThe concert celebrates the release of his new EP 'ㄴㅇㄱ', and seats for both the 2 p.m. and 6 p.m. shows sold out as soon as tickets opened.\n\nThe venue is CKL Stage, beside Cheonggyecheon Stream. Across the two shows, he plans to sing tracks from the new EP live.\n\nDate: Sun, Nov 15 · 2 p.m. and 6 p.m.\nLocation: CKL Stage, 40 Cheonggyecheon-ro, Jung-gu, Seoul\nTickets: Both shows sold out\n\n#SENE #LeeByungchan #CKLStage #Cheonggyecheon #SeoulConcert",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793415082/qtput0xcogclaqsh0i3f.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793415081/ia3dwmbxhjregbu8zipr.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793415082/qtput0xcogclaqsh0i3f.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T11:51+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nイ・ビョンチャン（이병찬）の11月15日の単独コンサートが、2回公演ともに完売しました。\n\n新EP『ㄴㅇㄱ』のリリースを記念した公演で、チケットが発売されるとすぐに午後2時と午後6時、2回公演の席がすべて売り切れました。\n\n会場は清渓川（チョンゲチョン）のそばにあるCKLステージです。1日2回、新EPの収録曲をライブで届ける予定です。\n\n日時：11月15日（日）午後2時・午後6時\n場所：ソウル・中区（チュング）清渓川路40 CKLステージ\nチケット：2回公演とも全席完売\n\n#SENE #イビョンチャン #韓国コンサート #清渓川 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793404196/qfljgi655ch09gpnkbic.jpg\n제목: イ・ビョンチャン単独公演|2回公演とも完売\n부제: 11月15日 CKLステージ\n출처: Double X Entertainment\n",
+      "caption": "イ・ビョンチャン（이병찬）の11月15日の単独コンサートが、2回公演ともに完売しました。\n\n新EP『ㄴㅇㄱ』のリリースを記念した公演で、チケットが発売されるとすぐに午後2時と午後6時、2回公演の席がすべて売り切れました。\n\n会場は清渓川（チョンゲチョン）のそばにあるCKLステージです。1日2回、新EPの収録曲をライブで届ける予定です。\n\n日時：11月15日（日）午後2時・午後6時\n場所：ソウル・中区（チュング）清渓川路40 CKLステージ\nチケット：2回公演とも全席完売\n\n#SENE #イビョンチャン #韓国コンサート #清渓川 #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793415085/jdnzibvvbzwl6qm3emue.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793415084/mkztkssl4gapdqximjrp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793415085/jdnzibvvbzwl6qm3emue.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-10-31T11:51+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -967,10 +1033,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T11:50+09:00"
+  "at": "2026-10-31T11:51+09:00"
  },
  "queue": {
-  "next": "2026-10-31T11:52+09:00",
+  "next": "2026-10-31T11:53+09:00",
   "n": 0,
   "gap": 20
  },
