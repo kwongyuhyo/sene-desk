@@ -502,7 +502,14 @@
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfJzTu3FNRT/",
+    "cover": "A",
+    "at": "2026-10-31T18:09+09:00",
+    "account": "sene",
+    "via": "api"
+   }
   },
   {
    "source": {
@@ -1257,6 +1264,166 @@
    },
    "corner_name": "왜 지금",
    "corner_no": 1
+  },
+  {
+   "source": {
+    "id": "claude:ord-fb824190",
+    "account": "@규효 공유 · @eyesmag",
+    "url": "https://www.instagram.com/p/DfCU_8imb5X/?img_index=3&rpxt=MWtpM3hqa2UzYm1ydw==",
+    "image": null,
+    "head": "보테가 베네타 5년 만의 인스타 복귀, 첫 피드는 60주년 아카이브 60장",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-10-31T18:12+09:00",
+   "key": "9a80a676",
+   "by": "claude",
+   "subjects": [
+    "보테가 베네타"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "5년 만에 돌아온 보테가 베네타 인스타그램 — 첫 피드는 새 캠페인이 아니라 60년 기록 60장",
+    "why": "2021년 SNS를 접었던 브랜드의 복귀. 'Ciao' 이후 올라온 피드 구성(60주년 아카이브)이 다른 매체가 덜 다룬 각도"
+   },
+   "added": "claude",
+   "added_at": "2026-10-31T18:12+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n패션\n\n[캡션]\n보테가 베네타(@bottegaveneta)가 5년 만에 인스타그램으로 돌아왔습니다.\n\n2021년 1월 인스타그램과 페이스북, 트위터 계정을 한꺼번에 지웠던 브랜드인데요, 10월 28일 계정을 다시 열고 스토리에 'Ciao' 한 마디를 올렸습니다. 2025년부터는 루이즈 트로터가 크리에이티브 디렉터를 맡고 있습니다.\n\n이어 피드를 채운 건 새 캠페인이 아니라 지난 60년의 기록이었습니다. 브랜드는 하우스의 60년을 기념하는 게시물 60개라고 설명했고, 'When your own initials are enough' 문구가 적힌 옛 쇼핑백부터 올해 캠페인 사진까지 연대순이 아닌 순서로 걸었습니다.\n\n재개: 2026년 10월 28일 ('Ciao' 스토리)\n계정: 보테가 베네타 공식 인스타그램\n#SENE #보테가베네타 #BottegaVeneta #루이즈트로터 #아카이브\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793437945/cdmr1djvljzawnmfa5cr.jpg\n제목: 보테가 베네타,|5년 만에 인스타 복귀\n부제: 첫 피드는 60년 기록 60장\n출처: @bottegaveneta\n",
+    "caption": "보테가 베네타(@bottegaveneta)가 5년 만에 인스타그램으로 돌아왔습니다.\n\n2021년 1월 인스타그램과 페이스북, 트위터 계정을 한꺼번에 지웠던 브랜드인데요, 10월 28일 계정을 다시 열고 스토리에 'Ciao' 한 마디를 올렸습니다. 2025년부터는 루이즈 트로터가 크리에이티브 디렉터를 맡고 있습니다.\n\n이어 피드를 채운 건 새 캠페인이 아니라 지난 60년의 기록이었습니다. 브랜드는 하우스의 60년을 기념하는 게시물 60개라고 설명했고, 'When your own initials are enough' 문구가 적힌 옛 쇼핑백부터 올해 캠페인 사진까지 연대순이 아닌 순서로 걸었습니다.\n\n재개: 2026년 10월 28일 ('Ciao' 스토리)\n계정: 보테가 베네타 공식 인스타그램\n#SENE #보테가베네타 #BottegaVeneta #루이즈트로터 #아카이브",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437945/cdmr1djvljzawnmfa5cr.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/876395986_18648797077017725_4504188918700438913_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qFAHg9dhrDUQ7kNvwGGMa4k&_nc_oc=AdoECKOI2p6VF3a7td4L4l78z85Ftnq-F_wW7H4QtKZmDGEA-bEpZ_LlDGLTsVv6kPA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQTrKy95E0vXZ77pkKp1zwpDyTUBqeoFBR0NbcED2QeQ4A&oe=6AEB71C6"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437949/q48pofislhzfhl7sy9qs.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869797863_18648796948017725_426696150116830694_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GPhV3kBlpXcQ7kNvwEkDYB8&_nc_oc=AdrY0Qutf4yrKAvqjb7lgbvjSGz1RH0XirrO4kWgr430MDNgHGKuQ8fmDHIqC0Cydmg&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQRtMTNRM2-jzozLEAe2_KvIm7esIrgjKb5TNCwNnbgLaA&oe=6AEB893E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437952/fvywpfdq85yzwoyy6sbg.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/874775045_18648795418017725_4365997988322590790_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mBvebVkc5csQ7kNvwF2Q_As&_nc_oc=AdrKaVbeynqBJKYAp-sgclzEvGGSTmeRxKSxEfiHz_w85dSGLJw-A-2dB-5uMVjARAQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQSvM9TZhRVsq3zlqf2h1mzFpM3CDY78SojBCgGk1ZazaA&oe=6AEB6E0B"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437955/fciwk3bee0bfz7t7z0jt.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/868243883_18648797461017725_8963754992280791879_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-ujZfK8vuhkQ7kNvwHNm7Z4&_nc_oc=AdpET7WImao7qEG4nZ3IXbpF_iXHbYGNtaW-WhwOat7Rs7koky8G1_vZlRYx1mV-I2c&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQQ5OZa_63SBBv-HRYOksvZtUQm4Y8o4qTiyN5ZPlHKzIQ&oe=6AEB7244"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437958/lmqa0ztanyulracc6chp.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/867925237_18648794470017725_3631666769803549203_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yORx8Mwu_F0Q7kNvwHqSYMi&_nc_oc=AdrGb_iD7bN6ymb55R_SMe3Piz_yT2JvMykZvpd3_wF1rr88bZ5mVD1jOWiFj6oXPds&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQSoNzzZaPgF56GDLhx0A4cY31lxD1NY3yXh0pMdLX49eg&oe=6AEB983B"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437945/cdmr1djvljzawnmfa5cr.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/876395986_18648797077017725_4504188918700438913_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qFAHg9dhrDUQ7kNvwGGMa4k&_nc_oc=AdoECKOI2p6VF3a7td4L4l78z85Ftnq-F_wW7H4QtKZmDGEA-bEpZ_LlDGLTsVv6kPA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQTrKy95E0vXZ77pkKp1zwpDyTUBqeoFBR0NbcED2QeQ4A&oe=6AEB71C6"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437949/q48pofislhzfhl7sy9qs.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869797863_18648796948017725_426696150116830694_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=GPhV3kBlpXcQ7kNvwEkDYB8&_nc_oc=AdrY0Qutf4yrKAvqjb7lgbvjSGz1RH0XirrO4kWgr430MDNgHGKuQ8fmDHIqC0Cydmg&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQRtMTNRM2-jzozLEAe2_KvIm7esIrgjKb5TNCwNnbgLaA&oe=6AEB893E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437952/fvywpfdq85yzwoyy6sbg.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/874775045_18648795418017725_4365997988322590790_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=mBvebVkc5csQ7kNvwF2Q_As&_nc_oc=AdrKaVbeynqBJKYAp-sgclzEvGGSTmeRxKSxEfiHz_w85dSGLJw-A-2dB-5uMVjARAQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQSvM9TZhRVsq3zlqf2h1mzFpM3CDY78SojBCgGk1ZazaA&oe=6AEB6E0B"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437955/fciwk3bee0bfz7t7z0jt.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/868243883_18648797461017725_8963754992280791879_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-ujZfK8vuhkQ7kNvwHNm7Z4&_nc_oc=AdpET7WImao7qEG4nZ3IXbpF_iXHbYGNtaW-WhwOat7Rs7koky8G1_vZlRYx1mV-I2c&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQQ5OZa_63SBBv-HRYOksvZtUQm4Y8o4qTiyN5ZPlHKzIQ&oe=6AEB7244"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437958/lmqa0ztanyulracc6chp.jpg",
+      "credit": "@bottegaveneta",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/867925237_18648794470017725_3631666769803549203_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=yORx8Mwu_F0Q7kNvwHqSYMi&_nc_oc=AdrGb_iD7bN6ymb55R_SMe3Piz_yT2JvMykZvpd3_wF1rr88bZ5mVD1jOWiFj6oXPds&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=RRjekA1YpDMrbPRLnLdB4w&oh=00_AQSoNzzZaPgF56GDLhx0A4cY31lxD1NY3yXh0pMdLX49eg&oe=6AEB983B"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "보테가 베네타,|5년 만에 인스타 복귀",
+      "sub": "첫 피드는 60년 기록 60장"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "보테가 베네타 피드|첫 60장은 60년 기록",
+      "sub": "2021년 계정 삭제 이후 처음"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "'Ciao' 한 마디로|돌아온 보테가 베네타",
+      "sub": "5년 만에 다시 연 인스타그램"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] '1983년 앤디 워홀 사진' 은 어느 출처에도 연도가 없어 뺐음 — 워홀 사진이 있다는 건 Yahoo 한 곳뿐",
+     "숏폼은 비움 — 계정 복귀 소식이라 맞는 원본 영상이 없음",
+     "피드 게시물 60개는 브랜드 설명·기사 기준 — 올리기 전 공식 계정에서 개수와 최신 게시물 한 번 보기"
+    ],
+    "research": [
+     {
+      "title": "FASHIONSNAP — ボッテガ・ヴェネタがインスタグラム公式アカウントを復活 約5年9ヶ月ぶり",
+      "link": "https://www.fashionsnap.com/article/2026-10-29/bottega-veneta-instagram-reactivated/"
+     },
+     {
+      "title": "ELLE México — Bottega Veneta regresa a Instagram después de cinco años de ausencia",
+      "link": "https://elle.mx/moda/2026/10/28/bottega-veneta-regresa-a-instagram-despues-de-cinco-anos-de-ausencia"
+     },
+     {
+      "title": "MR Magazine — Bottega Just Broke Its Vow Of Instagram Silence",
+      "link": "https://mr-mag.com/bottega-just-broke-its-vow-of-instagram-silence/"
+     },
+     {
+      "title": "PAP Magazine — Bottega Veneta Returns to Instagram After 5 Years",
+      "link": "https://www.pap-magazine.com/en/article/bottega-veneta-instagram-comeback-after-5-years"
+     },
+     {
+      "title": "Yahoo — Why Bottega Veneta Is Back on Your Feed — All at Once",
+      "link": "https://www.yahoo.com/entertainment/articles/why-bottega-veneta-back-feed-182309650.html"
+     },
+     {
+      "title": "Cabmate — Why You Actually Should Care That Bottega Veneta Is Back On IG",
+      "link": "https://cabmate.substack.com/p/why-you-actually-should-care-that"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437965/mqmnovqoqmibnrrkclqb.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437965/nngbrx61pq4ajxprzwur.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437968/oryftlfqqrh5o2qfgvoz.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437969/v9pllslxuuqb7fpwfsmq.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793437965/mqmnovqoqmibnrrkclqb.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-10-31T18:12+09:00",
+     "v": {
+      "A": "568f4cd1",
+      "B": "1d7fcb1e",
+      "C": "1d77e54a"
+     }
+    }
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-10-31T18:13+09:00"
   }
  ],
  "skipped": [],
@@ -1276,7 +1443,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 3,
+    "drafts": 4,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1504,10 +1671,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-10-31T17:45+09:00"
+  "at": "2026-10-31T18:13+09:00"
  },
  "queue": {
-  "next": "2026-10-31T17:47+09:00",
+  "next": "2026-10-31T18:29+09:00",
   "n": 0,
   "gap": 20
  },
