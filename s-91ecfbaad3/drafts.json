@@ -941,11 +941,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=zRZTB3FdaHw\n구간: 26:57-27:20\n곡: \"Life is bitter.\"\n아티스트: *Kya*:\n피처링:\n후킹: Two walk off.\n출처: KiiiKiii\n자막: 자동",
       "caption": "KiiiKiii (@kiiikiii.official) member KYA is left alone at a restaurant table.\n\nEP.27 of 'KiiiKiii PangPang', posted on KiiiKiii's official YouTube channel on Oct 30, is the second installment of 'Motae Soul-ro Jiok' (Born-Solo Soul Hell), a parody of dating reality shows, and the one with the final choice. In the sketch, each of the five members plays a character and picks a soulmate. Over dinner, two of them head out for a walk, and KYA, left at the table, says just one line: \"Life is bitter.\"\n\nKYA confessed her feelings to HAUM in this episode, but in the final choice LEESOL paired with SUI and JIYU with HAUM, leaving her on her own.\n\nNew episodes: Fridays at 7 p.m. KST · KiiiKiii official YouTube\n\n#SENE #KiiiKiii #KYA #KiiiKiiiPangPang #Kpop",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-01T11:51+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793501791/sene_studio/e7ai6mohgprbneqd58p8.mp4",
+       "at": "2026-11-01T11:56+09:00",
+       "file": "Kya_Life_is_bitter_KeolCheo_no_lyrics.mp4",
        "sig": "b72b5479dc",
-       "job": 193
+       "v": "a9b23c3b"
       }
      }
     },
@@ -1209,10 +1210,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T11:53+09:00"
+  "at": "2026-11-01T11:56+09:00"
  },
  "queue": {
-  "next": "2026-11-01T11:55+09:00",
+  "next": "2026-11-01T11:58+09:00",
   "n": 0,
   "gap": 20
  },
