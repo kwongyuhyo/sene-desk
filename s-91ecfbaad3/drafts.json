@@ -353,11 +353,64 @@
      "v": {
       "A": "0275dfd6",
       "B": "7533c4de",
-      "C": "b43814d7"
+      "C": "b43814d7",
+      "E": "13a0707e",
+      "J": "a13b717b"
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-11-01T23:34+09:00",
+    "confirm": [
+     "공간 이름 'ACG 북촌 마루'의 나이키 공식 영어·일본어 표기를 웹에서 확인하지 못했습니다 (영어 ACG Bukchon Maru · 일본어 ACGプクチョン・マル는 로마자·カタカナ로 옮긴 것). 'ACG Ultrafly'·'ACG Zegama Hike' 제품명은 해외 매체에서 확인했습니다 (acquiremag·hypebeast).",
+     "원문에도 정확한 주소(동 이름·번지)가 없어 장소가 '종로구 북촌'까지만 적혀 있습니다. 외국 독자가 찾아가려면 나이키 공식 발표의 주소를 확인해 보충하는 편이 좋겠습니다.",
+     "영어·일본어 해시태그에 #ACGBukchonMaru · #ACG北村マル 같은 공간 이름 태그가 없습니다. 고칠 오류는 아니지만 넣을지 판단이 필요합니다."
+    ],
+    "review": {
+     "at": "2026-11-01T23:34+09:00",
+     "fixes": [],
+     "doubt": [
+      "공간 이름 'ACG 북촌 마루'의 나이키 공식 영어·일본어 표기를 웹에서 확인하지 못했습니다 (영어 ACG Bukchon Maru · 일본어 ACGプクチョン・マル는 로마자·カタカナ로 옮긴 것). 'ACG Ultrafly'·'ACG Zegama Hike' 제품명은 해외 매체에서 확인했습니다 (acquiremag·hypebeast).",
+      "원문에도 정확한 주소(동 이름·번지)가 없어 장소가 '종로구 북촌'까지만 적혀 있습니다. 외국 독자가 찾아가려면 나이키 공식 발표의 주소를 확인해 보충하는 편이 좋겠습니다.",
+      "영어·일본어 해시태그에 #ACGBukchonMaru · #ACG北村マル 같은 공간 이름 태그가 없습니다. 고칠 오류는 아니지만 넣을지 판단이 필요합니다."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nACG, Nike's outdoor line, has opened its first standalone space in Korea, set inside a hanok in Bukchon.\n\nIt's called ACG Bukchon Maru. The hanok's original structure is kept intact, and the space is divided into five zones: Listening Trail, Community Circle, Expedition Room, the central courtyard, and Hanok Lab. It is a store that sells gear, and it also works as a base camp where trail runners and hikers gather.\n\nThe space will host running and hiking programs through the streets around Bukchon, along with a stamp tour run with neighborhood partners. Visitors can also see the 'ACG Ultrafly' trail running shoe and the 'ACG Zegama Hike' hiking shoe here.\n\nDates: Opened Fri, Oct 30; runs for about 6 months\nLocation: Bukchon, Jongno-gu, Seoul\n\n#SENE #NikeACG #Bukchon #SeoulTravel #TrailRunning\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793490336/ab1qon38dy3gldwmhcvl.jpg\n제목: Nike ACG Opens First|Space in a Bukchon Hanok\n부제: Opens Oct 30 · Runs About 6 Months\n출처: Nike\n",
+      "caption": "ACG, Nike's outdoor line, has opened its first standalone space in Korea, set inside a hanok in Bukchon.\n\nIt's called ACG Bukchon Maru. The hanok's original structure is kept intact, and the space is divided into five zones: Listening Trail, Community Circle, Expedition Room, the central courtyard, and Hanok Lab. It is a store that sells gear, and it also works as a base camp where trail runners and hikers gather.\n\nThe space will host running and hiking programs through the streets around Bukchon, along with a stamp tour run with neighborhood partners. Visitors can also see the 'ACG Ultrafly' trail running shoe and the 'ACG Zegama Hike' hiking shoe here.\n\nDates: Opened Fri, Oct 30; runs for about 6 months\nLocation: Bukchon, Jongno-gu, Seoul\n\n#SENE #NikeACG #Bukchon #SeoulTravel #TrailRunning",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/Hp711c7v/995c3f9570df.jpg",
+        "https://i.ibb.co/TBvLWc69/4e922bc20662.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/Hp711c7v/995c3f9570df.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-01T23:34+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nナイキのアウトドアライン「ACG」が、ソウル・北村（プクチョン）の韓屋に韓国初の単独スペースをオープンしました。\n\n名前は「ACGプクチョン・マル（ACG 북촌 마루）」です。韓屋の構造を生かしたまま、リスニング・トレイル、コミュニティ・サークル、エクスペディション・ルーム、中庭、韓屋ラボの5つのエリアに分けられています。ウェアを販売する店舗でありながら、トレイルランナーやハイカーが集まるベースキャンプの役割も担います。\n\n北村周辺を走ったり歩いたりするランニング・ハイキングプログラムや、地域のパートナーと一緒に巡るスタンプツアーも開かれます。トレイルランニングシューズ「ACG ウルトラフライ」とハイキングシューズ「ACG ゼガマ ハイク」もここで見ることができます。\n\n期間：10月30日（金）オープン、約6か月運営\n場所：ソウル・鍾路区 北村（プクチョン）\n\n#SENE #ナイキACG #韓国旅行 #北村 #トレイルランニング\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793490336/ab1qon38dy3gldwmhcvl.jpg\n제목: ナイキACG、北村の|韓屋に初の空間\n부제: 10月30日オープン・約6か月運営\n출처: ナイキ\n",
+      "caption": "ナイキのアウトドアライン「ACG」が、ソウル・北村（プクチョン）の韓屋に韓国初の単独スペースをオープンしました。\n\n名前は「ACGプクチョン・マル（ACG 북촌 마루）」です。韓屋の構造を生かしたまま、リスニング・トレイル、コミュニティ・サークル、エクスペディション・ルーム、中庭、韓屋ラボの5つのエリアに分けられています。ウェアを販売する店舗でありながら、トレイルランナーやハイカーが集まるベースキャンプの役割も担います。\n\n北村周辺を走ったり歩いたりするランニング・ハイキングプログラムや、地域のパートナーと一緒に巡るスタンプツアーも開かれます。トレイルランニングシューズ「ACG ウルトラフライ」とハイキングシューズ「ACG ゼガマ ハイク」もここで見ることができます。\n\n期間：10月30日（金）オープン、約6か月運営\n場所：ソウル・鍾路区 北村（プクチョン）\n\n#SENE #ナイキACG #韓国旅行 #北村 #トレイルランニング",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/sY068FC/355a24e9c6f6.jpg",
+        "https://i.ibb.co/tT6JCCZP/405964832868.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/sY068FC/355a24e9c6f6.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-01T23:34+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1406,7 +1459,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T23:32+09:00"
+  "at": "2026-11-01T23:34+09:00"
  },
  "queue": {
   "next": "2026-11-01T23:51+09:00",
