@@ -1066,7 +1066,9 @@
      "at": "2026-11-01T17:45+09:00",
      "v": {
       "A": "de615474",
-      "B": "eb5b98ec"
+      "B": "eb5b98ec",
+      "E": "d726413f",
+      "J": "c16318c2"
      }
     }
    },
@@ -1076,7 +1078,62 @@
     "at": "2026-11-01T17:45+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-01T17:45+09:00"
+   "i18n_queued": "2026-11-01T17:45+09:00",
+   "i18n": {
+    "at": "2026-11-01T17:46+09:00",
+    "confirm": [
+     "The Korean guide I found (foxcg.com) names Nov 2 as Game 1 at Suwon and says ticket dates and prices hadn't been announced as of mid-October. That's earlier information than the original (sale Nov 2, Game 1 Nov 3). Check the Game 1 date and ticket opening time against the latest KBO and @ktwiz.pr notices before posting",
+     "A search result (fnnews, dated August) says Samsung was knocked out by KT. Its date doesn't fit, so I didn't trust it, but check the matchup (Samsung advancing through playoff Game 5) against an official KBO source",
+     "I couldn't confirm an official Japanese name for NOL Ticket, so I kept it in Latin letters. I used the commonly used Japanese team and stadium names (KTウィズ, サムスン・ライオンズ, 水原KTウィズパーク, 大邱サムスン・ライオンズ・パーク)",
+     "The original's practical-info labels are 일정/예매/현장 (schedule, tickets, on-site), not the standard set, so I translated them as Schedule/Tickets/On-site and 日程/予約/現地",
+     "해시태그 · 영어·일본어 모두 #SENE 뒤에 5개를 붙여 규칙(4~5개) 상한임 — 그대로 둠",
+     "두 판 모두 원문의 #수원KT위즈파크·#직관 태그 대신 그 나라 독자용 태그로 바꿈(규칙상 허용) — 의도대로인지 확인"
+    ],
+    "review": {
+     "at": "2026-11-01T17:46+09:00",
+     "fixes": [
+      "일본어 · 표지 제목 · 韓国シリーズ予約|11月2日午前11時 → 韓国シリーズチケット|11月2日午前11時発売 — 「予約」만으로는 무엇을 예약하는지 흐리고, 둘째 줄이 시각만 있어 무슨 일인지 안 읽힘"
+     ],
+     "doubt": [
+      "해시태그 · 영어·일본어 모두 #SENE 뒤에 5개를 붙여 규칙(4~5개) 상한임 — 그대로 둠",
+      "두 판 모두 원문의 #수원KT위즈파크·#직관 태그 대신 그 나라 독자용 태그로 바꿈(규칙상 허용) — 의도대로인지 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\nKorean Series tickets go on sale Mon, Nov 2 at 11 a.m.\n\nThe series pits regular-season champion KT Wiz against the Samsung Lions, who won Game 5 of the playoffs 6-1 in Daegu on Nov 1. Games 1 and 2 are at Suwon KT Wiz Park, and Games 3 to 5 are at Daegu Samsung Lions Park. Games 6 and 7 return to Suwon only if needed.\n\nTickets are sold only through NOL Ticket, the exclusive postseason seller. Sales open game by game, starting with Game 1 at 11 a.m. Each person can buy up to four tickets. If you miss out, returned tickets go on sale at the ballpark on game day.\n\nSchedule: Game 1 Tue, Nov 3 · Game 2 Wed, Nov 4, Suwon / Games 3–5 Fri, Nov 6 – Sun, Nov 8, Daegu / Games 6–7 Tue, Nov 10 · Wed, Nov 11, Suwon (if needed)\nTickets: From 11 a.m. Mon, Nov 2 · NOL Ticket app and website · 4 per person\nOn-site: Returned tickets sold at the ballpark on game day · Visitors 65 and older, people with disabilities and foreign passport holders can buy 1 ticket per person at the box office on game day\n\n#SENE #KoreanSeries #KBO #KTWiz #SamsungLions #Suwon\n\n[커버]\n소스: https://i.ibb.co/k6GtKpPf/59a46e97515f.jpg\n제목: Korean Series Tickets|On Sale Nov 2, 11 a.m.\n부제: KT Wiz vs. Samsung Lions · Suwon & Daegu · NOL Ticket, 4 per person\n출처: Source: @ktwiz.pr\n",
+      "caption": "Korean Series tickets go on sale Mon, Nov 2 at 11 a.m.\n\nThe series pits regular-season champion KT Wiz against the Samsung Lions, who won Game 5 of the playoffs 6-1 in Daegu on Nov 1. Games 1 and 2 are at Suwon KT Wiz Park, and Games 3 to 5 are at Daegu Samsung Lions Park. Games 6 and 7 return to Suwon only if needed.\n\nTickets are sold only through NOL Ticket, the exclusive postseason seller. Sales open game by game, starting with Game 1 at 11 a.m. Each person can buy up to four tickets. If you miss out, returned tickets go on sale at the ballpark on game day.\n\nSchedule: Game 1 Tue, Nov 3 · Game 2 Wed, Nov 4, Suwon / Games 3–5 Fri, Nov 6 – Sun, Nov 8, Daegu / Games 6–7 Tue, Nov 10 · Wed, Nov 11, Suwon (if needed)\nTickets: From 11 a.m. Mon, Nov 2 · NOL Ticket app and website · 4 per person\nOn-site: Returned tickets sold at the ballpark on game day · Visitors 65 and older, people with disabilities and foreign passport holders can buy 1 ticket per person at the box office on game day\n\n#SENE #KoreanSeries #KBO #KTWiz #SamsungLions #Suwon",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/bYb1zg2/4ac4542a44f0.jpg",
+        "https://i.ibb.co/1GjWwzBj/a44fe3ee6e0b.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/bYb1zg2/4ac4542a44f0.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-01T17:46+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n놀거리\n\n[캡션]\n韓国シリーズのチケット予約が11月2日（月）午前11時に始まります。\n\nレギュラーシーズン1位のKTウィズと、1日に大邱でプレーオフ第5戦を6-1で制したサムスン・ライオンズの対戦です。第1・2戦は水原KTウィズパーク、第3〜5戦は大邱サムスン・ライオンズ・パークで行われます。第6・7戦は勝負がもつれた場合のみ、再び水原で行われます。\n\nチケットはポストシーズンの単独販売先であるNOL Ticketでのみ販売され、午前11時の第1戦を皮切りに試合ごとに順次販売が始まります。購入できるのは1人4枚までです。予約できなかった場合は、キャンセル分が試合当日に各球場で販売されます。\n\n日程：第1戦 11月3日（火）・第2戦 4日（水）水原 ／ 第3〜5戦 6日（金）〜8日（日）大邱 ／ 第6・7戦 10日（火）・11日（水）水原（必要な場合のみ）\n予約：11月2日（月）午前11時から · NOL Ticketアプリ・公式サイト · 1人4枚\n現地：キャンセル分を試合当日に球場で販売 · 65歳以上・障がい者・パスポートを持つ外国人は当日チケット売り場で1人1枚\n\n#SENE #韓国シリーズ #韓国野球 #KBO #韓国旅行 #水原\n\n[커버]\n소스: https://i.ibb.co/k6GtKpPf/59a46e97515f.jpg\n제목: 韓国シリーズチケット|11月2日午前11時発売\n부제: KTウィズ × サムスン・ライオンズ · 水原・大邱 · NOL Ticket 1人4枚\n출처: 出典：@ktwiz.pr\n",
+      "caption": "韓国シリーズのチケット予約が11月2日（月）午前11時に始まります。\n\nレギュラーシーズン1位のKTウィズと、1日に大邱でプレーオフ第5戦を6-1で制したサムスン・ライオンズの対戦です。第1・2戦は水原KTウィズパーク、第3〜5戦は大邱サムスン・ライオンズ・パークで行われます。第6・7戦は勝負がもつれた場合のみ、再び水原で行われます。\n\nチケットはポストシーズンの単独販売先であるNOL Ticketでのみ販売され、午前11時の第1戦を皮切りに試合ごとに順次販売が始まります。購入できるのは1人4枚までです。予約できなかった場合は、キャンセル分が試合当日に各球場で販売されます。\n\n日程：第1戦 11月3日（火）・第2戦 4日（水）水原 ／ 第3〜5戦 6日（金）〜8日（日）大邱 ／ 第6・7戦 10日（火）・11日（水）水原（必要な場合のみ）\n予約：11月2日（月）午前11時から · NOL Ticketアプリ・公式サイト · 1人4枚\n現地：キャンセル分を試合当日に球場で販売 · 65歳以上・障がい者・パスポートを持つ外国人は当日チケット売り場で1人1枚\n\n#SENE #韓国シリーズ #韓国野球 #KBO #韓国旅行 #水原",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/9H62FbLV/569b4c4e207b.jpg",
+        "https://i.ibb.co/B2Pwvgxk/3d2b6142945b.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/9H62FbLV/569b4c4e207b.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-01T17:46+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1324,10 +1381,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T17:45+09:00"
+  "at": "2026-11-01T17:46+09:00"
  },
  "queue": {
-  "next": "2026-11-01T17:47+09:00",
+  "next": "2026-11-01T17:48+09:00",
   "n": 0,
   "gap": 20
  },
