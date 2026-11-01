@@ -201,7 +201,7 @@
    "pick": {
     "rank": 1,
     "why": "일요일 고정 연재 — 이번 주 장원영·재민·연준·키키가 공식 행사로 간 서울 네 동네 + 아직 갈 수 있는 송은 전시·SKZ 팝업",
-    "at": "2026-11-01T11:46+09:00"
+    "at": "2026-11-01T17:45+09:00"
    }
   },
   {
@@ -590,11 +590,6 @@
     }
    },
    "corner_name": "소식",
-   "pick": {
-    "rank": 3,
-    "why": "〈해밀턴〉 한국 첫 무대 예매가 11/11 — 저장할 날짜·관람 연령 변경이 있는 소식",
-    "at": "2026-11-01T11:46+09:00"
-   },
    "i18n_queued": "2026-11-01T11:48+09:00",
    "i18n": {
     "at": "2026-11-01T11:50+09:00",
@@ -905,11 +900,6 @@
      "v": "e1815b26"
     }
    },
-   "pick": {
-    "rank": 2,
-    "why": "숏폼 몫 — 금요일 공개된 키키팡팡 피날레에서 키야가 혼자 남는 23초, 한 사람의 한 순간",
-    "at": "2026-11-01T11:46+09:00"
-   },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
    "i18n_queued": "2026-11-01T11:48+09:00",
@@ -963,7 +953,130 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "숏폼 몫 — 키키팡팡 피날레에서 키야가 혼자 남는 23초, 한 사람의 한 순간",
+    "at": "2026-11-01T17:45+09:00"
    }
+  },
+  {
+   "source": {
+    "id": "claude:ks-jikgwan-1101",
+    "account": "뉴스1",
+    "url": "https://www.news1.kr/sports/baseball/6339076",
+    "image": null,
+    "head": "KT-삼성 한국시리즈 입장권, 2일 오전 11시부터 예매",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-01T17:45+09:00",
+   "key": "a1030756",
+   "by": "claude",
+   "subjects": [
+    "한국시리즈",
+    "kt wiz",
+    "삼성 라이온즈"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "[실험] 놀거리 — 한국시리즈 직관 가려면: 대진·차전별 날짜·구장, 11/2 오전 11시 NOL 티켓 예매, 1인 4매, 취소표 현장 판매",
+    "why": "11/1 대구 PO5에서 삼성이 KIA를 6-1로 이겨 KT와의 한국시리즈가 정해졌고, 예매가 바로 다음 날 오전 11시에 열린다 — 놀거리 칸이 이번 주 비어 있었다"
+   },
+   "added": "claude",
+   "added_at": "2026-11-01T17:45+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n한국시리즈 입장권 예매가 11월 2일(월) 오전 11시에 열립니다.\n\n정규시즌 1위 KT 위즈와, 1일 대구에서 플레이오프 5차전을 6-1로 이긴 삼성 라이온즈의 대결인데요, 1·2차전은 수원 KT위즈파크, 3~5차전은 대구 삼성라이온즈파크에서 열립니다. 6·7차전은 승부가 이어질 때만 다시 수원에서 치릅니다.\n\n표는 포스트시즌 단독 판매처인 NOL 티켓에서만 팔고, 오전 11시 1차전을 시작으로 차전별로 차례로 열립니다. 한 사람이 살 수 있는 표는 4장까지입니다. 예매를 놓쳤다면 취소분이 경기 당일 해당 구장에서 현장 판매됩니다.\n\n일정: 1차전 11월 3일(화) · 2차전 4일(수) 수원 / 3~5차전 6일(금)~8일(일) 대구 / 6·7차전 10일(화)·11일(수) 수원 (필요할 때만)\n예매: 11월 2일(월) 오전 11시부터 · NOL 티켓 앱·홈페이지 · 1인 4매\n현장: 취소분 경기 당일 구장 판매 · 만 65세 이상·장애인·여권 소지 외국인은 당일 매표소 1인 1매\n\n#SENE #한국시리즈 #KT위즈 #삼성라이온즈 #수원KT위즈파크 #직관\n\n[커버]\n소스: https://i.ibb.co/k6GtKpPf/59a46e97515f.jpg\n제목: 한국시리즈 예매|11월 2일 오전 11시\n부제: KT 위즈 × 삼성 라이온즈 · 수원·대구 · NOL 티켓 1인 4매\n출처: @ktwiz.pr\n",
+    "caption": "한국시리즈 입장권 예매가 11월 2일(월) 오전 11시에 열립니다.\n\n정규시즌 1위 KT 위즈와, 1일 대구에서 플레이오프 5차전을 6-1로 이긴 삼성 라이온즈의 대결인데요, 1·2차전은 수원 KT위즈파크, 3~5차전은 대구 삼성라이온즈파크에서 열립니다. 6·7차전은 승부가 이어질 때만 다시 수원에서 치릅니다.\n\n표는 포스트시즌 단독 판매처인 NOL 티켓에서만 팔고, 오전 11시 1차전을 시작으로 차전별로 차례로 열립니다. 한 사람이 살 수 있는 표는 4장까지입니다. 예매를 놓쳤다면 취소분이 경기 당일 해당 구장에서 현장 판매됩니다.\n\n일정: 1차전 11월 3일(화) · 2차전 4일(수) 수원 / 3~5차전 6일(금)~8일(일) 대구 / 6·7차전 10일(화)·11일(수) 수원 (필요할 때만)\n예매: 11월 2일(월) 오전 11시부터 · NOL 티켓 앱·홈페이지 · 1인 4매\n현장: 취소분 경기 당일 구장 판매 · 만 65세 이상·장애인·여권 소지 외국인은 당일 매표소 1인 1매\n\n#SENE #한국시리즈 #KT위즈 #삼성라이온즈 #수원KT위즈파크 #직관",
+    "photos": [
+     {
+      "url": "https://i.ibb.co/k6GtKpPf/59a46e97515f.jpg",
+      "credit": "@ktwiz.pr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/878239059_18642785797012393_3756575629477536036_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=zkbRHztFW9QQ7kNvwFHVSWI&_nc_oc=AdrOpc_HWuAmu5V9x7nJRYgmiglbjT-PaUv_wkY_0jflGCRWF-qz4E0OT2b4Bv45qWA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=4l-BknwocuEgylVhV4DRyg&_nc_tpa=Q5bMBQKcmLHR132Yz-n8gB8_ycOhWZBfGVPi9IYB9MedjtWSlQAOQuZbFsuR21kLjvtMyeRylCjqjrBI1g&oh=00_AQS0yncaACHsiT5j6PCYu1jIsUkSb7Cq9oxfg-VBabcSyQ&oe=6AECC5C5"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://i.ibb.co/k6GtKpPf/59a46e97515f.jpg",
+      "credit": "@ktwiz.pr",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/878239059_18642785797012393_3756575629477536036_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=zkbRHztFW9QQ7kNvwFHVSWI&_nc_oc=AdrOpc_HWuAmu5V9x7nJRYgmiglbjT-PaUv_wkY_0jflGCRWF-qz4E0OT2b4Bv45qWA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=4l-BknwocuEgylVhV4DRyg&_nc_tpa=Q5bMBQKcmLHR132Yz-n8gB8_ycOhWZBfGVPi9IYB9MedjtWSlQAOQuZbFsuR21kLjvtMyeRylCjqjrBI1g&oh=00_AQS0yncaACHsiT5j6PCYu1jIsUkSb7Cq9oxfg-VBabcSyQ&oe=6AECC5C5"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "한국시리즈 예매|11월 2일 오전 11시",
+      "sub": "KT 위즈 × 삼성 라이온즈 · 수원·대구 · NOL 티켓 1인 4매"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "한국시리즈 직관,|표는 이렇게 연다",
+      "sub": "11/2(월) 오전 11시 · NOL 티켓"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "입장권 가격·차전별 시작 시각은 기사 한 곳뿐이라 뺐습니다 — 올리기 전 NOL 티켓 공지에서 가격이 나왔으면 한 줄 더해도 됩니다",
+     "톱스타뉴스는 2차전을 '4일(화)'로 적었지만 11/4는 수요일 — 캡션은 수요일로 썼습니다"
+    ],
+    "research": [
+     {
+      "title": "뉴스1 — KT-삼성 한국시리즈 입장권, 2일 오전 11시부터 예매 · NOL 1인 4매 · 취소분 당일 현장 · 65세 이상·장애인·외국인 당일 1인 1매",
+      "link": "https://www.news1.kr/sports/baseball/6339076"
+     },
+     {
+      "title": "톱스타뉴스 — 1~7차전 날짜·시간·구장 · 차전별 예매 시각(1차전 11시~7차전 17시) · 취소표 경기 2시간 전 현장",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16265041"
+     },
+     {
+      "title": "매일신문 — 1차전 3일 수원, 3~5차전 6~8일 대구, 6·7차전 10·11일 수원 · 삼성 2014년 이후 12년 만 우승 도전",
+      "link": "https://www.imaeil.com/page/view/2026110116430473718"
+     },
+     {
+      "title": "한국아이닷컴 — PO5 삼성 6-1 KIA, 3승 2패 · 3일 수원 kt위즈파크 1차전",
+      "link": "https://www.hankooki.com/news/articleView.html?idxno=347377"
+     },
+     {
+      "title": "경기일보 — KT 정규시즌 1위 직행 · 3일 수원 1차전, 6일 대구 3차전, 7차전 11일",
+      "link": "https://www.kyeonggi.com/article/20261101580296"
+     },
+     {
+      "title": "kt wiz 공식 인스타그램 — [2026 한국시리즈 경기 일정] (11/1 게시)",
+      "link": "https://www.instagram.com/ktwiz.pr/"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://i.ibb.co/0yXS6BWY/8a787c2ac71e.jpg",
+      "https://i.ibb.co/Fpchfqr/997f8201533b.jpg"
+     ],
+     "covers": {
+      "B": "https://i.ibb.co/fdFc7bBy/c73f5202078c.jpg",
+      "A": "https://i.ibb.co/0yXS6BWY/8a787c2ac71e.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-01T17:45+09:00",
+     "v": {
+      "A": "de615474",
+      "B": "eb5b98ec"
+     }
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "오늘 PO5로 대진이 정해졌고 예매가 내일(11/2) 11시 — 오늘 밤에 저장해 둘 정보",
+    "at": "2026-11-01T17:45+09:00"
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-11-01T17:45+09:00"
   }
  ],
  "skipped": [],
@@ -983,7 +1096,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 3,
+    "drafts": 4,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1211,10 +1324,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T11:59+09:00"
+  "at": "2026-11-01T17:45+09:00"
  },
  "queue": {
-  "next": "2026-11-01T12:01+09:00",
+  "next": "2026-11-01T17:47+09:00",
   "n": 0,
   "gap": 20
  },
