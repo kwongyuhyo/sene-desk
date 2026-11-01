@@ -98,7 +98,9 @@
      "cvr": 2,
      "at": "2026-11-02T08:26+09:00",
      "v": {
-      "A": "e47c5af6"
+      "A": "e47c5af6",
+      "E": "812e506c",
+      "J": "eca83de6"
      }
     }
    },
@@ -108,7 +110,62 @@
     "at": "2026-11-02T08:26+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-02T08:26+09:00"
+   "i18n_queued": "2026-11-02T08:26+09:00",
+   "i18n": {
+    "at": "2026-11-02T08:27+09:00",
+    "confirm": [
+     "투어명 'THE WILDWORLD TOUR', 1/27 요코하마 아레나 시작 · 마닐라(1/29)·홍콩(2/1) 경유 · 3/5 오클랜드 종료, 2/4 KSPO DOME 일정은 여러 매체로 확인함",
+     "예매 단계별 일정(위버스 인증·선예매·아티스트 코드·일반 예매 시각, 1인 4매·만 15세 이상)은 원문을 그대로 옮겼고 직접 다시 확인하지는 못함 — 위버스 공지(weverse.io/katseye/notice/40506)·NOL 티켓 페이지와 대조 필요",
+     "예매처 영어·일본어 표기는 'NOL TICKET' 으로 씀 — 공식 표기 확인 필요",
+     "일본어판은 그룹명을 일본 매체 관례대로 'KATSEYE' 로 둠 (カタカナ 'キャッツアイ' 를 쓰지 않음)",
+     "예매 단계별 일정(위버스 선예매·인증 시간·아티스트 코드·일반 예매 11/12 NOL 티켓, 1인 4매, 만 15세 이상)은 이번 검색에서 확인하지 못했습니다 — 올리기 전에 NOL 티켓 공지와 대조해 주세요"
+    ],
+    "review": {
+     "at": "2026-11-02T08:27+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · 'The ticketing site has now posted the sale schedule step by step' → 'but the ticketing site now lists each stage of the sale' — 'step by step' 이 직역투라 고치고, 두 문장을 원문처럼 대비로 이음",
+      "영어 · 캡션 셋째 단락 · 'complete verification separately' → 'complete a separate verification' — 어순이 어색함",
+      "일본어 · 실용 정보 · 一般予約 → 一般販売 — 일본 티켓 판매에서 쓰는 말"
+     ],
+     "doubt": [
+      "예매 단계별 일정(위버스 선예매·인증 시간·아티스트 코드·일반 예매 11/12 NOL 티켓, 1인 4매, 만 15세 이상)은 이번 검색에서 확인하지 못했습니다 — 올리기 전에 NOL 티켓 공지와 대조해 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nKATSEYE (@katseyeworld) plays its first solo concert in Korea at KSPO DOME on Feb 4, 2027.\n\nThe show is part of the Asia and Oceania leg of THE WILDWORLD TOUR. The run opens at Yokohama Arena on Jan 27, passes through Manila and Hong Kong before Seoul, and wraps in Auckland, New Zealand, on Mar 5.\n\nThe announcement gave only the date, but the ticketing site now lists each stage of the sale. For the Weverse presale, fans must complete a separate verification within the verification window.\n\nShow: Thu, Feb 4, 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nWeverse presale: Tue, Nov 10, 12:00 – 15:00 · Verification Mon, Nov 9, 12:00 – Tue, Nov 10, 15:00\nArtist code presale: Wed, Nov 11, 12:00 – 15:00\nGeneral sale: Thu, Nov 12, 12:00 · NOL TICKET\nUp to 4 tickets per person · Ages 15 and up\n\n#SENE #KATSEYE #WILDWORLDTOUR #KSPODOME #SeoulConcert #KpopConcert\n\n[커버]\n소스: https://i.ibb.co/hRsL4Lcn/8a1d39304264.jpg\n제목: KATSEYE's First Korea Show|Tickets Open Nov 10\n부제: Feb 4, 2027 · KSPO DOME\n출처: @katseyeworld\n",
+      "caption": "KATSEYE (@katseyeworld) plays its first solo concert in Korea at KSPO DOME on Feb 4, 2027.\n\nThe show is part of the Asia and Oceania leg of THE WILDWORLD TOUR. The run opens at Yokohama Arena on Jan 27, passes through Manila and Hong Kong before Seoul, and wraps in Auckland, New Zealand, on Mar 5.\n\nThe announcement gave only the date, but the ticketing site now lists each stage of the sale. For the Weverse presale, fans must complete a separate verification within the verification window.\n\nShow: Thu, Feb 4, 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nWeverse presale: Tue, Nov 10, 12:00 – 15:00 · Verification Mon, Nov 9, 12:00 – Tue, Nov 10, 15:00\nArtist code presale: Wed, Nov 11, 12:00 – 15:00\nGeneral sale: Thu, Nov 12, 12:00 · NOL TICKET\nUp to 4 tickets per person · Ages 15 and up\n\n#SENE #KATSEYE #WILDWORLDTOUR #KSPODOME #SeoulConcert #KpopConcert",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/BHDxTjsL/680f030b9c41.jpg",
+        "https://i.ibb.co/B53ytdgz/facc7611f05c.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/BHDxTjsL/680f030b9c41.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-02T08:27+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nKATSEYE（@katseyeworld）が2027年2月4日、KSPO DOMEで韓国初の単独公演を開きます。\n\n「THE WILDWORLD TOUR」のアジア・オセアニア公演で、1月27日の横浜アリーナを皮切りに、マニラと香港を経てソウルへ。3月5日のニュージーランド・オークランドで幕を閉じます。\n\n発表時は日程だけでしたが、チケット販売サイトに段階ごとのスケジュールが掲載されました。Weverse先行予約は、認証期間内に別途認証を済ませる必要があります。\n\n公演：2027年2月4日（木）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\nWeverse先行予約：11月10日（火）12:00〜15:00・認証 11月9日（月）12:00〜11月10日（火）15:00\nアーティストコード先行予約：11月11日（水）12:00〜15:00\n一般販売：11月12日（木）12:00・NOL TICKET\n1人最大4枚・満15歳以上\n\n#SENE #KATSEYE #韓国旅行 #ソウル旅行 #KSPODOME #韓国コンサート\n\n[커버]\n소스: https://i.ibb.co/hRsL4Lcn/8a1d39304264.jpg\n제목: KATSEYE初の来韓公演|チケットは11月10日から\n부제: 2027年2月4日 KSPO DOME\n출처: @katseyeworld\n",
+      "caption": "KATSEYE（@katseyeworld）が2027年2月4日、KSPO DOMEで韓国初の単独公演を開きます。\n\n「THE WILDWORLD TOUR」のアジア・オセアニア公演で、1月27日の横浜アリーナを皮切りに、マニラと香港を経てソウルへ。3月5日のニュージーランド・オークランドで幕を閉じます。\n\n発表時は日程だけでしたが、チケット販売サイトに段階ごとのスケジュールが掲載されました。Weverse先行予約は、認証期間内に別途認証を済ませる必要があります。\n\n公演：2027年2月4日（木）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\nWeverse先行予約：11月10日（火）12:00〜15:00・認証 11月9日（月）12:00〜11月10日（火）15:00\nアーティストコード先行予約：11月11日（水）12:00〜15:00\n一般販売：11月12日（木）12:00・NOL TICKET\n1人最大4枚・満15歳以上\n\n#SENE #KATSEYE #韓国旅行 #ソウル旅行 #KSPODOME #韓国コンサート",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/yB6gHLcB/8f0304d48ea1.jpg",
+        "https://i.ibb.co/hJTtQ95D/57a70c9e6636.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/yB6gHLcB/8f0304d48ea1.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-02T08:27+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -356,10 +413,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-02T08:26+09:00"
+  "at": "2026-11-02T08:27+09:00"
  },
  "queue": {
-  "next": "2026-11-02T08:28+09:00",
+  "next": "2026-11-02T08:29+09:00",
   "n": 0,
   "gap": 20
  },
