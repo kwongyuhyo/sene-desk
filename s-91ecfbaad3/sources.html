@@ -359,6 +359,20 @@ h1{margin:0 0 calc(var(--u)*0.5); font-size:29px; font-weight:800; letter-spacin
   color:var(--text); background:none; text-decoration:none; cursor:pointer}
 #viewMade .mr .bt .go{border-color:var(--pick); color:var(--pick)}
 #viewMade .msum{color:var(--dim); font-size:12.5px; margin:10px 2px 0; line-height:1.5}
+/* 연재 탭 (11/02) */
+#viewSeries .msum{color:var(--dim); font-size:12.5px; margin:10px 2px 0; line-height:1.5}
+#viewSeries .sr{margin:10px 0; border:1px solid var(--line); border-radius:12px; padding:10px 12px}
+#viewSeries .sr.due{border-color:var(--pick)}
+#viewSeries .sh{font-size:14px; line-height:1.4} #viewSeries .sh span{color:var(--dim); font-size:12px}
+#viewSeries .sw{color:var(--dim); font-size:12.5px; margin-top:3px; line-height:1.45}
+#viewSeries .sc{display:flex; flex-wrap:wrap; gap:6px; margin-top:8px}
+#viewSeries .sc button{font:inherit; font-size:12px; border:1px solid var(--line); border-radius:999px; padding:5px 10px; background:transparent; color:var(--text); text-align:left; max-width:100%}
+#viewSeries .si{display:flex; gap:8px; margin-top:8px; align-items:stretch}
+#viewSeries .si textarea{flex:1; min-width:0; font:inherit; font-size:14px; border:1px solid var(--line); border-radius:8px; padding:8px 10px; background:var(--panel); color:var(--text); resize:vertical}
+#viewSeries .si .go{flex:none; font:inherit; font-size:13px; border:1px solid var(--pick); color:var(--pick); background:transparent; border-radius:8px; padding:0 14px}
+#viewSeries .so{font-size:12.5px; margin-top:6px} #viewSeries .so small{color:var(--dim)}
+#viewSeries .so .s{font-size:11.5px; border:1px solid var(--line); border-radius:6px; padding:1px 6px}
+#viewSeries .so .s-done{border-color:var(--pick); color:var(--pick)} #viewSeries .so .s-fail{border-color:var(--amber); color:var(--amber)}
 .vmode button{flex:1; padding:8px; border:1px solid var(--line); border-radius:8px; background:none; color:var(--dim); font-size:13px}
 .vmode button[aria-pressed="true"]{color:var(--text); border-color:var(--text)}
 .ig{margin:0 -22px calc(var(--u)*6); border-bottom:1px solid var(--hair); padding-bottom:12px}
@@ -1004,6 +1018,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     <button type="button" data-grp="plan" aria-selected="false">기획 소스</button>
     <button type="button" data-grp="draft" aria-selected="false" id="grpDraft">오늘의 초안</button>
     <button type="button" data-grp="made" aria-selected="false" id="grpMade">완성 영상</button>
+    <button type="button" data-grp="series" aria-selected="false" id="grpSeries">연재</button>
     <button type="button" data-grp="follow" aria-selected="false" id="grpFollow">후속 기획</button>
     <a class="jump" href="perf.html">SENE 성과 <span aria-hidden="true">→</span></a>
   </div>
@@ -1050,6 +1065,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
   <div id="viewPlan" hidden></div>
   <div id="viewDraft" hidden></div>
   <div id="viewMade" hidden></div>
+  <div id="viewSeries" hidden></div>
   <div id="viewFollow" hidden></div>
 
   <div class="note" id="note"></div>
@@ -2088,6 +2104,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
     document.getElementById('viewPlan').hidden = (g !== 'plan');
     document.getElementById('viewDraft').hidden = (g !== 'draft');
     document.getElementById('viewMade').hidden = (g !== 'made');
+    document.getElementById('viewSeries').hidden = (g !== 'series');
     document.getElementById('viewFollow').hidden = (g !== 'follow');
     document.getElementById('note').hidden = (g !== 'info');      // 후보 화면 설명은 후보 화면에서만
     if (g === 'follow') {
@@ -2104,6 +2121,15 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
       });
       document.getElementById('filters').hidden = true;
       renderMade();
+      return;
+    }
+    if (g === 'series') {
+      ['viewCand', 'viewAcct', 'viewNews'].forEach(function (id) {
+        document.getElementById(id).hidden = true;
+      });
+      document.getElementById('filters').hidden = true;
+      renderSeries();
+      odLoad();
       return;
     }
     if (g === 'draft') {
@@ -2131,7 +2157,7 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
   });
   // 10/20 — 앱을 새로 열면 늘 '이슈·뉴스' 였다. 마지막에 보던 칸으로, 처음이면 오늘의 초안으로 (하루 일의 시작점)
   try { var G0 = sessionStorage.getItem('sene.grp') || localStorage.getItem('sene.grp') || 'draft';
-    if (G0 === 'draft' || G0 === 'follow' || G0 === 'plan' || G0 === 'made') showGroup(G0); } catch (e) {}
+    if (G0 === 'draft' || G0 === 'follow' || G0 === 'plan' || G0 === 'made' || G0 === 'series') showGroup(G0); } catch (e) {}
 
   document.getElementById('tCand').addEventListener('click', function () { showTab('cand'); });
   document.getElementById('tAcct').addEventListener('click', function () { showTab('acct'); });
@@ -3152,11 +3178,69 @@ html:root[data-gap="wide"] body{ padding-left:30px; padding-right:30px }
       if (before !== after) {
         if (OD.some(function (r) { return (r.snapshot || {}).status === 'done'; })) { loadDrafts(); loadStories(); }
         if (GRP === 'draft') renderDrafts();
+        if (GRP === 'series') renderSeries();
       }
       clearTimeout(OD_T);
       if (OD.some(function (r) { var st = (r.snapshot || {}).status; return !st || st === 'queued' || st === 'running'; })) OD_T = setTimeout(odLoad, 45000);
     }).catch(function () {});
   }
+  /* 연재 탭 (11/02 규효 "정기 기획 특집 시리즈들은 아예 탭을 따로 빼서 매일 주문란을 다르게 키워드나 문장으로 입력해서 제작")
+     series.json(scripts/series_app) — 연재마다 언제·무엇·이번 주 몇 편·오늘 차례·추천 칩. 만들기 → 제작 맡기기(type series) → 맥 작성기가 그 연재 규칙으로 */
+  var SR = null, SR_DRAFT = {};
+  function srLoad() {
+    return fetch('./series.json', { cache: 'no-cache' }).then(function (r) { return r.ok ? r.json() : null; })
+      .then(function (d) { SR = d || { items: [] }; if (GRP === 'series') renderSeries(); }).catch(function () { SR = { items: [] }; });
+  }
+  function srOrders(key) { return (OD || []).filter(function (r) { var sn = r.snapshot || {}; return sn.type === 'series' && sn.series === key; }); }
+  function renderSeries() {
+    var host = document.getElementById('viewSeries');
+    if (!host) return;
+    if (!SR) { host.innerHTML = '<div class="msum">불러오는 중…</div>'; srLoad(); return; }
+    var today = (DR_LIVE && DR_LIVE.items) || [];
+    host.innerHTML = '<div class="msum">연재는 여기서 그날 주제를 적어 맡깁니다 — 낱말 몇 개여도 됩니다. 맥이 그 연재 규칙(이름·표지 틀·해시태그·확인 기준)으로 써서 「오늘의 초안」에 올립니다. ' +
+      '● 는 오늘 차례 · 칩을 누르면 칸에 들어갑니다.</div>' +
+      ((SR.items || []).map(function (s) {
+        var made = today.filter(function (it) { return it.corner === s.key; }).length;
+        var ods = srOrders(s.key).slice(0, 3);
+        return '<div class="sr' + (s.due ? ' due' : '') + '" data-sr="' + esc(s.key) + '">' +
+          '<div class="sh"><b>' + (s.due ? '● ' : '') + esc(s.name) + '</b> <span>' + esc(s.when) + ' · 이번 주 ' + (s.done || 0) + '편' + (made ? ' · 오늘 초안 ' + made : '') + '</span></div>' +
+          '<div class="sw">' + esc(s.what || '') + '</div>' +
+          ((s.chips || []).length ? '<div class="sc">' + s.chips.map(function (c) { return '<button type="button" data-src="' + esc(c) + '">' + esc(c) + '</button>'; }).join('') + '</div>' : '') +
+          '<div class="si"><textarea rows="2" placeholder="' + esc(s.ph || '이번 회 주제 — 낱말이나 문장') + '">' + esc(SR_DRAFT[s.key] || '') + '</textarea>' +
+          '<button type="button" class="go" data-srgo="1">만들기</button></div>' +
+          ods.map(function (r) {
+            var sn = r.snapshot || {}, st = sn.status || '';
+            return '<div class="so"><span class="s s-' + esc(st || 'new') + '">' + esc(OD_ST[st] || '보냄') + '</span> ' + esc(String(sn.what || '').slice(0, 40)) +
+              (sn.note && st !== 'queued' ? ' — <small>' + esc(String(sn.note).slice(0, 80)) + '</small>' : '') + '</div>';
+          }).join('') + '</div>';
+      }).join('') || '<div class="msum">연재 목록을 못 받았습니다 — 앱이 다음에 올라가면 뜹니다.</div>');
+  }
+  document.getElementById('viewSeries').addEventListener('input', function (e) {
+    var b = e.target.closest('[data-sr]');
+    if (b && e.target.tagName === 'TEXTAREA') SR_DRAFT[b.getAttribute('data-sr')] = e.target.value;
+  });
+  document.getElementById('viewSeries').addEventListener('click', function (e) {
+    var box = e.target.closest('[data-sr]');
+    if (!box) return;
+    var key = box.getAttribute('data-sr'), ta = box.querySelector('textarea');
+    var c = e.target.closest('[data-src]');
+    if (c) { ta.value = (ta.value.trim() ? ta.value.trim() + ' · ' : '') + c.getAttribute('data-src'); SR_DRAFT[key] = ta.value; ta.focus(); return; }
+    if (!e.target.closest('[data-srgo]')) return;
+    var what = ta.value.replace(/\s+/g, ' ').trim();
+    if (!what) { toast('이번 회 주제를 적어 주세요 — 낱말 하나여도 됩니다'); return; }
+    if (!sbOn()) { toast('앱 저장소 연결이 없어 보낼 수 없습니다'); return; }
+    var s = (SR.items || []).filter(function (x) { return x.key === key; })[0] || {};
+    var lk = (what.match(/https?:\/\/\S+/) || [''])[0];
+    var rec = { id: 'order:' + Date.now(), kind: 'order', draft_date: kstDay(new Date()), draft_key: null, source_id: lk.slice(0, 300),
+      verdict: {}, reason: '', rewrite: {}, device: (navigator.userAgent.match(/iPhone|iPad|Android|Mac/) || ['?'])[0],
+      snapshot: { type: 'series', series: key, form: '', what: what.replace(lk, '').trim().slice(0, 300) || what.slice(0, 300), url: lk } };
+    sbReq('sene_evals', { method: 'POST', body: JSON.stringify(rec), headers: { Prefer: 'resolution=merge-duplicates,return=minimal' } })
+      .then(function () {
+        toast('「' + (s.name || key) + '」 맡겼습니다 — 맥이 5분 안에 받고, 다 되면 오늘의 초안에 뜹니다');
+        SR_DRAFT[key] = ''; OD = [rec].concat(OD || []); renderSeries(); clearTimeout(OD_T); OD_T = setTimeout(odLoad, 45000);
+      })
+      .catch(function (er) { toast('못 보냈습니다 — ' + String(er && er.message || er).slice(0, 60)); });
+  });
   function orderBox() {
     var rows = (OD || []).slice(0, 4);
     return '<div class="evn odb"><div class="top"><b>제작 맡기기</b><span>내가 찾은 소식 · 특집 · 정리</span>' +
@@ -4722,9 +4806,9 @@ function hlPick(parts) {
     a.href = './';
     a.textContent = '← SENE 제작';
     a.setAttribute('aria-label', 'SENE 제작 홈으로');
-    a.title = '판 11.01 23:34';
+    a.title = '판 11.02 01:14';
     var ver = document.createElement('span');
-    ver.textContent = '11.01 23:34';
+    ver.textContent = '11.02 01:14';
     ver.style.cssText = 'font:500 11px/1 ui-monospace,Menlo,monospace;color:var(--faint,#5A5A66);' +
                         'margin-left:7px;letter-spacing:0;';
     a.appendChild(ver);
