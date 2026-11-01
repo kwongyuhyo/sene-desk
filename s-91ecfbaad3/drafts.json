@@ -632,7 +632,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=90bv_QqNSm0\n구간: 0:00-0:31\n곡: is coming to Busan.\n아티스트: *Hamilton*\n피처링:\n후킹: \n출처: Music of the Night - Korea\n자막: 자동",
-      "caption": "The musical 'Hamilton' makes its Korea debut in Busan this December.\n\nThe video is a 30-second promo spot released ahead of the Korean run. The cast comes from the world tour, and the title role goes to Jason Arrow, who played Hamilton in the Australian premiere and on the first international tour.\n\nThe age limit changed ahead of ticket sales. The producer announced that because of strong language in some scenes, the minimum age has been raised from elementary school students to middle school students.\n\nBusan: Dec 17 (Thu) – Jan 16, 2027 (Sat) · Dream Theatre, Busan\nSeoul: Jan 21 (Thu) – Mar 20, 2027 (Sat) · Sejong Center for the Performing Arts, Grand Theater\nPrices: VIP KRW 220,000 – B KRW 70,000\nTickets: Nov 11 (Wed), Busan 2 p.m. · Seoul 3 p.m. KST (NOL Ticket)\n#SENE #HamiltonMusical #Hamilton #Busan #SeoulMusical"
+      "caption": "The musical 'Hamilton' makes its Korea debut in Busan this December.\n\nThe video is a 30-second promo spot released ahead of the Korean run. The cast comes from the world tour, and the title role goes to Jason Arrow, who played Hamilton in the Australian premiere and on the first international tour.\n\nThe age limit changed ahead of ticket sales. The producer announced that because of strong language in some scenes, the minimum age has been raised from elementary school students to middle school students.\n\nBusan: Dec 17 (Thu) – Jan 16, 2027 (Sat) · Dream Theatre, Busan\nSeoul: Jan 21 (Thu) – Mar 20, 2027 (Sat) · Sejong Center for the Performing Arts, Grand Theater\nPrices: VIP KRW 220,000 – B KRW 70,000\nTickets: Nov 11 (Wed), Busan 2 p.m. · Seoul 3 p.m. KST (NOL Ticket)\n#SENE #HamiltonMusical #Hamilton #Busan #SeoulMusical",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-01T11:50+09:00",
+       "sig": "c9b5a47f9d",
+       "job": 191
+      }
      }
     },
     "ja": {
@@ -653,7 +659,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=90bv_QqNSm0\n구간: 0:00-0:31\n곡: 釜山にやって来ます。\n아티스트: *ハミルトン*が\n피처링:\n후킹: \n출처: Music of the Night - Korea\n자막: 자동",
-      "caption": "ミュージカル『ハミルトン』が12月、釜山で韓国初演の幕を開けます。\n\n映像は韓国公演を前に公開された30秒の公演スポットです。今回の舞台にはワールドツアーのキャストが立ち、ハミルトン役はオーストラリア初演と初のインターナショナル・ツアーで同じ役を務めたジェイソン・アロウです。\n\nチケット発売を前に、観覧年齢が変わりました。制作会社は、一部の場面に強い言葉の表現があるため、小学生以上から中学生以上に変更したと告知しました。\n\n釜山：12月17日（木）〜2027年1月16日（土）・ドリームシアター（釜山）\nソウル：2027年1月21日（木）〜3月20日（土）・世宗文化会館 大劇場\n料金：VIP席220,000ウォン〜B席70,000ウォン\n予約：11月11日（水）釜山 午後2時・ソウル 午後3時（韓国時間／NOLチケット）\n#SENE #ハミルトン #韓国ミュージカル #釜山旅行 #韓国旅行"
+      "caption": "ミュージカル『ハミルトン』が12月、釜山で韓国初演の幕を開けます。\n\n映像は韓国公演を前に公開された30秒の公演スポットです。今回の舞台にはワールドツアーのキャストが立ち、ハミルトン役はオーストラリア初演と初のインターナショナル・ツアーで同じ役を務めたジェイソン・アロウです。\n\nチケット発売を前に、観覧年齢が変わりました。制作会社は、一部の場面に強い言葉の表現があるため、小学生以上から中学生以上に変更したと告知しました。\n\n釜山：12月17日（木）〜2027年1月16日（土）・ドリームシアター（釜山）\nソウル：2027年1月21日（木）〜3月20日（土）・世宗文化会館 大劇場\n料金：VIP席220,000ウォン〜B席70,000ウォン\n予約：11月11日（水）釜山 午後2時・ソウル 午後3時（韓国時間／NOLチケット）\n#SENE #ハミルトン #韓国ミュージカル #釜山旅行 #韓国旅行",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-01T11:50+09:00",
+       "sig": "7ecf22dabb",
+       "job": 192
+      }
      }
     }
    }
@@ -859,9 +871,36 @@
      "end": 1685.0,
      "full": 2386.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-01T11:48+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793501465/sene_studio/twuduv77qjjweuuhnnqj.mp4",
+     "at": "2026-11-01T11:51+09:00",
+     "file": "SigDangE_NamEun_KiYa_HanMaDi_InSaengI_Sse_KeolCheo_no_lyrics.mp4",
+     "subs": {
+      "id": "st:1793501467055-cb9ae8ee",
+      "segs": [
+       {
+        "start": 1.12,
+        "end": 2.8,
+        "text": "다녀와요"
+       },
+       {
+        "start": 2.8,
+        "end": 6.22,
+        "text": "좀 이따 봐요, 키야 씨"
+       },
+       {
+        "start": 9.38,
+        "end": 11.74,
+        "text": "인생이 쓰다?"
+       },
+       {
+        "start": 17.64,
+        "end": 19.62,
+        "text": "사작하면 소울메이트 안 생긴다"
+       }
+      ]
+     },
+     "v": "e1815b26"
     }
    },
    "pick": {
@@ -1156,10 +1195,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T11:50+09:00"
+  "at": "2026-11-01T11:51+09:00"
  },
  "queue": {
-  "next": "2026-11-01T11:52+09:00",
+  "next": "2026-11-01T11:53+09:00",
   "n": 0,
   "gap": 20
  },
