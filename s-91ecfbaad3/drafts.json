@@ -166,6 +166,395 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-04eee682",
+    "account": "@속보",
+    "url": "https://www.slist.kr/news/articleView.html?idxno=778196",
+    "image": null,
+    "head": "이마트24, 빼빼로데이 맞아 웹툰 〈재혼 황후〉 협업 빼빼로 기획세트 3종·단품 3종 판매 · 트렌드랩 성수점 팝업존 11/16까지",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-02T08:43+09:00",
+   "key": "140bf606",
+   "by": "claude",
+   "subjects": [
+    "이마트24",
+    "재혼 황후"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "빼빼로데이 앞두고 편의점에 온 〈재혼 황후〉 — 기획세트 3종 가격과 성수 팝업존 기간",
+    "why": "디즈니+ 시리즈 공개를 앞둔 작품의 빼빼로데이 협업 · 가격·할인·팝업 기간이 확인되는 실용 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-11-02T08:43+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n이마트24(@emart24_official)가 빼빼로데이를 앞두고 웹툰 〈재혼 황후(@disneypluskr)〉 빼빼로를 내놨습니다.\n\n이번 달 디즈니+ 시리즈 공개를 앞둔 작품인데요, 작품 캐릭터를 입힌 기획세트 3종과 빼빼로 단품 3종(아몬드·딸기·초코필드)으로 꾸려졌습니다.\n\n세트는 캐릭터 빼빼로 4종 구성(8,000원), 렌티큘러에 빼빼로 6개를 담은 세트(12,000원), 손거울 키링에 빼빼로 8개를 담은 세트(16,000원)입니다. 성수동 트렌드랩 성수점에는 작품을 테마로 한 팝업존이 따로 열려, 협업 상품을 1만 원 이상 사면 2천 원, 2만 원 이상 사면 5천 원 쿠폰을 줍니다.\n\n할인: 11월 10일(화)까지 기획세트 3종 지정 결제수단(농협·삼성카드, 카카오페이·네이버페이 머니&포인트) 30%\n단품: 협업 빼빼로 3종 2+2 증정\n앱: 11월 10일(화)까지 이마트24 앱 신규 가입 시 협업 빼빼로 1종 무료 쿠폰\n팝업존: 11월 16일(월)까지\n장소: 이마트24 트렌드랩 성수점 (서울 성동구 성수동)\n#SENE #재혼황후 #이마트24 #빼빼로데이 #성수팝업\n\n[커버]\n소스: https://i.ibb.co/JW1VhnHS/f0fc7bb6e0d3.jpg\n제목: 편의점에 온 재혼 황후,|빼빼로데이 세트 3종\n부제: 이마트24 협업 · 성수 팝업존은 11월 16일까지\n출처: @emart24_official\n",
+    "caption": "이마트24(@emart24_official)가 빼빼로데이를 앞두고 웹툰 〈재혼 황후(@disneypluskr)〉 빼빼로를 내놨습니다.\n\n이번 달 디즈니+ 시리즈 공개를 앞둔 작품인데요, 작품 캐릭터를 입힌 기획세트 3종과 빼빼로 단품 3종(아몬드·딸기·초코필드)으로 꾸려졌습니다.\n\n세트는 캐릭터 빼빼로 4종 구성(8,000원), 렌티큘러에 빼빼로 6개를 담은 세트(12,000원), 손거울 키링에 빼빼로 8개를 담은 세트(16,000원)입니다. 성수동 트렌드랩 성수점에는 작품을 테마로 한 팝업존이 따로 열려, 협업 상품을 1만 원 이상 사면 2천 원, 2만 원 이상 사면 5천 원 쿠폰을 줍니다.\n\n할인: 11월 10일(화)까지 기획세트 3종 지정 결제수단(농협·삼성카드, 카카오페이·네이버페이 머니&포인트) 30%\n단품: 협업 빼빼로 3종 2+2 증정\n앱: 11월 10일(화)까지 이마트24 앱 신규 가입 시 협업 빼빼로 1종 무료 쿠폰\n팝업존: 11월 16일(월)까지\n장소: 이마트24 트렌드랩 성수점 (서울 성동구 성수동)\n#SENE #재혼황후 #이마트24 #빼빼로데이 #성수팝업",
+    "photos": [
+     {
+      "url": "https://i.ibb.co/JW1VhnHS/f0fc7bb6e0d3.jpg",
+      "credit": "@emart24_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/871736804_18484655332119217_5304226741496224061_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Ma8znyve1YAQ7kNvwHH5h47&_nc_oc=Adr3O6xrX8V5dECaAbS3hDc0bPCVwvOBntcizRE2qY2xoSEPrwI1gRv7JE73B7xzUfY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=f5rxfso71vr4IlOK-SafRA&_nc_tpa=Q5bMBQKJlt_UGFzRIKYi6IRQQkKWebaMn4PaqYBVszDnaMPgoxq_Twr32igYvmyXw6hd6WhE57RmDhs1dA&oh=00_AQRdSatwgXEwhO2EYWsW8Wj24lj3f3g-DWLxxq39uK2_-A&oe=6AEDB2DD"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://i.ibb.co/JW1VhnHS/f0fc7bb6e0d3.jpg",
+      "credit": "@emart24_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/871736804_18484655332119217_5304226741496224061_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Ma8znyve1YAQ7kNvwHH5h47&_nc_oc=Adr3O6xrX8V5dECaAbS3hDc0bPCVwvOBntcizRE2qY2xoSEPrwI1gRv7JE73B7xzUfY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=f5rxfso71vr4IlOK-SafRA&_nc_tpa=Q5bMBQKJlt_UGFzRIKYi6IRQQkKWebaMn4PaqYBVszDnaMPgoxq_Twr32igYvmyXw6hd6WhE57RmDhs1dA&oh=00_AQRdSatwgXEwhO2EYWsW8Wj24lj3f3g-DWLxxq39uK2_-A&oe=6AEDB2DD"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "편의점에 온 재혼 황후,|빼빼로데이 세트 3종",
+      "sub": "이마트24 협업 · 성수 팝업존은 11월 16일까지"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "재혼 황후 빼빼로,|이마트24에서",
+      "sub": "기획세트 3종 8,000원부터"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "성수 편의점에|재혼 황후 팝업존",
+      "sub": "트렌드랩 성수점 · 11월 16일까지"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진 — 릴스 원본 문구('이혼은 받아들이겠습니다…')가 제목 뒤에 비치고, 왼쪽 위 emart24 로고가 SENE 로고와 겹침. 사진 교체 필요",
+     "숏폼 비움 — 이마트24 공식 채널에 〈재혼 황후〉 협업 영상(유튜브)이 없음",
+     "표지 사진 — 이마트24 공식 릴스 썸네일이라 아래쪽 문구가 제목과 겹침. 보도사진은 해상도가 모자라(720px 이하) 못 씀. 바꿀 후보 없음 — 공식 계정에서 더 큰 빼빼로 세트 사진을 찾으면 바꾸기",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "이마트24, '재혼 황후' 협업 빼빼로부터 간식할인 (싱글리스트)",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=778196"
+     },
+     {
+      "title": "이마트24, 빼빼로데이 맞아 웹툰 '재혼황후' 협업 상품 판매 (뉴시스)",
+      "link": "https://www.newsis.com/view/NISX20261102_0003850149"
+     },
+     {
+      "title": "29억뷰 인기 웹툰이 편의점으로… 이마트24 협업 상품 공개 (위키트리)",
+      "link": "https://www.wikitree.co.kr/articles/1167352"
+     },
+     {
+      "title": "주지훈, '궁' 황태자에서 '재혼 황후' 황제로 (iMBC연예)",
+      "link": "http://enews.imbc.com/News/RetrieveNewsInfo/523154"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://i.ibb.co/DDSfLL85/6b824a5e8586.jpg",
+      "https://i.ibb.co/Z16W7xs8/957a7038577f.jpg"
+     ],
+     "covers": {
+      "B": "https://i.ibb.co/HDcLMqvk/176d602ea462.jpg",
+      "C": "https://i.ibb.co/yt096sF/2bc21d061152.jpg",
+      "A": "https://i.ibb.co/DDSfLL85/6b824a5e8586.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-02T08:43+09:00",
+     "v": {
+      "A": "ac5c1225",
+      "B": "c060c5b5",
+      "C": "dbcebe68"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-15adcbf6",
+    "account": "@속보",
+    "url": "https://blog.naver.com/imbfgmin/224461820131",
+    "image": null,
+    "head": "더현대 서울 크리스마스 빌리지 1차 예약 11/5 오전 11시, 11/10 개장 — 80~90년대 뉴욕 거리",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-02T08:48+09:00",
+   "key": "b6b52607",
+   "by": "claude",
+   "subjects": [
+    "더현대 서울"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "더현대 서울 크리스마스 빌리지 1차 예약 11/5(목) 오전 11시 — 올해는 '크리스마스 인 뉴욕 시티'",
+    "why": "매년 예약이 몰리는 연말 행사, 예약 사흘 전 일정·방법을 먼저 정리"
+   },
+   "added": "claude",
+   "added_at": "2026-11-02T08:48+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n더현대 서울(@thehyundai_seoul) 크리스마스 빌리지의 1차 사전 예약이 이번 주 목요일에 열립니다.\n\n올해 주제는 '크리스마스 인 뉴욕 시티'인데요, 5층 사운즈 포레스트에 1980~90년대 뉴욕 거리를 옮겨 놓았다고 현대백화점은 설명합니다. 최대 10m 높이의 붉은 벽돌 건물 13개 동과 대형 입간판, 노란 택시가 놓이고, 아기 곰 '해리'와 고양이들의 선물 배달 이야기가 거리를 따라 이어집니다.\n\n예약은 온라인몰 '더현대 하이'에서 받고, 현장에서는 2~4층에 놓인 QR코드로 대기를 걸 수 있습니다.\n\n기간: 11월 10일(화) 개장\n1차 예약: 11월 5일(목) 오전 11시, 더현대 하이\n장소: 서울 영등포구 여의대로 108 더현대 서울 5층 사운즈 포레스트\n현장 대기: 2~4층 QR코드\n#SENE #더현대서울 #크리스마스빌리지 #여의도 #사운즈포레스트\n\n[커버]\n소스: https://i.ibb.co/JwqNSzrZ/d658e214e898.jpg\n제목: 더현대 크리스마스|5일 오전 11시 예약\n부제: 올해 주제는 '크리스마스 인 뉴욕 시티'\n출처: @thehyundai_seoul\n",
+    "caption": "더현대 서울(@thehyundai_seoul) 크리스마스 빌리지의 1차 사전 예약이 이번 주 목요일에 열립니다.\n\n올해 주제는 '크리스마스 인 뉴욕 시티'인데요, 5층 사운즈 포레스트에 1980~90년대 뉴욕 거리를 옮겨 놓았다고 현대백화점은 설명합니다. 최대 10m 높이의 붉은 벽돌 건물 13개 동과 대형 입간판, 노란 택시가 놓이고, 아기 곰 '해리'와 고양이들의 선물 배달 이야기가 거리를 따라 이어집니다.\n\n예약은 온라인몰 '더현대 하이'에서 받고, 현장에서는 2~4층에 놓인 QR코드로 대기를 걸 수 있습니다.\n\n기간: 11월 10일(화) 개장\n1차 예약: 11월 5일(목) 오전 11시, 더현대 하이\n장소: 서울 영등포구 여의대로 108 더현대 서울 5층 사운즈 포레스트\n현장 대기: 2~4층 QR코드\n#SENE #더현대서울 #크리스마스빌리지 #여의도 #사운즈포레스트",
+    "photos": [
+     {
+      "url": "https://i.ibb.co/JwqNSzrZ/d658e214e898.jpg",
+      "credit": "@thehyundai_seoul",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869840109_18115531517606756_3643525280764304854_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FrCz9jDxDR4Q7kNvwFqKg_6&_nc_oc=AdqKLFlC6Fqt8Z91QIeZEcYBLPc4VcdniehEBmXdwELf3BsZCV85lAD3X9OpWkTGt4c&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=P4DvczwJWu9DgM9I2b7lsQ&oh=00_AQQnhLWWhGVUTcBXM7vrLsm_mLJr5Ezgb0sw66FVKqFnAA&oe=6AEDA5C6"
+     },
+     {
+      "url": "https://i.ibb.co/nMK1wL7d/868512e9a04e.jpg",
+      "credit": "@thehyundai_seoul",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869471722_18115529225606756_3342182115076643053_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eeeCTQFUvVEQ7kNvwFUyu3_&_nc_oc=AdoMcXbz2EaypUT0XGae_9xsSDyuuaoNe7hBCrs1xN0GsxmgpTBLRPsMOb-UJFHHw6Y&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=P4DvczwJWu9DgM9I2b7lsQ&oh=00_AQTvOLpsejY-cvOx8gX5bnyFnoiepaZoat1uv_M3qjof9A&oe=6AED9B9D"
+     },
+     {
+      "url": "https://i.ibb.co/tTRx5Rrc/7e82869dfe14.jpg",
+      "credit": "@thehyundai_seoul",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/848696629_18113163428606756_620540828151022514_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-DRN_ys_Lq0Q7kNvwHJ0yJX&_nc_oc=AdpzeQj7MZVO8vTPXDirzHtvTPdVYKWlmV5ctojPMRI01iVHoFKRS6QWdbxoEj48ysY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=P4DvczwJWu9DgM9I2b7lsQ&oh=00_AQSCyKFr7nCJsdbpYS7OcQr-xo3hO3arCQEV9nNqaaa27g&oe=6AEDB788"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://i.ibb.co/JwqNSzrZ/d658e214e898.jpg",
+      "credit": "@thehyundai_seoul",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869840109_18115531517606756_3643525280764304854_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=FrCz9jDxDR4Q7kNvwFqKg_6&_nc_oc=AdqKLFlC6Fqt8Z91QIeZEcYBLPc4VcdniehEBmXdwELf3BsZCV85lAD3X9OpWkTGt4c&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=P4DvczwJWu9DgM9I2b7lsQ&oh=00_AQQnhLWWhGVUTcBXM7vrLsm_mLJr5Ezgb0sw66FVKqFnAA&oe=6AEDA5C6"
+     },
+     {
+      "url": "https://i.ibb.co/nMK1wL7d/868512e9a04e.jpg",
+      "credit": "@thehyundai_seoul",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869471722_18115529225606756_3342182115076643053_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eeeCTQFUvVEQ7kNvwFUyu3_&_nc_oc=AdoMcXbz2EaypUT0XGae_9xsSDyuuaoNe7hBCrs1xN0GsxmgpTBLRPsMOb-UJFHHw6Y&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=P4DvczwJWu9DgM9I2b7lsQ&oh=00_AQTvOLpsejY-cvOx8gX5bnyFnoiepaZoat1uv_M3qjof9A&oe=6AED9B9D"
+     },
+     {
+      "url": "https://i.ibb.co/tTRx5Rrc/7e82869dfe14.jpg",
+      "credit": "@thehyundai_seoul",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/848696629_18113163428606756_620540828151022514_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-DRN_ys_Lq0Q7kNvwHJ0yJX&_nc_oc=AdpzeQj7MZVO8vTPXDirzHtvTPdVYKWlmV5ctojPMRI01iVHoFKRS6QWdbxoEj48ysY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=P4DvczwJWu9DgM9I2b7lsQ&oh=00_AQSCyKFr7nCJsdbpYS7OcQr-xo3hO3arCQEV9nNqaaa27g&oe=6AEDB788"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "더현대 크리스마스|5일 오전 11시 예약",
+      "sub": "올해 주제는 '크리스마스 인 뉴욕 시티'"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "더현대 서울에|80년대 뉴욕 거리",
+      "sub": "11월 10일 개장 · 1차 예약 11월 5일"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "여의도 크리스마스|올해는 뉴욕으로",
+      "sub": "5층 사운즈 포레스트 · 11월 10일 개장"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 종료일 '12월 31일'은 공식 인스타 게시물로 확인 못 했고, 올해 기사 4곳(뉴스인사이드·스마트투데이·ZDNet 두 건)에도 종료일이 없어 캡션·표지 C에서 뺌 — 공식 공지로 확인되면 '~ 12월 31일(목)' 다시 넣기",
+     "1차 예약 '11월 5일 오전 11시'는 기사 두 곳 기준 — 올리기 전 더현대 하이 앱·공식 계정 공지로 시각 다시 확인",
+     "숏폼 비움: 개장 전이라 올해 공식 영상이 아직 없음 (11/10 개장 후 공식 릴스·현장 영상으로)",
+     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "더현대 서울 공식 인스타그램 (10/29 게시물 — 기간 11.10~12.31)",
+      "link": "https://www.instagram.com/thehyundai_seoul/"
+     },
+     {
+      "title": "뉴스인사이드 — 더현대 서울에 '8090 뉴욕'이 온다…크리스마스 H빌리지 개장",
+      "link": "https://www.newsinside.kr/news/articleView.html?idxno=5036558"
+     },
+     {
+      "title": "스마트투데이 — 현대백화점 크리스마스 공간 공개",
+      "link": "https://www.smarttoday.co.kr/ko-kr/articles/113294"
+     },
+     {
+      "title": "ZDNet Korea — 백화점 3사, 연말 볼거리 경쟁",
+      "link": "https://zdnet.co.kr/view/?no=20261026162911"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://i.ibb.co/ycbMSbwb/cac790e0a513.jpg",
+      "https://i.ibb.co/nqc3hdym/6b6b00dba918.jpg"
+     ],
+     "covers": {
+      "B": "https://i.ibb.co/6cRZwKFW/1015021d515f.jpg",
+      "C": "https://i.ibb.co/3yFTjdSZ/770b1cd12882.jpg",
+      "A": "https://i.ibb.co/ycbMSbwb/cac790e0a513.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-02T08:48+09:00",
+     "v": {
+      "A": "ce4440fa",
+      "B": "ab6cf139",
+      "C": "3eed02dc"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-7c0515c2",
+    "account": "@속보",
+    "url": "https://blog.naver.com/kkokyesang/224461826319",
+    "image": null,
+    "head": "젤라또처럼 떠 쓰는 샴푸팩, 힐링스쿱이 11/4 더현대 서울 5층에 팝업",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-02T08:52+09:00",
+   "key": "d7994523",
+   "by": "claude",
+   "subjects": [
+    "힐링스쿱"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "젤라또처럼 떠 쓰는 샴푸팩 브랜드 힐링스쿱이 더현대 서울 5층에서 11/4~11/16 팝업",
+    "why": "개인 후기에서 '젤라또인 줄 알았는데 샴푸팩'으로 퍼지기 시작한 팝업 — 오픈 전 기간·장소가 공식몰 공지로 확인됨"
+   },
+   "added": "claude",
+   "added_at": "2026-11-02T08:52+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n뷰티\n\n[캡션]\n젤라또처럼 떠서 쓰는 샴푸팩이 더현대 서울(@thehyundai_seoul)에 팝업을 엽니다.\n\n주인공은 헤어케어 브랜드 힐링스쿱(@scoop_official_)의 '젤라또 샴푸팩'인데요, 브랜드는 '젤라또 한 스쿱처럼 간편하게'를 내걸고 이 제품을 비건 샴푸팩으로 소개합니다.\n\n팝업은 5층 신규 팝업 스튜디오에서 열리고, 브랜드는 현장 체험과 사전예약 혜택을 준비했다고 공지했습니다. 공식몰 기준 '젤라또 샴푸팩' 200g 정가는 42,000원입니다.\n\n기간: 11월 4일(수) ~ 11월 16일(월)\n장소: 서울 영등포구 여의도동 더현대 서울 5층 신규 팝업 스튜디오\n예약: 사전예약 혜택 있음 (방법은 공식 채널 공지)\n\n#SENE #힐링스쿱 #더현대서울 #더현대팝업 #여의도팝업 #샴푸팩\n\n[커버]\n소스: https://i.ibb.co/xq1DmVKp/aaa3e943b5fa.jpg\n제목: 젤라또처럼 뜨는 샴푸팩,|더현대 서울 팝업\n부제: 힐링스쿱 · 11월 4일부터 5층\n출처: @scoop_official_\n",
+    "caption": "젤라또처럼 떠서 쓰는 샴푸팩이 더현대 서울(@thehyundai_seoul)에 팝업을 엽니다.\n\n주인공은 헤어케어 브랜드 힐링스쿱(@scoop_official_)의 '젤라또 샴푸팩'인데요, 브랜드는 '젤라또 한 스쿱처럼 간편하게'를 내걸고 이 제품을 비건 샴푸팩으로 소개합니다.\n\n팝업은 5층 신규 팝업 스튜디오에서 열리고, 브랜드는 현장 체험과 사전예약 혜택을 준비했다고 공지했습니다. 공식몰 기준 '젤라또 샴푸팩' 200g 정가는 42,000원입니다.\n\n기간: 11월 4일(수) ~ 11월 16일(월)\n장소: 서울 영등포구 여의도동 더현대 서울 5층 신규 팝업 스튜디오\n예약: 사전예약 혜택 있음 (방법은 공식 채널 공지)\n\n#SENE #힐링스쿱 #더현대서울 #더현대팝업 #여의도팝업 #샴푸팩",
+    "photos": [
+     {
+      "url": "https://i.ibb.co/xq1DmVKp/aaa3e943b5fa.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/802627057_17935213437370533_851785869383678258_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=GwSJFA192FEQ7kNvwEBTA9a&_nc_oc=Adp_25-1cW-HHpknD8dNxwtJz1R4G9i7v5pxcDgYO9jFe5aCzH2s2HCllY3Zv4VXzb0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQTfokKFCx1W8OiCKDhCuQvF_rJgn4qKxJk7BZvvvbHGpA&oe=6AED87FC"
+     },
+     {
+      "url": "https://i.ibb.co/Z6SX1Pz5/ce3dae069f72.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/811588474_17935967160370533_3042272511406710033_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=n-KalPLAgCwQ7kNvwHBTdd2&_nc_oc=AdpzGOQASZiohhkoDeP2BiFGj-gOLoZbqkjdL0GwJMplzKgMAFd123bUuv-SLWdNqtg&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQQGQCxAqslCXvd8WafRS_iiSKBCUKBFH2nCNAbqXe5Ipg&oe=6AEDBD48"
+     },
+     {
+      "url": "https://i.ibb.co/Y4yKZsSP/5f4b0a88608d.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/811203258_17935972353370533_6207161106426880121_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=pW3aIfmQahUQ7kNvwG_rxlv&_nc_oc=AdpUH84TMXqOe-L5nGp1g1bXJNwQmle3IgtUNd5iy5hWo14tJLuBTkNMeFkWyb09KkQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQQBLeCzh5DM9a6nk1YoppzUcbG4d7P94xtmGP27i0Yg6g&oe=6AEDB720"
+     },
+     {
+      "url": "https://i.ibb.co/sp9Rqbzh/1c0145b200eb.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/811267004_17935973601370533_2653174603917321221_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=mis_leLnyHoQ7kNvwFVhG6R&_nc_oc=Ado676plkqnAYGqMSkd4umN2ToLfdLvJYybVcFvef7RM5VxPZl2fQchOppkNRRg-KoE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQQEPNx6bxbUgpE1DUoUAQRwK06Kc4wUvvNTY5Rczizl5A&oe=6AEDB1FF"
+     },
+     {
+      "url": "https://i.ibb.co/bgGg1x7k/f8894faae5e0.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://ecimg.cafe24img.com/pg2866b14042581025/healingscoop/web/product/medium/20260626/86fe9e4c2c0a743d26dda69c18a39055.png"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://i.ibb.co/xq1DmVKp/aaa3e943b5fa.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/802627057_17935213437370533_851785869383678258_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=GwSJFA192FEQ7kNvwEBTA9a&_nc_oc=Adp_25-1cW-HHpknD8dNxwtJz1R4G9i7v5pxcDgYO9jFe5aCzH2s2HCllY3Zv4VXzb0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQTfokKFCx1W8OiCKDhCuQvF_rJgn4qKxJk7BZvvvbHGpA&oe=6AED87FC"
+     },
+     {
+      "url": "https://i.ibb.co/Z6SX1Pz5/ce3dae069f72.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/811588474_17935967160370533_3042272511406710033_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=n-KalPLAgCwQ7kNvwHBTdd2&_nc_oc=AdpzGOQASZiohhkoDeP2BiFGj-gOLoZbqkjdL0GwJMplzKgMAFd123bUuv-SLWdNqtg&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQQGQCxAqslCXvd8WafRS_iiSKBCUKBFH2nCNAbqXe5Ipg&oe=6AEDBD48"
+     },
+     {
+      "url": "https://i.ibb.co/Y4yKZsSP/5f4b0a88608d.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/811203258_17935972353370533_6207161106426880121_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=pW3aIfmQahUQ7kNvwG_rxlv&_nc_oc=AdpUH84TMXqOe-L5nGp1g1bXJNwQmle3IgtUNd5iy5hWo14tJLuBTkNMeFkWyb09KkQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQQBLeCzh5DM9a6nk1YoppzUcbG4d7P94xtmGP27i0Yg6g&oe=6AEDB720"
+     },
+     {
+      "url": "https://i.ibb.co/sp9Rqbzh/1c0145b200eb.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/811267004_17935973601370533_2653174603917321221_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMiJ9&_nc_ohc=mis_leLnyHoQ7kNvwFVhG6R&_nc_oc=Ado676plkqnAYGqMSkd4umN2ToLfdLvJYybVcFvef7RM5VxPZl2fQchOppkNRRg-KoE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=L-phpnT2xQ6TXFxe71v7_g&oh=00_AQQEPNx6bxbUgpE1DUoUAQRwK06Kc4wUvvNTY5Rczizl5A&oe=6AEDB1FF"
+     },
+     {
+      "url": "https://i.ibb.co/bgGg1x7k/f8894faae5e0.jpg",
+      "credit": "@scoop_official_",
+      "from": "https://ecimg.cafe24img.com/pg2866b14042581025/healingscoop/web/product/medium/20260626/86fe9e4c2c0a743d26dda69c18a39055.png"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "젤라또처럼 뜨는 샴푸팩,|더현대 서울 팝업",
+      "sub": "힐링스쿱 · 11월 4일부터 5층"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "젤라또인 줄 알았던|샴푸팩이 더현대에",
+      "sub": "힐링스쿱 팝업 11/4~11/16"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "더현대 서울 5층에|샴푸팩 팝업이 열린다",
+      "sub": "힐링스쿱 · 11월 4일~16일"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 공식몰 공지로 기간(11/4~11/16)·5층 신규 팝업 스튜디오·정가 42,000원(할인가 25,200원 별도)·'젤라또 한 스쿱처럼'·비건 표기 확인. 출처에 없는 '스티커·큐빅 꾸미기 사진' 문장 뺐고, 사전예약 경로가 공지 본문에 없어 '공식몰 사전예약'을 '사전예약 혜택 있음'으로 고침 — 경로는 공지 첨부 이미지로 확인",
+     "공식몰 공지 기준 11/4~11/16 · 5층 — 블로그 글엔 '11/2'로 잡혀 있어 공식 인스타 최신 글로 시작일 한 번 더 확인",
+     "브랜드 이름: 공식몰·인스타 표기는 '힐링스쿱'(블로그는 '힐링스') — 운영 시간·사전예약 방법은 공지에 없어 캡션에서 뺐음",
+     "이어지는 소식 — 11-02에 다룬 소재. 새 사실: 겹친 초안은 더현대 크리스마스 빌리지 — 이 글은 다른 브랜드(힐링스쿱)의 5층 팝업 11/4~11/16, 공식몰 10/30 공지"
+    ],
+    "research": [
+     {
+      "title": "힐링스쿱 공식몰 — 더현대서울 팝업스토어 공지 (2026-10-30)",
+      "link": "https://h-scoop.com/article/event/8/97/"
+     },
+     {
+      "title": "힐링스쿱 공식몰 메인 (제품·가격·브랜드 소개)",
+      "link": "https://h-scoop.com/"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://i.ibb.co/0V6wnYhk/8c615a63bb83.jpg",
+      "https://i.ibb.co/4RLXCVW7/dbfd6c18081f.jpg"
+     ],
+     "covers": {
+      "B": "https://i.ibb.co/sB4310m/6d9148dfce14.jpg",
+      "C": "https://i.ibb.co/1GDWk0G1/607e48f66448.jpg",
+      "A": "https://i.ibb.co/0V6wnYhk/8c615a63bb83.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-02T08:53+09:00",
+     "v": {
+      "A": "1ffda190",
+      "B": "e7d0fab7",
+      "C": "6fa666af"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -185,7 +574,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 4,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -413,10 +802,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-02T08:27+09:00"
+  "at": "2026-11-02T08:52+09:00"
  },
  "queue": {
-  "next": "2026-11-02T08:29+09:00",
+  "next": "2026-11-02T08:55+09:00",
   "n": 0,
   "gap": 20
  },
