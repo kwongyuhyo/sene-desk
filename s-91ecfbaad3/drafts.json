@@ -808,7 +808,44 @@
    },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
-   "i18n_queued": "2026-11-01T11:48+09:00"
+   "i18n_queued": "2026-11-01T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-01T11:49+09:00",
+    "confirm": [
+     "EP.27 내용·'모태소울로지옥' 편명·10월 30일 공개는 웹 검색으로 확인하지 못했다 — 원문 그대로 옮김",
+     "프로그램 영어 표기: 기사마다 'KiiiKiii PangPang' / 'KiiiPangPang' 으로 갈림 — 공식 유튜브 영상 제목의 표기 확인 필요",
+     "'모태소울로지옥' 영어 'Motae Soul-ro Jiok (Born-Solo Soul Hell)' · 일본어 「モテソウルロ地獄」은 공식 표기가 없어 임시로 옮긴 것 — 영상 제목·자막 확인 필요",
+     "멤버 표기: 영어 JIYU · LEESOL · SUI · HAUM · KYA / 일본어 ジユ · イソル · スイ · ハウム · キヤ (일본 매체 일부는 Isol · Haeum · Kiya로 씀)",
+     "숏폼 영어 세 칸은 40자 안에 맞추려고 '식당에 남은'을 빼고 'Two walk off. / Kya: / \"Life is bitter.\"'로 줄였다 — 화면에 실제로 보이는 순서(후킹 → 아티스트 → 곡)를 전제로 함",
+     "일본어 · 「母胎ソウルロ地獄」 — 일본 K팝 팬 사이에서 '母胎ソロ'가 통하는 말이라는 판단으로 고침. 키키 일본 공식 계정이나 자막에 정해진 표기가 있으면 그 표기로 바꿀 것",
+     "영어 · 숏폼 세 칸을 이어 읽으면 'Two walk off. Kya: \"Life is bitter.\"' — 원문의 '식당에 남은'은 40자 제한 때문에 빠짐. 화면에서 뜻이 통하는지 확인"
+    ],
+    "review": {
+     "at": "2026-11-01T11:49+09:00",
+     "fixes": [
+      "영어 · 캡션 · 'is the second and final-choice episode of …' → 'is the second installment of …, and the one with the final choice' — 직역투, 어색한 복합 수식",
+      "일본어 · 곡 칸·캡션 인용 · 「人生が苦い」 → 「人生は苦い」 — 'が'는 직역투, 한탄하는 말로는 'は'가 자연스러움",
+      "일본어 · 캡션 · 「モテソウルロ地獄」 → 「母胎ソウルロ地獄」 — 일본어 'モテ'는 '인기 있다'로 읽혀 원래 뜻(모태솔로)과 반대가 됨",
+      "일본어 · 캡션 · 「最後までひとりで残りました」 → 「結局ひとりきりになりました」 — 어색한 연어"
+     ],
+     "doubt": [
+      "일본어 · 「母胎ソウルロ地獄」 — 일본 K팝 팬 사이에서 '母胎ソロ'가 통하는 말이라는 판단으로 고침. 키키 일본 공식 계정이나 자막에 정해진 표기가 있으면 그 표기로 바꿀 것",
+      "영어 · 숏폼 세 칸을 이어 읽으면 'Two walk off. Kya: \"Life is bitter.\"' — 원문의 '식당에 남은'은 40자 제한 때문에 빠짐. 화면에서 뜻이 통하는지 확인"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=zRZTB3FdaHw\n구간: 26:57-27:20\n곡: \"Life is bitter.\"\n아티스트: *Kya*:\n피처링:\n후킹: Two walk off.\n출처: KiiiKiii\n자막: 자동",
+      "caption": "KiiiKiii (@kiiikiii.official) member KYA is left alone at a restaurant table.\n\nEP.27 of 'KiiiKiii PangPang', posted on KiiiKiii's official YouTube channel on Oct 30, is the second installment of 'Motae Soul-ro Jiok' (Born-Solo Soul Hell), a parody of dating reality shows, and the one with the final choice. In the sketch, each of the five members plays a character and picks a soulmate. Over dinner, two of them head out for a walk, and KYA, left at the table, says just one line: \"Life is bitter.\"\n\nKYA confessed her feelings to HAUM in this episode, but in the final choice LEESOL paired with SUI and JIYU with HAUM, leaving her on her own.\n\nNew episodes: Fridays at 7 p.m. KST · KiiiKiii official YouTube\n\n#SENE #KiiiKiii #KYA #KiiiKiiiPangPang #Kpop"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=zRZTB3FdaHw\n구간: 26:57-27:20\n곡: 「人生は苦い」\n아티스트: 残された*キヤ*\n피처링:\n후킹: 二人が散歩に出て、\n출처: KiiiKiii\n자막: 자동",
+      "caption": "KiiiKiii（キキ／@kiiikiii.official）のキヤが、食堂にひとり残されました。\n\n10月30日にKiiiKiii公式YouTubeで公開された『キキパンパン（키키팡팡）』EP.27は、恋愛リアリティ番組をパロディにした「母胎ソウルロ地獄（모태소울로지옥）」の第2弾で、最終選択が描かれた回です。メンバー5人がそれぞれキャラクターを演じ、ソウルメイトを選ぶコントになっています。夕食の席で2人が散歩に出かけると、テーブルに残されたキヤが短くひと言こぼします。「人生は苦い」\n\nキヤはこの回でハウムに想いを伝えましたが、最終選択でイソルとスイ、ジユとハウムがペアになり、結局ひとりきりになりました。\n\n公開：毎週金曜 午後7時（韓国時間）・KiiiKiii公式YouTube\n\n#SENE #KiiiKiii #キキ #キヤ #キキパンパン"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1056,10 +1093,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T11:48+09:00"
+  "at": "2026-11-01T11:49+09:00"
  },
  "queue": {
-  "next": "2026-11-01T11:50+09:00",
+  "next": "2026-11-01T11:51+09:00",
   "n": 0,
   "gap": 20
  },
