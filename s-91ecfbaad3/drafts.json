@@ -502,7 +502,9 @@
      "v": {
       "A": "19cacfed",
       "B": "bc33b220",
-      "C": "aa64819d"
+      "C": "aa64819d",
+      "E": "8d2353fa",
+      "J": "d4d57935"
      }
     }
    },
@@ -593,7 +595,68 @@
     "why": "〈해밀턴〉 한국 첫 무대 예매가 11/11 — 저장할 날짜·관람 연령 변경이 있는 소식",
     "at": "2026-11-01T11:46+09:00"
    },
-   "i18n_queued": "2026-11-01T11:48+09:00"
+   "i18n_queued": "2026-11-01T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-01T11:50+09:00",
+    "confirm": [
+     "공연장 공식 영문·일문 표기를 웹 검색으로 확인하지 못했습니다. 영어는 'Dream Theatre'와 'Sejong Center for the Performing Arts, Grand Theater', 일본어는 「ドリームシアター」와 「世宗文化会館 大劇場」로 썼습니다. 올리기 전에 공연장 공식 사이트에서 확인해 주세요.",
+     "제이슨 애로우의 일본어 표기 「ジェイソン・アロウ」를 공식 표기로 확인하지 못했습니다.",
+     "예매 시각에 '한국 시간(KST / 韓国時間)'을 붙였습니다. 원문에 없는 말이라 빼도 됩니다.",
+     "'중학생 이상'은 나이로 바꾸지 않고 'middle school age and up' / 「中学生以上」으로 옮겼습니다.",
+     "부산 공연 위치는 원문에 '부산 드림씨어터'까지만 나와 있어서 동 이름은 넣지 않았습니다."
+    ],
+    "review": {
+     "at": "2026-11-01T11:50+09:00",
+     "fixes": [
+      "영어 · 캡션·숏폼 캡션 첫 문장 · opens its first Korean production → makes its Korea debut — 'Korean production'은 한국어 라이선스 공연으로 읽힘 (이번은 월드 투어 내한)",
+      "영어 · 캡션·숏폼 캡션 셋째 단락 · the age limit has moved from elementary school age and up to middle school age and up → the minimum age has been raised from elementary school students to middle school students — 직역투",
+      "영어 · 숏폼 캡션 둘째 단락 · This is the 30-second performance spot → The video is a 30-second promo spot — 'This'가 무엇을 가리키는지 모호하고 'performance spot'은 직역투"
+     ],
+     "doubt": []
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe musical 'Hamilton' makes its Korea debut in Busan this December.\n\nIt is the show's first visit to Korea since it opened on Broadway in 2015. After a month at Dream Theatre in Busan, it moves to the Grand Theater of Sejong Center for the Performing Arts in Seoul in January. The title role goes to Jason Arrow, who played Hamilton in the Australian premiere and on the first international tour.\n\nOne thing changed ahead of ticket sales. The producer announced that because of strong language in some scenes, the minimum age has been raised from elementary school students to middle school students.\n\nBusan: Dec 17 (Thu) – Jan 16, 2027 (Sat) · Dream Theatre, Busan\nSeoul: Jan 21 (Thu) – Mar 20, 2027 (Sat) · Sejong Center for the Performing Arts, Grand Theater\nPrices: VIP KRW 220,000 · R KRW 180,000 · S KRW 140,000 · A KRW 100,000 · B KRW 70,000\nTickets: Nov 11 (Wed), Busan 2 p.m. · Seoul 3 p.m. KST (NOL Ticket)\nAdmission: Middle school age and up · 170 min (including a 20-min intermission)\n#SENE #HamiltonMusical #Hamilton #Busan #SeoulMusical\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793490697/gm9yevnx1cuvmtyfnwkt.jpg\n제목: 'Hamilton' Opens in Korea|Busan, This December\n부제: Tickets Nov 11 · Now Middle School Age and Up\n출처: S&Co\n",
+      "caption": "The musical 'Hamilton' makes its Korea debut in Busan this December.\n\nIt is the show's first visit to Korea since it opened on Broadway in 2015. After a month at Dream Theatre in Busan, it moves to the Grand Theater of Sejong Center for the Performing Arts in Seoul in January. The title role goes to Jason Arrow, who played Hamilton in the Australian premiere and on the first international tour.\n\nOne thing changed ahead of ticket sales. The producer announced that because of strong language in some scenes, the minimum age has been raised from elementary school students to middle school students.\n\nBusan: Dec 17 (Thu) – Jan 16, 2027 (Sat) · Dream Theatre, Busan\nSeoul: Jan 21 (Thu) – Mar 20, 2027 (Sat) · Sejong Center for the Performing Arts, Grand Theater\nPrices: VIP KRW 220,000 · R KRW 180,000 · S KRW 140,000 · A KRW 100,000 · B KRW 70,000\nTickets: Nov 11 (Wed), Busan 2 p.m. · Seoul 3 p.m. KST (NOL Ticket)\nAdmission: Middle school age and up · 170 min (including a 20-min intermission)\n#SENE #HamiltonMusical #Hamilton #Busan #SeoulMusical",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/zh3X1QgR/c513f57f8a64.jpg",
+        "https://i.ibb.co/KjpCMpdK/3af600988228.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/zh3X1QgR/c513f57f8a64.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-01T11:50+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=90bv_QqNSm0\n구간: 0:00-0:31\n곡: is coming to Busan.\n아티스트: *Hamilton*\n피처링:\n후킹: \n출처: Music of the Night - Korea\n자막: 자동",
+      "caption": "The musical 'Hamilton' makes its Korea debut in Busan this December.\n\nThe video is a 30-second promo spot released ahead of the Korean run. The cast comes from the world tour, and the title role goes to Jason Arrow, who played Hamilton in the Australian premiere and on the first international tour.\n\nThe age limit changed ahead of ticket sales. The producer announced that because of strong language in some scenes, the minimum age has been raised from elementary school students to middle school students.\n\nBusan: Dec 17 (Thu) – Jan 16, 2027 (Sat) · Dream Theatre, Busan\nSeoul: Jan 21 (Thu) – Mar 20, 2027 (Sat) · Sejong Center for the Performing Arts, Grand Theater\nPrices: VIP KRW 220,000 – B KRW 70,000\nTickets: Nov 11 (Wed), Busan 2 p.m. · Seoul 3 p.m. KST (NOL Ticket)\n#SENE #HamiltonMusical #Hamilton #Busan #SeoulMusical"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nミュージカル『ハミルトン』が12月、釜山で韓国初演の幕を開けます。\n\n2015年にブロードウェイで開幕して以来、初めて韓国にやって来る公演で、釜山のドリームシアターで1か月上演したあと、1月にソウルの世宗文化会館（セジョン文化会館）大劇場へ移ります。ハミルトン役は、オーストラリア初演と初のインターナショナル・ツアーで同じ役を務めたジェイソン・アロウです。\n\nチケット発売を前に、ひとつ変わったことがあります。制作会社は、一部の場面に強い言葉の表現があるため、観覧年齢を小学生以上から中学生以上に変更したと告知しました。\n\n釜山：12月17日（木）〜2027年1月16日（土）・ドリームシアター（釜山）\nソウル：2027年1月21日（木）〜3月20日（土）・世宗文化会館 大劇場\n料金：VIP席220,000ウォン・R席180,000ウォン・S席140,000ウォン・A席100,000ウォン・B席70,000ウォン\n予約：11月11日（水）釜山 午後2時・ソウル 午後3時（韓国時間／NOLチケット）\n観覧：中学生以上・170分（休憩20分含む）\n#SENE #ハミルトン #韓国ミュージカル #釜山旅行 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793490697/gm9yevnx1cuvmtyfnwkt.jpg\n제목: 『ハミルトン』韓国初演|12月に釜山で\n부제: 11月11日発売・観覧は中学生以上に\n출처: S&Co\n",
+      "caption": "ミュージカル『ハミルトン』が12月、釜山で韓国初演の幕を開けます。\n\n2015年にブロードウェイで開幕して以来、初めて韓国にやって来る公演で、釜山のドリームシアターで1か月上演したあと、1月にソウルの世宗文化会館（セジョン文化会館）大劇場へ移ります。ハミルトン役は、オーストラリア初演と初のインターナショナル・ツアーで同じ役を務めたジェイソン・アロウです。\n\nチケット発売を前に、ひとつ変わったことがあります。制作会社は、一部の場面に強い言葉の表現があるため、観覧年齢を小学生以上から中学生以上に変更したと告知しました。\n\n釜山：12月17日（木）〜2027年1月16日（土）・ドリームシアター（釜山）\nソウル：2027年1月21日（木）〜3月20日（土）・世宗文化会館 大劇場\n料金：VIP席220,000ウォン・R席180,000ウォン・S席140,000ウォン・A席100,000ウォン・B席70,000ウォン\n予約：11月11日（水）釜山 午後2時・ソウル 午後3時（韓国時間／NOLチケット）\n観覧：中学生以上・170分（休憩20分含む）\n#SENE #ハミルトン #韓国ミュージカル #釜山旅行 #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/0yvNyCxP/3695652cf284.jpg",
+        "https://i.ibb.co/67wvrYZY/4102253ae8ef.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/0yvNyCxP/3695652cf284.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-01T11:50+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=90bv_QqNSm0\n구간: 0:00-0:31\n곡: 釜山にやって来ます。\n아티스트: *ハミルトン*が\n피처링:\n후킹: \n출처: Music of the Night - Korea\n자막: 자동",
+      "caption": "ミュージカル『ハミルトン』が12月、釜山で韓国初演の幕を開けます。\n\n映像は韓国公演を前に公開された30秒の公演スポットです。今回の舞台にはワールドツアーのキャストが立ち、ハミルトン役はオーストラリア初演と初のインターナショナル・ツアーで同じ役を務めたジェイソン・アロウです。\n\nチケット発売を前に、観覧年齢が変わりました。制作会社は、一部の場面に強い言葉の表現があるため、小学生以上から中学生以上に変更したと告知しました。\n\n釜山：12月17日（木）〜2027年1月16日（土）・ドリームシアター（釜山）\nソウル：2027年1月21日（木）〜3月20日（土）・世宗文化会館 大劇場\n料金：VIP席220,000ウォン〜B席70,000ウォン\n予約：11月11日（水）釜山 午後2時・ソウル 午後3時（韓国時間／NOLチケット）\n#SENE #ハミルトン #韓国ミュージカル #釜山旅行 #韓国旅行"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1093,10 +1156,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T11:49+09:00"
+  "at": "2026-11-01T11:50+09:00"
  },
  "queue": {
-  "next": "2026-11-01T11:51+09:00",
+  "next": "2026-11-01T11:52+09:00",
   "n": 0,
   "gap": 20
  },
