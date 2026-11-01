@@ -954,11 +954,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=zRZTB3FdaHw\n구간: 26:57-27:20\n곡: 「人生は苦い」\n아티스트: 残された*キヤ*\n피처링:\n후킹: 二人が散歩に出て、\n출처: KiiiKiii\n자막: 자동",
       "caption": "KiiiKiii（キキ／@kiiikiii.official）のキヤが、食堂にひとり残されました。\n\n10月30日にKiiiKiii公式YouTubeで公開された『キキパンパン（키키팡팡）』EP.27は、恋愛リアリティ番組をパロディにした「母胎ソウルロ地獄（모태소울로지옥）」の第2弾で、最終選択が描かれた回です。メンバー5人がそれぞれキャラクターを演じ、ソウルメイトを選ぶコントになっています。夕食の席で2人が散歩に出かけると、テーブルに残されたキヤが短くひと言こぼします。「人生は苦い」\n\nキヤはこの回でハウムに想いを伝えましたが、最終選択でイソルとスイ、ジユとハウムがペアになり、結局ひとりきりになりました。\n\n公開：毎週金曜 午後7時（韓国時間）・KiiiKiii公式YouTube\n\n#SENE #KiiiKiii #キキ #キヤ #キキパンパン",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-01T11:51+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793501949/sene_studio/e5mqpfz1ghx7kqkqyxfo.mp4",
+       "at": "2026-11-01T11:59+09:00",
+       "file": "Cansaretakiya_RenShenghaKui_KeolCheo_no_lyrics.mp4",
        "sig": "9fee189b8a",
-       "job": 194
+       "v": "a4575566"
       }
      }
     }
@@ -1210,10 +1211,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T11:56+09:00"
+  "at": "2026-11-01T11:59+09:00"
  },
  "queue": {
-  "next": "2026-11-01T11:58+09:00",
+  "next": "2026-11-01T12:01+09:00",
   "n": 0,
   "gap": 20
  },
