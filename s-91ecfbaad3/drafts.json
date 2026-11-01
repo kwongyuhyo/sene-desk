@@ -115,11 +115,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "일요일 고정 연재 — 이번 주 장원영·재민·연준·키키가 공식 행사로 간 서울 네 동네 + 아직 갈 수 있는 송은 전시·SKZ 팝업",
-    "at": "2026-11-01T08:34+09:00"
-   },
    "corner_name": "한 주의 현장",
    "corner_no": 1,
    "i18n_queued": "2026-11-01T08:35+09:00",
@@ -202,6 +197,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "일요일 고정 연재 — 이번 주 장원영·재민·연준·키키가 공식 행사로 간 서울 네 동네 + 아직 갈 수 있는 송은 전시·SKZ 팝업",
+    "at": "2026-11-01T11:46+09:00"
    }
   },
   {
@@ -587,7 +587,13 @@
      "v": "dd93eddc"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "pick": {
+    "rank": 3,
+    "why": "〈해밀턴〉 한국 첫 무대 예매가 11/11 — 저장할 날짜·관람 연령 변경이 있는 소식",
+    "at": "2026-11-01T11:46+09:00"
+   },
+   "i18n_queued": "2026-11-01T11:48+09:00"
   },
   {
    "source": {
@@ -705,6 +711,104 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:moment-1101",
+    "account": "KiiiKiii 공식 유튜브",
+    "url": "https://www.youtube.com/watch?v=zRZTB3FdaHw",
+    "image": null,
+    "head": "[키키팡팡] EP.27 너는 나 선택 안 할 거야? | 모태소울로지옥 #2",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-01T11:46+09:00",
+   "key": "cb9ae8ee",
+   "by": "claude",
+   "subjects": [
+    "키키",
+    "키야"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "〈키키팡팡〉 EP.27 모태소울로지옥 피날레 — 두 사람이 산책을 나가고 식당에 혼자 남은 키야의 \"인생이 쓰다\"",
+    "why": "매일 연재 「오늘의 순간」 — 10/30(금) 19시 키키 공식 채널 공개, 48시간 안의 공식 영상에서 한 사람의 표정이 서는 한 장면"
+   },
+   "added": "claude",
+   "added_at": "2026-11-01T11:46+09:00",
+   "corner": "moment",
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=zRZTB3FdaHw\n구간: 26:57-27:20\n곡: 한마디 \"인생이 쓰다\"\n아티스트: 식당에 남은 *키야*\n피처링:\n후킹: 둘이 산책 나가고\n출처: KiiiKiii\n자막: 자동",
+    "caption": "키키(@kiiikiii.official) 키야가 식당에 혼자 남았습니다.\n\n10월 30일 키키 공식 유튜브에 올라온 〈키키팡팡〉 EP.27은 연애 리얼리티를 패러디한 '모태소울로지옥'의 두 번째 편이자 최종 선택이 담긴 편인데요, 멤버 다섯이 저마다 캐릭터를 맡아 소울메이트를 고르는 콩트입니다. 저녁 자리에서 두 사람이 산책을 나가자, 테이블에 남은 키야가 짧게 한마디를 남깁니다. \"인생이 쓰다.\"\n\n키야는 이 편에서 하음에게 마음을 전했지만, 최종 선택에서 이솔과 수이, 지유와 하음이 짝이 되면서 끝내 혼자 남았습니다.\n\n공개: 매주 금요일 오후 7시 · 키키 공식 유튜브\n\n#SENE #SENE오늘의순간 #키키 #키야 #키키팡팡",
+    "hooks": {
+     "A": "둘이 산책 나가고 / 식당에 남은 *키야* / 한마디 \"인생이 쓰다\"",
+     "B": "인생이 쓰다 / 연프 패러디에서 / 혼자 남은 *키야*",
+     "C": "*키키* 연프 패러디 / 끝까지 남은 키야 / 그리고 한마디"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=zRZTB3FdaHw",
+     "credit": "KiiiKiii",
+     "range": [
+      1617.0,
+      1640.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — KiiiKiii 공식 채널 (26:57-27:20, 23초)",
+     "오늘 아침 「한 주의 현장」에도 키키(락피쉬 포토월)가 한 장 들어가 있음 — 같은 날 두 편이니 올리는 간격만 보세요",
+     "이어지는 소식 — 10-29에 다룬 소재. 새 사실: 10/29 초안은 락피쉬 성수점 포토월 — 이번은 10/30 공개된 키키 자체 예능 〈키키팡팡〉 EP.27 속 키야 한 장면 (다른 일·다른 영상)"
+    ],
+    "research": [
+     {
+      "title": "KiiiKiii 공식 유튜브 — [키키팡팡] EP.27 모태소울로지옥 #2 (27:06 '인생이 쓰다')",
+      "link": "https://www.youtube.com/watch?v=zRZTB3FdaHw"
+     },
+     {
+      "title": "톱스타뉴스 — 키키팡팡 EP.27 10/30 공개, 최종 선택 이솔·수이, 지유·하음 · 키야 '인생이 쓰다'",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16264614"
+     },
+     {
+      "title": "MHN(네이트) — 키야, 일편단심 고백했지만 선택 실패…\"인생이 쓰다\"",
+      "link": "https://m.news.nate.com/view/20261031n06524"
+     },
+     {
+      "title": "전자신문 — 키키팡팡 '모태소울로지옥' 10/23 공개 · 매주 금요일 오후 7시 공식 유튜브",
+      "link": "https://www.etnews.com/20261024000016"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/zRZTB3FdaHw/maxresdefault.jpg",
+    "still": {
+     "url": "https://i.ibb.co/G4yWjJxn/f316368fb54b.jpg",
+     "key": "zRZTB3FdaHw@1617.0"
+    },
+    "px": {
+     "vid": "zRZTB3FdaHw",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793501278/sene_studio/ylg1dtvexndtob5njokb.mp4",
+     "off": 1572.0,
+     "end": 1685.0,
+     "full": 2386.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-01T11:48+09:00"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "숏폼 몫 — 금요일 공개된 키키팡팡 피날레에서 키야가 혼자 남는 23초, 한 사람의 한 순간",
+    "at": "2026-11-01T11:46+09:00"
+   },
+   "corner_name": "오늘의 순간",
+   "corner_no": 1,
+   "i18n_queued": "2026-11-01T11:48+09:00"
   }
  ],
  "skipped": [],
@@ -827,11 +931,11 @@
     "weekly": 7,
     "done": 0,
     "left": 7,
-    "need_today": 1,
+    "need_today": 0,
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "매일 숏폼 하나 — 공식 영상 속 한 사람의 표정·반응·작은 사건 10~30초 (무대·음악 자체는 PLOT)"
    },
    {
@@ -952,10 +1056,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-01T08:56+09:00"
+  "at": "2026-11-01T11:48+09:00"
  },
  "queue": {
-  "next": "2026-11-01T08:58+09:00",
+  "next": "2026-11-01T11:50+09:00",
   "n": 0,
   "gap": 20
  },
