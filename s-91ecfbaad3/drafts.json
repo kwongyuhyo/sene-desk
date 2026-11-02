@@ -104,11 +104,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "캣츠아이 첫 단독 내한 — 예매가 다음 주(11/10~12)라 지금 저장해 둘 일정, 영어권 팔로워에게도 바로 쓸 정보",
-    "at": "2026-11-02T08:26+09:00"
-   },
    "corner_name": "소식",
    "i18n_queued": "2026-11-02T08:26+09:00",
    "i18n": {
@@ -165,6 +160,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "첫 단독 내한 — 11/9 인증·11/10 예매를 앞두고 저장할 정보",
+    "at": "2026-11-02T11:45+09:00"
    }
   },
   {
@@ -410,7 +410,13 @@
      }
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "pick": {
+    "rank": 3,
+    "why": "더현대 크리스마스 빌리지 1차 예약 11/5 — 사흘 앞, 저장각",
+    "at": "2026-11-02T11:45+09:00"
+   },
+   "i18n_queued": "2026-11-02T11:46+09:00"
   },
   {
    "source": {
@@ -555,6 +561,104 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:momo-miumiu-holiday",
+    "account": "Miu Miu YouTube",
+    "url": "https://www.youtube.com/watch?v=EH2_u9W5x5c",
+    "image": null,
+    "head": "Miu Miu Holiday 2026 Campaign (미우미우 공식 채널)",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-02T11:45+09:00",
+   "key": "e6101bab",
+   "by": "claude",
+   "subjects": [
+    "트와이스 모모",
+    "미우미우"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "앰배서더 모모가 처음 선 미우미우 홀리데이 캠페인 — 브랜드 공식 필름 속 모모만, 말 없이",
+    "why": "케이팝 연결 0/4 — 오늘 첫 케이팝 릴스 · 10/26 공개된 캠페인, 모모의 첫 홀리데이 캠페인 (패션스냅·WWD재팬)"
+   },
+   "added": "claude",
+   "added_at": "2026-11-02T11:45+09:00",
+   "corner": "moment",
+   "shorts": {
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=EH2_u9W5x5c\n구간: 0:00-0:18\n곡: 미우미우 홀리데이\n아티스트: *모모*,\n피처링:\n후킹: \n출처: Miu Miu\n자막: 끔",
+    "caption": "트와이스 모모가 미우미우 홀리데이 캠페인에 처음 섰습니다.\n\n미우미우가 10월 말 공개한 2026 홀리데이 캠페인인데요, 앰배서더 모모가 지지 하디드, 샤오원 쥐 등과 함께 이름을 올렸습니다. 사진은 티나 바니가 찍었고, 함께 공개된 짧은 필름은 에밀리 블릭펠트가 연출했습니다.\n\n무대는 연말 장식으로 꾸민 타운하우스입니다. 업사이클드 니트와 자수 실크 드레스, 보이시한 테일러링에 모자와 머플러, 장갑 같은 계절 소품이 더해졌습니다.\n\n영상: 미우미우 공식 채널 〈Miu Miu Holiday 2026 Campaign〉\n#SENE #모모 #트와이스 #미우미우 #미우미우홀리데이",
+    "hooks": {
+     "A": "*모모*, / 미우미우 홀리데이",
+     "B": "*모모*의 첫 / 미우미우 홀리데이",
+     "C": "타운하우스 속 / *모모*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=EH2_u9W5x5c",
+     "credit": "Miu Miu",
+     "range": [
+      0.0,
+      18.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 공식 영상에 자막·말이 없어 0:00-0:18 구간에 모모가 나오는지 확인 못 함 — 미리보기에서 모모 구간인지 꼭 확인",
+     "클립 위험: 낮음 — Miu Miu 공식 채널",
+     "구간(0:00-0:18)은 캡처가 안 떠 눈으로 못 봤다 — 미리보기에서 첫 1초에 모모가 또렷한지 확인, 아니면 모모 구간으로 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "Miu Miu Holiday 2026 Campaign — Miu Miu 공식 유튜브",
+      "link": "https://www.youtube.com/watch?v=EH2_u9W5x5c"
+     },
+     {
+      "title": "패션스냅 — 미우미우 2026 홀리데이 캠페인, 모모 첫 홀리데이 캠페인",
+      "link": "https://www.fashionsnap.com/article/2026-10-26/miumiu-2026-holiday-campaign/"
+     },
+     {
+      "title": "WWD재팬 — 미우미우 2026 홀리데이 광고, 앰배서더 모모 첫 등장",
+      "link": "https://www.wwdjapan.com/?p=2537264"
+     },
+     {
+      "title": "Hypebae — Miu Miu Holiday campaign (Gigi Hadid, Momo, XiaoWen Ju)",
+      "link": "https://hypebae.com/2026/10/miu-miu-holiday-campaign-festive-season-gigi-hadid-momo-xiaowen-ju-information"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/EH2_u9W5x5c/maxresdefault.jpg",
+    "still": {
+     "url": "https://i.ibb.co/84dt7v0f/29dd89c2df33.jpg",
+     "key": "EH2_u9W5x5c@0.0"
+    },
+    "px": {
+     "vid": "EH2_u9W5x5c",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793587571/sene_studio/qlkiymsbpgtdpcdx9aec.mp4",
+     "off": 0.0,
+     "end": 63.0,
+     "full": 73.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-02T11:46+09:00"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 유일한 케이팝 릴스 — 모모의 첫 미우미우 홀리데이 캠페인, 말 없는 공식 필름",
+    "at": "2026-11-02T11:45+09:00"
+   },
+   "corner_name": "오늘의 순간",
+   "corner_no": 1,
+   "i18n_queued": "2026-11-02T11:46+09:00"
   }
  ],
  "skipped": [],
@@ -677,11 +781,11 @@
     "weekly": 7,
     "done": 0,
     "left": 7,
-    "need_today": 1,
+    "need_today": 0,
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "매일 숏폼 하나 — 공식 영상 속 한 사람의 표정·반응·작은 사건 10~30초 (무대·음악 자체는 PLOT)"
    },
    {
@@ -802,10 +906,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-02T08:52+09:00"
+  "at": "2026-11-02T11:46+09:00"
  },
  "queue": {
-  "next": "2026-11-02T08:55+09:00",
+  "next": "2026-11-02T11:48+09:00",
   "n": 0,
   "gap": 20
  },
