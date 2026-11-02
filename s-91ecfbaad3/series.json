@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "at": "2026-11-02T11:50+09:00",
+ "at": "2026-11-02T17:42+09:00",
  "items": [
   {
    "key": "moment",
@@ -13,7 +13,7 @@
    "next_no": 1,
    "due": true,
    "chips": [
-    "라이즈 · #VogueView 며칠 동안 서울을 방문한 비버 부부의 근황을 지켜보는 재미가 쏠"
+    "장원영 · 불가리 기사 · [IS포토] , '러블리하게 입장~' 기사 · [IS포토] 비와이,"
    ]
   },
   {
@@ -25,8 +25,10 @@
    "tag": "#SENE그룩얼마",
    "done": 0,
    "next_no": 1,
-   "due": false,
-   "chips": []
+   "due": true,
+   "chips": [
+    "장원영 · 불가리 기사 · [IS포토] , '러블리하게 입장~' 기사 · [IS포토] 비와이,"
+   ]
   },
   {
    "key": "mvspot",
@@ -87,7 +89,8 @@
    "next_no": 1,
    "due": false,
    "chips": [
-    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)"
+    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)",
+    "아일릿 · BREAK EVEN 발매 기념 팝업 (11:00~23:00 · 현장 앨범 구매  (10-27)"
    ]
   },
   {
@@ -101,8 +104,9 @@
    "next_no": 1,
    "due": false,
    "chips": [
-    "라이즈 · #VogueView 며칠 동안 서울을 방문한 비버 부부의 근황을 지켜보는 재미가 쏠",
-    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)"
+    "장원영 · 불가리 기사 · [IS포토] , '러블리하게 입장~' 기사 · [IS포토] 비와이,",
+    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)",
+    "아일릿 · BREAK EVEN 발매 기념 팝업 (11:00~23:00 · 현장 앨범 구매  (10-27)"
    ]
   },
   {
@@ -116,7 +120,8 @@
    "next_no": 1,
    "due": false,
    "chips": [
-    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)"
+    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)",
+    "아일릿 · BREAK EVEN 발매 기념 팝업 (11:00~23:00 · 현장 앨범 구매  (10-27)"
    ]
   },
   {
