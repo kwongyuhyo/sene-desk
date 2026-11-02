@@ -140,11 +140,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: 凍りついた街\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
       "caption": "aespaのカリナが、凍りついた街の真ん中に立っています。\n\nMLB（@mlbkorea）が10月26日に公開した2026 F/Wウィンターキャンペーン「KARINA IN THE WINTER CITY」のフィルムです。原因不明の異常寒波で街が凍りついたという設定です。ブランドは、カリナのさまざまなスタイリングを収めた追加コンテンツも公開する予定だとしています。\n\nビジュアルのダウンジャケットは曲線シルエットの「カーブエアシェル（커브 에어 쉘）」ラインで、「バニービーニー（버니 비니）」と「プラッシュミヤオンビーニー（플러시 미야옹 비니）」がコーディネートされています。\n\n映像：MLB KOREA公式チャンネル\n#SENE #カリナ #aespa #MLB #韓国ファッション",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-03T08:26+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793662125/sene_studio/kvlnvi9z5qjgstwivmsa.mp4",
+       "at": "2026-11-03T08:28+09:00",
+       "file": "karina_DongritsuitaJie_PaeSyeon_no_lyrics.mp4",
        "sig": "c0607689d2",
-       "job": 200
+       "v": "6a5178ab"
       }
      }
     }
@@ -396,10 +397,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T08:27+09:00"
+  "at": "2026-11-03T08:28+09:00"
  },
  "queue": {
-  "next": "2026-11-03T08:29+09:00",
+  "next": "2026-11-03T08:30+09:00",
   "n": 0,
   "gap": 20
  },
