@@ -87,9 +87,11 @@
      "end": 28.0,
      "full": 28.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-03T08:25+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793661982/sene_studio/lv3va4oazap5ko0ektpe.mp4",
+     "at": "2026-11-03T08:26+09:00",
+     "file": "KaLiNa_EolEoButEun_DoSi_PaeSyeon_no_lyrics.mp4",
+     "v": "1152fdf5"
     }
    },
    "pick": {
@@ -99,7 +101,41 @@
    },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
-   "i18n_queued": "2026-11-03T08:25+09:00"
+   "i18n_queued": "2026-11-03T08:25+09:00",
+   "i18n": {
+    "at": "2026-11-03T08:26+09:00",
+    "confirm": [
+     "제품 영문·일문 공식 표기 미확인: '커브 에어 쉘'은 'Curve Air Shell'로 로마자 표기했고, '버니 비니'는 'Bunny Beanie'로 옮겼습니다. '플러시 미야옹 비니'는 KREAM 영문 표기 'Plush Meowing Beanie'를 따랐습니다 (MLB 공식 영문 표기 아님). 일본어는 カタカナ + 원어 괄호로 적었습니다.",
+     "캠페인 공개일(10월 26일)과 설정·추가 콘텐츠 예정 내용은 원문 그대로 옮겼으며 따로 다시 확인하지 않았습니다.",
+     "곡 칸 '얼어붙은 도시'는 노래 제목이 아니라 장면 설명으로 보여 'A Frozen City' / 「凍りついた街」로 옮겼습니다. 공식 곡명이 있다면 바꿔야 합니다.",
+     "'Plush Meowing Beanie' 는 KREAM 상품명으로 영어 표기를 확인함 (https://kream.co.kr/brands/MLB). 'Curve Air Shell'·'Bunny Beanie' 의 공식 영어 표기는 검색으로 확인하지 못함 — MLB 공식몰 상품명과 맞춰 볼 것",
+     "일본어 · 제품명 뒤 괄호 속 한글 원어(커브 에어 쉘 등)는 번역 규칙대로 남겼지만, 일본 독자 피드에서 한글이 세 번 나와 무거움 — 빼도 될지 판단 필요"
+    ],
+    "review": {
+     "at": "2026-11-03T08:26+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 · \"MLB (@mlbkorea)'s 2026 F/W winter campaign\" → \"the 2026 F/W winter campaign MLB (@mlbkorea) released\" — 핸들 괄호 뒤 소유격 's 가 어색함",
+      "영어 · 숏폼 캡션 · \"featuring a range of Karina's styling\" → \"showing Karina in a range of styles\" — 직역투",
+      "일본어 · 숏폼 캡션 · 「が合わせられています」 → 「がコーディネートされています」 — 수동형이 부자연스러움"
+     ],
+     "doubt": [
+      "'Plush Meowing Beanie' 는 KREAM 상품명으로 영어 표기를 확인함 (https://kream.co.kr/brands/MLB). 'Curve Air Shell'·'Bunny Beanie' 의 공식 영어 표기는 검색으로 확인하지 못함 — MLB 공식몰 상품명과 맞춰 볼 것",
+      "일본어 · 제품명 뒤 괄호 속 한글 원어(커브 에어 쉘 등)는 번역 규칙대로 남겼지만, 일본 독자 피드에서 한글이 세 번 나와 무거움 — 빼도 될지 판단 필요"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: A Frozen City\n아티스트: *Karina*,\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
+      "caption": "aespa's Karina stands in the middle of a frozen city.\n\nThe film is from 'KARINA IN THE WINTER CITY,' the 2026 F/W winter campaign MLB (@mlbkorea) released on Oct 26. The premise is a city frozen over by an unexplained cold snap. The brand says it will also release more content showing Karina in a range of styles.\n\nThe padded jackets in the campaign are from the 'Curve Air Shell' line, which has a curved silhouette. They are worn with the 'Bunny Beanie' and the 'Plush Meowing Beanie.'\n\nVideo: MLB Korea official channel\n#SENE #Karina #aespa #MLB #KoreanFashion"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: 凍りついた街\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
+      "caption": "aespaのカリナが、凍りついた街の真ん中に立っています。\n\nMLB（@mlbkorea）が10月26日に公開した2026 F/Wウィンターキャンペーン「KARINA IN THE WINTER CITY」のフィルムです。原因不明の異常寒波で街が凍りついたという設定です。ブランドは、カリナのさまざまなスタイリングを収めた追加コンテンツも公開する予定だとしています。\n\nビジュアルのダウンジャケットは曲線シルエットの「カーブエアシェル（커브 에어 쉘）」ラインで、「バニービーニー（버니 비니）」と「プラッシュミヤオンビーニー（플러시 미야옹 비니）」がコーディネートされています。\n\n映像：MLB KOREA公式チャンネル\n#SENE #カリナ #aespa #MLB #韓国ファッション"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -347,10 +383,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T08:25+09:00"
+  "at": "2026-11-03T08:26+09:00"
  },
  "queue": {
-  "next": "2026-11-03T08:27+09:00",
+  "next": "2026-11-03T08:28+09:00",
   "n": 0,
   "gap": 20
  },
