@@ -720,7 +720,37 @@
    },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
-   "i18n_queued": "2026-11-02T11:46+09:00"
+   "i18n_queued": "2026-11-02T11:46+09:00",
+   "i18n": {
+    "at": "2026-11-02T11:48+09:00",
+    "confirm": [
+     "MOMO 일본어 표기: 일본 매체에서 흔히 쓰는 'MOMO'(대문자)로 적었습니다. 계정 표기 원칙이 'モモ'라면 바꿔 주세요.",
+     "XiaoWen Ju: 매체마다 'Xiao Wen Ju'와 'XiaoWen Ju'를 섞어 씁니다. 영어는 'Xiao Wen Ju', 일본어는 'シャオ・ウェン・ジュ'로 적었습니다.",
+     "Emilie Blichfeldt 일본어 표기(エミリー・ブリックフェルト)는 공식 일본어 표기를 확인하지 못해 カタカナ로 옮겼습니다.",
+     "모모의 미우미우 홀리데이 캠페인 '첫 출연' 여부와 참여 인물(지지 하디드·샤오원 쥐·티나 바니·에밀리 블릭펠트)은 원문을 그대로 따랐습니다. 검수 단계에서 웹으로 다시 확인하지는 않았으니, 올리기 전에 미우미우 공식 발표와 한 번 대조해 주세요."
+    ],
+    "review": {
+     "at": "2026-11-02T11:48+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 셋째 단락 · come with seasonal accessories → are paired with seasonal accessories — 연어가 어색함(옷이 소품과 '함께 온다'로 읽힘)"
+     ],
+     "doubt": [
+      "모모의 미우미우 홀리데이 캠페인 '첫 출연' 여부와 참여 인물(지지 하디드·샤오원 쥐·티나 바니·에밀리 블릭펠트)은 원문을 그대로 따랐습니다. 검수 단계에서 웹으로 다시 확인하지는 않았으니, 올리기 전에 미우미우 공식 발표와 한 번 대조해 주세요."
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=EH2_u9W5x5c\n구간: 0:00-0:18\n곡: Miu Miu Holiday\n아티스트: *Momo*,\n피처링:\n후킹: \n출처: Miu Miu\n자막: 끔",
+      "caption": "TWICE's Momo appears in a Miu Miu holiday campaign for the first time.\n\nMiu Miu released its Holiday 2026 campaign in late October. Momo, a Miu Miu ambassador, appears alongside Gigi Hadid, Xiao Wen Ju and others. Tina Barney shot the photographs, and Emilie Blichfeldt directed the short film released with them.\n\nThe setting is a townhouse decorated for the holidays. Upcycled knitwear, embroidered silk dresses and boyish tailoring are paired with seasonal accessories such as hats, scarves and gloves.\n\nVideo: Miu Miu official channel, 'Miu Miu Holiday 2026 Campaign'\n#SENE #Momo #TWICE #MiuMiu #MiuMiuHoliday"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=EH2_u9W5x5c\n구간: 0:00-0:18\n곡: ミュウミュウ ホリデー\n아티스트: *MOMO*、\n피처링:\n후킹: \n출처: Miu Miu\n자막: 끔",
+      "caption": "TWICEのMOMOが、ミュウミュウのホリデーキャンペーンに初めて登場しました。\n\nミュウミュウが10月末に公開した2026年ホリデーキャンペーンで、アンバサダーのMOMOがジジ・ハディッド、シャオ・ウェン・ジュらとともに名を連ねています。写真はティナ・バーニーが撮影し、あわせて公開されたショートフィルムはエミリー・ブリックフェルトが監督しました。\n\n舞台は年末の飾りつけをしたタウンハウスです。アップサイクルのニットや刺繍入りのシルクドレス、ボーイッシュなテーラリングに、帽子やマフラー、手袋といった季節の小物が合わせられています。\n\n映像：ミュウミュウ公式チャンネル『Miu Miu Holiday 2026 Campaign』\n#SENE #MOMO #TWICE #ミュウミュウ #ミュウミュウホリデー"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -968,10 +998,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-02T11:47+09:00"
+  "at": "2026-11-02T11:48+09:00"
  },
  "queue": {
-  "next": "2026-11-02T11:49+09:00",
+  "next": "2026-11-02T11:50+09:00",
   "n": 0,
   "gap": 20
  },
