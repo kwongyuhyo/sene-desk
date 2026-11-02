@@ -406,7 +406,9 @@
      "v": {
       "A": "ce4440fa",
       "B": "ab6cf139",
-      "C": "3eed02dc"
+      "C": "3eed02dc",
+      "E": "54a77117",
+      "J": "f59afae7"
      }
     }
    },
@@ -416,7 +418,65 @@
     "why": "더현대 크리스마스 빌리지 1차 예약 11/5 — 사흘 앞, 저장각",
     "at": "2026-11-02T11:45+09:00"
    },
-   "i18n_queued": "2026-11-02T11:46+09:00"
+   "i18n_queued": "2026-11-02T11:46+09:00",
+   "i18n": {
+    "at": "2026-11-02T11:47+09:00",
+    "confirm": [
+     "'더현대 하이' 공식 영어·일본어 표기를 찾지 못해 영어는 'The Hyundai Hi', 일본어는 'ザ・現代ハイ'(원어 병기)로 옮겼습니다. 앱·몰의 실제 표기를 확인해 주세요.",
+     "'사운즈 포레스트'는 영어 'Sounds Forest', 일본어 'サウンズフォレスト'로 썼습니다. 일본 매체 중에는 'サウンド・フォレスト'로 쓴 곳도 있습니다.",
+     "Creatrip 중국어판은 '크리스마스 인 뉴욕 시티'를 더현대 서울이 아니라 현대백화점 무역센터점(코엑스) 행사로, 10월 27일 개장이라고 적었습니다. 국내 보도는 더현대 서울로 전합니다. 행사 장소를 공식 발표로 한 번 더 확인해 주세요.",
+     "11월 5일은 목요일, 11월 10일은 화요일이 맞습니다(2026년 기준).",
+     "1차 예약이 '이번 주 목요일'이라는 표현은 11월 2일~5일 사이에 올릴 때만 맞습니다.",
+     "일본어 · 더현대 서울 표기 · 일본 매체에서 「ザ・現代ソウル」 와 「ザ・ヒョンデ ソウル」 가 함께 쓰여 공식 일본어 표기를 확인하지 못함 — 올리기 전 확인 필요 (해시태그 #ザ現代ソウル 도 같이)",
+     "공통 · 'this Thursday / 今週木曜日' 은 11월 2일(월) 기준 — 게시일이 11월 5일 이후로 밀리면 표현을 고쳐야 함"
+    ],
+    "review": {
+     "at": "2026-11-02T11:47+09:00",
+     "fixes": [
+      "영어 · 캡션 첫 문장 · 'Advance reservations … open this Thursday, in the first round.' → 'The first round of advance reservations … opens this Thursday.' — 끝에 덧붙은 'in the first round' 가 직역투",
+      "일본어 · 캡션 첫 문장 · 1次事前予約 → 第1弾事前予約 — 일본어로는 '1次' 보다 '第1弾' 이 자연스러운 표현",
+      "일본어 · 실용 정보 · 1次予約： → 第1弾予約： — 위와 같은 이유로 맞춤"
+     ],
+     "doubt": [
+      "일본어 · 더현대 서울 표기 · 일본 매체에서 「ザ・現代ソウル」 와 「ザ・ヒョンデ ソウル」 가 함께 쓰여 공식 일본어 표기를 확인하지 못함 — 올리기 전 확인 필요 (해시태그 #ザ現代ソウル 도 같이)",
+      "공통 · 'this Thursday / 今週木曜日' 은 11월 2일(월) 기준 — 게시일이 11월 5일 이후로 밀리면 표현을 고쳐야 함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nThe first round of advance reservations for The Hyundai Seoul (@thehyundai_seoul) Christmas Village opens this Thursday.\n\nThis year's theme is 'Christmas in New York City.' According to Hyundai Department Store, Sounds Forest on the fifth floor has been turned into a New York street from the 1980s and '90s. The set includes 13 red-brick buildings up to 10 meters tall, large billboards and yellow taxis. Along the street runs a story about a bear cub named 'Harry' and a group of cats delivering gifts.\n\nReservations are taken through the store's online mall, The Hyundai Hi. Visitors can also join the on-site waitlist by scanning QR codes placed on floors 2 to 4.\n\nDates: Opens Tue, Nov 10\nFirst-round reservations: Thu, Nov 5, 11 AM, via The Hyundai Hi\nLocation: Sounds Forest, 5F, The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu (Yeouido), Seoul\nOn-site waitlist: QR codes on floors 2–4\n#SENE #TheHyundaiSeoul #SeoulChristmas #Yeouido #ChristmasVillage\n\n[커버]\n소스: https://i.ibb.co/JwqNSzrZ/d658e214e898.jpg\n제목: The Hyundai Christmas|Bookings Open Nov 5, 11 AM\n부제: This year's theme: 'Christmas in New York City'\n출처: @thehyundai_seoul\n",
+      "caption": "The first round of advance reservations for The Hyundai Seoul (@thehyundai_seoul) Christmas Village opens this Thursday.\n\nThis year's theme is 'Christmas in New York City.' According to Hyundai Department Store, Sounds Forest on the fifth floor has been turned into a New York street from the 1980s and '90s. The set includes 13 red-brick buildings up to 10 meters tall, large billboards and yellow taxis. Along the street runs a story about a bear cub named 'Harry' and a group of cats delivering gifts.\n\nReservations are taken through the store's online mall, The Hyundai Hi. Visitors can also join the on-site waitlist by scanning QR codes placed on floors 2 to 4.\n\nDates: Opens Tue, Nov 10\nFirst-round reservations: Thu, Nov 5, 11 AM, via The Hyundai Hi\nLocation: Sounds Forest, 5F, The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu (Yeouido), Seoul\nOn-site waitlist: QR codes on floors 2–4\n#SENE #TheHyundaiSeoul #SeoulChristmas #Yeouido #ChristmasVillage",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/cd4bp9y/1975294ed148.jpg",
+        "https://i.ibb.co/s928WTSp/7fc23eb1a264.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/cd4bp9y/1975294ed148.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-02T11:47+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nザ・現代ソウル（더현대 서울・@thehyundai_seoul）のクリスマスビレッジの第1弾事前予約が、今週木曜日に始まります。\n\n今年のテーマは『クリスマス・イン・ニューヨーク・シティ』です。現代百貨店によると、5階のサウンズフォレスト（사운즈 포레스트）に1980〜90年代のニューヨークの街並みを再現したとのことです。高さ最大10mの赤レンガの建物13棟に加えて大型看板や黄色いタクシーが置かれ、子グマの「ハリー」と猫たちがプレゼントを届けるストーリーが通りに沿って展開されます。\n\n予約はオンラインモール「ザ・現代ハイ（더현대 하이）」で受け付けています。現地では2〜4階に設置されたQRコードから順番待ちの登録ができます。\n\n期間：11月10日（火）オープン\n第1弾予約：11月5日（木）午前11時、ザ・現代ハイにて\n場所：ソウル・汝矣島（ヨイド）　ソウル特別市永登浦区汝矣大路108 ザ・現代ソウル5階 サウンズフォレスト\n現地での順番待ち：2〜4階のQRコード\n#SENE #ザ現代ソウル #韓国旅行 #汝矣島 #ソウルクリスマス\n\n[커버]\n소스: https://i.ibb.co/JwqNSzrZ/d658e214e898.jpg\n제목: ザ・現代クリスマス|5日午前11時に予約開始\n부제: テーマは『クリスマス・イン・ニューヨーク・シティ』\n출처: @thehyundai_seoul\n",
+      "caption": "ザ・現代ソウル（더현대 서울・@thehyundai_seoul）のクリスマスビレッジの第1弾事前予約が、今週木曜日に始まります。\n\n今年のテーマは『クリスマス・イン・ニューヨーク・シティ』です。現代百貨店によると、5階のサウンズフォレスト（사운즈 포레스트）に1980〜90年代のニューヨークの街並みを再現したとのことです。高さ最大10mの赤レンガの建物13棟に加えて大型看板や黄色いタクシーが置かれ、子グマの「ハリー」と猫たちがプレゼントを届けるストーリーが通りに沿って展開されます。\n\n予約はオンラインモール「ザ・現代ハイ（더현대 하이）」で受け付けています。現地では2〜4階に設置されたQRコードから順番待ちの登録ができます。\n\n期間：11月10日（火）オープン\n第1弾予約：11月5日（木）午前11時、ザ・現代ハイにて\n場所：ソウル・汝矣島（ヨイド）　ソウル特別市永登浦区汝矣大路108 ザ・現代ソウル5階 サウンズフォレスト\n現地での順番待ち：2〜4階のQRコード\n#SENE #ザ現代ソウル #韓国旅行 #汝矣島 #ソウルクリスマス",
+      "preview": {
+       "slides": [
+        "https://i.ibb.co/Mx9T22LB/92d94caec54c.jpg",
+        "https://i.ibb.co/pY1ZT7v/b5f08cd12899.jpg"
+       ],
+       "covers": {
+        "A": "https://i.ibb.co/Mx9T22LB/92d94caec54c.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-02T11:47+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -646,9 +706,11 @@
      "end": 63.0,
      "full": 73.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-02T11:46+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793587635/sene_studio/z1uumu6ptjsqw0ssiuvx.mp4",
+     "at": "2026-11-02T11:47+09:00",
+     "file": "MoMo_MiUMiU_HolLiDeI_PaeSyeon_no_lyrics.mp4",
+     "v": "e30dac41"
     }
    },
    "pick": {
@@ -906,10 +968,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-02T11:46+09:00"
+  "at": "2026-11-02T11:47+09:00"
  },
  "queue": {
-  "next": "2026-11-02T11:48+09:00",
+  "next": "2026-11-02T11:49+09:00",
   "n": 0,
   "gap": 20
  },
