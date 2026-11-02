@@ -126,13 +126,26 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: A Frozen City\n아티스트: *Karina*,\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
-      "caption": "aespa's Karina stands in the middle of a frozen city.\n\nThe film is from 'KARINA IN THE WINTER CITY,' the 2026 F/W winter campaign MLB (@mlbkorea) released on Oct 26. The premise is a city frozen over by an unexplained cold snap. The brand says it will also release more content showing Karina in a range of styles.\n\nThe padded jackets in the campaign are from the 'Curve Air Shell' line, which has a curved silhouette. They are worn with the 'Bunny Beanie' and the 'Plush Meowing Beanie.'\n\nVideo: MLB Korea official channel\n#SENE #Karina #aespa #MLB #KoreanFashion"
+      "caption": "aespa's Karina stands in the middle of a frozen city.\n\nThe film is from 'KARINA IN THE WINTER CITY,' the 2026 F/W winter campaign MLB (@mlbkorea) released on Oct 26. The premise is a city frozen over by an unexplained cold snap. The brand says it will also release more content showing Karina in a range of styles.\n\nThe padded jackets in the campaign are from the 'Curve Air Shell' line, which has a curved silhouette. They are worn with the 'Bunny Beanie' and the 'Plush Meowing Beanie.'\n\nVideo: MLB Korea official channel\n#SENE #Karina #aespa #MLB #KoreanFashion",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793662065/sene_studio/b1f2jygrwnqywquslyb5.mp4",
+       "at": "2026-11-03T08:27+09:00",
+       "file": "Karina_A_Frozen_City_PaeSyeon_no_lyrics.mp4",
+       "sig": "ea2a3c96f8",
+       "v": "6b45613b"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: 凍りついた街\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
-      "caption": "aespaのカリナが、凍りついた街の真ん中に立っています。\n\nMLB（@mlbkorea）が10月26日に公開した2026 F/Wウィンターキャンペーン「KARINA IN THE WINTER CITY」のフィルムです。原因不明の異常寒波で街が凍りついたという設定です。ブランドは、カリナのさまざまなスタイリングを収めた追加コンテンツも公開する予定だとしています。\n\nビジュアルのダウンジャケットは曲線シルエットの「カーブエアシェル（커브 에어 쉘）」ラインで、「バニービーニー（버니 비니）」と「プラッシュミヤオンビーニー（플러시 미야옹 비니）」がコーディネートされています。\n\n映像：MLB KOREA公式チャンネル\n#SENE #カリナ #aespa #MLB #韓国ファッション"
+      "caption": "aespaのカリナが、凍りついた街の真ん中に立っています。\n\nMLB（@mlbkorea）が10月26日に公開した2026 F/Wウィンターキャンペーン「KARINA IN THE WINTER CITY」のフィルムです。原因不明の異常寒波で街が凍りついたという設定です。ブランドは、カリナのさまざまなスタイリングを収めた追加コンテンツも公開する予定だとしています。\n\nビジュアルのダウンジャケットは曲線シルエットの「カーブエアシェル（커브 에어 쉘）」ラインで、「バニービーニー（버니 비니）」と「プラッシュミヤオンビーニー（플러시 미야옹 비니）」がコーディネートされています。\n\n映像：MLB KOREA公式チャンネル\n#SENE #カリナ #aespa #MLB #韓国ファッション",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-03T08:26+09:00",
+       "sig": "c0607689d2",
+       "job": 200
+      }
      }
     }
    }
@@ -383,10 +396,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T08:26+09:00"
+  "at": "2026-11-03T08:27+09:00"
  },
  "queue": {
-  "next": "2026-11-03T08:28+09:00",
+  "next": "2026-11-03T08:29+09:00",
   "n": 0,
   "gap": 20
  },
