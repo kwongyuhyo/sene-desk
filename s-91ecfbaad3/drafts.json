@@ -263,11 +263,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=4lA9n7ejDi4\n구간: 1:04-1:20\n곡: PUBGの世界へ\n아티스트: *IVE*、\n피처링:\n후킹: \n출처: PUBG: BATTLEGROUNDS\n자막: 끔",
       "caption": "IVE（アイヴ・@ivestarship）が『PUBG: BATTLEGROUNDS』に登場しました。\n\nPUBGが11月1日に公開したIVEコラボのトレーラーで、メンバーたちが「LOVE DIVE」当時のコンセプトと衣装を再びまとって登場します。コラボコンテンツは今日PCで、11月12日にコンソールで実装されます。\n\n11月19日から22日まで、釜山・BEXCO（ベクスコ）で開かれるG-STAR 2026のPUBGブースには、ゲームの中の「IVE邸宅」が実際の空間として登場します。\n\n映像：PUBG: BATTLEGROUNDS 公式チャンネル\n#SENE #IVE #アイヴ #PUBG #GSTAR2026 #釜山",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-04T08:32+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793748893/sene_studio/rymiccbefyhi3bkmslty.mp4",
+       "at": "2026-11-04T08:34+09:00",
+       "file": "IVE_PUBGnoShiJiehe_TeuLenDeu_no_lyrics.mp4",
        "sig": "f1c2bb212f",
-       "job": 206
+       "v": "2fe72499"
       }
      }
     }
@@ -519,10 +520,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T08:33+09:00"
+  "at": "2026-11-04T08:34+09:00"
  },
  "queue": {
-  "next": "2026-11-04T08:35+09:00",
+  "next": "2026-11-04T08:36+09:00",
   "n": 0,
   "gap": 20
  },
