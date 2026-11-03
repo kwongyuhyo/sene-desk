@@ -595,9 +595,11 @@
      "end": 62.0,
      "full": 66.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-03T09:10+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793664693/sene_studio/krjupixcjr4ntiswroqw.mp4",
+     "at": "2026-11-03T09:11+09:00",
+     "file": "SeuTeuLeI_KiJeuGa_NaNuNeun_PpaePpaeLo_TeuLenDeu_no_lyrics.mp4",
+     "v": "04085c8e"
     }
    },
    "corner_name": "정리",
@@ -849,10 +851,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T09:10+09:00"
+  "at": "2026-11-03T09:11+09:00"
  },
  "queue": {
-  "next": "2026-11-03T09:12+09:00",
+  "next": "2026-11-03T09:13+09:00",
   "n": 0,
   "gap": 20
  },
