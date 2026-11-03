@@ -780,11 +780,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: 分け合う*ペペロ*\n아티스트: Stray Kidsが\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
       "caption": "ロッテウェルフードがStray Kids（@realstraykids）と撮影した、2026年ペペロデーのデジタルフィルムです。\n\nメンバーが韓国でペペロを分け合い、楽しむ様子を収めた映像です。ロッテウェルフードはStray Kidsをグローバルアンバサダーに起用し、アメリカ・ニューヨークのタイムズスクエアに4年連続でペペロの屋外広告を掲出しました。\n\n韓国国内では、Stray Kids・サンリオキャラクターズ・ガナディ（가나디）とつくったシーズンパッケージ10種が登場しました。インスタグラムにペペロの写真・動画を投稿する「PLAY WITH PEPERO」イベントも開催されています。抽選で計111人が選ばれ、賞品にはStray Kids「MEET & GREET」の招待券が含まれます。\n\nペペロデー：11月11日（水）\n\n#SENE #ペペロデー #ペペロ #StrayKids #韓国旅行",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-03T11:44+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793674006/sene_studio/gsdbloakkljkuqgi6wkg.mp4",
+       "at": "2026-11-03T11:46+09:00",
+       "file": "Stray_Kidsga_FenkeHeupepero_TeuLenDeu_no_lyrics.mp4",
        "sig": "5c1a36cba5",
-       "job": 203
+       "v": "b9f3a8be"
       }
      }
     }
