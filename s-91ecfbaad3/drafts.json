@@ -670,6 +670,12 @@
      "at": "2026-11-03T09:11+09:00",
      "file": "SeuTeuLeI_KiJeuGa_NaNuNeun_PpaePpaeLo_TeuLenDeu_no_lyrics.mp4",
      "v": "04085c8e"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfSaSYDk81Y/",
+     "at": "2026-11-04T02:24+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "corner_name": "정리",
@@ -1007,7 +1013,7 @@
  "skipped": [],
  "corners": {
   "week": "11/02~11/08",
-  "days_left": 6,
+  "days_left": 5,
   "done": 0,
   "goal": 39,
   "corners": [
@@ -1249,10 +1255,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T17:48+09:00"
+  "at": "2026-11-04T02:24+09:00"
  },
  "queue": {
-  "next": "2026-11-03T17:50+09:00",
+  "next": "2026-11-04T08:00+09:00",
   "n": 0,
   "gap": 20
  },
