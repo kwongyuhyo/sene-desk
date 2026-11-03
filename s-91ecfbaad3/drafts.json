@@ -263,7 +263,9 @@
      "v": {
       "A": "f5134288",
       "B": "23be5d6d",
-      "C": "20fee5be"
+      "C": "20fee5be",
+      "E": "fc9e4a0c",
+      "J": "4a506c0f"
      }
     }
    },
@@ -274,7 +276,72 @@
     "why": "쓱데이 막판 엿새 날짜순 정리 — 지금 바로 쓸 정보",
     "at": "2026-11-03T11:42+09:00"
    },
-   "i18n_queued": "2026-11-03T11:42+09:00"
+   "i18n_queued": "2026-11-03T11:42+09:00",
+   "i18n": {
+    "at": "2026-11-03T11:46+09:00",
+    "confirm": [
+     "'콘초'의 공식 영어·일본어 표기를 확인하지 못해 영어는 'Concho', 일본어는 'コンチョ'로 소리 나는 대로 적었습니다. '죠리퐁'은 'Jolly Pong' · 'ジョリポン'으로 적었습니다.",
+     "'대게'는 영어 'snow crab', 일본어 'ズワイガニ'로 옮겼습니다.",
+     "행사 기간(10월 30일 ~ 11월 8일, 열흘)은 SSG.com 계열사 안내 페이지(ssg.com/hub/ssgday-2026-affiliates)로 확인했습니다. 할인율·물량 같은 세부 내용은 한국어 원문을 그대로 옮겼습니다.",
+     "영어·일본어 · 소제목 둘째 줄이 긴 곳이 있음: 'Emart Potato & Carrot Fill-a-Box'(32자), 'Shinsegae Dept. Store Clearance'(31자), 'イーマートじゃがいも・にんじん詰め放題'(19자). 규칙상 한 줄은 영어 22자·일본어 12자 안팎. 한국어 원문도 길어서 그대로 두었으니 화면에서 잘리는지 봐 주세요",
+     "고유명사 영어 표기(Emart/E-mart, Jolly Pong, Concho, Casamia)와 일본어 표기(ジョリポン, コンチョ)는 WebSearch로 확인하지 않았습니다. 올리기 전에 공식 표기를 봐 주세요"
+    ],
+    "review": {
+     "at": "2026-11-03T11:46+09:00",
+     "fixes": [
+      "영어 · 표지 제목 둘째 줄 · Every Deal by Date → Deals by Date — 원문은 '날짜순 정리'인데 'Every Deal'은 행사 전부를 모은 것처럼 읽혀 원문에 없는 주장이 됨",
+      "일본어 · 첫 장 본문 · '…割引クーポン。' → '…割引クーポンを配布します。' — 명사로 끝나 문장이 끊긴 것처럼 읽혀 자연스럽게 마무리"
+     ],
+     "doubt": [
+      "영어·일본어 · 소제목 둘째 줄이 긴 곳이 있음: 'Emart Potato & Carrot Fill-a-Box'(32자), 'Shinsegae Dept. Store Clearance'(31자), 'イーマートじゃがいも・にんじん詰め放題'(19자). 규칙상 한 줄은 영어 22자·일본어 12자 안팎. 한국어 원문도 길어서 그대로 두었으니 화면에서 잘리는지 봐 주세요",
+      "고유명사 영어 표기(Emart/E-mart, Jolly Pong, Concho, Casamia)와 일본어 표기(ジョリポン, コンチョ)는 WebSearch로 확인하지 않았습니다. 올리기 전에 공식 표기를 봐 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nShinsegae Group's SSG Day has entered its final six days.\n\nThe 10-day event began on Oct 30, and the remaining days are packed with date-specific deals. From Nov 5 to 7, Emart runs a \"Fill-a-Box\" event, selling Crown Confectionery snacks by however much fits in a designated box, and on Nov 7 only, it offers Korean snow crab at half price to Shinsegae Point members.\n\nOnline, the focus is on clearance. W Concept says it is cutting fashion accessories and refurbished digital goods by up to 92%, and Casamia's online mall is taking up to 80% off sofas and beds. emart24 (@emart24_official) is offering five premium wines with minor label scuffs at up to 40% off.\n\nDates: Through Nov 8 (Sun)\nSnack Fill-a-Box: Nov 5 (Thu) – 7 (Sat), Emart\nPotato & Carrot Fill-a-Box: Nov 5 (Thu) – 8 (Sun), Emart\nHalf-Price Snow Crab: Nov 7 (Sat), Emart (Shinsegae Point members)\nShinsegae Department Store Clearance: Nov 6 (Fri) – 8 (Sun)\n\n#SENE #SSGDay #Shinsegae #Emart #KoreaShopping\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793662952/aavykvf9owfv6jkwopiy.jpg\n제목: 6 Days Left of SSG Day|Deals by Date\n부제: Through Nov 8 (Sun) · Fill-a-Box · Half-Price Snow Crab · Clearance\n출처: Shinsegae Group\n\n[슬라이드]\n소스: \n소제목: Nov 5 (Thu) – 7 (Sat)|Emart Snack Fill-a-Box\n본문: Crown Confectionery snacks such as Jolly Pong and Concho, sold by however much fits in a designated box. During the same period, the Emart app roulette runs daily at 10 a.m., with coupons of up to KRW 20,000 off for the first 50,000 users.\n출처: \n\n[슬라이드]\n소스: \n소제목: Nov 5 (Thu) – 8 (Sun)|Emart Potato & Carrot Fill-a-Box\n본문: After snacks, potatoes and carrots are also sold by however much you can fit. It runs one day longer than the snack event.\n출처: \n\n[슬라이드]\n소스: \n소제목: Nov 6 (Fri) – 8 (Sun)|Shinsegae Dept. Store Clearance\n본문: Sports brands such as Nike and Adidas, men's outerwear from Hazzys and Barbour, Dyson and Breville appliances, and tableware are included.\n출처: \n\n[슬라이드]\n소스: \n소제목: Nov 7 (Sat) Only|Half-Price Korean Snow Crab\n본문: For Shinsegae Point members. 5 tons in stock.\n출처: \n\n[슬라이드]\n소스: \n소제목: Through Nov 8 (Sun)|Online Clearance\n본문: W Concept up to 92% off (fashion accessories, refurbished digital goods), Casamia online mall up to 80% off (sofas, beds), Shinsegae Live Shopping up to 77% off, emart24 up to 40% off five wines with label scuffs. Discount rates as announced by each company.\n출처: \n",
+      "caption": "Shinsegae Group's SSG Day has entered its final six days.\n\nThe 10-day event began on Oct 30, and the remaining days are packed with date-specific deals. From Nov 5 to 7, Emart runs a \"Fill-a-Box\" event, selling Crown Confectionery snacks by however much fits in a designated box, and on Nov 7 only, it offers Korean snow crab at half price to Shinsegae Point members.\n\nOnline, the focus is on clearance. W Concept says it is cutting fashion accessories and refurbished digital goods by up to 92%, and Casamia's online mall is taking up to 80% off sofas and beds. emart24 (@emart24_official) is offering five premium wines with minor label scuffs at up to 40% off.\n\nDates: Through Nov 8 (Sun)\nSnack Fill-a-Box: Nov 5 (Thu) – 7 (Sat), Emart\nPotato & Carrot Fill-a-Box: Nov 5 (Thu) – 8 (Sun), Emart\nHalf-Price Snow Crab: Nov 7 (Sat), Emart (Shinsegae Point members)\nShinsegae Department Store Clearance: Nov 6 (Fri) – 8 (Sun)\n\n#SENE #SSGDay #Shinsegae #Emart #KoreaShopping",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673970/j36b2cq53s5xvu3lvkcs.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673969/gnrh6rzfii9infeq7o0f.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673969/oajyqmzdh9pzckfcm409.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673970/tx3q7lsxqhhg7c1opkbv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673971/y8zncjabtsgmnakic6hd.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673971/zjyncjtqe9ogzxidapcm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673971/rsdhqiott1ssuglicfhz.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673970/j36b2cq53s5xvu3lvkcs.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-03T11:46+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\n新世界（シンセゲ）グループの「SSGデー（쓱데이）」が、最後の6日間に入りました。\n\n10月30日に始まった10日間のイベントですが、残りの期間には日付を決めた企画が集中しています。イーマートは5日から7日まで、クラウン製菓のお菓子を指定の箱に詰めた分だけ販売する「詰め放題」を開催し、7日の1日限りで国産ズワイガニを新世界ポイント会員に半額で販売します。\n\nオンラインは在庫を整理するクリアランスが中心です。Wコンセプトはファッション雑貨とデジタルリファービッシュ品を最大92%、カサミアのオンラインモールはソファ・ベッドを最大80%割引すると発表しました。イーマート24（@emart24_official）は、ラベルにわずかな傷がついたプレミアムワイン5種を最大40%割引します。\n\n期間：11月8日（日）まで\nお菓子詰め放題：11月5日（木）〜7日（土）、イーマート\nじゃがいも・にんじん詰め放題：11月5日（木）〜8日（日）、イーマート\nズワイガニ半額：11月7日（土）、イーマート（新世界ポイント会員）\n新世界百貨店クリアランス：11月6日（金）〜8日（日）\n\n#SENE #韓国旅行 #イーマート #新世界 #韓国スーパー\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793662952/aavykvf9owfv6jkwopiy.jpg\n제목: SSGデー残り6日|日付順まとめ\n부제: 11月8日（日）まで・詰め放題・ズワイガニ半額・クリアランス\n출처: 新世界グループ\n\n[슬라이드]\n소스: \n소제목: 11月5日（木）〜7日（土）|イーマートお菓子詰め放題\n본문: ジョリポン、コンチョなどクラウン製菓のお菓子を、指定の箱に詰めた分だけ販売します。同期間、イーマートアプリのルーレットは毎日午前10時、先着5万人に最大20,000ウォンの割引クーポンを配布します。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月5日（木）〜8日（日）|イーマートじゃがいも・にんじん詰め放題\n본문: お菓子に続き、じゃがいもとにんじんも詰めた分だけ販売します。お菓子より1日長く続きます。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月6日（金）〜8日（日）|新世界百貨店クリアランス\n본문: ナイキ、アディダスなどのスポーツブランド、ヘジス・バブアーのメンズアウター、ダイソン・ブレビルの家電、テーブルウェアが参加します。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月7日（土）1日限り|イーマート国産ズワイガニ半額\n본문: 新世界ポイント会員が対象、用意した数量は5トン。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月8日（日）まで|オンラインクリアランス\n본문: Wコンセプト最大92%（ファッション雑貨・デジタルリファービッシュ品）、カサミア公式オンラインモール最大80%（ソファ・ベッド）、新世界ライブショッピング最大77%、イーマート24はラベルに傷のあるワイン5種を最大40%。割引率は各社発表による。\n출처: \n",
+      "caption": "新世界（シンセゲ）グループの「SSGデー（쓱데이）」が、最後の6日間に入りました。\n\n10月30日に始まった10日間のイベントですが、残りの期間には日付を決めた企画が集中しています。イーマートは5日から7日まで、クラウン製菓のお菓子を指定の箱に詰めた分だけ販売する「詰め放題」を開催し、7日の1日限りで国産ズワイガニを新世界ポイント会員に半額で販売します。\n\nオンラインは在庫を整理するクリアランスが中心です。Wコンセプトはファッション雑貨とデジタルリファービッシュ品を最大92%、カサミアのオンラインモールはソファ・ベッドを最大80%割引すると発表しました。イーマート24（@emart24_official）は、ラベルにわずかな傷がついたプレミアムワイン5種を最大40%割引します。\n\n期間：11月8日（日）まで\nお菓子詰め放題：11月5日（木）〜7日（土）、イーマート\nじゃがいも・にんじん詰め放題：11月5日（木）〜8日（日）、イーマート\nズワイガニ半額：11月7日（土）、イーマート（新世界ポイント会員）\n新世界百貨店クリアランス：11月6日（金）〜8日（日）\n\n#SENE #韓国旅行 #イーマート #新世界 #韓国スーパー",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673976/sylb7n6or35u8ytul7bm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673975/iidvwvoifkwsd9p4lrpy.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673976/z4zzuewsyndxjovcpl9u.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673975/vfrpz5hw7nrzdzjv4u9b.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673977/yz5wnazqbzhzi54oxekb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673977/wzspaoopsfjxgctzo29t.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673977/zbqgjm5gb0farz8ropil.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673976/sylb7n6or35u8ytul7bm.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-03T11:46+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -676,7 +743,14 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: *Pepero*\n아티스트: Stray Kids share\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
-      "caption": "This is the 2026 Pepero Day digital film Lotte Wellfood shot with Stray Kids (@realstraykids).\n\nThe video shows the members sharing and enjoying Pepero in Korea. Lotte Wellfood has named Stray Kids its global ambassadors and, for the fourth year running, put up a Pepero billboard in Times Square, New York.\n\nIn Korea, 10 seasonal packages made with Stray Kids, Sanrio Characters and Ganadi are out. There is also a 'PLAY WITH PEPERO' event for posting Pepero photos and videos on Instagram. A total of 111 winners will be drawn, and the prizes include invitations to a Stray Kids 'MEET & GREET'.\n\nPepero Day: Nov 11 (Wed)\n\n#SENE #PeperoDay #Pepero #StrayKids #LotteWellfood"
+      "caption": "This is the 2026 Pepero Day digital film Lotte Wellfood shot with Stray Kids (@realstraykids).\n\nThe video shows the members sharing and enjoying Pepero in Korea. Lotte Wellfood has named Stray Kids its global ambassadors and, for the fourth year running, put up a Pepero billboard in Times Square, New York.\n\nIn Korea, 10 seasonal packages made with Stray Kids, Sanrio Characters and Ganadi are out. There is also a 'PLAY WITH PEPERO' event for posting Pepero photos and videos on Instagram. A total of 111 winners will be drawn, and the prizes include invitations to a Stray Kids 'MEET & GREET'.\n\nPepero Day: Nov 11 (Wed)\n\n#SENE #PeperoDay #Pepero #StrayKids #LotteWellfood",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793673943/sene_studio/rlxineybplqdawgko7bw.mp4",
+       "at": "2026-11-03T11:45+09:00",
+       "file": "Stray_Kids_share_Pepero_TeuLenDeu_no_lyrics.mp4",
+       "sig": "d171730f67",
+       "v": "a15601e6"
+      }
      }
     },
     "ja": {
@@ -705,7 +779,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: 分け合う*ペペロ*\n아티스트: Stray Kidsが\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
-      "caption": "ロッテウェルフードがStray Kids（@realstraykids）と撮影した、2026年ペペロデーのデジタルフィルムです。\n\nメンバーが韓国でペペロを分け合い、楽しむ様子を収めた映像です。ロッテウェルフードはStray Kidsをグローバルアンバサダーに起用し、アメリカ・ニューヨークのタイムズスクエアに4年連続でペペロの屋外広告を掲出しました。\n\n韓国国内では、Stray Kids・サンリオキャラクターズ・ガナディ（가나디）とつくったシーズンパッケージ10種が登場しました。インスタグラムにペペロの写真・動画を投稿する「PLAY WITH PEPERO」イベントも開催されています。抽選で計111人が選ばれ、賞品にはStray Kids「MEET & GREET」の招待券が含まれます。\n\nペペロデー：11月11日（水）\n\n#SENE #ペペロデー #ペペロ #StrayKids #韓国旅行"
+      "caption": "ロッテウェルフードがStray Kids（@realstraykids）と撮影した、2026年ペペロデーのデジタルフィルムです。\n\nメンバーが韓国でペペロを分け合い、楽しむ様子を収めた映像です。ロッテウェルフードはStray Kidsをグローバルアンバサダーに起用し、アメリカ・ニューヨークのタイムズスクエアに4年連続でペペロの屋外広告を掲出しました。\n\n韓国国内では、Stray Kids・サンリオキャラクターズ・ガナディ（가나디）とつくったシーズンパッケージ10種が登場しました。インスタグラムにペペロの写真・動画を投稿する「PLAY WITH PEPERO」イベントも開催されています。抽選で計111人が選ばれ、賞品にはStray Kids「MEET & GREET」の招待券が含まれます。\n\nペペロデー：11月11日（水）\n\n#SENE #ペペロデー #ペペロ #StrayKids #韓国旅行",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-03T11:44+09:00",
+       "sig": "5c1a36cba5",
+       "job": 203
+      }
      }
     }
    }
@@ -956,10 +1036,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T11:44+09:00"
+  "at": "2026-11-03T11:46+09:00"
  },
  "queue": {
-  "next": "2026-11-03T11:46+09:00",
+  "next": "2026-11-03T11:48+09:00",
   "n": 0,
   "gap": 20
  },
