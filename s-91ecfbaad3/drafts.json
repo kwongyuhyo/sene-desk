@@ -1,50 +1,127 @@
 {
  "schema": 1,
- "date": "2026-11-03",
- "generated_at": "2026-11-03 08:23 KST",
+ "date": "2026-11-04",
+ "generated_at": "2026-11-04 08:23 KST",
  "items": [
   {
    "source": {
-    "id": "claude:karina-mlb-wintercity",
-    "account": "MLB 코리아 유튜브",
-    "url": "https://www.youtube.com/watch?v=sqVDSmzmu-U",
+    "id": "claude:ive-pubg-gstar",
+    "account": "기사",
+    "url": "https://www.lcnews.co.kr/news/articleView.html?idxno=210788",
     "image": null,
-    "head": "MLB WINTER CITY: SAVE KARINA (MLBKOREA 공식 · 28초)",
+    "head": "크래프톤, 지스타서 아이브 '러브 다이브' 체험존",
     "multiple": null,
     "is_reel": true,
     "kind": "claude"
    },
-   "made_at": "2026-11-03T08:25+09:00",
-   "key": "6a41acc3",
+   "made_at": "2026-11-04T08:28+09:00",
+   "key": "3ecf121b",
    "by": "claude",
    "subjects": [
-    "카리나",
-    "MLB"
+    "아이브",
+    "PUBG: 배틀그라운드"
    ],
-   "lane": "클립",
+   "lane": "정리",
    "editor": {
     "grade": "A",
-    "kind": "클립",
-    "angle": "MLB 2026 F/W 윈터 캠페인 'KARINA IN THE WINTER CITY' 공식 필름 속 카리나 — 지난 시즌에 이어 다시 나온 '플러시 미야옹 비니'를 캡션 맥락으로",
-    "why": "브랜드 공식 필름이라 위험이 낮고 말 없이 읽힌다 · MLB 가 11/2 새 컷을 또 올렸고 2030 여성 '패딩' 클릭이 직전 주보다 122% 올랐다"
+    "kind": "정리",
+    "angle": "배그 × 아이브 협업이 오늘 PC에 적용 — 게임을 안 해도 지스타 2026 PUBG 부스에서 '아이브 저택'을 직접 본다 (체험·받는 것·조건)",
+    "why": "오늘 적용되는 협업 · 지스타 부스 구성은 11/3 밤 발표 · 케이팝 팬이 저장할 현장 정보"
    },
    "added": "claude",
-   "added_at": "2026-11-03T08:25+09:00",
-   "corner": "moment",
+   "added_at": "2026-11-04T08:28+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n아이브(@ivestarship)가 오늘부터 배틀그라운드 안에 들어갑니다.\n\n크래프톤의 'PUBG: 배틀그라운드'와 아이브의 협업이 11월 4일 PC에 먼저 적용되는데요, 론도 맵에 〈LOVE DIVE〉 뮤직비디오를 바탕으로 한 공간이 생기고 멤버 여섯 명의 캐릭터 외형과 의상, 이모트가 더해집니다.\n\n게임을 하지 않아도 볼 수 있는 자리가 있습니다. 지스타 2026의 PUBG 부스에 '아이브 저택'과 '아이브 이모트 스테이지'가 실제 공간으로 옮겨지고, 포토존 사진으로 한정 포토카드를 만들 수 있습니다. 석궁 사격 같은 체험으로 스탬프를 모으면 굿즈를, PUBG 이용자 인증을 하면 음료와 쿠키를 받습니다.\n\n게임 적용: PC 11월 4일(수) · 콘솔 11월 12일(목)\n지스타: 11월 19일(목) ~ 22일(일)\n장소: 부산 벡스코 크래프톤 PUBG 부스\n#SENE #아이브 #IVE #배틀그라운드 #지스타2026\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793748532/iau23inzoiuxngjb6lxs.jpg\n제목: 아이브, 오늘부터|배틀그라운드 안에\n부제: 지스타에선 '아이브 저택'을 직접\n출처: @ivestarship\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793748553/sene_studio/ockmezsh4y2pqk684k1w.mp4\n소제목: \n본문: \n출처: PUBG: BATTLEGROUNDS\n",
+    "caption": "아이브(@ivestarship)가 오늘부터 배틀그라운드 안에 들어갑니다.\n\n크래프톤의 'PUBG: 배틀그라운드'와 아이브의 협업이 11월 4일 PC에 먼저 적용되는데요, 론도 맵에 〈LOVE DIVE〉 뮤직비디오를 바탕으로 한 공간이 생기고 멤버 여섯 명의 캐릭터 외형과 의상, 이모트가 더해집니다.\n\n게임을 하지 않아도 볼 수 있는 자리가 있습니다. 지스타 2026의 PUBG 부스에 '아이브 저택'과 '아이브 이모트 스테이지'가 실제 공간으로 옮겨지고, 포토존 사진으로 한정 포토카드를 만들 수 있습니다. 석궁 사격 같은 체험으로 스탬프를 모으면 굿즈를, PUBG 이용자 인증을 하면 음료와 쿠키를 받습니다.\n\n게임 적용: PC 11월 4일(수) · 콘솔 11월 12일(목)\n지스타: 11월 19일(목) ~ 22일(일)\n장소: 부산 벡스코 크래프톤 PUBG 부스\n#SENE #아이브 #IVE #배틀그라운드 #지스타2026",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748532/iau23inzoiuxngjb6lxs.jpg",
+      "credit": "@ivestarship",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/883453003_18122122121601032_8412795465727553978_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=peNyHG2zf88Q7kNvwGyskio&_nc_oc=Adoaz8FFsDgV21uZNechhlsP5VVLVWnqbcnAA7oWcGx2OZK-llzEDQObklPgP8Znnh8&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5TOKU7GZOCTP_V-tGtSuKg&oh=00_AQSWvnSGGy-3beBEN5Q8IxebqfYvr2hjdsb9UJKjPdQZXQ&oe=6AF05A58"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748532/iau23inzoiuxngjb6lxs.jpg",
+      "credit": "@ivestarship",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/883453003_18122122121601032_8412795465727553978_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=peNyHG2zf88Q7kNvwGyskio&_nc_oc=Adoaz8FFsDgV21uZNechhlsP5VVLVWnqbcnAA7oWcGx2OZK-llzEDQObklPgP8Znnh8&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=5TOKU7GZOCTP_V-tGtSuKg&oh=00_AQSWvnSGGy-3beBEN5Q8IxebqfYvr2hjdsb9UJKjPdQZXQ&oe=6AF05A58"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "아이브, 오늘부터|배틀그라운드 안에",
+      "sub": "지스타에선 '아이브 저택'을 직접"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — PUBG: BATTLEGROUNDS (브랜드 공식) · 영상 캡처가 안 떠 장면을 직접 못 봤음 — 1:04-1:20 첫 1초에 멤버(실사)가 또렷한지 미리보기로 확인, 아니면 구간을 옮긴다",
+     "지스타 현장에 아이브 멤버가 오는지는 발표 없음 (무대 프로그램은 추후 공개 — 에스저널 한 곳) — 캡션에 쓰지 않았음 · 크래프톤 배포 이미지는 해상도 미달이라 표지는 아이브 공식 인스타(11/2) 사진 — 협업 이미지가 아님"
+    ],
+    "research": [
+     {
+      "title": "에스저널 (11/3) — 크래프톤, 지스타서 아이브 만난다 · 아이브 저택·아이브 이모트 스테이지 · 포토존 · 보급함 공간 음료·쿠키(PUBG 이용자 인증) · 석궁 사격·낙하산 투척·키캡 키링·한정 포토카드 · 스탬프 굿즈",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=45043"
+     },
+     {
+      "title": "라이센스뉴스 — 같은 구성 · 11월 19~22일 부산 벡스코 PUBG 부스",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210788"
+     },
+     {
+      "title": "루리웹 뉴스 (10/27) — 협업 콘텐츠 PC 11월 4일·콘솔 12일 업데이트 · 아이브 멤버 출연 메인 트레일러 11월 1일",
+      "link": "https://bbs.ruliweb.com/news/read/231087"
+     },
+     {
+      "title": "인벤 글로벌 — PC 11/4·콘솔 11/12 · 론도 맵에 뮤직비디오 바탕 협업 공간",
+      "link": "https://www.invenglobal.com/articles/27735/pubg-teases-collaboration-with-ive-dive-begins-november-4"
+     },
+     {
+      "title": "PUBG 보도자료 (gamespress, 10/28) — 론도 3개 구역 · 멤버 6명 캐릭터 외형·의상·이모트",
+      "link": "https://www.gamespress.com/PUBG-BATTLEGROUNDS-TEAMS-UP-WITH-IVE-FOR-LOVE-DIVE-COLLABORATION"
+     },
+     {
+      "title": "게임메카 — 크래프톤 지스타 2026 벡스코 제1전시장 부스",
+      "link": "https://www.gamemeca.com/en/view.php?gid=1779993"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748561/r5qbd3nsb5qujcbspezy.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748564/rht3r7tx0ue8fazeayyf.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748560/wxzetvhwu3jol82eg5yt.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748561/r5qbd3nsb5qujcbspezy.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-04T08:29+09:00",
+     "videos": {
+      "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793748562/sene_studio/b65dhnlwkhcwkc9fmdjz.mp4"
+     },
+     "v": {
+      "A": "a866a78b"
+     }
+    }
+   },
    "shorts": {
-    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: 얼어붙은 도시\n아티스트: *카리나*,\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
-    "caption": "에스파 카리나가 얼어붙은 도시 한가운데 있습니다.\n\nMLB(@mlbkorea)가 10월 26일 공개한 2026 F/W 윈터 캠페인 'KARINA IN THE WINTER CITY'의 필름인데요, 원인을 알 수 없는 이상 한파로 도시가 얼어붙었다는 설정입니다. 브랜드는 카리나의 여러 스타일링을 담은 추가 콘텐츠도 공개할 예정이라고 밝혔습니다.\n\n화보 속 패딩은 곡선 실루엣의 '커브 에어 쉘' 라인이고, '버니 비니'와 '플러시 미야옹 비니'가 함께 쓰였습니다.\n\n영상: MLB 코리아 공식 채널\n#SENE #카리나 #에스파 #MLB #미야옹비니",
+    "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=4lA9n7ejDi4\n구간: 1:04-1:20\n곡: 배틀그라운드 속으로\n아티스트: *아이브*,\n피처링:\n후킹: \n출처: PUBG: BATTLEGROUNDS\n자막: 끔",
+    "caption": "아이브(@ivestarship)가 배틀그라운드에 들어갔습니다.\n\nPUBG가 11월 1일 공개한 아이브 협업 트레일러인데요, 멤버들이 〈LOVE DIVE〉 시기의 콘셉트와 의상을 다시 입고 나옵니다. 협업 콘텐츠는 오늘 PC에, 11월 12일 콘솔에 적용됩니다.\n\n11월 19일부터 22일까지 부산 벡스코 지스타 2026의 PUBG 부스에는 게임 속 '아이브 저택'이 실제 공간으로 꾸려집니다.\n\n영상: PUBG: BATTLEGROUNDS 공식 채널\n#SENE #아이브 #IVE #배틀그라운드 #지스타2026",
     "hooks": {
-     "A": "*카리나*, / 얼어붙은 도시",
-     "B": "*카리나*의 / MLB 윈터 시티",
-     "C": "얼어붙은 도시에 / *카리나*"
+     "A": "*아이브*, / 배틀그라운드 속으로",
+     "B": "*아이브*가 들어간 / 배틀그라운드",
+     "C": "오늘부터 배그에 / *아이브*"
     },
     "video": {
-     "url": "https://www.youtube.com/watch?v=sqVDSmzmu-U",
-     "credit": "MLBKOREA",
+     "url": "https://www.youtube.com/watch?v=4lA9n7ejDi4",
+     "credit": "PUBG: BATTLEGROUNDS",
      "range": [
-      2.0,
-      20.0
+      64.0,
+      80.0
      ]
     },
     "guided": {
@@ -53,979 +130,59 @@
     },
     "issues": [],
     "confirm": [
-     "[검증] 캡션 고침 — '11월 2일 새 컷'은 인스타에서 11/1 게시물만 보여 뺐음 · '차례로 풀겠다'는 기사 표현('추가 콘텐츠 공개 예정')으로 · 미야옹 비니 2025 착용·품절은 어패럴뉴스 한 곳뿐이라 뺐음 · '야구공 패턴'도 한 곳뿐이라 뺐음",
-     "클립 위험: 낮음 — MLBKOREA (브랜드 공식)",
-     "영상 캡처가 안 떠 구간 속 장면을 직접 못 봤음 — 0:02-0:20 에서 첫 1초에 카리나가 나오는지 미리보기로 확인 · 가격은 공식몰 확인 못 해 뺐음"
+     "클립 위험: 낮음 — PUBG: BATTLEGROUNDS (브랜드 공식) · 영상 캡처가 안 떠 장면을 직접 못 봤음 — 1:04-1:20 첫 1초에 멤버(실사)가 또렷한지 미리보기로 확인, 아니면 구간을 옮긴다",
+     "지스타 현장에 아이브 멤버가 오는지는 발표 없음 (무대 프로그램은 추후 공개 — 에스저널 한 곳) — 캡션에 쓰지 않았음 · 크래프톤 배포 이미지는 해상도 미달이라 표지는 아이브 공식 인스타(11/2) 사진 — 협업 이미지가 아님"
     ],
     "research": [
      {
-      "title": "MLBKOREA 유튜브 — MLB WINTER CITY: SAVE KARINA (28초)",
-      "link": "https://www.youtube.com/watch?v=sqVDSmzmu-U"
+      "title": "에스저널 (11/3) — 크래프톤, 지스타서 아이브 만난다 · 아이브 저택·아이브 이모트 스테이지 · 포토존 · 보급함 공간 음료·쿠키(PUBG 이용자 인증) · 석궁 사격·낙하산 투척·키캡 키링·한정 포토카드 · 스탬프 굿즈",
+      "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=45043"
      },
      {
-      "title": "어패럴뉴스 (10/26) — 'KARINA IN THE WINTER CITY' · 커브 에어 쉘 후드 구스 크롭 패딩 · 버니 비니 · 플러시 미야옹 비니(2025 FW 카리나 착용 뒤 품절) · 커브 에어 쉘 에센셜 후드 숏패딩",
-      "link": "https://www.apparelnews.co.kr/news/news_view/?cat=CAT115&idx=228498"
+      "title": "라이센스뉴스 — 같은 구성 · 11월 19~22일 부산 벡스코 PUBG 부스",
+      "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=210788"
      },
      {
-      "title": "스페셜타임스 (10/26) — MLB, 카리나와 함께한 2026 F/W 겨울 캠페인 공개 · 같은 제품명",
-      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=478396"
+      "title": "루리웹 뉴스 (10/27) — 협업 콘텐츠 PC 11월 4일·콘솔 12일 업데이트 · 아이브 멤버 출연 메인 트레일러 11월 1일",
+      "link": "https://bbs.ruliweb.com/news/read/231087"
      },
      {
-      "title": "MLB 코리아 공식 인스타 — 10/26·10/28·11/2 'MLB WINTER CITY: SAVE KARINA' 게시물 (원인을 알 수 없는 이상 한파로 얼어붙은 도시)",
-      "link": "https://www.instagram.com/mlbkorea/"
+      "title": "인벤 글로벌 — PC 11/4·콘솔 11/12 · 론도 맵에 뮤직비디오 바탕 협업 공간",
+      "link": "https://www.invenglobal.com/articles/27735/pubg-teases-collaboration-with-ive-dive-begins-november-4"
+     },
+     {
+      "title": "PUBG 보도자료 (gamespress, 10/28) — 론도 3개 구역 · 멤버 6명 캐릭터 외형·의상·이모트",
+      "link": "https://www.gamespress.com/PUBG-BATTLEGROUNDS-TEAMS-UP-WITH-IVE-FOR-LOVE-DIVE-COLLABORATION"
+     },
+     {
+      "title": "게임메카 — 크래프톤 지스타 2026 벡스코 제1전시장 부스",
+      "link": "https://www.gamemeca.com/en/view.php?gid=1779993"
      }
     ],
-    "thumb": "https://i.ytimg.com/vi/sqVDSmzmu-U/maxresdefault.jpg",
+    "thumb": "https://i.ytimg.com/vi/4lA9n7ejDi4/maxresdefault.jpg",
     "still": {
-     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793661911/gxzyp87ypvoae43mgx2d.jpg",
-     "key": "sqVDSmzmu-U@2.0"
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748569/u10etkocg0jrt171tach.jpg",
+     "key": "4lA9n7ejDi4@64.0"
     },
     "px": {
-     "vid": "sqVDSmzmu-U",
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793661921/sene_studio/nbgtoya22vzewejz6lrx.mp4",
-     "off": 0.0,
-     "end": 28.0,
-     "full": 28.0
+     "vid": "4lA9n7ejDi4",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793748624/sene_studio/emnpbqleu39yoblwv6zm.mp4",
+     "off": 19.0,
+     "end": 93.0,
+     "full": 93.0
     },
-    "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793661982/sene_studio/lv3va4oazap5ko0ektpe.mp4",
-     "at": "2026-11-03T08:26+09:00",
-     "file": "KaLiNa_EolEoButEun_DoSi_PaeSyeon_no_lyrics.mp4",
-     "v": "1152fdf5"
-    },
-    "published": {
-     "permalink": "https://www.instagram.com/reel/DfSaXA6jmfq/",
-     "at": "2026-11-04T02:25+09:00",
-     "account": "sene",
-     "via": "api"
-    }
-   },
-   "corner_name": "오늘의 순간",
-   "corner_no": 1,
-   "i18n_queued": "2026-11-03T08:25+09:00",
-   "i18n": {
-    "at": "2026-11-03T08:26+09:00",
-    "confirm": [
-     "제품 영문·일문 공식 표기 미확인: '커브 에어 쉘'은 'Curve Air Shell'로 로마자 표기했고, '버니 비니'는 'Bunny Beanie'로 옮겼습니다. '플러시 미야옹 비니'는 KREAM 영문 표기 'Plush Meowing Beanie'를 따랐습니다 (MLB 공식 영문 표기 아님). 일본어는 カタカナ + 원어 괄호로 적었습니다.",
-     "캠페인 공개일(10월 26일)과 설정·추가 콘텐츠 예정 내용은 원문 그대로 옮겼으며 따로 다시 확인하지 않았습니다.",
-     "곡 칸 '얼어붙은 도시'는 노래 제목이 아니라 장면 설명으로 보여 'A Frozen City' / 「凍りついた街」로 옮겼습니다. 공식 곡명이 있다면 바꿔야 합니다.",
-     "'Plush Meowing Beanie' 는 KREAM 상품명으로 영어 표기를 확인함 (https://kream.co.kr/brands/MLB). 'Curve Air Shell'·'Bunny Beanie' 의 공식 영어 표기는 검색으로 확인하지 못함 — MLB 공식몰 상품명과 맞춰 볼 것",
-     "일본어 · 제품명 뒤 괄호 속 한글 원어(커브 에어 쉘 등)는 번역 규칙대로 남겼지만, 일본 독자 피드에서 한글이 세 번 나와 무거움 — 빼도 될지 판단 필요"
-    ],
-    "review": {
-     "at": "2026-11-03T08:26+09:00",
-     "fixes": [
-      "영어 · 숏폼 캡션 · \"MLB (@mlbkorea)'s 2026 F/W winter campaign\" → \"the 2026 F/W winter campaign MLB (@mlbkorea) released\" — 핸들 괄호 뒤 소유격 's 가 어색함",
-      "영어 · 숏폼 캡션 · \"featuring a range of Karina's styling\" → \"showing Karina in a range of styles\" — 직역투",
-      "일본어 · 숏폼 캡션 · 「が合わせられています」 → 「がコーディネートされています」 — 수동형이 부자연스러움"
-     ],
-     "doubt": [
-      "'Plush Meowing Beanie' 는 KREAM 상품명으로 영어 표기를 확인함 (https://kream.co.kr/brands/MLB). 'Curve Air Shell'·'Bunny Beanie' 의 공식 영어 표기는 검색으로 확인하지 못함 — MLB 공식몰 상품명과 맞춰 볼 것",
-      "일본어 · 제품명 뒤 괄호 속 한글 원어(커브 에어 쉘 등)는 번역 규칙대로 남겼지만, 일본 독자 피드에서 한글이 세 번 나와 무거움 — 빼도 될지 판단 필요"
-     ]
-    },
-    "en": {
-     "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: A Frozen City\n아티스트: *Karina*,\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
-      "caption": "aespa's Karina stands in the middle of a frozen city.\n\nThe film is from 'KARINA IN THE WINTER CITY,' the 2026 F/W winter campaign MLB (@mlbkorea) released on Oct 26. The premise is a city frozen over by an unexplained cold snap. The brand says it will also release more content showing Karina in a range of styles.\n\nThe padded jackets in the campaign are from the 'Curve Air Shell' line, which has a curved silhouette. They are worn with the 'Bunny Beanie' and the 'Plush Meowing Beanie.'\n\nVideo: MLB Korea official channel\n#SENE #Karina #aespa #MLB #KoreanFashion",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793662065/sene_studio/b1f2jygrwnqywquslyb5.mp4",
-       "at": "2026-11-03T08:27+09:00",
-       "file": "Karina_A_Frozen_City_PaeSyeon_no_lyrics.mp4",
-       "sig": "ea2a3c96f8",
-       "v": "6b45613b"
-      },
-      "published": {
-       "permalink": "https://www.instagram.com/reel/DfSacRliBtO/",
-       "at": "2026-11-04T02:25+09:00",
-       "account": "sene_en",
-       "via": "api"
-      }
-     }
-    },
-    "ja": {
-     "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=sqVDSmzmu-U\n구간: 0:02-0:20\n곡: 凍りついた街\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: MLBKOREA\n자막: 끔",
-      "caption": "aespaのカリナが、凍りついた街の真ん中に立っています。\n\nMLB（@mlbkorea）が10月26日に公開した2026 F/Wウィンターキャンペーン「KARINA IN THE WINTER CITY」のフィルムです。原因不明の異常寒波で街が凍りついたという設定です。ブランドは、カリナのさまざまなスタイリングを収めた追加コンテンツも公開する予定だとしています。\n\nビジュアルのダウンジャケットは曲線シルエットの「カーブエアシェル（커브 에어 쉘）」ラインで、「バニービーニー（버니 비니）」と「プラッシュミヤオンビーニー（플러시 미야옹 비니）」がコーディネートされています。\n\n映像：MLB KOREA公式チャンネル\n#SENE #カリナ #aespa #MLB #韓国ファッション",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793662125/sene_studio/kvlnvi9z5qjgstwivmsa.mp4",
-       "at": "2026-11-03T08:28+09:00",
-       "file": "karina_DongritsuitaJie_PaeSyeon_no_lyrics.mp4",
-       "sig": "c0607689d2",
-       "v": "6a5178ab"
-      },
-      "published": {
-       "permalink": "https://www.instagram.com/reel/DfSagtNnfP9/",
-       "at": "2026-11-04T02:26+09:00",
-       "account": "sene_ja",
-       "via": "api"
-      }
-     }
+    "render": {
+     "status": "queued",
+     "at": "2026-11-04T08:30+09:00"
     }
    },
    "pick": {
     "rank": 1,
-    "why": "패딩 검색이 뛰는 주에 카리나 공식 캠페인 필름 — 말 없이 읽히는 릴스, 영어·일본어 팔로워에게도 바로 통한다",
-    "at": "2026-11-03T17:46+09:00"
-   }
-  },
-  {
-   "source": {
-    "id": "claude:brk-567abd77",
-    "account": "@속보",
-    "url": "https://www.peoplewatch.co.kr/article/view/ppw202611020020",
-    "image": null,
-    "head": "쓱데이 막판 엿새 — 무한담기·대게 반값·클리어런스 날짜순",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
+    "why": "협업이 오늘 PC에 들어오는 날 — 아이브 팬이 저장할 지스타 현장 체험 정보, 공식 트레일러 릴스까지",
+    "at": "2026-11-04T08:28+09:00"
    },
-   "made_at": "2026-11-03T08:42+09:00",
-   "key": "b85d03aa",
-   "by": "claude",
-   "subjects": [
-    "쓱데이"
-   ],
-   "lane": "정리",
-   "editor": {
-    "grade": "A",
-    "kind": "정리",
-    "angle": "쓱데이 남은 엿새(11/3~8) — 날짜를 정해 둔 행사만 날짜순으로",
-    "why": "열흘 행사 후반부에 무한담기·대게 반값·백화점 클리어런스가 5~8일에 몰려 있어 날짜별로 정리하면 바로 쓸 수 있다"
-   },
-   "added": "claude",
-   "added_at": "2026-11-03T08:42+09:00",
-   "corner": "roundup",
-   "card": {
-    "form": "[카테고리]\n트렌드\n\n[캡션]\n신세계그룹 쓱데이가 마지막 엿새에 들어섰습니다.\n\n지난달 30일 시작한 열흘짜리 행사인데요, 남은 기간에는 날짜를 정해 둔 행사가 몰려 있습니다. 이마트는 5일부터 7일까지 크라운제과 과자를 지정 상자에 담는 만큼 파는 '무한담기'를 열고, 7일 하루는 국산 대게를 신세계포인트 적립 고객에게 반값에 냅니다.\n\n온라인 쪽은 재고를 정리하는 클리어런스가 중심입니다. W컨셉은 패션 잡화와 디지털 리퍼브 상품을 최대 92%, 까사미아 온라인몰은 소파·침대를 최대 80%까지 할인한다고 밝혔고, 이마트24(@emart24_official)는 라벨에 미세한 흠집이 난 프리미엄 와인 5종을 최대 40% 할인합니다.\n\n기간: 11월 8일(일)까지\n과자 무한담기: 11월 5일(목) ~ 7일(토), 이마트\n감자·당근 무한담기: 11월 5일(목) ~ 8일(일), 이마트\n대게 반값: 11월 7일(토), 이마트 (신세계포인트 적립 고객)\n신세계백화점 클리어런스: 11월 6일(금) ~ 8일(일)\n\n#SENE #쓱데이 #신세계 #이마트 #무한담기\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793662952/aavykvf9owfv6jkwopiy.jpg\n제목: 쓱데이 남은 엿새|날짜순 정리\n부제: 11월 8일(일)까지 · 무한담기 · 대게 반값 · 클리어런스\n출처: 신세계그룹\n\n[슬라이드]\n소스: \n소제목: 11월 5일(목) ~ 7일(토)|이마트 과자 무한담기\n본문: 죠리퐁·콘초 같은 크라운제과 과자를 지정 상자에 담는 만큼 판매합니다. 같은 기간 이마트 앱 룰렛은 매일 오전 10시, 선착순 5만 명에게 최대 2만 원 할인 쿠폰.\n출처: \n\n[슬라이드]\n소스: \n소제목: 11월 5일(목) ~ 8일(일)|이마트 감자·당근 무한담기\n본문: 과자에 이어 감자와 당근도 담는 만큼 판매합니다. 과자보다 하루 더 이어집니다.\n출처: \n\n[슬라이드]\n소스: \n소제목: 11월 6일(금) ~ 8일(일)|신세계백화점 클리어런스\n본문: 나이키·아디다스 같은 스포츠 브랜드, 헤지스·바버 남성 아우터, 다이슨·브레빌 가전, 테이블웨어가 참여합니다.\n출처: \n\n[슬라이드]\n소스: \n소제목: 11월 7일(토) 하루|이마트 국산 대게 반값\n본문: 신세계포인트 적립 고객 대상, 준비 물량 5톤.\n출처: \n\n[슬라이드]\n소스: \n소제목: 11월 8일(일)까지|온라인 클리어런스\n본문: W컨셉 최대 92%(패션 잡화·디지털 리퍼브), 까사미아 온라인몰 최대 80%(소파·침대), 신세계라이브쇼핑 최대 77%, 이마트24 라벨 흠집 와인 5종 최대 40%. 할인율은 각 사 발표 기준.\n출처:\n",
-    "caption": "신세계그룹 쓱데이가 마지막 엿새에 들어섰습니다.\n\n지난달 30일 시작한 열흘짜리 행사인데요, 남은 기간에는 날짜를 정해 둔 행사가 몰려 있습니다. 이마트는 5일부터 7일까지 크라운제과 과자를 지정 상자에 담는 만큼 파는 '무한담기'를 열고, 7일 하루는 국산 대게를 신세계포인트 적립 고객에게 반값에 냅니다.\n\n온라인 쪽은 재고를 정리하는 클리어런스가 중심입니다. W컨셉은 패션 잡화와 디지털 리퍼브 상품을 최대 92%, 까사미아 온라인몰은 소파·침대를 최대 80%까지 할인한다고 밝혔고, 이마트24(@emart24_official)는 라벨에 미세한 흠집이 난 프리미엄 와인 5종을 최대 40% 할인합니다.\n\n기간: 11월 8일(일)까지\n과자 무한담기: 11월 5일(목) ~ 7일(토), 이마트\n감자·당근 무한담기: 11월 5일(목) ~ 8일(일), 이마트\n대게 반값: 11월 7일(토), 이마트 (신세계포인트 적립 고객)\n신세계백화점 클리어런스: 11월 6일(금) ~ 8일(일)\n\n#SENE #쓱데이 #신세계 #이마트 #무한담기",
-    "photos": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662952/aavykvf9owfv6jkwopiy.jpg",
-      "credit": "신세계그룹",
-      "from": "https://cdn.financialpost.co.kr/news/photo/202611/284163_376342_734.jpg"
-     }
-    ],
-    "photo_pool": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662952/aavykvf9owfv6jkwopiy.jpg",
-      "credit": "신세계그룹",
-      "from": "https://cdn.financialpost.co.kr/news/photo/202611/284163_376342_734.jpg"
-     }
-    ],
-    "shape": "맥락",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "쓱데이 남은 엿새|날짜순 정리",
-      "sub": "11월 8일(일)까지 · 무한담기 · 대게 반값 · 클리어런스"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "과자 무한담기부터|대게 반값까지",
-      "sub": "쓱데이 막판 일정 11/5~8"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "쓱데이 막판 할인|8일까지 이어진다",
-      "sub": "날짜별로 정리했습니다"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "숏폼 없음 — 공식 광고(신세계백화점·SSG닷컴 채널)가 모두 대사로 끌고 가는 콩트형이라 말 없는 그림으로 안 읽힘",
-     "표지 사진 — 기사 4곳 모두 같은 신세계그룹 배포 그래픽뿐(뉴스룸 매장 사진은 해상도 미달). 아래쪽 '막판 할인 터진다!' 문구가 제목 뒤에 비침 — 이마트 매장 사진이 있으면 교체",
-     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요",
-     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요",
-     "사진이 모자라 5장(1, 2, 3, 4, 5번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "과자 쌓고 대게 반값에…신세계 쓱데이 최대 92% '막판 세일전' (피플워치)",
-      "link": "https://www.peoplewatch.co.kr/article/view/ppw202611020020"
-     },
-     {
-      "title": "신세계그룹 '쓱데이', 8일까지 막판 할인 이어간다 (코리아리포트)",
-      "link": "https://www.koreareport.co.kr/news/articleView.html?idxno=54200"
-     },
-     {
-      "title": "\"아직 6일 남았다\"...신세계그룹, 최대 92% '쓱데이' 막판 할인 (파이낸셜포스트)",
-      "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=284163"
-     },
-     {
-      "title": "쓱데이 후반전 돌입…'무한담기·스크래치·리퍼브' 할인 총공세 (더피알)",
-      "link": "https://www.the-pr.co.kr/news/articleView.html?idxno=63125"
-     }
-    ],
-    "by": "claude",
-    "preview": {
-     "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662958/vwjgstanwls4lqoij9i9.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662958/tim3pd4erlma9bxbnhwv.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662958/wvefb8ldrnaazusxtehu.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662958/g3j8khcciep7fvoqvfsc.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662959/oj9mdmeeseofxd1f7a5i.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662960/vkseoipd3bacbtppzpwv.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662959/a92iktwcijb2yx1yjid1.jpg"
-     ],
-     "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662963/lvxyubhqnv5cwwfdxljo.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662963/tsp2vyvgjaop03uauigu.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793662958/vwjgstanwls4lqoij9i9.jpg"
-     },
-     "cvr": 2,
-     "at": "2026-11-03T08:42+09:00",
-     "v": {
-      "A": "f5134288",
-      "B": "23be5d6d",
-      "C": "20fee5be",
-      "E": "fc9e4a0c",
-      "J": "4a506c0f"
-     }
-    }
-   },
-   "corner_name": "정리",
-   "corner_no": 1,
-   "i18n_queued": "2026-11-03T11:42+09:00",
-   "i18n": {
-    "at": "2026-11-03T11:46+09:00",
-    "confirm": [
-     "'콘초'의 공식 영어·일본어 표기를 확인하지 못해 영어는 'Concho', 일본어는 'コンチョ'로 소리 나는 대로 적었습니다. '죠리퐁'은 'Jolly Pong' · 'ジョリポン'으로 적었습니다.",
-     "'대게'는 영어 'snow crab', 일본어 'ズワイガニ'로 옮겼습니다.",
-     "행사 기간(10월 30일 ~ 11월 8일, 열흘)은 SSG.com 계열사 안내 페이지(ssg.com/hub/ssgday-2026-affiliates)로 확인했습니다. 할인율·물량 같은 세부 내용은 한국어 원문을 그대로 옮겼습니다.",
-     "영어·일본어 · 소제목 둘째 줄이 긴 곳이 있음: 'Emart Potato & Carrot Fill-a-Box'(32자), 'Shinsegae Dept. Store Clearance'(31자), 'イーマートじゃがいも・にんじん詰め放題'(19자). 규칙상 한 줄은 영어 22자·일본어 12자 안팎. 한국어 원문도 길어서 그대로 두었으니 화면에서 잘리는지 봐 주세요",
-     "고유명사 영어 표기(Emart/E-mart, Jolly Pong, Concho, Casamia)와 일본어 표기(ジョリポン, コンチョ)는 WebSearch로 확인하지 않았습니다. 올리기 전에 공식 표기를 봐 주세요"
-    ],
-    "review": {
-     "at": "2026-11-03T11:46+09:00",
-     "fixes": [
-      "영어 · 표지 제목 둘째 줄 · Every Deal by Date → Deals by Date — 원문은 '날짜순 정리'인데 'Every Deal'은 행사 전부를 모은 것처럼 읽혀 원문에 없는 주장이 됨",
-      "일본어 · 첫 장 본문 · '…割引クーポン。' → '…割引クーポンを配布します。' — 명사로 끝나 문장이 끊긴 것처럼 읽혀 자연스럽게 마무리"
-     ],
-     "doubt": [
-      "영어·일본어 · 소제목 둘째 줄이 긴 곳이 있음: 'Emart Potato & Carrot Fill-a-Box'(32자), 'Shinsegae Dept. Store Clearance'(31자), 'イーマートじゃがいも・にんじん詰め放題'(19자). 규칙상 한 줄은 영어 22자·일본어 12자 안팎. 한국어 원문도 길어서 그대로 두었으니 화면에서 잘리는지 봐 주세요",
-      "고유명사 영어 표기(Emart/E-mart, Jolly Pong, Concho, Casamia)와 일본어 표기(ジョリポン, コンチョ)는 WebSearch로 확인하지 않았습니다. 올리기 전에 공식 표기를 봐 주세요"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\nShinsegae Group's SSG Day has entered its final six days.\n\nThe 10-day event began on Oct 30, and the remaining days are packed with date-specific deals. From Nov 5 to 7, Emart runs a \"Fill-a-Box\" event, selling Crown Confectionery snacks by however much fits in a designated box, and on Nov 7 only, it offers Korean snow crab at half price to Shinsegae Point members.\n\nOnline, the focus is on clearance. W Concept says it is cutting fashion accessories and refurbished digital goods by up to 92%, and Casamia's online mall is taking up to 80% off sofas and beds. emart24 (@emart24_official) is offering five premium wines with minor label scuffs at up to 40% off.\n\nDates: Through Nov 8 (Sun)\nSnack Fill-a-Box: Nov 5 (Thu) – 7 (Sat), Emart\nPotato & Carrot Fill-a-Box: Nov 5 (Thu) – 8 (Sun), Emart\nHalf-Price Snow Crab: Nov 7 (Sat), Emart (Shinsegae Point members)\nShinsegae Department Store Clearance: Nov 6 (Fri) – 8 (Sun)\n\n#SENE #SSGDay #Shinsegae #Emart #KoreaShopping\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793662952/aavykvf9owfv6jkwopiy.jpg\n제목: 6 Days Left of SSG Day|Deals by Date\n부제: Through Nov 8 (Sun) · Fill-a-Box · Half-Price Snow Crab · Clearance\n출처: Shinsegae Group\n\n[슬라이드]\n소스: \n소제목: Nov 5 (Thu) – 7 (Sat)|Emart Snack Fill-a-Box\n본문: Crown Confectionery snacks such as Jolly Pong and Concho, sold by however much fits in a designated box. During the same period, the Emart app roulette runs daily at 10 a.m., with coupons of up to KRW 20,000 off for the first 50,000 users.\n출처: \n\n[슬라이드]\n소스: \n소제목: Nov 5 (Thu) – 8 (Sun)|Emart Potato & Carrot Fill-a-Box\n본문: After snacks, potatoes and carrots are also sold by however much you can fit. It runs one day longer than the snack event.\n출처: \n\n[슬라이드]\n소스: \n소제목: Nov 6 (Fri) – 8 (Sun)|Shinsegae Dept. Store Clearance\n본문: Sports brands such as Nike and Adidas, men's outerwear from Hazzys and Barbour, Dyson and Breville appliances, and tableware are included.\n출처: \n\n[슬라이드]\n소스: \n소제목: Nov 7 (Sat) Only|Half-Price Korean Snow Crab\n본문: For Shinsegae Point members. 5 tons in stock.\n출처: \n\n[슬라이드]\n소스: \n소제목: Through Nov 8 (Sun)|Online Clearance\n본문: W Concept up to 92% off (fashion accessories, refurbished digital goods), Casamia online mall up to 80% off (sofas, beds), Shinsegae Live Shopping up to 77% off, emart24 up to 40% off five wines with label scuffs. Discount rates as announced by each company.\n출처: \n",
-      "caption": "Shinsegae Group's SSG Day has entered its final six days.\n\nThe 10-day event began on Oct 30, and the remaining days are packed with date-specific deals. From Nov 5 to 7, Emart runs a \"Fill-a-Box\" event, selling Crown Confectionery snacks by however much fits in a designated box, and on Nov 7 only, it offers Korean snow crab at half price to Shinsegae Point members.\n\nOnline, the focus is on clearance. W Concept says it is cutting fashion accessories and refurbished digital goods by up to 92%, and Casamia's online mall is taking up to 80% off sofas and beds. emart24 (@emart24_official) is offering five premium wines with minor label scuffs at up to 40% off.\n\nDates: Through Nov 8 (Sun)\nSnack Fill-a-Box: Nov 5 (Thu) – 7 (Sat), Emart\nPotato & Carrot Fill-a-Box: Nov 5 (Thu) – 8 (Sun), Emart\nHalf-Price Snow Crab: Nov 7 (Sat), Emart (Shinsegae Point members)\nShinsegae Department Store Clearance: Nov 6 (Fri) – 8 (Sun)\n\n#SENE #SSGDay #Shinsegae #Emart #KoreaShopping",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673970/j36b2cq53s5xvu3lvkcs.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673969/gnrh6rzfii9infeq7o0f.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673969/oajyqmzdh9pzckfcm409.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673970/tx3q7lsxqhhg7c1opkbv.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673971/y8zncjabtsgmnakic6hd.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673971/zjyncjtqe9ogzxidapcm.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673971/rsdhqiott1ssuglicfhz.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673970/j36b2cq53s5xvu3lvkcs.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-11-03T11:46+09:00"
-      }
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n트렌드\n\n[캡션]\n新世界（シンセゲ）グループの「SSGデー（쓱데이）」が、最後の6日間に入りました。\n\n10月30日に始まった10日間のイベントですが、残りの期間には日付を決めた企画が集中しています。イーマートは5日から7日まで、クラウン製菓のお菓子を指定の箱に詰めた分だけ販売する「詰め放題」を開催し、7日の1日限りで国産ズワイガニを新世界ポイント会員に半額で販売します。\n\nオンラインは在庫を整理するクリアランスが中心です。Wコンセプトはファッション雑貨とデジタルリファービッシュ品を最大92%、カサミアのオンラインモールはソファ・ベッドを最大80%割引すると発表しました。イーマート24（@emart24_official）は、ラベルにわずかな傷がついたプレミアムワイン5種を最大40%割引します。\n\n期間：11月8日（日）まで\nお菓子詰め放題：11月5日（木）〜7日（土）、イーマート\nじゃがいも・にんじん詰め放題：11月5日（木）〜8日（日）、イーマート\nズワイガニ半額：11月7日（土）、イーマート（新世界ポイント会員）\n新世界百貨店クリアランス：11月6日（金）〜8日（日）\n\n#SENE #韓国旅行 #イーマート #新世界 #韓国スーパー\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793662952/aavykvf9owfv6jkwopiy.jpg\n제목: SSGデー残り6日|日付順まとめ\n부제: 11月8日（日）まで・詰め放題・ズワイガニ半額・クリアランス\n출처: 新世界グループ\n\n[슬라이드]\n소스: \n소제목: 11月5日（木）〜7日（土）|イーマートお菓子詰め放題\n본문: ジョリポン、コンチョなどクラウン製菓のお菓子を、指定の箱に詰めた分だけ販売します。同期間、イーマートアプリのルーレットは毎日午前10時、先着5万人に最大20,000ウォンの割引クーポンを配布します。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月5日（木）〜8日（日）|イーマートじゃがいも・にんじん詰め放題\n본문: お菓子に続き、じゃがいもとにんじんも詰めた分だけ販売します。お菓子より1日長く続きます。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月6日（金）〜8日（日）|新世界百貨店クリアランス\n본문: ナイキ、アディダスなどのスポーツブランド、ヘジス・バブアーのメンズアウター、ダイソン・ブレビルの家電、テーブルウェアが参加します。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月7日（土）1日限り|イーマート国産ズワイガニ半額\n본문: 新世界ポイント会員が対象、用意した数量は5トン。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月8日（日）まで|オンラインクリアランス\n본문: Wコンセプト最大92%（ファッション雑貨・デジタルリファービッシュ品）、カサミア公式オンラインモール最大80%（ソファ・ベッド）、新世界ライブショッピング最大77%、イーマート24はラベルに傷のあるワイン5種を最大40%。割引率は各社発表による。\n출처: \n",
-      "caption": "新世界（シンセゲ）グループの「SSGデー（쓱데이）」が、最後の6日間に入りました。\n\n10月30日に始まった10日間のイベントですが、残りの期間には日付を決めた企画が集中しています。イーマートは5日から7日まで、クラウン製菓のお菓子を指定の箱に詰めた分だけ販売する「詰め放題」を開催し、7日の1日限りで国産ズワイガニを新世界ポイント会員に半額で販売します。\n\nオンラインは在庫を整理するクリアランスが中心です。Wコンセプトはファッション雑貨とデジタルリファービッシュ品を最大92%、カサミアのオンラインモールはソファ・ベッドを最大80%割引すると発表しました。イーマート24（@emart24_official）は、ラベルにわずかな傷がついたプレミアムワイン5種を最大40%割引します。\n\n期間：11月8日（日）まで\nお菓子詰め放題：11月5日（木）〜7日（土）、イーマート\nじゃがいも・にんじん詰め放題：11月5日（木）〜8日（日）、イーマート\nズワイガニ半額：11月7日（土）、イーマート（新世界ポイント会員）\n新世界百貨店クリアランス：11月6日（金）〜8日（日）\n\n#SENE #韓国旅行 #イーマート #新世界 #韓国スーパー",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673976/sylb7n6or35u8ytul7bm.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673975/iidvwvoifkwsd9p4lrpy.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673976/z4zzuewsyndxjovcpl9u.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673975/vfrpz5hw7nrzdzjv4u9b.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673977/yz5wnazqbzhzi54oxekb.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673977/wzspaoopsfjxgctzo29t.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673977/zbqgjm5gb0farz8ropil.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673976/sylb7n6or35u8ytul7bm.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-11-03T11:46+09:00"
-      }
-     }
-    }
-   }
-  },
-  {
-   "source": {
-    "id": "claude:brk-520c1738",
-    "account": "@속보",
-    "url": "https://blog.naver.com/min-bly/224463070617",
-    "image": null,
-    "head": "디즈니+ 〈재혼 황후〉 공개 앞두고 성수동에 황궁 팝업, 11월 15일까지",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-03T08:46+09:00",
-   "key": "6721922f",
-   "by": "claude",
-   "subjects": [
-    "재혼 황후"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "드라마 공개(11/4)보다 먼저 성수동에 열린 〈재혼 황후〉 황궁 팝업 — 1층 굿즈, 2층 나비에의 침실·집필실",
-    "why": "공개 하루 전 성수 팝업 · 이번 주말까지 가 볼 수 있는 소식"
-   },
-   "added": "claude",
-   "added_at": "2026-11-03T08:46+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n컬처\n\n[캡션]\n드라마 〈재혼 황후(@disneypluskr)〉 속 황궁이 공개보다 먼저 성수동에 열렸습니다.\n\n디즈니+가 작품 공개를 앞두고 꾸린 팝업 '재혼 황후 동대제국으로의 초대'인데요, 동대제국은 신민아가 연기한 황후 나비에의 나라입니다.\n\n1층에서는 작품 굿즈를 팔고, 2층에는 나비에의 침실과 서신 집필실을 재현했습니다. 드라마 속 실제 의상과 소품도 2층에 전시됩니다. 드라마는 11월 4일(수) 1~4회를 시작으로 매주 수요일 두 편씩, 모두 10부작으로 공개됩니다.\n\n기간: 11월 15일(일)까지\n장소: 서울 성동구 성수동\n#SENE #재혼황후 #성수팝업 #성수동 #디즈니플러스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793663212/l2aji1uffpiw7z1bamnp.jpg\n제목: 〈재혼 황후〉 황궁이|성수동에 열렸다\n부제: 디즈니+ 팝업 · 11월 15일까지\n출처: @disneypluskr\n",
-    "caption": "드라마 〈재혼 황후(@disneypluskr)〉 속 황궁이 공개보다 먼저 성수동에 열렸습니다.\n\n디즈니+가 작품 공개를 앞두고 꾸린 팝업 '재혼 황후 동대제국으로의 초대'인데요, 동대제국은 신민아가 연기한 황후 나비에의 나라입니다.\n\n1층에서는 작품 굿즈를 팔고, 2층에는 나비에의 침실과 서신 집필실을 재현했습니다. 드라마 속 실제 의상과 소품도 2층에 전시됩니다. 드라마는 11월 4일(수) 1~4회를 시작으로 매주 수요일 두 편씩, 모두 10부작으로 공개됩니다.\n\n기간: 11월 15일(일)까지\n장소: 서울 성동구 성수동\n#SENE #재혼황후 #성수팝업 #성수동 #디즈니플러스",
-    "photos": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663212/l2aji1uffpiw7z1bamnp.jpg",
-      "credit": "@disneypluskr",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/885128709_18352292974271738_7171519965205091293_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=v8S-NacGUBwQ7kNvwHKjqpZ&_nc_oc=AdoUQR54S-TgBj-5MDIV8VSYaEObgYeX4Iw5rNwKKFWtSkgnKbjACxaCKd9HbrAnwPo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=lPQMOlBn-zM2ARv9sequdQ&oh=00_AQSn6JD3OW5T0HnFSbhpi-mO5c9Dfww3ly2k0CnUvo9uag&oe=6AEF0830"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663215/qy2a9j56eldb9z96fz13.jpg",
-      "credit": "@disneypluskr",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/883300465_18352290808271738_3075747375025687800_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rV_QO7IJFxgQ7kNvwHDGd0M&_nc_oc=AdpAKXmIesPcVUreiv5FFu2S84-RNOT4n3bkJ629HiwXY-0t87Hx4QjMZLtYC9qDmW0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=lPQMOlBn-zM2ARv9sequdQ&_nc_tpa=Q5bMBQJYjh-ebWPzM5FJ4bLTIPzaEbggjmhI7Po0tZoTbfv2yz6Owk3nkfczpfIxpTZvDmG8ESbmM2EInQ&oh=00_AQTQPIHFkf8bGUmj5Lf7ExGJZVsoHgWOZjcopesVULegCQ&oe=6AEEEB11"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663217/bm6e4gy4j3vzqaz8du14.jpg",
-      "credit": "디즈니+",
-      "from": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/26/2026082612551334529_l.jpg"
-     }
-    ],
-    "photo_pool": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663212/l2aji1uffpiw7z1bamnp.jpg",
-      "credit": "@disneypluskr",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/885128709_18352292974271738_7171519965205091293_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=v8S-NacGUBwQ7kNvwHKjqpZ&_nc_oc=AdoUQR54S-TgBj-5MDIV8VSYaEObgYeX4Iw5rNwKKFWtSkgnKbjACxaCKd9HbrAnwPo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=lPQMOlBn-zM2ARv9sequdQ&oh=00_AQSn6JD3OW5T0HnFSbhpi-mO5c9Dfww3ly2k0CnUvo9uag&oe=6AEF0830"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663215/qy2a9j56eldb9z96fz13.jpg",
-      "credit": "@disneypluskr",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/883300465_18352290808271738_3075747375025687800_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=rV_QO7IJFxgQ7kNvwHDGd0M&_nc_oc=AdpAKXmIesPcVUreiv5FFu2S84-RNOT4n3bkJ629HiwXY-0t87Hx4QjMZLtYC9qDmW0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=lPQMOlBn-zM2ARv9sequdQ&_nc_tpa=Q5bMBQJYjh-ebWPzM5FJ4bLTIPzaEbggjmhI7Po0tZoTbfv2yz6Owk3nkfczpfIxpTZvDmG8ESbmM2EInQ&oh=00_AQTQPIHFkf8bGUmj5Lf7ExGJZVsoHgWOZjcopesVULegCQ&oe=6AEEEB11"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663217/bm6e4gy4j3vzqaz8du14.jpg",
-      "credit": "디즈니+",
-      "from": "https://www.busan.com/nas/wcms/wcms_data/photos/2026/08/26/2026082612551334529_l.jpg"
-     }
-    ],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "〈재혼 황후〉 황궁이|성수동에 열렸다",
-      "sub": "디즈니+ 팝업 · 11월 15일까지"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "나비에의 침실이|성수 팝업으로",
-      "sub": "1층 굿즈 · 2층 황궁"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "공개 앞두고|성수에 연 황궁",
-      "sub": "〈재혼 황후〉 11월 4일 공개"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 팝업 기간·구성은 부산일보 한 곳뿐(다른 기사·디즈니+ 인스타 본문 확인 실패). 부산일보 리드는 '11월 2일 프리 오픈', 본문은 '11월 3일~15일'로 서로 다름. 상세 주소·운영 시간·예약 방식 없음 — 공식 게시물로 확인 후 장소 줄 보강. 포토존이 몇 층인지 몰라 캡션에서 뺌",
-     "종료일(11월 15일)·층별 구성은 부산일보(디즈니+ 발표 인용) 한 곳 — 디즈니+ 공식 게시물에서 날짜·상세 주소·운영 시간 확인 후 장소 줄 보강",
-     "숏폼 비움 — 팝업 현장 영상은 디즈니+ 인스타 릴스뿐이고 유튜브엔 없음. 예고편은 대사 위주라 SENE 숏폼(말 없는 그림)에 맞지 않음",
-     "이어지는 소식 — 11-02에 다룬 소재. 새 사실: 어제 초안은 이마트24 협업 빼빼로·편의점 팝업존 — 이번은 디즈니+ 공식 드라마 팝업(성수, 11/15까지, 2층 나비에 침실·집필실 재현)으로 주최·장소·내용이 다름"
-    ],
-    "research": [
-     {
-      "title": "디즈니+ '재혼 황후' 공개 전 성수 팝업 오픈 - 부산일보",
-      "link": "https://www.busan.com/view/busan/view.php?code=2026102611124049493"
-     },
-     {
-      "title": "디즈니+ 코리아 공식 인스타그램 (11/02 팝업 게시물)",
-      "link": "https://www.instagram.com/disneypluskr/"
-     },
-     {
-      "title": "'재혼 황후' 11월 4일 1~4회 공개 - 일간스포츠",
-      "link": "https://isplus.com/article/view/isp202610280179"
-     },
-     {
-      "title": "'재혼 황후' 디즈니+ 11월 4일 1~4회 첫 공개 - 톱스타뉴스",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16265747"
-     }
-    ],
-    "by": "claude",
-    "preview": {
-     "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663224/jmvtkvzj9wou8o0zvt6w.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663223/eqw2irjm6a9mavogs5gb.jpg"
-     ],
-     "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663227/gq81ofacofayjdbpdie9.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663227/om6nquy4nwjv9abhlgup.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793663224/jmvtkvzj9wou8o0zvt6w.jpg"
-     },
-     "cvr": 2,
-     "at": "2026-11-03T08:47+09:00",
-     "v": {
-      "A": "35a5d2ae",
-      "B": "105ddcae",
-      "C": "225a92eb"
-     }
-    }
-   },
-   "corner_name": "소식"
-  },
-  {
-   "source": {
-    "id": "claude:brk-949f0ab4",
-    "account": "@속보",
-    "url": "https://www.sportsseoul.com/news/read/1645008?ref=naver",
-    "image": null,
-    "head": "빼빼로데이 편의점 캐릭터 상품, 성수·홍대·잠실 팝업에서 직접 본다",
-    "multiple": null,
-    "is_reel": true,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-03T09:08+09:00",
-   "key": "a303a87c",
-   "by": "claude",
-   "subjects": [
-    "빼빼로데이",
-    "CU",
-    "세븐일레븐"
-   ],
-   "lane": "정리",
-   "editor": {
-    "grade": "A",
-    "kind": "정리",
-    "angle": "빼빼로데이 편의점 캐릭터 상품을 직접 보고 살 수 있는 팝업 — 날짜순",
-    "why": "11/11 앞두고 편의점 4사 캐릭터 협업 기사가 한꺼번에 쏟아짐 · 이번 주(11/4) 문 여는 매장이 있어 독자가 바로 갈 수 있다"
-   },
-   "added": "claude",
-   "added_at": "2026-11-03T09:08+09:00",
-   "corner": "roundup",
-   "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n편의점 세 곳이 빼빼로데이 캐릭터 상품을 직접 보고 살 수 있는 팝업을 엽니다.\n\nCU는 포켓몬과 다마고치, 세븐일레븐(@7elevenkorea)은 캐릭터 브랜드 조앤프렌즈, 이마트24(@emart24_official)는 웹툰 〈재혼 황후(@disneypluskr)〉와 손을 잡았는데요, 상품 대부분이 빼빼로에 키링·말랑이·파우치 같은 굿즈를 묶은 세트입니다. GS25도 호빵맨·짱구 선물 세트를 내놨습니다.\n\n팝업마다 끝나는 날이 다릅니다. 세븐일레븐은 빼빼로데이 당일까지, CU는 그다음 날까지, 이마트24는 16일까지 열립니다.\n\nCU 포켓몬: 11월 4일(수) ~ 12일(목) · CU 성수디저트파크점\nCU 다마고치: 11월 4일(수) ~ 12일(목) · CU 홍대AK점\n세븐일레븐 조앤프렌즈: ~ 11월 11일(수) · 잠실 롯데월드몰\n이마트24 재혼 황후: ~ 11월 16일(월) · 트렌드랩 성수점\n\n#SENE #빼빼로데이 #성수팝업 #CU #세븐일레븐 #이마트24\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664512/cq8ggqckhfdn3cwimrjg.jpg\n제목: 빼빼로데이 편의점|팝업 날짜순 정리\n부제: 성수 · 홍대 · 잠실, 11월 16일까지\n출처: @7elevenkorea\n\n[슬라이드]\n소스: \n소제목: 세븐일레븐 · 조앤프렌즈\n본문: ~ 11월 11일(수)|서울 잠실 롯데월드몰|포토부스와 커스텀 선물 상자 이벤트\n출처: \n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793664528/sene_studio/e2gtqda6iebobchzsc9s.mp4\n소제목: \n본문: \n출처: 맛깔스튜디오 by롯데웰푸드\n\n[슬라이드]\n소스: \n소제목: CU · 포켓몬\n본문: 11월 4일(수) ~ 12일(목)|CU 성수디저트파크점|포켓몬 콘셉트 스토어\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664531/idjgv4ihbzyahldofy4n.jpg\n소제목: CU · 다마고치\n본문: 11월 4일(수) ~ 12일(목)|CU 홍대AK점|다마고치 콘셉트 스토어\n출처: @cu_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664533/oxxkqug0jtc85y5gdmyt.jpg\n소제목: 이마트24 · 재혼 황후\n본문: ~ 11월 16일(월)|이마트24 트렌드랩 성수점|웹툰 〈재혼 황후〉 테마 팝업존\n출처: @emart24_official\n",
-    "caption": "편의점 세 곳이 빼빼로데이 캐릭터 상품을 직접 보고 살 수 있는 팝업을 엽니다.\n\nCU는 포켓몬과 다마고치, 세븐일레븐(@7elevenkorea)은 캐릭터 브랜드 조앤프렌즈, 이마트24(@emart24_official)는 웹툰 〈재혼 황후(@disneypluskr)〉와 손을 잡았는데요, 상품 대부분이 빼빼로에 키링·말랑이·파우치 같은 굿즈를 묶은 세트입니다. GS25도 호빵맨·짱구 선물 세트를 내놨습니다.\n\n팝업마다 끝나는 날이 다릅니다. 세븐일레븐은 빼빼로데이 당일까지, CU는 그다음 날까지, 이마트24는 16일까지 열립니다.\n\nCU 포켓몬: 11월 4일(수) ~ 12일(목) · CU 성수디저트파크점\nCU 다마고치: 11월 4일(수) ~ 12일(목) · CU 홍대AK점\n세븐일레븐 조앤프렌즈: ~ 11월 11일(수) · 잠실 롯데월드몰\n이마트24 재혼 황후: ~ 11월 16일(월) · 트렌드랩 성수점\n\n#SENE #빼빼로데이 #성수팝업 #CU #세븐일레븐 #이마트24",
-    "photos": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664512/cq8ggqckhfdn3cwimrjg.jpg",
-      "credit": "@7elevenkorea",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/864541484_18639686299002422_1838786066770073742_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CBnAoj2vhp0Q7kNvwG0k36G&_nc_oc=AdoVzbgkpSTtQ2iFdYog8si4yfEf6E9rtGGDhZDAJSwDvZBtbgzm4vuWVYqvZ4su3gs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=gxeyxZMGVIrB_wiylN_bIQ&oh=00_AQRsdKTeteiTVrcDvPTOTlHnS4g6yg5ng1xWmRd25jlwHA&oe=6AEEDC04"
-     }
-    ],
-    "photo_pool": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664512/cq8ggqckhfdn3cwimrjg.jpg",
-      "credit": "@7elevenkorea",
-      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/864541484_18639686299002422_1838786066770073742_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=CBnAoj2vhp0Q7kNvwG0k36G&_nc_oc=AdoVzbgkpSTtQ2iFdYog8si4yfEf6E9rtGGDhZDAJSwDvZBtbgzm4vuWVYqvZ4su3gs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=gxeyxZMGVIrB_wiylN_bIQ&oh=00_AQRsdKTeteiTVrcDvPTOTlHnS4g6yg5ng1xWmRd25jlwHA&oe=6AEEDC04"
-     }
-    ],
-    "shape": "맥락",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "빼빼로데이 편의점|팝업 날짜순 정리",
-      "sub": "성수 · 홍대 · 잠실, 11월 16일까지"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "성수·홍대·잠실|편의점 빼빼로 팝업",
-      "sub": "CU · 세븐일레븐 · 이마트24"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "포켓몬부터 재혼 황후까지|편의점 빼빼로 팝업",
-      "sub": "11월 4일부터 16일까지"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 사진 — 표지(01)에서 SENE 로고가 세븐일레븐 로고 위에, 출처 글자가 'ZO&FRIENDS' 표기 위에 겹침 · 3장(CU 다마고치)이 mp4로 렌더돼 확인용 사본이 멈춰 3·4장과 표지 B·C는 못 봄 — 앱에서 눈으로 확인. 'MEET & GREET' 경품 대상은 기사마다 다르게 적혀(111명 전원 vs 1등 11명) 문장을 '경품에 초청권이 들어 있다'로 낮춤",
-     "클립 위험: 낮음 — 맛깔스튜디오 by롯데웰푸드 (0:01-0:17 첫 장면에 멤버가 또렷이 보이는지 눈으로 확인)",
-     "팝업 기간(CU 11/4~12 · 세븐일레븐 ~11/11 · 이마트24 ~11/16)은 기사 기준 — 각 편의점 공식 계정 최신 공지와 대조",
-     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요",
-     "사진이 모자라 2장(1, 3번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "롯데웰푸드, 뉴욕 타임스스퀘어부터 베트남까지…‘빼빼로데이’ 글로벌 (스포츠서울)",
-      "link": "https://www.sportsseoul.com/news/read/1645008"
-     },
-     {
-      "title": "빼빼로데이가 온다...편의점, 캐릭터·IP 협업 ‘총력’ (지디넷코리아)",
-      "link": "https://zdnet.co.kr/view/?no=20261102143012"
-     },
-     {
-      "title": "편의점 4사, 연중 최고 매출 ‘빼빼로데이’ 잡아라 (브릿지경제)",
-      "link": "https://www.viva100.com/article/20261102500046"
-     },
-     {
-      "title": "포켓몬부터 산리오까지···편의점, 빼빼로데이 상품 경쟁 (서울파이낸스)",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=641611"
-     },
-     {
-      "title": "무무씨·짱구·포켓몬 총출동…편의점 4사 (더뷰어스)",
-      "link": "https://theviewers.co.kr/View.aspx?No=4292883"
-     },
-     {
-      "title": "빼빼로가 전 세계에…롯데웰푸드, 스트레이 키즈와 글로벌 마케팅 확대 (CEO스코어데일리)",
-      "link": "https://m.ceoscoredaily.com/page/view/2026102309580667618"
-     }
-    ],
-    "by": "claude",
-    "preview": {
-     "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664543/qdy9zoultjuy558o6oki.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664546/rqot1fo43e9rlpru3sgb.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664546/wezyidvztz4mar1ymgev.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664542/h6pvdwjx2giysuqgsjea.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664544/vmpgbzez3my6wzhezbx8.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664545/c8imi0au0dzl8xrnjiri.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664545/eg1jgtds34zfftxg9jap.jpg"
-     ],
-     "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664556/tgvv6lsdac4wjdtm2jl4.jpg",
-      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664556/ejuzjvautj9zqwl6viyx.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664543/qdy9zoultjuy558o6oki.jpg"
-     },
-     "cvr": 2,
-     "at": "2026-11-03T09:09+09:00",
-     "videos": {
-      "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793664544/sene_studio/ksmsr9ivulwxwjzosrox.mp4"
-     },
-     "v": {
-      "A": "113a2d9a",
-      "B": "c3b8c93c",
-      "C": "f49b9465",
-      "E": "5e3f121b",
-      "J": "b0fb614d"
-     }
-    }
-   },
-   "shorts": {
-    "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: 나누는 *빼빼로*\n아티스트: 스트레이 키즈가\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
-    "caption": "롯데웰푸드가 스트레이 키즈(@realstraykids)와 찍은 2026 빼빼로데이 디지털 필름입니다.\n\n멤버들이 한국에서 빼빼로를 나누고 즐기는 장면을 담은 영상인데요, 롯데웰푸드는 스트레이 키즈를 글로벌 앰배서더로 세우고 미국 뉴욕 타임스스퀘어에 4년째 빼빼로 옥외광고를 걸었습니다.\n\n국내에는 스트레이 키즈·산리오캐릭터즈·가나디와 만든 시즌 패키지 10종이 나왔습니다. 인스타그램에 빼빼로 사진·영상을 올리는 'PLAY WITH PEPERO' 이벤트도 열렸습니다. 추첨으로 모두 111명을 뽑고, 경품에는 스트레이 키즈 'MEET & GREET' 초청권이 들어 있습니다.\n\n빼빼로데이: 11월 11일(수)\n\n#SENE #빼빼로데이 #빼빼로 #스트레이키즈 #롯데웰푸드",
-    "hooks": {
-     "A": "스트레이 키즈가 / 나누는 *빼빼로*",
-     "B": "빼빼로데이 앞둔 / 롯데 디지털 필름",
-     "C": "빼빼로를 나누는 / 스트레이 키즈"
-    },
-    "video": {
-     "url": "https://www.youtube.com/watch?v=os6M9p1wBc4",
-     "credit": "맛깔스튜디오 by롯데웰푸드",
-     "range": [
-      1.0,
-      17.0
-     ]
-    },
-    "guided": {
-     "rec": "A",
-     "lint": []
-    },
-    "issues": [],
-    "confirm": [
-     "[검증] 사진 — 표지(01)에서 SENE 로고가 세븐일레븐 로고 위에, 출처 글자가 'ZO&FRIENDS' 표기 위에 겹침 · 3장(CU 다마고치)이 mp4로 렌더돼 확인용 사본이 멈춰 3·4장과 표지 B·C는 못 봄 — 앱에서 눈으로 확인. 'MEET & GREET' 경품 대상은 기사마다 다르게 적혀(111명 전원 vs 1등 11명) 문장을 '경품에 초청권이 들어 있다'로 낮춤",
-     "클립 위험: 낮음 — 맛깔스튜디오 by롯데웰푸드 (0:01-0:17 첫 장면에 멤버가 또렷이 보이는지 눈으로 확인)",
-     "팝업 기간(CU 11/4~12 · 세븐일레븐 ~11/11 · 이마트24 ~11/16)은 기사 기준 — 각 편의점 공식 계정 최신 공지와 대조"
-    ],
-    "research": [
-     {
-      "title": "롯데웰푸드, 뉴욕 타임스스퀘어부터 베트남까지…‘빼빼로데이’ 글로벌 (스포츠서울)",
-      "link": "https://www.sportsseoul.com/news/read/1645008"
-     },
-     {
-      "title": "빼빼로데이가 온다...편의점, 캐릭터·IP 협업 ‘총력’ (지디넷코리아)",
-      "link": "https://zdnet.co.kr/view/?no=20261102143012"
-     },
-     {
-      "title": "편의점 4사, 연중 최고 매출 ‘빼빼로데이’ 잡아라 (브릿지경제)",
-      "link": "https://www.viva100.com/article/20261102500046"
-     },
-     {
-      "title": "포켓몬부터 산리오까지···편의점, 빼빼로데이 상품 경쟁 (서울파이낸스)",
-      "link": "https://www.seoulfn.com/news/articleView.html?idxno=641611"
-     },
-     {
-      "title": "무무씨·짱구·포켓몬 총출동…편의점 4사 (더뷰어스)",
-      "link": "https://theviewers.co.kr/View.aspx?No=4292883"
-     },
-     {
-      "title": "빼빼로가 전 세계에…롯데웰푸드, 스트레이 키즈와 글로벌 마케팅 확대 (CEO스코어데일리)",
-      "link": "https://m.ceoscoredaily.com/page/view/2026102309580667618"
-     }
-    ],
-    "thumb": "https://i.ytimg.com/vi/os6M9p1wBc4/maxresdefault.jpg",
-    "still": {
-     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793664565/a4qpvz9qlk9wyi1ss4k7.jpg",
-     "key": "os6M9p1wBc4@1.0"
-    },
-    "px": {
-     "vid": "os6M9p1wBc4",
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793664617/sene_studio/m19impdnwn0wevitamfe.mp4",
-     "off": 0.0,
-     "end": 62.0,
-     "full": 66.0
-    },
-    "rendered": {
-     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793664693/sene_studio/krjupixcjr4ntiswroqw.mp4",
-     "at": "2026-11-03T09:11+09:00",
-     "file": "SeuTeuLeI_KiJeuGa_NaNuNeun_PpaePpaeLo_TeuLenDeu_no_lyrics.mp4",
-     "v": "04085c8e"
-    },
-    "published": {
-     "permalink": "https://www.instagram.com/reel/DfSaSYDk81Y/",
-     "at": "2026-11-04T02:24+09:00",
-     "account": "sene",
-     "via": "api"
-    }
-   },
-   "corner_name": "정리",
-   "corner_no": 2,
-   "i18n_queued": "2026-11-03T11:42+09:00",
-   "i18n": {
-    "at": "2026-11-03T11:44+09:00",
-    "confirm": [
-     "조앤프렌즈 공식 영문·일본어 표기를 찾지 못해 영어는 'Joan Friends'(로마자), 일본어는 ジョアンフレンズ(조앤프렌즈)로 적었습니다 — 세븐일레븐·IPX 공식 표기를 확인해 주세요.",
-     "〈재혼 황후〉 일본어판: 디즈니플러스 일본 공식 제목은 찾지 못했고, 원작 일본어판 제목 『再婚承認を要求します』를 썼습니다. 영어는 'The Remarried Empress'(원작·보도 기준)입니다.",
-     "가나디 공식 영문·일본어 표기를 확인하지 못해 Ganadi / ガナディ로 적었습니다.",
-     "CU 매장명 영어(CU Seongsu Dessert Park · CU Hongdae AK)와 일본어(CU聖水デザートパーク店 · CU弘大AK店), 'emart24 Trend Lab Seongsu'는 매장 공식 표기가 아니라 옮겨 쓴 이름입니다.",
-     "출처 칸 '맛깔스튜디오 by롯데웰푸드'는 지침대로 원문 그대로 두었습니다. 영어·일본어 계정에서 이 이름을 옮겨 써야 하면 알려 주세요.",
-     "영어·일본어 · 출처 칸 '맛깔스튜디오 by롯데웰푸드' 두 곳 — 채널(브랜드) 이름이라 규칙대로 그대로 두었지만, 영어·일본어판에 한글이 남음. 공식 영문 채널명이 있으면 바꿀지 확인 필요",
-     "조앤프렌즈 — 공식 영문·일문 표기를 찾지 못해 영어는 로마자 'Joan Friends', 일본어는 'ジョアンフレンズ' 그대로 둠. 세븐일레븐·조앤프렌즈 공식 계정에서 표기 확인 필요",
-     "일본어 · '再婚承認を要求します' — 웹툰의 일본어판 공식 제목으로 알고 있으나, 이마트24 팝업이 웹툰 기준인지 디즈니+ 드라마 기준인지 한 번 더 확인 필요 (드라마 일본어 제목이 다를 수 있음)",
-     "영어판 출처에 한글이 남음",
-     "영어판 출처에 한글이 남음",
-     "일본어판 출처에 한글이 남음",
-     "일본어판 출처에 한글이 남음"
-    ],
-    "review": {
-     "at": "2026-11-03T11:44+09:00",
-     "fixes": [
-      "영어 · 표지 제목 · 'Convenience Store Pepero|Day Pop-ups, by Date' → 'Convenience Store Pop-ups|for Pepero Day, by Date' — 'Pepero Day' 가 두 줄로 갈려 읽기 어려웠고, 첫 줄이 'Convenience Store Pepero' 로 끊겨 제품명처럼 읽혔음",
-      "일본어 · 표지 제목 둘째 줄 · 'ポップアップ日付順' → 'ポップアップを日付順に' — 명사만 붙여 놓아 어색했던 것을 조사를 넣어 자연스럽게 함"
-     ],
-     "doubt": [
-      "영어·일본어 · 출처 칸 '맛깔스튜디오 by롯데웰푸드' 두 곳 — 채널(브랜드) 이름이라 규칙대로 그대로 두었지만, 영어·일본어판에 한글이 남음. 공식 영문 채널명이 있으면 바꿀지 확인 필요",
-      "조앤프렌즈 — 공식 영문·일문 표기를 찾지 못해 영어는 로마자 'Joan Friends', 일본어는 'ジョアンフレンズ' 그대로 둠. 세븐일레븐·조앤프렌즈 공식 계정에서 표기 확인 필요",
-      "일본어 · '再婚承認を要求します' — 웹툰의 일본어판 공식 제목으로 알고 있으나, 이마트24 팝업이 웹툰 기준인지 디즈니+ 드라마 기준인지 한 번 더 확인 필요 (드라마 일본어 제목이 다를 수 있음)",
-      "영어판 출처에 한글이 남음",
-      "영어판 출처에 한글이 남음",
-      "일본어판 출처에 한글이 남음",
-      "일본어판 출처에 한글이 남음"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nThree convenience store chains are opening pop-ups where you can see and buy Pepero Day character goods in person.\n\nCU has teamed up with Pokémon and Tamagotchi, 7-Eleven (@7elevenkorea) with the character brand Joan Friends, and emart24 (@emart24_official) with the webtoon 'The Remarried Empress' (@disneypluskr). Most of the products are sets that pair Pepero with goods such as keyrings, squishies and pouches. GS25 has also released Anpanman and Crayon Shin-chan gift sets.\n\nEach pop-up closes on a different day. 7-Eleven runs through Pepero Day itself, CU through the day after, and emart24 through Nov 16.\n\nCU Pokémon: Nov 4 (Wed) – Nov 12 (Thu) · CU Seongsu Dessert Park, Seongsu-dong, Seoul\nCU Tamagotchi: Nov 4 (Wed) – Nov 12 (Thu) · CU Hongdae AK, Hongdae, Seoul\n7-Eleven Joan Friends: Through Nov 11 (Wed) · Lotte World Mall, Jamsil, Seoul\nemart24 The Remarried Empress: Through Nov 16 (Mon) · Trend Lab Seongsu, Seongsu-dong, Seoul\n\n#SENE #PeperoDay #SeoulPopup #Seongsu #KoreanConvenienceStore\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664512/cq8ggqckhfdn3cwimrjg.jpg\n제목: Convenience Store Pop-ups|for Pepero Day, by Date\n부제: Seongsu · Hongdae · Jamsil, through Nov 16\n출처: @7elevenkorea\n\n[슬라이드]\n소스: \n소제목: 7-Eleven · Joan Friends\n본문: Through Nov 11 (Wed)|Lotte World Mall, Jamsil, Seoul|Photo booth and custom gift box event\n출처: \n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793664528/sene_studio/e2gtqda6iebobchzsc9s.mp4\n소제목: \n본문: \n출처: 맛깔스튜디오 by롯데웰푸드\n\n[슬라이드]\n소스: \n소제목: CU · Pokémon\n본문: Nov 4 (Wed) – Nov 12 (Thu)|CU Seongsu Dessert Park|Pokémon concept store\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664531/idjgv4ihbzyahldofy4n.jpg\n소제목: CU · Tamagotchi\n본문: Nov 4 (Wed) – Nov 12 (Thu)|CU Hongdae AK|Tamagotchi concept store\n출처: @cu_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664533/oxxkqug0jtc85y5gdmyt.jpg\n소제목: emart24 · The Remarried Empress\n본문: Through Nov 16 (Mon)|emart24 Trend Lab Seongsu|Pop-up zone themed on the webtoon 'The Remarried Empress'\n출처: @emart24_official\n",
-      "caption": "Three convenience store chains are opening pop-ups where you can see and buy Pepero Day character goods in person.\n\nCU has teamed up with Pokémon and Tamagotchi, 7-Eleven (@7elevenkorea) with the character brand Joan Friends, and emart24 (@emart24_official) with the webtoon 'The Remarried Empress' (@disneypluskr). Most of the products are sets that pair Pepero with goods such as keyrings, squishies and pouches. GS25 has also released Anpanman and Crayon Shin-chan gift sets.\n\nEach pop-up closes on a different day. 7-Eleven runs through Pepero Day itself, CU through the day after, and emart24 through Nov 16.\n\nCU Pokémon: Nov 4 (Wed) – Nov 12 (Thu) · CU Seongsu Dessert Park, Seongsu-dong, Seoul\nCU Tamagotchi: Nov 4 (Wed) – Nov 12 (Thu) · CU Hongdae AK, Hongdae, Seoul\n7-Eleven Joan Friends: Through Nov 11 (Wed) · Lotte World Mall, Jamsil, Seoul\nemart24 The Remarried Empress: Through Nov 16 (Mon) · Trend Lab Seongsu, Seongsu-dong, Seoul\n\n#SENE #PeperoDay #SeoulPopup #Seongsu #KoreanConvenienceStore",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673868/iwhegj9h6yjlp9xstspk.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673867/jycr0c41zmc5pgkodrgd.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673869/jjq3maks1evlvbgqezue.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673867/v96srrazxnttftvzbly3.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673869/korasixxj48o8a8sk6sw.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673869/njgfwgdwm1ztnbujzhoy.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673870/usq8rbloj94jufqttjap.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673868/iwhegj9h6yjlp9xstspk.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-11-03T11:44+09:00",
-       "videos": {
-        "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793673867/sene_studio/mn1bjhtn3qfuxvjdsjmd.mp4"
-       }
-      }
-     },
-     "shorts": {
-      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: *Pepero*\n아티스트: Stray Kids share\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
-      "caption": "This is the 2026 Pepero Day digital film Lotte Wellfood shot with Stray Kids (@realstraykids).\n\nThe video shows the members sharing and enjoying Pepero in Korea. Lotte Wellfood has named Stray Kids its global ambassadors and, for the fourth year running, put up a Pepero billboard in Times Square, New York.\n\nIn Korea, 10 seasonal packages made with Stray Kids, Sanrio Characters and Ganadi are out. There is also a 'PLAY WITH PEPERO' event for posting Pepero photos and videos on Instagram. A total of 111 winners will be drawn, and the prizes include invitations to a Stray Kids 'MEET & GREET'.\n\nPepero Day: Nov 11 (Wed)\n\n#SENE #PeperoDay #Pepero #StrayKids #LotteWellfood",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793673943/sene_studio/rlxineybplqdawgko7bw.mp4",
-       "at": "2026-11-03T11:45+09:00",
-       "file": "Stray_Kids_share_Pepero_TeuLenDeu_no_lyrics.mp4",
-       "sig": "d171730f67",
-       "v": "a15601e6"
-      }
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nコンビニ3社が、ペペロデーのキャラクター商品を実際に見て買えるポップアップをオープンします。\n\nCUはポケモンとたまごっち、セブンイレブン（@7elevenkorea）はキャラクターブランドのジョアンフレンズ（조앤프렌즈）、emart24（@emart24_official）はウェブトゥーン『再婚承認を要求します（재혼 황후）』（@disneypluskr）とコラボしました。商品の多くは、ペペロにキーホルダー・スクイーズ・ポーチなどのグッズを組み合わせたセットです。GS25もアンパンマンとクレヨンしんちゃんのギフトセットを発売しました。\n\nポップアップごとに終了日が異なります。セブンイレブンはペペロデー当日まで、CUはその翌日まで、emart24は16日まで開かれます。\n\nCU ポケモン：11月4日（水）〜12日（木）・ソウル・聖水洞（ソンスドン）CU聖水デザートパーク店\nCU たまごっち：11月4日（水）〜12日（木）・ソウル・弘大（ホンデ）CU弘大AK店\nセブンイレブン ジョアンフレンズ：〜11月11日（水）・ソウル・蚕室（チャムシル）ロッテワールドモール\nemart24 再婚承認を要求します：〜11月16日（月）・ソウル・聖水洞 トレンドラボ聖水店\n\n#SENE #ペペロデー #韓国旅行 #聖水 #韓国コンビニ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664512/cq8ggqckhfdn3cwimrjg.jpg\n제목: ペペロデーのコンビニ|ポップアップを日付順に\n부제: 聖水・弘大・蚕室、11月16日まで\n출처: @7elevenkorea\n\n[슬라이드]\n소스: \n소제목: セブンイレブン・ジョアンフレンズ\n본문: 〜11月11日（水）|ソウル・蚕室（チャムシル）ロッテワールドモール|フォトブースとカスタムギフトボックスのイベント\n출처: \n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793664528/sene_studio/e2gtqda6iebobchzsc9s.mp4\n소제목: \n본문: \n출처: 맛깔스튜디오 by롯데웰푸드\n\n[슬라이드]\n소스: \n소제목: CU・ポケモン\n본문: 11月4日（水）〜12日（木）|CU聖水デザートパーク店|ポケモンのコンセプトストア\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664531/idjgv4ihbzyahldofy4n.jpg\n소제목: CU・たまごっち\n본문: 11月4日（水）〜12日（木）|CU弘大AK店|たまごっちのコンセプトストア\n출처: @cu_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664533/oxxkqug0jtc85y5gdmyt.jpg\n소제목: emart24・再婚承認を要求します\n본문: 〜11月16日（月）|emart24トレンドラボ聖水店|ウェブトゥーン『再婚承認を要求します』のテーマポップアップゾーン\n출처: @emart24_official\n",
-      "caption": "コンビニ3社が、ペペロデーのキャラクター商品を実際に見て買えるポップアップをオープンします。\n\nCUはポケモンとたまごっち、セブンイレブン（@7elevenkorea）はキャラクターブランドのジョアンフレンズ（조앤프렌즈）、emart24（@emart24_official）はウェブトゥーン『再婚承認を要求します（재혼 황후）』（@disneypluskr）とコラボしました。商品の多くは、ペペロにキーホルダー・スクイーズ・ポーチなどのグッズを組み合わせたセットです。GS25もアンパンマンとクレヨンしんちゃんのギフトセットを発売しました。\n\nポップアップごとに終了日が異なります。セブンイレブンはペペロデー当日まで、CUはその翌日まで、emart24は16日まで開かれます。\n\nCU ポケモン：11月4日（水）〜12日（木）・ソウル・聖水洞（ソンスドン）CU聖水デザートパーク店\nCU たまごっち：11月4日（水）〜12日（木）・ソウル・弘大（ホンデ）CU弘大AK店\nセブンイレブン ジョアンフレンズ：〜11月11日（水）・ソウル・蚕室（チャムシル）ロッテワールドモール\nemart24 再婚承認を要求します：〜11月16日（月）・ソウル・聖水洞 トレンドラボ聖水店\n\n#SENE #ペペロデー #韓国旅行 #聖水 #韓国コンビニ",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/b2vfgbimacwx4aquhsjg.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/ufjgcbzwbrlhihfkubuj.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673879/oy5fnlhzyzei9goumckn.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/qirfitqo5ulpf3lxocg6.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673878/rxq5ts4kahoqkiteejga.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673878/bmnbiyec1dawiltltwud.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673878/z9eqokclxbkctrdpp06q.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/b2vfgbimacwx4aquhsjg.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-11-03T11:44+09:00",
-       "videos": {
-        "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793673877/sene_studio/t08vbanim2yjbqyjsybv.mp4"
-       }
-      }
-     },
-     "shorts": {
-      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: 分け合う*ペペロ*\n아티스트: Stray Kidsが\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
-      "caption": "ロッテウェルフードがStray Kids（@realstraykids）と撮影した、2026年ペペロデーのデジタルフィルムです。\n\nメンバーが韓国でペペロを分け合い、楽しむ様子を収めた映像です。ロッテウェルフードはStray Kidsをグローバルアンバサダーに起用し、アメリカ・ニューヨークのタイムズスクエアに4年連続でペペロの屋外広告を掲出しました。\n\n韓国国内では、Stray Kids・サンリオキャラクターズ・ガナディ（가나디）とつくったシーズンパッケージ10種が登場しました。インスタグラムにペペロの写真・動画を投稿する「PLAY WITH PEPERO」イベントも開催されています。抽選で計111人が選ばれ、賞品にはStray Kids「MEET & GREET」の招待券が含まれます。\n\nペペロデー：11月11日（水）\n\n#SENE #ペペロデー #ペペロ #StrayKids #韓国旅行",
-      "rendered": {
-       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793674006/sene_studio/gsdbloakkljkuqgi6wkg.mp4",
-       "at": "2026-11-03T11:46+09:00",
-       "file": "Stray_Kidsga_FenkeHeupepero_TeuLenDeu_no_lyrics.mp4",
-       "sig": "5c1a36cba5",
-       "v": "b9f3a8be"
-      }
-     }
-    }
-   },
-   "pick": {
-    "rank": 3,
-    "why": "빼빼로데이 일주일 전 — 성수·홍대·잠실 팝업 날짜를 한 장에, 주말 동선으로 바로 쓰인다",
-    "at": "2026-11-03T17:46+09:00"
-   }
-  },
-  {
-   "source": {
-    "id": "claude:auction-show-zero",
-    "account": "아시아경제",
-    "url": "https://view.asiae.co.kr/article/2026110217174197150",
-    "image": null,
-    "head": "0원짜리 판화부터 28억 김환기까지…서울옥션, 1000점 경매 축제 (아시아경제 11/2)",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-03T17:46+09:00",
-   "key": "7c142aa5",
-   "by": "claude",
-   "subjects": [
-    "서울옥션"
-   ],
-   "lane": "정리",
-   "editor": {
-    "grade": "A",
-    "kind": "정리",
-    "angle": "[실험] 서울옥션 '2026 옥션쇼' — 기사마다 흩어진 경매 날짜·시작가·참여 방법을 날짜순으로 (처음 경매에 가 보는 사람 기준, 순위 없이)",
-    "why": "11/2 발표 · 11/11 시작이라 이번 주가 저장할 때 · 0원 시작가라는 낯선 사실 · 세븐틴 디에잇 협업 판화가 같은 기간에 걸린다"
-   },
-   "added": "claude",
-   "added_at": "2026-11-03T17:46+09:00",
-   "corner": "roundup",
-   "card": {
-    "form": "[카테고리]\n컬처\n\n[캡션]\n서울옥션(@seoulauction)이 11월 11일부터 2주 동안 강남센터에서 '2026 옥션쇼'를 엽니다.\n\n경매 12회와 전시·팝업 8개가 이어지는 행사인데요, 일부 경매는 시작가가 0원이나 1만원입니다. 13일 판화 경매에서는 샤갈의 원작 이미지로 사후 제작된 판화가 0원에서 출발합니다.\n\n옥션쇼 안에서 열리는 데본 드 자댕 개인전에는 세븐틴 디에잇과 협업한 판화도 걸립니다. 날짜별 경매는 다음 장부터 날짜순으로 모았습니다.\n\n기간: 11월 11일(수) ~ 11월 24일(화)\n장소: 서울 강남구 언주로 864 서울옥션 강남센터\n입장: 2만2000원 (기간 중 재입장 가능)\n응찰: 서울옥션 회원가입 · 패들 등록\n#SENE #서울옥션 #옥션쇼 #강남센터 #디에잇\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695595/g9id5iejxzpatehdrteq.jpg\n제목: 0원부터 시작하는 경매|2주 일정 날짜순\n부제: 서울옥션 2026 옥션쇼 · 강남센터 11/11~24\n출처: 서울옥션 제공 · 한국경제\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695597/zm3t1qqsqvlfinbwoy5m.jpg\n소제목: 11월 12일(목) · 아트 포스터\n본문: 앤디 워홀·앙리 마티스 등의 아트 포스터 경매.\n출처: 서울옥션 제공 · 알파경제\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695599/kjg07eooycus7tjcx6v6.jpg\n소제목: 11월 13일(금) · 판화\n본문: 샤갈의 원작 이미지를 바탕으로 사후 제작된 판화가 시작가 0원, 김점선 판화는 1만원부터.\n출처: 서울옥션 제공 · 아시아경제\n\n[슬라이드]\n소스: \n소제목: 11월 14일(토) · 국세청 특별경매\n본문: 고액 체납자에게서 압류한 물품 — 명품 가방, 골드바 등.\n출처: \n\n[슬라이드]\n소스: \n소제목: 11월 18일(수) · 20일(금)\n본문: 18일 신진 작가 작품 경매.|20일 세계 어린이의 날을 맞은 유니세프 자선 경매.\n출처: \n\n[슬라이드]\n소스: \n소제목: 11월 23일(월) · 24일(화)\n본문: 23일 이브닝 세일 34점 — 김환기 '30-XI-71 #212'가 국내에 처음 나온다 (낮은 추정가 28억원).|24일 컨템포러리 데이 세일 73점.\n출처: \n\n[슬라이드]\n소스: \n소제목: 가 보려면\n본문: 입장권 2만2000원, 기간 중 다시 들어갈 수 있다.|응찰은 서울옥션 회원가입 뒤 패들 등록.|강연·아트 브런치는 따로 예약·결제.\n출처:\n",
-    "caption": "서울옥션(@seoulauction)이 11월 11일부터 2주 동안 강남센터에서 '2026 옥션쇼'를 엽니다.\n\n경매 12회와 전시·팝업 8개가 이어지는 행사인데요, 일부 경매는 시작가가 0원이나 1만원입니다. 13일 판화 경매에서는 샤갈의 원작 이미지로 사후 제작된 판화가 0원에서 출발합니다.\n\n옥션쇼 안에서 열리는 데본 드 자댕 개인전에는 세븐틴 디에잇과 협업한 판화도 걸립니다. 날짜별 경매는 다음 장부터 날짜순으로 모았습니다.\n\n기간: 11월 11일(수) ~ 11월 24일(화)\n장소: 서울 강남구 언주로 864 서울옥션 강남센터\n입장: 2만2000원 (기간 중 재입장 가능)\n응찰: 서울옥션 회원가입 · 패들 등록\n#SENE #서울옥션 #옥션쇼 #강남센터 #디에잇",
-    "photos": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695595/g9id5iejxzpatehdrteq.jpg",
-      "credit": "서울옥션 제공 · 한국경제",
-      "from": "https://img.hankyung.com/photo/202611/01.46287456.1.jpg"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695597/zm3t1qqsqvlfinbwoy5m.jpg",
-      "credit": "서울옥션 제공 · 알파경제",
-      "from": "https://cdn.alphabiz.co.kr/news/photo/202611/195952_158147_4851.jpg"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695599/kjg07eooycus7tjcx6v6.jpg",
-      "credit": "서울옥션 제공 · 아시아경제",
-      "from": "https://cphoto.asiae.co.kr/listimglink/1/2026110217142083638_1793607260.jpg"
-     }
-    ],
-    "photo_pool": [
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695595/g9id5iejxzpatehdrteq.jpg",
-      "credit": "서울옥션 제공 · 한국경제",
-      "from": "https://img.hankyung.com/photo/202611/01.46287456.1.jpg"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695597/zm3t1qqsqvlfinbwoy5m.jpg",
-      "credit": "서울옥션 제공 · 알파경제",
-      "from": "https://cdn.alphabiz.co.kr/news/photo/202611/195952_158147_4851.jpg"
-     },
-     {
-      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695599/kjg07eooycus7tjcx6v6.jpg",
-      "credit": "서울옥션 제공 · 아시아경제",
-      "from": "https://cphoto.asiae.co.kr/listimglink/1/2026110217142083638_1793607260.jpg"
-     }
-    ],
-    "shape": "맥락",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "0원부터 시작하는 경매|2주 일정 날짜순",
-      "sub": "서울옥션 2026 옥션쇼 · 강남센터 11/11~24"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "시작가 0원 경매가|강남에서 열린다",
-      "sub": "서울옥션 2026 옥션쇼 · 11/11~24"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 롤렉스 시계(알파경제만)·12일 포스터 시작가 0원(한국경제만, 날짜 불명)·23일 오후 5시(헤럴드만)는 한 곳뿐이라 뺐음 — 서울옥션 공지로 확인되면 되살리기",
-     "운영 시간 · 입장권 판매처 · 경매 시작 시각은 기사·공식 홈페이지에서 못 찾아 뺐음 — 서울옥션 공지 올라오면 한 줄 더하기",
-     "디에잇 협업 판화가 걸리는 데본 드 자댕 개인전 기간(헤럴드만 11/11~17)은 한 곳뿐이라 뺐음 · 표지 그림은 한국경제 대표 사진(출품작으로 보이나 작가·작품명 미확인 — 인스타 포스터는 박힌 글자가 제목과 겹쳐 뒤로 뺐음)",
-     "사진이 모자라 4장(3, 4, 5, 6번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "아시아경제 (11/2) — 날짜별 경매 12·13·14·18·20·23·24일 · 샤갈 사후 판화 0원 · 김점선 1만원 · 입장 2만2000원 재방문 · 회원가입·패들 등록 · 디에잇 협업 판화",
-      "link": "https://view.asiae.co.kr/article/2026110217174197150"
-     },
-     {
-      "title": "알파경제 — 같은 날짜별 일정 · 입장료 · 참여 방법 · 디에잇 협업 판화",
-      "link": "https://www.alphabiz.co.kr/news/articleView.html?idxno=195952"
-     },
-     {
-      "title": "헤럴드경제 (11/2) — 12일 포스터 · 13일 프린트 0~1만원 · 14일 국세청 · 20일 유니세프 · 23일 오후 5시 이브닝 세일 · 24일 데이 세일",
-      "link": "https://biz.heraldcorp.com/article/10923028"
-     },
-     {
-      "title": "한국경제 (11/3) — 강남구 서울옥션 강남센터 · 입장 2만2000원 기간 내 자유 입장 · 경매 12회 · 디에잇 협업전",
-      "link": "https://www.hankyung.com/article/202611032251i"
-     },
-     {
-      "title": "뉴스핌 (11/2) — 11/11~24 강남센터 · 경매 12개·전시 팝업 8개 · 23일 이브닝 세일 34점",
-      "link": "https://www.newspim.com/news/view/20261102001571"
-     },
-     {
-      "title": "서울옥션 공식 홈페이지 — 강남센터 주소 서울 강남구 언주로 864",
-      "link": "https://www.seoulauction.com"
-     }
-    ],
-    "by": "claude",
-    "preview": {
-     "slides": [
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695609/chtacm4y7xqumfgx8kzy.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695609/agbwl48tuor2fwdukdft.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695609/jla3ntfd84vnlt75c12v.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695608/thkvakd6rb41gthgcv4q.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695610/ycynuzf2cykdsmtfz7zo.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695610/p0p0uzuwtdig4uhxzyds.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695610/a2pbdx2vlmhmassg3wnp.jpg",
-      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695610/od6rjmqh46cmwcl1wpdu.jpg"
-     ],
-     "covers": {
-      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695614/h6vivaghvzyxsijbqu3o.jpg",
-      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695609/chtacm4y7xqumfgx8kzy.jpg"
-     },
-     "cvr": 2,
-     "at": "2026-11-03T17:46+09:00",
-     "v": {
-      "A": "43df7ace",
-      "B": "f9cca99d",
-      "E": "b86cd7b5",
-      "J": "0c6d3578"
-     }
-    }
-   },
-   "pick": {
-    "rank": 2,
-    "why": "다음 주 수요일 시작이라 지금 저장할 날짜표 — 0원 경매라는 낯선 사실 하나에 디에잇 협업 판화까지, 퇴근길에 친구에게 보낼 만하다",
-    "at": "2026-11-03T17:46+09:00"
-   },
-   "corner_name": "정리",
-   "corner_no": 3,
-   "i18n_queued": "2026-11-03T17:47+09:00",
-   "i18n": {
-    "at": "2026-11-03T17:48+09:00",
-    "confirm": [
-     "2026 옥션쇼 일정·입장료·이브닝 세일 출품 수와 추정가는 웹검색으로 다시 확인하지 못했습니다 — 한국어 원문 그대로 옮겼습니다",
-     "데본 드 자댕의 영어 표기는 DeJardin 으로 확인했고, 일본어 표기 'デヴォン・デジャーダン'은 공식 표기가 없어 음차했습니다",
-     "김점선의 로마자 'Kim Jum-sun'과 일본어 'キム・ジョムソン'은 공식 표기를 확인하지 못했습니다",
-     "매체 영문명(Alpha Economy)과 일본어명(アルファ経済·アジア経済)은 의역입니다",
-     "Devon DeJardin 영문 표기는 맞음(albertz benda 작가 페이지 확인). 다만 웹 검색으로는 디에잇 협업 판화가 이 개인전에 걸린다는 내용을 확인하지 못함. 올리기 전에 원문 출처(서울옥션 발표)를 다시 확인할 것",
-     "김점선 영문 표기 Kim Jum-sun은 공식 표기를 확인하지 못함(Kim Jeom-seon으로 쓰는 경우도 있음)"
-    ],
-    "review": {
-     "at": "2026-11-03T17:48+09:00",
-     "fixes": [
-      "일본어 · 표지 제목 · 0ウォンからの競売 → 0ウォンからのオークション — 競売는 법원 경매·압류 처분 느낌이 강하고 다른 칸의 オークション과도 표기가 어긋남",
-      "일본어 · 캡션 둘째 단락 · 続くイベントですが、 → 続くイベントで、 — '~는데요'를 직역한 ですが가 역접으로 읽힘",
-      "일본어 · 11월 23일 본문 · 低推定価格 → 予想落札価格の下限 — 일본 경매 용어로 쓰지 않는 직역어",
-      "영어 · 11월 14일 본문 · Goods seized from high-value tax delinquents → Items seized from delinquent taxpayers with large unpaid bills — 'high-value tax delinquents'는 어색한 연어"
-     ],
-     "doubt": [
-      "Devon DeJardin 영문 표기는 맞음(albertz benda 작가 페이지 확인). 다만 웹 검색으로는 디에잇 협업 판화가 이 개인전에 걸린다는 내용을 확인하지 못함. 올리기 전에 원문 출처(서울옥션 발표)를 다시 확인할 것",
-      "김점선 영문 표기 Kim Jum-sun은 공식 표기를 확인하지 못함(Kim Jeom-seon으로 쓰는 경우도 있음)"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nSeoul Auction (@seoulauction) holds its '2026 Auction Show' at its Gangnam Center for two weeks from Nov 11.\n\nThe event runs 12 auctions alongside eight exhibitions and pop-ups, and some sales open at KRW 0 or KRW 10,000. At the Nov 13 print auction, posthumous prints made from Chagall's original images start at KRW 0.\n\nA solo show by Devon DeJardin inside the Auction Show includes prints made in collaboration with THE8 of SEVENTEEN. The auctions are gathered by date in the slides that follow.\n\nDates: Wed, Nov 11 – Tue, Nov 24\nLocation: Seoul Auction Gangnam Center, 864 Eonju-ro, Gangnam-gu, Seoul\nAdmission: KRW 22,000 (re-entry allowed during the event)\nBidding: Seoul Auction membership · paddle registration\n#SENE #SeoulAuction #AuctionShow #Gangnam #THE8\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695595/g9id5iejxzpatehdrteq.jpg\n제목: Auctions Starting at KRW 0|Two Weeks, Date by Date\n부제: Seoul Auction 2026 Auction Show · Gangnam Center, Nov 11–24\n출처: Courtesy of Seoul Auction · The Korea Economic Daily\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695597/zm3t1qqsqvlfinbwoy5m.jpg\n소제목: Thu, Nov 12 · Art Posters\n본문: An auction of art posters by Andy Warhol, Henri Matisse and others.\n출처: Courtesy of Seoul Auction · Alpha Economy\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695599/kjg07eooycus7tjcx6v6.jpg\n소제목: Fri, Nov 13 · Prints\n본문: Posthumous prints based on Chagall's original images start at KRW 0; prints by Kim Jum-sun start at KRW 10,000.\n출처: Courtesy of Seoul Auction · Asia Economy\n\n[슬라이드]\n소스: \n소제목: Sat, Nov 14 · National Tax Service Special Auction\n본문: Items seized from delinquent taxpayers with large unpaid bills, including luxury bags and gold bars.\n출처: \n\n[슬라이드]\n소스: \n소제목: Wed, Nov 18 · Fri, Nov 20\n본문: Nov 18: works by emerging artists.|Nov 20: a UNICEF charity auction marking World Children's Day.\n출처: \n\n[슬라이드]\n소스: \n소제목: Mon, Nov 23 · Tue, Nov 24\n본문: Nov 23: Evening Sale, 34 lots — Kim Whanki's '30-XI-71 #212' appears in Korea for the first time (low estimate KRW 2.8 billion).|Nov 24: Contemporary Day Sale, 73 lots.\n출처: \n\n[슬라이드]\n소스: \n소제목: Visiting\n본문: Admission is KRW 22,000, with re-entry allowed during the event.|To bid, sign up as a Seoul Auction member and register for a paddle.|Talks and art brunches require separate booking and payment.\n출처: \n",
-      "caption": "Seoul Auction (@seoulauction) holds its '2026 Auction Show' at its Gangnam Center for two weeks from Nov 11.\n\nThe event runs 12 auctions alongside eight exhibitions and pop-ups, and some sales open at KRW 0 or KRW 10,000. At the Nov 13 print auction, posthumous prints made from Chagall's original images start at KRW 0.\n\nA solo show by Devon DeJardin inside the Auction Show includes prints made in collaboration with THE8 of SEVENTEEN. The auctions are gathered by date in the slides that follow.\n\nDates: Wed, Nov 11 – Tue, Nov 24\nLocation: Seoul Auction Gangnam Center, 864 Eonju-ro, Gangnam-gu, Seoul\nAdmission: KRW 22,000 (re-entry allowed during the event)\nBidding: Seoul Auction membership · paddle registration\n#SENE #SeoulAuction #AuctionShow #Gangnam #THE8",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/og3brx5u7qz6fy29pllg.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/hdiyk18oytn6jyyncvbz.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/vtigzxyheentf3bmaeaq.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/ll4tjxqfmyb2alhfekvm.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/troerntvzedbtcd4wjgs.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/hrctag3twdugyqbizeeb.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/izw5ouv02olqtsl4pu6f.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/onfzogq3beqdjsro2sli.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/og3brx5u7qz6fy29pllg.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-11-03T17:48+09:00"
-      }
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nソウルオークション（@seoulauction）が11月11日から2週間、江南センターで「2026 オークションショー」を開きます。\n\nオークション12回と展示・ポップアップ8つが続くイベントで、一部のオークションは開始価格が0ウォンや1万ウォンです。13日の版画オークションでは、シャガールの原作イメージをもとに没後制作された版画が0ウォンから始まります。\n\nオークションショーの中で開かれるデヴォン・デジャーダン（Devon DeJardin）の個展には、SEVENTEENのディエイトとのコラボ版画も展示されます。日付ごとのオークションは次のページから日付順にまとめました。\n\n期間：11月11日（水）〜11月24日（火）\n場所：ソウル・江南区彦州路（オンジュロ）864 ソウルオークション江南センター\n入場：2万2000ウォン（期間中再入場可）\n入札：ソウルオークション会員登録 · パドル登録\n#SENE #ソウルオークション #韓国アート #江南 #ディエイト\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695595/g9id5iejxzpatehdrteq.jpg\n제목: 0ウォンからのオークション|2週間を日付順に\n부제: ソウルオークション 2026 オークションショー · 江南センター 11/11〜24\n출처: 提供：ソウルオークション · 韓国経済新聞\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695597/zm3t1qqsqvlfinbwoy5m.jpg\n소제목: 11月12日（木）· アートポスター\n본문: アンディ・ウォーホル、アンリ・マティスらのアートポスターのオークション。\n출처: 提供：ソウルオークション · アルファ経済\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695599/kjg07eooycus7tjcx6v6.jpg\n소제목: 11月13日（金）· 版画\n본문: シャガールの原作イメージをもとに没後制作された版画が開始価格0ウォン、キム・ジョムソン（김점선）の版画は1万ウォンから。\n출처: 提供：ソウルオークション · アジア経済\n\n[슬라이드]\n소스: \n소제목: 11月14日（土）· 国税庁特別オークション\n본문: 高額滞納者から差し押さえた品 — ブランドバッグ、金の延べ棒など。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月18日（水）· 20日（金）\n본문: 18日は新進作家の作品オークション。|20日は世界子どもの日に合わせたユニセフのチャリティーオークション。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月23日（月）· 24日（火）\n본문: 23日のイブニングセールは34点 — キム・ファンギ（金煥基）の「30-XI-71 #212」が韓国で初めて出品されます（予想落札価格の下限28億ウォン）。|24日のコンテンポラリー・デイセールは73点。\n출처: \n\n[슬라이드]\n소스: \n소제목: 訪れるなら\n본문: 入場券は2万2000ウォン、期間中は再入場できます。|入札はソウルオークションの会員登録後、パドル登録が必要です。|講演・アートブランチは別途予約・決済。\n출처: \n",
-      "caption": "ソウルオークション（@seoulauction）が11月11日から2週間、江南センターで「2026 オークションショー」を開きます。\n\nオークション12回と展示・ポップアップ8つが続くイベントで、一部のオークションは開始価格が0ウォンや1万ウォンです。13日の版画オークションでは、シャガールの原作イメージをもとに没後制作された版画が0ウォンから始まります。\n\nオークションショーの中で開かれるデヴォン・デジャーダン（Devon DeJardin）の個展には、SEVENTEENのディエイトとのコラボ版画も展示されます。日付ごとのオークションは次のページから日付順にまとめました。\n\n期間：11月11日（水）〜11月24日（火）\n場所：ソウル・江南区彦州路（オンジュロ）864 ソウルオークション江南センター\n入場：2万2000ウォン（期間中再入場可）\n入札：ソウルオークション会員登録 · パドル登録\n#SENE #ソウルオークション #韓国アート #江南 #ディエイト",
-      "preview": {
-       "slides": [
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/hjxsuf43mo53paitrzff.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/bdidvaopxqlhvilfjr46.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/xehbng9j3oyqdxfkkwur.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695723/k2lzgxvokukwbuon9nia.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695725/nnzjivdcwzuvytdppe3r.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695725/sc7vyvjuxei0zws8cm4o.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695725/znwx6vrzfdqycm8jzw9t.jpg",
-        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695726/iwf7icmr9bdpafcfpbfb.jpg"
-       ],
-       "covers": {
-        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/hjxsuf43mo53paitrzff.jpg"
-       },
-       "cvr": 2,
-       "at": "2026-11-03T17:48+09:00"
-      }
-     }
-    }
-   }
+   "corner_name": "소식",
+   "i18n_queued": "2026-11-04T08:30+09:00"
   }
  ],
  "skipped": [],
@@ -1058,7 +215,7 @@
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 3,
+    "drafts": 0,
     "why": "날짜·장소·가격이 있는 모음 (이번 주 성수 팝업 · 이번 달 개봉작). 순위는 매기지 않는다"
    },
    {
@@ -1148,11 +305,11 @@
     "weekly": 7,
     "done": 0,
     "left": 7,
-    "need_today": 0,
+    "need_today": 1,
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 1,
+    "drafts": 0,
     "why": "매일 숏폼 하나 — 공식 영상 속 한 사람의 표정·반응·작은 사건 10~30초 (무대·음악 자체는 PLOT)"
    },
    {
@@ -1273,10 +430,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T02:26+09:00"
+  "at": "2026-11-04T08:30+09:00"
  },
  "queue": {
-  "next": "2026-11-04T08:00+09:00",
+  "next": "2026-11-04T08:32+09:00",
   "n": 0,
   "gap": 20
  },
