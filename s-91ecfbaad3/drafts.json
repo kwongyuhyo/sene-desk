@@ -92,6 +92,12 @@
      "at": "2026-11-03T08:26+09:00",
      "file": "KaLiNa_EolEoButEun_DoSi_PaeSyeon_no_lyrics.mp4",
      "v": "1152fdf5"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfSaXA6jmfq/",
+     "at": "2026-11-04T02:25+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "corner_name": "오늘의 순간",
@@ -128,6 +134,12 @@
        "file": "Karina_A_Frozen_City_PaeSyeon_no_lyrics.mp4",
        "sig": "ea2a3c96f8",
        "v": "6b45613b"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfSacRliBtO/",
+       "at": "2026-11-04T02:25+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      }
     },
@@ -141,6 +153,12 @@
        "file": "karina_DongritsuitaJie_PaeSyeon_no_lyrics.mp4",
        "sig": "c0607689d2",
        "v": "6a5178ab"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfSagtNnfP9/",
+       "at": "2026-11-04T02:26+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      }
     }
@@ -1255,7 +1273,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T02:24+09:00"
+  "at": "2026-11-04T02:26+09:00"
  },
  "queue": {
   "next": "2026-11-04T08:00+09:00",
