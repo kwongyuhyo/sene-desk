@@ -918,7 +918,9 @@
      "at": "2026-11-03T17:46+09:00",
      "v": {
       "A": "43df7ace",
-      "B": "f9cca99d"
+      "B": "f9cca99d",
+      "E": "b86cd7b5",
+      "J": "0c6d3578"
      }
     }
    },
@@ -929,7 +931,77 @@
    },
    "corner_name": "정리",
    "corner_no": 3,
-   "i18n_queued": "2026-11-03T17:47+09:00"
+   "i18n_queued": "2026-11-03T17:47+09:00",
+   "i18n": {
+    "at": "2026-11-03T17:48+09:00",
+    "confirm": [
+     "2026 옥션쇼 일정·입장료·이브닝 세일 출품 수와 추정가는 웹검색으로 다시 확인하지 못했습니다 — 한국어 원문 그대로 옮겼습니다",
+     "데본 드 자댕의 영어 표기는 DeJardin 으로 확인했고, 일본어 표기 'デヴォン・デジャーダン'은 공식 표기가 없어 음차했습니다",
+     "김점선의 로마자 'Kim Jum-sun'과 일본어 'キム・ジョムソン'은 공식 표기를 확인하지 못했습니다",
+     "매체 영문명(Alpha Economy)과 일본어명(アルファ経済·アジア経済)은 의역입니다",
+     "Devon DeJardin 영문 표기는 맞음(albertz benda 작가 페이지 확인). 다만 웹 검색으로는 디에잇 협업 판화가 이 개인전에 걸린다는 내용을 확인하지 못함. 올리기 전에 원문 출처(서울옥션 발표)를 다시 확인할 것",
+     "김점선 영문 표기 Kim Jum-sun은 공식 표기를 확인하지 못함(Kim Jeom-seon으로 쓰는 경우도 있음)"
+    ],
+    "review": {
+     "at": "2026-11-03T17:48+09:00",
+     "fixes": [
+      "일본어 · 표지 제목 · 0ウォンからの競売 → 0ウォンからのオークション — 競売는 법원 경매·압류 처분 느낌이 강하고 다른 칸의 オークション과도 표기가 어긋남",
+      "일본어 · 캡션 둘째 단락 · 続くイベントですが、 → 続くイベントで、 — '~는데요'를 직역한 ですが가 역접으로 읽힘",
+      "일본어 · 11월 23일 본문 · 低推定価格 → 予想落札価格の下限 — 일본 경매 용어로 쓰지 않는 직역어",
+      "영어 · 11월 14일 본문 · Goods seized from high-value tax delinquents → Items seized from delinquent taxpayers with large unpaid bills — 'high-value tax delinquents'는 어색한 연어"
+     ],
+     "doubt": [
+      "Devon DeJardin 영문 표기는 맞음(albertz benda 작가 페이지 확인). 다만 웹 검색으로는 디에잇 협업 판화가 이 개인전에 걸린다는 내용을 확인하지 못함. 올리기 전에 원문 출처(서울옥션 발표)를 다시 확인할 것",
+      "김점선 영문 표기 Kim Jum-sun은 공식 표기를 확인하지 못함(Kim Jeom-seon으로 쓰는 경우도 있음)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nSeoul Auction (@seoulauction) holds its '2026 Auction Show' at its Gangnam Center for two weeks from Nov 11.\n\nThe event runs 12 auctions alongside eight exhibitions and pop-ups, and some sales open at KRW 0 or KRW 10,000. At the Nov 13 print auction, posthumous prints made from Chagall's original images start at KRW 0.\n\nA solo show by Devon DeJardin inside the Auction Show includes prints made in collaboration with THE8 of SEVENTEEN. The auctions are gathered by date in the slides that follow.\n\nDates: Wed, Nov 11 – Tue, Nov 24\nLocation: Seoul Auction Gangnam Center, 864 Eonju-ro, Gangnam-gu, Seoul\nAdmission: KRW 22,000 (re-entry allowed during the event)\nBidding: Seoul Auction membership · paddle registration\n#SENE #SeoulAuction #AuctionShow #Gangnam #THE8\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695595/g9id5iejxzpatehdrteq.jpg\n제목: Auctions Starting at KRW 0|Two Weeks, Date by Date\n부제: Seoul Auction 2026 Auction Show · Gangnam Center, Nov 11–24\n출처: Courtesy of Seoul Auction · The Korea Economic Daily\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695597/zm3t1qqsqvlfinbwoy5m.jpg\n소제목: Thu, Nov 12 · Art Posters\n본문: An auction of art posters by Andy Warhol, Henri Matisse and others.\n출처: Courtesy of Seoul Auction · Alpha Economy\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695599/kjg07eooycus7tjcx6v6.jpg\n소제목: Fri, Nov 13 · Prints\n본문: Posthumous prints based on Chagall's original images start at KRW 0; prints by Kim Jum-sun start at KRW 10,000.\n출처: Courtesy of Seoul Auction · Asia Economy\n\n[슬라이드]\n소스: \n소제목: Sat, Nov 14 · National Tax Service Special Auction\n본문: Items seized from delinquent taxpayers with large unpaid bills, including luxury bags and gold bars.\n출처: \n\n[슬라이드]\n소스: \n소제목: Wed, Nov 18 · Fri, Nov 20\n본문: Nov 18: works by emerging artists.|Nov 20: a UNICEF charity auction marking World Children's Day.\n출처: \n\n[슬라이드]\n소스: \n소제목: Mon, Nov 23 · Tue, Nov 24\n본문: Nov 23: Evening Sale, 34 lots — Kim Whanki's '30-XI-71 #212' appears in Korea for the first time (low estimate KRW 2.8 billion).|Nov 24: Contemporary Day Sale, 73 lots.\n출처: \n\n[슬라이드]\n소스: \n소제목: Visiting\n본문: Admission is KRW 22,000, with re-entry allowed during the event.|To bid, sign up as a Seoul Auction member and register for a paddle.|Talks and art brunches require separate booking and payment.\n출처: \n",
+      "caption": "Seoul Auction (@seoulauction) holds its '2026 Auction Show' at its Gangnam Center for two weeks from Nov 11.\n\nThe event runs 12 auctions alongside eight exhibitions and pop-ups, and some sales open at KRW 0 or KRW 10,000. At the Nov 13 print auction, posthumous prints made from Chagall's original images start at KRW 0.\n\nA solo show by Devon DeJardin inside the Auction Show includes prints made in collaboration with THE8 of SEVENTEEN. The auctions are gathered by date in the slides that follow.\n\nDates: Wed, Nov 11 – Tue, Nov 24\nLocation: Seoul Auction Gangnam Center, 864 Eonju-ro, Gangnam-gu, Seoul\nAdmission: KRW 22,000 (re-entry allowed during the event)\nBidding: Seoul Auction membership · paddle registration\n#SENE #SeoulAuction #AuctionShow #Gangnam #THE8",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/og3brx5u7qz6fy29pllg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/hdiyk18oytn6jyyncvbz.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/vtigzxyheentf3bmaeaq.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/ll4tjxqfmyb2alhfekvm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/troerntvzedbtcd4wjgs.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/hrctag3twdugyqbizeeb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/izw5ouv02olqtsl4pu6f.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695717/onfzogq3beqdjsro2sli.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695715/og3brx5u7qz6fy29pllg.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-03T17:48+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nソウルオークション（@seoulauction）が11月11日から2週間、江南センターで「2026 オークションショー」を開きます。\n\nオークション12回と展示・ポップアップ8つが続くイベントで、一部のオークションは開始価格が0ウォンや1万ウォンです。13日の版画オークションでは、シャガールの原作イメージをもとに没後制作された版画が0ウォンから始まります。\n\nオークションショーの中で開かれるデヴォン・デジャーダン（Devon DeJardin）の個展には、SEVENTEENのディエイトとのコラボ版画も展示されます。日付ごとのオークションは次のページから日付順にまとめました。\n\n期間：11月11日（水）〜11月24日（火）\n場所：ソウル・江南区彦州路（オンジュロ）864 ソウルオークション江南センター\n入場：2万2000ウォン（期間中再入場可）\n入札：ソウルオークション会員登録 · パドル登録\n#SENE #ソウルオークション #韓国アート #江南 #ディエイト\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695595/g9id5iejxzpatehdrteq.jpg\n제목: 0ウォンからのオークション|2週間を日付順に\n부제: ソウルオークション 2026 オークションショー · 江南センター 11/11〜24\n출처: 提供：ソウルオークション · 韓国経済新聞\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695597/zm3t1qqsqvlfinbwoy5m.jpg\n소제목: 11月12日（木）· アートポスター\n본문: アンディ・ウォーホル、アンリ・マティスらのアートポスターのオークション。\n출처: 提供：ソウルオークション · アルファ経済\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793695599/kjg07eooycus7tjcx6v6.jpg\n소제목: 11月13日（金）· 版画\n본문: シャガールの原作イメージをもとに没後制作された版画が開始価格0ウォン、キム・ジョムソン（김점선）の版画は1万ウォンから。\n출처: 提供：ソウルオークション · アジア経済\n\n[슬라이드]\n소스: \n소제목: 11月14日（土）· 国税庁特別オークション\n본문: 高額滞納者から差し押さえた品 — ブランドバッグ、金の延べ棒など。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月18日（水）· 20日（金）\n본문: 18日は新進作家の作品オークション。|20日は世界子どもの日に合わせたユニセフのチャリティーオークション。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月23日（月）· 24日（火）\n본문: 23日のイブニングセールは34点 — キム・ファンギ（金煥基）の「30-XI-71 #212」が韓国で初めて出品されます（予想落札価格の下限28億ウォン）。|24日のコンテンポラリー・デイセールは73点。\n출처: \n\n[슬라이드]\n소스: \n소제목: 訪れるなら\n본문: 入場券は2万2000ウォン、期間中は再入場できます。|入札はソウルオークションの会員登録後、パドル登録が必要です。|講演・アートブランチは別途予約・決済。\n출처: \n",
+      "caption": "ソウルオークション（@seoulauction）が11月11日から2週間、江南センターで「2026 オークションショー」を開きます。\n\nオークション12回と展示・ポップアップ8つが続くイベントで、一部のオークションは開始価格が0ウォンや1万ウォンです。13日の版画オークションでは、シャガールの原作イメージをもとに没後制作された版画が0ウォンから始まります。\n\nオークションショーの中で開かれるデヴォン・デジャーダン（Devon DeJardin）の個展には、SEVENTEENのディエイトとのコラボ版画も展示されます。日付ごとのオークションは次のページから日付順にまとめました。\n\n期間：11月11日（水）〜11月24日（火）\n場所：ソウル・江南区彦州路（オンジュロ）864 ソウルオークション江南センター\n入場：2万2000ウォン（期間中再入場可）\n入札：ソウルオークション会員登録 · パドル登録\n#SENE #ソウルオークション #韓国アート #江南 #ディエイト",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/hjxsuf43mo53paitrzff.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/bdidvaopxqlhvilfjr46.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/xehbng9j3oyqdxfkkwur.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695723/k2lzgxvokukwbuon9nia.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695725/nnzjivdcwzuvytdppe3r.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695725/sc7vyvjuxei0zws8cm4o.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695725/znwx6vrzfdqycm8jzw9t.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695726/iwf7icmr9bdpafcfpbfb.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793695724/hjxsuf43mo53paitrzff.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-03T17:48+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1177,10 +1249,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T17:47+09:00"
+  "at": "2026-11-03T17:48+09:00"
  },
  "queue": {
-  "next": "2026-11-03T17:49+09:00",
+  "next": "2026-11-03T17:50+09:00",
   "n": 0,
   "gap": 20
  },
