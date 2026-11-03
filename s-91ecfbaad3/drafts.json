@@ -533,7 +533,9 @@
      "v": {
       "A": "113a2d9a",
       "B": "c3b8c93c",
-      "C": "f49b9465"
+      "C": "f49b9465",
+      "E": "5e3f121b",
+      "J": "b0fb614d"
      }
     }
    },
@@ -615,7 +617,98 @@
     "why": "빼빼로데이 여드레 앞 — 성수·홍대·잠실 팝업 일정이라 저장할 이유가 있다",
     "at": "2026-11-03T11:42+09:00"
    },
-   "i18n_queued": "2026-11-03T11:42+09:00"
+   "i18n_queued": "2026-11-03T11:42+09:00",
+   "i18n": {
+    "at": "2026-11-03T11:44+09:00",
+    "confirm": [
+     "조앤프렌즈 공식 영문·일본어 표기를 찾지 못해 영어는 'Joan Friends'(로마자), 일본어는 ジョアンフレンズ(조앤프렌즈)로 적었습니다 — 세븐일레븐·IPX 공식 표기를 확인해 주세요.",
+     "〈재혼 황후〉 일본어판: 디즈니플러스 일본 공식 제목은 찾지 못했고, 원작 일본어판 제목 『再婚承認を要求します』를 썼습니다. 영어는 'The Remarried Empress'(원작·보도 기준)입니다.",
+     "가나디 공식 영문·일본어 표기를 확인하지 못해 Ganadi / ガナディ로 적었습니다.",
+     "CU 매장명 영어(CU Seongsu Dessert Park · CU Hongdae AK)와 일본어(CU聖水デザートパーク店 · CU弘大AK店), 'emart24 Trend Lab Seongsu'는 매장 공식 표기가 아니라 옮겨 쓴 이름입니다.",
+     "출처 칸 '맛깔스튜디오 by롯데웰푸드'는 지침대로 원문 그대로 두었습니다. 영어·일본어 계정에서 이 이름을 옮겨 써야 하면 알려 주세요.",
+     "영어·일본어 · 출처 칸 '맛깔스튜디오 by롯데웰푸드' 두 곳 — 채널(브랜드) 이름이라 규칙대로 그대로 두었지만, 영어·일본어판에 한글이 남음. 공식 영문 채널명이 있으면 바꿀지 확인 필요",
+     "조앤프렌즈 — 공식 영문·일문 표기를 찾지 못해 영어는 로마자 'Joan Friends', 일본어는 'ジョアンフレンズ' 그대로 둠. 세븐일레븐·조앤프렌즈 공식 계정에서 표기 확인 필요",
+     "일본어 · '再婚承認を要求します' — 웹툰의 일본어판 공식 제목으로 알고 있으나, 이마트24 팝업이 웹툰 기준인지 디즈니+ 드라마 기준인지 한 번 더 확인 필요 (드라마 일본어 제목이 다를 수 있음)",
+     "영어판 출처에 한글이 남음",
+     "영어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-03T11:44+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'Convenience Store Pepero|Day Pop-ups, by Date' → 'Convenience Store Pop-ups|for Pepero Day, by Date' — 'Pepero Day' 가 두 줄로 갈려 읽기 어려웠고, 첫 줄이 'Convenience Store Pepero' 로 끊겨 제품명처럼 읽혔음",
+      "일본어 · 표지 제목 둘째 줄 · 'ポップアップ日付順' → 'ポップアップを日付順に' — 명사만 붙여 놓아 어색했던 것을 조사를 넣어 자연스럽게 함"
+     ],
+     "doubt": [
+      "영어·일본어 · 출처 칸 '맛깔스튜디오 by롯데웰푸드' 두 곳 — 채널(브랜드) 이름이라 규칙대로 그대로 두었지만, 영어·일본어판에 한글이 남음. 공식 영문 채널명이 있으면 바꿀지 확인 필요",
+      "조앤프렌즈 — 공식 영문·일문 표기를 찾지 못해 영어는 로마자 'Joan Friends', 일본어는 'ジョアンフレンズ' 그대로 둠. 세븐일레븐·조앤프렌즈 공식 계정에서 표기 확인 필요",
+      "일본어 · '再婚承認を要求します' — 웹툰의 일본어판 공식 제목으로 알고 있으나, 이마트24 팝업이 웹툰 기준인지 디즈니+ 드라마 기준인지 한 번 더 확인 필요 (드라마 일본어 제목이 다를 수 있음)",
+      "영어판 출처에 한글이 남음",
+      "영어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nThree convenience store chains are opening pop-ups where you can see and buy Pepero Day character goods in person.\n\nCU has teamed up with Pokémon and Tamagotchi, 7-Eleven (@7elevenkorea) with the character brand Joan Friends, and emart24 (@emart24_official) with the webtoon 'The Remarried Empress' (@disneypluskr). Most of the products are sets that pair Pepero with goods such as keyrings, squishies and pouches. GS25 has also released Anpanman and Crayon Shin-chan gift sets.\n\nEach pop-up closes on a different day. 7-Eleven runs through Pepero Day itself, CU through the day after, and emart24 through Nov 16.\n\nCU Pokémon: Nov 4 (Wed) – Nov 12 (Thu) · CU Seongsu Dessert Park, Seongsu-dong, Seoul\nCU Tamagotchi: Nov 4 (Wed) – Nov 12 (Thu) · CU Hongdae AK, Hongdae, Seoul\n7-Eleven Joan Friends: Through Nov 11 (Wed) · Lotte World Mall, Jamsil, Seoul\nemart24 The Remarried Empress: Through Nov 16 (Mon) · Trend Lab Seongsu, Seongsu-dong, Seoul\n\n#SENE #PeperoDay #SeoulPopup #Seongsu #KoreanConvenienceStore\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664512/cq8ggqckhfdn3cwimrjg.jpg\n제목: Convenience Store Pop-ups|for Pepero Day, by Date\n부제: Seongsu · Hongdae · Jamsil, through Nov 16\n출처: @7elevenkorea\n\n[슬라이드]\n소스: \n소제목: 7-Eleven · Joan Friends\n본문: Through Nov 11 (Wed)|Lotte World Mall, Jamsil, Seoul|Photo booth and custom gift box event\n출처: \n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793664528/sene_studio/e2gtqda6iebobchzsc9s.mp4\n소제목: \n본문: \n출처: 맛깔스튜디오 by롯데웰푸드\n\n[슬라이드]\n소스: \n소제목: CU · Pokémon\n본문: Nov 4 (Wed) – Nov 12 (Thu)|CU Seongsu Dessert Park|Pokémon concept store\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664531/idjgv4ihbzyahldofy4n.jpg\n소제목: CU · Tamagotchi\n본문: Nov 4 (Wed) – Nov 12 (Thu)|CU Hongdae AK|Tamagotchi concept store\n출처: @cu_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664533/oxxkqug0jtc85y5gdmyt.jpg\n소제목: emart24 · The Remarried Empress\n본문: Through Nov 16 (Mon)|emart24 Trend Lab Seongsu|Pop-up zone themed on the webtoon 'The Remarried Empress'\n출처: @emart24_official\n",
+      "caption": "Three convenience store chains are opening pop-ups where you can see and buy Pepero Day character goods in person.\n\nCU has teamed up with Pokémon and Tamagotchi, 7-Eleven (@7elevenkorea) with the character brand Joan Friends, and emart24 (@emart24_official) with the webtoon 'The Remarried Empress' (@disneypluskr). Most of the products are sets that pair Pepero with goods such as keyrings, squishies and pouches. GS25 has also released Anpanman and Crayon Shin-chan gift sets.\n\nEach pop-up closes on a different day. 7-Eleven runs through Pepero Day itself, CU through the day after, and emart24 through Nov 16.\n\nCU Pokémon: Nov 4 (Wed) – Nov 12 (Thu) · CU Seongsu Dessert Park, Seongsu-dong, Seoul\nCU Tamagotchi: Nov 4 (Wed) – Nov 12 (Thu) · CU Hongdae AK, Hongdae, Seoul\n7-Eleven Joan Friends: Through Nov 11 (Wed) · Lotte World Mall, Jamsil, Seoul\nemart24 The Remarried Empress: Through Nov 16 (Mon) · Trend Lab Seongsu, Seongsu-dong, Seoul\n\n#SENE #PeperoDay #SeoulPopup #Seongsu #KoreanConvenienceStore",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673868/iwhegj9h6yjlp9xstspk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673867/jycr0c41zmc5pgkodrgd.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673869/jjq3maks1evlvbgqezue.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673867/v96srrazxnttftvzbly3.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673869/korasixxj48o8a8sk6sw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673869/njgfwgdwm1ztnbujzhoy.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673870/usq8rbloj94jufqttjap.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673868/iwhegj9h6yjlp9xstspk.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-03T11:44+09:00",
+       "videos": {
+        "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793673867/sene_studio/mn1bjhtn3qfuxvjdsjmd.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: *Pepero*\n아티스트: Stray Kids share\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
+      "caption": "This is the 2026 Pepero Day digital film Lotte Wellfood shot with Stray Kids (@realstraykids).\n\nThe video shows the members sharing and enjoying Pepero in Korea. Lotte Wellfood has named Stray Kids its global ambassadors and, for the fourth year running, put up a Pepero billboard in Times Square, New York.\n\nIn Korea, 10 seasonal packages made with Stray Kids, Sanrio Characters and Ganadi are out. There is also a 'PLAY WITH PEPERO' event for posting Pepero photos and videos on Instagram. A total of 111 winners will be drawn, and the prizes include invitations to a Stray Kids 'MEET & GREET'.\n\nPepero Day: Nov 11 (Wed)\n\n#SENE #PeperoDay #Pepero #StrayKids #LotteWellfood"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nコンビニ3社が、ペペロデーのキャラクター商品を実際に見て買えるポップアップをオープンします。\n\nCUはポケモンとたまごっち、セブンイレブン（@7elevenkorea）はキャラクターブランドのジョアンフレンズ（조앤프렌즈）、emart24（@emart24_official）はウェブトゥーン『再婚承認を要求します（재혼 황후）』（@disneypluskr）とコラボしました。商品の多くは、ペペロにキーホルダー・スクイーズ・ポーチなどのグッズを組み合わせたセットです。GS25もアンパンマンとクレヨンしんちゃんのギフトセットを発売しました。\n\nポップアップごとに終了日が異なります。セブンイレブンはペペロデー当日まで、CUはその翌日まで、emart24は16日まで開かれます。\n\nCU ポケモン：11月4日（水）〜12日（木）・ソウル・聖水洞（ソンスドン）CU聖水デザートパーク店\nCU たまごっち：11月4日（水）〜12日（木）・ソウル・弘大（ホンデ）CU弘大AK店\nセブンイレブン ジョアンフレンズ：〜11月11日（水）・ソウル・蚕室（チャムシル）ロッテワールドモール\nemart24 再婚承認を要求します：〜11月16日（月）・ソウル・聖水洞 トレンドラボ聖水店\n\n#SENE #ペペロデー #韓国旅行 #聖水 #韓国コンビニ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664512/cq8ggqckhfdn3cwimrjg.jpg\n제목: ペペロデーのコンビニ|ポップアップを日付順に\n부제: 聖水・弘大・蚕室、11月16日まで\n출처: @7elevenkorea\n\n[슬라이드]\n소스: \n소제목: セブンイレブン・ジョアンフレンズ\n본문: 〜11月11日（水）|ソウル・蚕室（チャムシル）ロッテワールドモール|フォトブースとカスタムギフトボックスのイベント\n출처: \n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793664528/sene_studio/e2gtqda6iebobchzsc9s.mp4\n소제목: \n본문: \n출처: 맛깔스튜디오 by롯데웰푸드\n\n[슬라이드]\n소스: \n소제목: CU・ポケモン\n본문: 11月4日（水）〜12日（木）|CU聖水デザートパーク店|ポケモンのコンセプトストア\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664531/idjgv4ihbzyahldofy4n.jpg\n소제목: CU・たまごっち\n본문: 11月4日（水）〜12日（木）|CU弘大AK店|たまごっちのコンセプトストア\n출처: @cu_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793664533/oxxkqug0jtc85y5gdmyt.jpg\n소제목: emart24・再婚承認を要求します\n본문: 〜11月16日（月）|emart24トレンドラボ聖水店|ウェブトゥーン『再婚承認を要求します』のテーマポップアップゾーン\n출처: @emart24_official\n",
+      "caption": "コンビニ3社が、ペペロデーのキャラクター商品を実際に見て買えるポップアップをオープンします。\n\nCUはポケモンとたまごっち、セブンイレブン（@7elevenkorea）はキャラクターブランドのジョアンフレンズ（조앤프렌즈）、emart24（@emart24_official）はウェブトゥーン『再婚承認を要求します（재혼 황후）』（@disneypluskr）とコラボしました。商品の多くは、ペペロにキーホルダー・スクイーズ・ポーチなどのグッズを組み合わせたセットです。GS25もアンパンマンとクレヨンしんちゃんのギフトセットを発売しました。\n\nポップアップごとに終了日が異なります。セブンイレブンはペペロデー当日まで、CUはその翌日まで、emart24は16日まで開かれます。\n\nCU ポケモン：11月4日（水）〜12日（木）・ソウル・聖水洞（ソンスドン）CU聖水デザートパーク店\nCU たまごっち：11月4日（水）〜12日（木）・ソウル・弘大（ホンデ）CU弘大AK店\nセブンイレブン ジョアンフレンズ：〜11月11日（水）・ソウル・蚕室（チャムシル）ロッテワールドモール\nemart24 再婚承認を要求します：〜11月16日（月）・ソウル・聖水洞 トレンドラボ聖水店\n\n#SENE #ペペロデー #韓国旅行 #聖水 #韓国コンビニ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/b2vfgbimacwx4aquhsjg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/ufjgcbzwbrlhihfkubuj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673879/oy5fnlhzyzei9goumckn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/qirfitqo5ulpf3lxocg6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673878/rxq5ts4kahoqkiteejga.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673878/bmnbiyec1dawiltltwud.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673878/z9eqokclxbkctrdpp06q.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793673876/b2vfgbimacwx4aquhsjg.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-03T11:44+09:00",
+       "videos": {
+        "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793673877/sene_studio/t08vbanim2yjbqyjsybv.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=os6M9p1wBc4\n구간: 0:01-0:17\n곡: 分け合う*ペペロ*\n아티스트: Stray Kidsが\n피처링:\n후킹: \n출처: 맛깔스튜디오 by롯데웰푸드\n자막: 끔",
+      "caption": "ロッテウェルフードがStray Kids（@realstraykids）と撮影した、2026年ペペロデーのデジタルフィルムです。\n\nメンバーが韓国でペペロを分け合い、楽しむ様子を収めた映像です。ロッテウェルフードはStray Kidsをグローバルアンバサダーに起用し、アメリカ・ニューヨークのタイムズスクエアに4年連続でペペロの屋外広告を掲出しました。\n\n韓国国内では、Stray Kids・サンリオキャラクターズ・ガナディ（가나디）とつくったシーズンパッケージ10種が登場しました。インスタグラムにペペロの写真・動画を投稿する「PLAY WITH PEPERO」イベントも開催されています。抽選で計111人が選ばれ、賞品にはStray Kids「MEET & GREET」の招待券が含まれます。\n\nペペロデー：11月11日（水）\n\n#SENE #ペペロデー #ペペロ #StrayKids #韓国旅行"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -863,10 +956,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-03T11:42+09:00"
+  "at": "2026-11-03T11:44+09:00"
  },
  "queue": {
-  "next": "2026-11-03T11:44+09:00",
+  "next": "2026-11-03T11:46+09:00",
   "n": 0,
   "gap": 20
  },
