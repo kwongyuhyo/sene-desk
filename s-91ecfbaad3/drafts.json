@@ -104,7 +104,9 @@
       "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793748562/sene_studio/b65dhnlwkhcwkc9fmdjz.mp4"
      },
      "v": {
-      "A": "a866a78b"
+      "A": "a866a78b",
+      "E": "910c1909",
+      "J": "d3036156"
      }
     }
    },
@@ -171,9 +173,11 @@
      "end": 93.0,
      "full": 93.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-04T08:30+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793748714/sene_studio/ka3qzucoigvfp8bfo3ic.mp4",
+     "at": "2026-11-04T08:31+09:00",
+     "file": "AIBeu_BaeTeulGeuLaUnDeu_So_TeuLenDeu_no_lyrics.mp4",
+     "v": "e41f25ec"
     }
    },
    "pick": {
@@ -182,7 +186,79 @@
     "at": "2026-11-04T08:28+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-04T08:30+09:00"
+   "i18n_queued": "2026-11-04T08:30+09:00",
+   "i18n": {
+    "at": "2026-11-04T08:31+09:00",
+    "confirm": [
+     "'아이브 저택'·'아이브 이모트 스테이지'의 공식 영어·일본어 이름은 찾지 못해 직역했습니다 (IVE Mansion / IVE Emote Stage, 「IVE邸宅」/「IVEエモートステージ」). 지스타 공식 안내에 다른 이름이 있으면 바꿔 주세요.",
+     "보도자료(gamespress)에는 론도 맵에 생기는 테마 공간이 세 곳이라고 나옵니다. 원문은 '공간이 생기고'라고만 해서 번역에도 숫자를 넣지 않았습니다.",
+     "일본어 카타카나 표기 'アイヴ'는 처음 나올 때 한 번만 괄호에 넣었습니다. 일본 공식 표기는 보통 영문 IVE입니다.",
+     "영어 · 숏폼 세 칸을 이으면 'IVE, into BATTLEGROUNDS' — 화면에서 제목처럼 보이도록 'Into'로 대문자를 쓸지 사람이 판단해 주세요"
+    ],
+    "review": {
+     "at": "2026-11-04T08:31+09:00",
+     "fixes": [
+      "영어 · 캡션·숏폼 캡션 · 〈LOVE DIVE〉 → 'LOVE DIVE' — 영어권에서는 〈 〉 괄호를 쓰지 않음 (번역 규칙의 'Parasite' 꼴에 맞춤)",
+      "영어 · 캡션 · There is also a place to see it without playing → You don't have to play to see it — 직역투",
+      "일본어 · 캡션·숏폼 캡션 · 〈LOVE DIVE〉 → 「LOVE DIVE」 — 일본어에서 곡 이름은 「 」로 씀",
+      "일본어 · 캡션 · キャラクター外見 → キャラクターの外見 — 조사가 빠져 어색함",
+      "일본어 · 숏폼 곡 칸 · バトルグラウンズの中へ → PUBGの世界へ — 일본에서는 보통 'PUBG'라고 부르고, 표지 제목과 표기도 맞춤 (IVE、+PUBGの世界へ = 11자)"
+     ],
+     "doubt": [
+      "영어 · 숏폼 세 칸을 이으면 'IVE, into BATTLEGROUNDS' — 화면에서 제목처럼 보이도록 'Into'로 대문자를 쓸지 사람이 판단해 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nIVE (@ivestarship) arrives in BATTLEGROUNDS starting today.\n\nKRAFTON's 'PUBG: BATTLEGROUNDS' collaboration with IVE goes live on PC first on November 4. The Rondo map gets a space based on the 'LOVE DIVE' music video, and the game adds character looks, outfits and emotes for all six members.\n\nYou don't have to play to see it. At the PUBG booth at G-STAR 2026, the 'IVE Mansion' and the 'IVE Emote Stage' become real spaces, and photos from the photo zone can be turned into limited-edition photocards. Collect stamps through activities such as crossbow shooting to receive merchandise, and verify your PUBG account to get a drink and cookies.\n\nIn game: PC Nov 4 (Wed) · Console Nov 12 (Thu)\nG-STAR: Nov 19 (Thu) – Nov 22 (Sun)\nLocation: KRAFTON PUBG booth, BEXCO, Busan\n#SENE #IVE #PUBG #GSTAR2026 #Busan\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793748532/iau23inzoiuxngjb6lxs.jpg\n제목: IVE Arrives in|BATTLEGROUNDS Today\n부제: Step Inside the 'IVE Mansion' at G-STAR\n출처: @ivestarship\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793748553/sene_studio/ockmezsh4y2pqk684k1w.mp4\n소제목: \n본문: \n출처: PUBG: BATTLEGROUNDS\n",
+      "caption": "IVE (@ivestarship) arrives in BATTLEGROUNDS starting today.\n\nKRAFTON's 'PUBG: BATTLEGROUNDS' collaboration with IVE goes live on PC first on November 4. The Rondo map gets a space based on the 'LOVE DIVE' music video, and the game adds character looks, outfits and emotes for all six members.\n\nYou don't have to play to see it. At the PUBG booth at G-STAR 2026, the 'IVE Mansion' and the 'IVE Emote Stage' become real spaces, and photos from the photo zone can be turned into limited-edition photocards. Collect stamps through activities such as crossbow shooting to receive merchandise, and verify your PUBG account to get a drink and cookies.\n\nIn game: PC Nov 4 (Wed) · Console Nov 12 (Thu)\nG-STAR: Nov 19 (Thu) – Nov 22 (Sun)\nLocation: KRAFTON PUBG booth, BEXCO, Busan\n#SENE #IVE #PUBG #GSTAR2026 #Busan",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748717/sces4zpsdzo67uk38k9i.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748721/fijvpekg0xyhrzzgst2z.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748717/d0toaeukuziyfuijz6hq.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748717/sces4zpsdzo67uk38k9i.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T08:32+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793748718/sene_studio/t8iinlbubpuld9urqsez.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=4lA9n7ejDi4\n구간: 1:04-1:20\n곡: into BATTLEGROUNDS\n아티스트: *IVE*,\n피처링:\n후킹: \n출처: PUBG: BATTLEGROUNDS\n자막: 끔",
+      "caption": "IVE (@ivestarship) has arrived in BATTLEGROUNDS.\n\nThis is the IVE collaboration trailer PUBG released on November 1. The members return in the concepts and outfits of their 'LOVE DIVE' era. The collaboration content goes live on PC today and on console on November 12.\n\nFrom November 19 to 22, the PUBG booth at G-STAR 2026 at BEXCO in Busan turns the in-game 'IVE Mansion' into a real space.\n\nVideo: PUBG: BATTLEGROUNDS official channel\n#SENE #IVE #PUBG #GSTAR2026 #Busan"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nIVE（アイヴ・@ivestarship）が今日から『PUBG: BATTLEGROUNDS』の中に登場します。\n\nKRAFTON（クラフトン）の『PUBG: BATTLEGROUNDS』とIVEのコラボが11月4日にまずPCで始まります。マップ「Rondo（ロンド）」に「LOVE DIVE」のミュージックビデオをもとにした空間ができ、メンバー6人のキャラクターの外見と衣装、エモートが加わります。\n\nゲームをしなくても見られる場所があります。G-STAR 2026のPUBGブースでは「IVE邸宅」と「IVEエモートステージ」が実際の空間として再現され、フォトゾーンの写真で限定フォトカードを作ることができます。クロスボウ射撃などの体験でスタンプを集めるとグッズが、PUBGユーザー認証をするとドリンクとクッキーがもらえます。\n\nゲーム実装：PC 11月4日（水）・コンソール 11月12日（木）\nG-STAR：11月19日（木）〜22日（日）\n場所：釜山・BEXCO（ベクスコ）KRAFTON PUBGブース\n#SENE #IVE #アイヴ #PUBG #GSTAR2026 #釜山\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793748532/iau23inzoiuxngjb6lxs.jpg\n제목: IVE、今日から|PUBGの世界へ\n부제: G-STARでは「IVE邸宅」を体験\n출처: @ivestarship\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793748553/sene_studio/ockmezsh4y2pqk684k1w.mp4\n소제목: \n본문: \n출처: PUBG: BATTLEGROUNDS\n",
+      "caption": "IVE（アイヴ・@ivestarship）が今日から『PUBG: BATTLEGROUNDS』の中に登場します。\n\nKRAFTON（クラフトン）の『PUBG: BATTLEGROUNDS』とIVEのコラボが11月4日にまずPCで始まります。マップ「Rondo（ロンド）」に「LOVE DIVE」のミュージックビデオをもとにした空間ができ、メンバー6人のキャラクターの外見と衣装、エモートが加わります。\n\nゲームをしなくても見られる場所があります。G-STAR 2026のPUBGブースでは「IVE邸宅」と「IVEエモートステージ」が実際の空間として再現され、フォトゾーンの写真で限定フォトカードを作ることができます。クロスボウ射撃などの体験でスタンプを集めるとグッズが、PUBGユーザー認証をするとドリンクとクッキーがもらえます。\n\nゲーム実装：PC 11月4日（水）・コンソール 11月12日（木）\nG-STAR：11月19日（木）〜22日（日）\n場所：釜山・BEXCO（ベクスコ）KRAFTON PUBGブース\n#SENE #IVE #アイヴ #PUBG #GSTAR2026 #釜山",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748727/pcal4abthaes9mce4ps8.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748730/thgopvqbxtdfyg8ph6wv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748726/lf97uymtwetqqbjxeesn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793748727/pcal4abthaes9mce4ps8.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T08:32+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793748728/sene_studio/gaegqrhqdmoiwr2wbotq.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 트렌드\nURL: https://www.youtube.com/watch?v=4lA9n7ejDi4\n구간: 1:04-1:20\n곡: PUBGの世界へ\n아티스트: *IVE*、\n피처링:\n후킹: \n출처: PUBG: BATTLEGROUNDS\n자막: 끔",
+      "caption": "IVE（アイヴ・@ivestarship）が『PUBG: BATTLEGROUNDS』に登場しました。\n\nPUBGが11月1日に公開したIVEコラボのトレーラーで、メンバーたちが「LOVE DIVE」当時のコンセプトと衣装を再びまとって登場します。コラボコンテンツは今日PCで、11月12日にコンソールで実装されます。\n\n11月19日から22日まで、釜山・BEXCO（ベクスコ）で開かれるG-STAR 2026のPUBGブースには、ゲームの中の「IVE邸宅」が実際の空間として登場します。\n\n映像：PUBG: BATTLEGROUNDS 公式チャンネル\n#SENE #IVE #アイヴ #PUBG #GSTAR2026 #釜山"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -430,10 +506,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T08:30+09:00"
+  "at": "2026-11-04T08:32+09:00"
  },
  "queue": {
-  "next": "2026-11-04T08:32+09:00",
+  "next": "2026-11-04T08:34+09:00",
   "n": 0,
   "gap": 20
  },
