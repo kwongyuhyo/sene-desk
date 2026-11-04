@@ -416,7 +416,9 @@
      "v": {
       "A": "0e047f8e",
       "B": "0f4493c2",
-      "C": "a0a3a5ba"
+      "C": "a0a3a5ba",
+      "E": "6cd8ce8b",
+      "J": "3ad5e912"
      }
     }
    },
@@ -494,7 +496,81 @@
      "via": "api"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-11-04T16:16+09:00",
+    "confirm": [
+     "예약 앱 '더현대 하이'의 공식 영어·일본어 표기를 찾지 못했습니다. 영어는 'The Hyundai Hi', 일본어는 「ザ・現代ハイ（더현대 하이）」로 임시로 썼습니다.",
+     "'아기 곰 해리'의 공식 영어·일본어 표기를 찾지 못했습니다. 'Harry the baby bear', 「赤ちゃんグマのハリー」로 옮겼습니다.",
+     "2026년 H빌리지의 클룩 예약 페이지와 영어·일본어 공식 안내 페이지는 찾지 못했습니다. 외국인 예약 관련 문장은 원문 그대로 옮겼습니다.",
+     "숏폼 아티스트 칸: 'The Hyundai Christmas'가 21자라 20자 제한을 넘어서 영어는 'Christmas at Hyundai'로 줄였습니다. 이어 읽으면 'Christmas at Hyundai Goes New York'이 됩니다.",
+     "영상 출처 'THE HYUNDAI 현대백화점'은 채널 이름이라 번역하지 않고 그대로 두었습니다.",
+     "영어·일본어 · 출처 칸과 'Video:/映像:' 줄 · 'THE HYUNDAI 현대백화점' 에 한글이 남음 — 채널 이름 그대로 두라는 규칙대로 뒀지만, 해외판에서는 'THE HYUNDAI' 만 남길지 사람이 정할 것",
+     "앱 공식 표기는 한국어 자료에서 '더현대Hi' 로 쓰임 — 영어 'The Hyundai Hi' · 일본어 「ザ・現代ハイ」 는 공식 영문·일문 표기를 찾지 못함",
+     "예약 오픈 시각 오전 11시 — 검색에서 찾은 제3자 안내는 '오픈 시간 공지 예정'이었음. 올리기 전에 더현대Hi 앱이나 공식 계정 공지로 11시를 다시 확인할 것",
+     "영어 숏폼 아티스트 칸 'Christmas at Hyundai' 와 표지 'Christmas at The Hyundai' 의 표기가 다름 — 20자 제한 때문에 그대로 둠",
+     "영어판 출처에 한글이 남음",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-04T16:16+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 · 출처 칸과 'Video:/映像:' 줄 · 'THE HYUNDAI 현대백화점' 에 한글이 남음 — 채널 이름 그대로 두라는 규칙대로 뒀지만, 해외판에서는 'THE HYUNDAI' 만 남길지 사람이 정할 것",
+      "앱 공식 표기는 한국어 자료에서 '더현대Hi' 로 쓰임 — 영어 'The Hyundai Hi' · 일본어 「ザ・現代ハイ」 는 공식 영문·일문 표기를 찾지 못함",
+      "예약 오픈 시각 오전 11시 — 검색에서 찾은 제3자 안내는 '오픈 시간 공지 예정'이었음. 올리기 전에 더현대Hi 앱이나 공식 계정 공지로 11시를 다시 확인할 것",
+      "영어 숏폼 아티스트 칸 'Christmas at Hyundai' 와 표지 'Christmas at The Hyundai' 의 표기가 다름 — 20자 제한 때문에 그대로 둠",
+      "영어판 출처에 한글이 남음",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nThe first round of reservations for H Village, the Christmas village at The Hyundai Seoul (@thehyundai_seoul), opens Thursday, Nov 5, at 11 AM.\n\nThis year's theme is the streets of 1980s–90s New York. According to Hyundai Department Store, 13 red-brick buildings up to 10 meters tall will go up in Sounds Forest on the fifth floor, along with billboards, neon signs and yellow taxis.\n\nHarry the baby bear, Hyundai Department Store's Christmas character, delivers presents this time with help from the alley cats of New York. International visitors can book separately through travel booking platforms such as Klook, and a waiting desk for international visitors will be set up on site.\n\nDates: Opens Tue, Nov 10\nLocation: Sounds Forest, 5F, The Hyundai Seoul, Yeouido, Yeongdeungpo-gu, Seoul\nReservations: First round of advance booking on the 'The Hyundai Hi' app, Thu, Nov 5, 11 AM (on-site waitlist via QR codes on floors 2–4)\n\n#SENE #TheHyundaiSeoul #SeoulChristmas #Yeouido #SeoulTravel #ChristmasInSeoul\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793749403/k15ajdqxs3ylbiupcwwc.jpg\n제목: Christmas at The Hyundai|Booking Opens Nov 5, 11 AM\n부제: This year's H Village recreates the streets of 1980s–90s New York\n출처: @thehyundai_seoul\n",
+      "caption": "The first round of reservations for H Village, the Christmas village at The Hyundai Seoul (@thehyundai_seoul), opens Thursday, Nov 5, at 11 AM.\n\nThis year's theme is the streets of 1980s–90s New York. According to Hyundai Department Store, 13 red-brick buildings up to 10 meters tall will go up in Sounds Forest on the fifth floor, along with billboards, neon signs and yellow taxis.\n\nHarry the baby bear, Hyundai Department Store's Christmas character, delivers presents this time with help from the alley cats of New York. International visitors can book separately through travel booking platforms such as Klook, and a waiting desk for international visitors will be set up on site.\n\nDates: Opens Tue, Nov 10\nLocation: Sounds Forest, 5F, The Hyundai Seoul, Yeouido, Yeongdeungpo-gu, Seoul\nReservations: First round of advance booking on the 'The Hyundai Hi' app, Thu, Nov 5, 11 AM (on-site waitlist via QR codes on floors 2–4)\n\n#SENE #TheHyundaiSeoul #SeoulChristmas #Yeouido #SeoulTravel #ChristmasInSeoul",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776598/y2zaas09hpqdpku93y1l.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776598/fv5aevv3pmj0pbo9hlmj.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776598/y2zaas09hpqdpku93y1l.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T16:16+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=EenmbghwQss\n구간: 0:52-1:08\n곡: Goes *New York*\n아티스트: Christmas at Hyundai\n피처링:\n후킹: \n출처: THE HYUNDAI 현대백화점\n자막: 끔",
+      "caption": "Hyundai Department Store has released its Christmas campaign film for this year.\n\nIn the film, Santa delivers presents with stray cats in a New York that never sleeps. The same story becomes the theme of H Village, the Christmas village on the fifth floor of The Hyundai Seoul (@thehyundai_seoul). According to Hyundai Department Store, red-brick buildings, neon signs and yellow taxis will fill the space, recreating the streets of 1980s–90s New York.\n\nDates: Opens Tue, Nov 10\nLocation: Sounds Forest, 5F, The Hyundai Seoul, Yeouido, Yeongdeungpo-gu, Seoul\nReservations: First round of advance booking on the 'The Hyundai Hi' app, Thu, Nov 5, 11 AM\nVideo: THE HYUNDAI 현대백화점\n\n#SENE #TheHyundaiSeoul #SeoulChristmas #Yeouido #SeoulTravel"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nザ・現代ソウル（더현대 서울・@thehyundai_seoul）のクリスマスビレッジ「Hビレッジ」の第1次予約が、11月5日（木）午前11時に始まります。\n\n今年のテーマは1980〜90年代のニューヨークの街並みです。5階のサウンズフォレストに高さ最大10mの赤レンガの建物13棟を建て、ビルボードやネオンサイン、イエローキャブを置くと現代百貨店は説明しています。\n\n現代百貨店のクリスマスキャラクター「赤ちゃんグマのハリー」は、今回はニューヨークの路地の猫たちの助けを借りてプレゼントを届けます。外国人観光客はKlook（クルック）などの旅行予約プラットフォームで別途予約でき、現地には外国人専用の待機デスクが設けられます。\n\n期間：11月10日（火）オープン\n場所：ソウル・汝矣島（ヨイド）ザ・現代ソウル5階 サウンズフォレスト（ソウル市永登浦区）\n予約：11月5日（木）午前11時、アプリ「ザ・現代ハイ（더현대 하이）」で第1次事前予約（現地待機は2〜4階のQRコードから）\n\n#SENE #ザ現代ソウル #韓国旅行 #ソウルクリスマス #汝矣島 #ソウル旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793749403/k15ajdqxs3ylbiupcwwc.jpg\n제목: ザ・現代のクリスマス村|5日11時に予約開始\n부제: 今年のHビレッジは1980〜90年代のニューヨークの街並み\n출처: @thehyundai_seoul\n",
+      "caption": "ザ・現代ソウル（더현대 서울・@thehyundai_seoul）のクリスマスビレッジ「Hビレッジ」の第1次予約が、11月5日（木）午前11時に始まります。\n\n今年のテーマは1980〜90年代のニューヨークの街並みです。5階のサウンズフォレストに高さ最大10mの赤レンガの建物13棟を建て、ビルボードやネオンサイン、イエローキャブを置くと現代百貨店は説明しています。\n\n現代百貨店のクリスマスキャラクター「赤ちゃんグマのハリー」は、今回はニューヨークの路地の猫たちの助けを借りてプレゼントを届けます。外国人観光客はKlook（クルック）などの旅行予約プラットフォームで別途予約でき、現地には外国人専用の待機デスクが設けられます。\n\n期間：11月10日（火）オープン\n場所：ソウル・汝矣島（ヨイド）ザ・現代ソウル5階 サウンズフォレスト（ソウル市永登浦区）\n予約：11月5日（木）午前11時、アプリ「ザ・現代ハイ（더현대 하이）」で第1次事前予約（現地待機は2〜4階のQRコードから）\n\n#SENE #ザ現代ソウル #韓国旅行 #ソウルクリスマス #汝矣島 #ソウル旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776602/ocdtdru5gipdy91u2vnb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776601/jcnvz1ds1ctglvufbib7.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776602/ocdtdru5gipdy91u2vnb.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T16:16+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=EenmbghwQss\n구간: 0:52-1:08\n곡: *ニューヨーク*の街へ\n아티스트: ザ・現代のクリスマス\n피처링:\n후킹: \n출처: THE HYUNDAI 현대백화점\n자막: 끔",
+      "caption": "現代百貨店が今年のクリスマスキャンペーンフィルムを公開しました。\n\n眠らない街ニューヨークで、サンタが野良猫たちと一緒にプレゼントを運ぶ物語です。この場面がそのまま、ザ・現代ソウル（더현대 서울・@thehyundai_seoul）5階のクリスマスビレッジ「Hビレッジ」のテーマになります。1980〜90年代のニューヨークの街並みのように、赤レンガの建物やネオンサイン、イエローキャブが並ぶと現代百貨店は説明しています。\n\n期間：11月10日（火）オープン\n場所：ソウル・汝矣島（ヨイド）ザ・現代ソウル5階 サウンズフォレスト（ソウル市永登浦区）\n予約：11月5日（木）午前11時、アプリ「ザ・現代ハイ（더현대 하이）」で第1次事前予約\n映像：THE HYUNDAI 현대백화점\n\n#SENE #ザ現代ソウル #韓国旅行 #ソウルクリスマス #汝矣島"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1346,7 +1422,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T16:14+09:00"
+  "at": "2026-11-04T16:16+09:00"
  },
  "queue": {
   "next": "2026-11-04T16:30+09:00",
