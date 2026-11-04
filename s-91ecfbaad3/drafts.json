@@ -866,9 +866,11 @@
      "end": 80.0,
      "full": 250.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-04T11:47+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793760532/sene_studio/z94o4al3nmgrte6quzmr.mp4",
+     "at": "2026-11-04T11:48+09:00",
+     "file": "KaJeuHa_BiDiBiChi_PoToWol_ByuTi_no_lyrics.mp4",
+     "v": "dde5d801"
     }
    },
    "pick": {
@@ -877,7 +879,37 @@
     "at": "2026-11-04T11:46+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-04T11:47+09:00"
+   "i18n_queued": "2026-11-04T11:47+09:00",
+   "i18n": {
+    "at": "2026-11-04T11:49+09:00",
+    "confirm": [
+     "팝업 'LIGHT IN BLACK'(하우스 오브 신세계 청담 1층, 11/4~11/27)은 영문·일문 검색으로 확인되지 않았습니다 — 한국어 원문 근거를 다시 확인해 주세요. 카즈하가 비디비치 앰배서더라는 것은 오리콘 기사로 확인했습니다.",
+     "하우스 오브 신세계 청담의 공식 일본어 표기를 찾지 못해 カタカナ 「ハウス・オブ・シンセゲ清潭」에 원어를 병기했습니다.",
+     "'블랙 퍼펙션'은 cosme.net 제품명(Black Perfection)을 기준으로 영어 'Black Perfection', 일본어 「ブラック パーフェクション」으로 옮겼습니다.",
+     "VIDIVICI의 일본어 표기가 매체마다 달라(ビディビチ·ビディビーチ) 일본 공식 발표문처럼 로마자 VIDIVICI를 그대로 썼습니다.",
+     "일본어 숏폼 '곡' 칸은 11자 제한 때문에 'VIDIVICIフォトウォール' 대신 'VIDIVICIに登場'(VIDIVICI에 등장)으로 줄였습니다. 포토월이라는 말을 살려야 하면 고쳐 주세요.",
+     "팝업 이름 'LIGHT IN BLACK' · 기간 11월 4일~27일 · 하우스 오브 신세계 청담 1층은 웹 검색에서 확인되지 않음 (최신 소식이라 색인 전일 수 있음) — 올리기 전 비디비치·신세계 공식 계정에서 확인"
+    ],
+    "review": {
+     "at": "2026-11-04T11:49+09:00",
+     "fixes": [],
+     "doubt": [
+      "팝업 이름 'LIGHT IN BLACK' · 기간 11월 4일~27일 · 하우스 오브 신세계 청담 1층은 웹 검색에서 확인되지 않음 (최신 소식이라 색인 전일 수 있음) — 올리기 전 비디비치·신세계 공식 계정에서 확인"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=_HOdDaEgKH8\n구간: 0:20-0:35\n곡: VIDIVICI photo wall\n아티스트: *KAZUHA*,\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
+      "caption": "LE SSERAFIM's KAZUHA stood at the VIDIVICI photo wall in Cheongdam today.\n\nKAZUHA is a VIDIVICI ambassador, and the appearance marked the first day of 'LIGHT IN BLACK,' the brand's pop-up that opened Nov 4 on the first floor of House of Shinsegae Cheongdam.\n\nThe pop-up is built around the brand's signature makeup line, 'Black Perfection,' and visitors can try the products and buy them on site. It runs through Nov 27.\n\nDates: Nov 4 (Wed) – Nov 27 (Fri)\nLocation: 1F, House of Shinsegae Cheongdam, Cheongdam-dong, Gangnam-gu, Seoul\nVideo: MTN STAR\n#SENE #KAZUHA #LESSERAFIM #VIDIVICI #SeoulPopup"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=_HOdDaEgKH8\n구간: 0:20-0:35\n곡: VIDIVICIに登場\n아티스트: *カズハ*、\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
+      "caption": "LE SSERAFIMのKAZUHA（カズハ）が今日、ソウル・清潭洞（チョンダムドン）にあるVIDIVICIのフォトウォールに登場しました。\n\nカズハはVIDIVICIのアンバサダーを務めています。この日は、11月4日にハウス・オブ・シンセゲ清潭（House of Shinsegae Cheongdam）1階でオープンしたポップアップ「LIGHT IN BLACK（ライト・イン・ブラック）」の初日イベントでした。\n\nポップアップはブランドを代表するメイクアップライン「ブラック パーフェクション」を中心に構成され、製品を実際に試して購入することができます。今月27日まで開かれます。\n\n期間：11月4日（水）〜11月27日（金）\n場所：ソウル・江南区清潭洞（チョンダムドン） ハウス・オブ・シンセゲ清潭 1階\n映像：MTN STAR\n#SENE #カズハ #LESSERAFIM #VIDIVICI #韓国旅行"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1125,10 +1157,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T11:48+09:00"
+  "at": "2026-11-04T11:49+09:00"
  },
  "queue": {
-  "next": "2026-11-04T11:50+09:00",
+  "next": "2026-11-04T11:51+09:00",
   "n": 0,
   "gap": 20
  },
