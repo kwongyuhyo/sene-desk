@@ -633,9 +633,11 @@
      "end": 18.0,
      "full": 18.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-05T08:49+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793836192/sene_studio/quiypfvkvrzdcizomw0v.mp4",
+     "at": "2026-11-05T08:49+09:00",
+     "file": "PoKesMon_KaDeu_PabEo_ONeul_YeYag_SiJag_GongGan_no_lyrics.mp4",
+     "v": "7e989af6"
     }
    },
    "corner_name": "소식"
