@@ -178,6 +178,12 @@
      "at": "2026-11-04T08:31+09:00",
      "file": "AIBeu_BaeTeulGeuLaUnDeu_So_TeuLenDeu_no_lyrics.mp4",
      "v": "e41f25ec"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfUSMY_k1wj/",
+     "at": "2026-11-04T19:52+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "corner_name": "소식",
@@ -232,6 +238,12 @@
        "file": "IVE_into_BATTLEGROUNDS_TeuLenDeu_no_lyrics.mp4",
        "sig": "972991b941",
        "v": "5a517d9b"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfUSQlPHdvs/",
+       "at": "2026-11-04T19:52+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      },
      "published": {
@@ -271,6 +283,12 @@
        "file": "IVE_PUBGnoShiJiehe_TeuLenDeu_no_lyrics.mp4",
        "sig": "f1c2bb212f",
        "v": "2fe72499"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfUSU9ZgJDU/",
+       "at": "2026-11-04T19:53+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      },
      "published": {
@@ -1669,10 +1687,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T17:49+09:00"
+  "at": "2026-11-04T19:53+09:00"
  },
  "queue": {
-  "next": "2026-11-04T17:51+09:00",
+  "next": "2026-11-04T20:12+09:00",
   "n": 0,
   "gap": 20
  },
