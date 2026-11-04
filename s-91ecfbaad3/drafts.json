@@ -180,11 +180,6 @@
      "v": "e41f25ec"
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "협업이 오늘 PC에 들어오는 날 — 아이브 팬이 저장할 지스타 현장 체험 정보, 공식 트레일러 릴스까지",
-    "at": "2026-11-04T08:28+09:00"
-   },
    "corner_name": "소식",
    "i18n_queued": "2026-11-04T08:30+09:00",
    "i18n": {
@@ -272,6 +267,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "협업이 오늘 PC에 들어오는 날 — 아이브 팬이 저장할 지스타 현장 정보와 공식 트레일러 릴스",
+    "at": "2026-11-04T11:46+09:00"
    }
   },
   {
@@ -580,7 +580,13 @@
     }
    },
    "corner_name": "콘서트 가는 날",
-   "corner_no": 1
+   "corner_no": 1,
+   "pick": {
+    "rank": 3,
+    "why": "오늘 오후 8시 예매 — 시간이 정해진 저장 정보",
+    "at": "2026-11-04T11:46+09:00"
+   },
+   "i18n_queued": "2026-11-04T11:47+09:00"
   },
   {
    "source": {
@@ -720,6 +726,99 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:photowall-1104",
+    "account": "기사",
+    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16267892",
+    "image": null,
+    "head": "르세라핌 카즈하, 비디비치 포토콜 (11/4 하우스 오브 신세계 청담 1층)",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-04T11:46+09:00",
+   "key": "c5df42e7",
+   "by": "claude",
+   "subjects": [
+    "르세라핌 카즈하",
+    "비디비치"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "르세라핌 카즈하가 오늘(11/4) 청담 하우스 오브 신세계에서 비디비치 '라이트 인 블랙' 팝업 첫날 포토콜에 — 포토월의 그 10여 초, 팝업 기간·장소는 캡션에",
+    "why": "기획안 slot am 「오늘의 포토월」 · 오늘 오전 서울 브랜드 행사 중 케이팝 앰배서더가 선 자리 · 팝업은 11/27까지라 가 볼 수 있다"
+   },
+   "added": "claude",
+   "added_at": "2026-11-04T11:46+09:00",
+   "corner": "scene",
+   "shorts": {
+    "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=_HOdDaEgKH8\n구간: 0:20-0:35\n곡: 비디비치 포토월\n아티스트: *카즈하*,\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
+    "caption": "르세라핌 카즈하가 오늘 청담의 비디비치 포토월에 섰습니다.\n\n카즈하는 비디비치의 앰배서더인데요, 11월 4일 하우스 오브 신세계 청담 1층에서 문을 연 팝업 '라이트 인 블랙(LIGHT IN BLACK)'의 첫날 행사였습니다.\n\n팝업은 브랜드의 대표 메이크업 라인 '블랙 퍼펙션'을 중심으로 꾸려졌고, 제품을 직접 발라 보고 살 수 있습니다. 이달 27일까지 열립니다.\n\n기간: 11월 4일(수) ~ 11월 27일(금)\n장소: 서울 강남구 청담동 하우스 오브 신세계 청담 1층\n영상: MTN STAR\n#SENE #카즈하 #르세라핌 #비디비치 #청담팝업",
+    "hooks": {
+     "A": "*카즈하*, / 비디비치 포토월",
+     "B": "청담 포토월에 선 / *카즈하*",
+     "C": "오늘 청담 팝업에 선 / *카즈하*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=_HOdDaEgKH8",
+     "credit": "MTN STAR",
+     "range": [
+      20.0,
+      35.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 0:20-0:35 구간은 자동 자막이 잡음뿐(말 없는 포토콜)이라 장면은 못 봤음 — 미리보기로 카즈하가 화면에 또렷한지 확인 · 비디비치 공식 계정의 팝업 운영 시간은 못 찾아 캡션에 안 넣었음",
+     "클립 위험: 높음 — MTN STAR (매체 채널 · 비디비치 공식 영상은 못 찾음) · 자막·캡처가 안 떠 장면을 직접 못 봤음 — 0:20-0:35 첫 1초에 카즈하가 또렷한지 미리보기로 확인, 아니면 구간을 옮긴다",
+     "운영 시간·예약 방식은 기사 두 곳 모두 없음 — 캡션에 쓰지 않았음 · 1:1 터치업·할인은 한 곳뿐이라 뺐음"
+    ],
+    "research": [
+     {
+      "title": "톱스타뉴스 (11/4) — 비디비치 포토콜 · 하우스 오브 신세계 청담 1층 · 앰배서더 카즈하 · 팝업 '라이트 인 블랙' 11/4~27 · 블랙 퍼펙션 라인 체험·구매",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16267892"
+     },
+     {
+      "title": "테넌트뉴스 (11/4) — 같은 기간·장소 · 앰배서더 카즈하 첫날 방문 · 1:1 터치업 · 글로벌 10개 쉐이드 · 최대 33% 할인",
+      "link": "https://tnnews.co.kr/archives/298058"
+     },
+     {
+      "title": "MTN STAR 유튜브 — 르세라핌 카즈하 비디비치 'LIGHT IN BLACK' 팝업 포토콜 (250초)",
+      "link": "https://www.youtube.com/watch?v=_HOdDaEgKH8"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/_HOdDaEgKH8/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793760393/bnonxyyvrjuotf9mwrdw.jpg",
+     "key": "_HOdDaEgKH8@20.0"
+    },
+    "px": {
+     "vid": "_HOdDaEgKH8",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793760457/sene_studio/m6qk6aptoecohmrzzpyh.mp4",
+     "off": 0.0,
+     "end": 80.0,
+     "full": 250.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-04T11:47+09:00"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "오늘 아침 청담 포토월 — 앰배서더 카즈하의 말 없는 10여 초, 릴스 위주 결",
+    "at": "2026-11-04T11:46+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-11-04T11:47+09:00"
   }
  ],
  "skipped": [],
@@ -898,7 +997,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
    },
    {
@@ -967,10 +1066,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T08:53+09:00"
+  "at": "2026-11-04T11:47+09:00"
  },
  "queue": {
-  "next": "2026-11-04T08:55+09:00",
+  "next": "2026-11-04T11:49+09:00",
   "n": 0,
   "gap": 20
  },
