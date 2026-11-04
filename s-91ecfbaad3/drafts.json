@@ -105,7 +105,9 @@
      "cvr": 2,
      "at": "2026-11-05T08:27+09:00",
      "v": {
-      "A": "c329ca79"
+      "A": "c329ca79",
+      "E": "ba9ff053",
+      "J": "6255a93f"
      }
     }
    },
@@ -116,7 +118,80 @@
    },
    "corner_name": "정리",
    "corner_no": 1,
-   "i18n_queued": "2026-11-05T08:28+09:00"
+   "i18n_queued": "2026-11-05T08:28+09:00",
+   "i18n": {
+    "at": "2026-11-05T08:29+09:00",
+    "confirm": [
+     "'덕연이딸' 도시락: 웹에서 상품 정보를 찾지 못해 영어 'Deokyeoni-ttal', 일본어 『ドギョニタル（덕연이딸）』로 소리 나는 대로 옮겼습니다. 발음상 '덕연이'는 '더견이'에 가까우니, CU 공식 상품명·영문 표기가 있으면 그것으로 바꿔 주세요.",
+     "플레이엑스스튜디오: 벤처스퀘어 기사에 'Play X Studio'로 나와 그렇게 썼습니다. 공식 영문 표기(띄어쓰기·대소문자)는 공간 공식 계정에서 확인이 필요합니다.",
+     "'친밀도 99도'와 '멜론 뮤직웨이브': 영어 'Intimacy 99°', 일본어 『親密度99度』, 서비스명 'Melon Music Wave'·'Melon MusicWave'는 직접 옮긴 표기입니다. 멜론 공식 영문·일문 표기가 따로 있는지 확인이 필요합니다.",
+     "RESCENE 일본어 표기 'リセンヌ': 일본 매체에서 쓰는 표기를 따랐지만 공식 일본 계정에서는 확인하지 못했습니다. 일본어판 해시태그 #リセンヌ도 같은 기준입니다.",
+     "CU 올림픽광장점: 영어 'Olympic Plaza store', 일본어 'オリンピック広場店'은 직역입니다. CU 공식 영문 지점명은 확인하지 못했습니다.",
+     "'Bake405'(원문) vs 'BAKE405'(번역) 대소문자 — 공식 표기를 확인하지 못함",
+     "플레이엑스스튜디오 영문 공식 표기(Play X Studio / PLAYX STUDIO 등)를 확인하지 못함 — 영어·일본어판 함께 확인 필요",
+     "멜론 '뮤직웨이브' 공식 영문 표기(Music Wave / MUSIC WAVE)를 확인하지 못함",
+     "일본어 해시태그 #リセンヌ 가 RESCENE 일본 공식 카타카나 표기인지 확인 필요",
+     "일본어 장 소제목 '聖水プレイエックススタジオ（플레이엑스스튜디오）ポップアップ' 이 한 줄 12자 안팎을 크게 넘음 — 표지에서 잘리는지 확인 (괄호 속 한글은 규칙상 허용)"
+    ],
+    "review": {
+     "at": "2026-11-05T08:29+09:00",
+     "fixes": [
+      "영어 · 부제 · Store Pop-up → CU Pop-up — 'Store' 만으로는 편의점인지 알 수 없음 (CU 는 본문 장에 이미 있는 사실)",
+      "영어 · 팬미팅 본문·캡션 · Fill 'Intimacy 99°' → Reach 'Intimacy 99°' — 수치를 '채우다'는 영어에서 어색한 연어",
+      "영어 · 캡션 · the fourth mini album → their fourth mini album — 누구의 앨범인지 분명히",
+      "일본어 · 부제 · 聖水のポップアップ → 聖水ポップアップ — 'コンビニ・聖水の' 가 이어져 한 덩어리로 잘못 읽힘",
+      "일본어 · 팬미팅 본문 · Melon MusicWave → Melon Music Wave — 영어판과 표기 통일",
+      "일본어 · 팬미팅 본문·캡션 · 『親密度99度』を満たす → 『親密度99度』に達する — 직역투 연어"
+     ],
+     "doubt": [
+      "'Bake405'(원문) vs 'BAKE405'(번역) 대소문자 — 공식 표기를 확인하지 못함",
+      "플레이엑스스튜디오 영문 공식 표기(Play X Studio / PLAYX STUDIO 등)를 확인하지 못함 — 영어·일본어판 함께 확인 필요",
+      "멜론 '뮤직웨이브' 공식 영문 표기(Music Wave / MUSIC WAVE)를 확인하지 못함",
+      "일본어 해시태그 #リセンヌ 가 RESCENE 일본 공식 카타카나 표기인지 확인 필요",
+      "일본어 장 소제목 '聖水プレイエックススタジオ（플레이엑스스튜디오）ポップアップ' 이 한 줄 12자 안팎을 크게 넘음 — 표지에서 잘리는지 확인 (괄호 속 한글은 규칙상 허용)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nRESCENE (@rescene_official) has three places to meet fans in Seoul this month.\n\nThe first to open is the CU (@cu_official) Olympic Plaza store. RESCENE has been CU's brand model since July, and to mark Nov 3, the release date of their fourth mini album 〈PULSE〉, the store has become a RESCENE pop-up, selling collaboration breads and 'Deokyeoni-ttal' lunch boxes in limited daily quantities.\n\nFrom the 6th, a five-day pop-up runs at Play X Studio in Seongsu, with a Melon listening zone and content shown only on site. The fan meeting at MUSINSA GARAGE on the 24th has no ticket sales; instead, 560 users who reach 'Intimacy 99°' on RESCENE's Melon channel will be chosen by draw.\n\nCU pop-up: Nov 3 (Tue) – Nov 15 (Sun) · 07:00–23:00 · 424 Olympic-ro, Songpa-gu, Seoul\nBread & lunch boxes: through Nov 9 (Mon) · limited daily quantities from 9 a.m.\nSeongsu pop-up: Nov 6 (Fri) – Nov 10 (Tue) · Play X Studio, Yeonmujang-gil, Seongsu-dong, Seoul\nMelon STAGE 99: Nov 24 (Tue) · MUSINSA GARAGE · entries through Nov 12 (Thu)\n#SENE #RESCENE #SeoulPopup #Seongsu #KpopPopup\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834856/fcjiexmjwazfb6eulgje.jpg\n제목: RESCENE Comeback Week|3 Seoul Spots, by Date\n부제: CU Pop-up · Seongsu Pop-up · Fan Meeting Draw\n출처: @rescene_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834858/agz44kujq5nnarua1ouq.jpg\n소제목: CU Olympic Plaza Store Pop-up\n본문: Nov 3 (Tue) – Nov 15 (Sun)|7 a.m. – 11 p.m.|424 Olympic-ro, Songpa-gu, Seoul||RESCENE BAKE405 breads and 'Deokyeoni-ttal' lunch boxes|through Nov 9 (Mon), limited daily quantities from 9 a.m.\n출처: @rescene_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834861/lojkxexou0pvhzv0ne5f.jpg\n소제목: Play X Studio Pop-up, Seongsu\n본문: Nov 6 (Fri) – Nov 10 (Tue)|Yeonmujang-gil, Seongsu-dong, Seongdong-gu, Seoul||A Melon listening zone for the new album,|plus content shown only on site\n출처: @rescene_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834863/fbolmaracfvlap81aytc.jpg\n소제목: Melon STAGE 99 Fan Meeting\n본문: Nov 24 (Tue) · MUSINSA GARAGE, Mapo-gu, Seoul||No ticket sales — 560 fans chosen by draw|Reach 'Intimacy 99°' on RESCENE's channel|on Melon Music Wave to enter|Entries close Nov 12 (Thu)\n출처: @rescene_official\n",
+      "caption": "RESCENE (@rescene_official) has three places to meet fans in Seoul this month.\n\nThe first to open is the CU (@cu_official) Olympic Plaza store. RESCENE has been CU's brand model since July, and to mark Nov 3, the release date of their fourth mini album 〈PULSE〉, the store has become a RESCENE pop-up, selling collaboration breads and 'Deokyeoni-ttal' lunch boxes in limited daily quantities.\n\nFrom the 6th, a five-day pop-up runs at Play X Studio in Seongsu, with a Melon listening zone and content shown only on site. The fan meeting at MUSINSA GARAGE on the 24th has no ticket sales; instead, 560 users who reach 'Intimacy 99°' on RESCENE's Melon channel will be chosen by draw.\n\nCU pop-up: Nov 3 (Tue) – Nov 15 (Sun) · 07:00–23:00 · 424 Olympic-ro, Songpa-gu, Seoul\nBread & lunch boxes: through Nov 9 (Mon) · limited daily quantities from 9 a.m.\nSeongsu pop-up: Nov 6 (Fri) – Nov 10 (Tue) · Play X Studio, Yeonmujang-gil, Seongsu-dong, Seoul\nMelon STAGE 99: Nov 24 (Tue) · MUSINSA GARAGE · entries through Nov 12 (Thu)\n#SENE #RESCENE #SeoulPopup #Seongsu #KpopPopup",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834984/zyo207hvd1fbh8fu0q5m.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834984/yhcgvef3wmuhx8nmf8lm.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834984/et52nubbcb3p4ofqzofw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834984/xwddgd0fv7n5sgc7g4ve.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834986/sqzf8seufzi15ydq8lxa.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834984/zyo207hvd1fbh8fu0q5m.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-05T08:29+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nRESCENE（@rescene_official）にソウルで会える場が、今月3か所で開かれます。\n\n最初にオープンしたのはCU（@cu_official）オリンピック広場店です。RESCENEは今年7月からCUのモデルを務めていますが、4thミニアルバム〈PULSE〉が出た11月3日に合わせてこの店舗がRESCENEのポップアップとなり、コラボパンと『ドギョニタル（덕연이딸）』弁当を1日限定数量で販売しています。\n\n6日からの5日間はソウル・聖水洞（ソンスドン）のプレイエックススタジオでポップアップが開かれ、Melonの試聴ゾーンと現地限定で公開されるコンテンツがあります。24日のMUSINSA GARAGEでのファンミーティングはチケットを販売せず、MelonのRESCENEチャンネルで『親密度99度』に達した利用者の中から560人を抽選します。\n\nCUポップアップ：11月3日（火）〜15日（日）・7:00〜23:00・ソウル・松坡区オリンピック路424\nパン・弁当：11月9日（月）まで・午前9時から1日限定数量\n聖水ポップアップ：11月6日（金）〜10日（火）・ソウル・聖水洞 練武場キル プレイエックススタジオ\nMelon STAGE 99：11月24日（火）・MUSINSA GARAGE・応募は11月12日（木）まで\n#SENE #RESCENE #リセンヌ #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834856/fcjiexmjwazfb6eulgje.jpg\n제목: RESCENEカムバック週間|ソウル3か所を日付順に\n부제: コンビニ・聖水ポップアップ・抽選ファンミ\n출처: @rescene_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834858/agz44kujq5nnarua1ouq.jpg\n소제목: CUオリンピック広場店ポップアップ\n본문: 11月3日（火）〜15日（日）|午前7時〜午後11時|ソウル・松坡区（ソンパグ）オリンピック路424||RESCENEのBAKE405パンと『ドギョニタル（덕연이딸）』弁当は|11月9日（月）まで、午前9時から1日限定数量\n출처: @rescene_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834861/lojkxexou0pvhzv0ne5f.jpg\n소제목: 聖水プレイエックススタジオ（플레이엑스스튜디오）ポップアップ\n본문: 11月6日（金）〜10日（火）|ソウル・聖水洞（ソンスドン）練武場キル（ヨンムジャンギル）||Melonの試聴ゾーンで新アルバムを聴けて、|現地限定で公開されるコンテンツもあります\n출처: @rescene_official\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793834863/fbolmaracfvlap81aytc.jpg\n소제목: Melon STAGE 99 ファンミーティング\n본문: 11月24日（火）・ソウル・麻浦区（マポグ）MUSINSA GARAGE||チケット販売なし、560人を抽選|Melon Music WaveのRESCENEチャンネルで|『親密度99度』に達すると応募|応募締切 11月12日（木）\n출처: @rescene_official\n",
+      "caption": "RESCENE（@rescene_official）にソウルで会える場が、今月3か所で開かれます。\n\n最初にオープンしたのはCU（@cu_official）オリンピック広場店です。RESCENEは今年7月からCUのモデルを務めていますが、4thミニアルバム〈PULSE〉が出た11月3日に合わせてこの店舗がRESCENEのポップアップとなり、コラボパンと『ドギョニタル（덕연이딸）』弁当を1日限定数量で販売しています。\n\n6日からの5日間はソウル・聖水洞（ソンスドン）のプレイエックススタジオでポップアップが開かれ、Melonの試聴ゾーンと現地限定で公開されるコンテンツがあります。24日のMUSINSA GARAGEでのファンミーティングはチケットを販売せず、MelonのRESCENEチャンネルで『親密度99度』に達した利用者の中から560人を抽選します。\n\nCUポップアップ：11月3日（火）〜15日（日）・7:00〜23:00・ソウル・松坡区オリンピック路424\nパン・弁当：11月9日（月）まで・午前9時から1日限定数量\n聖水ポップアップ：11月6日（金）〜10日（火）・ソウル・聖水洞 練武場キル プレイエックススタジオ\nMelon STAGE 99：11月24日（火）・MUSINSA GARAGE・応募は11月12日（木）まで\n#SENE #RESCENE #リセンヌ #聖水 #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834994/wqiz7eay1w0ssjt1jbns.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834993/nsystwgkz3xvkouv31hb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834993/k4xujoi7urxigcv9drno.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834993/z9c8af8hrfkqmkekzro6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834995/ymjinsm77s1iw1lzxls0.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793834994/wqiz7eay1w0ssjt1jbns.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-05T08:29+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -364,10 +439,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-05T08:28+09:00"
+  "at": "2026-11-05T08:29+09:00"
  },
  "queue": {
-  "next": "2026-11-05T08:30+09:00",
+  "next": "2026-11-05T08:31+09:00",
   "n": 0,
   "gap": 20
  },
