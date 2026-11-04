@@ -282,11 +282,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "협업이 오늘 PC에 들어오는 날 — 아이브 팬이 저장할 지스타 현장 정보와 공식 트레일러 릴스",
-    "at": "2026-11-04T11:46+09:00"
-   },
    "published": {
     "permalink": "https://www.instagram.com/p/DfT4hNUk0Kk/",
     "cover": "A",
@@ -700,11 +695,6 @@
    },
    "corner_name": "콘서트 가는 날",
    "corner_no": 1,
-   "pick": {
-    "rank": 3,
-    "why": "오늘 오후 8시 예매 — 시간이 정해진 저장 정보",
-    "at": "2026-11-04T11:46+09:00"
-   },
    "i18n_queued": "2026-11-04T11:47+09:00",
    "i18n": {
     "at": "2026-11-04T11:48+09:00",
@@ -762,6 +752,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "예매가 오늘 밤 8시 — 퇴근길에 지금 알려야 쓸모가 있다",
+    "at": "2026-11-04T17:47+09:00"
    }
   },
   {
@@ -996,11 +991,6 @@
      "via": "api"
     }
    },
-   "pick": {
-    "rank": 2,
-    "why": "오늘 아침 청담 포토월 — 앰배서더 카즈하의 말 없는 10여 초, 릴스 위주 결",
-    "at": "2026-11-04T11:46+09:00"
-   },
    "corner_name": "현장",
    "i18n_queued": "2026-11-04T11:47+09:00",
    "i18n": {
@@ -1058,6 +1048,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 낮 청담 포토콜 — 오늘 안에 올려야 하는 케이팝 릴스 (카즈하)",
+    "at": "2026-11-04T17:47+09:00"
    }
   },
   {
@@ -1245,6 +1240,124 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:gimcheon-gimbap-seongsu",
+    "account": "김천김밥축제 공식 인스타그램 (김천시)",
+    "url": "https://www.instagram.com/gc_gimbapcity/",
+    "image": null,
+    "head": "2026 김천김밥축제 '꼬달이 서울휴가' 팝업 11/6~8 성수 에스팩토리 라이브 B동 — 판매 김밥 3종 공개",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-04T17:47+09:00",
+   "key": "bbf9cee8",
+   "by": "claude",
+   "subjects": [
+    "김천김밥축제"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "김천 축제에서 일찍 동난 김밥 3종이 이번 주말 사흘만 성수에 — 어떤 김밥·어디·언제 무대가 있나",
+    "why": "퇴근길에 볼 이번 주말 갈 곳 · 기획안 pm 의 비케이팝 몫 (축제 때 새벽 줄이 선 메뉴)"
+   },
+   "added": "claude",
+   "added_at": "2026-11-04T17:47+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n김천김밥축제(@gc_gimbapcity)에서 일찍 동났던 김밥이 이번 주말 성수에서 다시 말립니다.\n\n지난달 김천 축제에서는 김밥을 사려고 새벽부터 줄이 섰는데요, 김천시가 그 김밥을 들고 11월 6일부터 사흘간 성수동 에스팩토리에 '꼬달이 서울휴가' 팝업을 엽니다.\n\n파는 김밥은 세 가지입니다. 김밥단리의 '명란오이김밥', 울릉도아리랑김밥의 '먹물명이김밥', 이동규통통김밥의 '벚꽃김밥'. 축제 마스코트 꼬달이 굿즈도 함께 나오고, 성수에서 처음 공개하는 새 굿즈도 있습니다.\n\n6일(금) 오후 4시에는 김천시 관광홍보대사 박영진의 토크 콘서트가, 7일(토) 오후 4시에는 가수 자두가 무대에 섭니다.\n\n기간: 11월 6일(금) ~ 11월 8일(일)\n장소: 서울 성동구 연무장15길 11 에스팩토리 라이브 B동\n\n#SENE #성수팝업 #김천김밥축제 #꼬달이 #성수동\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793782040/womr2rcga8vyptmjezsm.jpg\n제목: 김천에서 줄 섰던 김밥,|이번 주말 성수에\n부제: 꼬달이 서울휴가 · 11/6~8 에스팩토리\n출처: @gc_gimbapcity\n",
+    "caption": "김천김밥축제(@gc_gimbapcity)에서 일찍 동났던 김밥이 이번 주말 성수에서 다시 말립니다.\n\n지난달 김천 축제에서는 김밥을 사려고 새벽부터 줄이 섰는데요, 김천시가 그 김밥을 들고 11월 6일부터 사흘간 성수동 에스팩토리에 '꼬달이 서울휴가' 팝업을 엽니다.\n\n파는 김밥은 세 가지입니다. 김밥단리의 '명란오이김밥', 울릉도아리랑김밥의 '먹물명이김밥', 이동규통통김밥의 '벚꽃김밥'. 축제 마스코트 꼬달이 굿즈도 함께 나오고, 성수에서 처음 공개하는 새 굿즈도 있습니다.\n\n6일(금) 오후 4시에는 김천시 관광홍보대사 박영진의 토크 콘서트가, 7일(토) 오후 4시에는 가수 자두가 무대에 섭니다.\n\n기간: 11월 6일(금) ~ 11월 8일(일)\n장소: 서울 성동구 연무장15길 11 에스팩토리 라이브 B동\n\n#SENE #성수팝업 #김천김밥축제 #꼬달이 #성수동",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782040/womr2rcga8vyptmjezsm.jpg",
+      "credit": "@gc_gimbapcity",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869966789_17952305229285170_2990692448288108609_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KYBJHbVvUWYQ7kNvwE3fR9L&_nc_oc=AdrMs6tKGl2-wzi0oVNebAsnw0weuH5c3sXDIst8t6AMLqsZpWvT2B355AaWnutkZ7Q&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=d8KevDJp7U2XyKvfrVhcrA&oh=00_AQTQJq7ds6NRIXx4J57RsxMpNsou7f3CuxqbbNDlAiiR9Q&oe=6AF0CCA4"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782043/wetcveqrkk7swa7op7se.jpg",
+      "credit": "@gc_gimbapcity",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/878539949_17952518514285170_6882769707601744235_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_o4rsi9AA1wQ7kNvwFWanCX&_nc_oc=AdqJnKWMn9NreKkejixopSMWoTDqprXZx55euMuxj4alI-Zl5IpCfRQJWm00e1WXpx0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=d8KevDJp7U2XyKvfrVhcrA&oh=00_AQSIlLSY99UvHAu4cRO5FCMMR1vNttHkG6u24wVcC3DqRQ&oe=6AF0C6C4"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782040/womr2rcga8vyptmjezsm.jpg",
+      "credit": "@gc_gimbapcity",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869966789_17952305229285170_2990692448288108609_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=KYBJHbVvUWYQ7kNvwE3fR9L&_nc_oc=AdrMs6tKGl2-wzi0oVNebAsnw0weuH5c3sXDIst8t6AMLqsZpWvT2B355AaWnutkZ7Q&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=d8KevDJp7U2XyKvfrVhcrA&oh=00_AQTQJq7ds6NRIXx4J57RsxMpNsou7f3CuxqbbNDlAiiR9Q&oe=6AF0CCA4"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782043/wetcveqrkk7swa7op7se.jpg",
+      "credit": "@gc_gimbapcity",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/878539949_17952518514285170_6882769707601744235_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=_o4rsi9AA1wQ7kNvwFWanCX&_nc_oc=AdqJnKWMn9NreKkejixopSMWoTDqprXZx55euMuxj4alI-Zl5IpCfRQJWm00e1WXpx0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=d8KevDJp7U2XyKvfrVhcrA&oh=00_AQSIlLSY99UvHAu4cRO5FCMMR1vNttHkG6u24wVcC3DqRQ&oe=6AF0C6C4"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "김천에서 줄 섰던 김밥,|이번 주말 성수에",
+      "sub": "꼬달이 서울휴가 · 11/6~8 에스팩토리"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "운영 시간·김밥 가격은 공식 포스터·기사 어디에도 없어 뺐습니다 — 공식 인스타 캡션에 있으면 실용 정보 줄에 더해 주세요",
+     "주소 '연무장15길 11' 은 에스팩토리 주소(팝업 안내 사이트 기준) — 포스터 표기는 '성수 에스팩토리 라이브 (B동)'"
+    ],
+    "research": [
+     {
+      "title": "김천김밥축제 공식 인스타 — 꼬달이 서울휴가 포스터 (10/29 · 기간·장소)",
+      "link": "https://www.instagram.com/gc_gimbapcity/"
+     },
+     {
+      "title": "김천김밥축제 공식 인스타 — 판매김밥 라인업 (10/30)",
+      "link": "https://www.instagram.com/gc_gimbapcity/"
+     },
+     {
+      "title": "대경일보 — 김밥 맛보러 성수동으로 (11/1)",
+      "link": "https://www.dkilbo.com/news/articleView.html?idxno=559105"
+     },
+     {
+      "title": "열린뉴스통신 — 김천시, 김밥축제 열기 서울 성수동으로…6일부터 팝업스토어 운영",
+      "link": "https://www.onews.tv/news/articleView.html?idxno=290540"
+     },
+     {
+      "title": "더쎈뉴스 — 김천시, 서울 한복판서 김밥 말다 (10/30)",
+      "link": "https://www.mhns.co.kr/news/articleView.html?idxno=766752"
+     },
+     {
+      "title": "뉴스1 — 김천서 줄 서야 했던 김밥…11월 6~8일 성수동서 팝업스토어 운영",
+      "link": "https://www.news1.kr/local/daegu-gyeongbuk/6338290"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782049/zzkiutlaej0krjiybh9v.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782048/wlqj3ufpnjgfhtiknjkt.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782049/zzkiutlaej0krjiybh9v.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-04T17:47+09:00",
+     "v": {
+      "A": "9e9d7e4a"
+     }
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "이번 주말(11/6~8) 성수에서 갈 곳 — 퇴근길 저장각",
+    "at": "2026-11-04T17:47+09:00"
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-11-04T17:47+09:00"
   }
  ],
  "skipped": [],
@@ -1264,7 +1377,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 4,
+    "drafts": 5,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1492,10 +1605,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T16:19+09:00"
+  "at": "2026-11-04T17:47+09:00"
  },
  "queue": {
-  "next": "2026-11-04T16:30+09:00",
+  "next": "2026-11-04T17:49+09:00",
   "n": 0,
   "gap": 20
  },
