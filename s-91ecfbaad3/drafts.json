@@ -1571,12 +1571,66 @@
      "v": {
       "A": "8c488de6",
       "B": "13b80187",
-      "C": "b9e9b0d3"
+      "C": "b9e9b0d3",
+      "E": "a1fa5265",
+      "J": "dea9fe4d"
      }
     }
    },
    "corner_name": "이슈",
-   "i18n_queued": "2026-11-04T21:46+09:00"
+   "i18n_queued": "2026-11-04T21:46+09:00",
+   "i18n": {
+    "at": "2026-11-04T21:47+09:00",
+    "confirm": [
+     "The race's English name 'MBN Seoul Marathon' matches English search results. I didn't find an official English or Japanese name for the 10km course '국민통합런', so I used the romanization 'Gungmin Tonghap Run (National Unity Run)' in English. In Japanese I used 「国民統合ラン（국민통합런）」.",
+     "The two lines of the English cover title are swapped (place first, then date) so each line stays under about 22 characters.",
+     "Search results show the 2026 race is on November 15, but I didn't find the official 2026 course map. Please check the official race notice to confirm the course details (Gwanghwamun Square → Jamsil Sports Complex east gate, 10km turnaround at Garak Market Station)."
+    ],
+    "review": {
+     "at": "2026-11-04T21:47+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · 'Organizers say they are taking 20,000 runners' → 'According to organizers, the field is capped at 20,000 runners' — 모집 인원을 뜻하는 말로는 어색한 연어라서",
+      "영어 · 실용 정보 일시 줄 · 'start at 7:30 a.m.' → '7:30 a.m. start' — 정보 줄 꼴에 맞춤",
+      "일본어 · 캡션 · 「国民統合ラン（국민통합런）」 → 「国民統合ラン（クンミントンハプラン）」 — 한글이 남아 있어서 カタカナ 읽기로 바꿈",
+      "일본어 · 캡션 · 「大会の週に出る」 → 「大会の週に発表される」 — 교통 안내와 어울리는 자연스러운 연어로"
+     ],
+     "doubt": []
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nOn the morning of Sunday, Nov 15, the roads from Gwanghwamun to Jamsil turn back into a marathon course.\n\nThe 2026 MBN Seoul Marathon takes place that day. The half course starts at Gwanghwamun Square in Seoul and finishes at the east gate of Jamsil Sports Complex. The 10km course, called the 'Gungmin Tonghap Run' (National Unity Run), starts at Jamsil Sports Complex and turns back at Garak Market Station. According to organizers, the field is capped at 20,000 runners for the half and 10,000 for the 10km.\n\nThe race starts at 7:30 a.m. The cutoff is 10:30 a.m., and organizers say closures will not all lift then. Roads will reopen one section at a time. If you plan to drive or take a bus between Gwanghwamun and Jamsil that morning, check the traffic notices from the Seoul Metropolitan Police Agency and the Seoul Metropolitan Government (@seoul_official) during race week before you go.\n\nDate: Sun, Nov 15, 7:30 a.m. start\nHalf: Gwanghwamun Square → Jamsil Sports Complex east gate\n10km: Start and finish at Jamsil Sports Complex (turnaround at Garak Market Station)\nRoad reopening: Section by section from 10:30 a.m. (per organizers)\n#SENE #MBNSeoulMarathon #SeoulMarathon #Jamsil #Gwanghwamun #RunningInSeoul\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793796346/jcsbbzemmoxfyz7vi0zp.jpg\n제목: Gwanghwamun–Jamsil|Roads Close Sun, Nov 15\n부제: 2026 MBN Seoul Marathon · Starts 7:30 a.m.\n출처: MBN Seoul Marathon\n",
+      "caption": "On the morning of Sunday, Nov 15, the roads from Gwanghwamun to Jamsil turn back into a marathon course.\n\nThe 2026 MBN Seoul Marathon takes place that day. The half course starts at Gwanghwamun Square in Seoul and finishes at the east gate of Jamsil Sports Complex. The 10km course, called the 'Gungmin Tonghap Run' (National Unity Run), starts at Jamsil Sports Complex and turns back at Garak Market Station. According to organizers, the field is capped at 20,000 runners for the half and 10,000 for the 10km.\n\nThe race starts at 7:30 a.m. The cutoff is 10:30 a.m., and organizers say closures will not all lift then. Roads will reopen one section at a time. If you plan to drive or take a bus between Gwanghwamun and Jamsil that morning, check the traffic notices from the Seoul Metropolitan Police Agency and the Seoul Metropolitan Government (@seoul_official) during race week before you go.\n\nDate: Sun, Nov 15, 7:30 a.m. start\nHalf: Gwanghwamun Square → Jamsil Sports Complex east gate\n10km: Start and finish at Jamsil Sports Complex (turnaround at Garak Market Station)\nRoad reopening: Section by section from 10:30 a.m. (per organizers)\n#SENE #MBNSeoulMarathon #SeoulMarathon #Jamsil #Gwanghwamun #RunningInSeoul",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796436/csnxr7wt1puwwwdsvkn8.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796435/thavwafxokq8kwezmmzd.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796436/csnxr7wt1puwwwdsvkn8.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T21:47+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\n11月15日（日）の朝、光化門（クァンファムン）から蚕室（チャムシル）までの道路が再びマラソンコースになります。\n\nこの日は2026 MBNソウルマラソンが開かれます。ハーフコースはソウル・光化門広場をスタートし、蚕室総合運動場の東門でゴールします。10kmコース「国民統合ラン（クンミントンハプラン）」は蚕室総合運動場をスタートし、可楽市場（カラクシジャン）駅で折り返します。募集人数は、大会の発表によるとハーフが2万人、10kmが1万人です。\n\nスタートは午前7時30分です。大会側によると、制限時間が終わる午前10時30分に規制を一斉に解除するのではなく、区間ごとに順番に解除するとのことです。当日の午前に光化門と蚕室の間を車やバスで移動する予定がある方は、大会の週に発表されるソウル警察庁・ソウル市（@seoul_official）の交通案内を一度確認してから出かけるのがよさそうです。\n\n日時：11月15日（日）午前7時30分スタート\nハーフ：光化門広場 → 蚕室総合運動場 東門\n10km：蚕室総合運動場 発着（可楽市場駅で折り返し）\n規制解除：午前10時30分から区間ごとに順次（大会側の案内）\n#SENE #MBNソウルマラソン #ソウルマラソン #韓国旅行 #蚕室 #光化門\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793796346/jcsbbzemmoxfyz7vi0zp.jpg\n제목: 11月15日（日）|光化門〜蚕室で交通規制\n부제: 2026 MBNソウルマラソン・午前7時30分スタート\n출처: MBNソウルマラソン\n",
+      "caption": "11月15日（日）の朝、光化門（クァンファムン）から蚕室（チャムシル）までの道路が再びマラソンコースになります。\n\nこの日は2026 MBNソウルマラソンが開かれます。ハーフコースはソウル・光化門広場をスタートし、蚕室総合運動場の東門でゴールします。10kmコース「国民統合ラン（クンミントンハプラン）」は蚕室総合運動場をスタートし、可楽市場（カラクシジャン）駅で折り返します。募集人数は、大会の発表によるとハーフが2万人、10kmが1万人です。\n\nスタートは午前7時30分です。大会側によると、制限時間が終わる午前10時30分に規制を一斉に解除するのではなく、区間ごとに順番に解除するとのことです。当日の午前に光化門と蚕室の間を車やバスで移動する予定がある方は、大会の週に発表されるソウル警察庁・ソウル市（@seoul_official）の交通案内を一度確認してから出かけるのがよさそうです。\n\n日時：11月15日（日）午前7時30分スタート\nハーフ：光化門広場 → 蚕室総合運動場 東門\n10km：蚕室総合運動場 発着（可楽市場駅で折り返し）\n規制解除：午前10時30分から区間ごとに順次（大会側の案内）\n#SENE #MBNソウルマラソン #ソウルマラソン #韓国旅行 #蚕室 #光化門",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796439/i7tp0odovjdwaiwyuhbf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796438/w8brqr3paxli3iy9lnvd.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796439/i7tp0odovjdwaiwyuhbf.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T21:47+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1824,10 +1878,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T21:46+09:00"
+  "at": "2026-11-04T21:47+09:00"
  },
  "queue": {
-  "next": "2026-11-04T21:48+09:00",
+  "next": "2026-11-04T21:49+09:00",
   "n": 0,
   "gap": 20
  },
