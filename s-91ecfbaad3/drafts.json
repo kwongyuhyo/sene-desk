@@ -914,11 +914,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=_HOdDaEgKH8\n구간: 0:20-0:35\n곡: VIDIVICIに登場\n아티스트: *カズハ*、\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
       "caption": "LE SSERAFIMのKAZUHA（カズハ）が今日、ソウル・清潭洞（チョンダムドン）にあるVIDIVICIのフォトウォールに登場しました。\n\nカズハはVIDIVICIのアンバサダーを務めています。この日は、11月4日にハウス・オブ・シンセゲ清潭（House of Shinsegae Cheongdam）1階でオープンしたポップアップ「LIGHT IN BLACK（ライト・イン・ブラック）」の初日イベントでした。\n\nポップアップはブランドを代表するメイクアップライン「ブラック パーフェクション」を中心に構成され、製品を実際に試して購入することができます。今月27日まで開かれます。\n\n期間：11月4日（水）〜11月27日（金）\n場所：ソウル・江南区清潭洞（チョンダムドン） ハウス・オブ・シンセゲ清潭 1階\n映像：MTN STAR\n#SENE #カズハ #LESSERAFIM #VIDIVICI #韓国旅行",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-04T11:49+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793760743/sene_studio/zr8cytuejjlizym4kpdw.mp4",
+       "at": "2026-11-04T11:52+09:00",
+       "file": "kazuha_VIDIVICIniDengChang_ByuTi_no_lyrics.mp4",
        "sig": "802a180d85",
-       "job": 210
+       "v": "316cfe6f"
       }
      }
     }
@@ -1170,10 +1171,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T11:51+09:00"
+  "at": "2026-11-04T11:52+09:00"
  },
  "queue": {
-  "next": "2026-11-04T11:53+09:00",
+  "next": "2026-11-04T11:54+09:00",
   "n": 0,
   "gap": 20
  },
