@@ -233,6 +233,13 @@
        "sig": "972991b941",
        "v": "5a517d9b"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfT4jw1lHJW/",
+      "cover": "E",
+      "at": "2026-11-04T16:07+09:00",
+      "account": "sene_en",
+      "via": "api"
      }
     },
     "ja": {
@@ -265,6 +272,13 @@
        "sig": "f1c2bb212f",
        "v": "2fe72499"
       }
+     },
+     "published": {
+      "permalink": "https://www.instagram.com/p/DfT4mZ-lOvm/",
+      "cover": "J",
+      "at": "2026-11-04T16:08+09:00",
+      "account": "sene_ja",
+      "via": "api"
      }
     }
    },
@@ -272,6 +286,13 @@
     "rank": 1,
     "why": "협업이 오늘 PC에 들어오는 날 — 아이브 팬이 저장할 지스타 현장 정보와 공식 트레일러 릴스",
     "at": "2026-11-04T11:46+09:00"
+   },
+   "published": {
+    "permalink": "https://www.instagram.com/p/DfT4hNUk0Kk/",
+    "cover": "A",
+    "at": "2026-11-04T16:07+09:00",
+    "account": "sene",
+    "via": "api"
    }
   },
   {
@@ -871,6 +892,12 @@
      "at": "2026-11-04T11:48+09:00",
      "file": "KaJeuHa_BiDiBiChi_PoToWol_ByuTi_no_lyrics.mp4",
      "v": "dde5d801"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfT4ZrPD3b2/",
+     "at": "2026-11-04T16:06+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "pick": {
@@ -907,6 +934,12 @@
        "file": "KAZUHA_VIDIVICI_photo_wall_ByuTi_no_lyrics.mp4",
        "sig": "be702c0e52",
        "v": "5ca47437"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfT4i-jipWV/",
+       "at": "2026-11-04T16:08+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      }
     },
@@ -920,6 +953,12 @@
        "file": "kazuha_VIDIVICIniDengChang_ByuTi_no_lyrics.mp4",
        "sig": "802a180d85",
        "v": "316cfe6f"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfT4nYQEo1g/",
+       "at": "2026-11-04T16:08+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      }
     }
@@ -1171,10 +1210,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T11:52+09:00"
+  "at": "2026-11-04T16:08+09:00"
  },
  "queue": {
-  "next": "2026-11-04T11:54+09:00",
+  "next": "2026-11-04T16:27+09:00",
   "n": 0,
   "gap": 20
  },
