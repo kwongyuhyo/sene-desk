@@ -546,7 +546,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=EenmbghwQss\n구간: 0:52-1:08\n곡: Goes *New York*\n아티스트: Christmas at Hyundai\n피처링:\n후킹: \n출처: THE HYUNDAI 현대백화점\n자막: 끔",
-      "caption": "Hyundai Department Store has released its Christmas campaign film for this year.\n\nIn the film, Santa delivers presents with stray cats in a New York that never sleeps. The same story becomes the theme of H Village, the Christmas village on the fifth floor of The Hyundai Seoul (@thehyundai_seoul). According to Hyundai Department Store, red-brick buildings, neon signs and yellow taxis will fill the space, recreating the streets of 1980s–90s New York.\n\nDates: Opens Tue, Nov 10\nLocation: Sounds Forest, 5F, The Hyundai Seoul, Yeouido, Yeongdeungpo-gu, Seoul\nReservations: First round of advance booking on the 'The Hyundai Hi' app, Thu, Nov 5, 11 AM\nVideo: THE HYUNDAI 현대백화점\n\n#SENE #TheHyundaiSeoul #SeoulChristmas #Yeouido #SeoulTravel"
+      "caption": "Hyundai Department Store has released its Christmas campaign film for this year.\n\nIn the film, Santa delivers presents with stray cats in a New York that never sleeps. The same story becomes the theme of H Village, the Christmas village on the fifth floor of The Hyundai Seoul (@thehyundai_seoul). According to Hyundai Department Store, red-brick buildings, neon signs and yellow taxis will fill the space, recreating the streets of 1980s–90s New York.\n\nDates: Opens Tue, Nov 10\nLocation: Sounds Forest, 5F, The Hyundai Seoul, Yeouido, Yeongdeungpo-gu, Seoul\nReservations: First round of advance booking on the 'The Hyundai Hi' app, Thu, Nov 5, 11 AM\nVideo: THE HYUNDAI 현대백화점\n\n#SENE #TheHyundaiSeoul #SeoulChristmas #Yeouido #SeoulTravel",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-04T16:16+09:00",
+       "sig": "8cbf772dec",
+       "job": 211
+      }
      }
     },
     "ja": {
@@ -567,7 +573,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=EenmbghwQss\n구간: 0:52-1:08\n곡: *ニューヨーク*の街へ\n아티스트: ザ・現代のクリスマス\n피처링:\n후킹: \n출처: THE HYUNDAI 현대백화점\n자막: 끔",
-      "caption": "現代百貨店が今年のクリスマスキャンペーンフィルムを公開しました。\n\n眠らない街ニューヨークで、サンタが野良猫たちと一緒にプレゼントを運ぶ物語です。この場面がそのまま、ザ・現代ソウル（더현대 서울・@thehyundai_seoul）5階のクリスマスビレッジ「Hビレッジ」のテーマになります。1980〜90年代のニューヨークの街並みのように、赤レンガの建物やネオンサイン、イエローキャブが並ぶと現代百貨店は説明しています。\n\n期間：11月10日（火）オープン\n場所：ソウル・汝矣島（ヨイド）ザ・現代ソウル5階 サウンズフォレスト（ソウル市永登浦区）\n予約：11月5日（木）午前11時、アプリ「ザ・現代ハイ（더현대 하이）」で第1次事前予約\n映像：THE HYUNDAI 현대백화점\n\n#SENE #ザ現代ソウル #韓国旅行 #ソウルクリスマス #汝矣島"
+      "caption": "現代百貨店が今年のクリスマスキャンペーンフィルムを公開しました。\n\n眠らない街ニューヨークで、サンタが野良猫たちと一緒にプレゼントを運ぶ物語です。この場面がそのまま、ザ・現代ソウル（더현대 서울・@thehyundai_seoul）5階のクリスマスビレッジ「Hビレッジ」のテーマになります。1980〜90年代のニューヨークの街並みのように、赤レンガの建物やネオンサイン、イエローキャブが並ぶと現代百貨店は説明しています。\n\n期間：11月10日（火）オープン\n場所：ソウル・汝矣島（ヨイド）ザ・現代ソウル5階 サウンズフォレスト（ソウル市永登浦区）\n予約：11月5日（木）午前11時、アプリ「ザ・現代ハイ（더현대 하이）」で第1次事前予約\n映像：THE HYUNDAI 현대백화점\n\n#SENE #ザ現代ソウル #韓国旅行 #ソウルクリスマス #汝矣島",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-04T16:16+09:00",
+       "sig": "26da164989",
+       "job": 212
+      }
      }
     }
    }
@@ -1169,12 +1181,68 @@
      "v": {
       "A": "1932313f",
       "B": "df229c54",
-      "C": "6fd3677c"
+      "C": "6fd3677c",
+      "E": "3da5a6b5",
+      "J": "bf79e993"
      }
     }
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-04T16:14+09:00"
+   "i18n_queued": "2026-11-04T16:14+09:00",
+   "i18n": {
+    "at": "2026-11-04T16:17+09:00",
+    "confirm": [
+     "제목의 '금'을 화면 균열(crack/ひび)로 옮겼습니다. 화면 '줄'을 뜻한 것이었다면 영어는 'Line', 일본어는 '線'으로 바꿔 주세요.",
+     "영어판 출처·제목에 쓴 'iPhone Duo'와 'Galaxy Z Fold8' 표기는 MacRumors·iClarified·MobileSyrup 보도에서 확인했습니다. 일본어판은 Gizmodo Japan 표기를 따라 'iPhone Duo'를 로마자 그대로 두었습니다.",
+     "보도에 따르면 전광판 트럭은 몬트리올로도 갈 예정이지만, 원문에 없는 내용이라 넣지 않았습니다.",
+     "영어·일본어 공통 · 'iPhone Duo'·'Galaxy Z Fold8' 제품명 공식 표기는 이번 검수에서 웹으로 다시 확인하지 않음 — 올리기 전에 애플·삼성 공식 표기와 맞는지 한 번 확인",
+     "영어·일본어 공통 · 원문 '접힌 화면'을 각각 'folded-open screen'·'開いた画面'(펼친 화면)으로 옮김 — 사진 속 화면이 접힌 상태인지 펼친 상태인지 실제 광고 사진으로 확인"
+    ],
+    "review": {
+     "at": "2026-11-04T16:17+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 공통 · 'iPhone Duo'·'Galaxy Z Fold8' 제품명 공식 표기는 이번 검수에서 웹으로 다시 확인하지 않음 — 올리기 전에 애플·삼성 공식 표기와 맞는지 한 번 확인",
+      "영어·일본어 공통 · 원문 '접힌 화면'을 각각 'folded-open screen'·'開いた画面'(펼친 화면)으로 옮김 — 사진 속 화면이 접힌 상태인지 펼친 상태인지 실제 광고 사진으로 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nSamsung Canada (@samsungcanada) has drawn a line straight through the middle of its ad photos.\n\nThe three images went up on its official Instagram on Oct 29. A child eating a doughnut, a child beside a dog, a spiral staircase — across each folded-open screen runs the same vertical line, like a crack, along with a bright horizontal streak. The posts followed a run of user reports that the iPhone Duo, Apple's first foldable phone released on Oct 23, was developing lines where it folds. Apple has acknowledged an inner-display issue on some units and is replacing them through AppleCare.\n\nThe ads carry the line 'We know a thing or eight' and close by telling viewers to switch to the Galaxy Z Fold8. Eight is the number of Fold generations. Samsung, too, once delayed a launch: in 2019, review units of the first Galaxy Fold suffered screen failures.\n\nAds: Samsung Canada official Instagram · TikTok (from Oct 29)\nBillboard trucks: Toronto · Vancouver\nPosts on the same theme: Samsung accounts in Malaysia · Australia · Saudi Arabia\n\n#SENE #SamsungCanada #iPhoneDuo #GalaxyZFold8 #Foldable\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793776469/m1afrcrcpnjarpo4qjjm.jpg\n제목: The iPhone Duo's Crack,|Drawn Into a Samsung Ad\n부제: Samsung Canada: 'Switch to the Fold8'\n출처: @samsungcanada\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793776475/yfiikkrbnztihpkrbwur.jpg\n소제목: \n본문: \n출처: @samsungcanada · iClarified\n",
+      "caption": "Samsung Canada (@samsungcanada) has drawn a line straight through the middle of its ad photos.\n\nThe three images went up on its official Instagram on Oct 29. A child eating a doughnut, a child beside a dog, a spiral staircase — across each folded-open screen runs the same vertical line, like a crack, along with a bright horizontal streak. The posts followed a run of user reports that the iPhone Duo, Apple's first foldable phone released on Oct 23, was developing lines where it folds. Apple has acknowledged an inner-display issue on some units and is replacing them through AppleCare.\n\nThe ads carry the line 'We know a thing or eight' and close by telling viewers to switch to the Galaxy Z Fold8. Eight is the number of Fold generations. Samsung, too, once delayed a launch: in 2019, review units of the first Galaxy Fold suffered screen failures.\n\nAds: Samsung Canada official Instagram · TikTok (from Oct 29)\nBillboard trucks: Toronto · Vancouver\nPosts on the same theme: Samsung accounts in Malaysia · Australia · Saudi Arabia\n\n#SENE #SamsungCanada #iPhoneDuo #GalaxyZFold8 #Foldable",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776656/cbhpm1stp0ruwpbatysl.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776656/btzc71eqisqmnndo8hb8.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776656/psxpqpfxfedesv3xiwtn.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776656/cbhpm1stp0ruwpbatysl.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T16:17+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nサムスン・カナダ（@samsungcanada）が、広告写真の真ん中に一本の線を引きました。\n\n10月29日に公式インスタグラムに投稿された3枚の写真です。ドーナツを食べる子ども、犬のそばの子ども、らせん階段——開いた画面には、割れたような縦線と明るい横線が同じように走っています。10月23日に発売されたAppleの初の折りたたみスマートフォン「iPhone Duo」で、折り目の部分に線が入ったというユーザーの報告が相次いだ後のことでした。Appleは一部端末の内側ディスプレイの問題を認め、AppleCareで交換に応じています。\n\n広告は「We know a thing or eight」の一文とともに、Galaxy Z Fold8への乗り換えを呼びかけて締めくくられます。「8」はFoldの世代数です。サムスンも2019年、初代Galaxy Foldのレビュー用端末で画面の故障が起き、発売を延期したことがあります。\n\n広告：サムスン・カナダ公式インスタグラム・TikTok（10月29日から）\n広告トラック：トロント・バンクーバー\n同じテーマの投稿：マレーシア・オーストラリア・サウジアラビアのサムスンアカウント\n\n#SENE #iPhoneDuo #GalaxyZFold8 #折りたたみスマホ #サムスン\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793776469/m1afrcrcpnjarpo4qjjm.jpg\n제목: iPhone Duoのひび、|サムスンが広告に描く\n부제: サムスン・カナダ「Fold8に乗り換えを」\n출처: @samsungcanada\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793776475/yfiikkrbnztihpkrbwur.jpg\n소제목: \n본문: \n출처: @samsungcanada · iClarified\n",
+      "caption": "サムスン・カナダ（@samsungcanada）が、広告写真の真ん中に一本の線を引きました。\n\n10月29日に公式インスタグラムに投稿された3枚の写真です。ドーナツを食べる子ども、犬のそばの子ども、らせん階段——開いた画面には、割れたような縦線と明るい横線が同じように走っています。10月23日に発売されたAppleの初の折りたたみスマートフォン「iPhone Duo」で、折り目の部分に線が入ったというユーザーの報告が相次いだ後のことでした。Appleは一部端末の内側ディスプレイの問題を認め、AppleCareで交換に応じています。\n\n広告は「We know a thing or eight」の一文とともに、Galaxy Z Fold8への乗り換えを呼びかけて締めくくられます。「8」はFoldの世代数です。サムスンも2019年、初代Galaxy Foldのレビュー用端末で画面の故障が起き、発売を延期したことがあります。\n\n広告：サムスン・カナダ公式インスタグラム・TikTok（10月29日から）\n広告トラック：トロント・バンクーバー\n同じテーマの投稿：マレーシア・オーストラリア・サウジアラビアのサムスンアカウント\n\n#SENE #iPhoneDuo #GalaxyZFold8 #折りたたみスマホ #サムスン",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776660/drnnnigrxam1quxwgb2b.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776659/dwol6zvsdaoxdl1k3xgy.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776659/xicjoe10dek9xaugtp4m.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793776660/drnnnigrxam1quxwgb2b.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T16:17+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1422,7 +1490,7 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T16:16+09:00"
+  "at": "2026-11-04T16:17+09:00"
  },
  "queue": {
   "next": "2026-11-04T16:30+09:00",
