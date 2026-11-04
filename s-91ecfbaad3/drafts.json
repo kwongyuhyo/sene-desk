@@ -1347,7 +1347,9 @@
      "cvr": 2,
      "at": "2026-11-04T17:47+09:00",
      "v": {
-      "A": "9e9d7e4a"
+      "A": "9e9d7e4a",
+      "E": "7b2ecd29",
+      "J": "154f182a"
      }
     }
    },
@@ -1357,7 +1359,69 @@
     "at": "2026-11-04T17:47+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-04T17:47+09:00"
+   "i18n_queued": "2026-11-04T17:47+09:00",
+   "i18n": {
+    "at": "2026-11-04T17:49+09:00",
+    "confirm": [
+     "Seongsu 팝업 자체는 웹 검색으로 확인하지 못했습니다(찾은 건 10월 롯데 잠실점 팝업뿐). 번역은 원문 사실만 옮겼습니다.",
+     "마스코트 꼬달이 공식 영문·일문 표기를 찾지 못해 Kkodari / コダリ 로 로마자·카타카나 표기했습니다.",
+     "팝업 이름 '꼬달이 서울휴가'는 Kkodari's Seoul Vacation / コダリのソウル休暇 로 의역했습니다. 공식 외국어 이름이 있으면 바꿔 주세요.",
+     "김밥 가게 이름(김밥단리·울릉도아리랑김밥·이동규통통김밥)과 메뉴 이름은 공식 외국어 표기가 없어 로마자·의역으로 옮겼습니다. '명이'는 일본어에서 行者ニンニク 로 옮겼습니다.",
+     "가수 자두 일본어 표기는 チャドゥ（自豆）로 적었습니다. 박영진은 Park Young-jin / パク・ヨンジン 입니다. 둘 다 공식 표기 확인이 필요합니다.",
+     "에스팩토리 영문 표기는 S FACTORY 로 적었습니다. 'B동'은 Live Building B / ライブB棟 로 옮겼습니다.",
+     "에스팩토리 영문 표기 — 검색으로는 'S-Factory'(Fever 장소 페이지)로 나와 'S FACTORY' 공식 표기를 확인하지 못함. 올리기 전에 공식 계정 표기(S.FACTORY / S-Factory 등)로 영어·일본어를 맞출 것",
+     "꼬달이 로마자 'Kkodari' — 김천시나 축제 쪽의 공식 영문 표기가 있는지 확인 필요(일본어 コダリ도 같음)",
+     "영어 · 'Myeongi'(명이나물)는 영어권 독자에게 낯선 말이지만 설명을 붙이지 않음 — 명란처럼 '(wild garlic leaves)'를 붙일지 사람이 판단"
+    ],
+    "review": {
+     "at": "2026-11-04T17:49+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'Gimcheon Festival Gimbap,|in Seongsu This Weekend' → 'Gimcheon Festival Gimbap|Hits Seongsu This Weekend' — 쉼표 뒤에 'in'만 이어져 동사 없는 토막 제목이었음",
+      "영어 · 캡션 · popup → pop-up — 영어 기사의 표준 표기",
+      "일본어 · 캡션 · 歌手チャドゥ（自豆） → 歌手チャドゥ（자두） — 가수 자두의 이름에는 한자 표기가 없음, 지어낸 한자를 빼고 원어를 괄호에 넣음",
+      "일본어 · 캡션 · 'その金泉市がキンパを携えて' → '金泉市がそのキンパを携えて' — 원문 '그 김밥'의 '그'가 김천시 쪽에 잘못 붙어 있었음"
+     ],
+     "doubt": [
+      "에스팩토리 영문 표기 — 검색으로는 'S-Factory'(Fever 장소 페이지)로 나와 'S FACTORY' 공식 표기를 확인하지 못함. 올리기 전에 공식 계정 표기(S.FACTORY / S-Factory 등)로 영어·일본어를 맞출 것",
+      "꼬달이 로마자 'Kkodari' — 김천시나 축제 쪽의 공식 영문 표기가 있는지 확인 필요(일본어 コダリ도 같음)",
+      "영어 · 'Myeongi'(명이나물)는 영어권 독자에게 낯선 말이지만 설명을 붙이지 않음 — 명란처럼 '(wild garlic leaves)'를 붙일지 사람이 판단"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\nGimbap that ran out early at the Gimcheon Gimbap Festival (@gc_gimbapcity) is being rolled again in Seongsu this weekend.\n\nAt last month's festival in Gimcheon, people lined up from dawn to buy it. Now Gimcheon City is bringing that gimbap to S FACTORY in Seongsu-dong, Seoul, for a three-day pop-up, 'Kkodari's Seoul Vacation,' starting Nov 6.\n\nThree kinds are on sale: 'Myeongran Cucumber Gimbap' (pollock roe and cucumber) from Gimbap Danri, 'Squid Ink Myeongi Gimbap' from Ulleungdo Arirang Gimbap, and 'Cherry Blossom Gimbap' from Lee Dong-gyu Tongtong Gimbap. Goods featuring the festival mascot Kkodari are also available, including new items shown for the first time in Seongsu.\n\nAt 4 p.m. on Friday the 6th, Gimcheon tourism ambassador Park Young-jin hosts a talk concert. At 4 p.m. on Saturday the 7th, singer Jadu takes the stage.\n\nDates: Nov 6 (Fri) – Nov 8 (Sun)\nLocation: S FACTORY Live Building B, 11 Yeonmujang 15-gil, Seongdong-gu, Seoul (Seongsu-dong)\n\n#SENE #SeoulPopup #Seongsu #GimcheonGimbapFestival #Gimbap\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793782040/womr2rcga8vyptmjezsm.jpg\n제목: Gimcheon Festival Gimbap|Hits Seongsu This Weekend\n부제: Kkodari's Seoul Vacation · Nov 6–8, S FACTORY\n출처: @gc_gimbapcity\n",
+      "caption": "Gimbap that ran out early at the Gimcheon Gimbap Festival (@gc_gimbapcity) is being rolled again in Seongsu this weekend.\n\nAt last month's festival in Gimcheon, people lined up from dawn to buy it. Now Gimcheon City is bringing that gimbap to S FACTORY in Seongsu-dong, Seoul, for a three-day pop-up, 'Kkodari's Seoul Vacation,' starting Nov 6.\n\nThree kinds are on sale: 'Myeongran Cucumber Gimbap' (pollock roe and cucumber) from Gimbap Danri, 'Squid Ink Myeongi Gimbap' from Ulleungdo Arirang Gimbap, and 'Cherry Blossom Gimbap' from Lee Dong-gyu Tongtong Gimbap. Goods featuring the festival mascot Kkodari are also available, including new items shown for the first time in Seongsu.\n\nAt 4 p.m. on Friday the 6th, Gimcheon tourism ambassador Park Young-jin hosts a talk concert. At 4 p.m. on Saturday the 7th, singer Jadu takes the stage.\n\nDates: Nov 6 (Fri) – Nov 8 (Sun)\nLocation: S FACTORY Live Building B, 11 Yeonmujang 15-gil, Seongdong-gu, Seoul (Seongsu-dong)\n\n#SENE #SeoulPopup #Seongsu #GimcheonGimbapFestival #Gimbap",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782151/hmfa7mxcg1eptwpyimz9.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782150/z4anxbov47lt98syuhsu.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782151/hmfa7mxcg1eptwpyimz9.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T17:49+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n푸드\n\n[캡션]\n金泉キンパ祭り（@gc_gimbapcity）で早々に売り切れたキンパが、今週末ソウル・聖水洞（ソンスドン）で再び巻かれます。\n\n先月の金泉の祭りでは、キンパを買うために明け方から行列ができました。金泉市がそのキンパを携えて、11月6日から3日間、聖水洞のSファクトリー（에스팩토리）でポップアップ「コダリ（꼬달이）のソウル休暇」を開きます。\n\n販売されるキンパは3種類です。キンパプダンリ（김밥단리）の「明太子きゅうりキンパ」、鬱陵島アリランキンパ（울릉도아리랑김밥）の「イカスミ行者ニンニクキンパ」、イ・ドンギュ・トントンキンパ（이동규통통김밥）の「桜キンパ」。祭りのマスコット、コダリのグッズも並び、聖水で初公開となる新グッズもあります。\n\n6日（金）午後4時には金泉市観光広報大使パク・ヨンジンのトークコンサートが、7日（土）午後4時には歌手チャドゥ（자두）がステージに立ちます。\n\n期間：11月6日（金）〜11月8日（日）\n場所：ソウル特別市城東区練武場15ギル11 Sファクトリー ライブB棟（聖水洞）\n\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #キンパ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793782040/womr2rcga8vyptmjezsm.jpg\n제목: 金泉で行列のキンパ、|今週末は聖水に\n부제: コダリのソウル休暇・11/6〜8 Sファクトリー\n출처: @gc_gimbapcity\n",
+      "caption": "金泉キンパ祭り（@gc_gimbapcity）で早々に売り切れたキンパが、今週末ソウル・聖水洞（ソンスドン）で再び巻かれます。\n\n先月の金泉の祭りでは、キンパを買うために明け方から行列ができました。金泉市がそのキンパを携えて、11月6日から3日間、聖水洞のSファクトリー（에스팩토리）でポップアップ「コダリ（꼬달이）のソウル休暇」を開きます。\n\n販売されるキンパは3種類です。キンパプダンリ（김밥단리）の「明太子きゅうりキンパ」、鬱陵島アリランキンパ（울릉도아리랑김밥）の「イカスミ行者ニンニクキンパ」、イ・ドンギュ・トントンキンパ（이동규통통김밥）の「桜キンパ」。祭りのマスコット、コダリのグッズも並び、聖水で初公開となる新グッズもあります。\n\n6日（金）午後4時には金泉市観光広報大使パク・ヨンジンのトークコンサートが、7日（土）午後4時には歌手チャドゥ（자두）がステージに立ちます。\n\n期間：11月6日（金）〜11月8日（日）\n場所：ソウル特別市城東区練武場15ギル11 Sファクトリー ライブB棟（聖水洞）\n\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #キンパ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782154/k9xjdxigzvrx0q4ktpwl.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782154/g2bbbczuhzg2icz0khgx.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793782154/k9xjdxigzvrx0q4ktpwl.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T17:49+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1605,10 +1669,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T17:47+09:00"
+  "at": "2026-11-04T17:49+09:00"
  },
  "queue": {
-  "next": "2026-11-04T17:49+09:00",
+  "next": "2026-11-04T17:51+09:00",
   "n": 0,
   "gap": 20
  },
