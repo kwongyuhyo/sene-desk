@@ -575,7 +575,9 @@
      "v": {
       "A": "979902b1",
       "B": "67c5338f",
-      "C": "06808ca9"
+      "C": "06808ca9",
+      "E": "412bd8f3",
+      "J": "6b32bd2f"
      }
     }
    },
@@ -586,7 +588,64 @@
     "why": "오늘 오후 8시 예매 — 시간이 정해진 저장 정보",
     "at": "2026-11-04T11:46+09:00"
    },
-   "i18n_queued": "2026-11-04T11:47+09:00"
+   "i18n_queued": "2026-11-04T11:47+09:00",
+   "i18n": {
+    "at": "2026-11-04T11:48+09:00",
+    "confirm": [
+     "공연 자체(2026 FLY TO THE SKY SPECIAL CONCERT - 창원, 12/24·25 KBS창원홀, 11/4 20시 티켓링크 오픈)는 웹 검색으로 확인하지 못했습니다 — 한국어 원문 그대로 옮겼으니 티켓링크·소속사 공지와 대조해 주세요.",
+     "일본어 그룹명 공식 표기가 확인되지 않아 'Fly to the Sky（フライ・トゥ・ザ・スカイ）'로, 멤버는 관용 표기 ファニ·ブライアン으로 썼습니다.",
+     "영어판 멤버 이름은 원문대로 'Hwanhee · Brian'(Brian Joo 아님)으로 두었습니다.",
+     "날짜와 요일(12/24 목, 12/25 금, 11/4 수)은 2026년 달력과 맞습니다.",
+     "영어 표지 부제의 'Tickets open 8 PM tonight'는 시간대(KST)가 없습니다. 칸 길이 때문에 그대로 두었으니, 올리는 시각이 11월 4일 저녁 8시(한국 시간) 이후라면 '오늘 밤'이라는 표현이 이미 맞지 않습니다. 한국어·영어·일본어판 모두 올리는 시점을 확인해 주세요.",
+     "KBS창원홀과 티켓링크 예매 오픈 시각(11/4 20:00)은 이번 검수에서 다시 확인하지 않았습니다. 올리기 전에 티켓링크 공지와 한 번 더 대조해 주세요."
+    ],
+    "review": {
+     "at": "2026-11-04T11:48+09:00",
+     "fixes": [
+      "영어 · 캡션 · 'at 8 PM tonight' / 'Nov 4 (Wed) 8 PM' → 'KST' 추가 — 해외 독자에게 시간대가 안 보여 다른 시각으로 읽힘",
+      "일본어 · 캡션 첫 문장 · 「2回のステージを開きます」 → 「2回の公演を行います」 — 직역투 연어",
+      "일본어 · 캡션 둘째 단락 · 「2人がそろって立つ公演なのですが、」 → 「2人がそろってステージに立つ公演で、」 — '立つ'의 목적어가 빠져 어색하고 '~のですが'가 역접처럼 읽힘"
+     ],
+     "doubt": [
+      "영어 표지 부제의 'Tickets open 8 PM tonight'는 시간대(KST)가 없습니다. 칸 길이 때문에 그대로 두었으니, 올리는 시각이 11월 4일 저녁 8시(한국 시간) 이후라면 '오늘 밤'이라는 표현이 이미 맞지 않습니다. 한국어·영어·일본어판 모두 올리는 시점을 확인해 주세요.",
+      "KBS창원홀과 티켓링크 예매 오픈 시각(11/4 20:00)은 이번 검수에서 다시 확인하지 않았습니다. 올리기 전에 티켓링크 공지와 한 번 더 대조해 주세요."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nFly to the Sky (플라이 투 더 스카이) plays two shows in Changwon on Christmas Eve and Christmas Day.\n\nHwanhee and Brian take the stage together, and they put 'X-MAS PARTY' right in the concert's title. The two shows start at different times, 7 PM on the 24th and 5 PM on the 25th, so you can pick the one that fits your holiday plans.\n\nTickets go on sale on Ticketlink at 8 PM KST tonight.\n\nConcert: 2026 FLY TO THE SKY SPECIAL CONCERT - Changwon (X-MAS PARTY)\nDates: Dec 24 (Thu) 7 PM · Dec 25 (Fri) 5 PM\nLocation: KBS Changwon Hall, Changwon, Gyeongsangnam-do\nTickets: Ticketlink · on sale Nov 4 (Wed) 8 PM KST\n\n#SENE #FlyToTheSky #Hwanhee #Brian #Changwon #KoreaConcert\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793749622/sjoxaqydywxuqle0agaa.jpg\n제목: Fly to the Sky Plays|Changwon for Christmas\n부제: Dec 24–25 at KBS Changwon Hall · Tickets open 8 PM tonight\n출처: BT Entertainment · BYOU Entertainment\n",
+      "caption": "Fly to the Sky (플라이 투 더 스카이) plays two shows in Changwon on Christmas Eve and Christmas Day.\n\nHwanhee and Brian take the stage together, and they put 'X-MAS PARTY' right in the concert's title. The two shows start at different times, 7 PM on the 24th and 5 PM on the 25th, so you can pick the one that fits your holiday plans.\n\nTickets go on sale on Ticketlink at 8 PM KST tonight.\n\nConcert: 2026 FLY TO THE SKY SPECIAL CONCERT - Changwon (X-MAS PARTY)\nDates: Dec 24 (Thu) 7 PM · Dec 25 (Fri) 5 PM\nLocation: KBS Changwon Hall, Changwon, Gyeongsangnam-do\nTickets: Ticketlink · on sale Nov 4 (Wed) 8 PM KST\n\n#SENE #FlyToTheSky #Hwanhee #Brian #Changwon #KoreaConcert",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793760522/eb0c6bl4oprch2kocssi.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793760521/dibm75atqsgqwly6wxiu.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793760522/eb0c6bl4oprch2kocssi.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T11:48+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nFly to the Sky（フライ・トゥ・ザ・スカイ／플라이 투 더 스카이）が、クリスマスイブと当日に昌原（チャンウォン）で2回の公演を行います。\n\nファニとブライアンの2人がそろってステージに立つ公演で、公演名にも「X-MAS PARTY」をそのまま掲げました。24日は夜7時、25日は午後5時と開演時間が異なるため、連休の予定に合わせて選べます。\n\nチケットは今夜8時、チケットリンク（Ticketlink）で発売されます。\n\n公演：2026 FLY TO THE SKY SPECIAL CONCERT - 昌原 (X-MAS PARTY)\n日時：12月24日（木）午後7時・12月25日（金）午後5時\n場所：慶尚南道・昌原（チャンウォン） KBS昌原ホール\n予約：チケットリンク・11月4日（水）午後8時発売\n\n#SENE #FlytotheSky #ファニ #ブライアン #韓国コンサート #昌原\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793749622/sjoxaqydywxuqle0agaa.jpg\n제목: Fly to the Sky、|クリスマスに昌原公演\n부제: 12月24・25日 KBS昌原ホール・今夜8時にチケット発売\n출처: BTエンターテインメント・BYOUエンターテインメント\n",
+      "caption": "Fly to the Sky（フライ・トゥ・ザ・スカイ／플라이 투 더 스카이）が、クリスマスイブと当日に昌原（チャンウォン）で2回の公演を行います。\n\nファニとブライアンの2人がそろってステージに立つ公演で、公演名にも「X-MAS PARTY」をそのまま掲げました。24日は夜7時、25日は午後5時と開演時間が異なるため、連休の予定に合わせて選べます。\n\nチケットは今夜8時、チケットリンク（Ticketlink）で発売されます。\n\n公演：2026 FLY TO THE SKY SPECIAL CONCERT - 昌原 (X-MAS PARTY)\n日時：12月24日（木）午後7時・12月25日（金）午後5時\n場所：慶尚南道・昌原（チャンウォン） KBS昌原ホール\n予約：チケットリンク・11月4日（水）午後8時発売\n\n#SENE #FlytotheSky #ファニ #ブライアン #韓国コンサート #昌原",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793760525/kramwcye85uow5erjxjc.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793760524/qfc6zsaq4xegwlfd95xh.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793760525/kramwcye85uow5erjxjc.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-04T11:48+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1066,10 +1125,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T11:47+09:00"
+  "at": "2026-11-04T11:48+09:00"
  },
  "queue": {
-  "next": "2026-11-04T11:49+09:00",
+  "next": "2026-11-04T11:50+09:00",
   "n": 0,
   "gap": 20
  },
