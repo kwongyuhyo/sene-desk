@@ -1440,6 +1440,143 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:ord-3d494c1c",
+    "account": "@규효 공유 · @jamsilism",
+    "url": "https://www.instagram.com/p/DfUWuHqmTXq/?img_index=3&psln=MTlxdWwyZGpzdDBvbA==",
+    "image": null,
+    "head": "11/15(일) MBN 서울마라톤 — 광화문~잠실 아침 도로 통제, 10시 30분부터 순차 해제",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-04T21:45+09:00",
+   "key": "7c18366d",
+   "by": "claude",
+   "subjects": [
+    "MBN 서울마라톤"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "11월 15일 일요일 아침, 광화문~잠실이 다시 마라톤 코스가 된다 — 달리지 않는 사람이 알아 둘 시간·구간",
+    "why": "11월 1일 JTBC 대회 뒤 2주 만의 대형 도심 마라톤 · 잠실·송파 생활 동선에 바로 걸리는 일"
+   },
+   "added": "claude",
+   "added_at": "2026-11-04T21:45+09:00",
+   "corner": "issue",
+   "card": {
+    "form": "[카테고리]\n이슈\n\n[캡션]\n11월 15일 일요일 아침, 광화문에서 잠실까지 도로가 다시 마라톤 코스가 됩니다.\n\n2026 MBN 서울마라톤이 열리는 날인데요, 하프 코스는 광화문광장에서 출발해 잠실종합운동장 동문으로 들어오고, 10km 코스 '국민통합런'은 잠실종합운동장을 출발해 가락시장역에서 돌아옵니다. 모집 인원은 대회 발표 기준 하프 2만 명, 10km 1만 명입니다.\n\n출발은 오전 7시 30분입니다. 대회 측은 제한 시간이 끝나는 오전 10시 30분부터 통제를 한꺼번에 풀지 않고 구간별로 차례로 푼다고 안내합니다. 그날 오전 광화문과 잠실 사이를 차나 버스로 오갈 계획이라면, 대회 주간에 나오는 서울경찰청·서울시(@seoul_official) 교통 안내를 한 번 보고 움직이는 편이 좋겠습니다.\n\n일시: 11월 15일(일) 오전 7시 30분 출발\n하프: 광화문광장 → 잠실종합운동장 동문\n10km: 잠실종합운동장 출발·도착 (가락시장역 반환)\n통제 해제: 오전 10시 30분부터 구간별 순차 (대회 측 안내)\n#SENE #MBN서울마라톤 #잠실 #광화문 #도로통제\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793796346/jcsbbzemmoxfyz7vi0zp.jpg\n제목: 11월 15일 일요일|광화문~잠실 도로 통제\n부제: 2026 MBN 서울마라톤 · 오전 7시 30분 출발\n출처: MBN 서울마라톤\n",
+    "caption": "11월 15일 일요일 아침, 광화문에서 잠실까지 도로가 다시 마라톤 코스가 됩니다.\n\n2026 MBN 서울마라톤이 열리는 날인데요, 하프 코스는 광화문광장에서 출발해 잠실종합운동장 동문으로 들어오고, 10km 코스 '국민통합런'은 잠실종합운동장을 출발해 가락시장역에서 돌아옵니다. 모집 인원은 대회 발표 기준 하프 2만 명, 10km 1만 명입니다.\n\n출발은 오전 7시 30분입니다. 대회 측은 제한 시간이 끝나는 오전 10시 30분부터 통제를 한꺼번에 풀지 않고 구간별로 차례로 푼다고 안내합니다. 그날 오전 광화문과 잠실 사이를 차나 버스로 오갈 계획이라면, 대회 주간에 나오는 서울경찰청·서울시(@seoul_official) 교통 안내를 한 번 보고 움직이는 편이 좋겠습니다.\n\n일시: 11월 15일(일) 오전 7시 30분 출발\n하프: 광화문광장 → 잠실종합운동장 동문\n10km: 잠실종합운동장 출발·도착 (가락시장역 반환)\n통제 해제: 오전 10시 30분부터 구간별 순차 (대회 측 안내)\n#SENE #MBN서울마라톤 #잠실 #광화문 #도로통제",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796346/jcsbbzemmoxfyz7vi0zp.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/main_1016.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796348/rugxvf1wph7fbugqcm3d.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/main_1313.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796350/oqd6mketeazgekbs4tvg.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/main_2343.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796352/vbhyuaeqhd57j7k95b0g.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/sub_1428.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796346/jcsbbzemmoxfyz7vi0zp.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/main_1016.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796348/rugxvf1wph7fbugqcm3d.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/main_1313.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796350/oqd6mketeazgekbs4tvg.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/main_2343.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796352/vbhyuaeqhd57j7k95b0g.jpg",
+      "credit": "MBN 서울마라톤",
+      "from": "https://www.mbn-seoulmarathon.com/images/web/sub_1428.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "11월 15일 일요일|광화문~잠실 도로 통제",
+      "sub": "2026 MBN 서울마라톤 · 오전 7시 30분 출발"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "광화문에서 잠실까지|15일 아침 마라톤",
+      "sub": "오전 10시 30분부터 구간별 해제"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "잠실은 2주 만에|다시 마라톤 코스",
+      "sub": "11월 15일(일) MBN 서울마라톤"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "대회 주간에 서울경찰청·서울시가 내는 세부 통제 구간·시간 공지가 나오면 캡션에 맞춰 볼 것",
+     "표지 사진 — 공식 사이트 대표 이미지에 글자가 많으면 다른 사진으로 바꿀 것"
+    ],
+    "research": [
+     {
+      "title": "2026 MBN 서울마라톤 공식 사이트",
+      "link": "https://www.mbn-seoulmarathon.com/"
+     },
+     {
+      "title": "RUNIT — 2026 MBN 서울 마라톤 접수 페이지",
+      "link": "https://web.runit.co.kr/races/4"
+     },
+     {
+      "title": "서울경제 — 주말마다 '마라톤 도로통제' (11/2)",
+      "link": "https://m.sedaily.com/article/20109075"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796362/fccuo5meg0jkjicmbmiy.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796362/rwbj2qcndmgpipryfpqd.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796366/h2gcu2duhvivuylgl8rb.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796366/kdvhd7rmlsxijvhhcrfc.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793796362/fccuo5meg0jkjicmbmiy.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-04T21:46+09:00",
+     "v": {
+      "A": "8c488de6",
+      "B": "13b80187",
+      "C": "b9e9b0d3"
+     }
+    }
+   },
+   "corner_name": "이슈",
+   "i18n_queued": "2026-11-04T21:46+09:00"
   }
  ],
  "skipped": [],
@@ -1657,7 +1794,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "사회 전체가 이야기하는 큰 일만 (대형 철수·리콜·전국적 유행)"
    },
    {
@@ -1687,10 +1824,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-04T19:53+09:00"
+  "at": "2026-11-04T21:46+09:00"
  },
  "queue": {
-  "next": "2026-11-04T20:12+09:00",
+  "next": "2026-11-04T21:48+09:00",
   "n": 0,
   "gap": 20
  },
