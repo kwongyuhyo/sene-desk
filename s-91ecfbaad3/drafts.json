@@ -1065,11 +1065,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=MXWc4SG7uPU\n구간: 0:05-0:22\n곡: ロンシャンに登場\n아티스트: *チェリョン*、\n피처링:\n후킹: \n출처: topstarnews（トップスターニュース）\n자막: 끔",
       "caption": "ITZY（イッジ）のチェリョン（@itzy.all.in.us）が、11月5日、ザ・ヒョンデ ソウル（더현대 서울・@thehyundai_seoul）で開かれたロンシャン（@longchamp）のポップアップのフォトウォールに登場しました。\n\nロンシャンを代表するバッグ「ル プリアージュ」を好みに合わせて自分でデザインできるカスタマイズコレクション「マイ プリアージュ」を紹介するポップアップで、地下2階のセントラルポップアップゾーンで2週間開かれます。\n\nこの日のオープニングイベントには、俳優のチョン・ソミンも参加しました。\n\n期間：11月5日（木）〜11月18日（水）\n場所：ソウル特別市永登浦区汝矣大路108 ザ・ヒョンデ ソウル 地下2階 セントラルポップアップゾーン\n映像：トップスターニュース\n#SENE #チェリョン #ITZY #ロンシャン #韓国旅行",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-05T12:07+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793848431/sene_studio/xjasyeotwmzq1nmklfho.mp4",
+       "at": "2026-11-05T12:13+09:00",
+       "file": "chieriyon_ronshiyanniDengChang_PaeSyeon_no_lyrics.mp4",
        "sig": "69fd35fbf8",
-       "job": 219
+       "v": "0cb1dd79"
       }
      }
     }
@@ -1321,10 +1322,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-05T12:12+09:00"
+  "at": "2026-11-05T12:13+09:00"
  },
  "queue": {
-  "next": "2026-11-05T12:14+09:00",
+  "next": "2026-11-05T12:15+09:00",
   "n": 0,
   "gap": 20
  },
