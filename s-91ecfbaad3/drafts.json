@@ -574,7 +574,9 @@
      "v": {
       "A": "a10ac883",
       "B": "50296808",
-      "C": "a0dfb66e"
+      "C": "a0dfb66e",
+      "E": "2181bb2a",
+      "J": "d5b95c32"
      }
     }
    },
@@ -640,7 +642,99 @@
      "v": "7e989af6"
     }
    },
-   "corner_name": "소식"
+   "corner_name": "소식",
+   "i18n": {
+    "at": "2026-11-05T13:58+09:00",
+    "confirm": [
+     "공간 영어 표기: 대원미디어 공식 사이트(daewonmedia.com/en)는 용산점을 'Popcon-D square'로 적어 영어판은 'Popcon D Square'로 썼습니다. 성수점 공식 영어 표기(대소문자·하이픈 포함)는 검색으로 확인하지 못했습니다",
+     "플랫폼 영어 표기: Inven Global 기사는 'Popcorn D Play'로 적어 그대로 썼습니다. 공간 표기(Popcon)와 맞지 않으니 공식 표기를 다시 확인해 주세요",
+     "1층 카페 '쿠라리에'의 공식 영문·일본어 표기를 찾지 못해 Kurarie와 クラリエ로 소리 나는 대로 적었습니다",
+     "'모노샵'은 MONO SHOP과 モノショップ, 대원미디어 일본어 표기는 大元メディア로 적었는데, 둘 다 공식 표기인지 확인하지 못했습니다",
+     "성수점의 개관일, 층별 구성, TCG 팝업 기간, 예약 일정은 검색에 나오지 않아 원문 그대로 옮겼습니다. 사실은 따로 확인하지 않았습니다",
+     "숏폼 세 칸은 아티스트 → 곡 순서로 이어 읽힌다고 보고 아티스트 칸 끝에 쌍점(영어)과 쉼표(일본어)를 붙였습니다. 원문에 별표 강조가 없어 번역에도 넣지 않았습니다",
+     "출처 칸 '덕후더쿠 THEKOO'는 채널 이름이라 그대로 두었습니다",
+     "공간 이름 공식 표기 확인 필요 — 대원미디어 영문 회사 페이지(daewonmedia.com/en/business)는 용산 공간을 'Popcon-D square'로 적는다. 'Popcon D Square'(영어)와 'ポップコーンDスクエア'(일본어, Popcorn로 읽음)가 서로 다르니 공식 영문·일본어 표기를 확인해 맞춰야 함. 예약 플랫폼은 'Popcorn D Play'로 확인됨",
+     "숏폼 '아티스트' 칸이 'Pokémon card pop-up / ポケカのポップアップ'인데, 실제 팝업은 포켓몬·원피스·유희왕 TCG 팝업이라 독자가 포켓몬 단독 팝업으로 오해할 수 있음 — 원문(포켓몬 카드 팝업)의 문제로, 번역은 원문을 따름",
+     "'예약 오늘 시작'(11월 5일)이 게시일 기준임 — 올리는 날이 바뀌면 'today/本日'를 고쳐야 함",
+     "숏폼 캡션 '지난달 올린 개관 예고 영상'과 기간·층 구성은 한국어 원문을 기준으로 대조만 함 — 공식 출처 재확인은 하지 않음",
+     "영어판 출처에 한글이 남음",
+     "영어판 출처에 한글이 남음",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-05T13:58+09:00",
+     "fixes": [
+      "영어 · 캡션 · from the basement level → from B1 — 원문 '지하 1층'이 흐려짐",
+      "일본어 · 캡션 · 1次事前予約/1次入場 → 第1次事前予約/第1次入場 — 한국어 직역투",
+      "일본어 · 숏폼 캡션 · 1次事前予約 → 第1次事前予約 — 위와 같음"
+     ],
+     "doubt": [
+      "공간 이름 공식 표기 확인 필요 — 대원미디어 영문 회사 페이지(daewonmedia.com/en/business)는 용산 공간을 'Popcon-D square'로 적는다. 'Popcon D Square'(영어)와 'ポップコーンDスクエア'(일본어, Popcorn로 읽음)가 서로 다르니 공식 영문·일본어 표기를 확인해 맞춰야 함. 예약 플랫폼은 'Popcorn D Play'로 확인됨",
+      "숏폼 '아티스트' 칸이 'Pokémon card pop-up / ポケカのポップアップ'인데, 실제 팝업은 포켓몬·원피스·유희왕 TCG 팝업이라 독자가 포켓몬 단독 팝업으로 오해할 수 있음 — 원문(포켓몬 카드 팝업)의 문제로, 번역은 원문을 따름",
+      "'예약 오늘 시작'(11월 5일)이 게시일 기준임 — 올리는 날이 바뀌면 'today/本日'를 고쳐야 함",
+      "숏폼 캡션 '지난달 올린 개관 예고 영상'과 기간·층 구성은 한국어 원문을 기준으로 대조만 함 — 공식 출처 재확인은 하지 않음",
+      "영어판 출처에 한글이 남음",
+      "영어판 출처에 한글이 남음",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nAdvance booking for a Pokémon, One Piece and Yu-Gi-Oh! trading card game (TCG) pop-up opens today.\n\nThe pop-up sits inside Popcon D Square Seongsu, a culture complex Daewon Media is opening on Yeonmujang-gil in Seongsu-dong, Seoul. It is the second Popcon D Square after Yongsan and opens Nov 12. The building is standalone, running from B1 up to the 8th floor, and the TCG pop-up is on the 5th floor.\n\nThe floors below are given over to character shops. Dessert cafe Kurarie is on the 1st floor, an official Ichiban Kuji store on the 2nd, MONO SHOP for figures and capsule toys on the 3rd, and a San-X mini store with Rilakkuma and Sumikko Gurashi on the 4th. On the way up to the card pop-up, each floor brings a different set of characters.\n\nDates: Nov 12 (Thu) – Dec 12 (Sat)\nLocation: Popcon D Square Seongsu, Yeonmujang-gil, Seongdong-gu, Seoul\nReservations: First round of advance booking on Popcorn D Play from Nov 5 (first-round entry Nov 12 – 18)\n#SENE #SeoulPopup #Seongsu #PokemonTCG #OnePieceCardGame #YuGiOh\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793836088/qrazqdtyhx597ej3kqhx.jpg\n제목: Pokémon, One Piece, Yu-Gi-Oh!|TCG Pop-Up Bookings Open\n부제: Popcon D Square Seongsu · Opens Nov 12\n출처: Daewon Media\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793836102/sene_studio/oyl7jgzi4ctyvvv01qoh.mp4\n소제목: \n본문: \n출처: 덕후더쿠 THEKOO\n",
+      "caption": "Advance booking for a Pokémon, One Piece and Yu-Gi-Oh! trading card game (TCG) pop-up opens today.\n\nThe pop-up sits inside Popcon D Square Seongsu, a culture complex Daewon Media is opening on Yeonmujang-gil in Seongsu-dong, Seoul. It is the second Popcon D Square after Yongsan and opens Nov 12. The building is standalone, running from B1 up to the 8th floor, and the TCG pop-up is on the 5th floor.\n\nThe floors below are given over to character shops. Dessert cafe Kurarie is on the 1st floor, an official Ichiban Kuji store on the 2nd, MONO SHOP for figures and capsule toys on the 3rd, and a San-X mini store with Rilakkuma and Sumikko Gurashi on the 4th. On the way up to the card pop-up, each floor brings a different set of characters.\n\nDates: Nov 12 (Thu) – Dec 12 (Sat)\nLocation: Popcon D Square Seongsu, Yeonmujang-gil, Seongdong-gu, Seoul\nReservations: First round of advance booking on Popcorn D Play from Nov 5 (first-round entry Nov 12 – 18)\n#SENE #SeoulPopup #Seongsu #PokemonTCG #OnePieceCardGame #YuGiOh",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854697/iu7nkefdkpgfomgw4swf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854698/qigiuzyrmla1wgomdwue.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854696/bt3ku4wwtzu2eylals38.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854697/iu7nkefdkpgfomgw4swf.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-05T13:58+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793854696/sene_studio/lpzlw0kf3fal7bzequ7u.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=T37qQ0InYJ0\n구간: 0:00-0:18\n곡: Booking opens today\n아티스트: Pokémon card pop-up:\n피처링:\n후킹: \n출처: 덕후더쿠 THEKOO\n자막: 끔",
+      "caption": "Daewon Media is opening Popcon D Square on Yeonmujang-gil in Seongsu-dong, Seoul.\n\nThis is the opening teaser Daewon Media's official channel posted last month. The venue is the second Popcon D Square after Yongsan and opens Nov 12. A Pokémon, One Piece and Yu-Gi-Oh! trading card game (TCG) pop-up takes the 5th floor, and advance booking starts today.\n\nThe lower floors house an official Ichiban Kuji store, MONO SHOP for figures and capsule toys, a San-X mini store and dessert cafe Kurarie.\n\nDates: Nov 12 (Thu) – Dec 12 (Sat) (TCG pop-up)\nLocation: Popcon D Square Seongsu, Yeonmujang-gil, Seongdong-gu, Seoul\nReservations: First round of advance booking on Popcorn D Play from Nov 5\nVideo: 덕후더쿠 THEKOO\n#SENE #SeoulPopup #Seongsu #PokemonTCG #DaewonMedia"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nポケモン・ワンピース・遊☆戯☆王のトレーディングカードゲーム（TCG）ポップアップの事前予約が本日始まります。\n\n大元メディア（대원미디어）がソウル・聖水洞（ソンスドン）の練武場キル（ヨンムジャンギル）にオープンする複合文化施設、ポップコーンDスクエア（팝콘D스퀘어）聖水店の中のポップアップです。龍山（ヨンサン）に続く2店舗目のポップコーンDスクエアで、11月12日にオープンします。地下1階から8階までの一棟まるごとの建物で、TCGポップアップは5階です。\n\n下の階はキャラクターショップが並びます。1階はデザートカフェのクラリエ（쿠라리에）、2階は一番くじの公式ショップ、3階はフィギュアやカプセルトイを扱うモノショップ、4階はリラックマやすみっコぐらしのサンエックス ミニストア。カードのポップアップへ向かう途中、フロアごとに違うキャラクターに出会えます。\n\n期間：11月12日（木）〜12月12日（土）\n場所：ソウル市城東区練武場キル、ポップコーンDスクエア聖水\n予約：ポップコーンDプレイで第1次事前予約 11月5日から（第1次入場 11月12日〜18日）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #ポケカ #遊戯王\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793836088/qrazqdtyhx597ej3kqhx.jpg\n제목: ポケモン・ワンピース・遊☆戯☆王|TCGポップアップ予約開始\n부제: 聖水ポップコーンDスクエア・11月12日オープン\n출처: 大元メディア\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793836102/sene_studio/oyl7jgzi4ctyvvv01qoh.mp4\n소제목: \n본문: \n출처: 덕후더쿠 THEKOO\n",
+      "caption": "ポケモン・ワンピース・遊☆戯☆王のトレーディングカードゲーム（TCG）ポップアップの事前予約が本日始まります。\n\n大元メディア（대원미디어）がソウル・聖水洞（ソンスドン）の練武場キル（ヨンムジャンギル）にオープンする複合文化施設、ポップコーンDスクエア（팝콘D스퀘어）聖水店の中のポップアップです。龍山（ヨンサン）に続く2店舗目のポップコーンDスクエアで、11月12日にオープンします。地下1階から8階までの一棟まるごとの建物で、TCGポップアップは5階です。\n\n下の階はキャラクターショップが並びます。1階はデザートカフェのクラリエ（쿠라리에）、2階は一番くじの公式ショップ、3階はフィギュアやカプセルトイを扱うモノショップ、4階はリラックマやすみっコぐらしのサンエックス ミニストア。カードのポップアップへ向かう途中、フロアごとに違うキャラクターに出会えます。\n\n期間：11月12日（木）〜12月12日（土）\n場所：ソウル市城東区練武場キル、ポップコーンDスクエア聖水\n予約：ポップコーンDプレイで第1次事前予約 11月5日から（第1次入場 11月12日〜18日）\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #ポケカ #遊戯王",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854703/vslwmecnhi4qjxu5ee6a.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854705/yvqkexinbepwi5tp0qrx.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854702/v5ok8pmx2zahp9hhuph3.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793854703/vslwmecnhi4qjxu5ee6a.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-05T13:58+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793854704/sene_studio/wex5n88pghvnvuo6ljpo.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=T37qQ0InYJ0\n구간: 0:00-0:18\n곡: 本日予約スタート\n아티스트: ポケカのポップアップ、\n피처링:\n후킹: \n출처: 덕후더쿠 THEKOO\n자막: 끔",
+      "caption": "大元メディア（대원미디어）がソウル・聖水洞（ソンスドン）の練武場キル（ヨンムジャンギル）にポップコーンDスクエア（팝콘D스퀘어）をオープンします。\n\n大元メディア公式チャンネルが先月公開したオープン予告映像です。龍山（ヨンサン）に続く2店舗目のポップコーンDスクエアで、11月12日にオープンします。5階ではポケモン・ワンピース・遊☆戯☆王のトレーディングカードゲーム（TCG）ポップアップが開かれ、事前予約は本日からです。\n\n下の階には一番くじの公式ショップ、フィギュアやカプセルトイのグッズショップ・モノショップ、サンエックス ミニストア、デザートカフェのクラリエ（쿠라리에）が入ります。\n\n期間：11月12日（木）〜12月12日（土）（TCGポップアップ）\n場所：ソウル市城東区練武場キル、ポップコーンDスクエア聖水\n予約：ポップコーンDプレイで第1次事前予約 11月5日から\n映像：덕후더쿠 THEKOO\n#SENE #韓国旅行 #聖水 #ソウルポップアップ #ポケカ"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1322,10 +1416,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-05T12:13+09:00"
+  "at": "2026-11-05T13:58+09:00"
  },
  "queue": {
-  "next": "2026-11-05T12:15+09:00",
+  "next": "2026-11-05T14:00+09:00",
   "n": 0,
   "gap": 20
  },
