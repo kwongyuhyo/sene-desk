@@ -1052,11 +1052,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=MXWc4SG7uPU\n구간: 0:05-0:22\n곡: Longchamp photo wall\n아티스트: *Chaeryeong*,\n피처링:\n후킹: \n출처: topstarnews (Top Star News)\n자막: 끔",
       "caption": "ITZY's Chaeryeong (@itzy.all.in.us) stepped onto the photo wall at the Longchamp (@longchamp) pop-up at The Hyundai Seoul (@thehyundai_seoul) on Nov 5.\n\nThe pop-up introduces 'My Pliage,' a customization collection that lets visitors design the brand's signature 'Le Pliage' bag to their own taste. It runs for two weeks at the Central Pop-up Zone on B2.\n\nActress Jung So-min also attended the opening event that day.\n\nDates: Nov 5 (Thu) – Nov 18 (Wed)\nLocation: Central Pop-up Zone, B2, The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu, Seoul\nVideo: Top Star News\n#SENE #Chaeryeong #ITZY #Longchamp #TheHyundaiSeoul",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-05T12:07+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793848348/sene_studio/lop7oyytgchezmxi0vay.mp4",
+       "at": "2026-11-05T12:12+09:00",
+       "file": "Chaeryeong_Longchamp_photo_wall_PaeSyeon_no_lyrics.mp4",
        "sig": "55ddc0c1a5",
-       "job": 218
+       "v": "67486300"
       }
      }
     },
@@ -1320,10 +1321,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-05T12:11+09:00"
+  "at": "2026-11-05T12:12+09:00"
  },
  "queue": {
-  "next": "2026-11-05T12:13+09:00",
+  "next": "2026-11-05T12:14+09:00",
   "n": 0,
   "gap": 20
  },
