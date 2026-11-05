@@ -755,7 +755,9 @@
       "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793847689/sene_studio/axxaqbjg89rmnsescb9m.mp4"
      },
      "v": {
-      "A": "a2887b0e"
+      "A": "a2887b0e",
+      "E": "7e21098b",
+      "J": "426577c3"
      }
     }
    },
@@ -834,7 +836,79 @@
     "at": "2026-11-05T12:00+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-05T12:04+09:00"
+   "i18n_queued": "2026-11-05T12:04+09:00",
+   "i18n": {
+    "at": "2026-11-05T12:05+09:00",
+    "confirm": [
+     "일본어 표기 확인: 소설은 『星の王子さま』, 이준호는 イ・ジュノ, 벨루티는 ベルルッティ로 씁니다 (FASHIONSNAP·PR TIMES·WWDJAPAN). 롯데 에비뉴엘의 공식 일본어 표기는 찾지 못해 ロッテ・アベニュエル로 옮겼습니다.",
+     "영어·일본어 표지 2줄째가 길이 기준에 들어가지 않아 줄였습니다: 영어 'Berluti 'Little Prince'' (The 생략), 일본어 'ベルルッティ×星の王子さま'. 일본어 쪽 ×는 콜라보로 읽힐 수 있습니다. 원문에는 '영감을 받은 컬렉션'으로만 되어 있으니 마음에 걸리면 바꿔 주세요.",
+     "숏폼 일본어 곡 칸: '벨루티 포토월'을 11자 안에 넣느라 'ベルルッティに登場'(벨루티에 등장)로 바꿨습니다.",
+     "이번 검색으로는 롯데 에비뉴엘 잠실점 행사 자체를 확인하지 못했습니다. 번역은 원문 사실만 옮겼습니다.",
+     "영어 숏폼 곡 칸은 원문 '포토월'을 'photo call'로, 일본어는 'ベルルッティに登場'으로 옮겼습니다. 화면 제목으로는 자연스러워 그대로 두었지만, 원문과 낱말이 다릅니다",
+     "일본어 캡션의 '今年6月'은 원문 '지난 6월'을 옮긴 것으로, 2026년 6월이 맞는지 한국어 원문 기준으로 한 번 더 봐 주세요"
+    ],
+    "review": {
+     "at": "2026-11-05T12:05+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · 'had been carried over' → 'had been moved into the store' — carried over 가 '이월되다'로도 읽히는 직역투",
+      "일본어 · 캡션 셋째 단락 · '移してきたかのように置いています' → '移してきたかのように配置されています' — 주어 없는 능동 '置いています'가 어색함"
+     ],
+     "doubt": [
+      "영어 숏폼 곡 칸은 원문 '포토월'을 'photo call'로, 일본어는 'ベルルッティに登場'으로 옮겼습니다. 화면 제목으로는 자연스러워 그대로 두었지만, 원문과 낱말이 다릅니다",
+      "일본어 캡션의 '今年6月'은 원문 '지난 6월'을 옮긴 것으로, 2026년 6월이 맞는지 한국어 원문 기준으로 한 번 더 봐 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\n2PM's Lee Junho (@le2jh) stood in front of the Berluti (@berluti) boutique at Lotte Avenuel in Jamsil, Seoul, on Nov 4.\n\nThe event introduced a Berluti collection inspired by the novel 'The Little Prince.' The project was first previewed at the brand's Spring/Summer 2027 presentation in Paris in June, which ambassador Lee Junho also attended. After an exhibition in Ginza, Tokyo, late last month, it has now reached Seoul.\n\nThe boutique is styled around 'The Little Prince.' Saint-Exupéry's work table has been recreated in Berluti leather objects and set out as if a corner of the author's room had been moved into the store.\n\nEvent: Nov 4 (Wed), afternoon\nLocation: Berluti boutique, Lotte Avenuel Jamsil, Songpa-gu, Seoul\n#SENE #LeeJunho #Berluti #TheLittlePrince #Jamsil\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793847647/lfjklrjdrigef25dwzdm.jpg\n제목: Lee Junho in Jamsil|Berluti 'Little Prince'\n부제: Nov 4 photo call at Lotte Avenuel Jamsil\n출처: @le2jh\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793847674/sene_studio/xrpzqghm8yqz1zrmy9qh.mp4\n소제목: \n본문: \n출처: Newsen\n",
+      "caption": "2PM's Lee Junho (@le2jh) stood in front of the Berluti (@berluti) boutique at Lotte Avenuel in Jamsil, Seoul, on Nov 4.\n\nThe event introduced a Berluti collection inspired by the novel 'The Little Prince.' The project was first previewed at the brand's Spring/Summer 2027 presentation in Paris in June, which ambassador Lee Junho also attended. After an exhibition in Ginza, Tokyo, late last month, it has now reached Seoul.\n\nThe boutique is styled around 'The Little Prince.' Saint-Exupéry's work table has been recreated in Berluti leather objects and set out as if a corner of the author's room had been moved into the store.\n\nEvent: Nov 4 (Wed), afternoon\nLocation: Berluti boutique, Lotte Avenuel Jamsil, Songpa-gu, Seoul\n#SENE #LeeJunho #Berluti #TheLittlePrince #Jamsil",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847953/ktalcnet50njvdiqiymh.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847956/ch3xjhhtcgbl91ih9m1j.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847952/jde1zt0rycddpf0otvcg.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847953/ktalcnet50njvdiqiymh.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-05T12:05+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793847954/sene_studio/wya4msbgopa0lgbceysk.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=-rfvTZh20-I\n구간: 0:06-0:24\n곡: Berluti photo call\n아티스트: *Lee Junho*,\n피처링:\n후킹: \n출처: Newsen\n자막: 끔",
+      "caption": "2PM's Lee Junho (@le2jh) stood at the Berluti (@berluti) photo wall at Lotte Avenuel in Jamsil, Seoul, on Nov 4.\n\nThe event introduced a Berluti collection inspired by the novel 'The Little Prince.' First previewed in Paris in June, the project has come to Seoul by way of Tokyo. Inside the boutique sits a space where Saint-Exupéry's work table has been recreated in leather objects.\n\nEvent: Nov 4 (Wed), afternoon\nLocation: Berluti boutique, Lotte Avenuel Jamsil, Songpa-gu, Seoul\nVideo: Newsen\n#SENE #LeeJunho #Berluti #TheLittlePrince #Jamsil"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\n2PMのイ・ジュノ（@le2jh）が11月4日、ソウル・蚕室（チャムシル）のロッテ・アベニュエルにあるベルルッティ（@berluti）の店舗前に立ちました。\n\n小説『星の王子さま』に着想を得たベルルッティのコレクションを紹介する場でした。このプロジェクトは今年6月、パリでの2027年春夏コレクションのプレゼンテーションで初めて予告され、アンバサダーのイ・ジュノもそのパリのイベントに参加していました。先月末の東京・銀座での展示を経て、今回ソウルにやって来ました。\n\n店内は『星の王子さま』をテーマに飾られています。サン＝テグジュペリが使っていた作業テーブルをベルルッティのレザーオブジェで再現し、作家の部屋の一角を移してきたかのように配置されています。\n\nイベント：11月4日（水）午後\n場所：ソウル・松坡区（ソンパグ） ロッテ・アベニュエル蚕室店 ベルルッティ店舗\n#SENE #イジュノ #ベルルッティ #星の王子さま #蚕室\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793847647/lfjklrjdrigef25dwzdm.jpg\n제목: イ・ジュノ、蚕室で|ベルルッティ×星の王子さま\n부제: 11月4日 ロッテ・アベニュエル蚕室店でフォトコール\n출처: @le2jh\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793847674/sene_studio/xrpzqghm8yqz1zrmy9qh.mp4\n소제목: \n본문: \n출처: Newsen\n",
+      "caption": "2PMのイ・ジュノ（@le2jh）が11月4日、ソウル・蚕室（チャムシル）のロッテ・アベニュエルにあるベルルッティ（@berluti）の店舗前に立ちました。\n\n小説『星の王子さま』に着想を得たベルルッティのコレクションを紹介する場でした。このプロジェクトは今年6月、パリでの2027年春夏コレクションのプレゼンテーションで初めて予告され、アンバサダーのイ・ジュノもそのパリのイベントに参加していました。先月末の東京・銀座での展示を経て、今回ソウルにやって来ました。\n\n店内は『星の王子さま』をテーマに飾られています。サン＝テグジュペリが使っていた作業テーブルをベルルッティのレザーオブジェで再現し、作家の部屋の一角を移してきたかのように配置されています。\n\nイベント：11月4日（水）午後\n場所：ソウル・松坡区（ソンパグ） ロッテ・アベニュエル蚕室店 ベルルッティ店舗\n#SENE #イジュノ #ベルルッティ #星の王子さま #蚕室",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847963/pvirjfxtzyfa1yalb2kh.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847966/ty0vkpri7avglgo0qt1p.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847962/ezch3mim39qxmaypotty.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847963/pvirjfxtzyfa1yalb2kh.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-05T12:06+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793847964/sene_studio/diqnlzhxmu9fqeedgrek.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=-rfvTZh20-I\n구간: 0:06-0:24\n곡: ベルルッティに登場\n아티스트: *イ・ジュノ*、\n피처링:\n후킹: \n출처: Newsen\n자막: 끔",
+      "caption": "2PMのイ・ジュノ（@le2jh）が11月4日、ソウル・蚕室（チャムシル）のロッテ・アベニュエルにあるベルルッティ（@berluti）のフォトウォールに立ちました。\n\n小説『星の王子さま』に着想を得たベルルッティのコレクションを紹介する場でした。6月にパリで初めて予告されたこのプロジェクトが、東京を経てソウルにやって来ました。店内には、サン＝テグジュペリの作業テーブルをレザーオブジェで再現した空間が設けられています。\n\nイベント：11月4日（水）午後\n場所：ソウル・松坡区（ソンパグ） ロッテ・アベニュエル蚕室店 ベルルッティ店舗\n映像：Newsen\n#SENE #イジュノ #ベルルッティ #星の王子さま #蚕室"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1185,10 +1259,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-05T12:04+09:00"
+  "at": "2026-11-05T12:06+09:00"
  },
  "queue": {
-  "next": "2026-11-05T12:06+09:00",
+  "next": "2026-11-05T12:08+09:00",
   "n": 0,
   "gap": 20
  },
