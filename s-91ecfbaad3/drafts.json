@@ -111,11 +111,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "성수 팝업이 내일 열리고 CU 빵·도시락은 11/9까지 — 리센느 팬이 이번 주에 저장할 일정표",
-    "at": "2026-11-05T08:27+09:00"
-   },
    "corner_name": "정리",
    "corner_no": 1,
    "i18n_queued": "2026-11-05T08:28+09:00",
@@ -191,6 +186,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "성수 팝업이 내일 열리고 CU 빵·도시락은 11/9까지 — 리센느 팬이 이번 주에 저장할 일정표",
+    "at": "2026-11-05T12:00+09:00"
    }
   },
   {
@@ -641,6 +641,303 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:junho-berluti-petitprince",
+    "account": "국제뉴스",
+    "url": "https://www.gukjenews.com/news/articleView.html?idxno=3742582",
+    "image": null,
+    "head": "11/4 롯데 에비뉴엘 잠실점 벨루티 '어린 왕자' 컬렉션 공개 포토콜 — 이준호 참석, 새틀라이트 스토어를 생텍쥐페리 작업 테이블 가죽 오브제",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-05T12:00+09:00",
+   "key": "26f59af3",
+   "by": "claude",
+   "subjects": [
+    "이준호",
+    "벨루티"
+   ],
+   "lane": "현장",
+   "editor": {
+    "grade": "A",
+    "kind": "현장",
+    "angle": "2PM 이준호가 선 잠실 벨루티 '어린 왕자' 포토콜 — 6월 파리 예고 → 10월 도쿄·뉴욕 → 11월 서울로 이어진 컬렉션, 생텍쥐페리 작업 테이블을 재현한 매장",
+    "why": "케이팝 연결(앰배서더 이준호) · 포토콜 영상이 그림으로 읽힌다 · 매장 연출이 '가 보면 보이는 것'"
+   },
+   "added": "claude",
+   "added_at": "2026-11-05T12:00+09:00",
+   "corner": "scene",
+   "card": {
+    "form": "[카테고리]\n패션\n\n[캡션]\n2PM 이준호(@le2jh)가 11월 4일 잠실 롯데 에비뉴엘의 벨루티(@berluti) 매장 앞에 섰습니다.\n\n벨루티가 소설 〈어린 왕자〉에서 영감을 받은 컬렉션을 소개하는 자리였는데요, 이 프로젝트는 지난 6월 파리 2027 봄·여름 컬렉션 프레젠테이션에서 처음 예고됐고, 앰배서더 이준호는 그 파리 행사에도 함께했습니다. 지난달 말 도쿄 긴자의 전시를 거쳐 이번에 서울에 닿았습니다.\n\n매장은 '어린 왕자' 콘셉트로 꾸며졌습니다. 생텍쥐페리가 쓰던 작업 테이블을 벨루티의 가죽 오브제로 다시 만들어, 작가의 방 한쪽을 옮겨 온 것처럼 놓았습니다.\n\n행사: 11월 4일(수) 오후\n장소: 서울 송파구 롯데 에비뉴엘 잠실점 벨루티 매장\n#SENE #이준호 #벨루티 #어린왕자 #롯데에비뉴엘잠실\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793847647/lfjklrjdrigef25dwzdm.jpg\n제목: 이준호, 잠실에서|벨루티 '어린 왕자'\n부제: 11월 4일 롯데 에비뉴엘 잠실점 포토콜\n출처: @le2jh\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793847674/sene_studio/xrpzqghm8yqz1zrmy9qh.mp4\n소제목: \n본문: \n출처: 뉴스엔·Newsen\n",
+    "caption": "2PM 이준호(@le2jh)가 11월 4일 잠실 롯데 에비뉴엘의 벨루티(@berluti) 매장 앞에 섰습니다.\n\n벨루티가 소설 〈어린 왕자〉에서 영감을 받은 컬렉션을 소개하는 자리였는데요, 이 프로젝트는 지난 6월 파리 2027 봄·여름 컬렉션 프레젠테이션에서 처음 예고됐고, 앰배서더 이준호는 그 파리 행사에도 함께했습니다. 지난달 말 도쿄 긴자의 전시를 거쳐 이번에 서울에 닿았습니다.\n\n매장은 '어린 왕자' 콘셉트로 꾸며졌습니다. 생텍쥐페리가 쓰던 작업 테이블을 벨루티의 가죽 오브제로 다시 만들어, 작가의 방 한쪽을 옮겨 온 것처럼 놓았습니다.\n\n행사: 11월 4일(수) 오후\n장소: 서울 송파구 롯데 에비뉴엘 잠실점 벨루티 매장\n#SENE #이준호 #벨루티 #어린왕자 #롯데에비뉴엘잠실",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847647/lfjklrjdrigef25dwzdm.jpg",
+      "credit": "@le2jh",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/727434021_18596346964024994_4613240787435869919_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=809-UXbmzpIQ7kNvwG-UoXQ&_nc_oc=AdoUF2R37-vHSigirOoQi88-O3COKQm0ePgJu7hHTBorahy0EbD3-8UKKI-BnEg17Ik&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wBQHE5xSqLiZWo-yW-iiew&oh=00_AQRZ0_d4YZIssDYeK8veXpSAZmVfV1aAahM8VMr3byaYaA&oe=6AF1B654"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847649/smidvgdns1jzkgxnckmy.jpg",
+      "credit": "@le2jh",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/726926456_18595569127024994_2549297464259782261_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-ajOBgM3w9EQ7kNvwHbDJGA&_nc_oc=Adrvxy-K8BTQ6tMDYVkhtCFU2QFnii3GSwkYQJp0uoAvZAhAL3lATdLk0hBk626L568&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wBQHE5xSqLiZWo-yW-iiew&oh=00_AQSfCooTzFgXVFig4-V0a2lqn4nRcp3N5TuLJvuicJFTUg&oe=6AF1C6A9"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847647/lfjklrjdrigef25dwzdm.jpg",
+      "credit": "@le2jh",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/727434021_18596346964024994_4613240787435869919_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=809-UXbmzpIQ7kNvwG-UoXQ&_nc_oc=AdoUF2R37-vHSigirOoQi88-O3COKQm0ePgJu7hHTBorahy0EbD3-8UKKI-BnEg17Ik&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wBQHE5xSqLiZWo-yW-iiew&oh=00_AQRZ0_d4YZIssDYeK8veXpSAZmVfV1aAahM8VMr3byaYaA&oe=6AF1B654"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847649/smidvgdns1jzkgxnckmy.jpg",
+      "credit": "@le2jh",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/726926456_18595569127024994_2549297464259782261_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=100&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-ajOBgM3w9EQ7kNvwHbDJGA&_nc_oc=Adrvxy-K8BTQ6tMDYVkhtCFU2QFnii3GSwkYQJp0uoAvZAhAL3lATdLk0hBk626L568&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wBQHE5xSqLiZWo-yW-iiew&oh=00_AQSfCooTzFgXVFig4-V0a2lqn4nRcp3N5TuLJvuicJFTUg&oe=6AF1C6A9"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "이준호, 잠실에서|벨루티 '어린 왕자'",
+      "sub": "11월 4일 롯데 에비뉴엘 잠실점 포토콜"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 뉴욕 행사는 기사·검색으로 확인 못 해 캡션에서 뺌(도쿄 긴자 전시 10/24~26 만 PR TIMES·WWD재팬으로 확인) · 숏폼 0:06-0:24 은 자막 없음 — 이준호 등장은 미리보기로 확인",
+     "클립 위험: 중간 — 뉴스엔·Newsen (벨루티 공식 영상 없음) · 자막이 없어 장면을 못 봤음 — 구간 0:06-0:24 에 첫 1초부터 이준호가 걸어 나오는지 미리보기로 확인",
+     "표지 사진은 이준호 본인 계정의 6월 파리 벨루티 행사 사진(잠실 현장 아님) · 잠실 매장의 '어린 왕자' 꾸밈 기간은 기사·공식 어디에도 없어 쓰지 않음 · 도쿄·뉴욕 행사는 벨루티 공식 인스타 글 기준",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "국제뉴스 (11/4) — 송파구 롯데 에비뉴엘 잠실점, 어린 왕자 컬렉션 공개 포토콜 · 새틀라이트 스토어 '어린 왕자' 콘셉트 · 생텍쥐페리 작업 사무실 테이블을 레더 오브제로",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3742582"
+     },
+     {
+      "title": "뉴스인스타 (11/4) — 11월 4일(수) 오후 신천동 롯데 에비뉴엘 잠실점 '벨루티' 어린 왕자(Le Petit Prince) 컬렉션 공개 기념 포토콜",
+      "link": "https://www.newsinstar.com/news/article.html?no=84216"
+     },
+     {
+      "title": "디지털타임스 (11/4) — 장-마크 망스벨트 벨루티 CEO와 이준호 포토콜",
+      "link": "https://www.dt.co.kr/article/12093260"
+     },
+     {
+      "title": "이코노미스트 (6/26) — 벨루티 SS27 파리 프레젠테이션, 앰버서더 이준호 참석 · 연말 '어린 왕자' 프로젝트 예고",
+      "link": "https://economist.co.kr/article/view/ecn202606260034"
+     },
+     {
+      "title": "에스콰이어 — 이준호와 함께한 벨루티 SS27 컬렉션",
+      "link": "https://www.esquirekorea.co.kr/article/1905609"
+     },
+     {
+      "title": "벨루티 공식 인스타 (10/26~10/30) — Le Petit Prince 'Résonance' 도쿄·뉴욕(빌라 알베르틴) 행사 게시물",
+      "link": "https://www.instagram.com/berluti/"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847688/rju4iqa4hwgg6bzniyrm.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847692/thm3kqtjzmy2u3v3wmjk.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847688/ahqkuzrtib9golw4o9fs.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847688/rju4iqa4hwgg6bzniyrm.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-05T12:01+09:00",
+     "videos": {
+      "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793847689/sene_studio/axxaqbjg89rmnsescb9m.mp4"
+     },
+     "v": {
+      "A": "a2887b0e"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=-rfvTZh20-I\n구간: 0:06-0:24\n곡: 벨루티 포토월\n아티스트: *이준호*,\n피처링:\n후킹: \n출처: 뉴스엔·Newsen\n자막: 끔",
+    "caption": "2PM 이준호(@le2jh)가 11월 4일 잠실 롯데 에비뉴엘의 벨루티(@berluti) 포토월에 섰습니다.\n\n벨루티가 소설 〈어린 왕자〉에서 영감을 받은 컬렉션을 소개하는 자리였는데요, 지난 6월 파리에서 처음 예고된 이 프로젝트가 도쿄를 거쳐 서울에 왔습니다. 매장 안에는 생텍쥐페리의 작업 테이블을 가죽 오브제로 다시 만든 공간이 놓였습니다.\n\n행사: 11월 4일(수) 오후\n장소: 서울 송파구 롯데 에비뉴엘 잠실점 벨루티 매장\n영상: 뉴스엔\n#SENE #이준호 #벨루티 #어린왕자 #잠실",
+    "hooks": {
+     "A": "*이준호*, / 벨루티 포토월",
+     "B": "잠실에 온 / *어린 왕자*",
+     "C": "*이준호*, 잠실 / 벨루티 매장 앞"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=-rfvTZh20-I",
+     "credit": "뉴스엔·Newsen",
+     "range": [
+      6.0,
+      24.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 뉴욕 행사는 기사·검색으로 확인 못 해 캡션에서 뺌(도쿄 긴자 전시 10/24~26 만 PR TIMES·WWD재팬으로 확인) · 숏폼 0:06-0:24 은 자막 없음 — 이준호 등장은 미리보기로 확인",
+     "클립 위험: 중간 — 뉴스엔·Newsen (벨루티 공식 영상 없음) · 자막이 없어 장면을 못 봤음 — 구간 0:06-0:24 에 첫 1초부터 이준호가 걸어 나오는지 미리보기로 확인",
+     "표지 사진은 이준호 본인 계정의 6월 파리 벨루티 행사 사진(잠실 현장 아님) · 잠실 매장의 '어린 왕자' 꾸밈 기간은 기사·공식 어디에도 없어 쓰지 않음 · 도쿄·뉴욕 행사는 벨루티 공식 인스타 글 기준"
+    ],
+    "research": [
+     {
+      "title": "국제뉴스 (11/4) — 송파구 롯데 에비뉴엘 잠실점, 어린 왕자 컬렉션 공개 포토콜 · 새틀라이트 스토어 '어린 왕자' 콘셉트 · 생텍쥐페리 작업 사무실 테이블을 레더 오브제로",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3742582"
+     },
+     {
+      "title": "뉴스인스타 (11/4) — 11월 4일(수) 오후 신천동 롯데 에비뉴엘 잠실점 '벨루티' 어린 왕자(Le Petit Prince) 컬렉션 공개 기념 포토콜",
+      "link": "https://www.newsinstar.com/news/article.html?no=84216"
+     },
+     {
+      "title": "디지털타임스 (11/4) — 장-마크 망스벨트 벨루티 CEO와 이준호 포토콜",
+      "link": "https://www.dt.co.kr/article/12093260"
+     },
+     {
+      "title": "이코노미스트 (6/26) — 벨루티 SS27 파리 프레젠테이션, 앰버서더 이준호 참석 · 연말 '어린 왕자' 프로젝트 예고",
+      "link": "https://economist.co.kr/article/view/ecn202606260034"
+     },
+     {
+      "title": "에스콰이어 — 이준호와 함께한 벨루티 SS27 컬렉션",
+      "link": "https://www.esquirekorea.co.kr/article/1905609"
+     },
+     {
+      "title": "벨루티 공식 인스타 (10/26~10/30) — Le Petit Prince 'Résonance' 도쿄·뉴욕(빌라 알베르틴) 행사 게시물",
+      "link": "https://www.instagram.com/berluti/"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/-rfvTZh20-I/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847705/ixnafxfkks9h7uejxmqd.jpg",
+     "key": "-rfvTZh20-I@6.0"
+    },
+    "px": {
+     "vid": "-rfvTZh20-I",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793847779/sene_studio/dgoawa76pupvv9t6dtmu.mp4",
+     "off": 0.0,
+     "end": 69.0,
+     "full": 199.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-05T12:04+09:00"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "이준호 포토콜 영상이 매체마다 올라오는 중 — 숏폼 + 파리·도쿄·뉴욕에 이어 잠실로 온 맥락",
+    "at": "2026-11-05T12:00+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-11-05T12:04+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:photowall-1105",
+    "account": "아주경제",
+    "url": "https://www.ajunews.com/view/20261105093423044",
+    "image": null,
+    "head": "11/5 오전 더현대 서울 지하 2층 센트럴 팝업존 롱샴 마이 플리아쥬 팝업 오픈 행사 — 있지 채령 · 운영 11/5~18",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-05T12:00+09:00",
+   "key": "e94d4013",
+   "by": "claude",
+   "subjects": [
+    "채령",
+    "롱샴"
+   ],
+   "lane": "현장",
+   "editor": {
+    "grade": "A",
+    "kind": "현장",
+    "angle": "오늘 오전 더현대 서울 롱샴 '마이 플리아쥬' 팝업 포토월의 있지(ITZY) 채령 — 그 10여 초, 팝업 기간·위치는 캡션에",
+    "why": "기획안 「오늘의 포토월」 — 오늘(11/5) 서울 포토월 중 케이팝 사람 · 팝업이 18일까지라 가 볼 수 있다"
+   },
+   "added": "claude",
+   "added_at": "2026-11-05T12:00+09:00",
+   "corner": "scene",
+   "shorts": {
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=MXWc4SG7uPU\n구간: 0:05-0:22\n곡: 롱샴 포토월\n아티스트: *채령*,\n피처링:\n후킹: \n출처: topstarnews(톱스타뉴스)\n자막: 끔",
+    "caption": "있지(ITZY) 채령(@itzy.all.in.us)이 11월 5일 더현대 서울(@thehyundai_seoul)의 롱샴(@longchamp) 팝업 포토월에 섰습니다.\n\n롱샴의 대표 가방 '르 플리아쥬'를 취향대로 직접 디자인하는 커스터마이징 컬렉션 '마이 플리아쥬'를 소개하는 팝업인데요, 지하 2층 센트럴 팝업존에서 2주 동안 열립니다.\n\n이날 오픈 행사에는 배우 정소민도 함께했습니다.\n\n기간: 11월 5일(목) ~ 18일(수)\n장소: 서울 영등포구 여의대로 108 더현대 서울 지하 2층 센트럴 팝업존\n영상: 톱스타뉴스\n#SENE #채령 #ITZY #롱샴 #더현대서울",
+    "hooks": {
+     "A": "*채령*, / 롱샴 포토월",
+     "B": "더현대 서울에 / 선 *채령*",
+     "C": "*채령*, 여의도 / 롱샴 팝업"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=MXWc4SG7uPU",
+     "credit": "topstarnews(톱스타뉴스)",
+     "range": [
+      5.0,
+      22.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 행사 시각이 아주경제는 오전·톱스타 영상 설명은 오후라 캡션에서 '오전' 뺌 · CBC뉴스 링크는 열리지 않음 · 0:05-0:22 자막은 사진기자 호명뿐 — 채령 화면은 미리보기로 확인",
+     "클립 위험: 중간 — 톱스타뉴스 (롱샴 공식 영상 없음) · 자막이 없어 장면을 못 봤음 — 구간 0:05-0:22 첫 1초에 채령이 보이는지 미리보기로 확인",
+     "운영 시간은 공식 공지를 못 찾아 쓰지 않음 (더현대 서울 영업시간 따를 것으로 보이나 미확인)",
+     "이어지는 소식 — 11-04에 다룬 소재. 새 사실: 어제 글(더현대 크리스마스 마을)과 같은 건물일 뿐 다른 소식 — 11/5 오늘 연 롱샴 팝업과 채령 포토월",
+     "[작문 P1] 캡션: 첫 문장 92자 → 첫 문장은 한 호흡 — 두 사실을 한 문장에 몰지 않는다 (80자 안)"
+    ],
+    "research": [
+     {
+      "title": "아주경제 (11/5) — 롱샴 '마이 플리아쥬' 팝업스토어 오픈 행사, 있지 채령 · 더 현대 서울 지하 2층 센트럴 팝업존 · 11/5~18",
+      "link": "https://www.ajunews.com/view/20261105093423044"
+     },
+     {
+      "title": "국제뉴스 (11/5) — 정소민 포토콜 · 지하 2층 센트럴 팝업존 11/5~18 · 마이 플리아쥬는 '르 플리아쥬' 백 바탕 커스터마이징 컬렉션",
+      "link": "https://www.gukjenews.com/news/articleView.html?idxno=3742988"
+     },
+     {
+      "title": "CBC뉴스 (11/5) — 있지 채령 롱샴 포토콜",
+      "link": "https://www.cbci.co.kr/news/articleView.html?idxno=623489"
+     },
+     {
+      "title": "롱샴 공식 인스타 (11/4) — MY PLIAGE: HOW TO MAKE IT YOURS",
+      "link": "https://www.instagram.com/longchamp/"
+     },
+     {
+      "title": "톱스타뉴스 유튜브 — 있지(ITZY) 채령 롱샴 포토월",
+      "link": "https://www.youtube.com/watch?v=MXWc4SG7uPU"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/MXWc4SG7uPU/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793847716/icz84guchxeevwquehjc.jpg",
+     "key": "MXWc4SG7uPU@5.0"
+    },
+    "px": {
+     "vid": "MXWc4SG7uPU",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793847838/sene_studio/pbph17nw7kvwbbbqs9ht.mp4",
+     "off": 0.0,
+     "end": 67.0,
+     "full": 150.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-05T12:04+09:00"
+    }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 오전 막 열린 포토월 — 채령 솔로 활동 주간이라 영어·일본어 팬 반응이 클 릴스, 팝업은 18일까지 갈 수 있다",
+    "at": "2026-11-05T12:00+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-11-05T12:04+09:00"
   }
  ],
  "skipped": [],
@@ -819,7 +1116,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 2,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
    },
    {
@@ -888,10 +1185,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-05T08:49+09:00"
+  "at": "2026-11-05T12:04+09:00"
  },
  "queue": {
-  "next": "2026-11-05T08:51+09:00",
+  "next": "2026-11-05T12:06+09:00",
   "n": 0,
   "gap": 20
  },
