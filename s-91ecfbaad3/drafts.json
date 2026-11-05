@@ -92,7 +92,9 @@
      "cvr": 2,
      "at": "2026-11-06T08:34+09:00",
      "v": {
-      "A": "c22dfcf7"
+      "A": "c22dfcf7",
+      "E": "e0f9785d",
+      "J": "9eca539a"
      }
     }
    },
@@ -102,7 +104,54 @@
     "at": "2026-11-06T08:34+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-06T08:36+09:00"
+   "i18n_queued": "2026-11-06T08:36+09:00",
+   "i18n": {
+    "at": "2026-11-06T08:37+09:00",
+    "confirm": [],
+    "review": {
+     "at": "2026-11-06T08:37+09:00",
+     "fixes": [
+      "영어 · 부제 · First in the Group → First Member to Enlist — 무엇이 '처음'인지 부제만 봐서는 알 수 없음 (Date to Be Announced → Date TBA 는 길이 맞춤)",
+      "영어 · 캡션 첫 문장 · Stray Kids' (@realstraykids) Lee Know → Lee Know of Stray Kids (@realstraykids) — 소유격과 이름 사이에 핸들이 끼어 어색함",
+      "영어 · 해시태그 · #스트레이키즈 → #SKZ — 영어판에 한글이 남아 있었음"
+     ],
+     "doubt": []
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nLee Know of Stray Kids (@realstraykids) will enlist for mandatory military service in the first quarter of next year.\n\nJYP Entertainment posted a notice titled 'Lee Know's Military Service and Upcoming Schedule' on Stray Kids' official social media on the evening of Nov 5. Born in 1998, Lee Know is the first member of the group to serve. His exact enlistment date and type of service have not been decided yet, and the agency will announce them separately.\n\nLee Know may miss some of the group's schedules planned for the first quarter of 2027. The agency said he will meet fans through various content and solo activities before he enlists.\n\nEnlistment: Q1 2027 (per JYP notice)\nEnlistment date and type of service: to be announced by the agency\n#SENE #StrayKids #LeeKnow #SKZ #KPOP\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793921693/ius6gdx3mv4wnqkaxwcv.jpg\n제목: Stray Kids' Lee Know|to Enlist in Q1 2027\n부제: First Member to Enlist · Date TBA\n출처: @realstraykids\n",
+      "caption": "Lee Know of Stray Kids (@realstraykids) will enlist for mandatory military service in the first quarter of next year.\n\nJYP Entertainment posted a notice titled 'Lee Know's Military Service and Upcoming Schedule' on Stray Kids' official social media on the evening of Nov 5. Born in 1998, Lee Know is the first member of the group to serve. His exact enlistment date and type of service have not been decided yet, and the agency will announce them separately.\n\nLee Know may miss some of the group's schedules planned for the first quarter of 2027. The agency said he will meet fans through various content and solo activities before he enlists.\n\nEnlistment: Q1 2027 (per JYP notice)\nEnlistment date and type of service: to be announced by the agency\n#SENE #StrayKids #LeeKnow #SKZ #KPOP",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793921828/qpjuqjcdirbuaegl7kr1.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793921828/dudrn51vrgvh4mrissuw.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793921828/qpjuqjcdirbuaegl7kr1.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-06T08:37+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nStray Kids（ストレイキッズ・@realstraykids）のリノが、来年1〜3月期に入隊します。\n\nJYPエンターテインメントが11月5日夜、Stray Kidsの公式SNSに「リノの兵役履行および今後のスケジュールに関するお知らせ」を掲載しました。1998年生まれのリノは、メンバーの中で最初に兵役に就くことになります。正確な入隊日と服務形態はまだ決まっておらず、事務所があらためて発表するとしています。\n\n2027年1〜3月期に予定されているグループのスケジュールの一部には、リノが参加できない可能性があります。事務所は、入隊までさまざまなコンテンツや個人活動を通じてファンに会っていくと伝えました。\n\n入隊時期：2027年1〜3月期（JYPの告知による）\n入隊日・服務形態：事務所が後日発表予定\n#SENE #StrayKids #ストレイキッズ #スキズ #リノ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793921693/ius6gdx3mv4wnqkaxwcv.jpg\n제목: ストレイキッズ リノ|来年1〜3月に入隊予定\n부제: グループ初の入隊・入隊日は後日発表\n출처: @realstraykids\n",
+      "caption": "Stray Kids（ストレイキッズ・@realstraykids）のリノが、来年1〜3月期に入隊します。\n\nJYPエンターテインメントが11月5日夜、Stray Kidsの公式SNSに「リノの兵役履行および今後のスケジュールに関するお知らせ」を掲載しました。1998年生まれのリノは、メンバーの中で最初に兵役に就くことになります。正確な入隊日と服務形態はまだ決まっておらず、事務所があらためて発表するとしています。\n\n2027年1〜3月期に予定されているグループのスケジュールの一部には、リノが参加できない可能性があります。事務所は、入隊までさまざまなコンテンツや個人活動を通じてファンに会っていくと伝えました。\n\n入隊時期：2027年1〜3月期（JYPの告知による）\n入隊日・服務形態：事務所が後日発表予定\n#SENE #StrayKids #ストレイキッズ #スキズ #リノ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793921832/hr7qsw84yylq2hd3mt4t.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793921831/znesqn7ir3urw38gywtj.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793921832/hr7qsw84yylq2hd3mt4t.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-06T08:37+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -443,10 +492,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T08:36+09:00"
+  "at": "2026-11-06T08:37+09:00"
  },
  "queue": {
-  "next": "2026-11-06T08:38+09:00",
+  "next": "2026-11-06T08:39+09:00",
   "n": 0,
   "gap": 20
  },
