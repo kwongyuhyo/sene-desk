@@ -1019,6 +1019,12 @@
      "at": "2026-11-06T11:51+09:00",
      "file": "JangWonYeong_LoLaLoLa_PoToWol_PaeSyeon_no_lyrics.mp4",
      "v": "182f0b60"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfZdZCAFS63/",
+     "at": "2026-11-06T20:06+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "corner_name": "현장",
@@ -1062,6 +1068,12 @@
        "file": "Jang_Wonyoung_at_the_ROLAROLA_photo_wall_PaeSyeon_no_lyrics.mp4",
        "sig": "5a150fe13d",
        "v": "90308adb"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfZdc60lMz_/",
+       "at": "2026-11-06T20:06+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      }
     },
@@ -1075,6 +1087,12 @@
        "file": "chiyan-uoniyon_roraroraCuoYingHui_PaeSyeon_no_lyrics.mp4",
        "sig": "2a57954e65",
        "v": "a345de95"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfZdmgwkZzK/",
+       "at": "2026-11-06T20:08+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      }
     }
@@ -1640,10 +1658,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T20:05+09:00"
+  "at": "2026-11-06T20:08+09:00"
  },
  "queue": {
-  "next": "2026-11-06T20:25+09:00",
+  "next": "2026-11-06T20:26+09:00",
   "n": 0,
   "gap": 20
  },
