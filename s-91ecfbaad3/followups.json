@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-07 01:36 KST",
+ "generated_at": "2026-11-07 02:36 KST",
  "cards": [
   {
    "id": "f42ed7d4",
@@ -68,6 +68,81 @@
    "preempt": null,
    "made_at": "2026-11-06T10:37+09:00",
    "expires": "2026-11-09T10:37+09:00"
+  },
+  {
+   "id": "f3e0e5c9",
+   "key": "closing:리센느:2026-11-10",
+   "kind": "closing",
+   "kind_label": "종료 임박",
+   "who": [
+    "리센느"
+   ],
+   "origin": {
+    "head": "리센느 · 2026-11-06~2026-11-10",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9DcDlhNi0ybGZ1eDlFSUhLNzVWeWowbmE1a1U0dFpMejFlaHJFWVdBU1BXUWxXZ25obXJIWHljM04ydXZ4Z1NqZmVtc0wybDhfUVRCUHhEV09tdVJyaUhkclkyNFdXZFZm0gFsQVVfeXFMTlMycExGMEtkMDBRSS1SNy1UbWJTUHpSV21uZ3lTMWw0MEZDTWpkdktVZnd2cTBoY2lRd0NVVmlpeEt0QkZDQTNwQ1ROc3JUZUR4YzlPZVlBemVKRC0tWGxEOUNaMVFaV3dabUVY?oc=5",
+    "at": "2026-11-06",
+    "mult": null
+   },
+   "evidence": [
+    {
+     "from": "스타트업엔(StartupN)",
+     "at": "2026-11-10",
+     "title": "3일 뒤 종료 · "
+    }
+   ],
+   "news": [
+    {
+     "title": "하이브로, '드래곤빌리지3' 0.5주년 기념 리센느 협업",
+     "link": "https://zdnet.co.kr/view/?no=20261106135718",
+     "summary": "하이브로가 모바일 수집형 RPG '드래곤빌리지3' 서비스 0.5주년을 맞아 걸그룹 '리센느'와 협업을 진행한다. 하이브로(대표 원세연)는 '드래곤빌리지3'의 서비스 0.5주년을 기념해 걸그룹 '리센느'를 전속 모델로 발탁하고...",
+     "date": "2026-11-06",
+     "kind": "news"
+    },
+    {
+     "title": "리센느, 오늘(6일) '뮤뱅' 출격",
+     "link": "https://www.starnewskorea.com/music/2026/11/06/2026110608085796568",
+     "summary": "리센느(RESCENE·원이, 리브, 미나미, 메이, 제나)가 신곡 'With'로 본격 음악방송 활동에 나선다. 리센느는 11월 6일 방송하는 KBS 2TV '뮤직뱅크'에 출연, 네 번째 미니 앨범 'PULSE'(펄스)의 타이틀곡 'With'(위드) 무대를...",
+     "date": "2026-11-06",
+     "kind": "news"
+    },
+    {
+     "title": "하이브로, '드래곤빌리지3' 서비스 0.5주년 기념 업데이트…리센느 콜라...",
+     "link": "https://www.etnews.com/20261106000231",
+     "summary": "걸그룹 리센느를 전속 모델로 발탁했으며, 11월 19일 업데이트에 앞서 사전예약을 진행한다. 이용자는 업데이트 전까지 사전예약 페이지를 통해 신청할 수 있으며, 신청을 완료한 모든 유저에게 '리센느 스페셜 선물 상자...",
+     "date": "2026-11-06",
+     "kind": "news"
+    }
+   ],
+   "plans": [
+    {
+     "format": "종료 임박 정리",
+     "corner": "followup",
+     "title": "리센느, 11월 10일 종료 정리",
+     "angle": "11월 10일에 끝나는 리센느 소식과 그 뒤 종료되는 스타트업엔을 한 동선으로 묶어 기간·장소·입장 방법·현장 대기를 정리합니다.",
+     "why": "리센느가 11월 10일 종료이고 스타트업엔도 곧 이어 끝납니다.",
+     "check": "확인: 리센느 장소·입장 방식, 스타트업엔 종료일(11월 13일 맞는지)"
+    },
+    {
+     "format": "그 후",
+     "corner": "followup",
+     "title": "리센느, 열린 뒤 닷새",
+     "angle": "11월 6일 시작부터 10일 종료까지 현장에서 무슨 일이 있었는지 날짜순으로 적습니다. 웨이팅, 완판, 연장 여부를 공식 공지로만 확인합니다.",
+     "why": "종료일이 코앞이라 연장이나 후속 소식이 곧 갈립니다.",
+     "check": "확인: 공식 인스타의 웨이팅·완판·연장 공지, 날짜별 근거"
+    },
+    {
+     "format": "현장 정리",
+     "corner": "followup",
+     "title": "리센느 공간, 이렇게 생겼습니다",
+     "angle": "공식 사진과 보도자료 기준으로 공간 구성과 판매·전시 품목을 정리합니다. 가보지 못한 독자도 볼 수 있게 합니다.",
+     "why": "11월 10일에 끝나 가지 못하는 독자에게 기록이 됩니다.",
+     "check": "확인: 공식 사진 공개 여부, 품목·가격 공지 유무"
+    }
+   ],
+   "score": 8.0,
+   "preempt": null,
+   "made_at": "2026-11-07T02:36+09:00",
+   "expires": "2026-11-10T02:36+09:00"
   },
   {
    "id": "7abeb361",
@@ -658,59 +733,6 @@
    "preempt": null,
    "made_at": "2026-11-07T00:37+09:00",
    "expires": "2026-11-10T00:37+09:00"
-  },
-  {
-   "id": "75ec370f",
-   "key": "closing:알리익스프레스 팝업:2026-11-08",
-   "kind": "closing",
-   "kind_label": "종료 임박",
-   "who": [
-    "알리익스프레스 팝업"
-   ],
-   "origin": {
-    "head": "알리익스프레스 팝업 · 2026-11-05~2026-11-08",
-    "url": "https://popply.co.kr/popup/6503",
-    "at": "2026-11-05",
-    "mult": null
-   },
-   "evidence": [
-    {
-     "from": "팝플리",
-     "at": "2026-11-08",
-     "title": "3일 뒤 종료 · 서울 성동구 성수이로18길 6-1"
-    }
-   ],
-   "news": [],
-   "plans": [
-    {
-     "format": "종료 임박 정리",
-     "corner": "followup",
-     "title": "알리익스프레스 팝업, 마지막 주말",
-     "angle": "11월 5~8일 성수이로18길 6-1 팝업의 마지막 날까지, 입장 방법과 현장 대기를 동선으로 정리합니다.",
-     "why": "11월 8일 종료까지 3일 남았습니다.",
-     "check": "확인: 공식 채널 기준 운영 시간·입장 방식·현장 대기 상황"
-    },
-    {
-     "format": "현장 정리",
-     "corner": "followup",
-     "title": "성수 알리익스프레스 팝업은 이런 곳",
-     "angle": "공식 사진과 보도자료로 공간 구성과 판매·체험 품목을 구역별로 풀어냅니다.",
-     "why": "종료 3일 전이라 가기 전에 공간을 확인하려는 수요가 있습니다.",
-     "check": "확인: 공식 사진·보도자료 확보 여부, 판매 품목 범위"
-    },
-    {
-     "format": "그 후",
-     "corner": "followup",
-     "title": "알리익스프레스 팝업 그 후",
-     "angle": "11월 8일 폐막 뒤 연장·후속 팝업·철수 여부를 날짜순으로 이어 정리합니다.",
-     "why": "폐막 직후 후속 공지가 나오는 시점이라 다음 편으로 바로 이어집니다.",
-     "check": "확인: 폐막 후 연장·후속 공지가 공식 채널에 올라오는지"
-    }
-   ],
-   "score": 6.08,
-   "preempt": null,
-   "made_at": "2026-11-05T00:36+09:00",
-   "expires": "2026-11-08T00:36+09:00"
   }
  ]
 }
