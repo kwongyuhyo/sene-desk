@@ -281,16 +281,484 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=ff_F3CipE3k\n구간: 0:04-0:19\n곡: at Herno Cheongdam\n아티스트: *San*,\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
-      "caption": "San of ATEEZ (@ateez_official_) stepped up to the Herno photo wall in Cheongdam yesterday.\n\nIt was the day Herno hosted its 'CASA HERNO SEOUL' presentation at its Cheongdam flagship store. At the photocall on the afternoon of Nov 5, San was joined by TWICE's Momo and actors Ahn Eun-jin and Cho Yi-hyun.\n\nDate: Nov 5 (Thu), afternoon\nLocation: Herno Cheongdam Flagship Store, Gangnam-gu, Seoul\nVideo: iMBC연예\n#SENE #ATEEZ #ATEEZSAN #HERNO #Cheongdam"
+      "caption": "San of ATEEZ (@ateez_official_) stepped up to the Herno photo wall in Cheongdam yesterday.\n\nIt was the day Herno hosted its 'CASA HERNO SEOUL' presentation at its Cheongdam flagship store. At the photocall on the afternoon of Nov 5, San was joined by TWICE's Momo and actors Ahn Eun-jin and Cho Yi-hyun.\n\nDate: Nov 5 (Thu), afternoon\nLocation: Herno Cheongdam Flagship Store, Gangnam-gu, Seoul\nVideo: iMBC연예\n#SENE #ATEEZ #ATEEZSAN #HERNO #Cheongdam",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793921989/sene_studio/lsei9y9rrgv3isinqfue.mp4",
+       "at": "2026-11-06T08:39+09:00",
+       "file": "San_at_Herno_Cheongdam_PaeSyeon_no_lyrics.mp4",
+       "sig": "bc2843f16d",
+       "v": "f0f4bbac"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=ff_F3CipE3k\n구간: 0:04-0:19\n곡: ヘルノ清潭フォトコール\n아티스트: *サン*、\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
-      "caption": "ATEEZ（@ateez_official_）のサンが昨日、清潭（チョンダム）のヘルノ（HERNO）のフォトウォールに立ちました。\n\nヘルノが清潭のフラッグシップストアで「CASA HERNO SEOUL」のプレゼンテーションを開いた日で、11月5日午後のフォトコールにはサンのほか、TWICEのモモ、俳優のアン・ウンジンとチョ・イヒョンが姿を見せました。\n\n日時：11月5日（木）午後\n場所：ソウル・江南区（カンナムグ） ヘルノ清潭フラッグシップストア\n映像：iMBC연예\n#SENE #ATEEZ #サン #ヘルノ #清潭洞"
+      "caption": "ATEEZ（@ateez_official_）のサンが昨日、清潭（チョンダム）のヘルノ（HERNO）のフォトウォールに立ちました。\n\nヘルノが清潭のフラッグシップストアで「CASA HERNO SEOUL」のプレゼンテーションを開いた日で、11月5日午後のフォトコールにはサンのほか、TWICEのモモ、俳優のアン・ウンジンとチョ・イヒョンが姿を見せました。\n\n日時：11月5日（木）午後\n場所：ソウル・江南区（カンナムグ） ヘルノ清潭フラッグシップストア\n映像：iMBC연예\n#SENE #ATEEZ #サン #ヘルノ #清潭洞",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793922074/sene_studio/x3lwdsouq0obvg8dmyjg.mp4",
+       "at": "2026-11-06T08:41+09:00",
+       "file": "san_herunoQingTanfuotoko_PaeSyeon_no_lyrics.mp4",
+       "sig": "ede778939a",
+       "v": "dcb2970e"
+      }
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-f01ac352",
+    "account": "@속보",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xLUJhNG56QkpHbXZtMk1ycV8zelE5VUdIcUxUMTB2MDA5X0h1cWxyaEZwTkxMRFBxaGR6RVN1M3BDdXl2OHlGY0JqcS1yYmJER0FkUmJsR3BseDYzU2JSStIBeEFVX3lxTE8zRUdHdFdfV3VaRWhJRTFvWHhNc2RTN0lwaFdCVExGMEJzVGdvQWxkNWhteTM5czl0ZVctdEp2Y1hkcFFGZzZtdFJuQWdfZ0NLUzg5RTFJY0w3d2pFaEZhNWV3LW5rdGlSeGdLbF9aMUVJUFV3NzVnbQ?oc=5",
+    "image": null,
+    "head": "하이록스 종목을 직접 해 보는 푸마 팝업, 오늘부터 일주일 더현대 서울 5층",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-06T08:52+09:00",
+   "key": "d1ac6c17",
+   "by": "claude",
+   "subjects": [
+    "푸마",
+    "하이록스"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "피트니스 레이스 하이록스 종목을 백화점 팝업에서 직접 해 본다 — 11/6~12 더현대 서울",
+    "why": "오늘 문 연 체험형 팝업, 이번 주에 바로 가 볼 수 있는 놀거리"
+   },
+   "added": "claude",
+   "added_at": "2026-11-06T08:52+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n푸마가 더현대 서울(@thehyundai_seoul)에 하이록스 체험 팝업 '하이록스 서울'을 엽니다.\n\n하이록스는 달리기와 운동 종목을 이어 가는 피트니스 레이스인데요, 이번 팝업에서는 스키 에르그·로잉·슬레드 풀처럼 실제 레이스를 이루는 종목을 직접 해 볼 수 있습니다. 어린이를 위한 '미니 키즈록스' 공간도 따로 꾸려집니다.\n\n푸마 글로벌 트레이닝 앰배서더 홍범석이 개발에 참여한 '홍범석 컬렉션'의 두 번째 라인업도 이곳에서 공개됩니다. 브랜드는 기간 중 일정 금액 이상 구매한 고객 가운데 추첨으로 2027년 하이록스 대회 참가 티켓을 준다고 밝혔습니다. 오픈일인 6일 저녁에는 홍범석과 함께 가볍게 달리는 쉐이크아웃런도 열립니다.\n\n기간: 11월 6일(금) ~ 11월 12일(목)\n장소: 더현대 서울 5층 에픽서울 (서울 영등포구 여의도동)\n\n#SENE #하이록스 #푸마 #더현대서울 #여의도팝업\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793922764/yaqutsdpdbrox5cqetfe.jpg\n제목: 푸마, 더현대 서울에|하이록스 체험 팝업\n부제: 11월 6일부터 12일까지 5층 에픽서울\n출처: 푸마\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793922790/sene_studio/qn5hqangfv67aq5esdaq.mp4\n소제목: \n본문: \n출처: HYROX: The World Series of Fitness Racing\n",
+    "caption": "푸마가 더현대 서울(@thehyundai_seoul)에 하이록스 체험 팝업 '하이록스 서울'을 엽니다.\n\n하이록스는 달리기와 운동 종목을 이어 가는 피트니스 레이스인데요, 이번 팝업에서는 스키 에르그·로잉·슬레드 풀처럼 실제 레이스를 이루는 종목을 직접 해 볼 수 있습니다. 어린이를 위한 '미니 키즈록스' 공간도 따로 꾸려집니다.\n\n푸마 글로벌 트레이닝 앰배서더 홍범석이 개발에 참여한 '홍범석 컬렉션'의 두 번째 라인업도 이곳에서 공개됩니다. 브랜드는 기간 중 일정 금액 이상 구매한 고객 가운데 추첨으로 2027년 하이록스 대회 참가 티켓을 준다고 밝혔습니다. 오픈일인 6일 저녁에는 홍범석과 함께 가볍게 달리는 쉐이크아웃런도 열립니다.\n\n기간: 11월 6일(금) ~ 11월 12일(목)\n장소: 더현대 서울 5층 에픽서울 (서울 영등포구 여의도동)\n\n#SENE #하이록스 #푸마 #더현대서울 #여의도팝업",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922764/yaqutsdpdbrox5cqetfe.jpg",
+      "credit": "푸마",
+      "from": "https://image.newsis.com/2026/11/06/NISI20261106_0002284560_web.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922763/u9yuv6terdbiyuptmw9d.jpg",
+      "credit": "푸마",
+      "from": "https://image.newsis.com/2026/11/06/NISI20261106_0002284562_web.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922764/yaqutsdpdbrox5cqetfe.jpg",
+      "credit": "푸마",
+      "from": "https://image.newsis.com/2026/11/06/NISI20261106_0002284560_web.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922763/u9yuv6terdbiyuptmw9d.jpg",
+      "credit": "푸마",
+      "from": "https://image.newsis.com/2026/11/06/NISI20261106_0002284562_web.jpg"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "푸마, 더현대 서울에|하이록스 체험 팝업",
+      "sub": "11월 6일부터 12일까지 5층 에픽서울"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "슬레드 끌어 보는|팝업이 여의도에",
+      "sub": "푸마 '하이록스 서울' · 11월 12일까지"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "하이록스 종목을|백화점에서 해 본다",
+      "sub": "더현대 서울 5층 · 11월 6~12일"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — HYROX: The World Series of Fitness Racing (공식 채널 · 음악만 있고 말 없음 · 2024년 영상이라 서울·푸마 장면은 아님)",
+     "표지 사진은 푸마가 배포한 포스터 한 장뿐이라, 포스터 아래쪽 기간·시간 글자가 제목 뒤로 흐리게 비칩니다 — 공식 현장 사진이 나오면 바꾸기",
+     "이어지는 소식 — 11-04에 다룬 소재. 새 사실: 11/04 글은 더현대 서울 H빌리지(크리스마스 마을) — 이번엔 푸마의 하이록스 체험 팝업(5층 에픽서울, 11/6~12)으로 전혀 다른 소식",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "더현대 서울서 하이록스 체험 해볼까…푸마, 팝업스토어 오픈 - 뉴시스",
+      "link": "https://www.newstong.co.kr/view3.aspx?seq=14797892"
+     },
+     {
+      "title": "푸마, 더현대서울서 체험형 팝업 '하이록스 서울' 오픈 - 싱글리스트",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=779406"
+     },
+     {
+      "title": "What is HYROX? | The Race Format - HYROX 공식 채널",
+      "link": "https://www.youtube.com/watch?v=YN-n8t8d2bA"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922800/nnvfzpycdzdk8gtbkz5g.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922803/lwzchewsjkgwkpm0coyq.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922799/s0htbdecxayhkqksedp2.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922806/grkrwgugz2gqgqsweirv.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922806/cdjx11oistm4f2ovmpbs.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922800/nnvfzpycdzdk8gtbkz5g.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-06T08:53+09:00",
+     "videos": {
+      "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793922801/sene_studio/kzhx9ixyrxo1eya432tn.mp4"
+     },
+     "v": {
+      "A": "859812a7",
+      "B": "dc2ff4ee",
+      "C": "41d92829"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 놀거리\nURL: https://www.youtube.com/watch?v=YN-n8t8d2bA\n구간: 0:03-0:20\n곡: *하이록스* 레이스\n아티스트: 달리고 끌고 미는\n피처링:\n후킹: \n출처: HYROX: The World Series of Fitness Racing\n자막: 끔",
+    "caption": "하이록스 공식 채널이 레이스 형식을 소개한 영상입니다.\n\n하이록스는 달리기와 운동 종목을 이어 가는 피트니스 레이스인데요, 이 종목들을 직접 해 보는 푸마 팝업 '하이록스 서울'이 오늘 더현대 서울(@thehyundai_seoul) 5층 에픽서울에서 문을 열었습니다.\n\n현장에서는 스키 에르그·로잉·슬레드 풀을 체험할 수 있고, 홍범석이 개발에 참여한 '홍범석 컬렉션' 두 번째 라인업도 공개됩니다.\n\n기간: 11월 6일(금) ~ 11월 12일(목)\n장소: 더현대 서울 5층 에픽서울\n영상: HYROX: The World Series of Fitness Racing\n\n#SENE #하이록스 #푸마 #더현대서울 #여의도팝업",
+    "hooks": {
+     "A": "달리고 끌고 미는 / *하이록스* 레이스",
+     "B": "이 종목들을 / *더현대 서울*에서",
+     "C": "숨 고를 틈 없는 / 피트니스 레이스"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=YN-n8t8d2bA",
+     "credit": "HYROX: The World Series of Fitness Racing",
+     "range": [
+      3.0,
+      20.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 낮음 — HYROX: The World Series of Fitness Racing (공식 채널 · 음악만 있고 말 없음 · 2024년 영상이라 서울·푸마 장면은 아님)",
+     "표지 사진은 푸마가 배포한 포스터 한 장뿐이라, 포스터 아래쪽 기간·시간 글자가 제목 뒤로 흐리게 비칩니다 — 공식 현장 사진이 나오면 바꾸기",
+     "이어지는 소식 — 11-04에 다룬 소재. 새 사실: 11/04 글은 더현대 서울 H빌리지(크리스마스 마을) — 이번엔 푸마의 하이록스 체험 팝업(5층 에픽서울, 11/6~12)으로 전혀 다른 소식"
+    ],
+    "research": [
+     {
+      "title": "더현대 서울서 하이록스 체험 해볼까…푸마, 팝업스토어 오픈 - 뉴시스",
+      "link": "https://www.newstong.co.kr/view3.aspx?seq=14797892"
+     },
+     {
+      "title": "푸마, 더현대서울서 체험형 팝업 '하이록스 서울' 오픈 - 싱글리스트",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=779406"
+     },
+     {
+      "title": "What is HYROX? | The Race Format - HYROX 공식 채널",
+      "link": "https://www.youtube.com/watch?v=YN-n8t8d2bA"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/YN-n8t8d2bA/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793922816/ehlnivjldcno2swo3dho.jpg",
+     "key": "YN-n8t8d2bA@3.0"
+    },
+    "px": {
+     "vid": "YN-n8t8d2bA",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793922863/sene_studio/jan2qjpf0yszgtbctnix.mp4",
+     "off": 0.0,
+     "end": 53.0,
+     "full": 53.0
+    },
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793922978/sene_studio/ducay64nqe6mrgootor0.mp4",
+     "at": "2026-11-06T08:56+09:00",
+     "file": "DalLiGo_KkeulGo_MiNe_HaILogSeu_LeISeu_NolGeoLi_no_lyrics.mp4",
+     "v": "5aa5cf18"
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-64f78943",
+    "account": "@속보",
+    "url": "https://blog.naver.com/ejily/224466785414",
+    "image": null,
+    "head": "남대문 스카프 아저씨, 인파로 경찰 출동 뒤 복귀 하루 만에 다시 휴업",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-06T08:58+09:00",
+   "key": "c52a51d6",
+   "by": "claude",
+   "subjects": [
+    "남대문 다다구리"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "남대문 '스카프 아저씨' 가게, 인파로 경찰 출동 뒤 복귀 하루 만에 다시 휴업 — 영업시간은 따로 알리지 않는다",
+    "why": "온라인에서 번진 시장 상인 영상이 실제 인파·휴업으로 이어진 소식, 가 보려는 독자에게 지금 필요한 정보"
+   },
+   "added": "claude",
+   "added_at": "2026-11-06T08:58+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n남대문시장의 '스카프 아저씨'가 다시 문을 연 지 하루 만에 가게를 쉬었습니다.\n\n손님에게 \"너네 지금 과소비야\"라며 오히려 구매를 말리는 영상으로 알려진 상인인데요, 몰려든 사람들로 지난달 말 한 차례 쉬었다가 다시 문을 연 날 가게 앞 인파에 경찰까지 출동했습니다. 상인은 다음 날인 11월 5일, 안전 점검을 이유로 하루 영업을 쉬어 간다고 '남대문 다다구리(@nam_dadaguri)' 계정에 알렸습니다.\n\n상인은 남대문시장에 늘 그대로 있으니 급하게 찾아오기보다 시장 구경 길에 편하게 들러 달라고 당부했습니다. 좁은 시장 골목의 작은 가게라, 들르려면 계정 공지를 먼저 보는 편이 헛걸음을 줄입니다.\n\n장소: 서울 중구 남대문시장\n가격: 스카프 6장 1만 원\n공지: 인스타그램·유튜브 '남대문 다다구리'\n#SENE #남대문시장 #남대문스카프아저씨 #남대문다다구리 #스카프\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793923084/yxdjgi5n88uaranh5wpd.jpg\n제목: 남대문 스카프 가게,|하루 만에 다시 휴업\n부제: 인파에 경찰까지 — 영업시간은 따로 알리지 않는다\n출처: @nam_dadaguri\n",
+    "caption": "남대문시장의 '스카프 아저씨'가 다시 문을 연 지 하루 만에 가게를 쉬었습니다.\n\n손님에게 \"너네 지금 과소비야\"라며 오히려 구매를 말리는 영상으로 알려진 상인인데요, 몰려든 사람들로 지난달 말 한 차례 쉬었다가 다시 문을 연 날 가게 앞 인파에 경찰까지 출동했습니다. 상인은 다음 날인 11월 5일, 안전 점검을 이유로 하루 영업을 쉬어 간다고 '남대문 다다구리(@nam_dadaguri)' 계정에 알렸습니다.\n\n상인은 남대문시장에 늘 그대로 있으니 급하게 찾아오기보다 시장 구경 길에 편하게 들러 달라고 당부했습니다. 좁은 시장 골목의 작은 가게라, 들르려면 계정 공지를 먼저 보는 편이 헛걸음을 줄입니다.\n\n장소: 서울 중구 남대문시장\n가격: 스카프 6장 1만 원\n공지: 인스타그램·유튜브 '남대문 다다구리'\n#SENE #남대문시장 #남대문스카프아저씨 #남대문다다구리 #스카프",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923084/yxdjgi5n88uaranh5wpd.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/882999437_1414634660383690_8701134696242437059_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8qT-RjMqVI4Q7kNvwFkaiAP&_nc_oc=AdogTNu3Uec3_2GXgKFOytSnaiNK4PdFX9bsoWwNF9TiK6tdgzT6T1Zk7-XZudsbYwo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&_nc_tpa=Q5bMBQJ-6GbDaWSHV6SKJsvkRC7FInvJ89UVIGvKbzA34NhLo08jmXrjBYnGBHlQl26t3f3c8K3QOkx69w&oh=00_AQSVsVXwEz0AF8L8BRM5JAzx8NknrVesj9uGl_fNaDDtjA&oe=6AF2CF6E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923086/rjhfp0vriinondwhldao.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/867749173_4066817076958163_1924736246574223592_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZAYKi0Ek0zgQ7kNvwGVXn_H&_nc_oc=Adpa3-pc5eKyIaT0sXqZsEyOOq2hOZiDqHeB_MooG_10EpiV2UH-6GP5bclVQhJZo6A&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&_nc_tpa=Q5bMBQJHpDcoMwOqAV0mhON79xtv-kU47eAbn2b53xu4S46Srv3gZhl5EyG7F1z9NMwZS5gLOxJPwu26Sg&oh=00_AQRY9Wl3tq_nH__rjU5F7To3V9HTuI_3XhEsII9dQREE4g&oe=6AF2F931"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923088/zguokst6sh5qftfjrda4.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/885278760_17932627326183516_3973534003680117039_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=l3vk09zwFVcQ7kNvwFMW79x&_nc_oc=AdoOSzMVRfHLIOT_zXGRv4ddkIDDMyv5zFUtdjRC0V0g0Fg-8_nQ5RzjnXSCuashgiw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&oh=00_AQS-0MFGnymmInLBIVz138BtLHqxWiCK9Q1mCuXj13t1eQ&oe=6AF2EAFA"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923090/qjsxjaekx0owaktkxqbu.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/869573683_1485619510076035_8023282227085169952_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mmLho95rTZAQ7kNvwH0Ra4R&_nc_oc=AdoNE4gmF5TRe5FM7C-TGrFkusPq0nqOErs5zjsyOIKpgm2duFCRZvDghe2C0emzG6o&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&_nc_tpa=Q5bMBQJluMlR2UtT-lKKfA8H6Fo8ZXBRsiPzBB24nCw-NDNXH87MvuSSSXKuJ80eyvBDf0tW4rs_P_yyow&oh=00_AQRCscPx4nm7VJSFXqEo6q_EA7pIjE7dvioyo8yuQVYSEA&oe=6AF2FB41"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923084/yxdjgi5n88uaranh5wpd.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/882999437_1414634660383690_8701134696242437059_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=8qT-RjMqVI4Q7kNvwFkaiAP&_nc_oc=AdogTNu3Uec3_2GXgKFOytSnaiNK4PdFX9bsoWwNF9TiK6tdgzT6T1Zk7-XZudsbYwo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&_nc_tpa=Q5bMBQJ-6GbDaWSHV6SKJsvkRC7FInvJ89UVIGvKbzA34NhLo08jmXrjBYnGBHlQl26t3f3c8K3QOkx69w&oh=00_AQSVsVXwEz0AF8L8BRM5JAzx8NknrVesj9uGl_fNaDDtjA&oe=6AF2CF6E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923086/rjhfp0vriinondwhldao.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/867749173_4066817076958163_1924736246574223592_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=ZAYKi0Ek0zgQ7kNvwGVXn_H&_nc_oc=Adpa3-pc5eKyIaT0sXqZsEyOOq2hOZiDqHeB_MooG_10EpiV2UH-6GP5bclVQhJZo6A&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&_nc_tpa=Q5bMBQJHpDcoMwOqAV0mhON79xtv-kU47eAbn2b53xu4S46Srv3gZhl5EyG7F1z9NMwZS5gLOxJPwu26Sg&oh=00_AQRY9Wl3tq_nH__rjU5F7To3V9HTuI_3XhEsII9dQREE4g&oe=6AF2F931"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923088/zguokst6sh5qftfjrda4.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/885278760_17932627326183516_3973534003680117039_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=l3vk09zwFVcQ7kNvwFMW79x&_nc_oc=AdoOSzMVRfHLIOT_zXGRv4ddkIDDMyv5zFUtdjRC0V0g0Fg-8_nQ5RzjnXSCuashgiw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&oh=00_AQS-0MFGnymmInLBIVz138BtLHqxWiCK9Q1mCuXj13t1eQ&oe=6AF2EAFA"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923090/qjsxjaekx0owaktkxqbu.jpg",
+      "credit": "@nam_dadaguri",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/869573683_1485619510076035_8023282227085169952_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=101&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=mmLho95rTZAQ7kNvwH0Ra4R&_nc_oc=AdoNE4gmF5TRe5FM7C-TGrFkusPq0nqOErs5zjsyOIKpgm2duFCRZvDghe2C0emzG6o&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=r5er2StYB_q4ghsdX7pZug&_nc_tpa=Q5bMBQJluMlR2UtT-lKKfA8H6Fo8ZXBRsiPzBB24nCw-NDNXH87MvuSSSXKuJ80eyvBDf0tW4rs_P_yyow&oh=00_AQRCscPx4nm7VJSFXqEo6q_EA7pIjE7dvioyo8yuQVYSEA&oe=6AF2FB41"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "남대문 스카프 가게,|하루 만에 다시 휴업",
+      "sub": "인파에 경찰까지 — 영업시간은 따로 알리지 않는다"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "'사지 마' 스카프 가게|다시 문 닫았다",
+      "sub": "복귀 하루 만의 안전 점검 휴업"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "남대문 스카프 아저씨|가기 전 알아둘 것",
+      "sub": "영업은 현장 상황에 맞춰"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "11월 6일 오늘 영업 여부 — @nam_dadaguri 최신 게시물로 다시 확인 (휴업이 이어지면 캡션 마지막 단락을 고친다)",
+     "숏폼 비움 — 본인 채널엔 유튜브 영상이 없고, 남은 영상은 제3자 촬영(일반인 손님 얼굴)이거나 말이 있어야 이해되는 구간뿐"
+    ],
+    "research": [
+     {
+      "title": "인사이트 — '스카프리오' 남대문 스카프 아저씨 \"경찰까지 출동\"…긴급 공지 올렸다",
+      "link": "https://www.insight.co.kr/news/580780"
+     },
+     {
+      "title": "아이뉴스24 — 나흘만에 연 '남대문 스카프 아저씨' 가게 또 '쉼', 무슨 일?",
+      "link": "https://m.inews24.com/v/2023124"
+     },
+     {
+      "title": "한국경제 — 출근만 해도 화제…남대문 스카프 아저씨 근황에 들썩",
+      "link": "https://www.hankyung.com/article/202611045907H"
+     },
+     {
+      "title": "서플(머니투데이) — 영업 재개 하루 만에…남대문 스카프 아저씨, 인파 몰리자 또 휴업",
+      "link": "https://supple.kr/news/cmw34md71gatzlstj0vypzy00"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923097/qaplbblez6hrwqg6fqwh.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923097/rfsgxu1vfl7sp4oi751v.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923100/xuqtxa5y5xzvcnqd14in.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923100/gductvu0swpk4elm0m6a.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923097/qaplbblez6hrwqg6fqwh.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-06T08:58+09:00",
+     "v": {
+      "A": "e40c8abe",
+      "B": "be2025b9",
+      "C": "83582f14"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-73554c81",
+    "account": "@속보",
+    "url": "https://www.newsis.com/view/NISX20261105_0003856914",
+    "image": null,
+    "head": "GS25 빼스티벌 — 호빵맨·짱구 선물세트와 자체 캐릭터 한정판 빼빼로",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-06T09:04+09:00",
+   "key": "e5cab3a2",
+   "by": "claude",
+   "subjects": [
+    "GS25"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "빼빼로데이 앞 GS25 빼스티벌 — 선물세트는 호빵맨·짱구, 낱개 빼빼로는 GS25 자체 캐릭터 4종",
+    "why": "빼빼로데이(11/11) 닷새 전, 편의점 캐릭터 협업 경쟁이 기사·공식 계정에서 동시에 도는 중"
+   },
+   "added": "claude",
+   "added_at": "2026-11-06T09:04+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\nGS25(@gs25_official)가 빼빼로데이를 앞두고 '2026 GS25 빼스티벌'을 열었습니다.\n\n올해 전면에 세운 캐릭터는 호빵맨과 짱구인데요, 호빵맨 줄자 키링 같은 캐릭터 굿즈를 빼빼로와 한데 묶은 선물세트로 나왔습니다.\n\n낱개 빼빼로는 GS25가 직접 만든 캐릭터들 몫입니다. 티벳여우 무무씨, 그래서판다 머용씨, 북끄토끼 안즈레씨, 시고르곰냥이 순남씨 네 캐릭터를 입힌 한정판이고, 제휴카드와 간편결제로 사면 2+2 혜택이 붙습니다.\n\n빼빼로데이: 11월 11일(수)\n판매처: GS25 매장\n혜택: 제휴카드·간편결제 2+2 (적용 기간·상품은 GS25 앱 확인)\n#SENE #GS25 #빼스티벌 #빼빼로데이 #짱구 #호빵맨\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793923447/yq4lwxvqwuloxnpvlwu1.jpg\n제목: 호빵맨·짱구 입은|GS25 빼빼로데이\n부제: 낱개 빼빼로엔 GS25 캐릭터 4종\n출처: @gs25_official\n",
+    "caption": "GS25(@gs25_official)가 빼빼로데이를 앞두고 '2026 GS25 빼스티벌'을 열었습니다.\n\n올해 전면에 세운 캐릭터는 호빵맨과 짱구인데요, 호빵맨 줄자 키링 같은 캐릭터 굿즈를 빼빼로와 한데 묶은 선물세트로 나왔습니다.\n\n낱개 빼빼로는 GS25가 직접 만든 캐릭터들 몫입니다. 티벳여우 무무씨, 그래서판다 머용씨, 북끄토끼 안즈레씨, 시고르곰냥이 순남씨 네 캐릭터를 입힌 한정판이고, 제휴카드와 간편결제로 사면 2+2 혜택이 붙습니다.\n\n빼빼로데이: 11월 11일(수)\n판매처: GS25 매장\n혜택: 제휴카드·간편결제 2+2 (적용 기간·상품은 GS25 앱 확인)\n#SENE #GS25 #빼스티벌 #빼빼로데이 #짱구 #호빵맨",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923447/yq4lwxvqwuloxnpvlwu1.jpg",
+      "credit": "@gs25_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/887052149_1613742414127865_1564841081454152902_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7wgMbRcJRJQQ7kNvwGWTjsM&_nc_oc=AdrMDS6_mO9svm1qPow8ifWHElhP_LvJ4Gr97IJNpWzJW1_Q5N7wHY4DYqvB4YEJWeA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uSj0vrFx8X3pooACXhtiQA&oh=00_AQTfuQruEAoTeKx58TjBM0r_HMutE4gqo8qdpit39KDC-Q&oe=6AF2D855"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923449/memvnzpzd89xva9ubr7k.jpg",
+      "credit": "@gs25_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/889614429_1613737157461724_6131628835477096789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=x--zCed2u7cQ7kNvwHAEULt&_nc_oc=AdoBVAOdvo5U5ZM5Sa7ByKA8qKNhu5JIe4OBSluHXieYrujQtNNbVEI3f4jlDgHxj9o&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uSj0vrFx8X3pooACXhtiQA&oh=00_AQSY90WE0YoUp0v9OMYtP4uRifUBrL8yxkToUV0kI126dQ&oe=6AF3059D"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923451/nruru60gvqvoqikl3ngl.jpg",
+      "credit": "@gs25_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/891928862_1613739680794805_6264925046944466324_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VOQwiukKQt8Q7kNvwGZ7nkR&_nc_oc=AdohSS0S448BjtltFuouIH8h_WQCO08MMtKwdOPm_04dI--1X83yYZaTH9ZuAEdF3Gs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uSj0vrFx8X3pooACXhtiQA&oh=00_AQQb40iIcGcD9LE88LFlQQsjhSIVjvz85HgWyRWvKKG5cw&oe=6AF30621"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923447/yq4lwxvqwuloxnpvlwu1.jpg",
+      "credit": "@gs25_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/887052149_1613742414127865_1564841081454152902_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=108&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=7wgMbRcJRJQQ7kNvwGWTjsM&_nc_oc=AdrMDS6_mO9svm1qPow8ifWHElhP_LvJ4Gr97IJNpWzJW1_Q5N7wHY4DYqvB4YEJWeA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uSj0vrFx8X3pooACXhtiQA&oh=00_AQTfuQruEAoTeKx58TjBM0r_HMutE4gqo8qdpit39KDC-Q&oe=6AF2D855"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923449/memvnzpzd89xva9ubr7k.jpg",
+      "credit": "@gs25_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/889614429_1613737157461724_6131628835477096789_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=x--zCed2u7cQ7kNvwHAEULt&_nc_oc=AdoBVAOdvo5U5ZM5Sa7ByKA8qKNhu5JIe4OBSluHXieYrujQtNNbVEI3f4jlDgHxj9o&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uSj0vrFx8X3pooACXhtiQA&oh=00_AQSY90WE0YoUp0v9OMYtP4uRifUBrL8yxkToUV0kI126dQ&oe=6AF3059D"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923451/nruru60gvqvoqikl3ngl.jpg",
+      "credit": "@gs25_official",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/891928862_1613739680794805_6264925046944466324_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=VOQwiukKQt8Q7kNvwGZ7nkR&_nc_oc=AdohSS0S448BjtltFuouIH8h_WQCO08MMtKwdOPm_04dI--1X83yYZaTH9ZuAEdF3Gs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=uSj0vrFx8X3pooACXhtiQA&oh=00_AQQb40iIcGcD9LE88LFlQQsjhSIVjvz85HgWyRWvKKG5cw&oe=6AF30621"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "호빵맨·짱구 입은|GS25 빼빼로데이",
+      "sub": "낱개 빼빼로엔 GS25 캐릭터 4종"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "낱개 빼빼로엔|GS25 캐릭터 4종",
+      "sub": "2026 GS25 빼스티벌"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "GS25 빼스티벌,|호빵맨·짱구 굿즈 세트",
+      "sub": "빼빼로데이 11월 11일"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진 — GS25 원본 이미지에 박힌 글씨('…짱구 굿즈 … 못말림')가 표지 제목 바로 뒤에 흐리게 겹쳐 읽힘. 사진 순서를 바꿔도 같은 사진이 표지로 잡혀 못 고침. 앱에서 표지 사진을 바꾸거나 크롭 조정",
+     "2+2 혜택의 기간·대상 — 지디넷만 '11월 9일까지 초코·아몬드 빼빼로 제휴 신용카드, 10일 토스페이'로 적어 캡션엔 기간 없이 넣음. GS25 앱 공지로 확인",
+     "숏폼 비움 — 2026 빼스티벌 공식 광고·현장 영상을 못 찾음 (유튜브 검색 결과는 토크형 콘텐츠나 2025년 영상)",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "뉴시스 — \"편의점 최고 매출 데이\" 빼빼로데이 앞두고 IP 경쟁 치열",
+      "link": "https://www.newsis.com/view/NISX20261105_0003856914"
+     },
+     {
+      "title": "지디넷코리아 — ZD 유통 투데이 (11/02)",
+      "link": "https://zdnet.co.kr/view/?no=20261102143012"
+     },
+     {
+      "title": "연합뉴스 재게재 — 포켓몬·짱구·산리오에 재혼황후까지…실용성 더한 선물세트 경쟁",
+      "link": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1433139"
+     },
+     {
+      "title": "GS25 공식 인스타그램 (11/05 빼스티벌 짱구·호빵맨 굿즈 게시물)",
+      "link": "https://www.instagram.com/gs25_official/"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923456/ngy68wi6k4yywnblbwnb.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923456/hu06fckgjj4aojhjtuqe.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923459/guf7knwfdufotc9nfbqo.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923459/i0fa6mccacpj6krga7nn.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793923456/ngy68wi6k4yywnblbwnb.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-06T09:04+09:00",
+     "v": {
+      "A": "a87e5575",
+      "B": "16ceeef5",
+      "C": "f2d6281b"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -310,7 +778,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 4,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -538,10 +1006,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T08:38+09:00"
+  "at": "2026-11-06T09:04+09:00"
  },
  "queue": {
-  "next": "2026-11-06T08:40+09:00",
+  "next": "2026-11-06T09:06+09:00",
   "n": 0,
   "gap": 20
  },
