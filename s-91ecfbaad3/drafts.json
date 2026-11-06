@@ -1199,7 +1199,9 @@
       "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793954997/sene_studio/bmvk5hvw9wucq3am8wms.mp4"
      },
      "v": {
-      "A": "6f278bcf"
+      "A": "6f278bcf",
+      "E": "5ec68475",
+      "J": "4bc326be"
      }
     }
    },
@@ -1268,9 +1270,11 @@
      "end": 21.0,
      "full": 21.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-06T17:50+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793955084/sene_studio/fskurnpkc7swlwacxgib.mp4",
+     "at": "2026-11-06T17:51+09:00",
+     "file": "Saeng_LoLang_Fall_26_Geu_PilLeum_Sog_LoJe_PaeSyeon_no_lyrics.mp4",
+     "v": "48212af3"
     }
    },
    "pick": {
@@ -1280,7 +1284,95 @@
    },
    "corner_name": "왜 지금",
    "corner_no": 1,
-   "i18n_queued": "2026-11-06T17:50+09:00"
+   "i18n_queued": "2026-11-06T17:50+09:00",
+   "i18n": {
+    "at": "2026-11-06T17:52+09:00",
+    "confirm": [
+     "숏폼 세 칸: 영어는 40자에 맞추느라 아티스트 칸의 'Saint Laurent' 를 빼고 'Fall 26 film,' 으로 줄였습니다 (이어 읽으면 \"Vaccarello's Fall 26 film, starring Rosé\"). 일본어는 「ヴァカレロが手がけたFall 26、映像のロゼ」(23자)입니다. 화면에 놓을 때 후킹→아티스트→곡 순서인지 확인해 주세요.",
+     "코너 스토리(Connor Storrie)의 일본어 표기 「コナー・ストーリー」는 검색 결과에서 확인하지 못했습니다. 일본 매체 표기를 다시 확인해 주세요.",
+     "CFDA 상 이름은 원문 '올해의 국제 디자이너상'을 'International Designer of the Year' / 「インターナショナル・デザイナー・オブ・ザ・イヤー」로 옮겼습니다. CFDA 공식 부문명과 같은지 확인해 주세요.",
+     "「アンソニー・ヴァカレロ」「リウ・ウェン」「ロゼ」 표기는 WWDJAPAN·FASHIONSNAP 표기와 같습니다 (https://www.wwdjapan.com/articles/1468406 · https://www.fashionsnap.com/article/2024-07-10/saintlaurent-2024fall-campaign/).",
+     "영어·일본어 숏폼 세 칸에서 'Saint Laurent/サンローラン' 이 빠졌습니다. 글자 수 때문에 규칙대로 가운데 칸을 줄인 결과지만, 브랜드명이 화면 제목에 없어도 되는지 봐 주세요",
+     "숏폼 세 칸이 화면에 이어지는 순서를 후킹→아티스트→곡으로 보고 검수했습니다. 실제 순서가 다르면 두 언어 모두 다시 봐야 합니다",
+     "Connor Storrie 의 일본어 표기 'コナー・ストーリー' 는 공식 표기를 확인하지 못했습니다"
+    ],
+    "review": {
+     "at": "2026-11-06T17:52+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'Rosé Through|Vaccarello's Decade' → 'With Rosé:|Vaccarello's Decade' — 'Through' 가 '로제를 거쳐/로제가 지나온' 으로 읽혀 뜻이 흐림",
+      "일본어 · 캡션 둘째 단락 · '…アンソニー・ヴァカレロですが、ケリングは…' → '…アンソニー・ヴァカレロです。ケリングは…' — 'ですが' 가 역접으로 읽혀 수상과 퇴임이 대립하는 듯한 직역투",
+      "일본어 · 2026년 10월 17일 본문 · 'ブラックドレスで臨んだ場。' → 'ブラックドレスで登場しました。' — '臨んだ場' 는 어색한 연어",
+      "일본어 · 숏폼 가운데 칸 · 'Fall 26、' → 'Fall 26' / 곡 칸 · '映像の*ロゼ*' → 'フィルムの*ロゼ*' — 이어 읽으면 'ヴァカレロが手がけたFall 26、映像のロゼ' 로 쉼표에서 문장이 끊겼는데, 고친 뒤에는 'ヴァカレロが手がけたFall 26フィルムのロゼ'(24자)로 한 구로 읽힘"
+     ],
+     "doubt": [
+      "영어·일본어 숏폼 세 칸에서 'Saint Laurent/サンローラン' 이 빠졌습니다. 글자 수 때문에 규칙대로 가운데 칸을 줄인 결과지만, 브랜드명이 화면 제목에 없어도 되는지 봐 주세요",
+      "숏폼 세 칸이 화면에 이어지는 순서를 후킹→아티스트→곡으로 보고 검수했습니다. 실제 순서가 다르면 두 언어 모두 다시 봐야 합니다",
+      "Connor Storrie 의 일본어 표기 'コナー・ストーリー' 는 공식 표기를 확인하지 못했습니다"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nBLACKPINK's Rosé (@roses_are_rosie) appeared at the CFDA Fashion Awards in New York on Nov 2, dressed in gold Saint Laurent (@ysl).\n\nThat night, International Designer of the Year went to Anthony Vaccarello, who has spent 10 years at Saint Laurent. On Oct 9, Kering officially confirmed his departure from the house. It was also Vaccarello who named Rosé a global ambassador in 2020.\n\nShe walked the red carpet with him at her first Met Gala in 2021, and in September sat in the front row at his last Saint Laurent show, held at the Trocadéro in Paris. Here are the official moments the two shared, in date order.\n\n#SENE #Rosé #SaintLaurent #AnthonyVaccarello #CFDA\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954959/oefdmiovjsfnq9fyeh00.jpg\n제목: With Rosé:|Vaccarello's Decade\n부제: Her Saint Laurent moments in order, up to the CFDA on Nov 2\n출처: @roses_are_rosie\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954963/mrkiygayg6wqxz7bld7k.jpg\n소제목: 2020\n본문: Anthony Vaccarello names Rosé a global ambassador for Saint Laurent.\n출처: @roses_are_rosie\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793954974/sene_studio/l9rha1gcvibawoecixrb.mp4\n소제목: \n본문: \n출처: Saint Laurent\n\n[슬라이드]\n소스: \n소제목: Sep 2021 · Met Gala, New York\n본문: Her first Met Gala. She wore Saint Laurent and walked the red carpet with Vaccarello.\n출처: \n\n[슬라이드]\n소스: \n소제목: May 2025 · Met Gala, New York\n본문: Her first Met Gala in four years, in a black Saint Laurent tuxedo designed by Vaccarello.\n출처: \n\n[슬라이드]\n소스: \n소제목: Sep 29, 2026 · Trocadéro, Paris\n본문: Front row at the Saint Laurent Spring/Summer 2027 show, which became Vaccarello's last for the house.\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954980/akasmjnbtevzkbky5kcq.jpg\n소제목: Oct 17, 2026 · Academy Museum Gala, LA\n본문: On the carpet in a black Saint Laurent dress.\n출처: @roses_are_rosie\n\n[슬라이드]\n소스: \n소제목: Nov 2, 2026 · CFDA, New York\n본문: The night Vaccarello won International Designer of the Year. Rosé wore a gold Spring/Summer 2027 look.\n출처: \n",
+      "caption": "BLACKPINK's Rosé (@roses_are_rosie) appeared at the CFDA Fashion Awards in New York on Nov 2, dressed in gold Saint Laurent (@ysl).\n\nThat night, International Designer of the Year went to Anthony Vaccarello, who has spent 10 years at Saint Laurent. On Oct 9, Kering officially confirmed his departure from the house. It was also Vaccarello who named Rosé a global ambassador in 2020.\n\nShe walked the red carpet with him at her first Met Gala in 2021, and in September sat in the front row at his last Saint Laurent show, held at the Trocadéro in Paris. Here are the official moments the two shared, in date order.\n\n#SENE #Rosé #SaintLaurent #AnthonyVaccarello #CFDA",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955138/rucmiielxmm5ovdyoacp.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955138/idktzcsufv6n3ygd9ddn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955140/kmpdtkpm1zffhrrcyyly.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955137/xswmvgccrdm0hgjojbr6.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955139/tipuc50mpmd7w3dsvaub.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955139/fkkh5eisd6jni5xgji2a.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955140/ra6l0nf6zhnoorvji2p9.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955140/zgb3zzmbyu9dn4yaetsj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955140/qloig2irdngmj3t6yrbu.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955138/rucmiielxmm5ovdyoacp.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-06T17:52+09:00",
+       "videos": {
+        "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793955138/sene_studio/f5naehi0eixgljgjhqig.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=A6JIXfTTo3I\n구간: 0:01-0:20\n곡: starring *Rosé*\n아티스트: Fall 26 film,\n피처링:\n후킹: Vaccarello's\n출처: Saint Laurent\n자막: 끔",
+      "caption": "This is Saint Laurent's (@ysl) 'FALL 26' campaign film featuring BLACKPINK's Rosé (@roses_are_rosie).\n\nPosted on Saint Laurent's official channel, the film also features Connor Storrie and Liu Wen. The collection is by Anthony Vaccarello, who led Saint Laurent for 10 years; on Oct 9, Kering officially confirmed his departure from the house.\n\nAt the CFDA Fashion Awards in New York on Nov 2, Rosé again wore gold Saint Laurent by Vaccarello. That night, he received International Designer of the Year.\n\n#SENE #Rosé #SaintLaurent #AnthonyVaccarello #CampaignFilm"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nBLACKPINKのロゼ（@roses_are_rosie）が11月2日、ニューヨークのCFDAファッション・アワードに金色のサンローラン（@ysl）で登場しました。\n\nこの日「インターナショナル・デザイナー・オブ・ザ・イヤー」を受賞したのは、サンローランで10年を過ごしたアンソニー・ヴァカレロです。ケリングは10月9日、彼がサンローランを離れることを正式に認めています。2020年にロゼをグローバルアンバサダーに迎えたのもヴァカレロです。\n\n2021年の初めてのメットガラでは彼とレッドカーペットを歩き、9月にパリ・トロカデロで開かれた彼の最後のサンローランのショーでは最前列に座りました。二人が共にした公式の場を日付順にまとめました。\n\n#SENE #ロゼ #サンローラン #アンソニーヴァカレロ #CFDA\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954959/oefdmiovjsfnq9fyeh00.jpg\n제목: ロゼと歩んだ|ヴァカレロの10年\n부제: 11月2日のCFDAまで、サンローランでの場面を日付順に\n출처: @roses_are_rosie\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954963/mrkiygayg6wqxz7bld7k.jpg\n소제목: 2020\n본문: アンソニー・ヴァカレロが、ロゼをサンローランのグローバルアンバサダーに迎えます。\n출처: @roses_are_rosie\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793954974/sene_studio/l9rha1gcvibawoecixrb.mp4\n소제목: \n본문: \n출처: Saint Laurent\n\n[슬라이드]\n소스: \n소제목: 2021年9月・ニューヨーク メットガラ\n본문: 初めてのメットガラ。サンローランをまとい、ヴァカレロとレッドカーペットを歩きました。\n출처: \n\n[슬라이드]\n소스: \n소제목: 2025年5月・ニューヨーク メットガラ\n본문: 4年ぶりのメットガラ。ヴァカレロがデザインしたサンローランのブラックタキシードでした。\n출처: \n\n[슬라이드]\n소스: \n소제목: 2026年9月29日・パリ トロカデロ\n본문: サンローラン2027年春夏ショーの最前列。ヴァカレロにとって最後のサンローランのショーになりました。\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954980/akasmjnbtevzkbky5kcq.jpg\n소제목: 2026年10月17日・LA アカデミー・ミュージアム・ガラ\n본문: サンローランのブラックドレスで登場しました。\n출처: @roses_are_rosie\n\n[슬라이드]\n소스: \n소제목: 2026年11月2日・ニューヨーク CFDA\n본문: ヴァカレロがインターナショナル・デザイナー・オブ・ザ・イヤーを受賞した夜。ロゼは金色の2027年春夏ルックでした。\n출처: \n",
+      "caption": "BLACKPINKのロゼ（@roses_are_rosie）が11月2日、ニューヨークのCFDAファッション・アワードに金色のサンローラン（@ysl）で登場しました。\n\nこの日「インターナショナル・デザイナー・オブ・ザ・イヤー」を受賞したのは、サンローランで10年を過ごしたアンソニー・ヴァカレロです。ケリングは10月9日、彼がサンローランを離れることを正式に認めています。2020年にロゼをグローバルアンバサダーに迎えたのもヴァカレロです。\n\n2021年の初めてのメットガラでは彼とレッドカーペットを歩き、9月にパリ・トロカデロで開かれた彼の最後のサンローランのショーでは最前列に座りました。二人が共にした公式の場を日付順にまとめました。\n\n#SENE #ロゼ #サンローラン #アンソニーヴァカレロ #CFDA",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955148/akgepcdr2snhbw6iijow.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955148/wuduckja8zpkzyfqp9d7.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955151/wcve3icbee3s5u6s4ppi.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955148/cta3uwoqkgtazts6qrjw.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955150/ffdcdpuouxkuw4lqke0i.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955150/enidat3upxuryksgnthu.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955150/ytlxw3qawyx7ejox7a52.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955151/h5oyybegkejcz71wn6lf.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955151/gnikdl3x6abr1eokahhi.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955148/akgepcdr2snhbw6iijow.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-06T17:52+09:00",
+       "videos": {
+        "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793955149/sene_studio/ghohpk8khybzhanunaot.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=A6JIXfTTo3I\n구간: 0:01-0:20\n곡: フィルムの*ロゼ*\n아티스트: Fall 26\n피처링:\n후킹: ヴァカレロが手がけた\n출처: Saint Laurent\n자막: 끔",
+      "caption": "BLACKPINKのロゼ（@roses_are_rosie）が出演したサンローラン（@ysl）「FALL 26」キャンペーンフィルムです。\n\nサンローラン公式チャンネルが公開した映像で、ロゼとともにコナー・ストーリー、リウ・ウェンが登場します。コレクションは10年間サンローランを率いたアンソニー・ヴァカレロによるもので、ケリングは10月9日、彼がサンローランを離れることを正式に認めました。\n\nロゼは11月2日、ニューヨークのCFDAファッション・アワードでもヴァカレロによる金色のサンローランをまといました。その日、ヴァカレロはインターナショナル・デザイナー・オブ・ザ・イヤーを受賞しました。\n\n#SENE #ロゼ #サンローラン #アンソニーヴァカレロ #キャンペーンフィルム"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1528,10 +1620,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T17:50+09:00"
+  "at": "2026-11-06T17:52+09:00"
  },
  "queue": {
-  "next": "2026-11-06T17:52+09:00",
+  "next": "2026-11-06T17:54+09:00",
   "n": 0,
   "gap": 20
  },
