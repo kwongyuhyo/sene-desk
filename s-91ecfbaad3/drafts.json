@@ -853,7 +853,9 @@
      "cvr": 2,
      "at": "2026-11-06T11:48+09:00",
      "v": {
-      "A": "dff0ac62"
+      "A": "dff0ac62",
+      "E": "98807fa4",
+      "J": "e1abb9e4"
      }
     }
    },
@@ -863,7 +865,63 @@
     "at": "2026-11-06T11:48+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-06T11:50+09:00"
+   "i18n_queued": "2026-11-06T11:50+09:00",
+   "i18n": {
+    "at": "2026-11-06T11:51+09:00",
+    "confirm": [
+     "구찌 앰버서더 발표(11/5)는 검색에서 확인되지 않음 — 검색 색인에 아직 안 잡혔을 수 있음. 올리기 전에 구찌 공식 보도자료와 @bogummy 게시물로 다시 확인할 것. 검색으로 확인된 건 2025년 12월 오메가 글로벌 앰버서더 발탁과 데므나가 구찌 크리에이티브 디렉터라는 점뿐",
+     "표기: 영어 Park Bo-gum / 일본어 パク・ボゴム(널리 쓰이는 표기), Celine→セリーヌ, Omega→オメガ, Demna→デムナ. 브랜드 공식 대문자 표기(CELINE·OMEGA)는 본문에서 일반 표기로 씀",
+     "11월 5일 = 목요일 (2026년 달력 기준으로 확인)",
+     "원문 사실 확인 — 오메가 글로벌 앰버서더 발탁 시점(2025년 12월)과 데므나의 구찌 크리에이티브 디렉터 취임 연도(2025)가 공식 발표와 맞는지 올리기 전 확인",
+     "영어 · 캡션 · 'the language of style' — 보도자료 인용을 그대로 옮긴 말이라 남겨 둠. 구찌 영문 보도자료의 원래 표현이 있으면 그 표현으로 맞추면 좋음"
+    ],
+    "review": {
+     "at": "2026-11-06T11:51+09:00",
+     "fixes": [
+      "영어 · 캡션 해시태그 · #Gucci #GUCCI 중복 (해시태그는 대소문자 구분 없음) → #GUCCI 삭제",
+      "영어 · 캡션 · He → Park / they — 본인이 밝힌 대명사를 확인하지 않아 이름 또는 중립 대명사로",
+      "일본어 · 캡션 둘째 단락 · 「発表したもので、パク・ボゴムは…」 → 「発表しました。パク・ボゴムは…」 — 관계없는 두 사실을 「もので」로 잇는 직역투라 두 문장으로 나눔"
+     ],
+     "doubt": [
+      "원문 사실 확인 — 오메가 글로벌 앰버서더 발탁 시점(2025년 12월)과 데므나의 구찌 크리에이티브 디렉터 취임 연도(2025)가 공식 발표와 맞는지 올리기 전 확인",
+      "영어 · 캡션 · 'the language of style' — 보도자료 인용을 그대로 옮긴 말이라 남겨 둠. 구찌 영문 보도자료의 원래 표현이 있으면 그 표현으로 맞추면 좋음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nPark Bo-gum (@bogummy) is now a global brand ambassador for Gucci.\n\nGucci made the announcement on Nov 5. Park was previously named a global ambassador for Celine in 2022 and for Omega last December. Park also posted Gucci photos on their own account that day.\n\nDemna has been Gucci's creative director since 2025. In the press release, Park said they want to better understand the language of style that Demna will bring to Gucci. Park will take part in Gucci's events and projects going forward.\n\nAnnounced: Nov 5 (Thu), Gucci\nEarlier global ambassadorships: Celine (2022) · Omega (2025)\n#SENE #ParkBoGum #Gucci #Demna #KoreanActor\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793933332/m4o2pk5sxuatknbkheam.jpg\n제목: Park Bo-gum Named|Gucci Global Ambassador\n부제: After Celine and Omega\n출처: @bogummy\n",
+      "caption": "Park Bo-gum (@bogummy) is now a global brand ambassador for Gucci.\n\nGucci made the announcement on Nov 5. Park was previously named a global ambassador for Celine in 2022 and for Omega last December. Park also posted Gucci photos on their own account that day.\n\nDemna has been Gucci's creative director since 2025. In the press release, Park said they want to better understand the language of style that Demna will bring to Gucci. Park will take part in Gucci's events and projects going forward.\n\nAnnounced: Nov 5 (Thu), Gucci\nEarlier global ambassadorships: Celine (2022) · Omega (2025)\n#SENE #ParkBoGum #Gucci #Demna #KoreanActor",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933476/icefgjqkhgsp1yuztq9n.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933476/l5mg0wcbfchfsr08pjup.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933476/icefgjqkhgsp1yuztq9n.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-06T11:51+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nパク・ボゴム（@bogummy）が、グッチのグローバルブランドアンバサダーに就任しました。\n\nグッチが11月5日に発表しました。パク・ボゴムは2022年にセリーヌ、昨年12月にオメガのグローバルアンバサダーにも起用されています。同じ日、本人のアカウントにもグッチの写真を投稿しました。\n\nグッチでは2025年からデムナがクリエイティブ・ディレクターを務めています。パク・ボゴムはプレスリリースで、デムナがグッチにもたらすスタイルの言語をより深く理解したいと語りました。今後はグッチのさまざまなイベントやプロジェクトに参加します。\n\n発表：11月5日（木）グッチ\nこれまでのグローバルアンバサダー：セリーヌ（2022年）・オメガ（2025年）\n#SENE #パクボゴム #グッチ #GUCCI #ParkBoGum\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793933332/m4o2pk5sxuatknbkheam.jpg\n제목: パク・ボゴム、グッチの|グローバルアンバサダーに\n부제: セリーヌ、オメガに続き\n출처: @bogummy\n",
+      "caption": "パク・ボゴム（@bogummy）が、グッチのグローバルブランドアンバサダーに就任しました。\n\nグッチが11月5日に発表しました。パク・ボゴムは2022年にセリーヌ、昨年12月にオメガのグローバルアンバサダーにも起用されています。同じ日、本人のアカウントにもグッチの写真を投稿しました。\n\nグッチでは2025年からデムナがクリエイティブ・ディレクターを務めています。パク・ボゴムはプレスリリースで、デムナがグッチにもたらすスタイルの言語をより深く理解したいと語りました。今後はグッチのさまざまなイベントやプロジェクトに参加します。\n\n発表：11月5日（木）グッチ\nこれまでのグローバルアンバサダー：セリーヌ（2022年）・オメガ（2025年）\n#SENE #パクボゴム #グッチ #GUCCI #ParkBoGum",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933480/arhvw9fbjurivo3urmhg.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933479/facewhxfbw3eksameuyp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933480/arhvw9fbjurivo3urmhg.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-06T11:51+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1214,10 +1272,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T11:50+09:00"
+  "at": "2026-11-06T11:51+09:00"
  },
  "queue": {
-  "next": "2026-11-06T11:52+09:00",
+  "next": "2026-11-06T11:53+09:00",
   "n": 0,
   "gap": 20
  },
