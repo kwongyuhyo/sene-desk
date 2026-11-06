@@ -98,11 +98,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "밤사이 나온 케이팝 큰 공식 발표 — 출근길에 팬들이 가장 먼저 찾을 소식, 정해진 것과 안 정해진 것을 정확히",
-    "at": "2026-11-06T08:34+09:00"
-   },
    "corner_name": "소식",
    "i18n_queued": "2026-11-06T08:36+09:00",
    "i18n": {
@@ -151,6 +146,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "어제 저녁 나온 케이팝 큰 공식 발표 — 팬이 저장해 둘 정해진 것·안 정해진 것",
+    "at": "2026-11-06T11:48+09:00"
    }
   },
   {
@@ -239,11 +239,6 @@
      "file": "San_ELeuNo_CheongDam_PoT_PaeSyeon_no_lyrics.mp4",
      "v": "df132cbf"
     }
-   },
-   "pick": {
-    "rank": 2,
-    "why": "어제 청담 포토월 — 말 없는 릴스 결, 모모 쪽이 이미 터진 같은 자리를 산으로",
-    "at": "2026-11-06T08:34+09:00"
    },
    "corner_name": "현장",
    "i18n_queued": "2026-11-06T08:36+09:00",
@@ -759,6 +754,219 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:parkbogum-gucci",
+    "account": "기사",
+    "url": "https://www.koreajoongangdaily.com/entertainment/park-bogum-named-gucci-global-brand-ambassador/12958789",
+    "image": null,
+    "head": "구찌, 11/5 박보검 글로벌 브랜드 앰버서더 발표 — '데므나가 구찌에 가져올 스타일 언어를 더 깊이 이해하고 싶다'",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-06T11:48+09:00",
+   "key": "06d311bf",
+   "by": "claude",
+   "subjects": [
+    "박보검",
+    "구찌"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "구찌가 11/5 박보검을 글로벌 브랜드 앰버서더로 발표 — 셀린느(2022)·오메가(2025.12)에 이은 세 번째 글로벌 앰버서더, 데므나의 구찌에서",
+    "why": "기획안 slot am · 큰 이름의 공식 발표 — 단순 기사로, 이력을 이어 맥락을 더한다"
+   },
+   "added": "claude",
+   "added_at": "2026-11-06T11:48+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n패션\n\n[캡션]\n박보검(@bogummy)이 구찌의 글로벌 브랜드 앰버서더가 됐습니다.\n\n구찌가 11월 5일 발표한 소식인데요, 박보검은 2022년 셀린느, 지난해 12월 오메가의 글로벌 앰버서더로도 발탁된 바 있습니다. 같은 날 본인 계정에도 구찌 사진을 올렸습니다.\n\n데므나가 2025년부터 크리에이티브 디렉터를 맡고 있는 구찌입니다. 박보검은 보도자료에서 데므나가 구찌에 가져올 스타일의 언어를 더 깊이 이해하고 싶다고 전했고, 앞으로 구찌의 여러 행사와 프로젝트에 함께합니다.\n\n발표: 11월 5일(목) 구찌\n이전 글로벌 앰버서더: 셀린느(2022) · 오메가(2025)\n#SENE #박보검 #구찌 #GUCCI #ParkBoGum\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793933332/m4o2pk5sxuatknbkheam.jpg\n제목: 박보검, 구찌|글로벌 앰버서더로\n부제: 셀린느·오메가에 이어\n출처: @bogummy\n",
+    "caption": "박보검(@bogummy)이 구찌의 글로벌 브랜드 앰버서더가 됐습니다.\n\n구찌가 11월 5일 발표한 소식인데요, 박보검은 2022년 셀린느, 지난해 12월 오메가의 글로벌 앰버서더로도 발탁된 바 있습니다. 같은 날 본인 계정에도 구찌 사진을 올렸습니다.\n\n데므나가 2025년부터 크리에이티브 디렉터를 맡고 있는 구찌입니다. 박보검은 보도자료에서 데므나가 구찌에 가져올 스타일의 언어를 더 깊이 이해하고 싶다고 전했고, 앞으로 구찌의 여러 행사와 프로젝트에 함께합니다.\n\n발표: 11월 5일(목) 구찌\n이전 글로벌 앰버서더: 셀린느(2022) · 오메가(2025)\n#SENE #박보검 #구찌 #GUCCI #ParkBoGum",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933332/m4o2pk5sxuatknbkheam.jpg",
+      "credit": "@bogummy",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/883139691_18024793010947165_174441874720673609_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=W70defDs7AIQ7kNvwFZH7n5&_nc_oc=Adq1WOn1TVvFSyr1JPb1z7giUAZ6g2iOlU--VhvOrf8FntUhrYc1Y41Uz1KD3szInF0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=e2nxkGomB3z2iJAHBMImIQ&oh=00_AQQVZpjC8naDAkHYAuS2XSJFRA9SBFUvFLH-YNelS-VwrQ&oe=6AF31D9C"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933332/m4o2pk5sxuatknbkheam.jpg",
+      "credit": "@bogummy",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/883139691_18024793010947165_174441874720673609_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=W70defDs7AIQ7kNvwFZH7n5&_nc_oc=Adq1WOn1TVvFSyr1JPb1z7giUAZ6g2iOlU--VhvOrf8FntUhrYc1Y41Uz1KD3szInF0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=e2nxkGomB3z2iJAHBMImIQ&oh=00_AQQVZpjC8naDAkHYAuS2XSJFRA9SBFUvFLH-YNelS-VwrQ&oe=6AF31D9C"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "박보검, 구찌|글로벌 앰버서더로",
+      "sub": "셀린느·오메가에 이어"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 본인 계정 'THE NEW CORE' 글귀는 확인 못 해 뺌(11/5 구찌 사진 게시는 확인) · '세 번째 글로벌 앰버서더'는 세어 준 출처가 없어 표지 부제·캡션에서 뺌",
+     "첫 공식 구찌 행사 날짜·장소는 어느 기사에도 없음 — 기획 질문의 '첫 자리'는 못 채워 이력 맥락으로 씀 · 구찌 공식 채널 캠페인 영상을 못 찾아 숏폼 없음 (유튜브 결과는 팬 편집 채널뿐)",
+     "오메가 발탁 시점은 스포츠경향 2025/12/16 기사 기준 (오메가 공식 발표일은 따로 확인 못 함) · 표지 사진은 본인 계정 11/5 구찌 게시물"
+    ],
+    "research": [
+     {
+      "title": "코리아중앙데일리 (11/5) — 구찌 발표 · 박보검 보도자료 발언 · 데므나 2025년부터 구찌 CD · 구찌 행사·프로젝트 참여",
+      "link": "https://www.koreajoongangdaily.com/entertainment/park-bogum-named-gucci-global-brand-ambassador/12958789"
+     },
+     {
+      "title": "숨피 (11/5) — 같은 발표 · 구찌 인스타 스토리에 사진 공개",
+      "link": "https://www.soompi.com/article/1884467wpp/park-bo-gum-named-new-global-brand-ambassador-for-gucci"
+     },
+     {
+      "title": "스포츠경향 영문 (11/5) — 같은 발언 · 2022년 11월 셀린느 글로벌 앰버서더 · 사진 Courtesy of Gucci",
+      "link": "https://sports.khan.co.kr/en/article/202611051734007/"
+     },
+     {
+      "title": "W코리아 (2022/11/24) — 셀린느 글로벌 앰배서더가 된 박보검",
+      "link": "https://www.wkorea.com/?p=216970"
+     },
+     {
+      "title": "스포츠경향 (2025/12/16) — 박보검, 오메가 글로벌 앰버서더 발탁",
+      "link": "https://sports.khan.co.kr/article/202512161752003"
+     },
+     {
+      "title": "박보검 공식 인스타 (11/5) — 'THE NEW CORE #GucciCore #BOGUMxGUCCI'",
+      "link": "https://www.instagram.com/bogummy/"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933336/bsxjfefjplfgrlc1viwo.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933336/rgbkgbrbihzpqgw26z3m.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933336/bsxjfefjplfgrlc1viwo.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-06T11:48+09:00",
+     "v": {
+      "A": "dff0ac62"
+     }
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "어제 발표된 큰 이름의 앰버서더 소식 — 셀린느·오메가에 이은 자리라는 맥락",
+    "at": "2026-11-06T11:48+09:00"
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-11-06T11:50+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:photowall-1106",
+    "account": "기사",
+    "url": "https://www.dailian.co.kr/news/view/1711669/%EC%9E%A5%EC%9B%90%EC%98%81-%EB%B0%B1%ED%99%94%EC%A0%90-%EA%B7%B8-%EC%96%B4%EB%96%A4-%EA%B2%83-%EB%B9%9B%EB%82%9C%EB%8B%A4-2026",
+    "image": null,
+    "head": "로라로라 포토콜, 6일 오전 서울 영등포구 더현대 서울 — 아이브 장원영",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-06T11:48+09:00",
+   "key": "4e775402",
+   "by": "claude",
+   "subjects": [
+    "아이브 장원영",
+    "로라로라"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "아이브 장원영이 11/6 오전 더현대 서울 로라로라 포토콜에 — 포토월의 그 10여 초, 4월 서촌 플래그십 오픈 포토월에 이은 같은 브랜드 자리",
+    "why": "기획안 slot am '오늘의 포토월' · 오늘 오전 행사 · 릴스 위주"
+   },
+   "added": "claude",
+   "added_at": "2026-11-06T11:48+09:00",
+   "corner": "scene",
+   "shorts": {
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=S5dhHHEzsTE\n구간: 0:08-0:22\n곡: 로라로라 포토월\n아티스트: *장원영*,\n피처링:\n후킹: \n출처: 뉴스엔\n자막: 끔",
+    "caption": "아이브(@ivestarship) 장원영(@for_everyoung10)이 오늘 오전 더현대 서울(@thehyundai_seoul)의 로라로라 포토월에 섰습니다.\n\n로라로라가 더현대 서울에서 포토콜을 연 날인데요, 장원영은 지난 4월 이 브랜드의 서촌 플래그십 스토어가 문을 열 때도 포토월에 섰습니다.\n\n일시: 11월 6일(금) 오전\n장소: 서울 영등포구 더현대 서울\n영상: 뉴스엔\n#SENE #장원영 #아이브 #IVE #로라로라 #더현대서울",
+    "hooks": {
+     "A": "*장원영*, / 로라로라 포토월",
+     "B": "더현대 서울에 선 / 아이브 *장원영*",
+     "C": "오늘 오전 / 더현대 서울의 *장원영*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=S5dhHHEzsTE",
+     "credit": "뉴스엔",
+     "range": [
+      8.0,
+      22.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 0:08-0:22 구간은 말 없는 영상이라 자막으로는 장면을 확인 못 함 — 미리보기로 장원영이 또렷이 나오는지 볼 것 · '퍼 재킷'은 마이데일리 제목의 '퍼 텍스처' 한 곳뿐이라 캡션·후킹 C 에서 뺌",
+     "클립 위험: 중간 — 뉴스엔 (매체 채널 · 로라로라 공식 영상은 못 찾음) · 장면 캡처가 안 떠 0:08-0:22 를 직접 못 봤음 — 첫 1초에 장원영이 또렷한지 미리보기로, 아니면 구간을 옮긴다",
+     "'르 캐비넷'·매장인지 팝업인지·운영 기간은 헤럴드뮤즈 한 곳뿐이라 캡션에 안 씀 · 퍼 재킷 브랜드·제품명은 공식 크레딧이 없어 안 씀",
+     "이어지는 소식 — 11-04에 다룬 소재. 새 사실: 11/4 발행은 아이브 그룹의 지스타 PUBG 체험존 소식 — 이번은 장원영 개인이 11/6 오전 더현대 서울 로라로라 포토콜에 선 다른 일",
+     "[작문 P1] 캡션: 첫 문장 89자 → 첫 문장은 한 호흡 — 두 사실을 한 문장에 몰지 않는다 (80자 안)"
+    ],
+    "research": [
+     {
+      "title": "데일리안 (11/6) — 로라로라 포토콜 6일 오전 더현대 서울 · 아이브 장원영",
+      "link": "https://www.dailian.co.kr/news/view/1711669/%EC%9E%A5%EC%9B%90%EC%98%81-%EB%B0%B1%ED%99%94%EC%A0%90-%EA%B7%B8-%EC%96%B4%EB%96%A4-%EA%B2%83-%EB%B9%9B%EB%82%9C%EB%8B%A4-2026"
+     },
+     {
+      "title": "헤럴드뮤즈 (11/6 10:40) — 로라로라 '르 캐비넷' 오픈 기념 포토콜 · 더현대 서울",
+      "link": "https://www.heraldmuse.com/article/10928262"
+     },
+     {
+      "title": "마이데일리 (11/6) — 6일 오전 더현대서울 포토콜 · 퍼 텍스처 윈터룩",
+      "link": "https://www.mydaily.co.kr/page/view/2026110610515006607"
+     },
+     {
+      "title": "일간스포츠 (2026/4/1) — 로라로라 서촌 플래그십 스토어 오픈 기념 포토월 · 장원영",
+      "link": "https://isplus.com/article/view/isp202604010072"
+     },
+     {
+      "title": "뉴스엔 유튜브 — 'JANG WONYOUNG' ROLAROLA 2026.11.06 (254초)",
+      "link": "https://www.youtube.com/watch?v=S5dhHHEzsTE"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/S5dhHHEzsTE/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793933349/ezfwg1c0wncwdvpwfoxy.jpg",
+     "key": "S5dhHHEzsTE@8.0"
+    },
+    "px": {
+     "vid": "S5dhHHEzsTE",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793933406/sene_studio/wsu07cgti2pwjwd2o1f9.mp4",
+     "off": 0.0,
+     "end": 67.0,
+     "full": 253.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-06T11:50+09:00"
+    }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 오전 더현대 서울 포토월 — 지금 가장 뜨거운 케이팝 얼굴, 말 없는 릴스 결",
+    "at": "2026-11-06T11:48+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-11-06T11:50+09:00"
   }
  ],
  "skipped": [],
@@ -778,7 +986,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 4,
+    "drafts": 5,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -937,7 +1145,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 2,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
    },
    {
@@ -1006,10 +1214,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T09:04+09:00"
+  "at": "2026-11-06T11:50+09:00"
  },
  "queue": {
-  "next": "2026-11-06T09:06+09:00",
+  "next": "2026-11-06T11:52+09:00",
   "n": 0,
   "gap": 20
  },
