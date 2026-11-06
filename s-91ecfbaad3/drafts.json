@@ -94,9 +94,11 @@
      "end": 65.0,
      "full": 137.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-07T08:27+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794007744/sene_studio/abq1llofmhfed3du7at3.mp4",
+     "at": "2026-11-07T08:29+09:00",
+     "file": "KaLiNa_HanNamDong_MLB_PoToW_PaeSyeon_no_lyrics.mp4",
+     "v": "18141641"
     }
    },
    "pick": {
@@ -141,13 +143,26 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=rvZqJj1kkMk\n구간: 0:05-0:20\n곡: Hannam MLB Photocall\n아티스트: *Karina*,\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
-      "caption": "aespa's Karina posed at the MLB (@mlbkorea) photo wall in Hannam-dong yesterday.\n\nThe photocall marked the opening of MLB's winter campaign pop-up, 'MLB WINTER CITY: SAVE KARINA.' On the afternoon of Nov 6, Karina, the brand's ambassador, held a photo session at Hyundai Card Vinyl & Plastic.\n\nThe campaign starts from a story about rescuing Karina from 'WINTER CITY,' a fictional city frozen by a cold wave. The pop-up brings that city to life, and the story's heroine came by in person.\n\nDate: Nov 6 (Fri), afternoon\nLocation: Hyundai Card Vinyl & Plastic, Hannam-dong, Yongsan-gu, Seoul\nVideo: iMBC연예\n#SENE #Karina #aespa #MLB #Hannam #SeoulPopup"
+      "caption": "aespa's Karina posed at the MLB (@mlbkorea) photo wall in Hannam-dong yesterday.\n\nThe photocall marked the opening of MLB's winter campaign pop-up, 'MLB WINTER CITY: SAVE KARINA.' On the afternoon of Nov 6, Karina, the brand's ambassador, held a photo session at Hyundai Card Vinyl & Plastic.\n\nThe campaign starts from a story about rescuing Karina from 'WINTER CITY,' a fictional city frozen by a cold wave. The pop-up brings that city to life, and the story's heroine came by in person.\n\nDate: Nov 6 (Fri), afternoon\nLocation: Hyundai Card Vinyl & Plastic, Hannam-dong, Yongsan-gu, Seoul\nVideo: iMBC연예\n#SENE #Karina #aespa #MLB #Hannam #SeoulPopup",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794007819/sene_studio/ugnsrvjr9uike78daqbz.mp4",
+       "at": "2026-11-07T08:30+09:00",
+       "file": "Karina_Hannam_MLB_Photocall_PaeSyeon_no_lyrics.mp4",
+       "sig": "3cdddcffbf",
+       "v": "a16152fe"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=rvZqJj1kkMk\n구간: 0:05-0:20\n곡: 漢南洞MLBイベント\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
-      "caption": "aespaのカリナが昨日、漢南洞（ハンナムドン）でMLB（@mlbkorea）のフォトウォールに立ちました。\n\nMLBが冬のキャンペーン「MLB WINTER CITY: SAVE KARINA」のポップアップをオープンするにあたって設けた場で、11月6日の午後、ブランドアンバサダーのカリナが現代カード（ヒョンデカード）「Vinyl & Plastic」でフォトタイムを行いました。\n\nキャンペーンは、寒波で凍りついた架空の都市「WINTER CITY」の中にいるカリナを救うという物語から始まります。その都市を再現したポップアップに、物語の主人公本人が訪れたことになります。\n\n日時：11月6日（金）午後\n場所：ソウル・龍山区 漢南洞（ハンナムドン） 現代カード「Vinyl & Plastic」\n映像：iMBC연예\n#SENE #カリナ #aespa #MLB #漢南洞 #韓国ポップアップ"
+      "caption": "aespaのカリナが昨日、漢南洞（ハンナムドン）でMLB（@mlbkorea）のフォトウォールに立ちました。\n\nMLBが冬のキャンペーン「MLB WINTER CITY: SAVE KARINA」のポップアップをオープンするにあたって設けた場で、11月6日の午後、ブランドアンバサダーのカリナが現代カード（ヒョンデカード）「Vinyl & Plastic」でフォトタイムを行いました。\n\nキャンペーンは、寒波で凍りついた架空の都市「WINTER CITY」の中にいるカリナを救うという物語から始まります。その都市を再現したポップアップに、物語の主人公本人が訪れたことになります。\n\n日時：11月6日（金）午後\n場所：ソウル・龍山区 漢南洞（ハンナムドン） 現代カード「Vinyl & Plastic」\n映像：iMBC연예\n#SENE #カリナ #aespa #MLB #漢南洞 #韓国ポップアップ",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-07T08:29+09:00",
+       "sig": "ffd5d1ed81",
+       "job": 234
+      }
      }
     }
    }
@@ -398,10 +413,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-07T08:29+09:00"
+  "at": "2026-11-07T08:30+09:00"
  },
  "queue": {
-  "next": "2026-11-07T08:31+09:00",
+  "next": "2026-11-07T08:32+09:00",
   "n": 0,
   "gap": 20
  },
