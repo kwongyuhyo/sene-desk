@@ -1059,13 +1059,26 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=S5dhHHEzsTE\n구간: 0:08-0:22\n곡: ROLAROLA photo wall\n아티스트: *Jang Wonyoung* at the\n피처링:\n후킹: \n출처: Source: Newsen\n자막: 끔",
-      "caption": "Jang Wonyoung (@for_everyoung10) of IVE (@ivestarship) stood at the ROLAROLA photo wall at The Hyundai Seoul (@thehyundai_seoul) this morning.\n\nThe appearance came during ROLAROLA's photocall at The Hyundai Seoul. Jang also stood at the brand's photo wall in April, when ROLAROLA opened its flagship store in Seochon, Seoul.\n\nDate: Fri, Nov 6 (morning)\nLocation: The Hyundai Seoul, Yeongdeungpo-gu, Seoul\nVideo: Newsen\n#SENE #JangWonyoung #Wonyoung #IVE #ROLAROLA #TheHyundaiSeoul"
+      "caption": "Jang Wonyoung (@for_everyoung10) of IVE (@ivestarship) stood at the ROLAROLA photo wall at The Hyundai Seoul (@thehyundai_seoul) this morning.\n\nThe appearance came during ROLAROLA's photocall at The Hyundai Seoul. Jang also stood at the brand's photo wall in April, when ROLAROLA opened its flagship store in Seochon, Seoul.\n\nDate: Fri, Nov 6 (morning)\nLocation: The Hyundai Seoul, Yeongdeungpo-gu, Seoul\nVideo: Newsen\n#SENE #JangWonyoung #Wonyoung #IVE #ROLAROLA #TheHyundaiSeoul",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793933631/sene_studio/ofn1nhfldqyzyytr9m3l.mp4",
+       "at": "2026-11-06T11:53+09:00",
+       "file": "Jang_Wonyoung_at_the_ROLAROLA_photo_wall_PaeSyeon_no_lyrics.mp4",
+       "sig": "5a150fe13d",
+       "v": "90308adb"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=S5dhHHEzsTE\n구간: 0:08-0:22\n곡: ロラローラ撮影会\n아티스트: *チャン・ウォニョン*、\n피처링:\n후킹: \n출처: 出典：Newsen\n자막: 끔",
-      "caption": "IVE（@ivestarship）のチャン・ウォニョン（@for_everyoung10）が、今日の午前、ザ・現代ソウル（The Hyundai Seoul・@thehyundai_seoul）で行われたロラローラ（ROLAROLA）のフォトウォールに登場しました。\n\nロラローラがザ・現代ソウルでフォトコールを開いた日ですが、チャン・ウォニョンは今年4月、このブランドのソウル・西村（ソチョン）のフラッグシップストアがオープンした際にもフォトウォールに立っています。\n\n日時：11月6日（金）午前\n場所：ソウル・永登浦区（ヨンドゥンポク）ザ・現代ソウル\n映像：Newsen\n#SENE #チャンウォニョン #ウォニョン #IVE #ロラローラ #ザ現代ソウル"
+      "caption": "IVE（@ivestarship）のチャン・ウォニョン（@for_everyoung10）が、今日の午前、ザ・現代ソウル（The Hyundai Seoul・@thehyundai_seoul）で行われたロラローラ（ROLAROLA）のフォトウォールに登場しました。\n\nロラローラがザ・現代ソウルでフォトコールを開いた日ですが、チャン・ウォニョンは今年4月、このブランドのソウル・西村（ソチョン）のフラッグシップストアがオープンした際にもフォトウォールに立っています。\n\n日時：11月6日（金）午前\n場所：ソウル・永登浦区（ヨンドゥンポク）ザ・現代ソウル\n映像：Newsen\n#SENE #チャンウォニョン #ウォニョン #IVE #ロラローラ #ザ現代ソウル",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-06T11:52+09:00",
+       "sig": "2a57954e65",
+       "job": 228
+      }
      }
     }
    }
@@ -1316,10 +1329,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T11:52+09:00"
+  "at": "2026-11-06T11:53+09:00"
  },
  "queue": {
-  "next": "2026-11-06T11:54+09:00",
+  "next": "2026-11-06T11:55+09:00",
   "n": 0,
   "gap": 20
  },
