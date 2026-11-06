@@ -1299,6 +1299,12 @@
      "at": "2026-11-06T17:51+09:00",
      "file": "Saeng_LoLang_Fall_26_Geu_PilLeum_Sog_LoJe_PaeSyeon_no_lyrics.mp4",
      "v": "48212af3"
+    },
+    "published": {
+     "permalink": "https://www.instagram.com/reel/DfZdrlwnGk9/",
+     "at": "2026-11-06T20:08+09:00",
+     "account": "sene",
+     "via": "api"
     }
    },
    "pick": {
@@ -1369,6 +1375,12 @@
        "file": "Fall_26_film_starring_Rose_PaeSyeon_no_lyrics.mp4",
        "sig": "c7fce7e95b",
        "v": "17e12425"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfZdvL9AY8p/",
+       "at": "2026-11-06T20:09+09:00",
+       "account": "sene_en",
+       "via": "api"
       }
      }
     },
@@ -1407,6 +1419,12 @@
        "file": "Fall_26_fuirumunoroze_PaeSyeon_no_lyrics.mp4",
        "sig": "2858bde633",
        "v": "155c02a0"
+      },
+      "published": {
+       "permalink": "https://www.instagram.com/reel/DfZd0HWkqF2/",
+       "at": "2026-11-06T20:09+09:00",
+       "account": "sene_ja",
+       "via": "api"
       }
      }
     }
@@ -1658,10 +1676,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T20:08+09:00"
+  "at": "2026-11-06T20:09+09:00"
  },
  "queue": {
-  "next": "2026-11-06T20:26+09:00",
+  "next": "2026-11-06T20:28+09:00",
   "n": 0,
   "gap": 20
  },
