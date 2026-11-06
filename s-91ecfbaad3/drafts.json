@@ -105,7 +105,52 @@
     "at": "2026-11-07T08:26+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-07T08:27+09:00"
+   "i18n_queued": "2026-11-07T08:27+09:00",
+   "i18n": {
+    "at": "2026-11-07T08:29+09:00",
+    "confirm": [
+     "현대카드 바이닐앤플라스틱 공식 표기 — 검색으로 확인 못 함. 영어 'Hyundai Card Vinyl & Plastic', 일본어 「現代カード（ヒョンデカード）「Vinyl & Plastic」」로 씀",
+     "카리나 일본어 표기 'カリナ' — 공식 일본어 표기 검색으로 확인 못 함",
+     "캠페인명 'MLB WINTER CITY: SAVE KARINA' — 웹 검색으로 확인 못 함. 원문 표기 그대로 둠",
+     "곡 칸 '한남동 MLB 포토월' — 일본어는 11자에 맞추려고 '漢南洞MLBフォトコール'(포토콜)로 줄임",
+     "영어·일본어 · 출처 칸과 '영상' 줄 · 'iMBC연예' 에 한글이 남아 있음 — 매체 이름은 그대로 둔다는 규칙대로 두었지만, 해외 계정에서는 'iMBC Entertainment' 로 바꿀지 사람이 정해야 함",
+     "영어·일본어 · 숏폼 캡션 · 'yesterday / 昨日' — 11월 7일에 올릴 때만 맞음. 올리는 날이 바뀌면 'on Nov 6 / 11月6日' 로 고쳐야 함",
+     "일본어 · 곡 칸 · 'イベント' 로 줄이면서 포토월이라는 뜻이 흐려짐 — 글자 수를 넘기더라도 'フォトコール' 을 살릴지 확인 필요",
+     "영어판 출처에 한글이 남음",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-07T08:29+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 첫 문장 · stepped onto the MLB photo wall → posed at the MLB photo wall — 포토월(배경판) 위에 올라선 것처럼 읽힘",
+      "영어 · 숏폼 캡션 둘째 단락 · MLB set up the moment to open its winter campaign pop-up → The photocall marked the opening of MLB's winter campaign pop-up — '~는데요' 를 그대로 옮긴 직역투",
+      "일본어 · 곡 칸 · 漢南洞MLBフォトコール(12자) → 漢南洞MLBイベント(10자) — 한 줄 11자 넘음"
+     ],
+     "doubt": [
+      "영어·일본어 · 출처 칸과 '영상' 줄 · 'iMBC연예' 에 한글이 남아 있음 — 매체 이름은 그대로 둔다는 규칙대로 두었지만, 해외 계정에서는 'iMBC Entertainment' 로 바꿀지 사람이 정해야 함",
+      "영어·일본어 · 숏폼 캡션 · 'yesterday / 昨日' — 11월 7일에 올릴 때만 맞음. 올리는 날이 바뀌면 'on Nov 6 / 11月6日' 로 고쳐야 함",
+      "일본어 · 곡 칸 · 'イベント' 로 줄이면서 포토월이라는 뜻이 흐려짐 — 글자 수를 넘기더라도 'フォトコール' 을 살릴지 확인 필요",
+      "영어판 출처에 한글이 남음",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=rvZqJj1kkMk\n구간: 0:05-0:20\n곡: Hannam MLB Photocall\n아티스트: *Karina*,\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
+      "caption": "aespa's Karina posed at the MLB (@mlbkorea) photo wall in Hannam-dong yesterday.\n\nThe photocall marked the opening of MLB's winter campaign pop-up, 'MLB WINTER CITY: SAVE KARINA.' On the afternoon of Nov 6, Karina, the brand's ambassador, held a photo session at Hyundai Card Vinyl & Plastic.\n\nThe campaign starts from a story about rescuing Karina from 'WINTER CITY,' a fictional city frozen by a cold wave. The pop-up brings that city to life, and the story's heroine came by in person.\n\nDate: Nov 6 (Fri), afternoon\nLocation: Hyundai Card Vinyl & Plastic, Hannam-dong, Yongsan-gu, Seoul\nVideo: iMBC연예\n#SENE #Karina #aespa #MLB #Hannam #SeoulPopup"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=rvZqJj1kkMk\n구간: 0:05-0:20\n곡: 漢南洞MLBイベント\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
+      "caption": "aespaのカリナが昨日、漢南洞（ハンナムドン）でMLB（@mlbkorea）のフォトウォールに立ちました。\n\nMLBが冬のキャンペーン「MLB WINTER CITY: SAVE KARINA」のポップアップをオープンするにあたって設けた場で、11月6日の午後、ブランドアンバサダーのカリナが現代カード（ヒョンデカード）「Vinyl & Plastic」でフォトタイムを行いました。\n\nキャンペーンは、寒波で凍りついた架空の都市「WINTER CITY」の中にいるカリナを救うという物語から始まります。その都市を再現したポップアップに、物語の主人公本人が訪れたことになります。\n\n日時：11月6日（金）午後\n場所：ソウル・龍山区 漢南洞（ハンナムドン） 現代カード「Vinyl & Plastic」\n映像：iMBC연예\n#SENE #カリナ #aespa #MLB #漢南洞 #韓国ポップアップ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -353,10 +398,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-07T08:27+09:00"
+  "at": "2026-11-07T08:29+09:00"
  },
  "queue": {
-  "next": "2026-11-07T08:29+09:00",
+  "next": "2026-11-07T08:31+09:00",
   "n": 0,
   "gap": 20
  },
