@@ -157,11 +157,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=rvZqJj1kkMk\n구간: 0:05-0:20\n곡: 漢南洞MLBイベント\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
       "caption": "aespaのカリナが昨日、漢南洞（ハンナムドン）でMLB（@mlbkorea）のフォトウォールに立ちました。\n\nMLBが冬のキャンペーン「MLB WINTER CITY: SAVE KARINA」のポップアップをオープンするにあたって設けた場で、11月6日の午後、ブランドアンバサダーのカリナが現代カード（ヒョンデカード）「Vinyl & Plastic」でフォトタイムを行いました。\n\nキャンペーンは、寒波で凍りついた架空の都市「WINTER CITY」の中にいるカリナを救うという物語から始まります。その都市を再現したポップアップに、物語の主人公本人が訪れたことになります。\n\n日時：11月6日（金）午後\n場所：ソウル・龍山区 漢南洞（ハンナムドン） 現代カード「Vinyl & Plastic」\n映像：iMBC연예\n#SENE #カリナ #aespa #MLB #漢南洞 #韓国ポップアップ",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-07T08:29+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794007892/sene_studio/alircio5jzwektrfgird.mp4",
+       "at": "2026-11-07T08:31+09:00",
+       "file": "karina_HanNanDongMLBibento_PaeSyeon_no_lyrics.mp4",
        "sig": "ffd5d1ed81",
-       "job": 234
+       "v": "22362dbd"
       }
      }
     }
@@ -413,10 +414,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-07T08:30+09:00"
+  "at": "2026-11-07T08:31+09:00"
  },
  "queue": {
-  "next": "2026-11-07T08:32+09:00",
+  "next": "2026-11-07T08:33+09:00",
   "n": 0,
   "gap": 20
  },
