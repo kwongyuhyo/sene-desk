@@ -149,8 +149,8 @@
    },
    "pick": {
     "rank": 2,
-    "why": "어제 저녁 나온 케이팝 큰 공식 발표 — 팬이 저장해 둘 정해진 것·안 정해진 것",
-    "at": "2026-11-06T11:48+09:00"
+    "why": "스트레이 키즈 첫 입대 공지 — 팬이 저장하고 공유할 정보형 소식",
+    "at": "2026-11-06T17:49+09:00"
    }
   },
   {
@@ -859,11 +859,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 3,
-    "why": "어제 발표된 큰 이름의 앰버서더 소식 — 셀린느·오메가에 이은 자리라는 맥락",
-    "at": "2026-11-06T11:48+09:00"
-   },
    "corner_name": "소식",
    "i18n_queued": "2026-11-06T11:50+09:00",
    "i18n": {
@@ -1020,11 +1015,6 @@
      "v": "182f0b60"
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "오늘 오전 더현대 서울 포토월 — 지금 가장 뜨거운 케이팝 얼굴, 말 없는 릴스 결",
-    "at": "2026-11-06T11:48+09:00"
-   },
    "corner_name": "현장",
    "i18n_queued": "2026-11-06T11:50+09:00",
    "i18n": {
@@ -1082,7 +1072,215 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 오전 더현대 장원영 포토콜 — 말 없는 릴스, 금요일 저녁 가장 뜨거운 케이팝 그림",
+    "at": "2026-11-06T17:49+09:00"
    }
+  },
+  {
+   "source": {
+    "id": "claude:rose-cfda-vaccarello",
+    "account": "W 매거진 · 로제 공식 인스타(11/3)",
+    "url": "https://www.wmagazine.com/fashion/anthony-vaccarello-cfda-awards-hailey-bieber-zoe-kravitz-rose",
+    "image": null,
+    "head": "CFDA 2026 — 바카렐로 올해의 국제 디자이너상, 로제·조 크라비츠·헤일리 비버 골드 SS27",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-06T17:49+09:00",
+   "key": "549e060c",
+   "by": "claude",
+   "subjects": [
+    "블랙핑크 로제",
+    "생 로랑"
+   ],
+   "lane": "정리",
+   "editor": {
+    "grade": "A",
+    "kind": "정리",
+    "angle": "[실험] 해외 소식 · 모으기 — 바카렐로가 생 로랑을 떠나는 시점에, 로제가 그와 함께 선 공식 자리를 날짜순으로",
+    "why": "11/2 CFDA 로제 본인 게시물 좋아요 215만 · 보그코리아 게시물 반응 12.9배 · 케어링 10/9 바카렐로 퇴임 공식 확인 — 한 시대가 닫히는 자리를 로제 쪽에서 모은다"
+   },
+   "added": "claude",
+   "added_at": "2026-11-06T17:49+09:00",
+   "corner": "dissect",
+   "card": {
+    "form": "[카테고리]\n패션\n\n[캡션]\n블랙핑크 로제(@roses_are_rosie)가 11월 2일 뉴욕 CFDA 패션 어워드에 금빛 생 로랑(@ysl)을 입고 섰습니다.\n\n이날 '올해의 국제 디자이너상'은 생 로랑에서 10년을 보낸 안토니 바카렐로에게 돌아갔는데요, 케어링은 10월 9일 그가 생 로랑을 떠난다고 공식 확인했습니다. 2020년 로제를 글로벌 앰버서더로 세운 사람도 바카렐로입니다.\n\n2021년 첫 멧 갈라에서 그와 레드카펫을 함께 걸었고, 9월 파리 트로카데로에서 열린 그의 마지막 생 로랑 쇼에서는 앞줄에 앉았습니다. 두 사람이 함께한 공식 자리를 날짜순으로 모았습니다.\n\n#SENE #로제 #생로랑 #안토니바카렐로 #CFDA\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954959/oefdmiovjsfnq9fyeh00.jpg\n제목: 로제가 함께한|바카렐로의 10년\n부제: 11월 2일 CFDA까지, 생 로랑의 자리를 날짜순으로\n출처: @roses_are_rosie\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954963/mrkiygayg6wqxz7bld7k.jpg\n소제목: 2020\n본문: 안토니 바카렐로가 로제를 생 로랑 글로벌 앰버서더로 세웁니다.\n출처: @roses_are_rosie\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1793954974/sene_studio/l9rha1gcvibawoecixrb.mp4\n소제목: \n본문: \n출처: Saint Laurent\n\n[슬라이드]\n소스: \n소제목: 2021년 9월 · 뉴욕 멧 갈라\n본문: 첫 멧 갈라. 생 로랑을 입고 바카렐로와 레드카펫을 함께 걸었습니다.\n출처: \n\n[슬라이드]\n소스: \n소제목: 2025년 5월 · 뉴욕 멧 갈라\n본문: 4년 만의 멧 갈라. 바카렐로가 디자인한 생 로랑 블랙 턱시도였습니다.\n출처: \n\n[슬라이드]\n소스: \n소제목: 2026년 9월 29일 · 파리 트로카데로\n본문: 생 로랑 2027 봄·여름 쇼 앞줄. 바카렐로의 마지막 생 로랑 쇼가 됐습니다.\n출처: \n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1793954980/akasmjnbtevzkbky5kcq.jpg\n소제목: 2026년 10월 17일 · LA 아카데미 뮤지엄 갈라\n본문: 생 로랑 블랙 드레스로 선 자리.\n출처: @roses_are_rosie\n\n[슬라이드]\n소스: \n소제목: 2026년 11월 2일 · 뉴욕 CFDA\n본문: 바카렐로가 올해의 국제 디자이너상을 받은 밤. 로제는 금빛 2027 봄·여름 룩이었습니다.\n출처:\n",
+    "caption": "블랙핑크 로제(@roses_are_rosie)가 11월 2일 뉴욕 CFDA 패션 어워드에 금빛 생 로랑(@ysl)을 입고 섰습니다.\n\n이날 '올해의 국제 디자이너상'은 생 로랑에서 10년을 보낸 안토니 바카렐로에게 돌아갔는데요, 케어링은 10월 9일 그가 생 로랑을 떠난다고 공식 확인했습니다. 2020년 로제를 글로벌 앰버서더로 세운 사람도 바카렐로입니다.\n\n2021년 첫 멧 갈라에서 그와 레드카펫을 함께 걸었고, 9월 파리 트로카데로에서 열린 그의 마지막 생 로랑 쇼에서는 앞줄에 앉았습니다. 두 사람이 함께한 공식 자리를 날짜순으로 모았습니다.\n\n#SENE #로제 #생로랑 #안토니바카렐로 #CFDA",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954959/oefdmiovjsfnq9fyeh00.jpg",
+      "credit": "@roses_are_rosie",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/884984538_18370625941268751_5155702358857547248_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SDQXYkLxPlsQ7kNvwEjPMhl&_nc_oc=AdrhcMACWEqOo_fHQgD70U9L0lXsgm7XQGbBblOhyaAMNRXY6p-uwyhQ7gcPhgz2drQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wZR2Ihe-PLh2eZrTkttmUg&oh=00_AQS2AkRfV7a-Yx7a2RUnCAsDMGmmeSFu0Qbk1z7R0jHPmA&oe=6AF36D0B"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954963/mrkiygayg6wqxz7bld7k.jpg",
+      "credit": "@roses_are_rosie",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/828626988_18365419501268751_7196287743718000868_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eP2HQDZ7ugYQ7kNvwGHdBsN&_nc_oc=AdrTNxqMyHTnMDKZWY60XiHkHR67VohMz8y4ZOj53Z-8ZkMGBXdjsHN7xi0ePKLZTBU&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wZR2Ihe-PLh2eZrTkttmUg&oh=00_AQRkISUSnn5Pm_jog0LIsPAWcv6jkfjcIm7-Yrso6AIEjQ&oe=6AF354CE"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954959/oefdmiovjsfnq9fyeh00.jpg",
+      "credit": "@roses_are_rosie",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/884984538_18370625941268751_5155702358857547248_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=SDQXYkLxPlsQ7kNvwEjPMhl&_nc_oc=AdrhcMACWEqOo_fHQgD70U9L0lXsgm7XQGbBblOhyaAMNRXY6p-uwyhQ7gcPhgz2drQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wZR2Ihe-PLh2eZrTkttmUg&oh=00_AQS2AkRfV7a-Yx7a2RUnCAsDMGmmeSFu0Qbk1z7R0jHPmA&oe=6AF36D0B"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954963/mrkiygayg6wqxz7bld7k.jpg",
+      "credit": "@roses_are_rosie",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/828626988_18365419501268751_7196287743718000868_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=eP2HQDZ7ugYQ7kNvwGHdBsN&_nc_oc=AdrTNxqMyHTnMDKZWY60XiHkHR67VohMz8y4ZOj53Z-8ZkMGBXdjsHN7xi0ePKLZTBU&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=wZR2Ihe-PLh2eZrTkttmUg&oh=00_AQRkISUSnn5Pm_jog0LIsPAWcv6jkfjcIm7-Yrso6AIEjQ&oe=6AF354CE"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "로제가 함께한|바카렐로의 10년",
+      "sub": "11월 2일 CFDA까지, 생 로랑의 자리를 날짜순으로"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 사실(날짜·장소·수상·케어링 10/9 확인·2020 앰버서더·2021/2025 멧 갈라·9/29 트로카데로·10/17 갈라)은 원문과 맞음 · 미리보기가 3장째 mp4에서 멈춰 03장 이후 사진은 못 봄 — 앱에서 확인 · 01 「2020」 장 사진은 2020년 사진이 아니니 바꾸거나 사진 없이 · 숏폼 원본에 자막이 없어 후킹은 영상 설명으로만 씀 (A 후킹은 '겨울'을 빼고 고침)",
+     "로제가 CFDA 에서 바카렐로에게 상을 건넨 시상자였다는 건 W 한 곳에서만 확인해 캡션에서 뺐습니다 — 두 번째 출처가 나오면 셋째 단락에 한 줄 더할 수 있음",
+     "미리보기 사본이 3장째(생 로랑 필름 자동 장면, mp4)에서 멈춰 3장 이후를 눈으로 못 봄 — 앱에서 장 순서·사진 확인 · 2020 장 사진은 2026년 9월 사진이 돌려 쓰임",
+     "아카데미 뮤지엄 갈라 드레스 묘사가 매체마다 달라(시스루·리본 / 스트랩리스·슬릿) '블랙 드레스' 로만 적음",
+     "사진이 모자라 4장(3, 4, 5, 7번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "W — Vaccarello CFDA, Rosé·Kravitz·Bieber (11/3)",
+      "link": "https://www.wmagazine.com/fashion/anthony-vaccarello-cfda-awards-hailey-bieber-zoe-kravitz-rose"
+     },
+     {
+      "title": "보그코리아 — 골든 걸 로제 (11/3, 11월 2일 뉴욕 자연사박물관)",
+      "link": "https://www.vogue.co.kr/2026/11/03/%ea%b3%a8%eb%93%a0-%ea%b1%b8-%eb%a1%9c%ec%a0%9c/"
+     },
+     {
+      "title": "Hypebae — CFDA best dressed (자연사박물관, 바카렐로 수상)",
+      "link": "https://hypebae.com/kr/2026/11/best-dressed-celebrities-cfda-awards-saint-laurent-rose-zoe-kravitz-hailey-bieber-nara-smith-laufey-becky-g"
+     },
+     {
+      "title": "Dazed — CFDA red carpet, 'outgoing creative director'",
+      "link": "https://www.dazeddigital.com/fashion/article/71284/1/cfda-awards-2026-red-carpet-best-dressed-celebrities-saint-laurent"
+     },
+     {
+      "title": "The National (AFP) — Vaccarello exits Saint Laurent (10/9)",
+      "link": "https://www.thenationalnews.com/lifestyle/fashion-beauty/2026/10/09/anthony-vaccarello-exits-saint-laurent-after-a-decade/"
+     },
+     {
+      "title": "The Star — Vaccarello exits Saint Laurent (10/9)",
+      "link": "https://www.thestar.com.my/lifestyle/style/2026/10/09/fashion-designer-anthony-vaccarello-exits-saint-laurent-after-decade-of-success"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954996/t02ijsn6tysrbiri3tqo.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954996/pxdfqkcal7s0vnpr9wst.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954998/s9dt1dgzbcm0q8p9tdyl.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954995/gvhaisfladxkbnbcwz4s.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954997/nnsoiglxcfth8rqb4xen.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954997/g2tpuwcbcskuberzirrt.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954998/qllkj3kdao4o71kyqk4j.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954998/wwwesw7uzagp3kzsfkiu.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954999/szzmjceheijad8ryj1ee.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793954996/t02ijsn6tysrbiri3tqo.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-06T17:49+09:00",
+     "videos": {
+      "2": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793954997/sene_studio/bmvk5hvw9wucq3am8wms.mp4"
+     },
+     "v": {
+      "A": "6f278bcf"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=A6JIXfTTo3I\n구간: 0:01-0:20\n곡: 그 필름 속 *로제*\n아티스트: 생 로랑 Fall 26\n피처링:\n후킹: 바카렐로가 만든\n출처: Saint Laurent\n자막: 끔",
+    "caption": "블랙핑크 로제(@roses_are_rosie)가 나온 생 로랑(@ysl) 'FALL 26' 캠페인 필름입니다.\n\n생 로랑 공식 채널이 올린 영상인데요, 로제와 함께 코너 스토리, 리우 원이 나옵니다. 컬렉션은 10년간 생 로랑을 이끈 안토니 바카렐로의 것으로, 케어링은 10월 9일 그가 생 로랑을 떠난다고 공식 확인했습니다.\n\n로제는 11월 2일 뉴욕 CFDA 패션 어워드에서도 바카렐로의 금빛 생 로랑을 입었습니다. 그날 바카렐로는 올해의 국제 디자이너상을 받았습니다.\n\n#SENE #로제 #생로랑 #안토니바카렐로 #캠페인필름",
+    "hooks": {
+     "A": "바카렐로가 만든 / 생 로랑 Fall 26 / 그 필름 속 *로제*",
+     "B": "바카렐로의 생 로랑 / 그리고 *로제*",
+     "C": "*로제*가 입은 / 생 로랑 Fall 26"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=A6JIXfTTo3I",
+     "credit": "Saint Laurent",
+     "range": [
+      1.0,
+      20.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 사실(날짜·장소·수상·케어링 10/9 확인·2020 앰버서더·2021/2025 멧 갈라·9/29 트로카데로·10/17 갈라)은 원문과 맞음 · 미리보기가 3장째 mp4에서 멈춰 03장 이후 사진은 못 봄 — 앱에서 확인 · 01 「2020」 장 사진은 2020년 사진이 아니니 바꾸거나 사진 없이 · 숏폼 원본에 자막이 없어 후킹은 영상 설명으로만 씀 (A 후킹은 '겨울'을 빼고 고침)",
+     "로제가 CFDA 에서 바카렐로에게 상을 건넨 시상자였다는 건 W 한 곳에서만 확인해 캡션에서 뺐습니다 — 두 번째 출처가 나오면 셋째 단락에 한 줄 더할 수 있음",
+     "미리보기 사본이 3장째(생 로랑 필름 자동 장면, mp4)에서 멈춰 3장 이후를 눈으로 못 봄 — 앱에서 장 순서·사진 확인 · 2020 장 사진은 2026년 9월 사진이 돌려 쓰임",
+     "아카데미 뮤지엄 갈라 드레스 묘사가 매체마다 달라(시스루·리본 / 스트랩리스·슬릿) '블랙 드레스' 로만 적음"
+    ],
+    "research": [
+     {
+      "title": "W — Vaccarello CFDA, Rosé·Kravitz·Bieber (11/3)",
+      "link": "https://www.wmagazine.com/fashion/anthony-vaccarello-cfda-awards-hailey-bieber-zoe-kravitz-rose"
+     },
+     {
+      "title": "보그코리아 — 골든 걸 로제 (11/3, 11월 2일 뉴욕 자연사박물관)",
+      "link": "https://www.vogue.co.kr/2026/11/03/%ea%b3%a8%eb%93%a0-%ea%b1%b8-%eb%a1%9c%ec%a0%9c/"
+     },
+     {
+      "title": "Hypebae — CFDA best dressed (자연사박물관, 바카렐로 수상)",
+      "link": "https://hypebae.com/kr/2026/11/best-dressed-celebrities-cfda-awards-saint-laurent-rose-zoe-kravitz-hailey-bieber-nara-smith-laufey-becky-g"
+     },
+     {
+      "title": "Dazed — CFDA red carpet, 'outgoing creative director'",
+      "link": "https://www.dazeddigital.com/fashion/article/71284/1/cfda-awards-2026-red-carpet-best-dressed-celebrities-saint-laurent"
+     },
+     {
+      "title": "The National (AFP) — Vaccarello exits Saint Laurent (10/9)",
+      "link": "https://www.thenationalnews.com/lifestyle/fashion-beauty/2026/10/09/anthony-vaccarello-exits-saint-laurent-after-a-decade/"
+     },
+     {
+      "title": "The Star — Vaccarello exits Saint Laurent (10/9)",
+      "link": "https://www.thestar.com.my/lifestyle/style/2026/10/09/fashion-designer-anthony-vaccarello-exits-saint-laurent-after-decade-of-success"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/A6JIXfTTo3I/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1793955003/mypsa8qnucbu9dokoj7a.jpg",
+     "key": "A6JIXfTTo3I@1.0"
+    },
+    "px": {
+     "vid": "A6JIXfTTo3I",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793955014/sene_studio/fhhxgzi73awoumga3udl.mp4",
+     "off": 0.0,
+     "end": 21.0,
+     "full": 21.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-06T17:50+09:00"
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "로제 CFDA 게시물 반응이 큰 주 — 바카렐로 10년을 로제 쪽에서 날짜순으로 모은 건 SENE 만의 각도, 공식 필름 릴스 포함",
+    "at": "2026-11-06T17:49+09:00"
+   },
+   "corner_name": "왜 지금",
+   "corner_no": 1,
+   "i18n_queued": "2026-11-06T17:50+09:00"
   }
  ],
  "skipped": [],
@@ -1287,7 +1485,7 @@
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "해부형 — 한 브랜드·공간·유행이 왜 지금인가. 장 붙은 캐러셀"
    },
    {
@@ -1330,10 +1528,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T11:54+09:00"
+  "at": "2026-11-06T17:50+09:00"
  },
  "queue": {
-  "next": "2026-11-06T11:56+09:00",
+  "next": "2026-11-06T17:52+09:00",
   "n": 0,
   "gap": 20
  },
