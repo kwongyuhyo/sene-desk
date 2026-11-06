@@ -1338,7 +1338,14 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=A6JIXfTTo3I\n구간: 0:01-0:20\n곡: starring *Rosé*\n아티스트: Fall 26 film,\n피처링:\n후킹: Vaccarello's\n출처: Saint Laurent\n자막: 끔",
-      "caption": "This is Saint Laurent's (@ysl) 'FALL 26' campaign film featuring BLACKPINK's Rosé (@roses_are_rosie).\n\nPosted on Saint Laurent's official channel, the film also features Connor Storrie and Liu Wen. The collection is by Anthony Vaccarello, who led Saint Laurent for 10 years; on Oct 9, Kering officially confirmed his departure from the house.\n\nAt the CFDA Fashion Awards in New York on Nov 2, Rosé again wore gold Saint Laurent by Vaccarello. That night, he received International Designer of the Year.\n\n#SENE #Rosé #SaintLaurent #AnthonyVaccarello #CampaignFilm"
+      "caption": "This is Saint Laurent's (@ysl) 'FALL 26' campaign film featuring BLACKPINK's Rosé (@roses_are_rosie).\n\nPosted on Saint Laurent's official channel, the film also features Connor Storrie and Liu Wen. The collection is by Anthony Vaccarello, who led Saint Laurent for 10 years; on Oct 9, Kering officially confirmed his departure from the house.\n\nAt the CFDA Fashion Awards in New York on Nov 2, Rosé again wore gold Saint Laurent by Vaccarello. That night, he received International Designer of the Year.\n\n#SENE #Rosé #SaintLaurent #AnthonyVaccarello #CampaignFilm",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793955218/sene_studio/rxzchc8843vjzxwrtjju.mp4",
+       "at": "2026-11-06T17:53+09:00",
+       "file": "Fall_26_film_starring_Rose_PaeSyeon_no_lyrics.mp4",
+       "sig": "c7fce7e95b",
+       "v": "17e12425"
+      }
      }
     },
     "ja": {
@@ -1369,7 +1376,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=A6JIXfTTo3I\n구간: 0:01-0:20\n곡: フィルムの*ロゼ*\n아티스트: Fall 26\n피처링:\n후킹: ヴァカレロが手がけた\n출처: Saint Laurent\n자막: 끔",
-      "caption": "BLACKPINKのロゼ（@roses_are_rosie）が出演したサンローラン（@ysl）「FALL 26」キャンペーンフィルムです。\n\nサンローラン公式チャンネルが公開した映像で、ロゼとともにコナー・ストーリー、リウ・ウェンが登場します。コレクションは10年間サンローランを率いたアンソニー・ヴァカレロによるもので、ケリングは10月9日、彼がサンローランを離れることを正式に認めました。\n\nロゼは11月2日、ニューヨークのCFDAファッション・アワードでもヴァカレロによる金色のサンローランをまといました。その日、ヴァカレロはインターナショナル・デザイナー・オブ・ザ・イヤーを受賞しました。\n\n#SENE #ロゼ #サンローラン #アンソニーヴァカレロ #キャンペーンフィルム"
+      "caption": "BLACKPINKのロゼ（@roses_are_rosie）が出演したサンローラン（@ysl）「FALL 26」キャンペーンフィルムです。\n\nサンローラン公式チャンネルが公開した映像で、ロゼとともにコナー・ストーリー、リウ・ウェンが登場します。コレクションは10年間サンローランを率いたアンソニー・ヴァカレロによるもので、ケリングは10月9日、彼がサンローランを離れることを正式に認めました。\n\nロゼは11月2日、ニューヨークのCFDAファッション・アワードでもヴァカレロによる金色のサンローランをまといました。その日、ヴァカレロはインターナショナル・デザイナー・オブ・ザ・イヤーを受賞しました。\n\n#SENE #ロゼ #サンローラン #アンソニーヴァカレロ #キャンペーンフィルム",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-06T17:52+09:00",
+       "sig": "2858bde633",
+       "job": 231
+      }
      }
     }
    }
@@ -1620,10 +1633,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T17:52+09:00"
+  "at": "2026-11-06T17:53+09:00"
  },
  "queue": {
-  "next": "2026-11-06T17:54+09:00",
+  "next": "2026-11-06T17:55+09:00",
   "n": 0,
   "gap": 20
  },
