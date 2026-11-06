@@ -1073,11 +1073,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=S5dhHHEzsTE\n구간: 0:08-0:22\n곡: ロラローラ撮影会\n아티스트: *チャン・ウォニョン*、\n피처링:\n후킹: \n출처: 出典：Newsen\n자막: 끔",
       "caption": "IVE（@ivestarship）のチャン・ウォニョン（@for_everyoung10）が、今日の午前、ザ・現代ソウル（The Hyundai Seoul・@thehyundai_seoul）で行われたロラローラ（ROLAROLA）のフォトウォールに登場しました。\n\nロラローラがザ・現代ソウルでフォトコールを開いた日ですが、チャン・ウォニョンは今年4月、このブランドのソウル・西村（ソチョン）のフラッグシップストアがオープンした際にもフォトウォールに立っています。\n\n日時：11月6日（金）午前\n場所：ソウル・永登浦区（ヨンドゥンポク）ザ・現代ソウル\n映像：Newsen\n#SENE #チャンウォニョン #ウォニョン #IVE #ロラローラ #ザ現代ソウル",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-06T11:52+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1793933693/sene_studio/ojhh1fwh4ycuse2npxca.mp4",
+       "at": "2026-11-06T11:54+09:00",
+       "file": "chiyan-uoniyon_roraroraCuoYingHui_PaeSyeon_no_lyrics.mp4",
        "sig": "2a57954e65",
-       "job": 228
+       "v": "a345de95"
       }
      }
     }
@@ -1329,10 +1330,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-06T11:53+09:00"
+  "at": "2026-11-06T11:54+09:00"
  },
  "queue": {
-  "next": "2026-11-06T11:55+09:00",
+  "next": "2026-11-06T11:56+09:00",
   "n": 0,
   "gap": 20
  },
