@@ -957,13 +957,26 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=9E64P09-gtM\n구간: 0:03-0:18\n곡: Valentino photocall\n아티스트: *Liz*,\n피처링:\n후킹: \n출처: iMBC Entertainment\n자막: 끔",
-      "caption": "Liz of IVE (@ivestarship) stepped onto the Maison Valentino photo wall in Apgujeong, Seoul, yesterday.\n\nValentino held the evening reception to mark its Cruise 2027 collection presentation. Liz and fellow IVE member Rei became Maison Valentino ambassadors this February.\n\nActress Jung Ryeo-won and producer Code Kunst also attended the Seoul event.\n\nDate: Fri, Nov 6 (afternoon)\nLocation: Hyundai Department Store Apgujeong Main Store, Gangnam-gu, Seoul\nVideo: iMBC Entertainment\n#SENE #IVE #Liz #Valentino #Apgujeong"
+      "caption": "Liz of IVE (@ivestarship) stepped onto the Maison Valentino photo wall in Apgujeong, Seoul, yesterday.\n\nValentino held the evening reception to mark its Cruise 2027 collection presentation. Liz and fellow IVE member Rei became Maison Valentino ambassadors this February.\n\nActress Jung Ryeo-won and producer Code Kunst also attended the Seoul event.\n\nDate: Fri, Nov 6 (afternoon)\nLocation: Hyundai Department Store Apgujeong Main Store, Gangnam-gu, Seoul\nVideo: iMBC Entertainment\n#SENE #IVE #Liz #Valentino #Apgujeong",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794019907/sene_studio/uxeegme3lhfzycuzeeye.mp4",
+       "at": "2026-11-07T11:51+09:00",
+       "file": "Liz_Valentino_photocall_PaeSyeon_no_lyrics.mp4",
+       "sig": "990eb00860",
+       "v": "e65dc426"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=9E64P09-gtM\n구간: 0:03-0:18\n곡: ヴァレンティノに登場\n아티스트: *リズ*、\n피처링:\n후킹: \n출처: iMBC芸能\n자막: 끔",
-      "caption": "IVE（@ivestarship）のリズが昨日、ソウル・狎鴎亭（アックジョン）でメゾン ヴァレンティノのフォトウォールに立ちました。\n\nヴァレンティノが「2027 クルーズ コレクション」のプレゼンテーションを記念して開いた夕方のレセプションです。リズは今年2月、同じグループのレイとともにメゾン ヴァレンティノのアンバサダーに就任しました。\n\nこの日のソウルの会場には、俳優のチョン・リョウォン（정려원）とプロデューサーのコード・クンスト（코드 쿤스트）も姿を見せました。\n\n日時：11月6日（金）午後\n場所：ソウル・江南区 現代百貨店 狎鴎亭本店\n映像：iMBC芸能\n#SENE #IVE #リズ #ヴァレンティノ #韓国ファッション"
+      "caption": "IVE（@ivestarship）のリズが昨日、ソウル・狎鴎亭（アックジョン）でメゾン ヴァレンティノのフォトウォールに立ちました。\n\nヴァレンティノが「2027 クルーズ コレクション」のプレゼンテーションを記念して開いた夕方のレセプションです。リズは今年2月、同じグループのレイとともにメゾン ヴァレンティノのアンバサダーに就任しました。\n\nこの日のソウルの会場には、俳優のチョン・リョウォン（정려원）とプロデューサーのコード・クンスト（코드 쿤스트）も姿を見せました。\n\n日時：11月6日（金）午後\n場所：ソウル・江南区 現代百貨店 狎鴎亭本店\n映像：iMBC芸能\n#SENE #IVE #リズ #ヴァレンティノ #韓国ファッション",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-07T11:50+09:00",
+       "sig": "0b11f6546a",
+       "job": 238
+      }
      }
     }
    }
@@ -1214,10 +1227,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-07T11:50+09:00"
+  "at": "2026-11-07T11:51+09:00"
  },
  "queue": {
-  "next": "2026-11-07T11:52+09:00",
+  "next": "2026-11-07T11:53+09:00",
   "n": 0,
   "gap": 20
  },
