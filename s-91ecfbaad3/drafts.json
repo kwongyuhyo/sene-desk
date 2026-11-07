@@ -757,7 +757,9 @@
      "cvr": 2,
      "at": "2026-11-07T11:47+09:00",
      "v": {
-      "A": "15dd3ca5"
+      "A": "15dd3ca5",
+      "E": "471a462e",
+      "J": "947bcd18"
      }
     }
    },
@@ -768,7 +770,67 @@
    },
    "corner_name": "정리",
    "corner_no": 2,
-   "i18n_queued": "2026-11-07T11:48+09:00"
+   "i18n_queued": "2026-11-07T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-07T11:50+09:00",
+    "confirm": [
+     "라이브 뷰잉 '23개 지역 757개 영화관' 수치는 이번 검색에서 확인되지 않음 — 원문 그대로 옮겼으니 SM·위버스 공지로 다시 확인",
+     "라이브 뷰잉 상영 시각이 지역마다 다를 수 있음 — 영어·일본어판에는 원문대로 '오후 5시 공연'만 적고 KST를 붙였음",
+     "'23개 지역'을 일본어로 「23の国・地域」라고 옮김 — 원문 뜻이 국가·지역 기준이 맞는지 확인",
+     "영어·일본어 · 'Tonight/tomorrow · 今夜/明日 · 本日' 은 11월 7일(토)에 올린다는 전제 — 올리는 날이 다르면 날짜 표기로 바꿔야 함",
+     "일본어 · '23の国・地域' 은 원문 '23개 지역'을 일본식 관용 표현으로 옮긴 것 — 영어판처럼 '23地域'으로 맞출지 확인"
+    ],
+    "review": {
+     "at": "2026-11-07T11:50+09:00",
+     "fixes": [
+      "영어 · 부제 · Two ways left after → Two ways to watch after — 'ways left'가 무엇이 남았는지 모호하게 읽힘 (일본어판 '観覧方法'과도 맞춤)"
+     ],
+     "doubt": [
+      "영어·일본어 · 'Tonight/tomorrow · 今夜/明日 · 本日' 은 11월 7일(토)에 올린다는 전제 — 올리는 날이 다르면 날짜 표기로 바꿔야 함",
+      "일본어 · '23の国・地域' 은 원문 '23개 지역'을 일본식 관용 표현으로 옮긴 것 — 영어판처럼 '23地域'으로 맞출지 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nEXO's Seoul encore continues online tonight and in cinemas tomorrow.\n\n'EXO PLANET #6 - EXhOrizon [dot] -' is the encore of the group's sixth solo tour, which began in April. All three nights at KSPO DOME, running from Nov 6, are sold out.\n\nFans without tickets have two options. The Nov 7 show streams live on Beyond LIVE and Weverse, and the final show on Nov 8 screens as a live viewing at 757 cinemas in 23 regions, including Korea.\n\nVenue: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nOnline: Sat, Nov 7, 6 PM KST · Beyond LIVE · Weverse\nCinemas: Sun, Nov 8, 5 PM KST show · Live viewing\n#SENE #EXO #EXhOrizon #KSPODOME #SeoulConcert\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794019606/dl5vxnlqprqvjd4fvn8y.jpg\n제목: EXO's encore weekend,|online and in theaters\n부제: Two ways to watch after KSPO DOME sells out\n출처: SM Entertainment\n\n[슬라이드]\n소스: \n소제목: Nov 6–8 · KSPO DOME\n본문: All three nights at the venue are sold out.|Fri 7 PM · Sat 6 PM · Sun 5 PM\n출처: \n\n[슬라이드]\n소스: \n소제목: Sat, Nov 7, 6 PM · Online\n본문: Tonight's show streams live on Beyond LIVE and Weverse.\n출처: \n\n[슬라이드]\n소스: \n소제목: Sun, Nov 8, 5 PM · Cinemas\n본문: The final show screens as a live viewing at 757 cinemas in 23 regions, including Korea.\n출처: \n",
+      "caption": "EXO's Seoul encore continues online tonight and in cinemas tomorrow.\n\n'EXO PLANET #6 - EXhOrizon [dot] -' is the encore of the group's sixth solo tour, which began in April. All three nights at KSPO DOME, running from Nov 6, are sold out.\n\nFans without tickets have two options. The Nov 7 show streams live on Beyond LIVE and Weverse, and the final show on Nov 8 screens as a live viewing at 757 cinemas in 23 regions, including Korea.\n\nVenue: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nOnline: Sat, Nov 7, 6 PM KST · Beyond LIVE · Weverse\nCinemas: Sun, Nov 8, 5 PM KST show · Live viewing\n#SENE #EXO #EXhOrizon #KSPODOME #SeoulConcert",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019814/bubp9vf2eqvampnisadz.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019813/wabbafxqxdgoroynqe7k.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019813/hzfj40fmisg0ny5fqx3n.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019813/jwmmgawd1lrjbglq0tix.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019814/hhwin9lyabsjh87ovidv.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019814/bubp9vf2eqvampnisadz.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-07T11:50+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nEXOのソウル・アンコール公演が、今夜はオンラインで、明日は映画館へと続きます。\n\n『EXO PLANET #6 - EXhOrizon [dot] -』は、今年4月に始まった6回目の単独ツアーのアンコール公演です。11月6日から3日間行われるKSPO DOME公演は全公演完売しました。\n\nチケットがないファンに残された道は2つです。7日の公演はBeyond LIVEとWeverseで生配信され、最終日の8日の公演は韓国を含む23の国・地域、757の映画館でライブビューイング上映されます。\n\n会場：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\nオンライン：11月7日（土）午後6時（韓国時間）・Beyond LIVE・Weverse\n映画館：11月8日（日）午後5時公演・ライブビューイング\n#SENE #EXO #エクソ #EXhOrizon #韓国コンサート\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794019606/dl5vxnlqprqvjd4fvn8y.jpg\n제목: EXOアンコール週末、|オンラインと映画館でも\n부제: KSPO DOME完売後の2つの観覧方法\n출처: SM Entertainment\n\n[슬라이드]\n소스: \n소제목: 11月6〜8日・KSPO DOME\n본문: 会場での3日間は全公演完売です。|金 午後7時・土 午後6時・日 午後5時\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月7日（土）午後6時・オンライン\n본문: 本日の公演はBeyond LIVEとWeverseで生配信されます。\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月8日（日）午後5時・映画館\n본문: 最終日の公演は韓国を含む23の国・地域、757の映画館でライブビューイング上映されます。\n출처: \n",
+      "caption": "EXOのソウル・アンコール公演が、今夜はオンラインで、明日は映画館へと続きます。\n\n『EXO PLANET #6 - EXhOrizon [dot] -』は、今年4月に始まった6回目の単独ツアーのアンコール公演です。11月6日から3日間行われるKSPO DOME公演は全公演完売しました。\n\nチケットがないファンに残された道は2つです。7日の公演はBeyond LIVEとWeverseで生配信され、最終日の8日の公演は韓国を含む23の国・地域、757の映画館でライブビューイング上映されます。\n\n会場：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\nオンライン：11月7日（土）午後6時（韓国時間）・Beyond LIVE・Weverse\n映画館：11月8日（日）午後5時公演・ライブビューイング\n#SENE #EXO #エクソ #EXhOrizon #韓国コンサート",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019818/zvkqsothhmsjf4ow7nlj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019818/mxvudapsp6tjarnm0e5v.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019818/aw2dgvbjbuh8uhg8hfhe.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019818/d6zdd1lhyaof9yq2thrk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019819/usz9i6kn9cqt7kzk2tok.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794019818/zvkqsothhmsjf4ow7nlj.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-07T11:50+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -858,9 +920,11 @@
      "end": 63.0,
      "full": 142.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-07T11:48+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794019783/sene_studio/wz9eatbmv7lf5wkhequi.mp4",
+     "at": "2026-11-07T11:49+09:00",
+     "file": "LiJeu_BalLenTiNo_PoToWol_PaeSyeon_no_lyrics.mp4",
+     "v": "b3c90411"
     }
    },
    "pick": {
@@ -1150,10 +1214,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-07T11:49+09:00"
+  "at": "2026-11-07T11:50+09:00"
  },
  "queue": {
-  "next": "2026-11-07T11:51+09:00",
+  "next": "2026-11-07T11:52+09:00",
   "n": 0,
   "gap": 20
  },
