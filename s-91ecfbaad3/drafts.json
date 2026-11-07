@@ -106,7 +106,9 @@
      "cvr": 2,
      "at": "2026-11-08T08:26+09:00",
      "v": {
-      "A": "9ddc9ded"
+      "A": "9ddc9ded",
+      "E": "dad521e8",
+      "J": "8cecfb36"
      }
     }
    },
@@ -116,7 +118,69 @@
     "at": "2026-11-08T08:26+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-08T08:26+09:00"
+   "i18n_queued": "2026-11-08T08:26+09:00",
+   "i18n": {
+    "at": "2026-11-08T08:27+09:00",
+    "confirm": [
+     "팬미팅 장소: 한 기사(스포츠경향)는 광운대 동해문화예술관 대극장 14시·19시라고 쓰고, 코리아헤럴드는 '서울'이라고만 씁니다. 장소는 아직 공식 출처로 확인하지 못했으니 위버스·예스24 공지로 다시 봐 주세요",
+     "팬미팅 제목 '꽃보다 손영재': 영어 'Son Young-jae Over Flowers'는 기사에 나온 표기입니다. 일본어 공식 표기는 찾지 못해 원어에 「花よりソン・ヨンジェ」를 괄호로 붙였습니다",
+     "팬덤 이름 THE B의 일본어 읽기 「ドビ」는 공식 표기로 확인하지 못했습니다",
+     "광운대 동해문화예술관의 공식 영어·일본어 이름은 확인하지 못해 직역했습니다",
+     "팬미팅 '꽃보다 손영재' 의 공식 영어·일본어 표기를 확인하지 못함 — 공식 공지에 영문·일문 제목이 있으면 그걸로 바꿀 것",
+     "광운대 동해문화예술관의 영문 표기(Donghae Culture & Arts Center)는 공식 표기를 확인하지 못함",
+     "출처 칸 '그리드엔터테인먼트' — 에릭 개인 활동의 현재 소속·주관사가 맞는지 올리기 전에 확인"
+    ],
+    "review": {
+     "at": "2026-11-08T08:27+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'THE BOYZ's Eric, First|Photo Show in Hannam to Nov 13' → 'THE BOYZ's Eric Holds|First Photo Show to Nov 13' — 쉼표 때문에 끊겨 읽히고 둘째 줄이 31자로 너무 김 (Hannam 은 부제 CCCS Hannam 에 남음)",
+      "영어 · 캡션 셋째 단락 · 'The whole week belongs to Eric's schedule.' → 'In effect, the whole week is Eric's.' — 직역투",
+      "영어 · 실용 정보 · 'Artist docent' → 'Docent tour by the artist' — 영어 독자에게 뜻이 불분명",
+      "일본어 · 캡션 둘째 단락 · '開いた初の公式個人展示なのですが、' → '開かれた初の公式個人展示で、' — 한국어 '~는데요' 직역투",
+      "일본어 · 실용 정보 · 'アーティストドーセント' → 'アーティスト本人による作品解説' — 일본 독자에게 'ドーセント' 가 낯섦",
+      "일본어 · 팬미팅 제목 · 『꽃보다 손영재（花よりソン・ヨンジェ）』 → 『花よりソン・ヨンジェ（꽃보다 손영재）』 — 한글이 앞에 남아 있어 규칙대로 일본어 먼저, 원어는 괄호로"
+     ],
+     "doubt": [
+      "팬미팅 '꽃보다 손영재' 의 공식 영어·일본어 표기를 확인하지 못함 — 공식 공지에 영문·일문 제목이 있으면 그걸로 바꿀 것",
+      "광운대 동해문화예술관의 영문 표기(Donghae Culture & Arts Center)는 공식 표기를 확인하지 못함",
+      "출처 칸 '그리드엔터테인먼트' — 에릭 개인 활동의 현재 소속·주관사가 맞는지 올리기 전에 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nTHE BOYZ's Eric holds his first solo photo exhibition in Hannam-dong, Seoul, through Nov 13.\n\nIt is his first official solo exhibition, opened for his fandom THE B. Under the slogans 'ERIC is Energy' and 'Feel the Energy,' the walls carry photos of his everyday life off stage and moments seen through his own eyes.\n\nWhile the exhibition runs, events for raffle-selected fans take place in the same space, and the day after it closes, he holds a solo fan meeting. In effect, the whole week is Eric's.\n\nDates: Nov 7 (Sat) – Nov 13 (Fri)\nLocation: CCCS Hannam 2F, 34 Daesagwan-ro, Yongsan-gu (Hannam-dong), Seoul\nReservations: Naver Booking\nNov 11 (Wed): Docent tour by the artist 18:30 · 19:15 · 20:00 (raffle winners)\nNov 12 (Thu) 19:00: Photo event encore (raffle winners)\nNov 14 (Sat): Fan meeting 'Son Young-jae Over Flowers' · Grand Theater, Donghae Culture & Arts Center, Kwangwoon University · 2 p.m. and 7 p.m.\n#SENE #ERIC #THEBOYZ #Hannam #SeoulExhibition\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794093969/k3uthiedn83fdudwphen.jpg\n제목: THE BOYZ's Eric Holds|First Photo Show to Nov 13\n부제: Baby Pink Letter Exhibition · CCCS Hannam\n출처: Grid Entertainment\n",
+      "caption": "THE BOYZ's Eric holds his first solo photo exhibition in Hannam-dong, Seoul, through Nov 13.\n\nIt is his first official solo exhibition, opened for his fandom THE B. Under the slogans 'ERIC is Energy' and 'Feel the Energy,' the walls carry photos of his everyday life off stage and moments seen through his own eyes.\n\nWhile the exhibition runs, events for raffle-selected fans take place in the same space, and the day after it closes, he holds a solo fan meeting. In effect, the whole week is Eric's.\n\nDates: Nov 7 (Sat) – Nov 13 (Fri)\nLocation: CCCS Hannam 2F, 34 Daesagwan-ro, Yongsan-gu (Hannam-dong), Seoul\nReservations: Naver Booking\nNov 11 (Wed): Docent tour by the artist 18:30 · 19:15 · 20:00 (raffle winners)\nNov 12 (Thu) 19:00: Photo event encore (raffle winners)\nNov 14 (Sat): Fan meeting 'Son Young-jae Over Flowers' · Grand Theater, Donghae Culture & Arts Center, Kwangwoon University · 2 p.m. and 7 p.m.\n#SENE #ERIC #THEBOYZ #Hannam #SeoulExhibition",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794094079/dartyjkycqkvamsz0z0t.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794094079/bmtpqll6ussjsprkupci.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794094079/dartyjkycqkvamsz0z0t.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-08T08:28+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nTHE BOYZのエリック（ERIC）初の個人写真展が、13日までソウル・漢南洞（ハンナムドン）で開かれています。\n\nファンダムTHE B（ドビ）のために開かれた初の公式個人展示で、「ERIC is Energy」「Feel the Energy」をスローガンに、ステージの外の日常とエリック自身の視線が収められた写真が並びます。\n\n会期中は同じ会場で抽選に当たったファン向けのイベントが続き、展示が終わった翌日には単独ファンミーティングが開かれます。一週間まるごとエリックのスケジュールというわけです。\n\n期間：11月7日（土）〜11月13日（金）\n場所：ソウル・龍山区（ヨンサング）大使館路（テサグァンノ）34 CCCS Hannam 2階\n予約：NAVER予約\n11月11日（水）：アーティスト本人による作品解説 18:30・19:15・20:00（抽選当選者）\n11月12日（木）19:00：フォトイベント アンコール（抽選当選者）\n11月14日（土）：ファンミーティング『花よりソン・ヨンジェ（꽃보다 손영재）』・光云大学校 東海文化芸術館 大劇場 14時・19時\n#SENE #ERIC #THEBOYZ #韓国旅行 #漢南洞\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794093969/k3uthiedn83fdudwphen.jpg\n제목: THE BOYZ エリック|初写真展、13日まで漢南洞\n부제: Baby Pink Letter Exhibition · CCCS Hannam\n출처: Grid Entertainment（グリッドエンターテインメント）\n",
+      "caption": "THE BOYZのエリック（ERIC）初の個人写真展が、13日までソウル・漢南洞（ハンナムドン）で開かれています。\n\nファンダムTHE B（ドビ）のために開かれた初の公式個人展示で、「ERIC is Energy」「Feel the Energy」をスローガンに、ステージの外の日常とエリック自身の視線が収められた写真が並びます。\n\n会期中は同じ会場で抽選に当たったファン向けのイベントが続き、展示が終わった翌日には単独ファンミーティングが開かれます。一週間まるごとエリックのスケジュールというわけです。\n\n期間：11月7日（土）〜11月13日（金）\n場所：ソウル・龍山区（ヨンサング）大使館路（テサグァンノ）34 CCCS Hannam 2階\n予約：NAVER予約\n11月11日（水）：アーティスト本人による作品解説 18:30・19:15・20:00（抽選当選者）\n11月12日（木）19:00：フォトイベント アンコール（抽選当選者）\n11月14日（土）：ファンミーティング『花よりソン・ヨンジェ（꽃보다 손영재）』・光云大学校 東海文化芸術館 大劇場 14時・19時\n#SENE #ERIC #THEBOYZ #韓国旅行 #漢南洞",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794094082/oub5auoec1819asfhefx.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794094082/tmg70lkvwk2c7wfeswkc.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794094082/oub5auoec1819asfhefx.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-08T08:28+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -469,10 +533,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-08T08:26+09:00"
+  "at": "2026-11-08T08:28+09:00"
  },
  "queue": {
-  "next": "2026-11-08T08:28+09:00",
+  "next": "2026-11-08T08:30+09:00",
   "n": 0,
   "gap": 20
  },
