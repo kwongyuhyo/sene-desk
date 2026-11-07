@@ -1077,7 +1077,9 @@
      "cvr": 2,
      "at": "2026-11-07T17:46+09:00",
      "v": {
-      "A": "f75d7048"
+      "A": "f75d7048",
+      "E": "83ffe258",
+      "J": "25459c20"
      }
     }
    },
@@ -1088,7 +1090,73 @@
    },
    "corner_name": "왜 지금",
    "corner_no": 1,
-   "i18n_queued": "2026-11-07T17:46+09:00"
+   "i18n_queued": "2026-11-07T17:46+09:00",
+   "i18n": {
+    "at": "2026-11-07T17:48+09:00",
+    "confirm": [
+     "토벌봉 공식 일본어·영어 표기 미확인 — 일본어는 「討伐棒」, 영어는 로마자 'tobeolbong'(subjugation stick)로 옮김. 한국 한정 굿즈 이름인지 확인 필요",
+     "별똥별의 공식 일본어 표기 확인 못 함 — 「流れ星」/'shooting star'로 옮김",
+     "다이소 '논슬립 U자형 롱집게'는 공식 영어·일본어 표기가 없어 직역함 (Non-slip U-shaped Long Tongs / ノンスリップU字型ロングトング)",
+     "영화 제목은 'Chiikawa the Movie: The Secret of Mermaid Island' / 『映画ちいかわ 人魚の島のひみつ』 (일본 개봉 2026-07-24, 한국 개봉 9월 30일은 원문 기준)",
+     "일본어 캡션에 '韓国で公開'·'韓国のダイソー'를 붙여 일본 독자가 한국 이야기임을 알 수 있게 함 — 원문에 없는 사실은 더하지 않았음",
+     "일본어 · '討伐棒' — 일본 공식 굿즈·팬 사이에서 이 볼펜을 실제로 이 이름으로 부르는지 확인하지 못함 (한국 굿즈명을 옮긴 것일 수 있음)",
+     "일본어 캡션 · 원문에 없는 '韓国の'·'韓国で公開された'가 들어감 — 일본 독자용 맥락 보충으로 두었으나, 일본 개봉(7/24)과 헷갈리지 않게 하려는 것인지 확인 필요",
+     "영화 영어 제목 · ANN 표기 'The Secret of Mermaid Island'를 따랐으나 'of the Mermaid Island' 표기도 보임 — 공식 사이트 표기 한 번 더 확인"
+    ],
+    "review": {
+     "at": "2026-11-07T17:48+09:00",
+     "fixes": [
+      "영어 · 부제 · a shoe clip → shoe tongs — 캡션·제품명(Long Tongs)과 표기를 맞춤",
+      "영어 · 둘째 장 소제목 · Shoe clip → Shoe tongs — 같은 이유",
+      "영어 · 둘째 장 본문 · 'After the official pen of the tobeolbong, …, sold out, fans began' → 'The official pen modeled on the tobeolbong, …, sold out, so fans began' — 주어가 길게 끊겨 직역투로 읽힘"
+     ],
+     "doubt": [
+      "일본어 · '討伐棒' — 일본 공식 굿즈·팬 사이에서 이 볼펜을 실제로 이 이름으로 부르는지 확인하지 못함 (한국 굿즈명을 옮긴 것일 수 있음)",
+      "일본어 캡션 · 원문에 없는 '韓国の'·'韓国で公開された'가 들어감 — 일본 독자용 맥락 보충으로 두었으나, 일본 개봉(7/24)과 헷갈리지 않게 하려는 것인지 확인 필요",
+      "영화 영어 제목 · ANN 표기 'The Secret of Mermaid Island'를 따랐으나 'of the Mermaid Island' 표기도 보임 — 공식 사이트 표기 한 번 더 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nChiikawa fans are hunting for a KRW 2,000 star-shaped coin bank at Daiso.\n\nCover the bank's eyes and mouth with a marker and redraw the pupils with correction pen, and it looks like the shooting star from the anime. Since the official 'tobeolbong' (subjugation stick) pen sold out, more fans have also been wrapping Daiso shoe tongs in colored clay to make their own.\n\nAfter 'Chiikawa the Movie: The Secret of Mermaid Island' opened on Sept 30, CGV popcorn buckets sold out through a third pre-order round. With official goods out of reach, fans turned everyday items into merch.\n\nStar bank: Daiso · KRW 2,000\nTobeolbong materials: Daiso 'Non-slip U-shaped Long Tongs' · colored clay\nStock: per-store inventory search in the Daiso app\n#SENE #Chiikawa #Daiso #ChiikawaMovie #KoreaShopping #KoreanDaiso\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794041175/cqz7csfck9luupafhj4k.jpg\n제목: What Chiikawa Fans|Are Buying at Daiso\n부제: A star coin bank becomes a shooting star, shoe tongs a subjugation stick\n출처: \n\n[슬라이드]\n소스: \n소제목: Star bank → shooting star\n본문: Daiso star-shaped coin bank, KRW 2,000||Cover the eyes and mouth with a marker,|redraw the pupils with correction pen,|and it becomes the anime's shooting star||Some fans put a light inside as a mood lamp\n출처: \n\n[슬라이드]\n소스: \n소제목: Shoe tongs → subjugation stick\n본문: Daiso's 'Non-slip U-shaped Long Tongs'|wrapped in colored clay||The official pen modeled on the 'tobeolbong,'|the stick the characters use to fight monsters, sold out,|so fans began making their own\n출처: \n\n[슬라이드]\n소스: \n소제목: Why Daiso\n본문: After the movie opened on Sept 30,|CGV popcorn buckets sold out through a third pre-order round|and official goods became hard to find||Stock varies by store,|so check the Daiso app first\n출처: \n",
+      "caption": "Chiikawa fans are hunting for a KRW 2,000 star-shaped coin bank at Daiso.\n\nCover the bank's eyes and mouth with a marker and redraw the pupils with correction pen, and it looks like the shooting star from the anime. Since the official 'tobeolbong' (subjugation stick) pen sold out, more fans have also been wrapping Daiso shoe tongs in colored clay to make their own.\n\nAfter 'Chiikawa the Movie: The Secret of Mermaid Island' opened on Sept 30, CGV popcorn buckets sold out through a third pre-order round. With official goods out of reach, fans turned everyday items into merch.\n\nStar bank: Daiso · KRW 2,000\nTobeolbong materials: Daiso 'Non-slip U-shaped Long Tongs' · colored clay\nStock: per-store inventory search in the Daiso app\n#SENE #Chiikawa #Daiso #ChiikawaMovie #KoreaShopping #KoreanDaiso",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041289/dgj5hdxg1sixab8gfeie.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041289/xuqhgotokbncxrtiklju.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041289/m1nl1vgchbuqbm6njj6g.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041289/kd8w5bhvsgu7j8elgqcc.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041290/kjrxr3bjdvhju4fm6a5z.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041289/dgj5hdxg1sixab8gfeie.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-07T17:48+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nちいかわファンが、韓国のダイソーで2,000ウォンの星形貯金箱を探しています。\n\n貯金箱の顔の目と口をマーカーで塗りつぶし、修正ペンで瞳を描くと、アニメに出てくる流れ星のように見えます。公式ボールペングッズ「討伐棒（토벌봉／トボルボン）」が品切れになってからは、ダイソーの靴用トングにカラークレイを巻いて自作するファンも増えました。\n\n9月30日に韓国で公開された『映画ちいかわ 人魚の島のひみつ』以降、CGVのポップコーンバケットは第3次予約販売まで完売しました。公式グッズが手に入らないなか、ファンは生活用品をグッズに変える道を選びました。\n\n星の貯金箱：ダイソー・2,000ウォン\n討伐棒の材料：ダイソー「ノンスリップU字型ロングトング」・カラークレイ\n在庫：ダイソーアプリの店舗別在庫検索\n#SENE #ちいかわ #ダイソー #韓国ダイソー #韓国旅行 #映画ちいかわ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794041175/cqz7csfck9luupafhj4k.jpg\n제목: ちいかわファンが|ダイソーで買うもの\n부제: 星の貯金箱は流れ星に、靴トングは討伐棒に\n출처: \n\n[슬라이드]\n소스: \n소제목: 星の貯金箱 → 流れ星\n본문: ダイソーの星形貯金箱、2,000ウォン||顔の目と口をマーカーで塗りつぶし|修正ペンで瞳を描き直すと|アニメの流れ星になります||中にライトを入れてムードランプにする人もいます\n출처: \n\n[슬라이드]\n소스: \n소제목: 靴トング → 討伐棒\n본문: ダイソーの「ノンスリップU字型ロングトング」に|カラークレイを巻きつけます||キャラクターたちが討伐で手にする|「討伐棒」の公式ボールペンが品切れになり|ファンが自作を始めました\n출처: \n\n[슬라이드]\n소스: \n소제목: なぜダイソーか\n본문: 9月30日の劇場版公開後|CGVのポップコーンバケットは第3次予約販売まで完売|公式グッズは手に入りにくくなりました||在庫は店舗ごとに違うため|ダイソーアプリで先に確認するのがおすすめです\n출처: \n",
+      "caption": "ちいかわファンが、韓国のダイソーで2,000ウォンの星形貯金箱を探しています。\n\n貯金箱の顔の目と口をマーカーで塗りつぶし、修正ペンで瞳を描くと、アニメに出てくる流れ星のように見えます。公式ボールペングッズ「討伐棒（토벌봉／トボルボン）」が品切れになってからは、ダイソーの靴用トングにカラークレイを巻いて自作するファンも増えました。\n\n9月30日に韓国で公開された『映画ちいかわ 人魚の島のひみつ』以降、CGVのポップコーンバケットは第3次予約販売まで完売しました。公式グッズが手に入らないなか、ファンは生活用品をグッズに変える道を選びました。\n\n星の貯金箱：ダイソー・2,000ウォン\n討伐棒の材料：ダイソー「ノンスリップU字型ロングトング」・カラークレイ\n在庫：ダイソーアプリの店舗別在庫検索\n#SENE #ちいかわ #ダイソー #韓国ダイソー #韓国旅行 #映画ちいかわ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041294/pjyjdqgy0ucmtchwjv1o.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041294/bgf8a5oa56ar2a3it6g3.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041294/iku9bi9fogftoonwc6sp.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041294/s3sjzh2rjnhszgzeedas.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041295/jqkonskfnuhlfne9fsq9.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794041294/pjyjdqgy0ucmtchwjv1o.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-07T17:48+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1336,10 +1404,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-07T17:46+09:00"
+  "at": "2026-11-07T17:48+09:00"
  },
  "queue": {
-  "next": "2026-11-07T17:48+09:00",
+  "next": "2026-11-07T17:50+09:00",
   "n": 0,
   "gap": 20
  },
