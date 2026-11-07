@@ -869,7 +869,40 @@
     "at": "2026-11-07T11:46+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-07T11:48+09:00"
+   "i18n_queued": "2026-11-07T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-07T11:49+09:00",
+    "confirm": [
+     "검색으로 확인한 것: 리즈·레이의 메종 발렌티노 앰버서더 발탁(2026년 2월)과 'Cruise 2027' 컬렉션 이름. 압구정 리셉션 장소, 정려원·코드 쿤스트 참석은 웹에서 확인하지 못해 원문 그대로 옮겼습니다.",
+     "영어·일본어 공식 표기: Liz/リズ, Rei/レイ, Jung Ryeo-won/チョン・リョウォン, Code Kunst/コード・クンスト, 현대백화점 압구정본점은 영어 'The Hyundai Apgujeong main store'·일본어 '現代百貨店 狎鴎亭本店'으로 썼습니다. 올리기 전에 공식 표기를 한 번 더 확인해 주세요.",
+     "일본어 '곡' 칸은 11자 제한 때문에 'フォトウォール'을 빼고 'ヴァレンティノに登場'(발렌티노에 등장)으로 줄였습니다.",
+     "11월 6일이 금요일인 것은 맞습니다 (2026년).",
+     "원문 · 본문에는 '저녁 리셉션'이라고 썼는데 실용 정보 줄은 '일시: 오후'로 되어 있음 — 영어·일본어판도 이를 그대로 옮겼음. 올리기 전에 행사 시간대가 실제로 언제였는지 확인 필요",
+     "영어 · 'Cruise 2027' 컬렉션 이름 — 발렌티노의 공식 표기(예: Cruise 2027, Resort 2027 등)가 무엇인지 확인 필요"
+    ],
+    "review": {
+     "at": "2026-11-07T11:49+09:00",
+     "fixes": [
+      "영어 · 캡션 장소 · The Hyundai Apgujeong main store → Hyundai Department Store Apgujeong Main Store — '더현대'(여의도 더현대 서울)와 헷갈리게 읽힘. 현대백화점 압구정본점의 영어 표기로 바꿈"
+     ],
+     "doubt": [
+      "원문 · 본문에는 '저녁 리셉션'이라고 썼는데 실용 정보 줄은 '일시: 오후'로 되어 있음 — 영어·일본어판도 이를 그대로 옮겼음. 올리기 전에 행사 시간대가 실제로 언제였는지 확인 필요",
+      "영어 · 'Cruise 2027' 컬렉션 이름 — 발렌티노의 공식 표기(예: Cruise 2027, Resort 2027 등)가 무엇인지 확인 필요"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=9E64P09-gtM\n구간: 0:03-0:18\n곡: Valentino photocall\n아티스트: *Liz*,\n피처링:\n후킹: \n출처: iMBC Entertainment\n자막: 끔",
+      "caption": "Liz of IVE (@ivestarship) stepped onto the Maison Valentino photo wall in Apgujeong, Seoul, yesterday.\n\nValentino held the evening reception to mark its Cruise 2027 collection presentation. Liz and fellow IVE member Rei became Maison Valentino ambassadors this February.\n\nActress Jung Ryeo-won and producer Code Kunst also attended the Seoul event.\n\nDate: Fri, Nov 6 (afternoon)\nLocation: Hyundai Department Store Apgujeong Main Store, Gangnam-gu, Seoul\nVideo: iMBC Entertainment\n#SENE #IVE #Liz #Valentino #Apgujeong"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=9E64P09-gtM\n구간: 0:03-0:18\n곡: ヴァレンティノに登場\n아티스트: *リズ*、\n피처링:\n후킹: \n출처: iMBC芸能\n자막: 끔",
+      "caption": "IVE（@ivestarship）のリズが昨日、ソウル・狎鴎亭（アックジョン）でメゾン ヴァレンティノのフォトウォールに立ちました。\n\nヴァレンティノが「2027 クルーズ コレクション」のプレゼンテーションを記念して開いた夕方のレセプションです。リズは今年2月、同じグループのレイとともにメゾン ヴァレンティノのアンバサダーに就任しました。\n\nこの日のソウルの会場には、俳優のチョン・リョウォン（정려원）とプロデューサーのコード・クンスト（코드 쿤스트）も姿を見せました。\n\n日時：11月6日（金）午後\n場所：ソウル・江南区 現代百貨店 狎鴎亭本店\n映像：iMBC芸能\n#SENE #IVE #リズ #ヴァレンティノ #韓国ファッション"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1117,10 +1150,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-07T11:48+09:00"
+  "at": "2026-11-07T11:49+09:00"
  },
  "queue": {
-  "next": "2026-11-07T11:50+09:00",
+  "next": "2026-11-07T11:51+09:00",
   "n": 0,
   "gap": 20
  },
