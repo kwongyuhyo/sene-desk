@@ -258,7 +258,9 @@
      "cvr": 2,
      "at": "2026-11-08T11:41+09:00",
      "v": {
-      "A": "84c0ded8"
+      "A": "84c0ded8",
+      "E": "52fab697",
+      "J": "2576cb32"
      }
     }
    },
@@ -268,7 +270,64 @@
     "why": "오늘 아침 처음 나온 발표 — 개장 닷새 전, 국내외 팬이 저장할 기간·층·굿즈 정보",
     "at": "2026-11-08T11:45+09:00"
    },
-   "i18n_queued": "2026-11-08T11:45+09:00"
+   "i18n_queued": "2026-11-08T11:45+09:00",
+   "i18n": {
+    "at": "2026-11-08T11:47+09:00",
+    "confirm": [
+     "'파미에스테이션'의 영어 표기는 'Famille Station'으로 썼습니다. 검색 결과에서 이 표기는 확인했지만, 일본어 공식 표기는 찾지 못해 カタカナ(パミエステーション)로 쓰고 처음 한 번 괄호 안에 영어 표기를 붙였습니다.",
+     "'포켓가든'이 파미에스테이션 1층에 있다는 점은 검색으로 확인하지 못했습니다. 원문대로 옮겼습니다.",
+     "'미니 15집'은 영어 '15th mini album', 일본어 '15thミニアルバム'으로 옮겼습니다. 공식 영어·일본어 표기와 맞는지 확인해 주세요.",
+     "새 앨범 발매일과 팝업 시작일인 11월 13일(2026년)은 금요일입니다. 오늘 날짜(11월 8일, 일요일)로 계산했습니다.",
+     "파미에스테이션의 영문 표기 'Famille Station'은 이번에 따로 확인하지 않았음 — 올리기 전 신세계 공식 표기를 한 번 볼 것",
+     "일본어 · 표지 '13日から'는 원문 '13일 …에서'에 '부터'의 뜻을 더한 것 — 기간(13~22일)과 맞아서 그대로 두었음"
+    ],
+    "review": {
+     "at": "2026-11-08T11:47+09:00",
+     "fixes": [
+      "영어 · 캡션 · a muffler → a scarf — 미국 영어에서 muffler는 자동차 소음기로 먼저 읽힘",
+      "영어 · 캡션 · six official goods → six types of official merchandise — goods는 셀 수 있는 명사로 쓰면 어색하고, 원문 '6종'(종류)의 뜻이 빠져 있었음",
+      "영어 · 캡션 · a pocket garden of about 99㎡ → the Pocket Garden, a space of about 99㎡ — 장소 줄의 고유명사 'Pocket Garden'과 표기를 맞춤"
+     ],
+     "doubt": [
+      "파미에스테이션의 영문 표기 'Famille Station'은 이번에 따로 확인하지 않았음 — 올리기 전 신세계 공식 표기를 한 번 볼 것",
+      "일본어 · 표지 '13日から'는 원문 '13일 …에서'에 '부터'의 뜻을 더한 것 — 기간(13~22일)과 맞아서 그대로 두었음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nATEEZ (@ateez_official_) opens a pop-up at Shinsegae Department Store Gangnam to coincide with the release of their new album.\n\nThe exclusive pop-up marks the 15th mini album 'GOLDEN HOUR : Part.6', out Nov 13, and brings the album's concept into the Pocket Garden, a space of about 99㎡ on the first floor of Famille Station.\n\nOn sale are five album versions and six types of official merchandise, including a pouch, a scarf and a keyring. Each album version comes with a random photocard. Visitors who collect every stamp at the photo zone and game zone receive an acrylic keyring, and limited photocards and postcards are given out depending on the amount spent.\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Pocket Garden, 1F Famille Station, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nReservations: Advance and on-site reservations\n#SENE #ATEEZ #SeoulPopup #Gangnam #ShinsegaeGangnam\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794105669/ag61ndlobwvh8xpeffo4.jpg\n제목: ATEEZ Album Pop-Up|Shinsegae Gangnam, Nov 13\n부제: GOLDEN HOUR : Part.6 · Through Nov 22\n출처: @ateez_official_\n",
+      "caption": "ATEEZ (@ateez_official_) opens a pop-up at Shinsegae Department Store Gangnam to coincide with the release of their new album.\n\nThe exclusive pop-up marks the 15th mini album 'GOLDEN HOUR : Part.6', out Nov 13, and brings the album's concept into the Pocket Garden, a space of about 99㎡ on the first floor of Famille Station.\n\nOn sale are five album versions and six types of official merchandise, including a pouch, a scarf and a keyring. Each album version comes with a random photocard. Visitors who collect every stamp at the photo zone and game zone receive an acrylic keyring, and limited photocards and postcards are given out depending on the amount spent.\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Pocket Garden, 1F Famille Station, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nReservations: Advance and on-site reservations\n#SENE #ATEEZ #SeoulPopup #Gangnam #ShinsegaeGangnam",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794106069/rppennliersgulqxxvuj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794106068/bevulrjqglz5dljodaz3.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794106069/rppennliersgulqxxvuj.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-08T11:47+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nATEEZ（@ateez_official_）が、新しいアルバムの発売日に合わせて新世界百貨店 江南店でポップアップストアを開きます。\n\n11月13日にリリースされる15thミニアルバム『GOLDEN HOUR : Part.6』を記念した単独ポップアップで、パミエステーション（Famille Station）1階のポケットガーデン、約99㎡の空間にアルバムのコンセプトを再現します。\n\nアルバム5種と、ポーチ・マフラー・キーリングなど公式グッズ6種を販売し、アルバムには各バージョンにフォトカードがランダムで封入されています。フォトゾーンとゲームゾーンを回ってスタンプをすべて集めるとアクリルキーリングが、購入金額に応じて限定フォトカードとポストカードがもらえます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・瑞草区（ソチョグ）新世界百貨店 江南店 パミエステーション1階 ポケットガーデン\n予約：事前予約・現地予約を併用\n#SENE #ATEEZ #韓国旅行 #ソウルポップアップ #江南\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794105669/ag61ndlobwvh8xpeffo4.jpg\n제목: ATEEZ新譜ポップアップ、|13日から新世界江南店で\n부제: GOLDEN HOUR : Part.6・11月22日まで\n출처: @ateez_official_\n",
+      "caption": "ATEEZ（@ateez_official_）が、新しいアルバムの発売日に合わせて新世界百貨店 江南店でポップアップストアを開きます。\n\n11月13日にリリースされる15thミニアルバム『GOLDEN HOUR : Part.6』を記念した単独ポップアップで、パミエステーション（Famille Station）1階のポケットガーデン、約99㎡の空間にアルバムのコンセプトを再現します。\n\nアルバム5種と、ポーチ・マフラー・キーリングなど公式グッズ6種を販売し、アルバムには各バージョンにフォトカードがランダムで封入されています。フォトゾーンとゲームゾーンを回ってスタンプをすべて集めるとアクリルキーリングが、購入金額に応じて限定フォトカードとポストカードがもらえます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・瑞草区（ソチョグ）新世界百貨店 江南店 パミエステーション1階 ポケットガーデン\n予約：事前予約・現地予約を併用\n#SENE #ATEEZ #韓国旅行 #ソウルポップアップ #江南",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794106072/bvf4qlg0ptllvpa42qve.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794106072/opkr9b5dqefyr0flonfc.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794106072/bvf4qlg0ptllvpa42qve.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-08T11:47+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -977,9 +1036,11 @@
      "end": 36.0,
      "full": 36.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-08T11:45+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794106025/sene_studio/eqzqdvnvrmaa19x5gcts.mp4",
+     "at": "2026-11-08T11:47+09:00",
+     "file": "NachSeon_HoTelE_Deun_HoAKin_PiNigSeu_PaeSyeon_no_lyrics.mp4",
+     "v": "bb95cd26"
     }
    },
    "pick": {
@@ -1237,10 +1298,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-08T11:46+09:00"
+  "at": "2026-11-08T11:47+09:00"
  },
  "queue": {
-  "next": "2026-11-08T11:48+09:00",
+  "next": "2026-11-08T11:49+09:00",
   "n": 0,
   "gap": 20
  },
