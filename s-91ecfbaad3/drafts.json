@@ -115,7 +115,9 @@
      "cvr": 2,
      "at": "2026-11-09T08:30+09:00",
      "v": {
-      "A": "22edffbc"
+      "A": "22edffbc",
+      "E": "46418fd0",
+      "J": "114cd28b"
      }
     }
    },
@@ -125,7 +127,60 @@
     "at": "2026-11-09T08:30+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-09T08:32+09:00"
+   "i18n_queued": "2026-11-09T08:32+09:00",
+   "i18n": {
+    "at": "2026-11-09T08:33+09:00",
+    "confirm": [
+     "원문의 '오늘 저녁 6시 공개'는 올리는 날짜 기준 표현이다 — 영어·일본어판을 11월 9일 6시(한국 시간)가 지나서 올리면 'out now / 公開中' 같은 꼴로 고쳐야 한다",
+     "11월 8일은 일요일, 16일은 월요일 — 2026년 달력으로 요일을 맞춰 봤다",
+     "앨범·팝업·공간·팬클럽 이름(DREAM AFTER DREAM · WELCOME, DREAMERS · DREAM GARDEN/PARTY · NCTzen DREAM)은 원문의 영문 표기를 그대로 옮겼다. 일본어 공식 표기를 WebSearch 로 따로 확인하지는 않았다",
+     "연무장7길은 영어 'Yeonmujang 7-gil', 일본어 'ヨンムジャン7ギル'로 로마자·카타카나로 옮겼다 (공식 외국어 표기는 확인하지 않았다)",
+     "영어·일본어 캡션 · 'tonight at 6 p.m.' / 「今夜6時」 — 원문의 '오늘 저녁'에 맞춰 옮김. 정규 6집 발매일과 실제 게시일이 같은지 올리기 전에 확인할 것"
+    ],
+    "review": {
+     "at": "2026-11-09T08:33+09:00",
+     "fixes": [
+      "일본어 · 캡션 1·2단락 · 正規6集 → 6thフルアルバム — 한국어 직역투, 일본 K-pop 독자에게는 6thフルアルバム가 자연스러움"
+     ],
+     "doubt": [
+      "영어·일본어 캡션 · 'tonight at 6 p.m.' / 「今夜6時」 — 원문의 '오늘 저녁'에 맞춰 옮김. 정규 6집 발매일과 실제 게시일이 같은지 올리기 전에 확인할 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nNCT DREAM (@nct_dream) is running 'WELCOME, DREAMERS', a pop-up marking the release of its sixth studio album, in Seongsu-dong, Seoul.\n\nThe pop-up is timed to the sixth album 'DREAM AFTER DREAM', out tonight at 6 p.m. KST. Visitors move through two spaces, 'DREAM GARDEN' and 'DREAM PARTY', on a stamp rally, completing party-prep missions along the way.\n\nOn sale are character goods modeled on the crops and fruit from the album, plus clothing and fashion accessories in the album's key colors. The first session each day is open only to members of the official fan club NCTzen DREAM, so non-members can book a later session.\n\nDates: Sun, Nov 8 – Mon, Nov 16\nLocation: 16 Yeonmujang 7-gil, Seongdong-gu (Seongsu-dong), Seoul\nReservations: Online advance booking · on-site booking (first session daily for NCTzen DREAM members only)\n#SENE #NCTDREAM #SeoulPopup #Seongsu #KpopPopup\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794180613/tcptoboobfni54evhysa.jpg\n제목: NCT DREAM Pop-Up|in Seongsu Until Nov 16\n부제: WELCOME, DREAMERS · 16 Yeonmujang 7-gil\n출처: @nct_dream\n",
+      "caption": "NCT DREAM (@nct_dream) is running 'WELCOME, DREAMERS', a pop-up marking the release of its sixth studio album, in Seongsu-dong, Seoul.\n\nThe pop-up is timed to the sixth album 'DREAM AFTER DREAM', out tonight at 6 p.m. KST. Visitors move through two spaces, 'DREAM GARDEN' and 'DREAM PARTY', on a stamp rally, completing party-prep missions along the way.\n\nOn sale are character goods modeled on the crops and fruit from the album, plus clothing and fashion accessories in the album's key colors. The first session each day is open only to members of the official fan club NCTzen DREAM, so non-members can book a later session.\n\nDates: Sun, Nov 8 – Mon, Nov 16\nLocation: 16 Yeonmujang 7-gil, Seongdong-gu (Seongsu-dong), Seoul\nReservations: Online advance booking · on-site booking (first session daily for NCTzen DREAM members only)\n#SENE #NCTDREAM #SeoulPopup #Seongsu #KpopPopup",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180806/xlc7tdtljidpvdcpgckl.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180806/kb05vookmi0sr3mjvutv.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180806/xlc7tdtljidpvdcpgckl.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T08:33+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nNCT DREAM（@nct_dream）の6thフルアルバム発売記念ポップアップ「WELCOME, DREAMERS」が、ソウル・聖水洞（ソンスドン）で開かれています。\n\n今夜6時（韓国時間）に公開される6thフルアルバム「DREAM AFTER DREAM」に合わせたポップアップで、「DREAM GARDEN」と「DREAM PARTY」の2つの空間を巡り、パーティー準備のミッションをこなすスタンプラリーが行われます。\n\nアルバムに登場する作物や果物をモチーフにしたキャラクターグッズ、アルバムのキーカラーを取り入れた服やファッション小物を販売しています。毎日の最初の回は公式ファンクラブNCTzen DREAM会員のみ入場できるため、会員でない方はその次の回から予約できます。\n\n期間：11月8日（日）〜11月16日（月）\n場所：ソウル特別市城東区ヨンムジャン7ギル16（聖水洞）\n予約：オンライン事前予約・現地予約（毎日最初の回はNCTzen DREAM会員専用）\n#SENE #NCTDREAM #韓国旅行 #聖水 #ソウルポップアップ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794180613/tcptoboobfni54evhysa.jpg\n제목: NCT DREAMポップアップ、|16日まで聖水で\n부제: WELCOME, DREAMERS・ヨンムジャン7ギル16\n출처: @nct_dream\n",
+      "caption": "NCT DREAM（@nct_dream）の6thフルアルバム発売記念ポップアップ「WELCOME, DREAMERS」が、ソウル・聖水洞（ソンスドン）で開かれています。\n\n今夜6時（韓国時間）に公開される6thフルアルバム「DREAM AFTER DREAM」に合わせたポップアップで、「DREAM GARDEN」と「DREAM PARTY」の2つの空間を巡り、パーティー準備のミッションをこなすスタンプラリーが行われます。\n\nアルバムに登場する作物や果物をモチーフにしたキャラクターグッズ、アルバムのキーカラーを取り入れた服やファッション小物を販売しています。毎日の最初の回は公式ファンクラブNCTzen DREAM会員のみ入場できるため、会員でない方はその次の回から予約できます。\n\n期間：11月8日（日）〜11月16日（月）\n場所：ソウル特別市城東区ヨンムジャン7ギル16（聖水洞）\n予約：オンライン事前予約・現地予約（毎日最初の回はNCTzen DREAM会員専用）\n#SENE #NCTDREAM #韓国旅行 #聖水 #ソウルポップアップ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180809/vvxgqahxzqrjenccglck.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180809/ojqma0wjui00sp63omxp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180809/vvxgqahxzqrjenccglck.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T08:33+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -550,10 +605,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-09T08:32+09:00"
+  "at": "2026-11-09T08:33+09:00"
  },
  "queue": {
-  "next": "2026-11-09T08:34+09:00",
+  "next": "2026-11-09T08:35+09:00",
   "n": 0,
   "gap": 20
  },
