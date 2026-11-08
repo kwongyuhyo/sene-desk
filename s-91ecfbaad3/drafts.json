@@ -956,9 +956,11 @@
      "end": 60.0,
      "full": 60.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-08T09:13+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794096844/sene_studio/nog9hz7mmiuwepoapk3i.mp4",
+     "at": "2026-11-08T09:14+09:00",
+     "file": "Nun_DeopIn_San_WiLo_TteoNaNeun_SyaNel_GongGan_no_lyrics.mp4",
+     "v": "5881329c"
     }
    },
    "corner_name": "소식"
@@ -1209,10 +1211,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-08T09:13+09:00"
+  "at": "2026-11-08T09:14+09:00"
  },
  "queue": {
-  "next": "2026-11-08T09:15+09:00",
+  "next": "2026-11-08T09:16+09:00",
   "n": 0,
   "gap": 20
  },
