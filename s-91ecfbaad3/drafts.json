@@ -417,7 +417,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fbEjxtF8ryY\n구간: 0:02-0:18\n곡: until Nov 15, Seoul\n아티스트: *D.O.* photo show,\n피처링:\n후킹: \n출처: Billboard Korea l 빌보드코리아\n자막: 끔",
-      "caption": "D.O.'s photo exhibition 'QUIETLY EXTRAORDINARY D.O.' runs through this Sunday at Billboard Korea (@billboard_korea) House in Seoul.\n\nThe video is an artist film of D.O. released by Billboard Korea. The exhibition and pop-up, built around D.O.'s photo shoot for Billboard Korea's magazine, is now open on Seolleung-ro. It is the first show Billboard Korea has organized with Japan's CyberAgent.\n\nAfter Seoul, it moves to TSUTAYA locations in Shibuya, Tokyo, and Ebisubashi, Osaka, from Nov 27 to Dec 6.\n\nDates: Nov 6 (Fri) – Nov 15 (Sun)\nLocation: Billboard Korea House, 29 Seolleung-ro 121-gil, Gangnam-gu, Seoul\nReservations: Link in Billboard Korea's official Instagram bio\nVideo: Billboard Korea l 빌보드코리아\n#SENE #DohKyungsoo #DO #BillboardKorea #SeoulPopup"
+      "caption": "D.O.'s photo exhibition 'QUIETLY EXTRAORDINARY D.O.' runs through this Sunday at Billboard Korea (@billboard_korea) House in Seoul.\n\nThe video is an artist film of D.O. released by Billboard Korea. The exhibition and pop-up, built around D.O.'s photo shoot for Billboard Korea's magazine, is now open on Seolleung-ro. It is the first show Billboard Korea has organized with Japan's CyberAgent.\n\nAfter Seoul, it moves to TSUTAYA locations in Shibuya, Tokyo, and Ebisubashi, Osaka, from Nov 27 to Dec 6.\n\nDates: Nov 6 (Fri) – Nov 15 (Sun)\nLocation: Billboard Korea House, 29 Seolleung-ro 121-gil, Gangnam-gu, Seoul\nReservations: Link in Billboard Korea's official Instagram bio\nVideo: Billboard Korea l 빌보드코리아\n#SENE #DohKyungsoo #DO #BillboardKorea #SeoulPopup",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-09T08:35+09:00",
+       "sig": "7ad72b5189",
+       "job": 246
+      }
      }
     },
     "ja": {
@@ -442,7 +448,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fbEjxtF8ryY\n구간: 0:02-0:18\n곡: 15日まで宣陵路で\n아티스트: *ド・ギョンス*写真展、\n피처링:\n후킹: \n출처: Billboard Korea l 빌보드코리아\n자막: 끔",
-      "caption": "ド・ギョンス（D.O.／도경수）の写真展『QUIETLY EXTRAORDINARY D.O.』が、今週日曜日までソウルのビルボードコリア（@billboard_korea）ハウスで開かれています。\n\n映像はビルボードコリアが公開したド・ギョンスのアーティストフィルムです。ビルボードコリアのマガジンに掲載されたグラビアをもとにした写真展兼ポップアップが、いま宣陵路で開かれています。ビルボードコリアが日本のサイバーエージェントと初めて共同で企画した展示です。\n\nソウルの後は、11月27日から12月6日まで東京・渋谷と大阪・戎橋のTSUTAYAへ移ります。\n\n期間：11月6日（金）〜11月15日（日）\n場所：ソウル・江南区 宣陵路（ソンルンノ）121キル29 ビルボードコリア ハウス\n予約：ビルボードコリア公式インスタグラムのプロフィールリンク\n映像：Billboard Korea l 빌보드코리아\n#SENE #ドギョンス #ディオ #韓国旅行 #ソウルポップアップ"
+      "caption": "ド・ギョンス（D.O.／도경수）の写真展『QUIETLY EXTRAORDINARY D.O.』が、今週日曜日までソウルのビルボードコリア（@billboard_korea）ハウスで開かれています。\n\n映像はビルボードコリアが公開したド・ギョンスのアーティストフィルムです。ビルボードコリアのマガジンに掲載されたグラビアをもとにした写真展兼ポップアップが、いま宣陵路で開かれています。ビルボードコリアが日本のサイバーエージェントと初めて共同で企画した展示です。\n\nソウルの後は、11月27日から12月6日まで東京・渋谷と大阪・戎橋のTSUTAYAへ移ります。\n\n期間：11月6日（金）〜11月15日（日）\n場所：ソウル・江南区 宣陵路（ソンルンノ）121キル29 ビルボードコリア ハウス\n予約：ビルボードコリア公式インスタグラムのプロフィールリンク\n映像：Billboard Korea l 빌보드코리아\n#SENE #ドギョンス #ディオ #韓国旅行 #ソウルポップアップ",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-09T08:35+09:00",
+       "sig": "58e63d9bd4",
+       "job": 247
+      }
      }
     }
    }
