@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "at": "2026-11-08T17:42+09:00",
+ "at": "2026-11-09T08:32+09:00",
  "items": [
   {
    "key": "moment",
@@ -14,7 +14,7 @@
    "due": true,
    "chips": [
     "카리나, 에스파 · MLB 팝업 카리나, 고양이 귀 모자 쓰고 깜찍함 폭발…AI로 못 만드는 비주얼 [",
-    "서울시 기사 · 성동구, 왕십리광장이 청소년 팝업시티로… '2026 POP! 난장판"
+    "서울시 기사 · 작품과 음악, 대화로 확장하는 예술 감상 '오후 7시, 취향의 온도"
    ]
   },
   {
@@ -29,8 +29,7 @@
    "due": true,
    "chips": [
     "정국 · 산데비스탄 이식한 이, <사이버펑크>에 얼마나 진심인 거야. 이 얼마나 <사이버펑크",
-    "카리나, 에스파 · MLB 팝업 카리나, 고양이 귀 모자 쓰고 깜찍함 폭발…AI로 못 만드는 비주얼 [",
-    "서울시 기사 · 성동구, 왕십리광장이 청소년 팝업시티로… '2026 POP! 난장판"
+    "카리나, 에스파 · MLB 팝업 카리나, 고양이 귀 모자 쓰고 깜찍함 폭발…AI로 못 만드는 비주얼 ["
    ]
   },
   {
@@ -54,10 +53,8 @@
    "tag": "#SENE최애가쓴것",
    "done": 0,
    "next_no": 1,
-   "due": true,
-   "chips": [
-    "엑소 · 박진영 기사 · KGMA부터 ·박진영·최강창민까지...이번 주말 달구는 K팝 별들의"
-   ]
+   "due": false,
+   "chips": []
   },
   {
    "key": "openweek",
@@ -68,7 +65,7 @@
    "tag": "#SENE이번주오픈예정",
    "done": 0,
    "next_no": 1,
-   "due": false,
+   "due": true,
    "chips": []
   },
   {
@@ -94,10 +91,11 @@
    "next_no": 1,
    "due": false,
    "chips": [
-    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)",
     "리센느 · CU PULSE 팝업 (빵·도시락 11/9까지) · CU 올림픽광장점 (11-03)",
     "리센느 · 미니 4집 PULSE 팝업 (멜론 청음존) · 플레이엑스스튜디오 성수 (11-06)",
+    "도경수 · 사진전 QUIETLY EXTRAORDINARY D.O. · 빌보드코리아 하우스  (11-06)",
     "더보이즈 에릭 · 첫 개인 사진전 Baby Pink Letter Exhibition · C (11-07)",
+    "NCT DREAM · 정규 6집 팝업 WELCOME, DREAMERS · 성수 연무장7길  (11-08)",
     "에이티즈 · GOLDEN HOUR : Part.6 발매 기념 단독 팝업 · 신세계백화점 강 (11-13)"
    ]
   },
@@ -110,14 +108,15 @@
    "tag": "#SENE한주의현장",
    "done": 0,
    "next_no": 1,
-   "due": true,
+   "due": false,
    "chips": [
     "카리나, 에스파 · MLB 팝업 카리나, 고양이 귀 모자 쓰고 깜찍함 폭발…AI로 못 만드는 비주얼 [",
-    "서울시 기사 · 성동구, 왕십리광장이 청소년 팝업시티로… '2026 POP! 난장판",
-    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)",
+    "서울시 기사 · 작품과 음악, 대화로 확장하는 예술 감상 '오후 7시, 취향의 온도",
     "리센느 · CU PULSE 팝업 (빵·도시락 11/9까지) · CU 올림픽광장점 (11-03)",
     "리센느 · 미니 4집 PULSE 팝업 (멜론 청음존) · 플레이엑스스튜디오 성수 (11-06)",
+    "도경수 · 사진전 QUIETLY EXTRAORDINARY D.O. · 빌보드코리아 하우스  (11-06)",
     "더보이즈 에릭 · 첫 개인 사진전 Baby Pink Letter Exhibition · C (11-07)",
+    "NCT DREAM · 정규 6집 팝업 WELCOME, DREAMERS · 성수 연무장7길  (11-08)",
     "에이티즈 · GOLDEN HOUR : Part.6 발매 기념 단독 팝업 · 신세계백화점 강 (11-13)"
    ]
   },
@@ -132,10 +131,11 @@
    "next_no": 1,
    "due": false,
    "chips": [
-    "스트레이 키즈 · ODD&FRESH STRAY KIDS POP-UP (10:00~22:00 (10-22)",
     "리센느 · CU PULSE 팝업 (빵·도시락 11/9까지) · CU 올림픽광장점 (11-03)",
     "리센느 · 미니 4집 PULSE 팝업 (멜론 청음존) · 플레이엑스스튜디오 성수 (11-06)",
+    "도경수 · 사진전 QUIETLY EXTRAORDINARY D.O. · 빌보드코리아 하우스  (11-06)",
     "더보이즈 에릭 · 첫 개인 사진전 Baby Pink Letter Exhibition · C (11-07)",
+    "NCT DREAM · 정규 6집 팝업 WELCOME, DREAMERS · 성수 연무장7길  (11-08)",
     "에이티즈 · GOLDEN HOUR : Part.6 발매 기념 단독 팝업 · 신세계백화점 강 (11-13)"
    ]
   },
@@ -148,11 +148,8 @@
    "tag": "#SENE콘서트가는날",
    "done": 0,
    "next_no": 1,
-   "due": true,
-   "chips": [
-    "EXO · EXO PLANET #6 - EXhOrizon [dot] - (앙코르) · KS (11-06)",
-    "엑소 · EXO PLANET #6 - EXhOrizon [dot] - 서울 앙코르 (금 1 (11-06)"
-   ]
+   "due": false,
+   "chips": []
   }
  ]
 }
