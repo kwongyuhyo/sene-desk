@@ -281,7 +281,9 @@
       "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794180664/sene_studio/mlj03szoxip2ksgaeh0o.mp4"
      },
      "v": {
-      "A": "b614c20e"
+      "A": "b614c20e",
+      "E": "f0c01572",
+      "J": "688d06ba"
      }
     }
    },
@@ -346,9 +348,11 @@
      "end": 63.0,
      "full": 110.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-09T08:32+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794180839/sene_studio/ij3s6sel39v5awqq3k5d.mp4",
+     "at": "2026-11-09T08:34+09:00",
+     "file": "DoGyeongSu_SaJinJeon_15IlKkaJi_SeonLeungL_KeolCheo_no_lyrics.mp4",
+     "v": "fbf05a50"
     }
    },
    "pick": {
@@ -357,7 +361,91 @@
     "at": "2026-11-09T08:30+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-09T08:32+09:00"
+   "i18n_queued": "2026-11-09T08:32+09:00",
+   "i18n": {
+    "at": "2026-11-09T08:35+09:00",
+    "confirm": [
+     "오사카 매장 공식 표기 'TSUTAYA EBISUBASHI'(TSUTAYA 戎橋)는 웹에서 확인하지 못했습니다 — 올리기 전 츠타야 공식 페이지에서 확인 필요",
+     "도쿄 매장 'TSUTAYA BOOKSTORE 渋谷サクラステージ' 표기는 매장 소개 기사에서 확인했으나, 이 전시가 그곳에서 열린다는 사실은 일본어 출처로 따로 확인하지 못했습니다(원문 그대로 옮김)",
+     "도경수 영문 표기 'Doh Kyungsoo'·일본어 'ド・ギョンス'는 통용 표기 기준 — 공식 일본어 표기 확인 권장",
+     "숏폼 영어 곡 칸은 20자 제한 때문에 '선릉로'를 'Seoul'로 바꿨습니다",
+     "영어 제목 둘째 줄 'In Seoul Through Nov 15'는 23자이고, 22자에 맞추느라 '선릉로'를 'Seoul'로 바꿨습니다",
+     "영어·일본어 출처 칸 'Billboard Korea l 빌보드코리아' 에 한글이 남아 있음 — 출처 칸은 매체 이름 그대로 두는 규칙이라 고치지 않았지만, 외국어 계정에 그대로 올릴지 확인 필요",
+     "오사카 매장 공식 표기(TSUTAYA EBISUBASHI · 戎橋)와 도쿄 'TSUTAYA BOOKSTORE 渋谷サクラステージ' 표기는 검색으로 다시 확인하지 않음 — 올리기 전 주최 측 일본 공지와 맞춰 볼 것",
+     "영어판 출처에 한글이 남음",
+     "영어판 출처에 한글이 남음",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-09T08:35+09:00",
+     "fixes": [
+      "영어 · 숏폼 곡 칸 · Until Nov 15, Seoul → until Nov 15, Seoul — 아티스트 칸 쉼표 뒤에 이어 붙으므로 문장 중간 대문자 제거"
+     ],
+     "doubt": [
+      "영어·일본어 출처 칸 'Billboard Korea l 빌보드코리아' 에 한글이 남아 있음 — 출처 칸은 매체 이름 그대로 두는 규칙이라 고치지 않았지만, 외국어 계정에 그대로 올릴지 확인 필요",
+      "오사카 매장 공식 표기(TSUTAYA EBISUBASHI · 戎橋)와 도쿄 'TSUTAYA BOOKSTORE 渋谷サクラステージ' 표기는 검색으로 다시 확인하지 않음 — 올리기 전 주최 측 일본 공지와 맞춰 볼 것",
+      "영어판 출처에 한글이 남음",
+      "영어판 출처에 한글이 남음",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nD.O.'s photo exhibition 'QUIETLY EXTRAORDINARY D.O.' runs through this Sunday at Billboard Korea (@billboard_korea) House in Seoul.\n\nThe exhibition and pop-up is built around D.O.'s photo shoot for Billboard Korea's artist magazine, and it is the first show Billboard Korea has organized with Japan's CyberAgent. Billboard Korea describes it as a space that captures D.O.'s 'quiet yet special everyday life.'\n\nAfter Seoul, it moves to TSUTAYA BOOKSTORE Shibuya Sakura Stage in Tokyo and TSUTAYA EBISUBASHI in Osaka from Nov 27 to Dec 6.\n\nDates: Nov 6 (Fri) – Nov 15 (Sun)\nLocation: Billboard Korea House, 29 Seolleung-ro 121-gil, Gangnam-gu, Seoul\nReservations: Link in Billboard Korea's official Instagram bio\n#SENE #DohKyungsoo #DO #BillboardKorea #SeoulPopup\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794180623/kjs8igko1ia9is0xhtyf.jpg\n제목: D.O. Photo Exhibition|In Seoul Through Nov 15\n부제: QUIETLY EXTRAORDINARY D.O. · Billboard Korea House\n출처: Billboard Korea\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1794180649/sene_studio/nf34g8llt7vun1mbu6gz.mp4\n소제목: \n본문: \n출처: Billboard Korea l 빌보드코리아\n",
+      "caption": "D.O.'s photo exhibition 'QUIETLY EXTRAORDINARY D.O.' runs through this Sunday at Billboard Korea (@billboard_korea) House in Seoul.\n\nThe exhibition and pop-up is built around D.O.'s photo shoot for Billboard Korea's artist magazine, and it is the first show Billboard Korea has organized with Japan's CyberAgent. Billboard Korea describes it as a space that captures D.O.'s 'quiet yet special everyday life.'\n\nAfter Seoul, it moves to TSUTAYA BOOKSTORE Shibuya Sakura Stage in Tokyo and TSUTAYA EBISUBASHI in Osaka from Nov 27 to Dec 6.\n\nDates: Nov 6 (Fri) – Nov 15 (Sun)\nLocation: Billboard Korea House, 29 Seolleung-ro 121-gil, Gangnam-gu, Seoul\nReservations: Link in Billboard Korea's official Instagram bio\n#SENE #DohKyungsoo #DO #BillboardKorea #SeoulPopup",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180909/w1zibxhj4g1kmxoypprd.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180912/hx09i4wxr5xxmleaz8rv.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180909/ssbzyutwwv0t3yuv9zyp.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180909/w1zibxhj4g1kmxoypprd.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T08:35+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794180910/sene_studio/lbwsx2xzkwuuu5brlkmu.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fbEjxtF8ryY\n구간: 0:02-0:18\n곡: until Nov 15, Seoul\n아티스트: *D.O.* photo show,\n피처링:\n후킹: \n출처: Billboard Korea l 빌보드코리아\n자막: 끔",
+      "caption": "D.O.'s photo exhibition 'QUIETLY EXTRAORDINARY D.O.' runs through this Sunday at Billboard Korea (@billboard_korea) House in Seoul.\n\nThe video is an artist film of D.O. released by Billboard Korea. The exhibition and pop-up, built around D.O.'s photo shoot for Billboard Korea's magazine, is now open on Seolleung-ro. It is the first show Billboard Korea has organized with Japan's CyberAgent.\n\nAfter Seoul, it moves to TSUTAYA locations in Shibuya, Tokyo, and Ebisubashi, Osaka, from Nov 27 to Dec 6.\n\nDates: Nov 6 (Fri) – Nov 15 (Sun)\nLocation: Billboard Korea House, 29 Seolleung-ro 121-gil, Gangnam-gu, Seoul\nReservations: Link in Billboard Korea's official Instagram bio\nVideo: Billboard Korea l 빌보드코리아\n#SENE #DohKyungsoo #DO #BillboardKorea #SeoulPopup"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nド・ギョンス（D.O.／도경수）の写真展『QUIETLY EXTRAORDINARY D.O.』が、今週日曜日までソウルのビルボードコリア（@billboard_korea）ハウスで開かれています。\n\nビルボードコリアのアーティストマガジンに掲載されたド・ギョンスのグラビアをもとにした写真展兼ポップアップで、ビルボードコリアが日本のサイバーエージェントと初めて共同で企画した展示です。ビルボードコリアはこの展示を、ド・ギョンスの「穏やかで特別な日常」を収めた場だと紹介しています。\n\nソウルでの展示が終わると、11月27日から12月6日まで東京のTSUTAYA BOOKSTORE 渋谷サクラステージと大阪のTSUTAYA EBISUBASHIへ場所を移します。\n\n期間：11月6日（金）〜11月15日（日）\n場所：ソウル・江南区 宣陵路（ソンルンノ）121キル29 ビルボードコリア ハウス\n予約：ビルボードコリア公式インスタグラムのプロフィールリンク\n#SENE #ドギョンス #ディオ #韓国旅行 #ソウルポップアップ\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794180623/kjs8igko1ia9is0xhtyf.jpg\n제목: ド・ギョンス写真展、|15日まで宣陵路で\n부제: QUIETLY EXTRAORDINARY D.O. · ビルボードコリア ハウス\n출처: Billboard Korea\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1794180649/sene_studio/nf34g8llt7vun1mbu6gz.mp4\n소제목: \n본문: \n출처: Billboard Korea l 빌보드코리아\n",
+      "caption": "ド・ギョンス（D.O.／도경수）の写真展『QUIETLY EXTRAORDINARY D.O.』が、今週日曜日までソウルのビルボードコリア（@billboard_korea）ハウスで開かれています。\n\nビルボードコリアのアーティストマガジンに掲載されたド・ギョンスのグラビアをもとにした写真展兼ポップアップで、ビルボードコリアが日本のサイバーエージェントと初めて共同で企画した展示です。ビルボードコリアはこの展示を、ド・ギョンスの「穏やかで特別な日常」を収めた場だと紹介しています。\n\nソウルでの展示が終わると、11月27日から12月6日まで東京のTSUTAYA BOOKSTORE 渋谷サクラステージと大阪のTSUTAYA EBISUBASHIへ場所を移します。\n\n期間：11月6日（金）〜11月15日（日）\n場所：ソウル・江南区 宣陵路（ソンルンノ）121キル29 ビルボードコリア ハウス\n予約：ビルボードコリア公式インスタグラムのプロフィールリンク\n#SENE #ドギョンス #ディオ #韓国旅行 #ソウルポップアップ",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180918/bofoysmizptxqaxibdfn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180920/qsxcvt2y8m7rbt4ylpns.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180917/knocqmte7tmhwmqn9f3q.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794180918/bofoysmizptxqaxibdfn.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T08:35+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794180918/sene_studio/l7thnsvrolrhwrp6bopz.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=fbEjxtF8ryY\n구간: 0:02-0:18\n곡: 15日まで宣陵路で\n아티스트: *ド・ギョンス*写真展、\n피처링:\n후킹: \n출처: Billboard Korea l 빌보드코리아\n자막: 끔",
+      "caption": "ド・ギョンス（D.O.／도경수）の写真展『QUIETLY EXTRAORDINARY D.O.』が、今週日曜日までソウルのビルボードコリア（@billboard_korea）ハウスで開かれています。\n\n映像はビルボードコリアが公開したド・ギョンスのアーティストフィルムです。ビルボードコリアのマガジンに掲載されたグラビアをもとにした写真展兼ポップアップが、いま宣陵路で開かれています。ビルボードコリアが日本のサイバーエージェントと初めて共同で企画した展示です。\n\nソウルの後は、11月27日から12月6日まで東京・渋谷と大阪・戎橋のTSUTAYAへ移ります。\n\n期間：11月6日（金）〜11月15日（日）\n場所：ソウル・江南区 宣陵路（ソンルンノ）121キル29 ビルボードコリア ハウス\n予約：ビルボードコリア公式インスタグラムのプロフィールリンク\n映像：Billboard Korea l 빌보드코리아\n#SENE #ドギョンス #ディオ #韓国旅行 #ソウルポップアップ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -605,10 +693,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-09T08:33+09:00"
+  "at": "2026-11-09T08:35+09:00"
  },
  "queue": {
-  "next": "2026-11-09T08:35+09:00",
+  "next": "2026-11-09T08:37+09:00",
   "n": 0,
   "gap": 20
  },
