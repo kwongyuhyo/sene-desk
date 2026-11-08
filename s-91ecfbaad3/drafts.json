@@ -1071,13 +1071,26 @@
     "en": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=2poI7LCnHM4\n구간: 0:03-0:21\n곡: *Joaquin Phoenix*\n아티스트: At a strange hotel,\n피처링:\n후킹: \n출처: GENTLE MONSTER\n자막: 끔",
-      "caption": "Joaquin Phoenix stars in the first campaign film for AI glasses from Gentle Monster (@gentlemonster).\n\nThe film is directed by Jonathan Glazer of 'The Zone of Interest'. In the teaser released Nov 6, Phoenix plays a salesman staying at an unfamiliar hotel. The brand says the story follows him as he meets unknown figures at the end of a red-lit corridor and comes to understand what they say through the glasses.\n\nThe brand says it chose to tell a story rather than demonstrate features. The glasses were made with Samsung and Google and run on Google's Android XR platform.\n\nFull film: Due out in November\nPre-orders: From Nov 12 on Gentle Monster's official website (US)\nRelease: Expected in December\n#SENE #JoaquinPhoenix #GentleMonster #JonathanGlazer #AIGlasses"
+      "caption": "Joaquin Phoenix stars in the first campaign film for AI glasses from Gentle Monster (@gentlemonster).\n\nThe film is directed by Jonathan Glazer of 'The Zone of Interest'. In the teaser released Nov 6, Phoenix plays a salesman staying at an unfamiliar hotel. The brand says the story follows him as he meets unknown figures at the end of a red-lit corridor and comes to understand what they say through the glasses.\n\nThe brand says it chose to tell a story rather than demonstrate features. The glasses were made with Samsung and Google and run on Google's Android XR platform.\n\nFull film: Due out in November\nPre-orders: From Nov 12 on Gentle Monster's official website (US)\nRelease: Expected in December\n#SENE #JoaquinPhoenix #GentleMonster #JonathanGlazer #AIGlasses",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794106217/sene_studio/nfiper7dwaj6vq9cvczh.mp4",
+       "at": "2026-11-08T11:50+09:00",
+       "file": "At_a_strange_hotel_Joaquin_Phoenix_PaeSyeon_no_lyrics.mp4",
+       "sig": "c06f099c0b",
+       "v": "e48f28e8"
+      }
      }
     },
     "ja": {
      "shorts": {
       "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=2poI7LCnHM4\n구간: 0:03-0:21\n곡: *ホアキン・フェニックス*\n아티스트: 見知らぬホテルの\n피처링:\n후킹: \n출처: GENTLE MONSTER\n자막: 끔",
-      "caption": "ホアキン・フェニックスが、ジェントルモンスター（Gentle Monster・@gentlemonster）初のAIメガネのキャンペーンフィルムに出演します。\n\n監督は『関心領域』のジョナサン・グレイザーが務めました。11月6日に公開されたティザーで、フェニックスは見知らぬホテルに泊まることになったセールスマンを演じています。ブランドによると、赤い照明に照らされた廊下の先で正体のわからない人々と出会い、メガネを通して彼らの言葉を理解するようになる物語だといいます。\n\n機能を実演するのではなく、物語で見せるというのがブランドの説明です。メガネはサムスン、Googleと共同で開発され、GoogleのAndroid XRプラットフォームをベースにしています。\n\n本編：11月中に公開予定\n予約注文：11月12日からジェントルモンスター公式サイトにて（米国）\n発売：12月予定\n#SENE #ホアキンフェニックス #ジェントルモンスター #ジョナサングレイザー #AIメガネ"
+      "caption": "ホアキン・フェニックスが、ジェントルモンスター（Gentle Monster・@gentlemonster）初のAIメガネのキャンペーンフィルムに出演します。\n\n監督は『関心領域』のジョナサン・グレイザーが務めました。11月6日に公開されたティザーで、フェニックスは見知らぬホテルに泊まることになったセールスマンを演じています。ブランドによると、赤い照明に照らされた廊下の先で正体のわからない人々と出会い、メガネを通して彼らの言葉を理解するようになる物語だといいます。\n\n機能を実演するのではなく、物語で見せるというのがブランドの説明です。メガネはサムスン、Googleと共同で開発され、GoogleのAndroid XRプラットフォームをベースにしています。\n\n本編：11月中に公開予定\n予約注文：11月12日からジェントルモンスター公式サイトにて（米国）\n発売：12月予定\n#SENE #ホアキンフェニックス #ジェントルモンスター #ジョナサングレイザー #AIメガネ",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-08T11:48+09:00",
+       "sig": "e3bcf03530",
+       "job": 244
+      }
      }
     }
    }
@@ -1328,10 +1341,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-08T11:48+09:00"
+  "at": "2026-11-08T11:50+09:00"
  },
  "queue": {
-  "next": "2026-11-08T11:50+09:00",
+  "next": "2026-11-08T11:52+09:00",
   "n": 0,
   "gap": 20
  },
