@@ -178,8 +178,8 @@
    },
    "pick": {
     "rank": 1,
-    "why": "오늘 저녁 6시 새 앨범 공개 — 컴백 날 팬이 저장할 팝업 입장 규칙·기간·주소",
-    "at": "2026-11-09T11:44+09:00"
+    "why": "오늘 저녁 6시 새 앨범 공개 — 컴백 첫날 밤 팬이 저장할 팝업 입장 규칙·기간·주소",
+    "at": "2026-11-09T17:48+09:00"
    }
   },
   {
@@ -458,7 +458,7 @@
    "pick": {
     "rank": 2,
     "why": "서울 전시 마지막 주 — 남은 엿새, 공식 필름 릴스로 그림이 먼저 보이는 글",
-    "at": "2026-11-09T11:44+09:00"
+    "at": "2026-11-09T17:48+09:00"
    }
   },
   {
@@ -1020,11 +1020,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 3,
-    "why": "크리스 에반스 11년 만의 내한 — 다들 이야기하는 소식, 날짜를 마블코리아 공식 기준으로 정확히",
-    "at": "2026-11-09T11:44+09:00"
-   },
    "corner_name": "소식",
    "i18n_queued": "2026-11-09T11:45+09:00",
    "i18n": {
@@ -1081,6 +1076,153 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:seoul-christmas-markets-2026",
+    "account": "기사·공식 계정",
+    "url": "https://www.segye.com/newsView/20261106503368",
+    "image": null,
+    "head": "신세계 홀리데이 마켓 강남점 10/30~12/28 · 본점 11/24~12/31 — 더현대 H빌리지 11/10~12/31 · 롯데타운 11/19",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-09T17:48+09:00",
+   "key": "3fc21199",
+   "by": "claude",
+   "subjects": [
+    "서울 크리스마스 마켓",
+    "더현대 서울",
+    "롯데백화점"
+   ],
+   "lane": "정리",
+   "editor": {
+    "grade": "A",
+    "kind": "정리",
+    "angle": "[실험] 올겨울 서울 백화점 크리스마스 마켓 넷을 여는 날짜순으로 — 기간·장소·예약 방식만 (순위 없음)",
+    "why": "기획안 slot pm · H빌리지 11/10 개장 · 롯데타운 11/9 14시 1차 예약 시작 — 이번 주부터 시즌, 저장할 정보"
+   },
+   "added": "claude",
+   "added_at": "2026-11-09T17:48+09:00",
+   "corner": "roundup",
+   "card": {
+    "form": "[카테고리]\n공간\n\n[캡션]\n서울 백화점들의 크리스마스 마켓이 이번 달 차례로 문을 엽니다.\n\n신세계 강남점이 지난달 30일 가장 먼저 열었는데요, 내일(10일) 더현대 서울(@thehyundai_seoul) H빌리지, 19일 잠실 롯데타운 크리스마스 마켓, 24일 신세계 명동 본점이 뒤를 잇습니다. 올해 더현대는 80~90년대 뉴욕 거리를, 롯데는 19세기 영국의 겨울 거리를 골랐습니다.\n\n예약은 곳마다 다릅니다. 더현대는 네이버 예약 1차분(11월 10~25일 방문)이 이미 마감돼 2~4층 QR 현장 웨이팅으로도 들어갈 수 있고, 롯데는 오늘 오후 2시 19~30일 입장분 예약을 열었습니다.\n\n신세계 강남점: 10월 30일(금) ~ 12월 28일(월)\n더현대 서울 H빌리지: 11월 10일(화) 개장 · 5층 사운즈포레스트 · 네이버 예약\n롯데타운 크리스마스 마켓: 11월 19일(목) ~ 2027년 1월 3일(일) · 잠실 월드파크 잔디광장 · 롯데백화점몰·네이버 예약\n신세계 본점: 11월 24일(화) ~ 12월 31일(목) · 명동\n#SENE #크리스마스마켓 #더현대서울 #롯데타운크리스마스마켓 #신세계백화점 #H빌리지\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214127/t7mokledckp5jqeesjsx.jpg\n제목: 서울 크리스마스 마켓,|여는 날짜순 정리\n부제: 더현대 · 롯데타운 · 신세계 본점, 그리고 이미 연 강남점\n출처: 현대백화점\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214129/ubedx6uyssywqlq3szbz.jpg\n소제목: 더현대 서울 H빌리지 — 11월 10일\n본문: 11월 10일(화) 개장 · 5층 사운즈포레스트|80~90년대 뉴욕 거리, 붉은 벽돌 건물 13개 동|네이버 예약(1시간 단위·계정당 4매) · 1차(11/10~25 방문분) 마감 · 2~4층 QR 현장 웨이팅\n출처: 현대백화점\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214132/ehllge2mgy95c5mqkbrw.jpg\n소제목: 롯데타운 크리스마스 마켓 — 11월 19일\n본문: 11월 19일(목) ~ 2027년 1월 3일(일) · 잠실 월드파크 야외 잔디광장|19세기 영국 겨울 거리, 17m 시계탑과 2층 회전목마|롯데백화점몰·네이버 예약 — 무료 일반 예약권·유료 패스트패스|12월 1~17일 입장분은 11월 20일, 그 뒤 입장분은 12월 7일 예약 오픈\n출처: 롯데백화점\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214135/x2q33xwdevd70djgeb2f.jpg\n소제목: 신세계 본점 — 11월 24일\n본문: 11월 24일(화) ~ 12월 31일(목) · 서울 중구 명동|본점 외벽 크리스마스 영상은 매일 오후 5시~자정, 2027년 1월 31일까지\n출처: 신세계백화점\n\n[슬라이드]\n소스: \n소제목: 이미 열린 곳 — 신세계 강남점\n본문: 10월 30일(금) ~ 12월 28일(월)|벽돌집 모양 마켓, 바깥엔 트리로 꾸민 길\n출처:\n",
+    "caption": "서울 백화점들의 크리스마스 마켓이 이번 달 차례로 문을 엽니다.\n\n신세계 강남점이 지난달 30일 가장 먼저 열었는데요, 내일(10일) 더현대 서울(@thehyundai_seoul) H빌리지, 19일 잠실 롯데타운 크리스마스 마켓, 24일 신세계 명동 본점이 뒤를 잇습니다. 올해 더현대는 80~90년대 뉴욕 거리를, 롯데는 19세기 영국의 겨울 거리를 골랐습니다.\n\n예약은 곳마다 다릅니다. 더현대는 네이버 예약 1차분(11월 10~25일 방문)이 이미 마감돼 2~4층 QR 현장 웨이팅으로도 들어갈 수 있고, 롯데는 오늘 오후 2시 19~30일 입장분 예약을 열었습니다.\n\n신세계 강남점: 10월 30일(금) ~ 12월 28일(월)\n더현대 서울 H빌리지: 11월 10일(화) 개장 · 5층 사운즈포레스트 · 네이버 예약\n롯데타운 크리스마스 마켓: 11월 19일(목) ~ 2027년 1월 3일(일) · 잠실 월드파크 잔디광장 · 롯데백화점몰·네이버 예약\n신세계 본점: 11월 24일(화) ~ 12월 31일(목) · 명동\n#SENE #크리스마스마켓 #더현대서울 #롯데타운크리스마스마켓 #신세계백화점 #H빌리지",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214127/t7mokledckp5jqeesjsx.jpg",
+      "credit": "현대백화점",
+      "from": "https://files.mtn.co.kr/article-asset/2026/11/09/8fde7af8-ae69-447d-a691-e34f7c245394.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214129/ubedx6uyssywqlq3szbz.jpg",
+      "credit": "현대백화점",
+      "from": "https://img.hankyung.com/photo/202611/01.46322008.1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214132/ehllge2mgy95c5mqkbrw.jpg",
+      "credit": "롯데백화점",
+      "from": "https://wimg.sedaily.com/news/cms/2026/11/08/news-p.v1.20261107.71e5599d6aad45eab45596ad2587b9ae_Z1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214135/x2q33xwdevd70djgeb2f.jpg",
+      "credit": "신세계백화점",
+      "from": "https://www.segye.com/content/image/2026/11/06/20261106503372.png"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214127/t7mokledckp5jqeesjsx.jpg",
+      "credit": "현대백화점",
+      "from": "https://files.mtn.co.kr/article-asset/2026/11/09/8fde7af8-ae69-447d-a691-e34f7c245394.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214129/ubedx6uyssywqlq3szbz.jpg",
+      "credit": "현대백화점",
+      "from": "https://img.hankyung.com/photo/202611/01.46322008.1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214132/ehllge2mgy95c5mqkbrw.jpg",
+      "credit": "롯데백화점",
+      "from": "https://wimg.sedaily.com/news/cms/2026/11/08/news-p.v1.20261107.71e5599d6aad45eab45596ad2587b9ae_Z1.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214135/x2q33xwdevd70djgeb2f.jpg",
+      "credit": "신세계백화점",
+      "from": "https://www.segye.com/content/image/2026/11/06/20261106503372.png"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "서울 크리스마스 마켓,|여는 날짜순 정리",
+      "sub": "더현대 · 롯데타운 · 신세계 본점, 그리고 이미 연 강남점"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 더현대 H빌리지 종료일(12/31)은 기사·현대백화점 보도자료에 없고 인스타 게시물도 열리지 않아 장·캡션에서 뺐음 — 공식 계정 공지로 확인되면 다시 넣기",
+     "광화문 마켓·뚝섬 한강 마켓은 2026 일정 공식 발표를 못 찾아 뺐음 · 롯데 운영 시간(11:30~22:00)·패스트패스 가격(블로그 1만5천 원)·신세계 층수는 한 곳뿐이라 안 씀",
+     "강남점 장(5장)은 백화점 제공 사진을 못 구해 비어 있음(통신사 사진만 있음) — 스튜디오에서 신세계 공식 사진을 넣거나 장을 빼기 · 롯데 장 사진은 서울경제 '전경, 롯데백화점 제공'(개장 전이라 조감도일 수 있음)",
+     "사진이 모자라 1장(4번)은 비워 뒀습니다 — 같은 사진을 두 번 쓰지 않으려고. 스튜디오에서 빈 자리를 눌러 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "더현대 서울 공식 인스타 (11/5) — Christmas in New York City 기간 11.10(Tue) ~ 12/31(Thu) · 네이버 1차 사전 예약(11/10~25) 마감 공지",
+      "link": "https://www.instagram.com/thehyundai_seoul/"
+     },
+     {
+      "title": "한국경제 (11/5) — 5층 사운즈포레스트 H빌리지 10일부터 · 80~90년대 뉴욕 · 붉은 벽돌 13개 동 · 네이버 예약 1시간 단위·계정당 4매 · 2~4층 QR 현장 웨이팅 · 예약 시스템 오류 후 18시 재개",
+      "link": "https://www.hankyung.com/article/202611058663g"
+     },
+     {
+      "title": "머니투데이방송 MTN (11/9) — 10일 정식 공개 앞두고 9일 미리 공개 · 1차 예약 30분 만에 마감 · 150만 명은 2022년 이후 누적",
+      "link": "https://news.mtn.co.kr/article/2026110916001987334"
+     },
+     {
+      "title": "국민일보 (11/8) — 롯데타운 크리스마스 마켓 11/19~1/3 잠실 월드파크 야외 잔디광장 · 19세기 영국 · 17m 시계탑·2층 회전목마 · 9일 14시 롯데백화점몰·네이버 예약 · 무료 일반 예약권·패스트패스 · 12월분 20일·연말분 다음 달 7일",
+      "link": "https://www.kmib.co.kr/article/20261108500779"
+     },
+     {
+      "title": "뉴스핌 (11/8) — 같은 기간·장소·예약 일정 · 약 800평 · 5개 구역 40여 개 상점",
+      "link": "https://www.newspim.com/news/view/20261108000111"
+     },
+     {
+      "title": "재경일보 (11/8) — 11/9: 11/19~30 입장분 · 11/20: 12/1~17 · 12/7: 12/18~1/3 · 운영 11:30~22:00(한 곳뿐 · 캡션엔 안 씀)",
+      "link": "https://news.jkn.co.kr/post/1077616"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214143/c2l7eqnnlrf38xoyhrbz.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214143/bd4zcie1rloelil4mc6t.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214143/vi1eyji47ega5vsyn22s.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214144/hgtnaquaqm2p6x5tnqfg.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214145/ytkmmep56jv87cxarfnj.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214145/mj9amhzlwsueq3fydqqn.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214143/c2l7eqnnlrf38xoyhrbz.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-09T17:49+09:00",
+     "v": {
+      "A": "7ea7b99f"
+     }
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "H빌리지 내일 개장 · 롯데타운 오늘 첫 예약 — 퇴근길에 저장할 날짜순 정리",
+    "at": "2026-11-09T17:48+09:00"
+   },
+   "corner_name": "정리",
+   "corner_no": 2,
+   "i18n_queued": "2026-11-09T17:49+09:00"
   }
  ],
  "skipped": [],
@@ -1113,7 +1255,7 @@
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 1,
+    "drafts": 2,
     "why": "날짜·장소·가격이 있는 모음 (이번 주 성수 팝업 · 이번 달 개봉작). 순위는 매기지 않는다"
    },
    {
@@ -1328,10 +1470,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-09T11:46+09:00"
+  "at": "2026-11-09T17:49+09:00"
  },
  "queue": {
-  "next": "2026-11-09T11:48+09:00",
+  "next": "2026-11-09T17:51+09:00",
   "n": 0,
   "gap": 20
  },

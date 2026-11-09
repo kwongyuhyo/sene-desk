@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-09T11:46+09:00",
+ "generated_at": "2026-11-09T17:49+09:00",
  "range": [
   "2026-11-03",
   "2026-11-09"
@@ -10,15 +10,15 @@
   "2026-11-02"
  ],
  "cur": {
-  "drafts": 45,
+  "drafts": 46,
   "lanes": {
    "정보": 24,
-   "정리": 12,
+   "정리": 13,
    "클립": 6,
    "현장": 3
   },
   "forms": {
-   "캐러셀": 25,
+   "캐러셀": 26,
    "캐러셀+숏폼": 13,
    "숏폼": 7
   },
@@ -33,14 +33,14 @@
   "published": 1,
   "publish_rate": 0.02,
   "reach_mult": [],
-  "verify_touched": 26,
+  "verify_touched": 27,
   "orders": {
    "만듦": 2,
    "못 만듦": 1
   },
-  "runs": 143,
+  "runs": 145,
   "run_fail": 0,
-  "avg_secs": 119,
+  "avg_secs": 120,
   "denied": 7,
   "auto": {
    "올림": 0,
