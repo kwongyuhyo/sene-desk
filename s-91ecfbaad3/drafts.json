@@ -1211,7 +1211,9 @@
      "cvr": 2,
      "at": "2026-11-09T17:49+09:00",
      "v": {
-      "A": "7ea7b99f"
+      "A": "7ea7b99f",
+      "E": "9266910b",
+      "J": "25d56645"
      }
     }
    },
@@ -1222,7 +1224,72 @@
    },
    "corner_name": "정리",
    "corner_no": 2,
-   "i18n_queued": "2026-11-09T17:49+09:00"
+   "i18n_queued": "2026-11-09T17:49+09:00",
+   "i18n": {
+    "at": "2026-11-09T17:50+09:00",
+    "confirm": [
+     "외국어 공식 표기 중 웹에서 확인한 것: 'The Hyundai Seoul', 'H Village', 'Sounds Forest'(영문 기사와 커뮤니티 글). 일본어 'ザ・現代ソウル'·'Hビレッジ'·'サウンズフォレスト', 영어 'Lotte Town Christmas Market'·'World Park'는 공식 표기를 찾지 못해 로마자·カタカナ로 옮겼습니다. 올리기 전에 각 백화점 영어·일본어 페이지에서 확인해 주세요.",
+     "원문 안에서 날짜가 엇갈립니다: 캡션은 롯데가 '오늘(11/9) 오후 2시 19~30일 입장분' 예약을 열었다고 하고, 본문 장은 '12월 1~17일 입장분은 11월 20일'에 연다고 합니다. 둘 다 원문대로 옮겼습니다. 서로 맞는지 롯데 공지로 확인해 주세요.",
+     "캡션 '내일(10일)'은 오늘이 11월 9일이라는 전제로 쓴 말이라 영어·일본어판도 'tomorrow/明日'로 옮겼습니다. 올리는 날이 바뀌면 함께 고쳐야 합니다.",
+     "일본어 · 더현대 서울을 'ザ・現代ソウル' 로 쓴 것 — 현대백화점의 공식 일본어 표기인지 확인 못 함 ('ザ・ヒョンデ ソウル' 등 다른 표기 가능성)",
+     "영어·일본어 · 'Sounds Forest／サウンズフォレスト'·'Fast Pass／ファストパス' 공식 표기는 확인 못 함",
+     "영어·일본어 캡션 · 'tomorrow／明日'·'today 2 p.m.／本日午後2時' 는 11월 9일 게시 기준 — 올리는 날이 바뀌면 고쳐야 함"
+    ],
+    "review": {
+     "at": "2026-11-09T17:50+09:00",
+     "fixes": [
+      "일본어 · 캡션 둘째 단락 · ザ・現代ソウル（더현대 서울・@thehyundai_seoul） → （The Hyundai Seoul・@thehyundai_seoul） — 일본 독자가 못 읽는 한글이 남아 있어 영문 공식 이름으로 바꿈",
+      "영어 · 더현대 본문 첫 줄 · Opens Tue, Nov 10 → Opens Nov 10 (Tue) — 다른 칸·캡션의 날짜(요일) 표기와 맞춤"
+     ],
+     "doubt": [
+      "일본어 · 더현대 서울을 'ザ・現代ソウル' 로 쓴 것 — 현대백화점의 공식 일본어 표기인지 확인 못 함 ('ザ・ヒョンデ ソウル' 등 다른 표기 가능성)",
+      "영어·일본어 · 'Sounds Forest／サウンズフォレスト'·'Fast Pass／ファストパス' 공식 표기는 확인 못 함",
+      "영어·일본어 캡션 · 'tomorrow／明日'·'today 2 p.m.／本日午後2時' 는 11월 9일 게시 기준 — 올리는 날이 바뀌면 고쳐야 함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nSeoul's department store Christmas markets open one after another this month.\n\nShinsegae Gangnam went first, opening on Oct 30. The Hyundai Seoul (@thehyundai_seoul) opens its H Village tomorrow, Nov 10, followed by the Lotte Town Christmas Market in Jamsil on Nov 19 and Shinsegae's main store in Myeong-dong on Nov 24. This year The Hyundai recreates a 1980s–90s New York street, while Lotte chose a 19th-century English winter street.\n\nBooking works differently at each. The Hyundai's first round of Naver reservations (visits Nov 10–25) is already full, but you can still get in through the QR walk-in waitlist on 2F–4F. Lotte opened bookings for Nov 19–30 entry today at 2 p.m.\n\nShinsegae Gangnam: Oct 30 (Fri) – Dec 28 (Mon)\nThe Hyundai Seoul H Village: Opens Nov 10 (Tue) · Sounds Forest, 5F · Naver reservations\nLotte Town Christmas Market: Nov 19 (Thu) – Jan 3, 2027 (Sun) · World Park lawn, Jamsil · Lotte Department Store Mall / Naver reservations\nShinsegae Main Store: Nov 24 (Tue) – Dec 31 (Thu) · Myeong-dong\n#SENE #SeoulChristmasMarket #TheHyundaiSeoul #SeoulTravel #Jamsil #Myeongdong\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214127/t7mokledckp5jqeesjsx.jpg\n제목: Seoul Christmas Markets,|By Opening Date\n부제: The Hyundai, Lotte Town and Shinsegae's main store — plus Gangnam, already open\n출처: Hyundai Department Store\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214129/ubedx6uyssywqlq3szbz.jpg\n소제목: The Hyundai Seoul H Village — Nov 10\n본문: Opens Nov 10 (Tue) · Sounds Forest, 5F|A 1980s–90s New York street of 13 red-brick buildings|Naver booking (1-hour slots, 4 per account) · first round (visits Nov 10–25) full · QR walk-in waitlist on 2F–4F\n출처: Hyundai Department Store\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214132/ehllge2mgy95c5mqkbrw.jpg\n소제목: Lotte Town Christmas Market — Nov 19\n본문: Nov 19 (Thu) – Jan 3, 2027 (Sun) · outdoor lawn, World Park, Jamsil|A 19th-century English winter street with a 17m clock tower and a two-story carousel|Booking via Lotte Department Store Mall and Naver — free general tickets and paid Fast Pass|Bookings for Dec 1–17 entry open Nov 20; later entry opens Dec 7\n출처: Lotte Department Store\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214135/x2q33xwdevd70djgeb2f.jpg\n소제목: Shinsegae Main Store — Nov 24\n본문: Nov 24 (Tue) – Dec 31 (Thu) · Myeong-dong, Jung-gu, Seoul|Christmas video on the store façade daily, 5 p.m. to midnight, through Jan 31, 2027\n출처: Shinsegae Department Store\n\n[슬라이드]\n소스: \n소제목: Already Open — Shinsegae Gangnam\n본문: Oct 30 (Fri) – Dec 28 (Mon)|A market of brick houses, with a tree-lined path outside\n출처: \n",
+      "caption": "Seoul's department store Christmas markets open one after another this month.\n\nShinsegae Gangnam went first, opening on Oct 30. The Hyundai Seoul (@thehyundai_seoul) opens its H Village tomorrow, Nov 10, followed by the Lotte Town Christmas Market in Jamsil on Nov 19 and Shinsegae's main store in Myeong-dong on Nov 24. This year The Hyundai recreates a 1980s–90s New York street, while Lotte chose a 19th-century English winter street.\n\nBooking works differently at each. The Hyundai's first round of Naver reservations (visits Nov 10–25) is already full, but you can still get in through the QR walk-in waitlist on 2F–4F. Lotte opened bookings for Nov 19–30 entry today at 2 p.m.\n\nShinsegae Gangnam: Oct 30 (Fri) – Dec 28 (Mon)\nThe Hyundai Seoul H Village: Opens Nov 10 (Tue) · Sounds Forest, 5F · Naver reservations\nLotte Town Christmas Market: Nov 19 (Thu) – Jan 3, 2027 (Sun) · World Park lawn, Jamsil · Lotte Department Store Mall / Naver reservations\nShinsegae Main Store: Nov 24 (Tue) – Dec 31 (Thu) · Myeong-dong\n#SENE #SeoulChristmasMarket #TheHyundaiSeoul #SeoulTravel #Jamsil #Myeongdong",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214257/zaiawrtgu1wgpfrsgw1n.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214257/uccprlvbklvme2aqulf7.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214257/anykwfbbqjyuxalabreb.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214257/xyqjben6lcabicdmtynn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214259/pms4wynvsbf36zapxxdk.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214259/obilyrarkmofmmnngise.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214257/zaiawrtgu1wgpfrsgw1n.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T17:50+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nソウルの百貨店のクリスマスマーケットが、今月次々とオープンします。\n\n新世界百貨店 江南店が10月30日にいち早く開きましたが、明日（10日）にはザ・現代ソウル（The Hyundai Seoul・@thehyundai_seoul）のHビレッジ、19日に蚕室（チャムシル）のロッテタウン・クリスマスマーケット、24日に明洞（ミョンドン）の新世界百貨店 本店が続きます。今年、ザ・現代は80〜90年代のニューヨークの街並みを、ロッテは19世紀イギリスの冬の街並みを選びました。\n\n予約方法は場所ごとに異なります。ザ・現代はNAVER予約の第1次分（11月10〜25日来場）がすでに締め切られていますが、2〜4階のQR現場ウェイティングでも入場できます。ロッテは本日午後2時、11月19〜30日入場分の予約を開始しました。\n\n新世界百貨店 江南店：10月30日（金）〜12月28日（月）\nザ・現代ソウル Hビレッジ：11月10日（火）オープン・5階サウンズフォレスト・NAVER予約\nロッテタウン・クリスマスマーケット：11月19日（木）〜2027年1月3日（日）・蚕室ワールドパーク芝生広場・ロッテ百貨店モール／NAVER予約\n新世界百貨店 本店：11月24日（火）〜12月31日（木）・明洞\n#SENE #韓国旅行 #ソウルクリスマス #ザ現代ソウル #蚕室 #明洞\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214127/t7mokledckp5jqeesjsx.jpg\n제목: ソウルのクリスマスマーケット|オープン順まとめ\n부제: ザ・現代ソウル・ロッテタウン・新世界本店、そしてすでに開いた江南店\n출처: 現代百貨店\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214129/ubedx6uyssywqlq3szbz.jpg\n소제목: ザ・現代ソウル Hビレッジ — 11月10日\n본문: 11月10日（火）オープン・5階サウンズフォレスト|80〜90年代のニューヨークの街並み、赤レンガの建物13棟|NAVER予約（1時間単位・1アカウント4枚まで）・第1次（11/10〜25来場分）は締め切り・2〜4階でQR現場ウェイティング\n출처: 現代百貨店\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214132/ehllge2mgy95c5mqkbrw.jpg\n소제목: ロッテタウン・クリスマスマーケット — 11月19日\n본문: 11月19日（木）〜2027年1月3日（日）・蚕室（チャムシル）ワールドパーク屋外芝生広場|19世紀イギリスの冬の街並み、17mの時計塔と2階建てメリーゴーラウンド|ロッテ百貨店モール・NAVER予約 — 無料の一般予約券と有料ファストパス|12月1〜17日入場分は11月20日、それ以降の入場分は12月7日に予約開始\n출처: ロッテ百貨店\n\n[슬라이드]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794214135/x2q33xwdevd70djgeb2f.jpg\n소제목: 新世界百貨店 本店 — 11月24日\n본문: 11月24日（火）〜12月31日（木）・ソウル・中区明洞（ミョンドン）|本店外壁のクリスマス映像は毎日午後5時〜深夜0時、2027年1月31日まで\n출처: 新世界百貨店\n\n[슬라이드]\n소스: \n소제목: すでにオープン — 新世界百貨店 江南店\n본문: 10月30日（金）〜12月28日（月）|レンガの家をかたどったマーケット、外にはツリーで飾られた道\n출처: \n",
+      "caption": "ソウルの百貨店のクリスマスマーケットが、今月次々とオープンします。\n\n新世界百貨店 江南店が10月30日にいち早く開きましたが、明日（10日）にはザ・現代ソウル（The Hyundai Seoul・@thehyundai_seoul）のHビレッジ、19日に蚕室（チャムシル）のロッテタウン・クリスマスマーケット、24日に明洞（ミョンドン）の新世界百貨店 本店が続きます。今年、ザ・現代は80〜90年代のニューヨークの街並みを、ロッテは19世紀イギリスの冬の街並みを選びました。\n\n予約方法は場所ごとに異なります。ザ・現代はNAVER予約の第1次分（11月10〜25日来場）がすでに締め切られていますが、2〜4階のQR現場ウェイティングでも入場できます。ロッテは本日午後2時、11月19〜30日入場分の予約を開始しました。\n\n新世界百貨店 江南店：10月30日（金）〜12月28日（月）\nザ・現代ソウル Hビレッジ：11月10日（火）オープン・5階サウンズフォレスト・NAVER予約\nロッテタウン・クリスマスマーケット：11月19日（木）〜2027年1月3日（日）・蚕室ワールドパーク芝生広場・ロッテ百貨店モール／NAVER予約\n新世界百貨店 本店：11月24日（火）〜12月31日（木）・明洞\n#SENE #韓国旅行 #ソウルクリスマス #ザ現代ソウル #蚕室 #明洞",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214264/eypf0jytyubf6epunfn0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214264/wfwydpiardp49y06ay6a.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214264/o0qhyyprrhf6r5znjjm0.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214264/xx9bulfkrn3xauila0ua.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214265/qs9fpjzzqovc47ci8aij.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214265/myk25mjgtrh8k8cym2bs.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794214264/eypf0jytyubf6epunfn0.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T17:51+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1470,10 +1537,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-09T17:49+09:00"
+  "at": "2026-11-09T17:51+09:00"
  },
  "queue": {
-  "next": "2026-11-09T17:51+09:00",
+  "next": "2026-11-09T17:53+09:00",
   "n": 0,
   "gap": 20
  },
