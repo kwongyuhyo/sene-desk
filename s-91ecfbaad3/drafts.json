@@ -693,9 +693,11 @@
      "end": 65.0,
      "full": 70.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-10T08:58+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794268792/sene_studio/r4ianb5coqnreuzjmjg5.mp4",
+     "at": "2026-11-10T08:59+09:00",
+     "file": "JeongHaeIn_2Nyeon_Ma_PaenMiTing_TuEo_KeolCheo_no_lyrics.mp4",
+     "v": "f040cf57"
     }
    },
    "corner_name": "콘서트 가는 날",
@@ -947,10 +949,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-10T08:58+09:00"
+  "at": "2026-11-10T08:59+09:00"
  },
  "queue": {
-  "next": "2026-11-10T09:00+09:00",
+  "next": "2026-11-10T09:01+09:00",
   "n": 0,
   "gap": 20
  },
