@@ -99,7 +99,9 @@
      "cvr": 2,
      "at": "2026-11-10T08:25+09:00",
      "v": {
-      "A": "8ef6db96"
+      "A": "8ef6db96",
+      "E": "8f5df9a3",
+      "J": "dbd86297"
      }
     }
    },
@@ -109,7 +111,62 @@
     "at": "2026-11-10T08:25+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-10T08:25+09:00"
+   "i18n_queued": "2026-11-10T08:25+09:00",
+   "i18n": {
+    "at": "2026-11-10T08:26+09:00",
+    "confirm": [
+     "출처 칸 '쏘스뮤직'은 회사 공식 영문 표기 'Source Music'으로 옮겼습니다 (일본어판도 같은 표기)",
+     "요일(11/9 월 · 11/15 일)과 주소는 원문 그대로 옮겼습니다. 기간·운영 시간·1인 1회차 예약·5만 원 이상 엽서 증정은 위버스 공지에서 확인했습니다",
+     "일본어 · 표지 제목 둘째 줄 'ポップアップ、15日まで龍山で' 가 16자로 기준(12자 안팎)보다 깁니다. 사실을 빼지 않고는 줄일 수 없어 그대로 두었으니 화면에 들어가는지 확인해 주세요.",
+     "영어 · 표지 제목 두 줄이 각각 26·27자로 기준(22자 안팎)보다 조금 깁니다. 'Holiday' 나 날짜를 빼야만 줄어들어 그대로 두었습니다."
+    ],
+    "review": {
+     "at": "2026-11-10T08:26+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · 'recreates …, the delivery company … FEARNOT, the group's fans, as a physical space' → 'turns … — … — into a physical space' — 'as a physical space' 가 너무 뒤에 붙어 걸리는 데가 모호했음",
+      "일본어 · 캡션 둘째 단락 · 'キャラクターですが、' → 'キャラクターで、' — '~인데요' 를 옮긴 직역투로, 일본어에서는 역접으로 읽힘",
+      "일본어 · 캡션 셋째 단락 · '当選は11月25日にメールで知らされます' → '当選者には11月25日にメールで通知されます' — 어색한 연어"
+     ],
+     "doubt": [
+      "일본어 · 표지 제목 둘째 줄 'ポップアップ、15日まで龍山で' 가 16자로 기준(12자 안팎)보다 깁니다. 사실을 빼지 않고는 줄일 수 없어 그대로 두었으니 화면에 들어가는지 확인해 주세요.",
+      "영어 · 표지 제목 두 줄이 각각 26·27자로 기준(22자 안팎)보다 조금 깁니다. 'Holiday' 나 날짜를 빼야만 줄어들어 그대로 두었습니다."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nA holiday pop-up for FIM'S CLUB, the character line of LE SSERAFIM (@le_sserafim), runs at the HYBE building in Yongsan, Seoul, through this Sunday.\n\nFIM'S CLUB characters are modeled on the five members. The pop-up turns 'FIM'S HOLIDAY EXPRESS' — the delivery company in the animation that takes wishes from FEARNOT, the group's fans — into a physical space. A real tree stands in the photo zone, and there are 11 merchandise items.\n\nPurchases of KRW 50,000 or more come with a postcard for writing to the members. Drop it in the on-site mailbox, and five people will be drawn to receive handwritten cards from the members by mail. Winners will be notified by email on Nov 25. Visits are limited to one hour, screenshots of the entry QR code are not accepted, and payment is by card, Samsung Pay or Apple Pay only.\n\nDates: Nov 9 (Mon) – Nov 15 (Sun)\nHours: 11 a.m. – 8 p.m.\nLocation: HYBE Yongsan 1F, 42 Hangang-daero, Yongsan-gu, Seoul\nReservations: Advance booking on Weverse (one time slot per person)\n#SENE #LE_SSERAFIM #FIMSCLUB #SeoulPopup #Yongsan #KpopPopup\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794266732/ie5zacby7umjchd8mj8d.jpg\n제목: LE SSERAFIM Holiday Pop-Up|in Yongsan Through Nov 15\n부제: FIM'S CLUB <FIM'S HOLIDAY EXPRESS> · HYBE Yongsan 1F\n출처: Source Music\n",
+      "caption": "A holiday pop-up for FIM'S CLUB, the character line of LE SSERAFIM (@le_sserafim), runs at the HYBE building in Yongsan, Seoul, through this Sunday.\n\nFIM'S CLUB characters are modeled on the five members. The pop-up turns 'FIM'S HOLIDAY EXPRESS' — the delivery company in the animation that takes wishes from FEARNOT, the group's fans — into a physical space. A real tree stands in the photo zone, and there are 11 merchandise items.\n\nPurchases of KRW 50,000 or more come with a postcard for writing to the members. Drop it in the on-site mailbox, and five people will be drawn to receive handwritten cards from the members by mail. Winners will be notified by email on Nov 25. Visits are limited to one hour, screenshots of the entry QR code are not accepted, and payment is by card, Samsung Pay or Apple Pay only.\n\nDates: Nov 9 (Mon) – Nov 15 (Sun)\nHours: 11 a.m. – 8 p.m.\nLocation: HYBE Yongsan 1F, 42 Hangang-daero, Yongsan-gu, Seoul\nReservations: Advance booking on Weverse (one time slot per person)\n#SENE #LE_SSERAFIM #FIMSCLUB #SeoulPopup #Yongsan #KpopPopup",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794266807/sdreukquxalkkg7xyslp.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794266807/yux1isyat7m8ctwbgeym.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794266807/sdreukquxalkkg7xyslp.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-10T08:26+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nLE SSERAFIM（ルセラフィム・@le_sserafim）のキャラクター「FIM'S CLUB」のホリデーポップアップが、今週日曜日までソウル・龍山（ヨンサン）のHYBE社屋で開かれています。\n\nFIM'S CLUBは5人のメンバーをモチーフにしたキャラクターで、アニメの中でファン「FEARNOT」の願いごとを受け付ける配送会社「FIM'S HOLIDAY EXPRESS」を、そのまま空間に再現しました。フォトゾーンには本物のツリーが立ち、グッズは11種類です。\n\n5万ウォン以上購入すると、メンバーに宛てて書くはがきがもらえます。会場のポストに投函すると、抽選で5人にメンバー直筆のカードが郵送で届き、当選者には11月25日にメールで通知されます。滞在は1時間まで、入場QRはスクリーンショットでは使えず、決済はカード・Samsung Pay・Apple Payのみです。\n\n期間：11月9日（月）〜11月15日（日）\n営業時間：午前11時〜午後8時\n場所：ソウル・龍山区漢江大路42 HYBE龍山 1階\n予約：Weverseで事前予約（1人1回）\n#SENE #LESSERAFIM #ルセラフィム #FIMSCLUB #韓国旅行 #龍山\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794266732/ie5zacby7umjchd8mj8d.jpg\n제목: ルセラフィムのホリデー|ポップアップ、15日まで龍山で\n부제: FIM'S CLUB〈FIM'S HOLIDAY EXPRESS〉・HYBE龍山 1階\n출처: Source Music\n",
+      "caption": "LE SSERAFIM（ルセラフィム・@le_sserafim）のキャラクター「FIM'S CLUB」のホリデーポップアップが、今週日曜日までソウル・龍山（ヨンサン）のHYBE社屋で開かれています。\n\nFIM'S CLUBは5人のメンバーをモチーフにしたキャラクターで、アニメの中でファン「FEARNOT」の願いごとを受け付ける配送会社「FIM'S HOLIDAY EXPRESS」を、そのまま空間に再現しました。フォトゾーンには本物のツリーが立ち、グッズは11種類です。\n\n5万ウォン以上購入すると、メンバーに宛てて書くはがきがもらえます。会場のポストに投函すると、抽選で5人にメンバー直筆のカードが郵送で届き、当選者には11月25日にメールで通知されます。滞在は1時間まで、入場QRはスクリーンショットでは使えず、決済はカード・Samsung Pay・Apple Payのみです。\n\n期間：11月9日（月）〜11月15日（日）\n営業時間：午前11時〜午後8時\n場所：ソウル・龍山区漢江大路42 HYBE龍山 1階\n予約：Weverseで事前予約（1人1回）\n#SENE #LESSERAFIM #ルセラフィム #FIMSCLUB #韓国旅行 #龍山",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794266810/qui7amfsdrt5ptdiigw5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794266809/y7nyzrfzvhvuxycan6x9.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794266810/qui7amfsdrt5ptdiigw5.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-10T08:26+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -357,10 +414,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-10T08:25+09:00"
+  "at": "2026-11-10T08:26+09:00"
  },
  "queue": {
-  "next": "2026-11-10T08:27+09:00",
+  "next": "2026-11-10T08:28+09:00",
   "n": 0,
   "gap": 20
  },
