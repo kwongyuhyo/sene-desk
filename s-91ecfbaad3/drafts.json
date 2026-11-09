@@ -121,11 +121,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "오늘 저녁 6시 새 앨범 공개 — 컴백 날 팬이 저장할 팝업 입장 규칙(팬클럽 회차)·기간·주소",
-    "at": "2026-11-09T08:30+09:00"
-   },
    "corner_name": "소식",
    "i18n_queued": "2026-11-09T08:32+09:00",
    "i18n": {
@@ -180,6 +175,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "오늘 저녁 6시 새 앨범 공개 — 컴백 날 팬이 저장할 팝업 입장 규칙·기간·주소",
+    "at": "2026-11-09T11:44+09:00"
    }
   },
   {
@@ -355,11 +355,6 @@
      "v": "fbf05a50"
     }
    },
-   "pick": {
-    "rank": 2,
-    "why": "마지막 주 월요일 — 남은 엿새, 공식 필름 릴스로 그림이 먼저 보이는 글",
-    "at": "2026-11-09T08:30+09:00"
-   },
    "corner_name": "현장",
    "i18n_queued": "2026-11-09T08:32+09:00",
    "i18n": {
@@ -459,6 +454,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "서울 전시 마지막 주 — 남은 엿새, 공식 필름 릴스로 그림이 먼저 보이는 글",
+    "at": "2026-11-09T11:44+09:00"
    }
   },
   {
@@ -912,6 +912,119 @@
    },
    "corner_name": "정리",
    "corner_no": 1
+  },
+  {
+   "source": {
+    "id": "claude:avengers-doomsday-korea-visit",
+    "account": "마블코리아 공식",
+    "url": "https://www.instagram.com/marvelkorea/",
+    "image": null,
+    "head": "마블코리아 공식 (11/5) — 크리스 에반스 & 크리스 헴스워스 & 케빈 파이기 〈어벤져스: 둠스데이〉 12/7(월)~12/8(화) 내한",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-09T11:44+09:00",
+   "key": "1771fc2d",
+   "by": "claude",
+   "subjects": [
+    "크리스 에반스",
+    "크리스 헴스워스",
+    "어벤져스: 둠스데이"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "〈어벤져스: 둠스데이〉 크리스 에반스·크리스 헴스워스·케빈 파이기 12/7~8 내한 — 에반스 11년 만, 헴스워스 마블 홍보 첫 방한 · 개봉 12/16",
+    "why": "기획안 slot am · type 소식 — 내한 확정 기사 다수, 오늘 안 다루면 'SENE 엔 왜 없지' 할 소식"
+   },
+   "added": "claude",
+   "added_at": "2026-11-09T11:44+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n크리스 에반스와 크리스 헴스워스가 다음 달 〈어벤져스: 둠스데이〉와 함께 한국에 옵니다.\n\n월트디즈니 컴퍼니 코리아는 두 배우와 마블 스튜디오 사장 케빈 파이기가 12월 7일부터 8일까지 내한한다고 밝혔는데요, 크리스 에반스에게는 2015년 〈어벤져스: 에이지 오브 울트론〉 이후 11년 만의 방한입니다. 크리스 헴스워스는 지난해 디즈니+ 〈크리스 헴스워스: 리미트리스〉 시즌2 촬영으로 한국을 찾은 적이 있지만, 마블 영화 홍보로 오는 건 이번이 처음입니다.\n\n기자 간담회와 레드카펫 같은 공식 일정이 예정돼 있고, 장소와 시간은 배급사가 따로 알립니다.\n\n내한: 12월 7일(월) ~ 12월 8일(화)\n개봉: 12월 16일(수)\n#SENE #어벤져스둠스데이 #크리스에반스 #크리스헴스워스 #내한\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794192296/vyi6mtsr2ol43mux7lxi.jpg\n제목: 크리스 에반스·헴스워스,|12월 7일 한국에\n부제: 〈어벤져스: 둠스데이〉 내한 · 12월 16일 개봉\n출처: @marvelkorea\n",
+    "caption": "크리스 에반스와 크리스 헴스워스가 다음 달 〈어벤져스: 둠스데이〉와 함께 한국에 옵니다.\n\n월트디즈니 컴퍼니 코리아는 두 배우와 마블 스튜디오 사장 케빈 파이기가 12월 7일부터 8일까지 내한한다고 밝혔는데요, 크리스 에반스에게는 2015년 〈어벤져스: 에이지 오브 울트론〉 이후 11년 만의 방한입니다. 크리스 헴스워스는 지난해 디즈니+ 〈크리스 헴스워스: 리미트리스〉 시즌2 촬영으로 한국을 찾은 적이 있지만, 마블 영화 홍보로 오는 건 이번이 처음입니다.\n\n기자 간담회와 레드카펫 같은 공식 일정이 예정돼 있고, 장소와 시간은 배급사가 따로 알립니다.\n\n내한: 12월 7일(월) ~ 12월 8일(화)\n개봉: 12월 16일(수)\n#SENE #어벤져스둠스데이 #크리스에반스 #크리스헴스워스 #내한",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192296/vyi6mtsr2ol43mux7lxi.jpg",
+      "credit": "@marvelkorea",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/887990161_18498763555110034_4806033159304197399_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=48Mzrro7iO4Q7kNvwGVRQCt&_nc_oc=AdrP_bj6p6cgAOv5osEtLkV0kcFJ4FpyNTibMp9h2XZKnaFbvzF7SCMT6Gus-UZVkLE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nUitYmQFlsOW1zpbDAYipA&_nc_tpa=Q5bMBQIZkxfNjTBdfS45YlFfghmG-UkLKzNAs25OAXUIgLRt9lppfu7s4mpVN1B-oU8wamOEZthh63yvWA&oh=00_AQTo2uanAFGGJqK5c80lwChitzbSrhaTyEfkm715zJ3nqQ&oe=6AF71E75"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192298/bbinstxmwvwkr9sznxjs.jpg",
+      "credit": "@marvelkorea",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/887902119_1693372482149707_9017752278484108403_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DjzxW4GxYfgQ7kNvwH1OkDF&_nc_oc=Adr-psppuRJRJboKf5DUpZ5UmdILqXZFs9ROW4s-Rv-cosxkcU30G5iQ5Szo9zFNk3Y&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nUitYmQFlsOW1zpbDAYipA&oh=00_AQThGi3OfdEGhMXB7_fNVErrjm4QrEwWSnS5ONpRwNRrNg&oe=6AF6F96D"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192296/vyi6mtsr2ol43mux7lxi.jpg",
+      "credit": "@marvelkorea",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/887990161_18498763555110034_4806033159304197399_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=48Mzrro7iO4Q7kNvwGVRQCt&_nc_oc=AdrP_bj6p6cgAOv5osEtLkV0kcFJ4FpyNTibMp9h2XZKnaFbvzF7SCMT6Gus-UZVkLE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nUitYmQFlsOW1zpbDAYipA&_nc_tpa=Q5bMBQIZkxfNjTBdfS45YlFfghmG-UkLKzNAs25OAXUIgLRt9lppfu7s4mpVN1B-oU8wamOEZthh63yvWA&oh=00_AQTo2uanAFGGJqK5c80lwChitzbSrhaTyEfkm715zJ3nqQ&oe=6AF71E75"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192298/bbinstxmwvwkr9sznxjs.jpg",
+      "credit": "@marvelkorea",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t39.30808-6/887902119_1693372482149707_9017752278484108403_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=DjzxW4GxYfgQ7kNvwH1OkDF&_nc_oc=Adr-psppuRJRJboKf5DUpZ5UmdILqXZFs9ROW4s-Rv-cosxkcU30G5iQ5Szo9zFNk3Y&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nUitYmQFlsOW1zpbDAYipA&oh=00_AQThGi3OfdEGhMXB7_fNVErrjm4QrEwWSnS5ONpRwNRrNg&oe=6AF6F96D"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "크리스 에반스·헴스워스,|12월 7일 한국에",
+      "sub": "〈어벤져스: 둠스데이〉 내한 · 12월 16일 개봉"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 발표 주체를 기사 기준 '월트디즈니 컴퍼니 코리아'로 바꿈 · '서울은 글로벌 투어 도시 가운데 하나' 문장은 마블코리아 릴스를 열어 확인하지 못해 뺌 · 12/7~8은 일간스포츠(디즈니코리아 발표 인용)로 확인, 다른 기사는 12/7만 — 올리기 전 공식 일정 다시 확인",
+     "날짜: 기사 대부분 '12월 7일', 마블코리아 공식·일간스포츠는 '12/7(월)~12/8(화)' — 공식 기준 7~8일로 씀. 행사 장소·시간은 아직 미공개",
+     "표지는 마블코리아 11/5 글로벌 투어 릴스 썸네일('DOOMSDAY IS COMING TO SEOUL' · 닥터 둠) — 두 배우 얼굴이 아님. 둘째 장은 내한 공지 이미지(원본 글자 많음)"
+    ],
+    "research": [
+     {
+      "title": "마블코리아 공식 인스타 (11/5) — 12/7(월)~12/8(화) 내한 공지 사진 · 같은 날 글로벌 투어 릴스(라스베이거스·상파울루·골드코스트·로마·런던·서울 …)",
+      "link": "https://www.instagram.com/marvelkorea/"
+     },
+     {
+      "title": "위키트리 (11/6) — 월트디즈니 컴퍼니 코리아 발표 · 12/7 내한 · 기자 간담회·레드카펫 등 공식 일정 · 장소·시간 추후 공개 · 에반스 11년 만 · 헴스워스 마블 홍보 첫 방한(지난해 리미트리스 시즌2 촬영 방한) · 개봉 12/16",
+      "link": "https://www.wikitree.co.kr/articles/1172326"
+     },
+     {
+      "title": "일간스포츠 (11/6) — 12/7~8 · 구체 일정 추후 공개 · 에반스 2015 에이지 오브 울트론 이후 11년 만 · 개봉 12/16",
+      "link": "https://isplus.com/article/view/isp202611060006"
+     },
+     {
+      "title": "OSEN via 코리아데일리 — 12/7 내한 확정 · 기자 간담회·레드카펫 · 12/16 개봉",
+      "link": "https://www.koreadaily.com/article/20261105170229297"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192303/thkmt2qaqsemgz1flap8.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192303/ab9wryyd95jis92at58g.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192303/thkmt2qaqsemgz1flap8.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-09T11:45+09:00",
+     "v": {
+      "A": "45f17f25"
+     }
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "크리스 에반스 11년 만의 내한 — 다들 이야기하는 소식, 날짜를 마블코리아 공식 기준으로 정확히",
+    "at": "2026-11-09T11:44+09:00"
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-11-09T11:45+09:00"
   }
  ],
  "skipped": [],
@@ -931,7 +1044,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 3,
+    "drafts": 4,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1159,10 +1272,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-09T08:56+09:00"
+  "at": "2026-11-09T11:45+09:00"
  },
  "queue": {
-  "next": "2026-11-09T08:59+09:00",
+  "next": "2026-11-09T11:47+09:00",
   "n": 0,
   "gap": 20
  },
