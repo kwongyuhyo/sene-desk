@@ -1014,7 +1014,9 @@
      "cvr": 2,
      "at": "2026-11-09T11:45+09:00",
      "v": {
-      "A": "45f17f25"
+      "A": "45f17f25",
+      "E": "0a574b80",
+      "J": "e7c8033c"
      }
     }
    },
@@ -1024,7 +1026,61 @@
     "at": "2026-11-09T11:44+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-09T11:45+09:00"
+   "i18n_queued": "2026-11-09T11:45+09:00",
+   "i18n": {
+    "at": "2026-11-09T11:46+09:00",
+    "confirm": [
+     "공개일: 원문의 12월 16일은 한국 개봉일입니다. 일본·미국 개봉은 12월 18일(금)이라(리얼사운드 보도, 월트 디즈니 재팬 발표 인용), 영어·일본어판에는 'Korea release'·'韓国公開'로 한국 개봉일임을 밝혔습니다. 일본 독자 쪽은 혼동하지 않는지 한 번 더 확인해 주세요.",
+     "일본어 제목: 『アベンジャーズ／ドゥームズデイ』는 일본 보도에서 확인했습니다. 『アベンジャーズ／エイジ・オブ・ウルトロン』은 기존에 알려진 일본 제목을 썼고, 이번에 따로 검색해 확인하지는 않았습니다.",
+     "〈크리스 헴스워스: 리미트리스〉 시즌2: 영어권에서는 시즌2 제목이 'Limitless: Live Better Now'로 바뀐 것으로 보도됐습니다. 원문의 '시즌2'를 따라 시즌1 제목에 시즌2를 붙여 옮겼습니다. 일본 디즈니+에서 쓰는 일본어 제목은 확인하지 못해 『リミットレス with クリス・ヘムズワース』로 임시로 적었습니다.",
+     "인명 표기 クリス・エヴァンス·クリス・ヘムズワース·ケヴィン・ファイギ는 일본에서 흔히 쓰는 표기를 따랐고, 이번에 따로 검색해 확인하지는 않았습니다.",
+     "부제 일본어는 약 30자로 원문 길이에 맞췄습니다. 화면에서 길면 '韓国12月16日公開'만 남겨도 됩니다.",
+     "영어·일본어 · 캡션 · 〈크리스 헴스워스: 리미트리스〉 시즌2 — 시즌2의 공식 영어 제목(시즌 부제가 따로 있을 수 있음)과 일본 디즈니플러스 표기를 검수에서 확인하지 못함, 올리기 전 확인",
+     "영어 · 부제 · 'Korea visit · Opens in Korea' 로 Korea 가 두 번 반복 — 틀린 건 아니라 두었음, 필요하면 줄이기"
+    ],
+    "review": {
+     "at": "2026-11-09T11:46+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 · 캡션 · 〈크리스 헴스워스: 리미트리스〉 시즌2 — 시즌2의 공식 영어 제목(시즌 부제가 따로 있을 수 있음)과 일본 디즈니플러스 표기를 검수에서 확인하지 못함, 올리기 전 확인",
+      "영어 · 부제 · 'Korea visit · Opens in Korea' 로 Korea 가 두 번 반복 — 틀린 건 아니라 두었음, 필요하면 줄이기"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nChris Evans and Chris Hemsworth are coming to Korea next month with 'Avengers: Doomsday.'\n\nThe Walt Disney Company Korea says the two actors and Marvel Studios president Kevin Feige will visit from Dec 7 to 8. For Evans, it is his first trip to Korea in 11 years, since 'Avengers: Age of Ultron' in 2015. Hemsworth was in Korea last year filming the second season of the Disney+ series 'Limitless with Chris Hemsworth,' but this is his first visit to promote a Marvel film.\n\nOfficial events, including a press conference and a red carpet, are planned. The distributor will announce venues and times separately.\n\nVisit: Dec 7 (Mon) – Dec 8 (Tue)\nKorea release: Dec 16 (Wed)\n#SENE #AvengersDoomsday #ChrisEvans #ChrisHemsworth #Marvel #Korea\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794192296/vyi6mtsr2ol43mux7lxi.jpg\n제목: Evans and Hemsworth|Coming to Korea Dec 7\n부제: 'Avengers: Doomsday' Korea visit · Opens in Korea Dec 16\n출처: @marvelkorea\n",
+      "caption": "Chris Evans and Chris Hemsworth are coming to Korea next month with 'Avengers: Doomsday.'\n\nThe Walt Disney Company Korea says the two actors and Marvel Studios president Kevin Feige will visit from Dec 7 to 8. For Evans, it is his first trip to Korea in 11 years, since 'Avengers: Age of Ultron' in 2015. Hemsworth was in Korea last year filming the second season of the Disney+ series 'Limitless with Chris Hemsworth,' but this is his first visit to promote a Marvel film.\n\nOfficial events, including a press conference and a red carpet, are planned. The distributor will announce venues and times separately.\n\nVisit: Dec 7 (Mon) – Dec 8 (Tue)\nKorea release: Dec 16 (Wed)\n#SENE #AvengersDoomsday #ChrisEvans #ChrisHemsworth #Marvel #Korea",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192394/eha8n8wunxo41cvxgaoz.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192394/tlidomt33hgspahr8udi.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192394/eha8n8wunxo41cvxgaoz.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T11:46+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nクリス・エヴァンスとクリス・ヘムズワースが、来月『アベンジャーズ／ドゥームズデイ』とともに韓国を訪れます。\n\nウォルト・ディズニー・カンパニー・コリアは、2人とマーベル・スタジオ社長のケヴィン・ファイギが12月7日から8日まで来韓すると発表しました。クリス・エヴァンスにとっては、2015年の『アベンジャーズ／エイジ・オブ・ウルトロン』以来11年ぶりの訪韓です。クリス・ヘムズワースは昨年、ディズニープラスの『リミットレス with クリス・ヘムズワース』シーズン2の撮影で韓国を訪れていますが、マーベル映画のプロモーションで来るのは今回が初めてです。\n\n記者会見やレッドカーペットなどの公式日程が予定されており、場所と時間は配給会社が別途発表します。\n\n来韓：12月7日（月）〜12月8日（火）\n韓国公開：12月16日（水）\n#SENE #アベンジャーズドゥームズデイ #クリスエヴァンス #クリスヘムズワース #来韓\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794192296/vyi6mtsr2ol43mux7lxi.jpg\n제목: エヴァンスとヘムズワース、|12月7日に来韓\n부제: 『アベンジャーズ／ドゥームズデイ』来韓 · 韓国12月16日公開\n출처: @marvelkorea\n",
+      "caption": "クリス・エヴァンスとクリス・ヘムズワースが、来月『アベンジャーズ／ドゥームズデイ』とともに韓国を訪れます。\n\nウォルト・ディズニー・カンパニー・コリアは、2人とマーベル・スタジオ社長のケヴィン・ファイギが12月7日から8日まで来韓すると発表しました。クリス・エヴァンスにとっては、2015年の『アベンジャーズ／エイジ・オブ・ウルトロン』以来11年ぶりの訪韓です。クリス・ヘムズワースは昨年、ディズニープラスの『リミットレス with クリス・ヘムズワース』シーズン2の撮影で韓国を訪れていますが、マーベル映画のプロモーションで来るのは今回が初めてです。\n\n記者会見やレッドカーペットなどの公式日程が予定されており、場所と時間は配給会社が別途発表します。\n\n来韓：12月7日（月）〜12月8日（火）\n韓国公開：12月16日（水）\n#SENE #アベンジャーズドゥームズデイ #クリスエヴァンス #クリスヘムズワース #来韓",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192397/yk0gbyd7lehmxfio68zs.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192397/xhubnhnipypabq92xemi.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794192397/yk0gbyd7lehmxfio68zs.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-09T11:46+09:00"
+      }
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1272,10 +1328,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-09T11:45+09:00"
+  "at": "2026-11-09T11:46+09:00"
  },
  "queue": {
-  "next": "2026-11-09T11:47+09:00",
+  "next": "2026-11-09T11:48+09:00",
   "n": 0,
   "gap": 20
  },
