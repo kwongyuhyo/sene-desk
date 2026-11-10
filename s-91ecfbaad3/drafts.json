@@ -1044,7 +1044,9 @@
      "cvr": 2,
      "at": "2026-11-10T17:48+09:00",
      "v": {
-      "A": "76582d44"
+      "A": "76582d44",
+      "E": "b856e601",
+      "J": "114f6af3"
      }
     }
    },
@@ -1054,7 +1056,62 @@
     "at": "2026-11-10T17:48+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-10T17:48+09:00"
+   "i18n_queued": "2026-11-10T17:48+09:00",
+   "i18n": {
+    "at": "2026-11-10T17:49+09:00",
+    "confirm": [
+     "전시명 「어느 마법 같은 하루」의 공식 영문·일문 제목을 찾지 못했습니다. 영어는 'A Magical Day', 일본어는 「ある魔法のような一日」로 옮겼으니 그라운드시소 공식 표기가 있으면 바꿔 주세요.",
+     "작가 이름 Thibaud Herem은 기사(헤이팝 등)로 확인했습니다. 일본어 표기 ティボー・エレム는 공식 표기를 찾지 못해 カタカナ로 옮기고 원어를 괄호에 넣었습니다.",
+     "Groundseesaw Hannam 영문 표기와 그라운드시소 한남의 정확한 주소(한남동 여부)는 이번 검색으로 확인하지 못했습니다. 영어 장소 줄의 'Hannam-dong, Seoul'과 일본어 「漢南洞」을 확인해 주세요.",
+     "드라마 제목 'Our Beloved Summer'·『その年、私たちは』, 인물명 Choi Ung·Choi Woo-shik, 갤러리명 Albus Gallery는 알려진 표기를 썼고 이번에 따로 검색해 확인하지는 않았습니다.",
+     "영어·일본어 · 전시명 'A Magical Day' / 「ある魔法のような一日」은 원제를 옮긴 번역입니다. 그라운드시소가 낸 공식 영문·일문 전시명이 있으면 그걸로 바꿔야 합니다.",
+     "영어 · 장소 줄에 'Hannam-dong, Seoul'을 덧붙였습니다. 그라운드시소 한남의 주소가 실제로 한남동인지 공식 안내에서 확인이 필요합니다."
+    ],
+    "review": {
+     "at": "2026-11-10T17:49+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · \"Choi Ung's Illustrator|Exhibits in Hannam in Dec\" → \"The Artist Behind Choi Ung|Opens Hannam Show in Dec\" — 'Choi Ung's Illustrator'는 '최웅의 일을 대신 그려 주는 사람'으로도 읽히고, 'Exhibits'는 명사로도 동사로도 읽혀서 뜻이 하나로 읽히게 고침"
+     ],
+     "doubt": [
+      "영어·일본어 · 전시명 'A Magical Day' / 「ある魔法のような一日」은 원제를 옮긴 번역입니다. 그라운드시소가 낸 공식 영문·일문 전시명이 있으면 그걸로 바꿔야 합니다.",
+      "영어 · 장소 줄에 'Hannam-dong, Seoul'을 덧붙였습니다. 그라운드시소 한남의 주소가 실제로 한남동인지 공식 안내에서 확인이 필요합니다."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThibaud Herem, the artist behind Choi Ung's drawings in 'Our Beloved Summer,' opens an exhibition at Groundseesaw (@groundseesaw) Hannam in December.\n\nIn the drama, Choi Ung, played by Choi Woo-shik, is an illustrator who draws buildings. The drawings seen on screen were Herem's work. He draws architecture and nature with a 0.1mm pen and ink.\n\nAt his 2022 solo show at Albus Gallery, some of the original drawings from the drama hung on the basement floor. The new exhibition, 'A Magical Day,' is a large-scale solo show by the artist behind those drawings. Early-bird tickets are on sale first.\n\nDates: Dec 11, 2026 (Fri) – Apr 11, 2027 (Sun)\nLocation: Groundseesaw Hannam, Hannam-dong, Seoul\nTickets: Early-bird tickets on sale now\n#SENE #ThibaudHerem #OurBelovedSummer #Groundseesaw #SeoulExhibition\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794300483/snomhrl5mvoth0x5ngme.jpg\n제목: The Artist Behind Choi Ung|Opens Hannam Show in Dec\n부제: Thibaud Herem · From Dec 11 at Groundseesaw Hannam\n출처: @groundseesaw\n",
+      "caption": "Thibaud Herem, the artist behind Choi Ung's drawings in 'Our Beloved Summer,' opens an exhibition at Groundseesaw (@groundseesaw) Hannam in December.\n\nIn the drama, Choi Ung, played by Choi Woo-shik, is an illustrator who draws buildings. The drawings seen on screen were Herem's work. He draws architecture and nature with a 0.1mm pen and ink.\n\nAt his 2022 solo show at Albus Gallery, some of the original drawings from the drama hung on the basement floor. The new exhibition, 'A Magical Day,' is a large-scale solo show by the artist behind those drawings. Early-bird tickets are on sale first.\n\nDates: Dec 11, 2026 (Fri) – Apr 11, 2027 (Sun)\nLocation: Groundseesaw Hannam, Hannam-dong, Seoul\nTickets: Early-bird tickets on sale now\n#SENE #ThibaudHerem #OurBelovedSummer #Groundseesaw #SeoulExhibition",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300583/re722aj8dgnxmlvcvl7f.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300583/wvav2uhmtnh3ngxqmohc.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300583/re722aj8dgnxmlvcvl7f.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-10T17:49+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nドラマ『その年、私たちは』でチェ・ウンの絵を描いた作家、ティボー・エレム（Thibaud Herem）の展示が、12月にグラウンドシーソー（@groundseesaw）漢南で開かれます。\n\nドラマでチェ・ウシクが演じたチェ・ウンは建物を描くイラストレーターですが、画面に映ったそのドローイングはティボー・エレムの作品でした。0.1mmのペンとインクで建築物と自然を描く作家です。\n\n2022年のアルバスギャラリーでの個展では、地下階にドラマの原画の一部が展示されたこともありました。今回の展示「ある魔法のような一日」は、そのドローイングを描いた作家の大規模個展で、早割（アーリーバード）チケットが先行して販売されています。\n\n期間：2026年12月11日（金）〜2027年4月11日（日）\n場所：ソウル・漢南洞（ハンナムドン）グラウンドシーソー漢南\n予約：アーリーバードチケット販売中\n#SENE #ティボーエレム #その年私たちは #韓国旅行 #ソウル展示\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794300483/snomhrl5mvoth0x5ngme.jpg\n제목: チェ・ウンの絵の作家、|12月に漢南で展示\n부제: ティボー・エレム・12月11日からグラウンドシーソー漢南\n출처: @groundseesaw\n",
+      "caption": "ドラマ『その年、私たちは』でチェ・ウンの絵を描いた作家、ティボー・エレム（Thibaud Herem）の展示が、12月にグラウンドシーソー（@groundseesaw）漢南で開かれます。\n\nドラマでチェ・ウシクが演じたチェ・ウンは建物を描くイラストレーターですが、画面に映ったそのドローイングはティボー・エレムの作品でした。0.1mmのペンとインクで建築物と自然を描く作家です。\n\n2022年のアルバスギャラリーでの個展では、地下階にドラマの原画の一部が展示されたこともありました。今回の展示「ある魔法のような一日」は、そのドローイングを描いた作家の大規模個展で、早割（アーリーバード）チケットが先行して販売されています。\n\n期間：2026年12月11日（金）〜2027年4月11日（日）\n場所：ソウル・漢南洞（ハンナムドン）グラウンドシーソー漢南\n予約：アーリーバードチケット販売中\n#SENE #ティボーエレム #その年私たちは #韓国旅行 #ソウル展示",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300586/jpftgxntims8iaxo0mwe.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300585/foie0xudswpwbrbzd1r4.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300586/jpftgxntims8iaxo0mwe.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-10T17:49+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1413,10 +1470,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-10T17:48+09:00"
+  "at": "2026-11-10T17:49+09:00"
  },
  "queue": {
-  "next": "2026-11-10T17:50+09:00",
+  "next": "2026-11-10T17:51+09:00",
   "n": 0,
   "gap": 20
  },
