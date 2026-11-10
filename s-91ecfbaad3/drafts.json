@@ -247,7 +247,14 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=JkGPU0eX0DY\n구간: 0:05-0:20\n곡: at Musinsa Beauty\n아티스트: *Chaeryeong*,\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
-      "caption": "ITZY's Chaeryeong (@itzy.all.in.us) stood at the photo wall for the opening of Musinsa Beauty Seongsu in Seongsu-dong, Seoul, on Nov 10.\n\nChaeryeong released her first solo album on Nov 9. At the photo wall, she struck poses from her new song's choreography. That same day, her first solo pop-up opened in Jamsil.\n\nPop-up: Nov 10 (Tue) – Nov 16 (Mon)\nLocation: Kinetic Stage, 2F, Lotte Department Store Jamsil, Songpa-gu, Seoul\nVideo: MTN STAR\n#SENE #Chaeryeong #ITZY #MusinsaBeauty #Seongsu"
+      "caption": "ITZY's Chaeryeong (@itzy.all.in.us) stood at the photo wall for the opening of Musinsa Beauty Seongsu in Seongsu-dong, Seoul, on Nov 10.\n\nChaeryeong released her first solo album on Nov 9. At the photo wall, she struck poses from her new song's choreography. That same day, her first solo pop-up opened in Jamsil.\n\nPop-up: Nov 10 (Tue) – Nov 16 (Mon)\nLocation: Kinetic Stage, 2F, Lotte Department Store Jamsil, Songpa-gu, Seoul\nVideo: MTN STAR\n#SENE #Chaeryeong #ITZY #MusinsaBeauty #Seongsu",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794353654/sene_studio/ttc0ejjcfyxdwcu6vyik.mp4",
+       "at": "2026-11-11T08:34+09:00",
+       "file": "Chaeryeong_at_Musinsa_Beauty_GongGan_no_lyrics.mp4",
+       "sig": "30e6d83b88",
+       "v": "caf3fb26"
+      }
      }
     },
     "ja": {
@@ -272,7 +279,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=JkGPU0eX0DY\n구간: 0:05-0:20\n곡: 聖水フォトウォール\n아티스트: *チェリョン*、\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
-      "caption": "ITZYのチェリョン（@itzy.all.in.us）が10日、ソウル・聖水洞（ソンスドン）でMUSINSA BEAUTY 聖水（ムシンサビューティー聖水）のオープン記念フォトウォールに立ちました。\n\n9日に初のソロアルバムを出したチェリョン。フォトウォールでは新曲の振り付けポーズを披露しました。同じ日、蚕室（チャムシル）ではチェリョンの初ソロポップアップがオープンしました。\n\nポップアップ：11月10日（火）〜16日（月）\n場所：ソウル・松坡区（ソンパグ）ロッテ百貨店 蚕室店2階 キネティックステージ\n映像：MTN STAR\n#SENE #チェリョン #ITZY #ムシンサビューティー #聖水"
+      "caption": "ITZYのチェリョン（@itzy.all.in.us）が10日、ソウル・聖水洞（ソンスドン）でMUSINSA BEAUTY 聖水（ムシンサビューティー聖水）のオープン記念フォトウォールに立ちました。\n\n9日に初のソロアルバムを出したチェリョン。フォトウォールでは新曲の振り付けポーズを披露しました。同じ日、蚕室（チャムシル）ではチェリョンの初ソロポップアップがオープンしました。\n\nポップアップ：11月10日（火）〜16日（月）\n場所：ソウル・松坡区（ソンパグ）ロッテ百貨店 蚕室店2階 キネティックステージ\n映像：MTN STAR\n#SENE #チェリョン #ITZY #ムシンサビューティー #聖水",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-11T08:33+09:00",
+       "sig": "1d140daeb7",
+       "job": 253
+      }
      }
     }
    }
@@ -523,10 +536,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T08:33+09:00"
+  "at": "2026-11-11T08:34+09:00"
  },
  "queue": {
-  "next": "2026-11-11T08:35+09:00",
+  "next": "2026-11-11T08:36+09:00",
   "n": 0,
   "gap": 20
  },
