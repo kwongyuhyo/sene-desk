@@ -116,7 +116,9 @@
       "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794353396/sene_studio/wsvmsxc6wwmkxleghxc6.mp4"
      },
      "v": {
-      "A": "6a1d2ea2"
+      "A": "6a1d2ea2",
+      "E": "6cd7b25b",
+      "J": "64b5ed7e"
      }
     }
    },
@@ -185,9 +187,11 @@
      "end": 65.0,
      "full": 151.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-11T08:31+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794353535/sene_studio/npyvloi7eksdzqelv7jc.mp4",
+     "at": "2026-11-11T08:32+09:00",
+     "file": "ChaeLyeong_MuSinSa_ByuTi_SeongS_GongGan_no_lyrics.mp4",
+     "v": "f6a7c018"
     }
    },
    "pick": {
@@ -196,7 +200,82 @@
     "at": "2026-11-11T08:29+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-11T08:31+09:00"
+   "i18n_queued": "2026-11-11T08:31+09:00",
+   "i18n": {
+    "at": "2026-11-11T08:32+09:00",
+    "confirm": [
+     "웹 검색으로 채령 솔로 팝업(롯데백화점 잠실점 2층 키네틱 스테이지)과 무신사 뷰티 성수 포토콜 보도를 찾지 못했습니다. 원문 사실을 그대로 옮겼으니 날짜·운영 시간·포토카드 조건은 원문 출처로 다시 확인해 주세요.",
+     "무신사 뷰티 성수: 검색해 보니 무신사 뷰티의 첫 상설 매장은 2026년 4월 24일 문을 연 무신사 메가스토어 성수 2층에 이미 있습니다. '11일 연무장길에 문을 여는 무신사 뷰티 성수'가 이와 다른 단독 매장인지 확인해 주세요.",
+     "표기: 영어 Chaeryeong / Yeji / Yuna, 일본어 チェリョン / イェジ / ユナ, ロッテ百貨店 蚕室店, MUSINSA BEAUTY 聖水는 흔히 쓰는 표기를 따랐습니다. 공식 일본어 팝업 공지에서 쓰는 표기는 확인하지 못했습니다.",
+     "숏폼 곡 칸: 한 줄 글자 수 제한 때문에 영어는 'at Musinsa Beauty'(성수·포토월 생략), 일본어는 '聖水フォトウォール'(무신사 뷰티 생략)로 줄였습니다.",
+     "영어 제목 둘째 줄 'Pop-up in Jamsil to Nov 16'은 26자로, 22자 안팎 기준보다 조금 깁니다.",
+     "숏폼 곡 칸 — 원문 '무신사 뷰티 성수 포토월'인데 영어는 'at Musinsa Beauty'(포토월·성수 빠짐), 일본어는 '聖水フォトウォール'(무신사 뷰티 빠짐)로 줄어 있음. 글자 수 제한 때문이지만 두 언어가 서로 다른 정보를 뺐으니 이대로 괜찮은지 확인 필요",
+     "브랜드 표기 — 영어는 'Musinsa Beauty', 일본어는 'MUSINSA BEAUTY'로 서로 다름. 공식 표기로 맞출지 확인"
+    ],
+    "review": {
+     "at": "2026-11-11T08:32+09:00",
+     "fixes": [
+      "영어 · 표지 제목 둘째 줄 · Pop-up in Jamsil to Nov 16 → Jamsil Pop-up Until Nov 16 — 'to' 가 기간 끝으로 바로 읽히지 않음",
+      "영어 · 캡션·숏폼 캡션 · posed with choreography from her new song → struck poses from her new song's choreography — 직역투 연어",
+      "일본어 · 캡션 · 2階に場所を構えました → 2階に設けられました — 「場所を構える」는 어색한 연어",
+      "일본어 · 캡션·숏폼 캡션 · 新曲の振り付けのポーズを見せました → 新曲の振り付けポーズを披露しました — 「の」 연속과 어색함 정리"
+     ],
+     "doubt": [
+      "숏폼 곡 칸 — 원문 '무신사 뷰티 성수 포토월'인데 영어는 'at Musinsa Beauty'(포토월·성수 빠짐), 일본어는 '聖水フォトウォール'(무신사 뷰티 빠짐)로 줄어 있음. 글자 수 제한 때문이지만 두 언어가 서로 다른 정보를 뺐으니 이대로 괜찮은지 확인 필요",
+      "브랜드 표기 — 영어는 'Musinsa Beauty', 일본어는 'MUSINSA BEAUTY'로 서로 다름. 공식 표기로 맞출지 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nITZY's Chaeryeong (@itzy.all.in.us) is holding a pop-up for her first solo album at Lotte Department Store Jamsil through Nov 16.\n\nChaeryeong is the third ITZY member to release a solo album, after Yeji and Yuna. Her pop-up is on the second floor of Lotte Department Store Jamsil, the same place where Yuna held her first solo pop-up in March. For every KRW 50,000 spent on merchandise, visitors get one of three unreleased selfie photocards at random.\n\nOn Nov 10, the pop-up's first day, Chaeryeong was in Seongsu. At a photo call for the opening of Musinsa Beauty Seongsu, which opens on Yeonmujang-gil on Nov 11, she struck poses from her new song's choreography.\n\nDates: Nov 10 (Tue) – Nov 16 (Mon)\nHours: Mon–Thu 10:30 AM – 8 PM · Fri–Sun until 8:30 PM\nLocation: Kinetic Stage, 2F, Lotte Department Store Jamsil, 240 Olympic-ro, Songpa-gu, Seoul\nReservations: Advance reservation\n#SENE #Chaeryeong #ITZY #SeoulPopup #Jamsil #LotteDepartmentStore\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794353360/dzchir11jhohucybije7.jpg\n제목: Chaeryeong's First Solo|Jamsil Pop-up Until Nov 16\n부제: Lotte Department Store Jamsil, 2F Kinetic Stage · A Seongsu photo wall on day one\n출처: @itzy.all.in.us\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1794353385/sene_studio/yhlb7ktp7yygoiekgodm.mp4\n소제목: \n본문: \n출처: MTN STAR\n",
+      "caption": "ITZY's Chaeryeong (@itzy.all.in.us) is holding a pop-up for her first solo album at Lotte Department Store Jamsil through Nov 16.\n\nChaeryeong is the third ITZY member to release a solo album, after Yeji and Yuna. Her pop-up is on the second floor of Lotte Department Store Jamsil, the same place where Yuna held her first solo pop-up in March. For every KRW 50,000 spent on merchandise, visitors get one of three unreleased selfie photocards at random.\n\nOn Nov 10, the pop-up's first day, Chaeryeong was in Seongsu. At a photo call for the opening of Musinsa Beauty Seongsu, which opens on Yeonmujang-gil on Nov 11, she struck poses from her new song's choreography.\n\nDates: Nov 10 (Tue) – Nov 16 (Mon)\nHours: Mon–Thu 10:30 AM – 8 PM · Fri–Sun until 8:30 PM\nLocation: Kinetic Stage, 2F, Lotte Department Store Jamsil, 240 Olympic-ro, Songpa-gu, Seoul\nReservations: Advance reservation\n#SENE #Chaeryeong #ITZY #SeoulPopup #Jamsil #LotteDepartmentStore",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353570/hmcrvmakncd9pqj5e2ho.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353573/mc0skeldid1rfdfgrlhc.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353570/p6tbsq2zol5kkgzjufo8.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353570/hmcrvmakncd9pqj5e2ho.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-11T08:32+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794353571/sene_studio/wu1yl6vsnae12r19trub.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=JkGPU0eX0DY\n구간: 0:05-0:20\n곡: at Musinsa Beauty\n아티스트: *Chaeryeong*,\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
+      "caption": "ITZY's Chaeryeong (@itzy.all.in.us) stood at the photo wall for the opening of Musinsa Beauty Seongsu in Seongsu-dong, Seoul, on Nov 10.\n\nChaeryeong released her first solo album on Nov 9. At the photo wall, she struck poses from her new song's choreography. That same day, her first solo pop-up opened in Jamsil.\n\nPop-up: Nov 10 (Tue) – Nov 16 (Mon)\nLocation: Kinetic Stage, 2F, Lotte Department Store Jamsil, Songpa-gu, Seoul\nVideo: MTN STAR\n#SENE #Chaeryeong #ITZY #MusinsaBeauty #Seongsu"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nITZYのチェリョン（@itzy.all.in.us）の初ソロアルバムのポップアップが、16日までロッテ百貨店 蚕室（チャムシル）店で開かれています。\n\nイェジ、ユナに続き、ITZYで3人目にソロアルバムを出したチェリョン。ポップアップは、今年3月にユナの初ソロポップアップが開かれたロッテ百貨店 蚕室店の2階に設けられました。グッズを5万ウォン購入するごとに、未公開セルフィーのフォトカード3種のうち1種がランダムでもらえます。\n\nポップアップ初日の10日、チェリョンは聖水にいました。11日に延武場キル（ヨンムジャンギル）にオープンするMUSINSA BEAUTY 聖水（ムシンサビューティー聖水）のオープン記念フォトコールで、新曲の振り付けポーズを披露しました。\n\n期間：11月10日（火）〜11月16日（月）\n営業時間：月〜木 午前10時30分〜午後8時・金〜日 午後8時30分まで\n場所：ソウル・松坡区（ソンパグ）オリンピック路240 ロッテ百貨店 蚕室店2階 キネティックステージ\n予約：事前予約\n#SENE #チェリョン #ITZY #韓国旅行 #ソウルポップアップ #蚕室\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794353360/dzchir11jhohucybije7.jpg\n제목: チェリョン初のソロ|ポップアップ、16日まで蚕室で\n부제: ロッテ百貨店 蚕室店2階 キネティックステージ・初日は聖水のフォトウォールに\n출처: @itzy.all.in.us\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1794353385/sene_studio/yhlb7ktp7yygoiekgodm.mp4\n소제목: \n본문: \n출처: MTN STAR\n",
+      "caption": "ITZYのチェリョン（@itzy.all.in.us）の初ソロアルバムのポップアップが、16日までロッテ百貨店 蚕室（チャムシル）店で開かれています。\n\nイェジ、ユナに続き、ITZYで3人目にソロアルバムを出したチェリョン。ポップアップは、今年3月にユナの初ソロポップアップが開かれたロッテ百貨店 蚕室店の2階に設けられました。グッズを5万ウォン購入するごとに、未公開セルフィーのフォトカード3種のうち1種がランダムでもらえます。\n\nポップアップ初日の10日、チェリョンは聖水にいました。11日に延武場キル（ヨンムジャンギル）にオープンするMUSINSA BEAUTY 聖水（ムシンサビューティー聖水）のオープン記念フォトコールで、新曲の振り付けポーズを披露しました。\n\n期間：11月10日（火）〜11月16日（月）\n営業時間：月〜木 午前10時30分〜午後8時・金〜日 午後8時30分まで\n場所：ソウル・松坡区（ソンパグ）オリンピック路240 ロッテ百貨店 蚕室店2階 キネティックステージ\n予約：事前予約\n#SENE #チェリョン #ITZY #韓国旅行 #ソウルポップアップ #蚕室",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353579/j7ilbmfnsqhcscr88nay.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353582/c61ufkcviee6odschx8u.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353578/wrrtvvcnzc7njf3bhs6s.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794353579/j7ilbmfnsqhcscr88nay.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-11T08:33+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794353580/sene_studio/eugcitxhbka6sfqr7cyj.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=JkGPU0eX0DY\n구간: 0:05-0:20\n곡: 聖水フォトウォール\n아티스트: *チェリョン*、\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
+      "caption": "ITZYのチェリョン（@itzy.all.in.us）が10日、ソウル・聖水洞（ソンスドン）でMUSINSA BEAUTY 聖水（ムシンサビューティー聖水）のオープン記念フォトウォールに立ちました。\n\n9日に初のソロアルバムを出したチェリョン。フォトウォールでは新曲の振り付けポーズを披露しました。同じ日、蚕室（チャムシル）ではチェリョンの初ソロポップアップがオープンしました。\n\nポップアップ：11月10日（火）〜16日（月）\n場所：ソウル・松坡区（ソンパグ）ロッテ百貨店 蚕室店2階 キネティックステージ\n映像：MTN STAR\n#SENE #チェリョン #ITZY #ムシンサビューティー #聖水"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -444,10 +523,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T08:31+09:00"
+  "at": "2026-11-11T08:33+09:00"
  },
  "queue": {
-  "next": "2026-11-11T08:33+09:00",
+  "next": "2026-11-11T08:35+09:00",
   "n": 0,
   "gap": 20
  },
