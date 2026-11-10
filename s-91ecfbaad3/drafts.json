@@ -290,6 +290,440 @@
      }
     }
    }
+  },
+  {
+   "source": {
+    "id": "claude:brk-a395762e",
+    "account": "@속보",
+    "url": "https://www.bntnews.co.kr/article/view/bnt202611110106",
+    "image": null,
+    "head": "하츠웨이브, 데뷔 7개월 만에 장충체육관에서 첫 단독 팬 콘서트 'TUNE IN' (11/28)",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-11T08:43+09:00",
+   "key": "d808eae5",
+   "by": "claude",
+   "subjects": [
+    "hrtz.wav"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "데뷔 7개월 밴드가 처음 혼자 서는 무대 — 11월 28일 장충체육관, 20곡 구성 예고",
+    "why": "오늘 아침 여러 매체가 곡 구성 예고와 함께 첫 단독 팬콘을 다시 전함 · 2주 뒤 공연이라 가 보는 정보로 쓸모"
+   },
+   "added": "claude",
+   "added_at": "2026-11-11T08:43+09:00",
+   "corner": "concert",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n하츠웨이브가 데뷔 7개월 만에 첫 단독 팬 콘서트를 엽니다.\n\n공연 이름은 '2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉'인데요, 지난 4월 데뷔한 밴드가 처음으로 혼자 서는 무대를 서울 장충체육관으로 잡았습니다.\n\n공식 SNS에는 몇몇 제목을 가린 곡 목록이 먼저 올라왔습니다. 두 장의 미니앨범 곡에 커버 무대를 더해 모두 20곡으로 꾸려진다고 합니다.\n\n일시: 11월 28일(토) 오후 6시\n장소: 서울 중구 장충체육관\n\n#SENE #하츠웨이브 #hrtzwav #TUNEIN #장충체육관\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794354200/bmtvuilikh0wj9j7pyea.jpg\n제목: 하츠웨이브, 데뷔 7개월|첫 단독 팬콘\n부제: 11월 28일 장충체육관\n출처: @hrtzwav\n",
+    "caption": "하츠웨이브가 데뷔 7개월 만에 첫 단독 팬 콘서트를 엽니다.\n\n공연 이름은 '2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉'인데요, 지난 4월 데뷔한 밴드가 처음으로 혼자 서는 무대를 서울 장충체육관으로 잡았습니다.\n\n공식 SNS에는 몇몇 제목을 가린 곡 목록이 먼저 올라왔습니다. 두 장의 미니앨범 곡에 커버 무대를 더해 모두 20곡으로 꾸려진다고 합니다.\n\n일시: 11월 28일(토) 오후 6시\n장소: 서울 중구 장충체육관\n\n#SENE #하츠웨이브 #hrtzwav #TUNEIN #장충체육관",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354200/bmtvuilikh0wj9j7pyea.jpg",
+      "credit": "@hrtzwav",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/892100506_17899388283612856_8783770123048768412_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dmm5RQM8T_cQ7kNvwFGVvK6&_nc_oc=AdqG4wYXYojb2XIM5LJo4zmr9suYBDIt7TErvDGg-CWZ7k03oBJYlU6ENgZy5sMJV8M&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=TwdKQ1AuILPxIuTQQTBnmg&oh=00_AQT6yPhfAw9odgsEqcy9r8OyRDODIXqqbWG1iCtRKjhpaw&oe=6AF9787C"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354197/bvkgj7gaj2mnil2iwfxa.jpg",
+      "credit": "@hrtzwav",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/895791692_17899253754612856_8729356174910666180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z5FdfUkLk7cQ7kNvwFxW-po&_nc_oc=Adqi7kCkNm4vZir9N0-9UDvcglGmXhvU-HY0KLKuXJeTckk2bdtV2jFFdhsCJmPyCQA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=TwdKQ1AuILPxIuTQQTBnmg&oh=00_AQTRWxm17DWQhPdPTzdEZ3cUWNvdscnO1_qC5Wovvwm3cw&oe=6AF9974E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354203/lv4a8pz7kngv60pavfou.jpg",
+      "credit": "@hrtzwav",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/902585879_17899504686612856_2722119360193872372_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pIExQDZLUVwQ7kNvwF5nWhe&_nc_oc=Adr46b46BvHr9nqUEmmMhoO0Sn8EjAN89u8DGX1ITAPqaMPkVej0fTTr3xdTi1osv58&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=TwdKQ1AuILPxIuTQQTBnmg&oh=00_AQTFXKYyYRVHRDKktVVEV0vJt__fovNkL2Md3y6aAnyS7A&oe=6AF987AD"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354205/ywu1kvvaddq4uifylfr9.jpg",
+      "credit": "카카오엔터테인먼트",
+      "from": "https://cdn.topstarnews.net/news/photo/202611/16273462_2084578_2510_crop.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354200/bmtvuilikh0wj9j7pyea.jpg",
+      "credit": "@hrtzwav",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/892100506_17899388283612856_8783770123048768412_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=dmm5RQM8T_cQ7kNvwFGVvK6&_nc_oc=AdqG4wYXYojb2XIM5LJo4zmr9suYBDIt7TErvDGg-CWZ7k03oBJYlU6ENgZy5sMJV8M&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=TwdKQ1AuILPxIuTQQTBnmg&oh=00_AQT6yPhfAw9odgsEqcy9r8OyRDODIXqqbWG1iCtRKjhpaw&oe=6AF9787C"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354197/bvkgj7gaj2mnil2iwfxa.jpg",
+      "credit": "@hrtzwav",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/895791692_17899253754612856_8729356174910666180_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=z5FdfUkLk7cQ7kNvwFxW-po&_nc_oc=Adqi7kCkNm4vZir9N0-9UDvcglGmXhvU-HY0KLKuXJeTckk2bdtV2jFFdhsCJmPyCQA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=TwdKQ1AuILPxIuTQQTBnmg&oh=00_AQTRWxm17DWQhPdPTzdEZ3cUWNvdscnO1_qC5Wovvwm3cw&oe=6AF9974E"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354203/lv4a8pz7kngv60pavfou.jpg",
+      "credit": "@hrtzwav",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/902585879_17899504686612856_2722119360193872372_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=pIExQDZLUVwQ7kNvwF5nWhe&_nc_oc=Adr46b46BvHr9nqUEmmMhoO0Sn8EjAN89u8DGX1ITAPqaMPkVej0fTTr3xdTi1osv58&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=TwdKQ1AuILPxIuTQQTBnmg&oh=00_AQTFXKYyYRVHRDKktVVEV0vJt__fovNkL2Md3y6aAnyS7A&oe=6AF987AD"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354205/ywu1kvvaddq4uifylfr9.jpg",
+      "credit": "카카오엔터테인먼트",
+      "from": "https://cdn.topstarnews.net/news/photo/202611/16273462_2084578_2510_crop.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "하츠웨이브, 데뷔 7개월|첫 단독 팬콘",
+      "sub": "11월 28일 장충체육관"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "하츠웨이브 첫 팬콘|장충체육관에서",
+      "sub": "11월 28일(토) 오후 6시"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "20곡으로 채우는|하츠웨이브 첫 팬콘",
+      "sub": "2026 hrtz.wav 1st CONNECT!ON 〈TUNE IN〉"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "클립 위험: 중간 — 1theK Live - 원더케이 라이브 (0:19-0:37, 18초)",
+     "자료 장(기사 캡처)이 반쪽으로 잘려 나와 뺐음 — 필요하면 앱에서 공식 셋리스트 스포일러 이미지로 장 추가"
+    ],
+    "research": [
+     {
+      "title": "hrtz.wav, 데뷔 7개월 만에 장충체육관서 첫 단독 팬 콘서트 연다 (톱스타뉴스)",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16273462"
+     },
+     {
+      "title": "하츠웨이브, 데뷔 7개월 만에 첫 단독 팬콘 (bnt뉴스)",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202611110088"
+     },
+     {
+      "title": "Global band hrtz.wav to hold a solo fan concert seven months after debut (스포츠경향)",
+      "link": "https://sports.khan.co.kr/en/article/202610232352007"
+     },
+     {
+      "title": "hrtz.wav - Sunday Morning｜야외녹음실｜Beyond the Studio｜LIVE (1theK Live)",
+      "link": "https://www.youtube.com/watch?v=y_5aTNhsMIo"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354213/wwlyun2vxnqtv6mlm1sz.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354213/nw3uxuu8fspm2pmlp9wz.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354216/o5pw6pdjishgion5iblu.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354217/nbluvgbuiykmrsfqthfd.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354213/wwlyun2vxnqtv6mlm1sz.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-11T08:43+09:00",
+     "v": {
+      "A": "adce2b8a",
+      "B": "4c30e4b1",
+      "C": "5d588c2a"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=y_5aTNhsMIo\n구간: 0:19-0:37\n곡: 장충체육관에서\n아티스트: *하츠웨이브* 첫 팬콘\n피처링:\n후킹: \n출처: 1theK Live - 원더케이 라이브\n자막: 끔",
+    "caption": "하츠웨이브가 데뷔 7개월 만에 첫 단독 팬 콘서트를 엽니다.\n\n영상은 원더케이 라이브의 야외 녹음실 시리즈 'Beyond the Studio'에서 밴드가 함께 연주한 장면인데요, 지난 4월 데뷔한 이 밴드가 이번에는 처음으로 혼자 장충체육관 무대에 섭니다.\n\n미니앨범 두 장의 곡에 커버 무대를 더해 모두 20곡으로 꾸려진다고 합니다.\n\n공연: 2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉\n일시: 11월 28일(토) 오후 6시\n장소: 서울 중구 장충체육관\n영상: 1theK Live - 원더케이 라이브\n\n#SENE #하츠웨이브 #hrtzwav #TUNEIN #장충체육관",
+    "hooks": {
+     "A": "*하츠웨이브* 첫 팬콘 / 장충체육관에서",
+     "B": "데뷔 7개월 만에 / 혼자 서는 무대",
+     "C": "야외 녹음실에서 / 맞춘 밴드 합주"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=y_5aTNhsMIo",
+     "credit": "1theK Live - 원더케이 라이브",
+     "range": [
+      19.0,
+      37.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "클립 위험: 중간 — 1theK Live - 원더케이 라이브 (0:19-0:37, 18초)",
+     "자료 장(기사 캡처)이 반쪽으로 잘려 나와 뺐음 — 필요하면 앱에서 공식 셋리스트 스포일러 이미지로 장 추가"
+    ],
+    "research": [
+     {
+      "title": "hrtz.wav, 데뷔 7개월 만에 장충체육관서 첫 단독 팬 콘서트 연다 (톱스타뉴스)",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16273462"
+     },
+     {
+      "title": "하츠웨이브, 데뷔 7개월 만에 첫 단독 팬콘 (bnt뉴스)",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202611110088"
+     },
+     {
+      "title": "Global band hrtz.wav to hold a solo fan concert seven months after debut (스포츠경향)",
+      "link": "https://sports.khan.co.kr/en/article/202610232352007"
+     },
+     {
+      "title": "hrtz.wav - Sunday Morning｜야외녹음실｜Beyond the Studio｜LIVE (1theK Live)",
+      "link": "https://www.youtube.com/watch?v=y_5aTNhsMIo"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/y_5aTNhsMIo/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354231/htedpuvdf4pvhrqmkreo.jpg",
+     "key": "y_5aTNhsMIo@19.0"
+    },
+    "px": {
+     "vid": "y_5aTNhsMIo",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794354293/sene_studio/fjlycsexofwtnnnikcvp.mp4",
+     "off": 0.0,
+     "end": 82.0,
+     "full": 201.0
+    },
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794354384/sene_studio/gyiwzbgyb8unqt24vbny.mp4",
+     "at": "2026-11-11T08:46+09:00",
+     "file": "HaCheuWeIBeu_Cheos_P_JangChungCheYugGwanE_KeolCheo_no_lyrics.mp4",
+     "v": "da5a9348"
+    }
+   },
+   "corner_name": "콘서트 가는 날",
+   "corner_no": 1
+  },
+  {
+   "source": {
+    "id": "claude:brk-cc875b33",
+    "account": "@속보",
+    "url": "https://view.asiae.co.kr/article/2026111108001090998",
+    "image": null,
+    "head": "육구방앗간 찹쌀모찌, 11/13 하루 이마트24 트렌드랩 성수점 한정 판매",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-11T08:48+09:00",
+   "key": "88523c0c",
+   "by": "claude",
+   "subjects": [
+    "육구방앗간",
+    "이마트24"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "속초 떡집 육구방앗간의 찹쌀모찌가 11/13 하루, 성수 이마트24 트렌드랩에서만 팔린다",
+    "why": "이번 주 금요일에 실제로 가 볼 수 있는 하루짜리 푸드 팝업 — 9월 떡 팝업의 두 번째 순서"
+   },
+   "added": "claude",
+   "added_at": "2026-11-11T08:48+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n푸드\n\n[캡션]\n이마트24(@emart24_official)가 속초 떡집 육구방앗간의 '찹쌀모찌'를 단 하루, 성수에서 판매합니다.\n\n육구방앗간은 밀가루 없이 찹쌀만 쪄내는 방식을 지켜 온 찹쌀떡 전문점인데요, 이마트24는 이 집 떡을 편의점에서 파는 건 업계에서 처음이라고 밝혔습니다.\n\n지난 9월 부산 영도다리떡방, 익산농협떡방앗간과 함께 연 떡 팝업에 이은 두 번째 순서입니다. 9개들이 한 상자로, 그날 준비한 물량이 다 팔리면 일찍 마감될 수 있습니다.\n\n일시: 11월 13일(금) 오전 11시부터\n장소: 서울 성동구 성수동 이마트24 트렌드랩 성수점\n\n#SENE #육구방앗간 #이마트24 #성수팝업 #찹쌀모찌 #속초\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794354516/ztcb5kmxkmimzjhhy92a.jpg\n제목: 속초 육구방앗간 모찌|성수에서 하루만\n부제: 11월 13일(금) 이마트24 트렌드랩 성수점\n출처: 이마트24\n",
+    "caption": "이마트24(@emart24_official)가 속초 떡집 육구방앗간의 '찹쌀모찌'를 단 하루, 성수에서 판매합니다.\n\n육구방앗간은 밀가루 없이 찹쌀만 쪄내는 방식을 지켜 온 찹쌀떡 전문점인데요, 이마트24는 이 집 떡을 편의점에서 파는 건 업계에서 처음이라고 밝혔습니다.\n\n지난 9월 부산 영도다리떡방, 익산농협떡방앗간과 함께 연 떡 팝업에 이은 두 번째 순서입니다. 9개들이 한 상자로, 그날 준비한 물량이 다 팔리면 일찍 마감될 수 있습니다.\n\n일시: 11월 13일(금) 오전 11시부터\n장소: 서울 성동구 성수동 이마트24 트렌드랩 성수점\n\n#SENE #육구방앗간 #이마트24 #성수팝업 #찹쌀모찌 #속초",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354516/ztcb5kmxkmimzjhhy92a.jpg",
+      "credit": "이마트24",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/11/11/news-p.v1.20261111.62ce3011799d4325892ead72c037c2dd_P1.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354516/ztcb5kmxkmimzjhhy92a.jpg",
+      "credit": "이마트24",
+      "from": "https://wimg.heraldcorp.com/news/cms/2026/11/11/news-p.v1.20261111.62ce3011799d4325892ead72c037c2dd_P1.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "속초 육구방앗간 모찌|성수에서 하루만",
+      "sub": "11월 13일(금) 이마트24 트렌드랩 성수점"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "편의점에 온|속초 찹쌀모찌",
+      "sub": "11월 13일 하루, 성수"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "이마트24 떡 팝업|두 번째는 속초",
+      "sub": "육구방앗간 '찹쌀모찌' 한정 판매"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 표지 사진은 이마트24 홍보 이미지 — 위쪽 '시즌2 오픈! 이번엔 속초로 돌아왔다' 글자가 SENE 로고·제목과 함께 보이고 느낌표가 들어감. 가격은 기사 4곳 모두 없어 캡션에 넣지 않음",
+     "숏폼 없음 — 육구방앗간·이번 팝업 관련 공식 영상을 찾지 못함",
+     "표지 사진이 이마트24 배포 홍보 이미지라 위쪽에 '시즌2 오픈!'·'한정수량' 글자가 있음 — 이마트24 공식 인스타에 제품·매장 사진이 올라오면 「사진 바꾸기」",
+     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "[오늘의신상]이마트24, 속초 맛집 '육구방앗간' 찹쌀모찌 한정 판매 (아시아경제)",
+      "link": "https://view.asiae.co.kr/article/2026111108001090998"
+     },
+     {
+      "title": "13일 단 하루…이마트24, 속초 떡맛집 '육구방앗간' 팝업 연다 (헤럴드경제)",
+      "link": "https://biz.heraldcorp.com/article/10932912"
+     },
+     {
+      "title": "이마트24, 속초 유명 떡집 '육구방앗간' 모찌 한정 판매 (브릿지경제)",
+      "link": "https://www.viva100.com/article/20261111500077"
+     },
+     {
+      "title": "이마트24, 속초 '육구방앗간' 인기 떡 한정판매 (스포츠서울 슬리스트)",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=780613"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354520/xgvivqhawmgktmkqjm7g.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354520/ekc9fmdesxqb2rvf8ibk.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354523/pjtq1w6yhxfwqyhyflbl.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354523/st9namo07gweatg9vlo8.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354520/xgvivqhawmgktmkqjm7g.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-11T08:48+09:00",
+     "v": {
+      "A": "a7067d61",
+      "B": "f45b1e26",
+      "C": "fbce5504"
+     }
+    }
+   },
+   "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:brk-034f92ef",
+    "account": "@속보",
+    "url": "https://www.slist.kr/news/articleView.html?idxno=780624",
+    "image": null,
+    "head": "더 스파이크 크로스 × 신인감독 김연경2, 11/11~12/30 김연경 감독·원더독스 선수 캐릭터 등장",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-11T08:50+09:00",
+   "key": "28e352f7",
+   "by": "claude",
+   "subjects": [
+    "더 스파이크 크로스",
+    "신인감독 김연경"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "〈신인감독 김연경2〉 감독·선수 6명이 오늘부터 배구 게임 캐릭터로 — 12월 팝업까지 이어지는 협업",
+    "why": "오늘(11/11) 시작한 협업 발표, 언론 4곳 동시 보도 · 12월 팝업 예고로 '가 보는 일'까지 이어짐"
+   },
+   "added": "claude",
+   "added_at": "2026-11-11T08:50+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n모바일 배구 게임 '더 스파이크 크로스'에 김연경 감독이 캐릭터로 들어옵니다.\n\nMBC 예능 〈신인감독 김연경2〉와 손잡은 협업인데요, 김연경 감독과 '필승 원더독스' 2기 선수 5명까지 모두 6명이 각자의 능력치와 기술을 가진 캐릭터로 추가되고, 협업 전용 이벤트 경기도 열립니다.\n\n이야기는 게임 밖으로도 이어집니다. 제작사 팬엔터테인먼트는 이달 말 시즌2 선수들의 공식 굿즈를 공개하고, 12월에는 〈신인감독 김연경2〉 팝업스토어를 열 계획이라고 밝혔습니다.\n\n기간: 11월 11일(수) ~ 12월 30일(수)\n대상: 전 세계 '더 스파이크 크로스' 이용자\n#SENE #더스파이크크로스 #신인감독김연경 #김연경 #필승원더독스\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794354656/hpg6nb6ixrocxvzwcjcl.jpg\n제목: 김연경 감독이|게임 캐릭터로\n부제: 더 스파이크 크로스 × 신인감독 김연경2 · 12월 30일까지\n출처: 팬엔터테인먼트\n",
+    "caption": "모바일 배구 게임 '더 스파이크 크로스'에 김연경 감독이 캐릭터로 들어옵니다.\n\nMBC 예능 〈신인감독 김연경2〉와 손잡은 협업인데요, 김연경 감독과 '필승 원더독스' 2기 선수 5명까지 모두 6명이 각자의 능력치와 기술을 가진 캐릭터로 추가되고, 협업 전용 이벤트 경기도 열립니다.\n\n이야기는 게임 밖으로도 이어집니다. 제작사 팬엔터테인먼트는 이달 말 시즌2 선수들의 공식 굿즈를 공개하고, 12월에는 〈신인감독 김연경2〉 팝업스토어를 열 계획이라고 밝혔습니다.\n\n기간: 11월 11일(수) ~ 12월 30일(수)\n대상: 전 세계 '더 스파이크 크로스' 이용자\n#SENE #더스파이크크로스 #신인감독김연경 #김연경 #필승원더독스",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354656/hpg6nb6ixrocxvzwcjcl.jpg",
+      "credit": "팬엔터테인먼트",
+      "from": "https://cdn.topstarnews.net/news/photo/202611/16273401_2084453_2338_crop.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354659/df0n58bemaoycprkxzfr.jpg",
+      "credit": "팬엔터테인먼트",
+      "from": "https://www.bntnews.co.kr/data/bnt/image/2026/11/11/bnt202611110061.jpg"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354656/hpg6nb6ixrocxvzwcjcl.jpg",
+      "credit": "팬엔터테인먼트",
+      "from": "https://cdn.topstarnews.net/news/photo/202611/16273401_2084453_2338_crop.jpg"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354659/df0n58bemaoycprkxzfr.jpg",
+      "credit": "팬엔터테인먼트",
+      "from": "https://www.bntnews.co.kr/data/bnt/image/2026/11/11/bnt202611110061.jpg"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "김연경 감독이|게임 캐릭터로",
+      "sub": "더 스파이크 크로스 × 신인감독 김연경2 · 12월 30일까지"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "신인감독 김연경2|게임 협업 시작",
+      "sub": "감독·선수 6명 캐릭터로 등장"
+     },
+     {
+      "key": "C",
+      "hook": "다른 안",
+      "title": "원더독스 6명이|배구 게임 속으로",
+      "sub": "11월 11일 ~ 12월 30일"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "숏폼 비움 — 협업 공식 트레일러를 유튜브에서 찾지 못함 (게임 공식 채널에 올라오면 그 영상으로)",
+     "12월 팝업스토어 날짜·장소는 아직 미발표 — 캡션엔 '12월 예정'만",
+     "자료 캡처를 못 떴습니다(https://www.slist.kr/news/articleView.html?idxno=780624) — 그 장은 뺐어요. 스튜디오에서 캡처를 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "싱글리스트 — 팬엔터테인먼트, '신인감독 김연경2'·'더 스파이크 크로스' 협업",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=780624"
+     },
+     {
+      "title": "톱스타뉴스 — 팬엔터테인먼트, 배구 게임 '더 스파이크 크로스'와 '신인감독 김연경2' 협업",
+      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16273401"
+     },
+     {
+      "title": "bnt뉴스 — '신인감독 김연경2' 게임 캐릭터 등장",
+      "link": "https://www.bntnews.co.kr/article/view/bnt202611110034"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354664/kosnxrgsyeyzrm0s4cms.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354664/z6335rgxglinrgexgqjl.jpg"
+     ],
+     "covers": {
+      "B": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354667/pqvb49flglwyk3yjehde.jpg",
+      "C": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354667/ncatpvy3s2aauz7gowgf.jpg",
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794354664/kosnxrgsyeyzrm0s4cms.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-11T08:51+09:00",
+     "v": {
+      "A": "acbe638c",
+      "B": "2918ca71",
+      "C": "7fcbe6d4"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -309,7 +743,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 3,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -403,7 +837,7 @@
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 0,
+    "drafts": 1,
     "why": "큰 공연장(고척·KSPO·인스파이어·잠실·체조) 공연 전날·당일 — 가는 길·먹고 갈 곳·굿즈 줄·물품보관 (공식 공지 기준)"
    },
    {
@@ -537,10 +971,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T08:35+09:00"
+  "at": "2026-11-11T08:50+09:00"
  },
  "queue": {
-  "next": "2026-11-11T08:37+09:00",
+  "next": "2026-11-11T08:53+09:00",
   "n": 0,
   "gap": 20
  },
