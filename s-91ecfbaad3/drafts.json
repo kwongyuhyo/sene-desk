@@ -165,7 +165,7 @@
    "pick": {
     "rank": 2,
     "why": "15일까지 여는 팝업의 입장 규칙 정리 — 이번 주 갈 사람이 저장할 글, 케이팝",
-    "at": "2026-11-10T11:47+09:00"
+    "at": "2026-11-10T17:48+09:00"
    }
   },
   {
@@ -303,11 +303,6 @@
     }
    },
    "corner_name": "소식",
-   "pick": {
-    "rank": 3,
-    "why": "더현대 H빌리지 오늘 개장 — 오늘 가장 많이 찾을 연말 공간",
-    "at": "2026-11-10T11:47+09:00"
-   },
    "i18n_queued": "2026-11-10T11:48+09:00",
    "i18n": {
     "at": "2026-11-10T11:50+09:00",
@@ -881,11 +876,6 @@
      }
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "팝업 예약이 내일(11/11) 오전 11시 — 팬이 오늘 저장할 일정표, 케이팝",
-    "at": "2026-11-10T11:47+09:00"
-   },
    "corner_name": "정리",
    "corner_no": 1,
    "i18n_queued": "2026-11-10T11:48+09:00",
@@ -952,7 +942,230 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "팝업 예약이 내일(11/11) 오전 11시 — 팬이 오늘 밤 저장할 일정표, 케이팝",
+    "at": "2026-11-10T17:48+09:00"
    }
+  },
+  {
+   "source": {
+    "id": "claude:thibaud-herem-our-beloved-summer",
+    "account": "glowupmag (실마리) · 그라운드시소 공식",
+    "url": "https://www.instagram.com/p/DfdokRsARnf/",
+    "image": null,
+    "head": "티보 에렘: 어느 마법 같은 하루 · 그라운드시소 한남 · 2026.12.11~2027.4.11",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-10T17:48+09:00",
+   "key": "8829e105",
+   "by": "claude",
+   "subjects": [
+    "티보 에렘"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "〈그 해 우리는〉 최웅의 드로잉을 실제로 그린 작가 — 12월 그라운드시소 한남 전시, 얼리버드는 이미 열림",
+    "why": "그라운드시소가 11/2 예고·11/5 얼리버드 오픈 — 드라마 장면과 작가를 잇는 맥락을 더해 퇴근길에"
+   },
+   "added": "claude",
+   "added_at": "2026-11-10T17:48+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n〈그 해 우리는〉 속 최웅의 그림을 그린 작가 티보 에렘의 전시가 12월 그라운드시소(@groundseesaw) 한남에서 열립니다.\n\n드라마에서 최우식이 연기한 최웅은 건물을 그리는 일러스트레이터인데요, 화면에 나온 그 드로잉은 티보 에렘의 작업이었습니다. 0.1mm 펜과 잉크로 건축물과 자연을 그리는 작가입니다.\n\n2022년 알부스 갤러리 개인전에서는 지하층에 드라마 원화 일부가 걸리기도 했습니다. 이번 전시 「어느 마법 같은 하루」는 그 드로잉을 그린 작가의 대규모 개인전이고, 얼리버드 티켓이 먼저 열렸습니다.\n\n기간: 2026년 12월 11일(금) ~ 2027년 4월 11일(일)\n장소: 그라운드시소 한남\n예매: 얼리버드 티켓 판매 중\n#SENE #티보에렘 #그해우리는 #그라운드시소 #그라운드시소한남\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794300483/snomhrl5mvoth0x5ngme.jpg\n제목: 최웅의 그림 그린 작가,|12월 한남에서 전시\n부제: 티보 에렘 · 12월 11일부터 그라운드시소 한남\n출처: @groundseesaw\n",
+    "caption": "〈그 해 우리는〉 속 최웅의 그림을 그린 작가 티보 에렘의 전시가 12월 그라운드시소(@groundseesaw) 한남에서 열립니다.\n\n드라마에서 최우식이 연기한 최웅은 건물을 그리는 일러스트레이터인데요, 화면에 나온 그 드로잉은 티보 에렘의 작업이었습니다. 0.1mm 펜과 잉크로 건축물과 자연을 그리는 작가입니다.\n\n2022년 알부스 갤러리 개인전에서는 지하층에 드라마 원화 일부가 걸리기도 했습니다. 이번 전시 「어느 마법 같은 하루」는 그 드로잉을 그린 작가의 대규모 개인전이고, 얼리버드 티켓이 먼저 열렸습니다.\n\n기간: 2026년 12월 11일(금) ~ 2027년 4월 11일(일)\n장소: 그라운드시소 한남\n예매: 얼리버드 티켓 판매 중\n#SENE #티보에렘 #그해우리는 #그라운드시소 #그라운드시소한남",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300483/snomhrl5mvoth0x5ngme.jpg",
+      "credit": "@groundseesaw",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/888134647_18113608976186956_3479049462963466522_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C6xNzk_Sb_QQ7kNvwGn8NwC&_nc_oc=AdohVSQr5w3M5QZG94eCXHb6KbszeOeHNbh3pHqSSI114uIAU-BUDvjiUhOH3PWAR7E&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=mnVyIrD05_oHRHs_VVZ-dg&oh=00_AQRb44Vb08pnGIr4VaDaiFfZr0CMSzb6eguT_oSbBcsi8Q&oe=6AF8AFAE"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300483/snomhrl5mvoth0x5ngme.jpg",
+      "credit": "@groundseesaw",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/888134647_18113608976186956_3479049462963466522_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=C6xNzk_Sb_QQ7kNvwGn8NwC&_nc_oc=AdohVSQr5w3M5QZG94eCXHb6KbszeOeHNbh3pHqSSI114uIAU-BUDvjiUhOH3PWAR7E&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=mnVyIrD05_oHRHs_VVZ-dg&oh=00_AQRb44Vb08pnGIr4VaDaiFfZr0CMSzb6eguT_oSbBcsi8Q&oe=6AF8AFAE"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "최웅의 그림 그린 작가,|12월 한남에서 전시",
+      "sub": "티보 에렘 · 12월 11일부터 그라운드시소 한남"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] '프랑스 출신'·그라운드시소 예고 문구 인용('그 해 우리를 설레게 했던…')·얼리버드 11/5 오픈일·NOL 예매처는 원문에서 확인 못 해 뺐음 — 그라운드시소 게시물 전체 캡션에 있으면 되살리기",
+     "티켓 가격·운영 시간은 확인 못 해 뺐음 — NOL 티켓 상품 페이지에서 얼리버드 가격·판매 종료일 보고 있으면 예매 줄에 더하기",
+     "표지는 그라운드시소 공식 포스터 — 위쪽 'Thibaud' 글자가 SENE 로고와 겹침. 작가 작업 사진(그라운드시소 11/2 릴스)은 'COMING UP NEXT' 글자가 제목과 겹쳐 뺐음 — 스튜디오에서 글자 없는 작품 사진으로 바꾸면 더 좋음",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요",
+     "표지 사진 왼쪽 위에 다른 글자·로고가 있어 SENE 로고와 겹칠 수 있습니다 — 다른 사진이 있으면 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "그라운드시소 공식 인스타 — ⟪티보 에렘: 어느 마법 같은 하루⟫ 얼리버드 티켓 오픈 (11/5)",
+      "link": "https://www.instagram.com/groundseesaw/"
+     },
+     {
+      "title": "NOL 티켓·인터파크 — [얼리버드] 티보 에렘: 어느 마법 같은 하루 · 그라운드시소 한남 26.12.11~27.04.11",
+      "link": "https://tickets.interpark.com/contents/genre/exhibition"
+     },
+     {
+      "title": "글로우업 게시물 — 전시 기간·장소",
+      "link": "https://www.instagram.com/p/DfdokRsARnf/"
+     },
+     {
+      "title": "아이매거진코리아 — 〈그 해 우리는〉 최웅 작가 티보 에렘, 0.1mm 펜 (2022.3.8)",
+      "link": "https://m.imagazinekorea.com/neighbor/view.asp?no=8961&pType=C&page=1"
+     },
+     {
+      "title": "알부스 갤러리 — 티보 에렘 개인전 꿈의 화원 (2022.7.28~9.18, 드라마 원화 일부 전시)",
+      "link": "https://albusgallery.com/exhibition/view/Herem"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300499/lre7negv7e1guft4v9ir.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300498/j8ujxiaquqwhagrvnm6s.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300499/lre7negv7e1guft4v9ir.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-10T17:48+09:00",
+     "v": {
+      "A": "76582d44"
+     }
+    }
+   },
+   "pick": {
+    "rank": 3,
+    "why": "드라마 속 그림의 실제 작가라는 연결 — 친구에게 보낼 이유가 있는 전시 예고, 얼리버드 판매 중",
+    "at": "2026-11-10T17:48+09:00"
+   },
+   "corner_name": "소식",
+   "i18n_queued": "2026-11-10T17:48+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:seochon-yarn-bombing-2026",
+    "account": "시네코스튜디오 공식",
+    "url": "https://www.instagram.com/sinekostudios/",
+    "image": null,
+    "head": "2026-2027 SEOCHON YARNBOMBING OPEN — 70명의 손길이 모여 경복궁 돌담길(효자로)",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-10T17:48+09:00",
+   "key": "c096e35b",
+   "by": "claude",
+   "subjects": [
+    "서촌 얀바밍",
+    "시네코스튜디오"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "[실험] 서촌 얀바밍 올해는 경복궁 돌담길로 — 지난겨울 필운대로에서 자리를 옮긴 무료 산책길",
+    "why": "11/9 공식 오픈 — 첫 추위 주간, 걸어서 보는 무료 놀거리"
+   },
+   "added": "claude",
+   "added_at": "2026-11-10T17:48+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n놀거리\n\n[캡션]\n경복궁 돌담길 가로수들이 올해도 뜨개옷을 입었습니다.\n\n시네코스튜디오(@sinekostudios)가 함께 꾸리는 '서촌 얀바밍'인데요, 지난겨울에는 필운동 일대 가로수에 시민들이 뜬 작품이 걸렸던 프로젝트입니다. 올해는 자리를 옮겨 경복궁 돌담길에 섰습니다.\n\n나무마다 뜬 사람이 다르니 무늬와 색도 다 다릅니다. 돌담을 따라 걸으며 한 그루씩 들여다보는 겨울 산책길입니다.\n\n장소: 서울 종로구 경복궁 돌담길 가로수\n관람: 무료\n#SENE #서촌 #서촌얀바밍 #경복궁돌담길 #뜨개\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794300489/zcwaa9pc9w4j6kvx7x5j.jpg\n제목: 서촌 나무들이|다시 옷을 입었다\n부제: 서촌 얀바밍 · 올해는 경복궁 돌담길\n출처: @sinekostudios\n",
+    "caption": "경복궁 돌담길 가로수들이 올해도 뜨개옷을 입었습니다.\n\n시네코스튜디오(@sinekostudios)가 함께 꾸리는 '서촌 얀바밍'인데요, 지난겨울에는 필운동 일대 가로수에 시민들이 뜬 작품이 걸렸던 프로젝트입니다. 올해는 자리를 옮겨 경복궁 돌담길에 섰습니다.\n\n나무마다 뜬 사람이 다르니 무늬와 색도 다 다릅니다. 돌담을 따라 걸으며 한 그루씩 들여다보는 겨울 산책길입니다.\n\n장소: 서울 종로구 경복궁 돌담길 가로수\n관람: 무료\n#SENE #서촌 #서촌얀바밍 #경복궁돌담길 #뜨개",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300489/zcwaa9pc9w4j6kvx7x5j.jpg",
+      "credit": "@sinekostudios",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/896907027_18132068782695817_4449243435639398742_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cmXmubeJTHMQ7kNvwHqQ_6X&_nc_oc=AdqYJfK4qNtx-K0nN-VW3hhYDG5xtoF_qKAIyYHKToQJcT7_Qo3eNoTNm2HwfXJKGRs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HswYBUWDhx6s2-3C8ColRQ&oh=00_AQR80KaGL44hVQhqEoPZVYkEQatwS7tAm20QWibFD4HH2g&oe=6AF8A45B"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300492/bftxoxuoms5k9upb1lun.jpg",
+      "credit": "@sinekostudios",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869843619_18130870129695817_6668348829056888010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=q3YTWhsMhdMQ7kNvwEGwI8l&_nc_oc=Adq2HDpHUlrIlAZAMG4WAwjEj8dZGUDOLVAi9Lr-CzOUEEI6MHB0eyvZt9y4rUEx8xk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HswYBUWDhx6s2-3C8ColRQ&oh=00_AQRZapywidzqvSjvWya0FpNMiG-jk0aW69-Dq5BTYKJdvA&oe=6AF89839"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300489/zcwaa9pc9w4j6kvx7x5j.jpg",
+      "credit": "@sinekostudios",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/896907027_18132068782695817_4449243435639398742_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=cmXmubeJTHMQ7kNvwHqQ_6X&_nc_oc=AdqYJfK4qNtx-K0nN-VW3hhYDG5xtoF_qKAIyYHKToQJcT7_Qo3eNoTNm2HwfXJKGRs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HswYBUWDhx6s2-3C8ColRQ&oh=00_AQR80KaGL44hVQhqEoPZVYkEQatwS7tAm20QWibFD4HH2g&oe=6AF8A45B"
+     },
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300492/bftxoxuoms5k9upb1lun.jpg",
+      "credit": "@sinekostudios",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869843619_18130870129695817_6668348829056888010_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=q3YTWhsMhdMQ7kNvwEGwI8l&_nc_oc=Adq2HDpHUlrIlAZAMG4WAwjEj8dZGUDOLVAi9Lr-CzOUEEI6MHB0eyvZt9y4rUEx8xk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HswYBUWDhx6s2-3C8ColRQ&oh=00_AQRZapywidzqvSjvWya0FpNMiG-jk0aW69-Dq5BTYKJdvA&oe=6AF89839"
+     }
+    ],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "서촌 나무들이|다시 옷을 입었다",
+      "sub": "서촌 얀바밍 · 올해는 경복궁 돌담길"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] 기간 줄 뺐음 — fastpaper 는 11/7~2027.1.30 이라 '11월 9일 공개'와 어긋남(11/9 은 아주경제 사진 촬영일). '필운대로'는 이뉴스투데이 원문에 '필운동 일대'라 고침. 지난 시즌 78그루·134명, 올해 70명·효자로는 한 곳씩만 확인돼 뺐음 — 시네코스튜디오 11/9 게시물 원문에 있으면 되살리기",
+     "종료일(2027.1.30)·55그루·효자로 3~57 은 fastpaper 게시물 한 곳뿐이라 뺐음 — 시네코스튜디오 11/9 공식 게시물 원문에 있으면 기간 줄을 날짜로 바꾸기",
+     "지난 시즌 공동 기획 댄싱그랜마가 올해도 함께인지 미확인 — 캡션엔 시네코스튜디오만",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "시네코스튜디오 공식 인스타 — 2026-2027 SEOCHON YARNBOMBING OPEN (11/9)",
+      "link": "https://www.instagram.com/sinekostudios/"
+     },
+     {
+      "title": "아주경제 포토 — 경복궁 돌담길 가로수 뜨개옷 (11/9)",
+      "link": "https://www.ajunews.com/view/20261109165458289"
+     },
+     {
+      "title": "fastpaper 게시물 — 2026-2027 서촌 얀바밍 (70명·55그루·효자로)",
+      "link": "https://www.instagram.com/p/DfbjllMlL9U/"
+     },
+     {
+      "title": "이뉴스투데이 — 지난 시즌 필운대로 78그루·134명",
+      "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2363124"
+     },
+     {
+      "title": "e종로구정신문 — 2025~2026 서촌 얀바밍 마무리",
+      "link": "https://www.jongnonews.com/news/articleView.html?idxno=1745"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300503/uv9gogt55ofjn9wq5ijj.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300502/p9bbpxga5oevkuk2ms0y.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794300503/uv9gogt55ofjn9wq5ijj.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-10T17:48+09:00",
+     "v": {
+      "A": "1a57d26c"
+     }
+    }
+   },
+   "corner_name": "소식"
   }
  ],
  "skipped": [],
@@ -972,7 +1185,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 3,
+    "drafts": 5,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1200,10 +1413,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-10T11:50+09:00"
+  "at": "2026-11-10T17:48+09:00"
  },
  "queue": {
-  "next": "2026-11-10T11:52+09:00",
+  "next": "2026-11-10T17:50+09:00",
   "n": 0,
   "gap": 20
  },
