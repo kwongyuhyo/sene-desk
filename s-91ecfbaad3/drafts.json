@@ -296,7 +296,9 @@
      "v": {
       "A": "89234ae7",
       "B": "038216a3",
-      "C": "9d36ce37"
+      "C": "9d36ce37",
+      "E": "e88da21b",
+      "J": "ac61cfc3"
      }
     }
    },
@@ -306,7 +308,69 @@
     "why": "더현대 H빌리지 오늘 개장 — 오늘 가장 많이 찾을 연말 공간",
     "at": "2026-11-10T11:47+09:00"
    },
-   "i18n_queued": "2026-11-10T11:48+09:00"
+   "i18n_queued": "2026-11-10T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-10T11:50+09:00",
+    "confirm": [
+     "베이커리 '베즐리'의 공식 영문 표기를 확인하지 못해 영어는 'Bezzly', 일본어는 'ベズリー（베즐리）'로 임시로 옮겼습니다. 공식 표기로 바꿔 주세요.",
+     "LP 청음 카페 '바이닐'은 영어 'Vinyl', 일본어 'バイナル（바이닐）'로 옮겼습니다. 매장이 쓰는 공식 영문 표기인지 확인해 주세요.",
+     "더현대 서울의 일본어 표기는 일본 여행 매체에서 쓰는 'ザ・現代ソウル'로 했습니다. 공식 일본어 표기가 따로 있는지 확인해 주세요.",
+     "출처 '파이낸셜뉴스'는 영어로 'Financial News'로 옮겼습니다. 'The Financial News' 같은 매체의 공식 영문 표기를 확인해 주세요.",
+     "영어 표지 2행 'Goes 1980s New York'은 22자 안팎에 맞추려고 의역했습니다.",
+     "베즐리 영문 표기 VEZZLY는 검색 요약에서만 확인했습니다 — 올리기 전 베즐리 공식 계정에서 대소문자까지 다시 확인해 주세요",
+     "바이닐(Vinyl)의 공식 영문·일본어 표기는 확인하지 못했습니다",
+     "검색에 나온 파이낸셜뉴스 H빌리지 기사는 2023년 것(fnnews 202311…)입니다 — 원문 출처 기사가 2026년 행사 기사인지, 입점 매장 목록(바이닐·베즐리·씨즈캔디)과 '1차 사전 예약 마감'이 올해 사실인지 확인해 주세요",
+     "일본어 출처 칸에 한글 '파이낸셜뉴스'가 괄호로 남아 있습니다 — 규칙상 매체명은 그대로 두는 것이라 놔뒀지만, 'Financial News'만 남길지 판단해 주세요"
+    ],
+    "review": {
+     "at": "2026-11-10T11:50+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · 'In Sounds Forest … 13 red-brick buildings … now stand' → 'Sounds Forest … is now lined with 13 red-brick buildings' — 직역투 도치문",
+      "영어 · 캡션 셋째 단락 · Bezzly → Vezzly — 검색에서 베즐리 영문 표기가 VEZZLY로 나옴",
+      "일본어 · 예약 줄 · 「締め切り・現地ウェイティングあり」→「受付終了・現地での順番待ちあり」 — 'ウェイティング'은 한국식 외래어라 일본 독자에게 어색함"
+     ],
+     "doubt": [
+      "베즐리 영문 표기 VEZZLY는 검색 요약에서만 확인했습니다 — 올리기 전 베즐리 공식 계정에서 대소문자까지 다시 확인해 주세요",
+      "바이닐(Vinyl)의 공식 영문·일본어 표기는 확인하지 못했습니다",
+      "검색에 나온 파이낸셜뉴스 H빌리지 기사는 2023년 것(fnnews 202311…)입니다 — 원문 출처 기사가 2026년 행사 기사인지, 입점 매장 목록(바이닐·베즐리·씨즈캔디)과 '1차 사전 예약 마감'이 올해 사실인지 확인해 주세요",
+      "일본어 출처 칸에 한글 '파이낸셜뉴스'가 괄호로 남아 있습니다 — 규칙상 매체명은 그대로 두는 것이라 놔뒀지만, 'Financial News'만 남길지 판단해 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nH Village, the Christmas village at The Hyundai Seoul (@thehyundai_seoul), opens today.\n\nThis year's theme is a New York Christmas street from the 1980s and '90s. Sounds Forest on the fifth floor is now lined with 13 red-brick buildings up to 10 meters tall, with yellow taxis and neon signs filling the lanes.\n\nNewspaper props recalling Christmas 1985, the year Hyundai Department Store first opened, are placed throughout the village. Forty cats helping Harry the bear cub deliver his presents are hidden along the lanes. Inside the buildings are Vinyl, an LP listening café from Seongsu-dong, the bakery Vezzly, See's Candies and more.\n\nDates: Nov 10 (Tue) – Dec 31 (Thu)\nLocation: Sounds Forest, 5F, The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu (Yeouido), Seoul\nReservations: First round of advance bookings closed · On-site waitlist available\n\n#SENE #TheHyundaiSeoul #HVillage #Yeouido #SeoulChristmas\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794267628/ma4yevwkgpz2vvffmmtw.jpg\n제목: The Hyundai H Village|Goes 1980s New York\n부제: Nov 10 – Dec 31 · The Hyundai Seoul, 5F\n출처: Financial News\n",
+      "caption": "H Village, the Christmas village at The Hyundai Seoul (@thehyundai_seoul), opens today.\n\nThis year's theme is a New York Christmas street from the 1980s and '90s. Sounds Forest on the fifth floor is now lined with 13 red-brick buildings up to 10 meters tall, with yellow taxis and neon signs filling the lanes.\n\nNewspaper props recalling Christmas 1985, the year Hyundai Department Store first opened, are placed throughout the village. Forty cats helping Harry the bear cub deliver his presents are hidden along the lanes. Inside the buildings are Vinyl, an LP listening café from Seongsu-dong, the bakery Vezzly, See's Candies and more.\n\nDates: Nov 10 (Tue) – Dec 31 (Thu)\nLocation: Sounds Forest, 5F, The Hyundai Seoul, 108 Yeoui-daero, Yeongdeungpo-gu (Yeouido), Seoul\nReservations: First round of advance bookings closed · On-site waitlist available\n\n#SENE #TheHyundaiSeoul #HVillage #Yeouido #SeoulChristmas",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794279051/ii6opbtqvj2jvv6u5etr.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794279050/vkd83w6cien2hqlvttpd.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794279051/ii6opbtqvj2jvv6u5etr.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-10T11:50+09:00"
+      }
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nザ・現代ソウル（더현대 서울・@thehyundai_seoul）のクリスマスの街「Hビレッジ」が、今日オープンします。\n\n今年のテーマは1980〜90年代のニューヨークのクリスマスの街並みです。5階のサウンズフォレストには高さ最大10メートルの赤レンガの建物13棟が建ち、黄色いタクシーとネオンサインが路地を彩っています。\n\n現代百貨店が初めて開業した1985年のクリスマスを伝える新聞の小道具があちこちに置かれ、路地には子グマのハリーのプレゼント配達を手伝う猫40匹が隠れています。建物の中には、聖水洞のLP試聴カフェ「バイナル（바이닐）」、ベーカリー「ベズリー（베즐리）」、シーズキャンディーズなどが入っています。\n\n期間：11月10日（火）〜12月31日（木）\n場所：ソウル・汝矣島（ヨイド） 永登浦区汝矣大路108 ザ・現代ソウル5階 サウンズフォレスト\n予約：第1次事前予約は受付終了・現地での順番待ちあり\n\n#SENE #ザ現代ソウル #韓国旅行 #汝矣島 #ソウルクリスマス\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794267628/ma4yevwkgpz2vvffmmtw.jpg\n제목: ザ・現代Hビレッジ、|今年は80年代NY\n부제: 11月10日〜12月31日・ザ・現代ソウル5階\n출처: Financial News（파이낸셜뉴스）\n",
+      "caption": "ザ・現代ソウル（더현대 서울・@thehyundai_seoul）のクリスマスの街「Hビレッジ」が、今日オープンします。\n\n今年のテーマは1980〜90年代のニューヨークのクリスマスの街並みです。5階のサウンズフォレストには高さ最大10メートルの赤レンガの建物13棟が建ち、黄色いタクシーとネオンサインが路地を彩っています。\n\n現代百貨店が初めて開業した1985年のクリスマスを伝える新聞の小道具があちこちに置かれ、路地には子グマのハリーのプレゼント配達を手伝う猫40匹が隠れています。建物の中には、聖水洞のLP試聴カフェ「バイナル（바이닐）」、ベーカリー「ベズリー（베즐리）」、シーズキャンディーズなどが入っています。\n\n期間：11月10日（火）〜12月31日（木）\n場所：ソウル・汝矣島（ヨイド） 永登浦区汝矣大路108 ザ・現代ソウル5階 サウンズフォレスト\n予約：第1次事前予約は受付終了・現地での順番待ちあり\n\n#SENE #ザ現代ソウル #韓国旅行 #汝矣島 #ソウルクリスマス",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794279054/bphtowhignt5imjqloes.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794279053/np3xs7twh4j7btvwj1h4.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794279054/bphtowhignt5imjqloes.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-10T11:50+09:00"
+      }
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1136,10 +1200,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-10T11:49+09:00"
+  "at": "2026-11-10T11:50+09:00"
  },
  "queue": {
-  "next": "2026-11-10T11:51+09:00",
+  "next": "2026-11-10T11:52+09:00",
   "n": 0,
   "gap": 20
  },
