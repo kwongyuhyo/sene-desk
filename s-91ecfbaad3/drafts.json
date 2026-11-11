@@ -425,7 +425,9 @@
      "v": {
       "A": "adce2b8a",
       "B": "4c30e4b1",
-      "C": "5d588c2a"
+      "C": "5d588c2a",
+      "E": "d5d0d434",
+      "J": "d377a3c5"
      }
     }
    },
@@ -498,7 +500,71 @@
     "why": "하츠웨이브 첫 단독 팬 콘서트 11/28 장충 — 케이팝 공연 가는 날 정보",
     "at": "2026-11-11T11:47+09:00"
    },
-   "i18n_queued": "2026-11-11T11:48+09:00"
+   "i18n_queued": "2026-11-11T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-11T11:49+09:00",
+    "confirm": [
+     "일본어 공식 표기를 찾지 못해 일본어판도 공식 로마자 표기 hrtz.wav를 그대로 썼습니다. 일본 공식 계정이나 카카오엔터 일본어 표기(ハーツウェイブ 등)가 있다면 확인해 주세요.",
+     "장충체육관 영어 표기는 'Jangchung Arena'로 썼는데, 검색된 영어 기사(경향 영문판 AI 번역)에는 'Jangchung Gymnasium'으로 나옵니다. 공연장 공식 영어 표기를 확인해 주세요.",
+     "숏폼 영어 칸은 '*hrtz.wav* 1st fan con' + 'At Jangchung Arena'(합 37자)로 썼습니다. 일본어 칸은 한 줄 11자 안에 맞추려고 '初ファンコンは奨忠で' + '*hrtz.wav*'로 줄였습니다(합 18자).",
+     "영상 출처 칸 '1theK Live - 원더케이 라이브'는 채널 이름이라 영어·일본어 모두 그대로 두었습니다. 영어·일본어 독자용으로 '1theK Live'만 남길지 정해 주세요.",
+     "경향 영문판 기사에는 팬클럽 선예매가 11/27 오후 8시, 일반 예매가 11/28 오후 8시로 나오는데, 공연일(11/28)과 맞지 않아 기계 번역 오류로 보입니다. 원문에 예매 정보가 없어 번역에도 넣지 않았습니다.",
+     "출처 표기 · 채널 공식 이름이 '1theK Live - 원더케이 라이브' 전체라서 그대로 둬야 한다면 원래대로 되돌릴 것"
+    ],
+    "review": {
+     "at": "2026-11-11T11:49+09:00",
+     "fixes": [
+      "영어 · 숏폼 곡 칸 · At Jangchung Arena → at Jangchung Arena — 아티스트 칸에 이어 한 문장으로 읽히므로 문장 가운데 대문자를 소문자로",
+      "영어·일본어 · 출처 칸 · '1theK Live - 원더케이 라이브' → '1theK Live' — 한글이 남아 있어서 같은 채널의 영문 이름만 남김",
+      "영어·일본어 · 숏폼 캡션 '영상:' 줄 · 위와 같은 이유로 '1theK Live' 로 통일"
+     ],
+     "doubt": [
+      "출처 표기 · 채널 공식 이름이 '1theK Live - 원더케이 라이브' 전체라서 그대로 둬야 한다면 원래대로 되돌릴 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nhrtz.wav is holding its first solo fan concert, seven months after its debut.\n\nThe show is titled '2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON <TUNE IN>'. The band debuted in April, and for its first solo stage it has booked Jangchung Arena in Seoul.\n\nA setlist with several song titles blacked out went up first on the band's official social channels. The show will reportedly run 20 songs: tracks from the band's two mini albums plus cover performances.\n\nDate: Sat, Nov 28, 6 p.m.\nLocation: Jangchung Arena, Jung-gu, Seoul\n\n#SENE #hrtzwav #TUNEIN #KpopBand #JangchungArena\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794354200/bmtvuilikh0wj9j7pyea.jpg\n제목: hrtz.wav, 7 Months In|First Solo Fan Concert\n부제: Nov 28 at Jangchung Arena\n출처: @hrtzwav\n",
+      "caption": "hrtz.wav is holding its first solo fan concert, seven months after its debut.\n\nThe show is titled '2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON <TUNE IN>'. The band debuted in April, and for its first solo stage it has booked Jangchung Arena in Seoul.\n\nA setlist with several song titles blacked out went up first on the band's official social channels. The show will reportedly run 20 songs: tracks from the band's two mini albums plus cover performances.\n\nDate: Sat, Nov 28, 6 p.m.\nLocation: Jangchung Arena, Jung-gu, Seoul\n\n#SENE #hrtzwav #TUNEIN #KpopBand #JangchungArena",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365380/qukqpptgfebqcevrodrn.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365379/gqji8vru6t9rfqpuqemi.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365380/qukqpptgfebqcevrodrn.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-11T11:49+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=y_5aTNhsMIo\n구간: 0:19-0:37\n곡: at Jangchung Arena\n아티스트: *hrtz.wav* 1st fan con\n피처링:\n후킹: \n출처: 1theK Live\n자막: 끔",
+      "caption": "hrtz.wav is holding its first solo fan concert, seven months after its debut.\n\nThe clip shows the band playing together on 'Beyond the Studio', 1theK Live's outdoor recording series. The band debuted in April, and this time it takes the Jangchung Arena stage on its own for the first time.\n\nThe show will reportedly run 20 songs: tracks from the band's two mini albums plus cover performances.\n\nShow: 2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON <TUNE IN>\nDate: Sat, Nov 28, 6 p.m.\nLocation: Jangchung Arena, Jung-gu, Seoul\nVideo: 1theK Live\n\n#SENE #hrtzwav #TUNEIN #KpopBand #JangchungArena"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nhrtz.wavが、デビューから7か月で初の単独ファンコンサートを開きます。\n\n公演名は「2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉」です。今年4月にデビューしたバンドが、初めて単独で立つ舞台にソウルの奨忠体育館（チャンチュンたいいくかん）を選びました。\n\n公式SNSには、一部の曲名を伏せたセットリストが先に公開されました。2枚のミニアルバムの曲にカバーステージを加え、全20曲で構成されるとのことです。\n\n日時：11月28日（土）午後6時\n場所：ソウル・中区（チュング） 奨忠体育館\n\n#SENE #hrtzwav #韓国バンド #TUNEIN #奨忠体育館\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794354200/bmtvuilikh0wj9j7pyea.jpg\n제목: hrtz.wav デビュー7か月|初の単独ファンコン\n부제: 11月28日 奨忠体育館\n출처: @hrtzwav\n",
+      "caption": "hrtz.wavが、デビューから7か月で初の単独ファンコンサートを開きます。\n\n公演名は「2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉」です。今年4月にデビューしたバンドが、初めて単独で立つ舞台にソウルの奨忠体育館（チャンチュンたいいくかん）を選びました。\n\n公式SNSには、一部の曲名を伏せたセットリストが先に公開されました。2枚のミニアルバムの曲にカバーステージを加え、全20曲で構成されるとのことです。\n\n日時：11月28日（土）午後6時\n場所：ソウル・中区（チュング） 奨忠体育館\n\n#SENE #hrtzwav #韓国バンド #TUNEIN #奨忠体育館",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365383/vd1sksb39762xz3m67js.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365382/hczqlk0geqsaihisdzzv.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365383/vd1sksb39762xz3m67js.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-11T11:49+09:00"
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=y_5aTNhsMIo\n구간: 0:19-0:37\n곡: 初ファンコンは奨忠で\n아티스트: *hrtz.wav*\n피처링:\n후킹: \n출처: 1theK Live\n자막: 끔",
+      "caption": "hrtz.wavが、デビューから7か月で初の単独ファンコンサートを開きます。\n\n映像は、1theK Liveの屋外レコーディングシリーズ「Beyond the Studio」でバンドが一緒に演奏した場面です。今年4月にデビューしたこのバンドが、今回は初めて単独で奨忠体育館（チャンチュンたいいくかん）のステージに立ちます。\n\n2枚のミニアルバムの曲にカバーステージを加え、全20曲で構成されるとのことです。\n\n公演：2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉\n日時：11月28日（土）午後6時\n場所：ソウル・中区（チュング） 奨忠体育館\n映像：1theK Live\n\n#SENE #hrtzwav #韓国バンド #TUNEIN #奨忠体育館"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -903,9 +969,11 @@
      "end": 24.0,
      "full": 24.0
     },
-    "render": {
-     "status": "queued",
-     "at": "2026-11-11T11:48+09:00"
+    "rendered": {
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365331/sene_studio/jfooufr5xqygdasmilwh.mp4",
+     "at": "2026-11-11T11:48+09:00",
+     "file": "JangWonYeong_DagTeoElSiA_KaemPeIn_ByuTi_no_lyrics.mp4",
+     "v": "d83d53d7"
     }
    },
    "pick": {
@@ -1162,10 +1230,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T11:48+09:00"
+  "at": "2026-11-11T11:49+09:00"
  },
  "queue": {
-  "next": "2026-11-11T11:50+09:00",
+  "next": "2026-11-11T11:51+09:00",
   "n": 0,
   "gap": 20
  },
