@@ -540,7 +540,14 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=y_5aTNhsMIo\n구간: 0:19-0:37\n곡: at Jangchung Arena\n아티스트: *hrtz.wav* 1st fan con\n피처링:\n후킹: \n출처: 1theK Live\n자막: 끔",
-      "caption": "hrtz.wav is holding its first solo fan concert, seven months after its debut.\n\nThe clip shows the band playing together on 'Beyond the Studio', 1theK Live's outdoor recording series. The band debuted in April, and this time it takes the Jangchung Arena stage on its own for the first time.\n\nThe show will reportedly run 20 songs: tracks from the band's two mini albums plus cover performances.\n\nShow: 2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON <TUNE IN>\nDate: Sat, Nov 28, 6 p.m.\nLocation: Jangchung Arena, Jung-gu, Seoul\nVideo: 1theK Live\n\n#SENE #hrtzwav #TUNEIN #KpopBand #JangchungArena"
+      "caption": "hrtz.wav is holding its first solo fan concert, seven months after its debut.\n\nThe clip shows the band playing together on 'Beyond the Studio', 1theK Live's outdoor recording series. The band debuted in April, and this time it takes the Jangchung Arena stage on its own for the first time.\n\nThe show will reportedly run 20 songs: tracks from the band's two mini albums plus cover performances.\n\nShow: 2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON <TUNE IN>\nDate: Sat, Nov 28, 6 p.m.\nLocation: Jangchung Arena, Jung-gu, Seoul\nVideo: 1theK Live\n\n#SENE #hrtzwav #TUNEIN #KpopBand #JangchungArena",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365479/sene_studio/o1k7jrk6aznbp5ze1uhj.mp4",
+       "at": "2026-11-11T11:51+09:00",
+       "file": "hrtzwav_1st_fan_con_at_Jangchung_Arena_KeolCheo_no_lyrics.mp4",
+       "sig": "8544d8f470",
+       "v": "a2c568f9"
+      }
      }
     },
     "ja": {
@@ -561,7 +568,13 @@
      },
      "shorts": {
       "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=y_5aTNhsMIo\n구간: 0:19-0:37\n곡: 初ファンコンは奨忠で\n아티스트: *hrtz.wav*\n피처링:\n후킹: \n출처: 1theK Live\n자막: 끔",
-      "caption": "hrtz.wavが、デビューから7か月で初の単独ファンコンサートを開きます。\n\n映像は、1theK Liveの屋外レコーディングシリーズ「Beyond the Studio」でバンドが一緒に演奏した場面です。今年4月にデビューしたこのバンドが、今回は初めて単独で奨忠体育館（チャンチュンたいいくかん）のステージに立ちます。\n\n2枚のミニアルバムの曲にカバーステージを加え、全20曲で構成されるとのことです。\n\n公演：2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉\n日時：11月28日（土）午後6時\n場所：ソウル・中区（チュング） 奨忠体育館\n映像：1theK Live\n\n#SENE #hrtzwav #韓国バンド #TUNEIN #奨忠体育館"
+      "caption": "hrtz.wavが、デビューから7か月で初の単独ファンコンサートを開きます。\n\n映像は、1theK Liveの屋外レコーディングシリーズ「Beyond the Studio」でバンドが一緒に演奏した場面です。今年4月にデビューしたこのバンドが、今回は初めて単独で奨忠体育館（チャンチュンたいいくかん）のステージに立ちます。\n\n2枚のミニアルバムの曲にカバーステージを加え、全20曲で構成されるとのことです。\n\n公演：2026 hrtz.wav(@hrtzwav) 1st CONNECT!ON 〈TUNE IN〉\n日時：11月28日（土）午後6時\n場所：ソウル・中区（チュング） 奨忠体育館\n映像：1theK Live\n\n#SENE #hrtzwav #韓国バンド #TUNEIN #奨忠体育館",
+      "render": {
+       "status": "queued",
+       "at": "2026-11-11T11:49+09:00",
+       "sig": "605cb4c4c4",
+       "job": 257
+      }
      }
     }
    }
@@ -901,7 +914,9 @@
       "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365261/sene_studio/n2p3repfvpdgukpwglf4.mp4"
      },
      "v": {
-      "A": "6713e51d"
+      "A": "6713e51d",
+      "E": "a8eb8ca6",
+      "J": "0429f800"
      }
     }
    },
@@ -982,7 +997,89 @@
     "at": "2026-11-11T11:47+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-11T11:48+09:00"
+   "i18n_queued": "2026-11-11T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-11T11:51+09:00",
+    "confirm": [
+     "주소 '성수이로 108'(108 Seongsui-ro / 聖水二路108)은 웹 검색으로 확인하지 못했습니다. 검색 결과에 뷰티 맨션의 번지가 나오지 않았습니다. 올리지 전에 올리브영 공식 안내로 다시 확인해 주세요.",
+     "'Olive Young Beauty Mansion Seongsu'는 영어 기사(헤럴드·경향) 표기와 같습니다. 일본어 표기 'オリーブヤング ビューティーマンション聖水'는 공식 일본어 표기를 찾지 못해 옮긴 이름입니다.",
+     "브랜드 일본어 표기 'ドクターエルシア'는 일본 판매처(요도바시·Qoo10)에서 확인했습니다. 'チャン・ウォニョン'은 일본 매체가 흔히 쓰는 표기이고, 이번 검색으로 공식 표기를 확인하지는 못했습니다.",
+     "출처 칸 '닥터엘시아_Dr.althea'는 유튜브 채널 이름이라 번역하지 않고 그대로 두었습니다.",
+     "일본어 표지 둘째 줄 '聖水ドクターエルシアPOPUP'은 14자로, 기준인 12자를 조금 넘습니다.",
+     "일본어 · 표지 제목 둘째 줄 '聖水ドクターエルシアPOPUP' 16자로 기준(12자 안팎)보다 긺 — 브랜드명을 줄일 수 없어 그대로 둠, 화면에서 줄바꿈 확인 필요",
+     "영어 · 원문 '글로벌 모델'을 'global ambassador'로 옮김 — 브랜드 영문 공식 발표의 호칭(ambassador/model/muse) 확인 권장",
+     "공통 · 날짜·요일(11/1 일 ~ 11/28 토)·시간·주소는 원문과 일치, 다만 원문 사실 자체(운영 시간·주소)는 공식 출처로 재확인 필요",
+     "영어판 출처에 한글이 남음",
+     "영어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-11T11:51+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · 'and it is set up inside' → 'housed inside' — 직역투"
+     ],
+     "doubt": [
+      "일본어 · 표지 제목 둘째 줄 '聖水ドクターエルシアPOPUP' 16자로 기준(12자 안팎)보다 긺 — 브랜드명을 줄일 수 없어 그대로 둠, 화면에서 줄바꿈 확인 필요",
+      "영어 · 원문 '글로벌 모델'을 'global ambassador'로 옮김 — 브랜드 영문 공식 발표의 호칭(ambassador/model/muse) 확인 권장",
+      "공통 · 날짜·요일(11/1 일 ~ 11/28 토)·시간·주소는 원문과 일치, 다만 원문 사실 자체(운영 시간·주소)는 공식 출처로 재확인 필요",
+      "영어판 출처에 한글이 남음",
+      "영어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nIVE's Jang Wonyoung (@for_everyoung10) visited the Dr.Althea (@dr.altheaglobal) pop-up in Seongsu-dong, Seoul, this week.\n\nJang has been Dr.Althea's global ambassador since March. The pop-up, '345 Secret Project', is a collaboration between the brand and Olive Young (@oliveyoung_official), housed inside Olive Young Beauty Mansion Seongsu.\n\nThe pop-up opened on Nov 1, and its signboards are designed like the front page of a newspaper. The space Jang visited stays open through the 28th of this month.\n\nDates: Nov 1 (Sun) – Nov 28 (Sat)\nHours: 11 a.m. – 7 p.m.\nLocation: Olive Young Beauty Mansion Seongsu, 108 Seongsui-ro, Seongdong-gu, Seoul\n#SENE #JangWonyoung #IVE #DrAlthea #SeongsuPopup #OliveYoung\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794365242/pcl25nlqs5oxuwpqbmbs.jpg\n제목: Jang Wonyoung Stops by|Dr.Althea's Seongsu Pop-Up\n부제: Olive Young Beauty Mansion Seongsu · Through Nov 28\n출처: @dr.altheaglobal\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1794365252/sene_studio/jibpuulhfj30cjkqvx8n.mp4\n소제목: \n본문: \n출처: 닥터엘시아_Dr.althea\n",
+      "caption": "IVE's Jang Wonyoung (@for_everyoung10) visited the Dr.Althea (@dr.altheaglobal) pop-up in Seongsu-dong, Seoul, this week.\n\nJang has been Dr.Althea's global ambassador since March. The pop-up, '345 Secret Project', is a collaboration between the brand and Olive Young (@oliveyoung_official), housed inside Olive Young Beauty Mansion Seongsu.\n\nThe pop-up opened on Nov 1, and its signboards are designed like the front page of a newspaper. The space Jang visited stays open through the 28th of this month.\n\nDates: Nov 1 (Sun) – Nov 28 (Sat)\nHours: 11 a.m. – 7 p.m.\nLocation: Olive Young Beauty Mansion Seongsu, 108 Seongsui-ro, Seongdong-gu, Seoul\n#SENE #JangWonyoung #IVE #DrAlthea #SeongsuPopup #OliveYoung",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365486/tohvdlfb6w6owmx664xj.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365489/ugbmkuv1cwuo5wcv6cl2.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365485/zs2hd5b6dmna9zat4ufr.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365486/tohvdlfb6w6owmx664xj.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-11T11:51+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365487/sene_studio/ux8fslsnavzrd3smillt.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=GsbYbvFAhX8\n구간: 0:02-0:17\n곡: Dr.Althea campaign\n아티스트: *Jang Wonyoung*,\n피처링:\n후킹: \n출처: 닥터엘시아_Dr.althea\n자막: 끔",
+      "caption": "IVE's Jang Wonyoung (@for_everyoung10) in Dr.Althea's (@dr.altheaglobal) official campaign film.\n\nJang has been the brand's global ambassador since March, and this week she visited '345 Secret Project', the pop-up the brand opened with Olive Young (@oliveyoung_official) in Seongsu-dong, Seoul.\n\nPop-up: Nov 1 (Sun) – Nov 28 (Sat) · 11 a.m. – 7 p.m.\nLocation: Olive Young Beauty Mansion Seongsu, 108 Seongsui-ro, Seongdong-gu, Seoul\nVideo: Dr.Althea official YouTube\n#SENE #JangWonyoung #IVE #DrAlthea #SeongsuPopup"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nIVEのチャン・ウォニョン（장원영・@for_everyoung10）が今週、ソウル・聖水洞（ソンスドン）にあるドクターエルシア（Dr.Althea・@dr.altheaglobal）のポップアップを訪れました。\n\nチャン・ウォニョンは今年3月からドクターエルシアのグローバルモデルを務めています。今回のポップアップは、ブランドがオリーブヤング（@oliveyoung_official）と共同で手がけた「345 Secret Project」で、オリーブヤング ビューティーマンション聖水の中に設けられました。\n\n1日にオープンしたポップアップの案内板は、新聞の一面のようなデザインです。チャン・ウォニョンが訪れたこの空間は、今月28日までオープンしています。\n\n期間：11月1日（日）〜11月28日（土）\n営業時間：午前11時〜午後7時\n場所：ソウル特別市城東区聖水二路（ソンスイロ）108 オリーブヤング ビューティーマンション聖水\n#SENE #チャンウォニョン #IVE #ドクターエルシア #聖水 #韓国旅行\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794365242/pcl25nlqs5oxuwpqbmbs.jpg\n제목: チャン・ウォニョンが訪れた|聖水ドクターエルシアPOPUP\n부제: オリーブヤング ビューティーマンション聖水・11月28日まで\n출처: @dr.altheaglobal\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1794365252/sene_studio/jibpuulhfj30cjkqvx8n.mp4\n소제목: \n본문: \n출처: 닥터엘시아_Dr.althea\n",
+      "caption": "IVEのチャン・ウォニョン（장원영・@for_everyoung10）が今週、ソウル・聖水洞（ソンスドン）にあるドクターエルシア（Dr.Althea・@dr.altheaglobal）のポップアップを訪れました。\n\nチャン・ウォニョンは今年3月からドクターエルシアのグローバルモデルを務めています。今回のポップアップは、ブランドがオリーブヤング（@oliveyoung_official）と共同で手がけた「345 Secret Project」で、オリーブヤング ビューティーマンション聖水の中に設けられました。\n\n1日にオープンしたポップアップの案内板は、新聞の一面のようなデザインです。チャン・ウォニョンが訪れたこの空間は、今月28日までオープンしています。\n\n期間：11月1日（日）〜11月28日（土）\n営業時間：午前11時〜午後7時\n場所：ソウル特別市城東区聖水二路（ソンスイロ）108 オリーブヤング ビューティーマンション聖水\n#SENE #チャンウォニョン #IVE #ドクターエルシア #聖水 #韓国旅行",
+      "preview": {
+       "slides": [
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365494/qpkfobhfymbxcgr9o2u5.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365497/d7gfo6t5tgxqgd7gl9q2.jpg",
+        "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365493/cigk35073gql4sfcttue.jpg"
+       ],
+       "covers": {
+        "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365494/qpkfobhfymbxcgr9o2u5.jpg"
+       },
+       "cvr": 2,
+       "at": "2026-11-11T11:51+09:00",
+       "videos": {
+        "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365495/sene_studio/wp5pcr0crmounzszntgz.mp4"
+       }
+      }
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=GsbYbvFAhX8\n구간: 0:02-0:17\n곡: ドクターエルシア広告\n아티스트: *チャン・ウォニョン*、\n피처링:\n후킹: \n출처: 닥터엘시아_Dr.althea\n자막: 끔",
+      "caption": "ドクターエルシア（Dr.Althea・@dr.altheaglobal）の公式キャンペーンフィルムに登場するIVEのチャン・ウォニョン（장원영・@for_everyoung10）です。\n\n今年3月からブランドのグローバルモデルを務めているチャン・ウォニョン。今週は、ブランドがオリーブヤング（@oliveyoung_official）と共同で開いたソウル・聖水洞（ソンスドン）のポップアップ「345 Secret Project」を訪れました。\n\nポップアップ：11月1日（日）〜11月28日（土）・午前11時〜午後7時\n場所：ソウル特別市城東区聖水二路（ソンスイロ）108 オリーブヤング ビューティーマンション聖水\n映像：ドクターエルシア公式YouTube\n#SENE #チャンウォニョン #IVE #ドクターエルシア #聖水"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1230,10 +1327,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T11:49+09:00"
+  "at": "2026-11-11T11:51+09:00"
  },
  "queue": {
-  "next": "2026-11-11T11:51+09:00",
+  "next": "2026-11-11T11:53+09:00",
   "n": 0,
   "gap": 20
  },
