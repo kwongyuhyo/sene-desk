@@ -88,7 +88,39 @@
     "at": "2026-11-12T08:24+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-12T08:25+09:00"
+   "i18n_queued": "2026-11-12T08:25+09:00",
+   "i18n": {
+    "at": "2026-11-12T08:26+09:00",
+    "confirm": [
+     "원문 '11일'을 영어판에서 'Nov 11'로 옮겼습니다. 오늘(11/12) 기준으로 11월 11일이라고 봤으니 맞는지 확인해 주세요. 일본어판은 원문대로 「11日」입니다.",
+     "신세계 강남점 타트라스 팝업과 포토콜 소식(류진·사카구치 켄타로·정해인 참석)은 웹 검색에서 확인하지 못했습니다. 원문의 사실 그대로 옮겼습니다.",
+     "일본어 숏폼 곡 칸은 「タトラスのフォトウォール」이 12자라 11자 제한을 넘어서 「タトラスのフォトコール」(포토콜)로 썼습니다. 포토월로 두려면 이 칸을 고쳐 주세요.",
+     "타트라스 표기는 공식 사이트 기준 영문 TATRAS, 일본어 タトラス입니다. 사람 이름은 Ryujin, Kentaro Sakaguchi / 坂口健太郎, Jung Hae-in / チョン・ヘイン 같은 통용 표기로 썼습니다.",
+     "일본어 · 곡 칸 「タトラスのフォトコール」 — 원문은 '포토월'(フォトウォール)인데, 「タトラスのフォトウォール」은 12자로 한 줄 11자 제한을 넘어서 그대로 두었습니다. 뜻은 통하지만 원문과 낱말이 달라 한 번 확인해 주세요"
+    ],
+    "review": {
+     "at": "2026-11-12T08:26+09:00",
+     "fixes": [
+      "영어 · 캡션 첫 문장 · stepped onto the TATRAS photocall → appeared at the TATRAS photocall — 'step onto'와 photocall(행사)이 어울리지 않는 연어",
+      "일본어 · 캡션 둘째 단락 · 「オープンしたのですが、」→「オープン。オープンを記念した…には、」 — '~는데요'를 그대로 옮긴 직역투, 일본어 「のですが」는 역접으로 읽힘"
+     ],
+     "doubt": [
+      "일본어 · 곡 칸 「タトラスのフォトコール」 — 원문은 '포토월'(フォトウォール)인데, 「タトラスのフォトウォール」은 12자로 한 줄 11자 제한을 넘어서 그대로 두었습니다. 뜻은 통하지만 원문과 낱말이 달라 한 번 확인해 주세요"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=ZgZYfnKxQPA\n구간: 0:04-0:19\n곡: TATRAS photo wall\n아티스트: *Ryujin*,\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
+      "caption": "ITZY's Ryujin appeared at the TATRAS photocall at Shinsegae Department Store Gangnam on Nov 11.\n\nTATRAS opened a pop-up store at the Gangnam branch that day, and the photocall marking the opening also drew Japanese actor Kentaro Sakaguchi and actor Jung Hae-in (@holyhaein).\n\nThe clip captures only the brief moment Ryujin stood before the photo wall. TATRAS describes itself as an Italian premium classic brand.\n\nLocation: Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nVideo: MTN STAR\n#SENE #Ryujin #ITZY #TATRAS #ShinsegaeGangnam"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=ZgZYfnKxQPA\n구간: 0:04-0:19\n곡: タトラスのフォトコール\n아티스트: *リュジン*、\n피처링:\n후킹: \n출처: MTN STAR\n자막: 끔",
+      "caption": "ITZYのリュジンが11日、新世界百貨店 江南店（シンセゲ百貨店 カンナム店）で開かれたTATRAS（タトラス）のフォトコールに登場しました。\n\nこの日、タトラスは江南店にポップアップストアをオープン。オープンを記念したフォトコールには、日本の俳優・坂口健太郎さんと俳優チョン・ヘインさん（@holyhaein）も参加しました。\n\n映像はその中から、リュジンがフォトウォールの前に立った瞬間だけを短く収めています。タトラスは自らをイタリアン・プレミアム・クラシックブランドと紹介しています。\n\n場所：ソウル・瑞草区（ソチョグ） 新世界百貨店 江南店\n映像：MTN STAR\n#SENE #ITZY #リュジン #タトラス #新世界百貨店"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -336,10 +368,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-12T08:25+09:00"
+  "at": "2026-11-12T08:26+09:00"
  },
  "queue": {
-  "next": "2026-11-12T08:27+09:00",
+  "next": "2026-11-12T08:28+09:00",
   "n": 0,
   "gap": 20
  },
