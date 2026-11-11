@@ -1085,11 +1085,12 @@
      "shorts": {
       "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=GsbYbvFAhX8\n구간: 0:02-0:17\n곡: ドクターエルシア広告\n아티스트: *チャン・ウォニョン*、\n피처링:\n후킹: \n출처: 닥터엘시아_Dr.althea\n자막: 끔",
       "caption": "ドクターエルシア（Dr.Althea・@dr.altheaglobal）の公式キャンペーンフィルムに登場するIVEのチャン・ウォニョン（장원영・@for_everyoung10）です。\n\n今年3月からブランドのグローバルモデルを務めているチャン・ウォニョン。今週は、ブランドがオリーブヤング（@oliveyoung_official）と共同で開いたソウル・聖水洞（ソンスドン）のポップアップ「345 Secret Project」を訪れました。\n\nポップアップ：11月1日（日）〜11月28日（土）・午前11時〜午後7時\n場所：ソウル特別市城東区聖水二路（ソンスイロ）108 オリーブヤング ビューティーマンション聖水\n映像：ドクターエルシア公式YouTube\n#SENE #チャンウォニョン #IVE #ドクターエルシア #聖水",
-      "render": {
-       "status": "queued",
-       "at": "2026-11-11T11:51+09:00",
+      "rendered": {
+       "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365664/sene_studio/oi046g529pyopocm5jpx.mp4",
+       "at": "2026-11-11T11:54+09:00",
+       "file": "chiyan-uoniyon_dokutaerushiaGuangGa_ByuTi_no_lyrics.mp4",
        "sig": "590415f344",
-       "job": 259
+       "v": "b258dcc5"
       }
      }
     }
@@ -1341,10 +1342,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T11:53+09:00"
+  "at": "2026-11-11T11:54+09:00"
  },
  "queue": {
-  "next": "2026-11-11T11:55+09:00",
+  "next": "2026-11-11T11:56+09:00",
   "n": 0,
   "gap": 20
  },
