@@ -1176,7 +1176,43 @@
    },
    "corner_name": "정리",
    "corner_no": 1,
-   "i18n_queued": "2026-11-11T17:46+09:00"
+   "i18n_queued": "2026-11-11T17:46+09:00",
+   "i18n": {
+    "at": "2026-11-11T17:47+09:00",
+    "confirm": [
+     "'PERFECT STORM' 팝업(하이브 용산, 11/17~22)은 이번 검색에서 공식 공지를 찾지 못했습니다. 위버스 공지에서 날짜·장소를 다시 확인해 주세요.",
+     "월드투어 이름 'STEAL THE WIND'의 공식 영어·일본어 표기는 확인하지 못해 원문 그대로 두었습니다.",
+     "상영회(CGV 용산아이파크몰, 11/21, 위버스 대상 상품 구매자 응모)는 위버스 공지 40008에서 확인했습니다.",
+     "영어 · 'NOL Ticket' 표기 — 예매처 공식 영문 표기(NOL TICKET 등 대소문자)를 올리기 전에 확인",
+     "날짜·요일·시간·인원·연령은 원문과 모두 같음 (2026년 11월 13일 = 금요일 확인)"
+    ],
+    "review": {
+     "at": "2026-11-11T17:47+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · \"TXT's November in Seoul,|in date order\" → \"TXT's Seoul November|Schedule by Date\" — 쉼표 뒤 소문자 이어짐이 직역투이고 제목으로 읽히지 않음",
+      "영어 · 넷째 본문 · \"members of official fandom MOA\" → \"members of the official fandom MOA\" — 관사 빠짐",
+      "일본어 · 표지 제목 · 「TXTの11月ソウル、」 → 「TXT・11月のソウル」 — 「11月ソウル」 조사 빠짐이 어색하고 쉼표가 필요 없음"
+     ],
+     "doubt": [
+      "영어 · 'NOL Ticket' 표기 — 예매처 공식 영문 표기(NOL TICKET 등 대소문자)를 올리기 전에 확인",
+      "날짜·요일·시간·인원·연령은 원문과 모두 같음 (2026년 11월 13일 = 금요일 확인)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nEvery date on TOMORROW X TOGETHER (@txt_bighit)'s November schedule in Seoul is now out.\n\nThe Seoul leg of the world tour 'STEAL THE WIND' runs for three days at KSPO DOME starting this Friday, and the following week the 'PERFECT STORM' pop-up opens at HYBE's headquarters in Yongsan.\n\nAnyone can go to the concerts and the pop-up. Entry to the pop-up is by advance Weverse Spot booking only, which opened Nov 11 at 11 AM. The Nov 21 screening at CGV Yongsan I'Park Mall is a lottery for buyers of eligible Weverse items, and the Nov 30 Lotte World Adventure event is by invitation for 1,000 fans.\n\nConcerts: Nov 13 (Fri) – Nov 15 (Sun) · KSPO DOME\nPop-up: Nov 17 (Tue) – Nov 22 (Sun) · HYBE Yongsan headquarters, Yongsan-gu, Seoul\nReservations: Weverse Spot (pop-up) · NOL Ticket (concerts)\n#SENE #TXT #TOMORROWXTOGETHER #SeoulPopup #Yongsan #KSPODOME\n\n[커버]\n소스: \n제목: TXT's Seoul November|Schedule by Date\n부제: KSPO DOME · HYBE Yongsan · CGV Yongsan · Lotte World\n출처: \n\n[슬라이드]\n소스: \n소제목: Fri, Nov 13 – Sun, Nov 15\n본문: World tour 'STEAL THE WIND' in Seoul|KSPO DOME (424 Olympic-ro, Songpa-gu, Seoul)|Nov 13, 7 PM · Nov 14, 6 PM · Nov 15, 5 PM|Tickets: NOL Ticket\n출처: \n\n[슬라이드]\n소스: \n소제목: Tue, Nov 17 – Sun, Nov 22\n본문: 'PERFECT STORM' pop-up|HYBE Yongsan headquarters|Advance booking via Weverse Spot (opens Nov 11, 11 AM)|Glider keyring · bandana · mood lamp · camp cup\n출처: \n\n[슬라이드]\n소스: \n소제목: Sat, Nov 21\n본문: 'PERFECT STORM : THE MOVIE' screening|CGV Yongsan I'Park Mall · 2 PM · 3:30 PM|Lottery for buyers of eligible Weverse items · entries close Nov 13 · winners Nov 14|200 per screening · ages 19+\n출처: \n\n[슬라이드]\n소스: \n소제목: Mon, Nov 30\n본문: Lotte World Adventure private event|1,000 members of the official fandom MOA invited|Part 1: performance · Part 2: indoor Adventure\n출처: \n",
+      "caption": "Every date on TOMORROW X TOGETHER (@txt_bighit)'s November schedule in Seoul is now out.\n\nThe Seoul leg of the world tour 'STEAL THE WIND' runs for three days at KSPO DOME starting this Friday, and the following week the 'PERFECT STORM' pop-up opens at HYBE's headquarters in Yongsan.\n\nAnyone can go to the concerts and the pop-up. Entry to the pop-up is by advance Weverse Spot booking only, which opened Nov 11 at 11 AM. The Nov 21 screening at CGV Yongsan I'Park Mall is a lottery for buyers of eligible Weverse items, and the Nov 30 Lotte World Adventure event is by invitation for 1,000 fans.\n\nConcerts: Nov 13 (Fri) – Nov 15 (Sun) · KSPO DOME\nPop-up: Nov 17 (Tue) – Nov 22 (Sun) · HYBE Yongsan headquarters, Yongsan-gu, Seoul\nReservations: Weverse Spot (pop-up) · NOL Ticket (concerts)\n#SENE #TXT #TOMORROWXTOGETHER #SeoulPopup #Yongsan #KSPODOME",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nTOMORROW X TOGETHER（@txt_bighit）の11月のソウルでのスケジュールが、日付まですべて出そろいました。\n\n今週金曜日から3日間、KSPO DOMEでワールドツアー『STEAL THE WIND』のソウル公演が開かれますが、その翌週にはHYBE龍山（ヨンサン）社屋で『PERFECT STORM』ポップアップが続きます。\n\n誰でも行けるのは公演とポップアップです。ポップアップはWeverse Spotでの事前予約でのみ入場でき、予約は11日午前11時に始まりました。21日のCGV龍山アイパークモールでの上映会はWeverse対象商品の購入者による応募制、30日のロッテワールド・アドベンチャー貸切はファン1,000名の招待制です。\n\n公演：11月13日（金）〜15日（日）・KSPO DOME\nポップアップ：11月17日（火）〜22日（日）・ソウル・龍山（ヨンサン）のHYBE社屋\n予約：Weverse Spot（ポップアップ）・NOLチケット（公演）\n#SENE #TXT #トゥバ #韓国旅行 #龍山 #KSPODOME\n\n[커버]\n소스: \n제목: TXT・11月のソウル|日付順まとめ\n부제: KSPO DOME・HYBE龍山・CGV龍山・ロッテワールド\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月13日（金）〜15日（日）\n본문: ワールドツアー『STEAL THE WIND』ソウル公演|KSPO DOME（ソウル・松坡区オリンピック路424）|13日午後7時・14日午後6時・15日午後5時|チケット：NOLチケット\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月17日（火）〜22日（日）\n본문: 『PERFECT STORM』ポップアップ|HYBE龍山（ヨンサン）社屋|Weverse Spotで事前予約（11日午前11時オープン）|グライダーキーリング・バンダナ・ムードランプ・キャンプカップ\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月21日（土）\n본문: 『PERFECT STORM : THE MOVIE』上映会|CGV龍山アイパークモール・午後2時・午後3時30分|Weverse対象商品購入者による応募・13日締切・14日発表|各回200名・満19歳以上\n출처: \n\n[슬라이드]\n소스: \n소제목: 11月30日（月）\n본문: ロッテワールド・アドベンチャー貸切|公式ファンダムMOA 1,000名を招待|第1部 公演・第2部 屋内アドベンチャー\n출처: \n",
+      "caption": "TOMORROW X TOGETHER（@txt_bighit）の11月のソウルでのスケジュールが、日付まですべて出そろいました。\n\n今週金曜日から3日間、KSPO DOMEでワールドツアー『STEAL THE WIND』のソウル公演が開かれますが、その翌週にはHYBE龍山（ヨンサン）社屋で『PERFECT STORM』ポップアップが続きます。\n\n誰でも行けるのは公演とポップアップです。ポップアップはWeverse Spotでの事前予約でのみ入場でき、予約は11日午前11時に始まりました。21日のCGV龍山アイパークモールでの上映会はWeverse対象商品の購入者による応募制、30日のロッテワールド・アドベンチャー貸切はファン1,000名の招待制です。\n\n公演：11月13日（金）〜15日（日）・KSPO DOME\nポップアップ：11月17日（火）〜22日（日）・ソウル・龍山（ヨンサン）のHYBE社屋\n予約：Weverse Spot（ポップアップ）・NOLチケット（公演）\n#SENE #TXT #トゥバ #韓国旅行 #龍山 #KSPODOME",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1424,10 +1460,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T17:46+09:00"
+  "at": "2026-11-11T17:47+09:00"
  },
  "queue": {
-  "next": "2026-11-11T17:48+09:00",
+  "next": "2026-11-11T17:49+09:00",
   "n": 0,
   "gap": 20
  },
