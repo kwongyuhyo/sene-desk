@@ -194,11 +194,6 @@
      "v": "f6a7c018"
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "솔로 첫 주 · 팝업 16일 종료 — 기간·운영·포토카드 규칙을 팬이 저장할 한 장, 포토월 릴스 함께",
-    "at": "2026-11-11T08:29+09:00"
-   },
    "corner_name": "소식",
    "i18n_queued": "2026-11-11T08:31+09:00",
    "i18n": {
@@ -289,6 +284,11 @@
       }
      }
     }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "솔로 첫 주 · 팝업 16일 종료 — 기간·운영·포토카드 규칙을 팬이 저장할 한 장, 포토월 릴스 함께",
+    "at": "2026-11-11T11:47+09:00"
    }
   },
   {
@@ -492,7 +492,13 @@
     }
    },
    "corner_name": "콘서트 가는 날",
-   "corner_no": 1
+   "corner_no": 1,
+   "pick": {
+    "rank": 3,
+    "why": "하츠웨이브 첫 단독 팬 콘서트 11/28 장충 — 케이팝 공연 가는 날 정보",
+    "at": "2026-11-11T11:47+09:00"
+   },
+   "i18n_queued": "2026-11-11T11:48+09:00"
   },
   {
    "source": {
@@ -724,6 +730,191 @@
     }
    },
    "corner_name": "소식"
+  },
+  {
+   "source": {
+    "id": "claude:wonyoung-dr-althea-seongsu-reel",
+    "account": "PAP 매거진",
+    "url": "https://www.pap-magazine.com/en/article/jang-wonyoung-dr-althea-popup-seongsu",
+    "image": null,
+    "head": "장원영, 성수 올리브영 뷰티 맨션 닥터엘시아 팝업 방문 · 11/28까지",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-11T11:47+09:00",
+   "key": "f257461a",
+   "by": "claude",
+   "subjects": [
+    "장원영",
+    "IVE",
+    "닥터엘시아"
+   ],
+   "lane": "현장",
+   "editor": {
+    "grade": "A",
+    "kind": "현장",
+    "angle": "아이브 장원영이 이번 주 들른 닥터엘시아 × 올리브영 '345 Secret Project' 팝업(올리브영 뷰티 맨션 성수 · 11/1~28) — 그 자리를 28일까지 누구나 가 볼 수 있다는 각도 · 릴스는 닥터엘시아 공식 캠페인 필름",
+    "why": "기획안 slot am · 케이팝 사람이 간 곳 · 팝업이 아직 17일 남음"
+   },
+   "added": "claude",
+   "added_at": "2026-11-11T11:47+09:00",
+   "corner": "scene",
+   "card": {
+    "form": "[카테고리]\n뷰티\n\n[캡션]\n아이브 장원영(@for_everyoung10)이 이번 주 성수의 닥터엘시아(@dr.altheaglobal) 팝업을 찾았습니다.\n\n장원영은 지난 3월부터 닥터엘시아의 글로벌 모델로 활동하고 있는데요, 이번 팝업은 브랜드가 올리브영(@oliveyoung_official)과 함께 꾸린 '345 Secret Project'로 올리브영 뷰티 맨션 성수에 자리를 잡았습니다.\n\n1일 문을 연 팝업의 안내판은 신문 1면처럼 꾸며져 있습니다. 장원영이 다녀간 그 공간은 이달 28일까지 열려 있습니다.\n\n기간: 11월 1일(일) ~ 11월 28일(토)\n운영: 오전 11시 ~ 오후 7시\n장소: 서울 성동구 성수이로 108 올리브영 뷰티 맨션 성수\n#SENE #장원영 #아이브 #닥터엘시아 #성수팝업 #올리브영뷰티맨션\n\n[커버]\n소스: https://res.cloudinary.com/dwndhzqod/image/upload/v1794365242/pcl25nlqs5oxuwpqbmbs.jpg\n제목: 장원영이 다녀간|성수 닥터엘시아 팝업\n부제: 올리브영 뷰티 맨션 성수 · 11월 28일까지\n출처: @dr.altheaglobal\n\n[슬라이드]\n형식: 자료\n소스: https://res.cloudinary.com/dwndhzqod/video/upload/v1794365252/sene_studio/jibpuulhfj30cjkqvx8n.mp4\n소제목: \n본문: \n출처: 닥터엘시아_Dr.althea\n",
+    "caption": "아이브 장원영(@for_everyoung10)이 이번 주 성수의 닥터엘시아(@dr.altheaglobal) 팝업을 찾았습니다.\n\n장원영은 지난 3월부터 닥터엘시아의 글로벌 모델로 활동하고 있는데요, 이번 팝업은 브랜드가 올리브영(@oliveyoung_official)과 함께 꾸린 '345 Secret Project'로 올리브영 뷰티 맨션 성수에 자리를 잡았습니다.\n\n1일 문을 연 팝업의 안내판은 신문 1면처럼 꾸며져 있습니다. 장원영이 다녀간 그 공간은 이달 28일까지 열려 있습니다.\n\n기간: 11월 1일(일) ~ 11월 28일(토)\n운영: 오전 11시 ~ 오후 7시\n장소: 서울 성동구 성수이로 108 올리브영 뷰티 맨션 성수\n#SENE #장원영 #아이브 #닥터엘시아 #성수팝업 #올리브영뷰티맨션",
+    "photos": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365242/pcl25nlqs5oxuwpqbmbs.jpg",
+      "credit": "@dr.altheaglobal",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/879959614_18226347208337144_8312529486564476649_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ATV96-ceGsAQ7kNvwEBuD-7&_nc_oc=Adp0L5dIOEYU-MVnpmSzQxhEGwV23b8ah4IOtJguXOFTGHMQAZG4-tdZI4GQh7D7WLM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=3w6Q9R5WrHNEY94XnS4IOQ&oh=00_AQSK8PX8KRX2O84-6Rz2LMqRkPoo5ZsM7Xac3sdrIQk8bw&oe=6AF9BF5C"
+     }
+    ],
+    "photo_pool": [
+     {
+      "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365242/pcl25nlqs5oxuwpqbmbs.jpg",
+      "credit": "@dr.altheaglobal",
+      "from": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/879959614_18226347208337144_8312529486564476649_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ATV96-ceGsAQ7kNvwEBuD-7&_nc_oc=Adp0L5dIOEYU-MVnpmSzQxhEGwV23b8ah4IOtJguXOFTGHMQAZG4-tdZI4GQh7D7WLM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=3w6Q9R5WrHNEY94XnS4IOQ&oh=00_AQSK8PX8KRX2O84-6Rz2LMqRkPoo5ZsM7Xac3sdrIQk8bw&oe=6AF9BF5C"
+     }
+    ],
+    "shape": "맥락",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "장원영이 다녀간|성수 닥터엘시아 팝업",
+      "sub": "올리브영 뷰티 맨션 성수 · 11월 28일까지"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "[검증] '성수역 2번 출구 앞'은 출처(뉴시스 6/29)에 없어 뺐음 · 안내판이 입구에 걸렸는지 확인 못 해 '입구' 뺐음 · 숏폼 영상은 자막 없음(27초, 10/26 공개) — 0:02-0:17에 장원영이 나오는지 화면으로 한 번 볼 것",
+     "클립 위험: 낮음 — 닥터엘시아_Dr.althea (브랜드 공식 캠페인 필름 · 0:02-0:17 · 화면을 못 떠 보고 잡음, 첫 1초에 장원영이 나오는지 미리보기로 확인 · 영상 공개일 확인 못 함)",
+     "운영 시간은 브랜드 공식 포스터(표지 사진) 기준 11~19시 — 위픽레터의 10~20시와 다름 · 포스터에 11/10(화)만 13~19시로 바뀐 날로 적혀 있음 · 주소(성수이로 108)는 위픽레터 기준 · 방문 날짜는 9일·10일 중 하나라 '이번 주'로만 씀",
+     "표지 사진 아래쪽에 글자가 있어 제목과 겹쳐 보일 수 있습니다 — 미리보기를 보고 필요하면 사진을 바꿔 주세요"
+    ],
+    "research": [
+     {
+      "title": "PAP 매거진 (11/10) — 장원영, 올리브영 뷰티 맨션 성수 닥터엘시아 팝업 방문 · 닥터엘시아·올리브영 공동 · 11월 28일까지",
+      "link": "https://www.pap-magazine.com/en/article/jang-wonyoung-dr-althea-popup-seongsu"
+     },
+     {
+      "title": "@fastpapermag 릴스 — '성수동에 뜬 원영' #닥터엘시아 #장원영 (영상 fastpaper)",
+      "link": "https://www.instagram.com/reel/DfitEb5J8XL/"
+     },
+     {
+      "title": "@dr.altheaglobal (11/2) — Dr. Althea x Olive Young 345 Secret Project",
+      "link": "https://www.instagram.com/dr.altheaglobal/"
+     },
+     {
+      "title": "위픽레터 — 11월 둘째 주 성수 팝업 · 닥터엘시아 팝업 : 345 시크릿 프로젝트 · 11/1(일)~11/28(토) · 성수이로 108 올리브영 뷰티 맨션 성수 · 매일 10:00~20:00",
+      "link": "https://letter.wepick.kr/post/26625"
+     },
+     {
+      "title": "뉴시스 (6/29) — 올리브영 뷰티 맨션 성수, 성수역 2번 출구 앞",
+      "link": "https://www.newsis.com/view/NISX20260629_0003687160"
+     },
+     {
+      "title": "뉴스핌 (3/3) — 장원영, 닥터엘시아 새 얼굴",
+      "link": "https://www.newspim.com/news/view/20260303000218"
+     }
+    ],
+    "by": "claude",
+    "preview": {
+     "slides": [
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365260/qsup3r0jcwiwogtsmg94.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365263/mhb4qzarlvpfc3kanugw.jpg",
+      "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365260/irzi178fbj18zmjojpdz.jpg"
+     ],
+     "covers": {
+      "A": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365260/qsup3r0jcwiwogtsmg94.jpg"
+     },
+     "cvr": 2,
+     "at": "2026-11-11T11:47+09:00",
+     "videos": {
+      "1": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365261/sene_studio/n2p3repfvpdgukpwglf4.mp4"
+     },
+     "v": {
+      "A": "6713e51d"
+     }
+    }
+   },
+   "shorts": {
+    "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=GsbYbvFAhX8\n구간: 0:02-0:17\n곡: 닥터엘시아 캠페인\n아티스트: *장원영*,\n피처링:\n후킹: \n출처: 닥터엘시아_Dr.althea\n자막: 끔",
+    "caption": "닥터엘시아(@dr.altheaglobal) 공식 캠페인 필름 속 아이브 장원영(@for_everyoung10)입니다.\n\n지난 3월부터 브랜드의 글로벌 모델로 활동하고 있는 장원영인데요, 이번 주에는 브랜드가 올리브영(@oliveyoung_official)과 함께 연 성수 팝업 '345 Secret Project'를 직접 찾았습니다.\n\n팝업: 11월 1일(일) ~ 11월 28일(토) · 오전 11시 ~ 오후 7시\n장소: 서울 성동구 성수이로 108 올리브영 뷰티 맨션 성수\n영상: 닥터엘시아 공식 유튜브\n#SENE #장원영 #아이브 #닥터엘시아 #성수팝업",
+    "hooks": {
+     "A": "*장원영*, / 닥터엘시아 캠페인",
+     "B": "*장원영*이 다녀간 / 성수 팝업",
+     "C": "성수에 들른 / *장원영*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=GsbYbvFAhX8",
+     "credit": "닥터엘시아_Dr.althea",
+     "range": [
+      2.0,
+      17.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] '성수역 2번 출구 앞'은 출처(뉴시스 6/29)에 없어 뺐음 · 안내판이 입구에 걸렸는지 확인 못 해 '입구' 뺐음 · 숏폼 영상은 자막 없음(27초, 10/26 공개) — 0:02-0:17에 장원영이 나오는지 화면으로 한 번 볼 것",
+     "클립 위험: 낮음 — 닥터엘시아_Dr.althea (브랜드 공식 캠페인 필름 · 0:02-0:17 · 화면을 못 떠 보고 잡음, 첫 1초에 장원영이 나오는지 미리보기로 확인 · 영상 공개일 확인 못 함)",
+     "운영 시간은 브랜드 공식 포스터(표지 사진) 기준 11~19시 — 위픽레터의 10~20시와 다름 · 포스터에 11/10(화)만 13~19시로 바뀐 날로 적혀 있음 · 주소(성수이로 108)는 위픽레터 기준 · 방문 날짜는 9일·10일 중 하나라 '이번 주'로만 씀"
+    ],
+    "research": [
+     {
+      "title": "PAP 매거진 (11/10) — 장원영, 올리브영 뷰티 맨션 성수 닥터엘시아 팝업 방문 · 닥터엘시아·올리브영 공동 · 11월 28일까지",
+      "link": "https://www.pap-magazine.com/en/article/jang-wonyoung-dr-althea-popup-seongsu"
+     },
+     {
+      "title": "@fastpapermag 릴스 — '성수동에 뜬 원영' #닥터엘시아 #장원영 (영상 fastpaper)",
+      "link": "https://www.instagram.com/reel/DfitEb5J8XL/"
+     },
+     {
+      "title": "@dr.altheaglobal (11/2) — Dr. Althea x Olive Young 345 Secret Project",
+      "link": "https://www.instagram.com/dr.altheaglobal/"
+     },
+     {
+      "title": "위픽레터 — 11월 둘째 주 성수 팝업 · 닥터엘시아 팝업 : 345 시크릿 프로젝트 · 11/1(일)~11/28(토) · 성수이로 108 올리브영 뷰티 맨션 성수 · 매일 10:00~20:00",
+      "link": "https://letter.wepick.kr/post/26625"
+     },
+     {
+      "title": "뉴시스 (6/29) — 올리브영 뷰티 맨션 성수, 성수역 2번 출구 앞",
+      "link": "https://www.newsis.com/view/NISX20260629_0003687160"
+     },
+     {
+      "title": "뉴스핌 (3/3) — 장원영, 닥터엘시아 새 얼굴",
+      "link": "https://www.newspim.com/news/view/20260303000218"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/GsbYbvFAhX8/maxresdefault.jpg",
+    "still": {
+     "url": "https://res.cloudinary.com/dwndhzqod/image/upload/v1794365268/ndchwk207leqovmowei6.jpg",
+     "key": "GsbYbvFAhX8@2.0"
+    },
+    "px": {
+     "vid": "GsbYbvFAhX8",
+     "url": "https://res.cloudinary.com/dwndhzqod/video/upload/v1794365277/sene_studio/lvy1b1tyu13nqzuciwhj.mp4",
+     "off": 0.0,
+     "end": 24.0,
+     "full": 24.0
+    },
+    "render": {
+     "status": "queued",
+     "at": "2026-11-11T11:48+09:00"
+    }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "장원영이 이번 주 다녀간 성수 팝업이 28일까지 열려 있음 — 갈 수 있는 자리 + 공식 캠페인 릴스",
+    "at": "2026-11-11T11:47+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-11-11T11:48+09:00"
   }
  ],
  "skipped": [],
@@ -902,7 +1093,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 0,
+    "drafts": 1,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
    },
    {
@@ -971,10 +1162,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-11T08:50+09:00"
+  "at": "2026-11-11T11:48+09:00"
  },
  "queue": {
-  "next": "2026-11-11T08:53+09:00",
+  "next": "2026-11-11T11:50+09:00",
   "n": 0,
   "gap": 20
  },
