@@ -667,7 +667,37 @@
     "at": "2026-11-12T11:47+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-12T11:47+09:00"
+   "i18n_queued": "2026-11-12T11:47+09:00",
+   "i18n": {
+    "at": "2026-11-12T11:49+09:00",
+    "confirm": [
+     "2026년 12월 18~20일 'The Present' 공연을 웹에서 확인하지 못했습니다. 검색에는 2025년 공연(12월 19~21일, KSPO DOME)과 2026년 7월 KSPO DOME 투어 피날레만 나옵니다. 올리기 전에 DAY6 공식 SNS·NOL ticket 공지에서 날짜·선예매 시간을 다시 확인해 주세요.",
+     "NOL 티켓의 영어·일본어 표기는 'NOL ticket'으로 썼습니다. 해외 사이트는 world.nol.com(NOL World)이라 해외 팬 예매처가 따로 열리는지 확인이 필요합니다.",
+     "'My Day 6기'는 영어 'My Day (6th generation)', 일본어 'My Day 6期'로 옮겼습니다.",
+     "영어·일본어 · 예매처 'NOL ticket' — 공식 영문 표기가 소문자 'ticket'인지 'NOL Ticket'인지 웹에서 확인하지 않았음"
+    ],
+    "review": {
+     "at": "2026-11-12T11:49+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 · 예매처 'NOL ticket' — 공식 영문 표기가 소문자 'ticket'인지 'NOL Ticket'인지 웹에서 확인하지 않았음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nDAY6 will hold a year-end concert at KSPO DOME for three days starting Dec 18.\n\nThe show is titled 'The Present', the same name as the year-end special concert held at the same venue last December. JYP Entertainment announced the dates on Nov 10, posting the poster on DAY6's official social media.\n\nTickets are sold only through NOL ticket, and members of the official fan club My Day (6th generation) can book one day before general sales.\n\nDates: Dec 18 (Fri) – Dec 20 (Sun)\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nFan presale: Nov 19 (Thu), 8:00 – 11:59 p.m. · My Day 6th generation\nGeneral sale: Nov 20 (Fri), 8:00 p.m.\nTickets: NOL ticket\n#SENE #DAY6 #KSPODOME #OlympicPark #SeoulConcert\n\n[커버]\n소스: \n제목: DAY6 Year-End Concert|Back at KSPO DOME\n부제: Dec 18–20 'The Present' · Fan presale Nov 19\n출처: \n",
+      "caption": "DAY6 will hold a year-end concert at KSPO DOME for three days starting Dec 18.\n\nThe show is titled 'The Present', the same name as the year-end special concert held at the same venue last December. JYP Entertainment announced the dates on Nov 10, posting the poster on DAY6's official social media.\n\nTickets are sold only through NOL ticket, and members of the official fan club My Day (6th generation) can book one day before general sales.\n\nDates: Dec 18 (Fri) – Dec 20 (Sun)\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nFan presale: Nov 19 (Thu), 8:00 – 11:59 p.m. · My Day 6th generation\nGeneral sale: Nov 20 (Fri), 8:00 p.m.\nTickets: NOL ticket\n#SENE #DAY6 #KSPODOME #OlympicPark #SeoulConcert",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nDAY6が12月18日から3日間、KSPO DOMEで年末公演を開きます。\n\n公演名は『The Present』で、昨年12月に同じ会場で開かれた年末スペシャルコンサートと同じ名前です。JYPエンターテインメントが10日、DAY6の公式SNSにポスターを掲載し、日程を発表しました。\n\nチケットはNOL ticketのみで販売され、公式ファンクラブMy Day 6期会員の先行予約が一般販売の1日前に行われます。\n\n期間：12月18日（金）〜12月20日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\n先行予約：11月19日（木）午後8時〜11時59分・My Day 6期\n一般販売：11月20日（金）午後8時\n予約：NOL ticket\n#SENE #DAY6 #デイシックス #KSPODOME #韓国コンサート\n\n[커버]\n소스: \n제목: DAY6年末公演、|今年もKSPO DOME\n부제: 12月18〜20日『The Present』・先行11月19日\n출처: \n",
+      "caption": "DAY6が12月18日から3日間、KSPO DOMEで年末公演を開きます。\n\n公演名は『The Present』で、昨年12月に同じ会場で開かれた年末スペシャルコンサートと同じ名前です。JYPエンターテインメントが10日、DAY6の公式SNSにポスターを掲載し、日程を発表しました。\n\nチケットはNOL ticketのみで販売され、公式ファンクラブMy Day 6期会員の先行予約が一般販売の1日前に行われます。\n\n期間：12月18日（金）〜12月20日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\n先行予約：11月19日（木）午後8時〜11時59分・My Day 6期\n一般販売：11月20日（金）午後8時\n予約：NOL ticket\n#SENE #DAY6 #デイシックス #KSPODOME #韓国コンサート",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
