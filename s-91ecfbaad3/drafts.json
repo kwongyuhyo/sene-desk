@@ -147,7 +147,50 @@
     "at": "2026-11-13T08:26+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-13T08:27+09:00"
+   "i18n_queued": "2026-11-13T08:27+09:00",
+   "i18n": {
+    "at": "2026-11-13T08:28+09:00",
+    "confirm": [
+     "확인함: 전시 기간 11/12(목)~11/25(수), 11:00~19:00(마지막 입장 18:30), 무료·그라프 공식 LINE 사전 예약, 하트 모양 157.80캐럿 다이아몬드를 얹은 인피니티 티아라 — FASHIONSNAP·Graff 공식 65주년 페이지 (https://www.fashionsnap.com/article/2026-10-28/graff-65th-anniversary-exhibition/ , https://www.graff.com/jp-en/celebrating-65-years.html). 일본어 표기 「グラフ」「ザ インフィニティ ティアラ」는 일본 매체 표기를 따름.",
+     "검색으로 확인 못 함: 정국 참석·사나 동반·일본어 인사, '첫 글로벌 앰배서더', 카페·기프트숍, 주소 '진구마에 6-35-6' — 원문 그대로 옮겼으니 올리기 전 그라프 공식 발표·보도로 다시 확인.",
+     "정국의 일본어 인사는 원문 '영광입니다'를 영어 \"It's an honor.\", 일본어 「光栄です」로 옮김. 실제로 한 일본어 문구(예: 光栄です)와 맞는지 확인 필요.",
+     "캠페인 필름 제목 'I wish'의 대소문자·공식 표기, 그리고 숏폼 '곡' 칸의 '겨울 필름'(캡션의 '홀리데이 캠페인 필름'과 다름)을 그대로 옮김 — 맞는지 확인.",
+     "일본어 · 티아라 이름 「ザ インフィニティ ティアラ」 — 영어 'The Infinity Tiara' 는 확인했지만, 그라프 재팬의 공식 가타카나 표기(「ザ」를 붙이는지)는 확인하지 못함",
+     "도쿄 하라주쿠 회고전 자체(기간·주소·LINE 예약)는 이번 검색에서 확인하지 못함 — 상하이·싱가포르·홍콩 일정만 나옴. 올리기 전에 그라프 재팬 공식 안내로 다시 확인"
+    ],
+    "review": {
+     "at": "2026-11-13T08:28+09:00",
+     "fixes": [
+      "일본어 · 표지 제목 · 「ジョングク、グラフ|65周年回顧展に登場」 → 「ジョングクがグラフの|65周年回顧展に登場」 — 첫 줄이 '정국과 그라프' 처럼 나열로 읽힘"
+     ],
+     "doubt": [
+      "일본어 · 티아라 이름 「ザ インフィニティ ティアラ」 — 영어 'The Infinity Tiara' 는 확인했지만, 그라프 재팬의 공식 가타카나 표기(「ザ」를 붙이는지)는 확인하지 못함",
+      "도쿄 하라주쿠 회고전 자체(기간·주소·LINE 예약)는 이번 검색에서 확인하지 못함 — 상하이·싱가포르·홍콩 일정만 나옴. 올리기 전에 그라프 재팬 공식 안내로 다시 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nBTS's Jung Kook appeared on Nov 11 at the opening event of Graff's (@graff) 65th anniversary retrospective in Harajuku, Tokyo.\n\nHe is Graff's first global ambassador, and TWICE's Sana joined him at the photocall. Jung Kook greeted the room briefly in Japanese: \"It's an honor.\"\n\nThe exhibition looks back on Graff's 65 years through high jewelry. At its center sits 'The Infinity Tiara,' set with a 157.80-carat heart-shaped diamond, and the space also holds a Graff café and a gift shop selling exhibition-only items.\n\nDates: Nov 12 (Thu) – Nov 25 (Wed)\nLocation: 6-35-6 Jingumae, Shibuya-ku, Tokyo (Harajuku)\nHours: 11 a.m. – 7 p.m. (last entry 6:30 p.m.)\nAdmission: Free · Reserve a date and time in advance via Graff's official LINE account (reservations get priority)\n#SENE #JungKook #BTS #Graff #Harajuku #Tokyo\n\n[커버]\n소스: \n제목: Jung Kook at Graff's|65th Anniversary Show\n부제: Harajuku, Tokyo · Through Nov 25 · Free, by reservation\n출처: \n",
+      "caption": "BTS's Jung Kook appeared on Nov 11 at the opening event of Graff's (@graff) 65th anniversary retrospective in Harajuku, Tokyo.\n\nHe is Graff's first global ambassador, and TWICE's Sana joined him at the photocall. Jung Kook greeted the room briefly in Japanese: \"It's an honor.\"\n\nThe exhibition looks back on Graff's 65 years through high jewelry. At its center sits 'The Infinity Tiara,' set with a 157.80-carat heart-shaped diamond, and the space also holds a Graff café and a gift shop selling exhibition-only items.\n\nDates: Nov 12 (Thu) – Nov 25 (Wed)\nLocation: 6-35-6 Jingumae, Shibuya-ku, Tokyo (Harajuku)\nHours: 11 a.m. – 7 p.m. (last entry 6:30 p.m.)\nAdmission: Free · Reserve a date and time in advance via Graff's official LINE account (reservations get priority)\n#SENE #JungKook #BTS #Graff #Harajuku #Tokyo",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=wUP0tp6yyYE\n구간: 0:00-0:16\n곡: Graff winter film\n아티스트: *Jung Kook*,\n피처링:\n후킹: \n출처: Graff\n자막: 끔",
+      "caption": "This is 'I wish,' the holiday campaign film Graff (@graff) made with its global ambassador, BTS's Jung Kook.\n\nJung Kook appears in a white suit wearing Graff jewelry, and the film ends with a ring box opening.\n\nOn Nov 11 he also attended the opening event of Graff's 65th anniversary retrospective in Harajuku, Tokyo. The exhibition runs through Nov 25, with free entry by reservation via Graff's official LINE account.\n\nVideo: Graff\n#SENE #JungKook #BTS #Graff #IWish"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nBTSのジョングクが11日、東京・原宿で開かれたグラフ（@graff）65周年回顧展のオープニングイベントに登場しました。\n\nグラフ初のグローバルアンバサダーで、この日のフォトコールにはTWICEのサナも参加しました。ジョングクは日本語で「光栄です」と短く挨拶しました。\n\n展示はグラフの65年をハイジュエリーでたどります。中央には157.80カラットのハートシェイプダイヤモンドをあしらった「ザ インフィニティ ティアラ」が置かれ、会場内にはグラフ カフェと会場限定アイテムを扱うギフトショップもあります。\n\n期間：11月12日（木）〜11月25日（水）\n場所：東京都渋谷区神宮前6-35-6（原宿）\n営業時間：11:00〜19:00（最終入場18:30）\n入場：無料・グラフ公式LINEで日時を事前予約（予約優先）\n#SENE #ジョングク #BTS #グラフ #原宿 #東京展示\n\n[커버]\n소스: \n제목: ジョングクがグラフの|65周年回顧展に登場\n부제: 東京・原宿 · 11月25日まで · 入場無料・予約制\n출처: \n",
+      "caption": "BTSのジョングクが11日、東京・原宿で開かれたグラフ（@graff）65周年回顧展のオープニングイベントに登場しました。\n\nグラフ初のグローバルアンバサダーで、この日のフォトコールにはTWICEのサナも参加しました。ジョングクは日本語で「光栄です」と短く挨拶しました。\n\n展示はグラフの65年をハイジュエリーでたどります。中央には157.80カラットのハートシェイプダイヤモンドをあしらった「ザ インフィニティ ティアラ」が置かれ、会場内にはグラフ カフェと会場限定アイテムを扱うギフトショップもあります。\n\n期間：11月12日（木）〜11月25日（水）\n場所：東京都渋谷区神宮前6-35-6（原宿）\n営業時間：11:00〜19:00（最終入場18:30）\n入場：無料・グラフ公式LINEで日時を事前予約（予約優先）\n#SENE #ジョングク #BTS #グラフ #原宿 #東京展示",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=wUP0tp6yyYE\n구간: 0:00-0:16\n곡: グラフの冬フィルム\n아티스트: *ジョングク*、\n피처링:\n후킹: \n출처: Graff\n자막: 끔",
+      "caption": "グラフ（@graff）がグローバルアンバサダーのBTS・ジョングクと撮影したホリデーキャンペーンフィルム「I wish」です。\n\n白いスーツ姿のジョングクがグラフのジュエリーを身に着けて登場し、フィルムの最後には指輪のケースが開くシーンが収められています。\n\nジョングクは11日、東京・原宿で開かれたグラフ65周年回顧展のオープニングイベントにも登場しました。展示は25日まで、グラフ公式LINEでの予約で入場無料です。\n\n映像：Graff\n#SENE #ジョングク #BTS #グラフ #IWish"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -395,10 +438,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-13T08:27+09:00"
+  "at": "2026-11-13T08:28+09:00"
  },
  "queue": {
-  "next": "2026-11-13T08:29+09:00",
+  "next": "2026-11-13T08:31+09:00",
   "n": 0,
   "gap": 20
  },
