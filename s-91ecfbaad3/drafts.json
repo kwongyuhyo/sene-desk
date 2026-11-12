@@ -554,7 +554,43 @@
     "at": "2026-11-12T11:47+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-12T11:47+09:00"
+   "i18n_queued": "2026-11-12T11:47+09:00",
+   "i18n": {
+    "at": "2026-11-12T11:48+09:00",
+    "confirm": [
+     "작가 영문 표기는 Devon DeJardin 으로 확인했습니다 (갤러리 Albertz Benda 기준). 일본어 표기 'デヴォン・デジャルダン' 은 공식 표기를 찾지 못해 원어를 괄호로 붙였습니다.",
+     "이번 검색에서는 데본 드 자댕과 디에잇 커버, 서울옥션 '2026 옥션쇼' 사이의 연결을 찾지 못했습니다. 이 사실은 한국어 원문을 그대로 옮겼습니다.",
+     "'옥션쇼'의 공식 영어·일본어 이름을 찾지 못해 Auction Show / オークションショー 로 옮겼습니다.",
+     "주소 '언주로 864' 의 동 이름을 신사동으로 적었습니다. 제목과 원문 해시태그를 따른 것입니다.",
+     "예매처 'NOL 티켓' 의 공식 일본어 표기를 확인하지 못했습니다.",
+     "작가 영문 표기 확인 필요 — 번역은 'Devon DeJardin' 인데 검색 요약에서는 'Devon Des Jardins' 로 나옴(출처 원문으로는 확인 못 함). 서울옥션 공식 발표·작가 계정에서 철자를 확인해 영어 표제·부제·캡션과 일본어 괄호 원어·カタカナ(デジャルダン)를 함께 맞출 것"
+    ],
+    "review": {
+     "at": "2026-11-12T11:48+09:00",
+     "fixes": [
+      "영어 · 캡션 첫 문장 · The8's (@xuminghao_o) solo song → a solo song by SEVENTEEN's The8 (@xuminghao_o) — 소유격 사이에 핸들이 끼어 읽기 어색함",
+      "일본어 · 캡션 둘째 단락 · 「個展ですが、…の中の展示で、3階に…」 → 「個展で、…の中の展示です。3階には…」 — '~인데요' 직역투 ですが 와 긴 한 문장을 두 문장으로 풀어 씀",
+      "일본어 · 예약 줄 · NOL チケット → NOLチケット — 띄어쓰기 정리"
+     ],
+     "doubt": [
+      "작가 영문 표기 확인 필요 — 번역은 'Devon DeJardin' 인데 검색 요약에서는 'Devon Des Jardins' 로 나옴(출처 원문으로는 확인 못 함). 서울옥션 공식 발표·작가 계정에서 철자를 확인해 영어 표제·부제·캡션과 일본어 괄호 원어·カタカナ(デジャルダン)를 함께 맞출 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nPaintings by the artist behind the cover of a solo song by SEVENTEEN's The8 (@xuminghao_o) are now on view in Sinsa-dong.\n\nIt is a solo exhibition by American artist Devon DeJardin, held within the '2026 Auction Show' that Seoul Auction (@seoulauction) opened at its Gangnam Center on Nov 11. The third floor holds seven paintings from the new 'Flower' series and nine drawings. The cover art made with The8 sits alongside them as a print edition, which is set to go on sale in limited quantities.\n\nAn unreleased track by The8 plays in the gallery. The Auction Show runs through Nov 24, but this solo exhibition closes earlier, on Nov 17.\n\nDates: Nov 11 (Wed) – Nov 17 (Tue) · Auction Show runs through Nov 24 (Tue)\nLocation: Seoul Auction Gangnam Center 3F, 864 Eonju-ro, Gangnam-gu (Sinsa-dong), Seoul\nHours: 10 a.m. – 7 p.m. (until 8 p.m. on Nov 13 and 20; last entry 30 minutes before closing)\nAdmission: KRW 22,000 · re-entry allowed during the run · free for ages 12 and under\nTickets: NOL Ticket\n#SENE #The8 #SEVENTEEN #SeoulAuction #SeoulExhibition #Sinsadong\n\n[커버]\n소스: \n제목: The8's Cover Artist|In Sinsa-dong to Nov 17\n부제: Seoul Auction's Auction Show, 3F · Devon DeJardin solo show\n출처: \n",
+      "caption": "Paintings by the artist behind the cover of a solo song by SEVENTEEN's The8 (@xuminghao_o) are now on view in Sinsa-dong.\n\nIt is a solo exhibition by American artist Devon DeJardin, held within the '2026 Auction Show' that Seoul Auction (@seoulauction) opened at its Gangnam Center on Nov 11. The third floor holds seven paintings from the new 'Flower' series and nine drawings. The cover art made with The8 sits alongside them as a print edition, which is set to go on sale in limited quantities.\n\nAn unreleased track by The8 plays in the gallery. The Auction Show runs through Nov 24, but this solo exhibition closes earlier, on Nov 17.\n\nDates: Nov 11 (Wed) – Nov 17 (Tue) · Auction Show runs through Nov 24 (Tue)\nLocation: Seoul Auction Gangnam Center 3F, 864 Eonju-ro, Gangnam-gu (Sinsa-dong), Seoul\nHours: 10 a.m. – 7 p.m. (until 8 p.m. on Nov 13 and 20; last entry 30 minutes before closing)\nAdmission: KRW 22,000 · re-entry allowed during the run · free for ages 12 and under\nTickets: NOL Ticket\n#SENE #The8 #SEVENTEEN #SeoulAuction #SeoulExhibition #Sinsadong",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nSEVENTEENのディエイト（@xuminghao_o）のソロ曲のジャケットを描いた作家の絵が、いまソウル・新沙洞（シンサドン）に飾られています。\n\nアメリカの作家デヴォン・デジャルダン（Devon DeJardin）の個展で、ソウルオークション（@seoulauction）が11日から江南センターで開く「2026 オークションショー」の中の展示です。3階には新作「Flower」シリーズの絵画7点とドローイング9点が並びました。ディエイトと共に制作したジャケットアートも版画エディションとして並び、この版画は数量限定で販売される予定です。\n\n会場にはディエイトの未発表曲が流れています。オークションショーは24日まで続きますが、この個展は17日にひと足先に終わります。\n\n期間：11月11日（水）〜11月17日（火）・オークションショー全体は11月24日（火）まで\n場所：ソウル・江南区彦州路864 ソウルオークション江南センター3階\n営業時間：午前10時〜午後7時（13日・20日は午後8時まで、入場は終了30分前まで）\n入場料：22,000ウォン・期間中の再入場可・12歳以下無料\n予約：NOLチケット\n#SENE #ディエイト #SEVENTEEN #韓国旅行 #ソウル展示 #新沙洞\n\n[커버]\n소스: \n제목: ディエイトのジャケット画家、|新沙洞で17日まで\n부제: ソウルオークション「オークションショー」3階・デヴォン・デジャルダン個展\n출처: \n",
+      "caption": "SEVENTEENのディエイト（@xuminghao_o）のソロ曲のジャケットを描いた作家の絵が、いまソウル・新沙洞（シンサドン）に飾られています。\n\nアメリカの作家デヴォン・デジャルダン（Devon DeJardin）の個展で、ソウルオークション（@seoulauction）が11日から江南センターで開く「2026 オークションショー」の中の展示です。3階には新作「Flower」シリーズの絵画7点とドローイング9点が並びました。ディエイトと共に制作したジャケットアートも版画エディションとして並び、この版画は数量限定で販売される予定です。\n\n会場にはディエイトの未発表曲が流れています。オークションショーは24日まで続きますが、この個展は17日にひと足先に終わります。\n\n期間：11月11日（水）〜11月17日（火）・オークションショー全体は11月24日（火）まで\n場所：ソウル・江南区彦州路864 ソウルオークション江南センター3階\n営業時間：午前10時〜午後7時（13日・20日は午後8時まで、入場は終了30分前まで）\n入場料：22,000ウォン・期間中の再入場可・12歳以下無料\n予約：NOLチケット\n#SENE #ディエイト #SEVENTEEN #韓国旅行 #ソウル展示 #新沙洞",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -879,10 +915,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-12T11:47+09:00"
+  "at": "2026-11-12T11:49+09:00"
  },
  "queue": {
-  "next": "2026-11-12T11:49+09:00",
+  "next": "2026-11-12T11:51+09:00",
   "n": 0,
   "gap": 20
  },
