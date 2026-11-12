@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "at": "2026-11-12T17:44+09:00",
+ "at": "2026-11-13T08:27+09:00",
  "items": [
   {
    "key": "moment",
@@ -12,7 +12,9 @@
    "done": 0,
    "next_no": 1,
    "due": true,
-   "chips": []
+   "chips": [
+    "정국 · 샤넬 기사 · 저 바다에 누워 기사 · “엄마, 나 샤넬 말고 저거 살래” 이러는 "
+   ]
   },
   {
    "key": "look",
@@ -37,8 +39,10 @@
    "tag": "#SENE성지순례",
    "done": 0,
    "next_no": 1,
-   "due": false,
-   "chips": []
+   "due": true,
+   "chips": [
+    "정국 · 샤넬 기사 · 저 바다에 누워 기사 · “엄마, 나 샤넬 말고 저거 살래” 이러는 "
+   ]
   },
   {
    "key": "fave",
@@ -51,7 +55,8 @@
    "next_no": 1,
    "due": true,
    "chips": [
-    "디에잇 · 서울옥션 전시장에서 포착한  공유합니다.🖤 서울옥션(seoulauction) 3층에"
+    "디에잇 · 서울옥션 전시장에서 포착한  공유합니다.🖤 서울옥션(seoulauction) 3층에",
+    "에이티즈 · 기사 · 신세계百, 강남점서  팝업 연다…2030 팬덤 공략 - 뉴스핌 기사 · \""
    ]
   },
   {
@@ -75,7 +80,7 @@
    "tag": "#SENE이번주말뭐하지",
    "done": 0,
    "next_no": 1,
-   "due": false,
+   "due": true,
    "chips": []
   },
   {
@@ -110,14 +115,14 @@
    "next_no": 1,
    "due": false,
    "chips": [
+    "정국 · 샤넬 기사 · 저 바다에 누워 기사 · “엄마, 나 샤넬 말고 저거 살래” 이러는 ",
     "리센느 · CU PULSE 팝업 (빵·도시락 11/9까지) · CU 올림픽광장점 (11-03)",
     "도경수 · 사진전 QUIETLY EXTRAORDINARY D.O. · 빌보드코리아 하우스  (11-06)",
     "더보이즈 에릭 · 첫 개인 사진전 Baby Pink Letter Exhibition · C (11-07)",
     "NCT DREAM · 정규 6집 팝업 WELCOME, DREAMERS · 성수 연무장7길  (11-08)",
     "르세라핌 · FIM'S CLUB 홀리데이 팝업 FIM'S HOLIDAY EXPRESS (1 (11-09)",
     "ITZY 채령 · 첫 솔로 미니앨범 Lovesick 팝업 · 롯데백화점 잠실점 2층 키네틱 (11-10)",
-    "에이티즈 · GOLDEN HOUR : Part.6 발매 기념 단독 팝업 · 신세계백화점 강 (11-13)",
-    "투모로우바이투게더 · PERFECT STORM 팝업 (위버스 스팟 예약 11/11 11시) (11-17)"
+    "에이티즈 · GOLDEN HOUR : Part.6 발매 기념 단독 팝업 · 신세계백화점 강 (11-13)"
    ]
   },
   {
