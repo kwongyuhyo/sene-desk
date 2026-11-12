@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-13 00:36 KST",
+ "generated_at": "2026-11-13 01:36 KST",
  "cards": [
   {
    "id": "e5c46d0e",
@@ -227,6 +227,59 @@
    "preempt": null,
    "made_at": "2026-11-13T00:36+09:00",
    "expires": "2026-11-16T00:36+09:00"
+  },
+  {
+   "id": "197cf376",
+   "key": "closing:소주 한잔:2026-11-16",
+   "kind": "closing",
+   "kind_label": "종료 임박",
+   "who": [
+    "소주 한잔"
+   ],
+   "origin": {
+    "head": "소주 한잔 · 2026-11-12~2026-11-16",
+    "url": "https://www.mk.co.kr/article/12206769",
+    "at": "2026-11-12",
+    "mult": null
+   },
+   "evidence": [
+    {
+     "from": "mk.co.kr",
+     "at": "2026-11-16",
+     "title": "3일 뒤 종료 · "
+    }
+   ],
+   "news": [
+    {
+     "title": "‘소주한잔’에 사인하는 임창정 [MK포토]",
+     "link": "https://www.mk.co.kr/article/12206753",
+     "summary": "가수 임창정이 12일 서울 서초구 신세계백화점 강남점에서 열린 ‘소주 한잔’ 팝업스토어를 찾아 고객들과 만났다. ‘소주 한잔’은 임창정이 브랜드 모델로 발탁된 이후 제품 개발과 디자인에도 직접 참여하며 애정을...",
+     "date": "2026-11-12",
+     "kind": "news"
+    }
+   ],
+   "plans": [
+    {
+     "format": "종료 임박 정리",
+     "corner": "followup",
+     "title": "소주 한잔 팝업, 끝나기 전 동선",
+     "angle": "신세계백화점 강남점 '소주 한잔' 팝업을 종료 전에 가는 법을 기간·장소·입장 방법·현장 대기 순으로 정리합니다.",
+     "why": "자료마다 종료일이 11월 16일과 '3일 뒤'로 달라, 마지막 방문 정보가 필요한 시점입니다.",
+     "check": "확인: 정확한 종료일, 층·운영시간, 입장 방식, 현장 대기 여부."
+    },
+    {
+     "format": "현장 정리",
+     "corner": "followup",
+     "title": "소주 한잔 팝업, 공간 들여다보기",
+     "angle": "강남점 팝업이 어떻게 꾸며졌고 무엇을 파는지, 브랜드 공식 사진과 보도자료 기준으로 한 장씩 캡션을 답니다.",
+     "why": "종료가 가까워 다녀오지 못한 독자도 공간을 볼 수 있는 마지막 시점입니다.",
+     "check": "확인: 판매 품목·가격, 공식 사진 사용 가능 여부(통신사 사진 제외)."
+    }
+   ],
+   "score": 7.0,
+   "preempt": null,
+   "made_at": "2026-11-13T01:36+09:00",
+   "expires": "2026-11-16T01:36+09:00"
   },
   {
    "id": "70ca844f",
@@ -550,73 +603,6 @@
    "preempt": null,
    "made_at": "2026-11-11T13:36+09:00",
    "expires": "2026-11-14T13:36+09:00"
-  },
-  {
-   "id": "8eea6d26",
-   "key": "result:키키:2026-11-09",
-   "kind": "result",
-   "kind_label": "지난 소식 결과",
-   "who": [
-    "키키"
-   ],
-   "origin": {
-    "head": "키키 — 10/22 첫 소식",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9RSEdhNVpWb2J3ZTZrdDFUQVdqdlZUMEsyTkRaUG0tZEpEdkNzeG5aNkFyTk9Oc192WDlmZnB4cEJ1YXlFZ0ZBZWstRHQxMm5DV0xTLXR4ejRvWDlxZFA0UUpqakpvOWZJUXY4QzYxdm9tZ0s2WHZzOUx4ei0?oc=5",
-    "at": "2026-10-22T00:00+09:00",
-    "mult": null
-   },
-   "evidence": [
-    {
-     "from": "기사",
-     "at": "2026-11-09",
-     "title": "키키, ‘2026 KGMA’ 대상 포함 3관왕"
-    }
-   ],
-   "news": [
-    {
-     "title": "키키, ‘2026 KGMA’ 대상 포함 3관왕",
-     "link": "https://www.bntnews.co.kr/article/view/bnt202611090129",
-     "summary": "그룹 키키(KiiiKiii)가 ‘2026 코리아 그랜드 뮤직 어워즈’에서 대상을 포함해 3관왕에 올랐다. 데뷔 통산 두 번째 대상을 차지하며 음원 흥행에 이어 시상식에서도 성과를 거뒀다. 키키는 지난 8일 서울...",
-     "date": "2026-11-09",
-     "kind": "news"
-    },
-    {
-     "title": "[포토]키키, 신나는 무대",
-     "link": "https://isplus.com/article/view/isp202611080286",
-     "summary": "그룹 키키가 멋진 무대를 꾸미고 있다. KGMA는 올해 창간 57주년을 맞은 일간스포츠(이데일리M)가 대한민국 대중음악계에 새로운 패러다임을 제시하기 위해 2024년 새롭게 제정한 시상식으로 올해 3회째를 맞았다....",
-     "date": "2026-11-08",
-     "kind": "news"
-    },
-    {
-     "title": "“티키, 고마워”…키키, 벌써 대상 트로피만 2개",
-     "link": "https://www.sportsseoul.com/news/read/1648409?ref=naver",
-     "summary": "그룹 키키(KiiiKiii 지유 이솔 수이 하음 키야)가 ‘2026 코리아 그랜드 뮤직 어워즈(2026 KGMA)’에서 대상 격인 ‘그랜드 아너스 초이스’를 차지하며 3관왕에 올랐다. 키키는 지난 8일 서울 구로구 고척스카이돔에서...",
-     "date": "2026-11-09",
-     "kind": "news"
-    }
-   ],
-   "plans": [
-    {
-     "format": "그 후",
-     "corner": "followup",
-     "title": "키키, 첫 소식 이후 3주",
-     "angle": "10/22 첫 소식부터 11/8 고척스카이돔 무대, 11/9 대상 포함 3관왕까지 날짜순으로 이어 붙입니다.",
-     "why": "11/9 KGMA 대상 포함 3관왕 소식이 막 붙은 때입니다.",
-     "check": "10/22 첫 소식 내용, 그 사이 공식 일정의 날짜, 공식 인스타 사진 사용 가능 여부"
-    },
-    {
-     "format": "현장 정리",
-     "corner": "followup",
-     "title": "키키가 선 고척스카이돔",
-     "angle": "시상식이 열린 서울 구로구 고척스카이돔이 어떤 공간인지 공식 자료 기준으로 정리합니다.",
-     "why": "11/8 무대가 열린 공간을 3관왕 소식과 함께 짚을 때입니다.",
-     "check": "고척스카이돔 공식 시설·좌석 자료와 보도자료 사진 사용 가능 여부"
-    }
-   ],
-   "score": 5.5,
-   "preempt": null,
-   "made_at": "2026-11-12T01:36+09:00",
-   "expires": "2026-11-15T01:36+09:00"
   }
  ]
 }
