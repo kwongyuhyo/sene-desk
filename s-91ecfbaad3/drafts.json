@@ -376,7 +376,47 @@
     "why": "오늘 문을 연 북촌 어그 팝업 — 이번 주말 갈 곳으로 저장할 정보",
     "at": "2026-11-13T11:44+09:00"
    },
-   "i18n_queued": "2026-11-13T11:44+09:00"
+   "i18n_queued": "2026-11-13T11:44+09:00",
+   "i18n": {
+    "at": "2026-11-13T11:46+09:00",
+    "confirm": [
+     "'헤리티지 부츠' 공식 영어·일본어 제품명 미확인 — 어그 공식 표기(예: 'Classic Heritage' 계열인지)를 확인해 주세요. 지금은 'Heritage Boot' · 「ヘリテージ ブーツ」로 옮겼습니다.",
+     "판화가 전태형 작가의 공식 로마자·일본어 표기 미확인 — 'Jeon Tae-hyung' · 「チョン・テヒョン」은 임의 로마자입니다.",
+     "담다(DAMDA) 작가 일본어 표기 「ダムダ」는 원어 발음을 옮긴 것입니다 (공식 표기 아님).",
+     "아우프글렛 영어 표기 Aufglet 은 해외 매체·예약 페이지로 확인했고, 일본어 「アウフグレット」는 카타카나로 옮긴 것입니다.",
+     "일본어 브랜드 표기는 UGG（アグ）로 했습니다 — 일본 공식 계정 표기와 맞는지 확인해 주세요.",
+     "공통 · '오늘부터 / starting today / 今日から' — 11월 13일에 올릴 때만 맞습니다. 올리는 날이 늦어지면 고쳐야 합니다",
+     "영어 · 판화가 이름 'Jeon Tae-hyung' 로마자 — 작가 본인이 쓰는 표기인지 확인하지 못했습니다",
+     "일본어 · 嘉会洞（カフェドン） — 읽는 법은 맞지만 「カフェ」와 헷갈릴 수 있습니다. 그대로 둘지 봐 주세요"
+    ],
+    "review": {
+     "at": "2026-11-13T11:46+09:00",
+     "fixes": [
+      "일본어 · 캡션 · チョン・テヒョン（전태형）さん → チョン・テヒョンさん — 일본 독자가 읽지 못하는 한글이 남아 있었음",
+      "일본어 · 캡션 · ダムダ（DAMDA）さんのタフティング作品が一緒に展示されます → アーティストのダムダ（DAMDA）さんによるタフティング作品が展示されます — 원문의 '작가'가 빠졌고 「一緒に」는 직역투",
+      "일본어 · 캡션 · アウフグレット（Aufglet）と作ったデザート → アウフグレット（Aufglet）とコラボレーションしたデザート — 「と作った」는 어색한 직역투"
+     ],
+     "doubt": [
+      "공통 · '오늘부터 / starting today / 今日から' — 11월 13일에 올릴 때만 맞습니다. 올리는 날이 늦어지면 고쳐야 합니다",
+      "영어 · 판화가 이름 'Jeon Tae-hyung' 로마자 — 작가 본인이 쓰는 표기인지 확인하지 못했습니다",
+      "일본어 · 嘉会洞（カフェドン） — 읽는 법은 맞지만 「カフェ」와 헷갈릴 수 있습니다. 그대로 둘지 봐 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nUGG opens a ten-day pop-up in Gahoe-dong, Bukchon, starting today.\n\nThe space is split between two houses, a hanok and a Western-style house. The hanok holds the 'Classic Boot' and this season's 'Heritage Boot', and the Western-style house holds new Fall/Winter 2026 styles and the 'Tasman' line. Custom boots made with printmaker Jeon Tae-hyung are on view in the hanok, and tufted works by artist DAMDA are in the Western-style house.\n\nThe café inside the pop-up sells desserts and drinks made with dessert brand Aufglet. In the outdoor courtyard, the garden lights come on at 5 p.m. every day. Visitors who share their visit on social media receive a Tasman-shaped bungeoppang (a fish-shaped pastry).\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Gahoe-dong, Jongno-gu, Seoul\nDJ sets: Weekdays 4:30–6:30 p.m. · Weekends 2:30–6:30 p.m.\n#SENE #UGG #Bukchon #SeoulPopup #HanokSeoul\n\n[커버]\n소스: \n제목: UGG Opens a 10-Day|Hanok Pop-Up in Bukchon\n부제: Nov 13 – 22 · Gahoe-dong, Jongno-gu\n출처: \n",
+      "caption": "UGG opens a ten-day pop-up in Gahoe-dong, Bukchon, starting today.\n\nThe space is split between two houses, a hanok and a Western-style house. The hanok holds the 'Classic Boot' and this season's 'Heritage Boot', and the Western-style house holds new Fall/Winter 2026 styles and the 'Tasman' line. Custom boots made with printmaker Jeon Tae-hyung are on view in the hanok, and tufted works by artist DAMDA are in the Western-style house.\n\nThe café inside the pop-up sells desserts and drinks made with dessert brand Aufglet. In the outdoor courtyard, the garden lights come on at 5 p.m. every day. Visitors who share their visit on social media receive a Tasman-shaped bungeoppang (a fish-shaped pastry).\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Gahoe-dong, Jongno-gu, Seoul\nDJ sets: Weekdays 4:30–6:30 p.m. · Weekends 2:30–6:30 p.m.\n#SENE #UGG #Bukchon #SeoulPopup #HanokSeoul",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nUGG（アグ）が今日から、ソウル・北村（プクチョン）の嘉会洞（カフェドン）で10日間のポップアップを開きます。\n\n韓屋と洋館の2棟を分けて使う空間です。韓屋には「クラシック ブーツ」と今シーズンの「ヘリテージ ブーツ」が、洋館には2026年秋冬の新作と「タスマン」ラインが並びます。韓屋には版画家チョン・テヒョンさんと制作したカスタムブーツが、洋館にはアーティストのダムダ（DAMDA）さんによるタフティング作品が展示されます。\n\nポップアップ内のカフェでは、デザートブランドのアウフグレット（Aufglet）とコラボレーションしたデザートとドリンクを販売します。屋外の中庭では、毎日午後5時に庭の照明が灯ります。SNSで来場を投稿すると、タスマンの形をしたプンオパン（たい焼き）がもらえます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・鍾路区嘉会洞（カフェドン）\nDJパフォーマンス：平日16:30〜18:30・週末14:30〜18:30\n#SENE #UGG #韓国旅行 #北村 #ソウルポップアップ\n\n[커버]\n소스: \n제목: アグ、北村の韓屋で|10日間のポップアップ\n부제: 11月13日〜22日・鍾路区嘉会洞\n출처: \n",
+      "caption": "UGG（アグ）が今日から、ソウル・北村（プクチョン）の嘉会洞（カフェドン）で10日間のポップアップを開きます。\n\n韓屋と洋館の2棟を分けて使う空間です。韓屋には「クラシック ブーツ」と今シーズンの「ヘリテージ ブーツ」が、洋館には2026年秋冬の新作と「タスマン」ラインが並びます。韓屋には版画家チョン・テヒョンさんと制作したカスタムブーツが、洋館にはアーティストのダムダ（DAMDA）さんによるタフティング作品が展示されます。\n\nポップアップ内のカフェでは、デザートブランドのアウフグレット（Aufglet）とコラボレーションしたデザートとドリンクを販売します。屋外の中庭では、毎日午後5時に庭の照明が灯ります。SNSで来場を投稿すると、タスマンの形をしたプンオパン（たい焼き）がもらえます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・鍾路区嘉会洞（カフェドン）\nDJパフォーマンス：平日16:30〜18:30・週末14:30〜18:30\n#SENE #UGG #韓国旅行 #北村 #ソウルポップアップ",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -905,10 +945,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-13T11:45+09:00"
+  "at": "2026-11-13T11:46+09:00"
  },
  "queue": {
-  "next": "2026-11-13T11:47+09:00",
+  "next": "2026-11-13T11:48+09:00",
   "n": 0,
   "gap": 20
  },
