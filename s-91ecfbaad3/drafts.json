@@ -83,7 +83,39 @@
     "at": "2026-11-14T08:25+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-14T08:25+09:00"
+   "i18n_queued": "2026-11-14T08:25+09:00",
+   "i18n": {
+    "at": "2026-11-14T08:26+09:00",
+    "confirm": [
+     "그룹 표기는 각 공식 로마자 표기(aespa·RIIZE·TWS·Hearts2Hearts·RESCENE·I.O.I·KiiiKiii·CORTIS·PLAVE·ILLIT)로 썼습니다. 일본어판도 일본 매체 관례대로 영문 표기를 그대로 두었습니다.",
+     "Wavve 일본어 표기는 공식 일본어 표기가 없어 「ウェーブ（Wavve）」로 썼습니다. '이용권'은 영어 'pass', 일본어 「有料プラン」으로 옮겼습니다.",
+     "당일 게시물입니다. 올리기 전에 출연진·시간이 바뀌었는지 공식 채널에서 다시 확인해 주세요.",
+     "영어·일본어 공통 · 제목과 캡션이 '오늘(Today/今日)'·'내일' 기준이라 11월 14일 당일에 올려야 맞습니다. 15일 이후에 올리면 날짜 표현을 고쳐야 합니다.",
+     "영어·일본어 공통 · 출연 팀 수(14팀·12팀)와 명단은 한국어 원문 그대로 옮겼습니다. 올리기 전에 MMA 공식 라인업 공지를 다시 확인해 주세요."
+    ],
+    "review": {
+     "at": "2026-11-14T08:26+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 공통 · 제목과 캡션이 '오늘(Today/今日)'·'내일' 기준이라 11월 14일 당일에 올려야 맞습니다. 15일 이후에 올리면 날짜 표현을 고쳐야 합니다.",
+      "영어·일본어 공통 · 출연 팀 수(14팀·12팀)와 명단은 한국어 원문 그대로 옮겼습니다. 올리기 전에 MMA 공식 라인업 공지를 다시 확인해 주세요."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nThe Melon Music Awards (MMA2026) open today at Gocheok Sky Dome in Seoul.\n\nFor the first time in its 18-year history, the show is split across two days. Today, Nov 14, 14 acts take the stage, including aespa, RIIZE, NCT DREAM (@nct_dream), ATEEZ (@ateez_official_), TWS, Hearts2Hearts, RESCENE and I.O.I. Tomorrow, Nov 15, brings 12 acts, including IVE (@ivestarship), KiiiKiii, CORTIS, NCT 127, NCT WISH, PLAVE and ILLIT.\n\nBoth days begin with the red carpet at 5 p.m., an hour before the ceremony. Wavve streams everything live from the red carpet through the main show, and free users can watch in HD.\n\nDates: Nov 14 (Sat) – Nov 15 (Sun)\nRed carpet: 5 p.m. / Ceremony: 6 p.m.\nLocation: Gocheok Sky Dome, Guro-gu, Seoul\nStreaming: Wavve Live (HD for free users · chat requires a pass)\n#SENE #MMA2026 #MelonMusicAwards #GocheokSkyDome #aespa\n\n[커버]\n소스: \n제목: MMA2026 Opens Today|Two Nights at Gocheok\n부제: Red carpet 5 p.m. · Ceremony 6 p.m. · Free live stream on Wavve\n출처: \n",
+      "caption": "The Melon Music Awards (MMA2026) open today at Gocheok Sky Dome in Seoul.\n\nFor the first time in its 18-year history, the show is split across two days. Today, Nov 14, 14 acts take the stage, including aespa, RIIZE, NCT DREAM (@nct_dream), ATEEZ (@ateez_official_), TWS, Hearts2Hearts, RESCENE and I.O.I. Tomorrow, Nov 15, brings 12 acts, including IVE (@ivestarship), KiiiKiii, CORTIS, NCT 127, NCT WISH, PLAVE and ILLIT.\n\nBoth days begin with the red carpet at 5 p.m., an hour before the ceremony. Wavve streams everything live from the red carpet through the main show, and free users can watch in HD.\n\nDates: Nov 14 (Sat) – Nov 15 (Sun)\nRed carpet: 5 p.m. / Ceremony: 6 p.m.\nLocation: Gocheok Sky Dome, Guro-gu, Seoul\nStreaming: Wavve Live (HD for free users · chat requires a pass)\n#SENE #MMA2026 #MelonMusicAwards #GocheokSkyDome #aespa",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nメロン・ミュージック・アワード（MMA2026）が今日、ソウルの高尺（コチョク）スカイドームで幕を開けます。\n\n今年は18年の歴史で初めて2日間に分けて開催されます。今日14日はaespa・RIIZE・NCT DREAM（@nct_dream）・ATEEZ（@ateez_official_）・TWS・Hearts2Hearts・RESCENE・I.O.Iなど14組、明日15日はIVE（@ivestarship）・KiiiKiii・CORTIS・NCT 127・NCT WISH・PLAVE・ILLITなど12組がステージに立ちます。\n\n両日とも、本授賞式の1時間前の17時にレッドカーペットが始まります。動画配信サービスのウェーブ（Wavve）がレッドカーペットから本授賞式まで生中継し、無料会員もHD画質で視聴できます。\n\n日程：11月14日（土）・15日（日）\nレッドカーペット：17時 ／ 本授賞式：18時\n場所：ソウル・九老区（クログ） 高尺スカイドーム\n中継：Wavveライブ（無料会員はHD・チャットは有料プラン）\n#SENE #MMA2026 #メロンミュージックアワード #高尺スカイドーム #aespa\n\n[커버]\n소스: \n제목: MMA2026、今日から|高尺で2日間\n부제: レッドカーペット17時・本授賞式18時・Wavveで無料生中継\n출처: \n",
+      "caption": "メロン・ミュージック・アワード（MMA2026）が今日、ソウルの高尺（コチョク）スカイドームで幕を開けます。\n\n今年は18年の歴史で初めて2日間に分けて開催されます。今日14日はaespa・RIIZE・NCT DREAM（@nct_dream）・ATEEZ（@ateez_official_）・TWS・Hearts2Hearts・RESCENE・I.O.Iなど14組、明日15日はIVE（@ivestarship）・KiiiKiii・CORTIS・NCT 127・NCT WISH・PLAVE・ILLITなど12組がステージに立ちます。\n\n両日とも、本授賞式の1時間前の17時にレッドカーペットが始まります。動画配信サービスのウェーブ（Wavve）がレッドカーペットから本授賞式まで生中継し、無料会員もHD画質で視聴できます。\n\n日程：11月14日（土）・15日（日）\nレッドカーペット：17時 ／ 本授賞式：18時\n場所：ソウル・九老区（クログ） 高尺スカイドーム\n中継：Wavveライブ（無料会員はHD・チャットは有料プラン）\n#SENE #MMA2026 #メロンミュージックアワード #高尺スカイドーム #aespa",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -331,10 +363,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-14T08:25+09:00"
+  "at": "2026-11-14T08:26+09:00"
  },
  "queue": {
-  "next": "2026-11-14T08:27+09:00",
+  "next": "2026-11-14T08:28+09:00",
   "n": 0,
   "gap": 20
  },
