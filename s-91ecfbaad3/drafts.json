@@ -666,7 +666,45 @@
     "at": "2026-11-14T11:44+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-14T11:44+09:00"
+   "i18n_queued": "2026-11-14T11:44+09:00",
+   "i18n": {
+    "at": "2026-11-14T11:46+09:00",
+    "confirm": [
+     "포토그래퍼 목정욱·스타일리스트 이윤미의 영어·일본어 공식 표기는 웹에서 확인하지 못했습니다. 영어는 로마자(Mok Jung-wook · Lee Yoon-mi), 일본어는 カタカナ에 원어 괄호를 붙였습니다. 이 화보의 크레딧도 검색으로는 확인되지 않아 원문 그대로 옮겼습니다.",
+     "장원영의 W Korea Vol.12 커버 공개(11/13)와 예약 일정(11/16 15시)은 검색 결과에서 확인되지 않았습니다. 한국어 원문의 출처(더블유 공식 홈페이지)를 다시 보고 올려 주세요.",
+     "'다음 주 월요일'은 11월 16일 기준입니다. 올리는 날짜가 달라지면 영어 'next Monday'와 일본어 「来週月曜日」을 고쳐야 합니다.",
+     "일본어 표지 제목은 한 줄 12자 안팎에 맞추려고 잡지 이름을 『W』로 줄였습니다. 캡션에서는 『W Korea』로 적었습니다.",
+     "영어·일본어 · 포토그래퍼 목정욱, 스타일리스트 이윤미의 영어 공식 표기(Mok Jung-wook / Mok Jungwook 등)는 확인하지 못함 — 본인 계정이나 크레딧 표기로 확인 필요",
+     "일본어 · 표지 제목 『W』는 캡션의 『W Korea』와 표기가 다름 — 일본 독자가 다른 판으로 읽을 수 있지만, 12자 제한 때문에 그대로 둠"
+    ],
+    "review": {
+     "at": "2026-11-14T11:46+09:00",
+     "fixes": [
+      "영어 · 캡션 첫 문장 · 'Jang Wonyoung of IVE (@ivestarship) (@for_everyoung10)' → \"IVE's (@ivestarship) Jang Wonyoung (@for_everyoung10)\" — 핸들 두 개가 나란히 붙어 누구 계정인지 헷갈림",
+      "영어 · 캡션 둘째 단락 · 'next Monday' → 'on Monday' — 오늘이 토요일(11/14)이라 'next Monday'가 11/16인지 그다음 주인지 두 가지로 읽힘",
+      "영어 · 캡션 셋째 단락 · 'The shoot was photographed by … and styled by …' → 'Mok Jung-wook photographed the shoot, and Lee Yoon-mi handled the styling.' — 'shoot was photographed'는 직역투",
+      "일본어 · 캡션 둘째 단락 · '公開しましたが、雑誌は' → '公開しました。雑誌は' — 역접 'が'로 읽혀 어색해서 문장을 나눔"
+     ],
+     "doubt": [
+      "영어·일본어 · 포토그래퍼 목정욱, 스타일리스트 이윤미의 영어 공식 표기(Mok Jung-wook / Mok Jungwook 등)는 확인하지 못함 — 본인 계정이나 크레딧 표기로 확인 필요",
+      "일본어 · 표지 제목 『W』는 캡션의 『W Korea』와 표기가 다름 — 일본 독자가 다른 판으로 읽을 수 있지만, 12자 제한 때문에 그대로 둠"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nIVE's (@ivestarship) Jang Wonyoung (@for_everyoung10) is on the cover of W Korea Vol.12.\n\nW Korea revealed the cover first on its official website on Nov 13. The magazine goes up for preorder at online bookstores on Monday from 3 PM. You can preview the cover in the photos released over the weekend, then place a preorder when sales open Monday afternoon.\n\nMok Jung-wook photographed the shoot, and Lee Yoon-mi handled the styling. The official article does not yet list the brands of the clothing and jewelry. We will share them once the credits are released.\n\nPreorders: From Nov 16 (Mon), 3 PM\nWhere to buy: Online bookstores\n#SENE #JangWonyoung #IVE #WKorea #Wonyoung\n\n[커버]\n소스: \n제목: Jang Wonyoung Covers|W Korea Vol.12\n부제: Online preorders open Nov 16 (Mon), 3 PM\n출처: \n",
+      "caption": "IVE's (@ivestarship) Jang Wonyoung (@for_everyoung10) is on the cover of W Korea Vol.12.\n\nW Korea revealed the cover first on its official website on Nov 13. The magazine goes up for preorder at online bookstores on Monday from 3 PM. You can preview the cover in the photos released over the weekend, then place a preorder when sales open Monday afternoon.\n\nMok Jung-wook photographed the shoot, and Lee Yoon-mi handled the styling. The official article does not yet list the brands of the clothing and jewelry. We will share them once the credits are released.\n\nPreorders: From Nov 16 (Mon), 3 PM\nWhere to buy: Online bookstores\n#SENE #JangWonyoung #IVE #WKorea #Wonyoung",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nIVE（@ivestarship）のチャン・ウォニョン（@for_everyoung10）が『W Korea（ダブリュー・コリア）』Vol.12の表紙を飾りました。\n\n『W Korea』が11月13日、公式ホームページで表紙を先に公開しました。雑誌は来週月曜日の15時からオンライン書店で予約購入できます。週末のうちに公開された写真で表紙をひと足先に見て、月曜日の午後に予約ページを開くという流れです。\n\nグラビアはフォトグラファーのモク・ジョンウク（목정욱）が撮影し、スタイリングはイ・ユンミ（이윤미）が担当しました。衣装とジュエリーのブランドは公式記事にまだ記載されていないため、クレジットが出たらあらためてお伝えします。\n\n予約：11月16日（月）15時から\n販売：オンライン書店\n#SENE #チャンウォニョン #ウォニョン #IVE #WKorea\n\n[커버]\n소스: \n제목: チャン・ウォニョンが|『W』Vol.12の表紙に\n부제: 11月16日（月）15時からオンライン書店で予約\n출처: \n",
+      "caption": "IVE（@ivestarship）のチャン・ウォニョン（@for_everyoung10）が『W Korea（ダブリュー・コリア）』Vol.12の表紙を飾りました。\n\n『W Korea』が11月13日、公式ホームページで表紙を先に公開しました。雑誌は来週月曜日の15時からオンライン書店で予約購入できます。週末のうちに公開された写真で表紙をひと足先に見て、月曜日の午後に予約ページを開くという流れです。\n\nグラビアはフォトグラファーのモク・ジョンウク（목정욱）が撮影し、スタイリングはイ・ユンミ（이윤미）が担当しました。衣装とジュエリーのブランドは公式記事にまだ記載されていないため、クレジットが出たらあらためてお伝えします。\n\n予約：11月16日（月）15時から\n販売：オンライン書店\n#SENE #チャンウォニョン #ウォニョン #IVE #WKorea",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -914,10 +952,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-14T11:45+09:00"
+  "at": "2026-11-14T11:46+09:00"
  },
  "queue": {
-  "next": "2026-11-14T11:47+09:00",
+  "next": "2026-11-14T11:48+09:00",
   "n": 0,
   "gap": 20
  },
