@@ -565,7 +565,41 @@
     "at": "2026-11-14T11:44+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-14T11:44+09:00"
+   "i18n_queued": "2026-11-14T11:44+09:00",
+   "i18n": {
+    "at": "2026-11-14T11:45+09:00",
+    "confirm": [
+     "일본어 공식 제목 『アベンジャーズ／ドゥームズデイ』는 확인했습니다(일본 개봉은 12월 18일 · 리얼사운드 2025.7). 원문의 '개봉 12월 16일(수)'는 한국 개봉일이라 영어는 'Korea Release', 일본어는 '韓国公開'로 밝혀 일본 개봉일과 헷갈리지 않게 했습니다.",
+     "번역문의 사실(일정·장소·응모 방식·11년 만의 내한·헴스워스 첫 내한)은 원문 그대로 옮겼습니다. 올리기 전에 마블코리아 공식 공지와 한 번 더 맞춰 주세요.",
+     "하이라이트 이름은 한국어 그대로 노출되기 때문에 일본어판에는 '来韓招待イベント（내한 초대 이벤트）'로 원어를 함께 적었습니다. 영어판은 번역 이름만 적었습니다.",
+     "일본어 캡션의 「来韓招待イベント（내한 초대 이벤트）」에 한글이 남아 있음 — 응모하려면 하이라이트 이름을 찾아야 해서 일부러 남긴 것으로 보고 그대로 둠. 빼려면 사람이 판단해야 함",
+     "헴스워스가 '마블 영화로는 처음 내한'한다는 내용은 원문을 그대로 옮긴 것임 — 과거 내한 이력은 이번 검수에서 따로 확인하지 않았으니 올리기 전에 확인이 필요함"
+    ],
+    "review": {
+     "at": "2026-11-14T11:45+09:00",
+     "fixes": [
+      "일본어 · 캡션 둘째 단락 · 「マーベル作品で訪れる初めての来韓」 → 「マーベル作品では初めての来韓」 — 「訪れる」와 「来韓」이 뜻이 겹쳐 어색함"
+     ],
+     "doubt": [
+      "일본어 캡션의 「来韓招待イベント（내한 초대 이벤트）」에 한글이 남아 있음 — 응모하려면 하이라이트 이름을 찾아야 해서 일부러 남긴 것으로 보고 그대로 둠. 빼려면 사람이 판단해야 함",
+      "헴스워스가 '마블 영화로는 처음 내한'한다는 내용은 원문을 그대로 옮긴 것임 — 과거 내한 이력은 이번 검수에서 따로 확인하지 않았으니 올리기 전에 확인이 필요함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nChris Evans and Chris Hemsworth will meet fans at Jangchung Arena in Seoul on December 8.\n\nThe green carpet event comes eight days before the release of 'Avengers: Doomsday', and Marvel Studios President Kevin Feige will join them on stage. It is Evans's first Marvel visit to Korea in 11 years, since 'Avengers: Age of Ultron' in 2015, and Hemsworth's first visit to Korea for a Marvel film.\n\nInvitations are offered through Marvel Korea's (@marvelkorea) Instagram. Open the 'Korea Visit Invitation Event' highlight on the profile and write a Korean-style way to defeat Doctor Doom in the entry form. Each winner receives one ticket.\n\nDate & Time: Tue, Dec 8, 7:30 p.m.\nLocation: Jangchung Arena, Jung-gu, Seoul\nEntries: 'Korea Visit Invitation Event' highlight on Marvel Korea's Instagram · until Wed, Nov 25\nKorea Release: Wed, Dec 16\n#SENE #AvengersDoomsday #ChrisEvans #ChrisHemsworth #JangchungArena\n\n[커버]\n소스: \n제목: The Avengers' Two Chrises|in Seoul on Dec 8\n부제: Green carpet at Jangchung Arena · Invitation entries close Nov 25\n출처: \n",
+      "caption": "Chris Evans and Chris Hemsworth will meet fans at Jangchung Arena in Seoul on December 8.\n\nThe green carpet event comes eight days before the release of 'Avengers: Doomsday', and Marvel Studios President Kevin Feige will join them on stage. It is Evans's first Marvel visit to Korea in 11 years, since 'Avengers: Age of Ultron' in 2015, and Hemsworth's first visit to Korea for a Marvel film.\n\nInvitations are offered through Marvel Korea's (@marvelkorea) Instagram. Open the 'Korea Visit Invitation Event' highlight on the profile and write a Korean-style way to defeat Doctor Doom in the entry form. Each winner receives one ticket.\n\nDate & Time: Tue, Dec 8, 7:30 p.m.\nLocation: Jangchung Arena, Jung-gu, Seoul\nEntries: 'Korea Visit Invitation Event' highlight on Marvel Korea's Instagram · until Wed, Nov 25\nKorea Release: Wed, Dec 16\n#SENE #AvengersDoomsday #ChrisEvans #ChrisHemsworth #JangchungArena",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nクリス・エヴァンスとクリス・ヘムズワースが、12月8日にソウルの奨忠体育館（チャンチュン体育館）でファンの前に立ちます。\n\n『アベンジャーズ／ドゥームズデイ』の韓国公開を8日後に控えて開かれるグリーンカーペットで、マーベル・スタジオのケヴィン・ファイギ社長も一緒に登壇します。エヴァンスにとっては2015年の『アベンジャーズ／エイジ・オブ・ウルトロン』以来11年ぶりのマーベル作品での来韓、ヘムズワースにとってはマーベル作品では初めての来韓です。\n\n現場の招待券は、マーベル・コリア（@marvelkorea）のインスタグラムで応募します。プロフィールのハイライト「来韓招待イベント（내한 초대 이벤트）」から、ドクター・ドゥームに勝つための韓国式の方法を応募フォームに書いて送る形式で、当選者には1人1枚が贈られます。\n\n日時：12月8日（火）19:30\n場所：ソウル・中区（チュング）奨忠体育館\n応募：マーベル・コリアのインスタグラム「来韓招待イベント」・11月25日（水）まで\n韓国公開：12月16日（水）\n#SENE #アベンジャーズドゥームズデイ #クリスエヴァンス #クリスヘムズワース #韓国旅行\n\n[커버]\n소스: \n제목: アベンジャーズの2人のクリス、|12月8日ソウルへ\n부제: 奨忠体育館でグリーンカーペット・招待券の応募は11月25日まで\n출처: \n",
+      "caption": "クリス・エヴァンスとクリス・ヘムズワースが、12月8日にソウルの奨忠体育館（チャンチュン体育館）でファンの前に立ちます。\n\n『アベンジャーズ／ドゥームズデイ』の韓国公開を8日後に控えて開かれるグリーンカーペットで、マーベル・スタジオのケヴィン・ファイギ社長も一緒に登壇します。エヴァンスにとっては2015年の『アベンジャーズ／エイジ・オブ・ウルトロン』以来11年ぶりのマーベル作品での来韓、ヘムズワースにとってはマーベル作品では初めての来韓です。\n\n現場の招待券は、マーベル・コリア（@marvelkorea）のインスタグラムで応募します。プロフィールのハイライト「来韓招待イベント（내한 초대 이벤트）」から、ドクター・ドゥームに勝つための韓国式の方法を応募フォームに書いて送る形式で、当選者には1人1枚が贈られます。\n\n日時：12月8日（火）19:30\n場所：ソウル・中区（チュング）奨忠体育館\n応募：マーベル・コリアのインスタグラム「来韓招待イベント」・11月25日（水）まで\n韓国公開：12月16日（水）\n#SENE #アベンジャーズドゥームズデイ #クリスエヴァンス #クリスヘムズワース #韓国旅行",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -880,10 +914,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-14T11:44+09:00"
+  "at": "2026-11-14T11:45+09:00"
  },
  "queue": {
-  "next": "2026-11-14T11:46+09:00",
+  "next": "2026-11-14T11:47+09:00",
   "n": 0,
   "gap": 20
  },
