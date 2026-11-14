@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "at": "2026-11-14T09:05+09:00",
+ "at": "2026-11-14T11:44+09:00",
  "items": [
   {
    "key": "moment",
@@ -23,10 +23,8 @@
    "tag": "#SENE그룩얼마",
    "done": 0,
    "next_no": 1,
-   "due": true,
-   "chips": [
-    "지민, 카리나 · #데패뉴공패 오늘 아침 출국하는 지민 공주 미모 주사위 6이세요😌 카리나의 가을 룩"
-   ]
+   "due": false,
+   "chips": []
   },
   {
    "key": "mvspot",
@@ -37,10 +35,8 @@
    "tag": "#SENE성지순례",
    "done": 0,
    "next_no": 1,
-   "due": true,
-   "chips": [
-    "리센느 · 기사 · \"피자도 커피도 야호!\"⋯에 빠진 식음료업계 @eyesmag · 의 <헥스"
-   ]
+   "due": false,
+   "chips": []
   },
   {
    "key": "fave",
