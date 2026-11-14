@@ -779,7 +779,43 @@
     "at": "2026-11-14T17:43+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-14T17:44+09:00"
+   "i18n_queued": "2026-11-14T17:44+09:00",
+   "i18n": {
+    "at": "2026-11-14T17:45+09:00",
+    "confirm": [
+     "포토카드 증정 확인 안 됨: 공개 행사 안내(무신사 공지·popga)에서 확인한 혜택은 SNS 인증 시 주는 '멜팅 온 마이 립글로스 미니(썸머로즈)'와 모브 크러쉬 쇼핑백뿐입니다. '3만 원 이상 구매 시 하츠투하츠 포토카드 1인 1세트' 조건은 찾지 못해 원문 그대로 옮겼습니다. 올리기 전에 투에이엔 공식 계정에서 확인해 주세요.",
+     "브랜드 표기: 검색 결과에 '2aN'과 '2a-N'이 섞여 나와 '2aN'으로 썼습니다. 공식 계정 표기를 확인해 주세요.",
+     "하츠투하츠가 투에이엔 모델이라는 건 자료 하나(7월 21일 발표, 연도 표기 없음)로만 확인했습니다.",
+     "컬렉션 영문명 'Mauve Crush'와 공간 표기 'Musinsa Space'·'MUSINSA BEAUTY 聖水'는 공식 영어·일본어 표기를 찾지 못해 로마자로 옮겼습니다.",
+     "일본어판 하츠투하츠는 일본 매체도 로마자 'Hearts2Hearts'로 쓰고 있어 그대로 두었습니다.",
+     "컬렉션 영문 표기 'Mauve Crush' — 무신사 안내에는 한글 '모브 크러쉬'만 확인됨, 브랜드 공식 영문 표기 확인 필요 (영어·일본어 둘 다)",
+     "무신사 안내에서 기간(11.11~12.07)·운영 시간(10:00~17:00)·1층 무신사 스페이스는 확인했으나, 하츠투하츠 포토카드 증정 조건(3만 원 이상·1인 1세트)과 주소 '연무장길 87'은 이번 검색에서 확인하지 못함 — 원문 출처 다시 확인"
+    ],
+    "review": {
+     "at": "2026-11-14T17:45+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · \"It is 2aN's (@2an_official) 'Mauve Crush' collection pop-up\" → \"It is the 'Mauve Crush' collection pop-up by 2aN (@2an_official)\" — 소유격 's 뒤에 핸들 괄호가 끼어 어색함"
+     ],
+     "doubt": [
+      "컬렉션 영문 표기 'Mauve Crush' — 무신사 안내에는 한글 '모브 크러쉬'만 확인됨, 브랜드 공식 영문 표기 확인 필요 (영어·일본어 둘 다)",
+      "무신사 안내에서 기간(11.11~12.07)·운영 시간(10:00~17:00)·1층 무신사 스페이스는 확인했으나, 하츠투하츠 포토카드 증정 조건(3만 원 이상·1인 1세트)과 주소 '연무장길 87'은 이번 검색에서 확인하지 못함 — 원문 출처 다시 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nA pop-up in Seongsu is giving out Hearts2Hearts photocards.\n\nIt is the 'Mauve Crush' collection pop-up by 2aN (@2an_official) at Musinsa Space, on the first floor of Musinsa Beauty Seongsu. Spend KRW 30,000 or more on 2aN products here and you get one set of Hearts2Hearts photocards, limited to one set per person. The giveaway ends early once the prepared stock runs out.\n\nHearts2Hearts is 2aN's brand model. The photocards come only with purchases made at the pop-up, and the space closes at 5 p.m. every day, so a late weekend afternoon visit may mean missing out.\n\nDates: Nov 11 (Wed) – Dec 7 (Mon)\nLocation: 1F Musinsa Beauty Seongsu, 87 Yeonmujang-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: Daily, 10 a.m. – 5 p.m.\nGift: One photocard set per person with a 2aN purchase of KRW 30,000 or more at the pop-up (while supplies last)\n#SENE #Hearts2Hearts #2aN #SeoulPopup #Seongsu\n\n[커버]\n소스: \n제목: Hearts2Hearts Photocards|at 2aN's Seongsu Pop-up\n부제: Through Dec 7 · Closes daily at 5 p.m.\n출처: \n",
+      "caption": "A pop-up in Seongsu is giving out Hearts2Hearts photocards.\n\nIt is the 'Mauve Crush' collection pop-up by 2aN (@2an_official) at Musinsa Space, on the first floor of Musinsa Beauty Seongsu. Spend KRW 30,000 or more on 2aN products here and you get one set of Hearts2Hearts photocards, limited to one set per person. The giveaway ends early once the prepared stock runs out.\n\nHearts2Hearts is 2aN's brand model. The photocards come only with purchases made at the pop-up, and the space closes at 5 p.m. every day, so a late weekend afternoon visit may mean missing out.\n\nDates: Nov 11 (Wed) – Dec 7 (Mon)\nLocation: 1F Musinsa Beauty Seongsu, 87 Yeonmujang-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: Daily, 10 a.m. – 5 p.m.\nGift: One photocard set per person with a 2aN purchase of KRW 30,000 or more at the pop-up (while supplies last)\n#SENE #Hearts2Hearts #2aN #SeoulPopup #Seongsu",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nHearts2Heartsのトレカがもらえるポップアップが、ソウル・聖水で開かれています。\n\n2aN（@2an_official）が、MUSINSA BEAUTY 聖水の1階「MUSINSA SPACE」で開いている「モーブクラッシュ（Mauve Crush）」コレクションのポップアップです。ここで2aNの商品を3万ウォン以上購入すると、Hearts2Heartsのトレカが1人1セットもらえます。用意した数量がなくなり次第、配布は早めに終了します。\n\nHearts2Heartsは2aNのモデルです。トレカはポップアップで購入した場合のみの配布で、ポップアップは毎日午後5時に閉まるため、週末の夕方近くに行くと間に合わないことがあります。\n\n期間：11月11日（水）〜12月7日（月）\n場所：ソウル・聖水洞（ソンスドン）、城東区練武場キル（ヨンムジャンギル）87 MUSINSA BEAUTY 聖水 1階\n営業時間：毎日 午前10時〜午後5時\n特典：ポップアップで2aNの商品を3万ウォン以上購入するとトレカ1人1セット（なくなり次第終了）\n#SENE #Hearts2Hearts #2aN #聖水 #韓国旅行 #韓国コスメ\n\n[커버]\n소스: \n제목: Hearts2Heartsトレカ、|聖水の2aNポップアップ\n부제: 12月7日まで・毎日午後5時に閉店\n출처: \n",
+      "caption": "Hearts2Heartsのトレカがもらえるポップアップが、ソウル・聖水で開かれています。\n\n2aN（@2an_official）が、MUSINSA BEAUTY 聖水の1階「MUSINSA SPACE」で開いている「モーブクラッシュ（Mauve Crush）」コレクションのポップアップです。ここで2aNの商品を3万ウォン以上購入すると、Hearts2Heartsのトレカが1人1セットもらえます。用意した数量がなくなり次第、配布は早めに終了します。\n\nHearts2Heartsは2aNのモデルです。トレカはポップアップで購入した場合のみの配布で、ポップアップは毎日午後5時に閉まるため、週末の夕方近くに行くと間に合わないことがあります。\n\n期間：11月11日（水）〜12月7日（月）\n場所：ソウル・聖水洞（ソンスドン）、城東区練武場キル（ヨンムジャンギル）87 MUSINSA BEAUTY 聖水 1階\n営業時間：毎日 午前10時〜午後5時\n特典：ポップアップで2aNの商品を3万ウォン以上購入するとトレカ1人1セット（なくなり次第終了）\n#SENE #Hearts2Hearts #2aN #聖水 #韓国旅行 #韓国コスメ",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1027,10 +1063,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-14T17:44+09:00"
+  "at": "2026-11-14T17:45+09:00"
  },
  "queue": {
-  "next": "2026-11-14T17:46+09:00",
+  "next": "2026-11-14T17:47+09:00",
   "n": 0,
   "gap": 20
  },
