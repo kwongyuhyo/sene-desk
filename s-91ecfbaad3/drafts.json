@@ -87,7 +87,49 @@
     "at": "2026-11-16T08:28+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-16T08:28+09:00"
+   "i18n_queued": "2026-11-16T08:28+09:00",
+   "i18n": {
+    "at": "2026-11-16T08:30+09:00",
+    "confirm": [
+     "작가 영문 표기 'Devon DeJardin' 은 소속 갤러리(Albertz Benda) 페이지에서 확인했습니다. 일본어 표기 'デボン・デジャーディン' 은 공식 표기를 찾지 못해 발음대로 옮겼습니다.",
+     "디에잇과 데본 드 자댕이 커버를 함께 그렸다는 사실·서울옥션 전시는 검색으로 따로 확인하지 못했습니다. 원문 그대로 옮겼습니다.",
+     "'2026 옥션쇼' 의 공식 영어·일본어 이름을 확인하지 못해 'Auction Show'·'オークションショー' 로 옮겼습니다. 서울옥션 공식 표기가 있으면 그것으로 바꿔 주세요.",
+     "요일(11/11 수 · 11/17 화 · 11/24 화)은 2026년 달력과 맞는 것을 확인했습니다.",
+     "일본어 제목 둘째 줄 'ソウルオークションで17日まで' 는 15자로 12자 안팎보다 조금 깁니다.",
+     "작가 이름 표기 · Devon DeJardin(영문 대소문자)과 일본어 カタカナ 「デボン・デジャーディン」 — 일본어 공식 표기가 있는지 이번에 확인하지 못했습니다. 올리기 전에 작가 계정과 일본 매체 표기를 확인해 주세요.",
+     "일본어 · 표지 둘째 줄 「ソウルオークションで17日まで」가 16자로 한 줄 12자 안팎 기준을 넘습니다. 화면에서 잘리지 않는지 확인해 주세요.",
+     "전시 마감 날짜 · 개인전이 11월 17일(화)에 끝나 오늘(11/16) 기준으로 하루 남았습니다. 올리는 시점이 늦어지면 날짜가 맞는지 다시 확인해 주세요."
+    ],
+    "review": {
+     "at": "2026-11-16T08:30+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 첫 줄 끝 쉼표 삭제 (THE8's Cover Painter, → THE8's Cover Painter) — 줄바꿈 앞 쉼표가 영어 제목으로 어색함",
+      "영어 · 캡션 1단락 · THE8's (@xuminghao_o) album cover → the album cover for SEVENTEEN's THE8 (@xuminghao_o) — 소유격 뒤 괄호 핸들이 어색함",
+      "영어 · 캡션 2단락 · 'seven paintings and nine drawings from ... Flower series' → 'seven paintings from ... Flower series and nine drawings' — 원문은 회화 7점만 'Flower' 연작이라는 뜻인데 번역에서는 드로잉까지 연작으로 읽힘",
+      "일본어 · 캡션 2단락 · 「アメリカの作家…で、…人物です」→「描いたのはアメリカの作家…です。…人物です」 — 주어 없이 で로 이어 붙인 직역투",
+      "일본어 · 캡션 3단락 · て형이 이어지는 한 문장(〜必要がなく、〜観覧でき、〜)을 두 문장으로 나눔 — 직역투"
+     ],
+     "doubt": [
+      "작가 이름 표기 · Devon DeJardin(영문 대소문자)과 일본어 カタカナ 「デボン・デジャーディン」 — 일본어 공식 표기가 있는지 이번에 확인하지 못했습니다. 올리기 전에 작가 계정과 일본 매체 표기를 확인해 주세요.",
+      "일본어 · 표지 둘째 줄 「ソウルオークションで17日まで」가 16자로 한 줄 12자 안팎 기준을 넘습니다. 화면에서 잘리지 않는지 확인해 주세요.",
+      "전시 마감 날짜 · 개인전이 11월 17일(화)에 끝나 오늘(11/16) 기준으로 하루 남았습니다. 올리는 시점이 늦어지면 날짜가 맞는지 다시 확인해 주세요."
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nAn exhibition by the painter who co-created the album cover for SEVENTEEN's THE8 (@xuminghao_o) is on at Seoul Auction (@seoulauction) Gangnam Center.\n\nThe artist is American painter Devon DeJardin (@devondejardin), who worked with THE8 on the album's cover art. The third-floor gallery holds seven paintings from DeJardin's new 'Flower' series and nine drawings, along with prints of the cover art the two made together, while an unreleased track by THE8 plays in the room.\n\nThere is no separate ticket for the exhibition. A single Auction Show ticket gets you in, and you can re-enter as many times as you like while the show runs.\n\nExhibition: Devon DeJardin Solo Show · through Tue, Nov 17 · 3F\nAuction Show: Wed, Nov 11 – Tue, Nov 24 · daily 10:00–19:00\nLocation: Seoul Auction Gangnam Center, 864 Eonju-ro, Gangnam-gu, Seoul\nAdmission: KRW 22,000 (NOL Ticket · re-entry allowed during the show)\n#SENE #THE8 #SEVENTEEN #SeoulAuction #DevonDeJardin #SeoulExhibition\n\n[커버]\n소스: \n제목: THE8's Cover Painter|at Seoul Auction to Nov 17\n부제: Devon DeJardin Solo Show · 2026 Auction Show, 3F\n출처: \n",
+      "caption": "An exhibition by the painter who co-created the album cover for SEVENTEEN's THE8 (@xuminghao_o) is on at Seoul Auction (@seoulauction) Gangnam Center.\n\nThe artist is American painter Devon DeJardin (@devondejardin), who worked with THE8 on the album's cover art. The third-floor gallery holds seven paintings from DeJardin's new 'Flower' series and nine drawings, along with prints of the cover art the two made together, while an unreleased track by THE8 plays in the room.\n\nThere is no separate ticket for the exhibition. A single Auction Show ticket gets you in, and you can re-enter as many times as you like while the show runs.\n\nExhibition: Devon DeJardin Solo Show · through Tue, Nov 17 · 3F\nAuction Show: Wed, Nov 11 – Tue, Nov 24 · daily 10:00–19:00\nLocation: Seoul Auction Gangnam Center, 864 Eonju-ro, Gangnam-gu, Seoul\nAdmission: KRW 22,000 (NOL Ticket · re-entry allowed during the show)\n#SENE #THE8 #SEVENTEEN #SeoulAuction #DevonDeJardin #SeoulExhibition",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nSEVENTEENのディエイト（THE8・@xuminghao_o）と共にアルバムジャケットを描いた画家の展示が、ソウルオークション（@seoulauction）江南センターで開かれています。\n\n描いたのはアメリカの作家デボン・デジャーディン（Devon DeJardin・@devondejardin）です。ディエイトとアルバムのジャケットアートを共同制作した人物です。3階の展示室には新作「Flower」連作の絵画7点とドローイング9点、そしてディエイトと共に手がけたジャケットアートの版画が並び、ディエイトの未公開曲が流れています。\n\n展示のための別チケットはなく、オークションショーの入場券1枚で観覧できます。期間中は何度でも再入場が可能です。\n\n展示：デボン・デジャーディン個展・11月17日（火）まで・3階\nオークションショー：11月11日（水）〜24日（火）・毎日10:00〜19:00\n場所：ソウル・江南区（カンナムグ）彦州路（オンジュロ）864 ソウルオークション江南センター\n入場：22,000ウォン（NOLチケット・期間中再入場可）\n#SENE #ディエイト #セブチ #SEVENTEEN #ソウル展示 #韓国旅行\n\n[커버]\n소스: \n제목: THE8のジャケット画家、|ソウルオークションで17日まで\n부제: デボン・デジャーディン個展・2026オークションショー3階\n출처: \n",
+      "caption": "SEVENTEENのディエイト（THE8・@xuminghao_o）と共にアルバムジャケットを描いた画家の展示が、ソウルオークション（@seoulauction）江南センターで開かれています。\n\n描いたのはアメリカの作家デボン・デジャーディン（Devon DeJardin・@devondejardin）です。ディエイトとアルバムのジャケットアートを共同制作した人物です。3階の展示室には新作「Flower」連作の絵画7点とドローイング9点、そしてディエイトと共に手がけたジャケットアートの版画が並び、ディエイトの未公開曲が流れています。\n\n展示のための別チケットはなく、オークションショーの入場券1枚で観覧できます。期間中は何度でも再入場が可能です。\n\n展示：デボン・デジャーディン個展・11月17日（火）まで・3階\nオークションショー：11月11日（水）〜24日（火）・毎日10:00〜19:00\n場所：ソウル・江南区（カンナムグ）彦州路（オンジュロ）864 ソウルオークション江南センター\n入場：22,000ウォン（NOLチケット・期間中再入場可）\n#SENE #ディエイト #セブチ #SEVENTEEN #ソウル展示 #韓国旅行",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -335,10 +377,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-16T08:28+09:00"
+  "at": "2026-11-16T08:30+09:00"
  },
  "queue": {
-  "next": "2026-11-16T08:30+09:00",
+  "next": "2026-11-16T08:32+09:00",
   "n": 0,
   "gap": 20
  },
