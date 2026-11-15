@@ -623,7 +623,54 @@
     "at": "2026-11-15T11:46+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-15T11:46+09:00"
+   "i18n_queued": "2026-11-15T11:46+09:00",
+   "i18n": {
+    "at": "2026-11-15T11:48+09:00",
+    "confirm": [
+     "1편·2편의 영어 공식 제목('The Restaurant'·'The Engine Room')은 검색으로 확인하지 못했습니다. 한국어 원문에서 거꾸로 옮긴 제목이니 self-portrait 공식 유튜브에 적힌 제목과 맞춰 주세요.",
+     "일본어 브랜드 표기 'セルフポートレート'와 포토그래퍼 이름 'オリバー・ハドリー・ピアーチ'는 공식 일본어 표기로 확인하지 못했습니다. 그래서 처음 나올 때 괄호 안에 원어를 같이 적었습니다.",
+     "확인한 내용(Hypebae·Bandwagon Asia): 브랜드는 소문자 'self-portrait'로 표기합니다. 시리즈는 4부작으로 서울에서 찍었고, 촬영·연출은 Oliver Hadlee Pearch가 맡았습니다. 2편은 11월 12일 공개, 앞선 시리즈 이름은 'Portraits of a Screen Star'(9월)입니다.",
+     "영어·일본어 표지 제목 'Jisoo's 4-Part Film … Shot in Seoul' · 「ジスがソウルで撮った」는 원문과 똑같이 지수가 직접 찍은 것처럼 읽힐 수 있음. 실제 촬영은 self-portrait·올리버 해들리 피어치이니 원문 제목부터 손볼지 확인",
+     "9월 〈Portraits of a Screen Star〉에도 지수가 나왔는지 원문으로는 알 수 없음. 영어판에서는 'with her'를 지웠으니, 지수가 나왔다면 다시 넣을지 확인",
+     "일본어 · 포토그래퍼 カタカナ 표기 'オリバー・ハドリー・ピアーチ'가 일본 매체에서 쓰는 표기인지 확인하지 못함 (괄호 안 원어 표기는 있음)",
+     "에피소드 영어 제목 'The Restaurant' · 'The Engine Room'이 유튜브 공식 표기와 같은지 확인 필요"
+    ],
+    "review": {
+     "at": "2026-11-15T11:48+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · \"the brand's second film series with her\" → \"the brand's second film series\" — 원문에 없는 '그녀와 함께'가 더해져 있었음",
+      "영어 · 숏폼 캡션 · \"a four-part film series self-portrait shot in Seoul\" → \"a four-part film series shot in Seoul by self-portrait\" — 브랜드명이 소문자라 'series self-portrait'가 한 덩어리로 읽힘"
+     ],
+     "doubt": [
+      "영어·일본어 표지 제목 'Jisoo's 4-Part Film … Shot in Seoul' · 「ジスがソウルで撮った」는 원문과 똑같이 지수가 직접 찍은 것처럼 읽힐 수 있음. 실제 촬영은 self-portrait·올리버 해들리 피어치이니 원문 제목부터 손볼지 확인",
+      "9월 〈Portraits of a Screen Star〉에도 지수가 나왔는지 원문으로는 알 수 없음. 영어판에서는 'with her'를 지웠으니, 지수가 나왔다면 다시 넣을지 확인",
+      "일본어 · 포토그래퍼 カタカナ 표기 'オリバー・ハドリー・ピアーチ'가 일본 매체에서 쓰는 표기인지 확인하지 못함 (괄호 안 원어 표기는 있음)",
+      "에피소드 영어 제목 'The Restaurant' · 'The Engine Room'이 유튜브 공식 표기와 같은지 확인 필요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nBLACKPINK's Jisoo has now appeared in two parts of self-portrait's four-part film series shot in Seoul.\n\nPart 1, 'The Restaurant,' released Nov 10, is set in a crowded restaurant. Everything around her moves fast while Jisoo stays calm. Part 2, 'The Engine Room,' released Nov 12, moves to a space enclosed by metal structures.\n\nPhotographer Oliver Hadlee Pearch shot the films. This is the brand's second film series, following 'Portraits of a Screen Star,' released in September in an audition-tape format.\n\nPart 1: Nov 10, 'The Restaurant' — knit cardigan, lilac lace blouse, gold sequin midi skirt\nPart 2: Nov 12, 'The Engine Room' — cream jacquard sequin mini dress, washed denim shorts\nParts 3 & 4: release dates not yet announced\nWhere to watch: self-portrait official YouTube\n#SENE #JISOO #BLACKPINK #selfportrait #Seoul\n\n[커버]\n소스: \n제목: Jisoo's 4-Part Film|Shot in Seoul, Part 2\n부제: self-portrait 'Portraits of a Woman in Motion' Parts 1 & 2\n출처: \n",
+      "caption": "BLACKPINK's Jisoo has now appeared in two parts of self-portrait's four-part film series shot in Seoul.\n\nPart 1, 'The Restaurant,' released Nov 10, is set in a crowded restaurant. Everything around her moves fast while Jisoo stays calm. Part 2, 'The Engine Room,' released Nov 12, moves to a space enclosed by metal structures.\n\nPhotographer Oliver Hadlee Pearch shot the films. This is the brand's second film series, following 'Portraits of a Screen Star,' released in September in an audition-tape format.\n\nPart 1: Nov 10, 'The Restaurant' — knit cardigan, lilac lace blouse, gold sequin midi skirt\nPart 2: Nov 12, 'The Engine Room' — cream jacquard sequin mini dress, washed denim shorts\nParts 3 & 4: release dates not yet announced\nWhere to watch: self-portrait official YouTube\n#SENE #JISOO #BLACKPINK #selfportrait #Seoul",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=FDTliKAjYlg\n구간: 0:00-0:09\n곡: sequins amid metal\n아티스트: *Jisoo*,\n피처링:\n후킹: \n출처: self-portrait\n자막: 끔",
+      "caption": "BLACKPINK's Jisoo now stands among metal structures.\n\nThis is Part 2, 'The Engine Room,' of 'Portraits of a Woman in Motion,' a four-part film series shot in Seoul by self-portrait. She wears a cream jacquard sequin mini dress with washed denim shorts.\n\nIt follows Part 1, 'The Restaurant,' set in a restaurant and released Nov 10. This clip is taken directly from the film on the brand's official channel.\n\nPart 2 release: Nov 12\nOriginal: self-portrait official YouTube\n#SENE #JISOO #BLACKPINK #selfportrait #Seoul"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nBLACKPINKのジス（JISOO）がソウルで撮影したself-portrait（セルフポートレート）の4部作フィルムが、第2話まで公開されました。\n\n11月10日に公開された第1話「ザ・レストラン」は混み合う食堂が舞台です。周りが目まぐるしく流れていくなか、ジスだけが落ち着いています。11月12日に公開された第2話「ザ・エンジンルーム」では、金属の構造物に囲まれた空間に場所を移しました。\n\n撮影はフォトグラファーのオリバー・ハドリー・ピアーチ（Oliver Hadlee Pearch）が担当しました。9月にオーディションテープ形式で公開された『Portraits of a Screen Star』に続く、2つ目のフィルムシリーズです。\n\n第1話：11月10日「ザ・レストラン」— ニットカーディガン・ライラックのレースブラウス・ゴールドのスパンコールミディスカート\n第2話：11月12日「ザ・エンジンルーム」— クリームのジャカードスパンコールミニドレス・ウォッシュドデニムショーツ\n第3・4話：公開日未発表\n視聴：self-portrait公式YouTube\n#SENE #ジス #JISOO #BLACKPINK #セルフポートレート\n\n[커버]\n소스: \n제목: ジスがソウルで撮った|4部作フィルム第2弾\n부제: self-portrait『Portraits of a Woman in Motion』第1・2話\n출처: \n",
+      "caption": "BLACKPINKのジス（JISOO）がソウルで撮影したself-portrait（セルフポートレート）の4部作フィルムが、第2話まで公開されました。\n\n11月10日に公開された第1話「ザ・レストラン」は混み合う食堂が舞台です。周りが目まぐるしく流れていくなか、ジスだけが落ち着いています。11月12日に公開された第2話「ザ・エンジンルーム」では、金属の構造物に囲まれた空間に場所を移しました。\n\n撮影はフォトグラファーのオリバー・ハドリー・ピアーチ（Oliver Hadlee Pearch）が担当しました。9月にオーディションテープ形式で公開された『Portraits of a Screen Star』に続く、2つ目のフィルムシリーズです。\n\n第1話：11月10日「ザ・レストラン」— ニットカーディガン・ライラックのレースブラウス・ゴールドのスパンコールミディスカート\n第2話：11月12日「ザ・エンジンルーム」— クリームのジャカードスパンコールミニドレス・ウォッシュドデニムショーツ\n第3・4話：公開日未発表\n視聴：self-portrait公式YouTube\n#SENE #ジス #JISOO #BLACKPINK #セルフポートレート",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=FDTliKAjYlg\n구간: 0:00-0:09\n곡: 金属空間にスパンコール\n아티스트: *ジス*、\n피처링:\n후킹: \n출처: self-portrait\n자막: 끔",
+      "caption": "BLACKPINKのジス（JISOO）が、今度は金属の構造物の間に立ちました。\n\nself-portrait（セルフポートレート）がソウルで撮影した4部作フィルム『Portraits of a Woman in Motion』の第2話「ザ・エンジンルーム」です。クリームのジャカードスパンコールミニドレスに、ウォッシュドデニムショーツを合わせています。\n\n11月10日に公開された、食堂が舞台の第1話「ザ・レストラン」に続く場面です。映像はブランド公式チャンネルのフィルムをそのまま使用しています。\n\n第2話公開：11月12日\n元の映像：self-portrait公式YouTube\n#SENE #ジス #JISOO #BLACKPINK #セルフポートレート"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -871,10 +918,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-15T11:46+09:00"
+  "at": "2026-11-15T11:48+09:00"
  },
  "queue": {
-  "next": "2026-11-15T11:48+09:00",
+  "next": "2026-11-15T11:50+09:00",
   "n": 0,
   "gap": 20
  },
