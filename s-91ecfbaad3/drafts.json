@@ -800,7 +800,42 @@
    },
    "corner_name": "정리",
    "corner_no": 1,
-   "i18n_queued": "2026-11-15T17:45+09:00"
+   "i18n_queued": "2026-11-15T17:45+09:00",
+   "i18n": {
+    "at": "2026-11-15T17:47+09:00",
+    "confirm": [
+     "더현대 앱 '더현대 하이'의 공식 영어·일본어 표기(The Hyundai Hi / ザ・ヒョンデ ハイ)는 확인하지 못함 — 앱 스토어 표기를 확인할 것",
+     "일본어 캡션 실용 정보 줄의 「本店（明洞）」은 한국어 캡션에는 없고 본문 칸에만 있는 정보 — 사실은 같으나 원문 캡션과 맞출지 확인할 것",
+     "날짜·요일(10/30 금 · 11/10 화 · 11/19 목 · 11/20 금 · 11/24 화 · 12/7 월 · 12/31 목 · 2027/1/3 일)은 원문과 같고 달력과도 맞음. 원문 사실 자체는 올리기 전에 각 백화점 공지로 다시 확인할 것"
+    ],
+    "review": {
+     "at": "2026-11-15T17:47+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · Each market builds a different street → Each market is set in a different streetscape — 직역투, 시장이 거리를 '짓는다'는 어색한 연어",
+      "영어 · 롯데 본문 · World Park outdoor Lawn Plaza, Jamsil → Outdoor lawn plaza, World Park, Jamsil — 대소문자 섞인 어순이 고유명사처럼 읽힘",
+      "일본어 · 더현대 본문 · ザ・ヒョンデ ハイアプリで → アプリ「ザ・ヒョンデ ハイ」で — 앱 이름이 「ハイアプリ」로 붙어 읽힘"
+     ],
+     "doubt": [
+      "더현대 앱 '더현대 하이'의 공식 영어·일본어 표기(The Hyundai Hi / ザ・ヒョンデ ハイ)는 확인하지 못함 — 앱 스토어 표기를 확인할 것",
+      "일본어 캡션 실용 정보 줄의 「本店（明洞）」은 한국어 캡션에는 없고 본문 칸에만 있는 정보 — 사실은 같으나 원문 캡션과 맞출지 확인할 것",
+      "날짜·요일(10/30 금 · 11/10 화 · 11/19 목 · 11/20 금 · 11/24 화 · 12/7 월 · 12/31 목 · 2027/1/3 일)은 원문과 같고 달력과도 맞음. 원문 사실 자체는 올리기 전에 각 백화점 공지로 다시 확인할 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nWhen Shinsegae's main store opens on Nov 24, all three of Seoul's department store Christmas markets will be open.\n\nThe first to open was Shinsegae Department Store's Gangnam branch, on Oct 30. The Hyundai Seoul (@thehyundai_seoul) follows on Nov 10, Lotte Town in Jamsil on Nov 19, and Shinsegae's main store on Nov 24.\n\nEach market is set in a different streetscape. The Hyundai recreates the red-brick streets of 1980s–90s New York, while Lotte has set up a 19th-century English Christmas market with a 17-meter clock tower. Two reservation dates fall this week.\n\nThe Hyundai Seoul: Nov 10 (Tue) – Dec 31 (Thu) · Sounds Forest, 5F · second pre-booking round Nov 19 (Thu)\nLotte Town: Nov 19 (Thu) – Jan 3, 2027 (Sun) · World Park Lawn Plaza, Jamsil · December ticket booking Nov 20 (Fri)\nShinsegae: Gangnam branch opened Oct 30 · Main store opens Nov 24 (Tue)\n#SENE #SeoulChristmasMarket #TheHyundaiSeoul #LotteWorldTower #Jamsil #SeoulTravel\n\n[커버]\n소스: \n제목: Seoul Christmas Markets|By Opening Date\n부제: Shinsegae · The Hyundai Seoul · Lotte Town — dates, venues, reservations\n출처: \n\n[슬라이드]\n소스: \n소제목: Shinsegae Holiday Market — Gangnam\n본문: Opened Oct 30 (Fri)|Shinsegae Department Store Gangnam, Seocho-gu, Seoul|Main store (Myeong-dong) opens Nov 24 (Tue)\n출처: \n\n[슬라이드]\n소스: \n소제목: The Hyundai Seoul — Christmas in New York City\n본문: Nov 10 (Tue) – Dec 31 (Thu)|Sounds Forest, 5F|Pre-booking via The Hyundai Hi app · second round Nov 19 (Thu)|Walk-in waitlist by QR on 2F–4F\n출처: \n\n[슬라이드]\n소스: \n소제목: Lotte Town Christmas Market\n본문: Nov 19 (Thu) – Jan 3, 2027 (Sun)|Outdoor lawn plaza, World Park, Jamsil|Lotte Department Store Mall · Naver Booking (general admission free)|December tickets open Nov 20 (Fri) · year-end tickets Dec 7 (Mon)\n출처: \n",
+      "caption": "When Shinsegae's main store opens on Nov 24, all three of Seoul's department store Christmas markets will be open.\n\nThe first to open was Shinsegae Department Store's Gangnam branch, on Oct 30. The Hyundai Seoul (@thehyundai_seoul) follows on Nov 10, Lotte Town in Jamsil on Nov 19, and Shinsegae's main store on Nov 24.\n\nEach market is set in a different streetscape. The Hyundai recreates the red-brick streets of 1980s–90s New York, while Lotte has set up a 19th-century English Christmas market with a 17-meter clock tower. Two reservation dates fall this week.\n\nThe Hyundai Seoul: Nov 10 (Tue) – Dec 31 (Thu) · Sounds Forest, 5F · second pre-booking round Nov 19 (Thu)\nLotte Town: Nov 19 (Thu) – Jan 3, 2027 (Sun) · World Park Lawn Plaza, Jamsil · December ticket booking Nov 20 (Fri)\nShinsegae: Gangnam branch opened Oct 30 · Main store opens Nov 24 (Tue)\n#SENE #SeoulChristmasMarket #TheHyundaiSeoul #LotteWorldTower #Jamsil #SeoulTravel",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\n新世界百貨店本店が11月24日にオープンすると、ソウルの百貨店クリスマスマーケット3か所がすべてそろいます。\n\n最初にオープンしたのは10月30日の新世界百貨店 江南店（カンナム）です。続いてザ・ヒョンデ ソウル（@thehyundai_seoul）が11月10日、蚕室（チャムシル）のロッテタウンが11月19日、新世界本店が11月24日にオープンします。\n\n再現した街並みはそれぞれ異なります。ザ・ヒョンデは1980〜90年代ニューヨークの赤レンガの街を、ロッテは19世紀イギリスのクリスマスマーケットと高さ17mの時計台をつくりました。今週押さえておきたい予約日は2つです。\n\nザ・ヒョンデ ソウル：11月10日（火）〜12月31日（木）・5階 サウンズフォレスト・第2次事前予約 11月19日（木）\nロッテタウン：11月19日（木）〜2027年1月3日（日）・ソウル・蚕室ワールドパーク芝生広場・12月入場券予約 11月20日（金）\n新世界：江南店 10月30日・本店（明洞）11月24日（火）オープン\n#SENE #韓国旅行 #ソウルクリスマス #ザヒョンデソウル #ロッテワールドタワー #蚕室\n\n[커버]\n소스: \n제목: ソウル クリスマスマーケット|オープン日順まとめ\n부제: 新世界 / ザ・ヒョンデ ソウル / ロッテタウン — 期間・場所・予約\n출처: \n\n[슬라이드]\n소스: \n소제목: 新世界ホリデーマーケット — 江南店\n본문: 10月30日（金）オープン|ソウル・瑞草区 新世界百貨店 江南店（カンナム）|本店（明洞）は11月24日（火）オープン\n출처: \n\n[슬라이드]\n소스: \n소제목: ザ・ヒョンデ ソウル — Christmas in New York City\n본문: 11月10日（火）〜12月31日（木）|5階 サウンズフォレスト|アプリ「ザ・ヒョンデ ハイ」で事前予約・第2次予約は11月19日（木）|当日待機は2〜4階でQR受付\n출처: \n\n[슬라이드]\n소스: \n소제목: ロッテタウン クリスマスマーケット\n본문: 11月19日（木）〜2027年1月3日（日）|蚕室（チャムシル）ワールドパーク屋外芝生広場|ロッテ百貨店モール・NAVER予約（一般入場券は無料）|12月入場券の予約は11月20日（金）・年末入場券は12月7日（月）\n출처: \n",
+      "caption": "新世界百貨店本店が11月24日にオープンすると、ソウルの百貨店クリスマスマーケット3か所がすべてそろいます。\n\n最初にオープンしたのは10月30日の新世界百貨店 江南店（カンナム）です。続いてザ・ヒョンデ ソウル（@thehyundai_seoul）が11月10日、蚕室（チャムシル）のロッテタウンが11月19日、新世界本店が11月24日にオープンします。\n\n再現した街並みはそれぞれ異なります。ザ・ヒョンデは1980〜90年代ニューヨークの赤レンガの街を、ロッテは19世紀イギリスのクリスマスマーケットと高さ17mの時計台をつくりました。今週押さえておきたい予約日は2つです。\n\nザ・ヒョンデ ソウル：11月10日（火）〜12月31日（木）・5階 サウンズフォレスト・第2次事前予約 11月19日（木）\nロッテタウン：11月19日（木）〜2027年1月3日（日）・ソウル・蚕室ワールドパーク芝生広場・12月入場券予約 11月20日（金）\n新世界：江南店 10月30日・本店（明洞）11月24日（火）オープン\n#SENE #韓国旅行 #ソウルクリスマス #ザヒョンデソウル #ロッテワールドタワー #蚕室",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1048,10 +1083,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-15T17:45+09:00"
+  "at": "2026-11-15T17:47+09:00"
  },
  "queue": {
-  "next": "2026-11-15T17:47+09:00",
+  "next": "2026-11-15T17:49+09:00",
   "n": 0,
   "gap": 20
  },
