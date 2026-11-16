@@ -656,7 +656,56 @@
     "at": "2026-11-16T17:46+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-16T17:47+09:00"
+   "i18n_queued": "2026-11-16T17:47+09:00",
+   "i18n": {
+    "at": "2026-11-16T17:49+09:00",
+    "confirm": [
+     "검색으로는 'SNOW with MINITEEN' 공지를 못 찾았습니다. 그래서 기간(11/20~30)·예약(11/17 11시 위버스)·굿즈 12종은 원문만 믿고 옮겼으니, 올리기 전에 위버스 공지로 다시 확인해 주세요.",
+     "일본 쪽에서도 'MINITEEN' 을 영문 그대로 씁니다(다이마루 팝업 보도). 그래서 일본어판은 처음 한 번만 「MINITEEN（ミニティーン）」 으로 적었는데, 공식 카타카나 표기는 확인하지 못했습니다.",
+     "원문 장소가 '성수동' 까지만 있어서 번역도 동 이름에서 멈췄습니다. 지난 홀리데이 팝업은 SPACE S1 이었는데, 이번 장소가 공개되면 장소 줄에 넣는 게 좋겠습니다.",
+     "숏폼 영어판은 세 칸 합 40자를 맞추려고 가운데 칸('눈 마을을 엽니다')을 비웠습니다. 일본어판은 '雪の村を。' 로 줄여서 남겼습니다.",
+     "'지난해 홀리데이 팝업 첫 주 전 회차 마감' 은 원문에 있던 내용이라 그대로 옮겼습니다. 이 문장의 근거는 검색으로 따로 확인하지 못했습니다.",
+     "일본어 · 숏폼 후킹 '*MINITEEN*が聖水に'는 12자라 한 줄 11자 기준을 1자 넘음 (세 칸 합은 24자로 한도 안). 화면에서 잘리는지 확인 필요",
+     "MINITEEN 일본어 읽기 'ミニティーン'은 일반적인 표기로 썼고 일본 공식 표기는 확인하지 못함",
+     "날짜와 요일(11/17 화 · 11/20 금 · 11/30 월)은 2026년 달력과 맞춰 봄. 팝업 일정 자체는 원문 기준이라 올리기 전 공식 공지에서 다시 확인"
+    ],
+    "review": {
+     "at": "2026-11-16T17:49+09:00",
+     "fixes": [
+      "영어 · 캡션·숏폼 캡션 첫 문장 · MINITEEN, SEVENTEEN's official characters, is → SEVENTEEN's official characters, MINITEEN, are — 캐릭터는 여럿(복수)인데 동사가 단수라 어긋남",
+      "영어 · 캡션 · every first-week time slot was booked up → every first-week visit slot was fully booked — 원문 '방문 예약 전 회차 마감'에 더 맞고 더 자연스러움",
+      "일본어 · 캡션 · 雪に覆われた村として作られます → 雪に覆われた村をテーマに展開されます — 직역투",
+      "일본어 · 캡션 · 全回満了 → 全回満席 — 일본어에서 잘 쓰지 않는 연어"
+     ],
+     "doubt": [
+      "일본어 · 숏폼 후킹 '*MINITEEN*が聖水に'는 12자라 한 줄 11자 기준을 1자 넘음 (세 칸 합은 24자로 한도 안). 화면에서 잘리는지 확인 필요",
+      "MINITEEN 일본어 읽기 'ミニティーン'은 일반적인 표기로 썼고 일본 공식 표기는 확인하지 못함",
+      "날짜와 요일(11/17 화 · 11/20 금 · 11/30 월)은 2026년 달력과 맞춰 봄. 팝업 일정 자체는 원문 기준이라 올리기 전 공식 공지에서 다시 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nSEVENTEEN's official characters, MINITEEN, are opening a winter pop-up in Seongsu-dong, Seoul.\n\n'SNOW with MINITEEN' is MINITEEN's fourth pop-up. It follows last year's house party and holiday pop-ups and this May's ice cream pop-up, and this time the space is set up as a snow-covered village. At last year's holiday pop-up, every first-week visit slot was fully booked.\n\nThere are 12 winter merchandise items, including hand-warmer cushions, keyrings, bags, pouches and can badges. Advance booking opens on Weverse on Nov 17 at 11 a.m.\n\nDates: Nov 20 (Fri) – Nov 30 (Mon)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nReservations: Advance booking on Weverse from Nov 17 (Tue), 11 a.m.\n#SENE #SEVENTEEN #MINITEEN #SeoulPopup #Seongsu #CARAT\n\n[커버]\n소스: \n제목: SEVENTEEN's MINITEEN|Winter Pop-up in Seongsu\n부제: Nov 20–30 · Booking Nov 17, 11 a.m. on Weverse\n출처: \n",
+      "caption": "SEVENTEEN's official characters, MINITEEN, are opening a winter pop-up in Seongsu-dong, Seoul.\n\n'SNOW with MINITEEN' is MINITEEN's fourth pop-up. It follows last year's house party and holiday pop-ups and this May's ice cream pop-up, and this time the space is set up as a snow-covered village. At last year's holiday pop-up, every first-week visit slot was fully booked.\n\nThere are 12 winter merchandise items, including hand-warmer cushions, keyrings, bags, pouches and can badges. Advance booking opens on Weverse on Nov 17 at 11 a.m.\n\nDates: Nov 20 (Fri) – Nov 30 (Mon)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nReservations: Advance booking on Weverse from Nov 17 (Tue), 11 a.m.\n#SENE #SEVENTEEN #MINITEEN #SeoulPopup #Seongsu #CARAT",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=dIolrmEUAKI\n구간: 0:00-0:20\n곡: Book Nov 17, 11am\n아티스트: \n피처링:\n후킹: *MINITEEN* in Seongsu.\n출처: SEVENTEEN\n자막: 끔",
+      "caption": "SEVENTEEN's official characters, MINITEEN, are coming to Seongsu-dong, Seoul, with the winter pop-up 'SNOW with MINITEEN'.\n\nThe video is a short film SEVENTEEN's official channel posted ahead of the pop-up. This is MINITEEN's fourth pop-up, after last year's house party and holiday pop-ups and this May's ice cream pop-up, and it is themed as a snow-covered village.\n\nThere are 12 winter merchandise items, including hand-warmer cushions, keyrings, bags, pouches and can badges.\n\nDates: Nov 20 (Fri) – Nov 30 (Mon)\nLocation: Seongsu-dong, Seongdong-gu, Seoul\nReservations: Advance booking on Weverse from Nov 17 (Tue), 11 a.m.\n#SENE #SEVENTEEN #MINITEEN #SeoulPopup #Seongsu #CARAT"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nSEVENTEENの公式キャラクターMINITEEN（ミニティーン）が、ソウル・聖水洞（ソンスドン）で冬のポップアップを開きます。\n\n「SNOW with MINITEEN」はMINITEENにとって4回目のポップアップです。昨年のハウスパーティーとホリデー、今年5月のアイスクリームに続き、今回は雪に覆われた村をテーマに展開されます。昨年のホリデーポップアップでは、初週の来場予約が全回満席となりました。\n\nハンドウォーマークッション、キーリング、バッグ、ポーチ、缶バッジなど、冬のグッズ12種が登場します。来場の事前予約は17日午前11時にWeverseで始まります。\n\n期間：11月20日（金）〜11月30日（月）\n場所：ソウル・城東区（ソンドング）聖水洞（ソンスドン）\n予約：11月17日（火）午前11時 Weverseで事前予約\n#SENE #SEVENTEEN #MINITEEN #韓国旅行 #聖水 #セブチ\n\n[커버]\n소스: \n제목: SEVENTEENのMINITEEN|聖水で冬のポップアップ\n부제: 11月20日〜30日・予約は17日午前11時 Weverse\n출처: \n",
+      "caption": "SEVENTEENの公式キャラクターMINITEEN（ミニティーン）が、ソウル・聖水洞（ソンスドン）で冬のポップアップを開きます。\n\n「SNOW with MINITEEN」はMINITEENにとって4回目のポップアップです。昨年のハウスパーティーとホリデー、今年5月のアイスクリームに続き、今回は雪に覆われた村をテーマに展開されます。昨年のホリデーポップアップでは、初週の来場予約が全回満席となりました。\n\nハンドウォーマークッション、キーリング、バッグ、ポーチ、缶バッジなど、冬のグッズ12種が登場します。来場の事前予約は17日午前11時にWeverseで始まります。\n\n期間：11月20日（金）〜11月30日（月）\n場所：ソウル・城東区（ソンドング）聖水洞（ソンスドン）\n予約：11月17日（火）午前11時 Weverseで事前予約\n#SENE #SEVENTEEN #MINITEEN #韓国旅行 #聖水 #セブチ",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=dIolrmEUAKI\n구간: 0:00-0:20\n곡: 予約17日11時\n아티스트: 雪の村を。\n피처링:\n후킹: *MINITEEN*が聖水に\n출처: SEVENTEEN\n자막: 끔",
+      "caption": "SEVENTEENの公式キャラクターMINITEEN（ミニティーン）が、冬のポップアップ「SNOW with MINITEEN」でソウル・聖水洞（ソンスドン）にやって来ます。\n\n映像は、SEVENTEENの公式チャンネルがポップアップに先立って公開した短いフィルムです。今回は昨年のハウスパーティーとホリデー、今年5月のアイスクリームに続く4回目のポップアップで、雪に覆われた村がコンセプトです。\n\nハンドウォーマークッション、キーリング、バッグ、ポーチ、缶バッジなど、冬のグッズ12種が登場します。\n\n期間：11月20日（金）〜11月30日（月）\n場所：ソウル・城東区（ソンドング）聖水洞（ソンスドン）\n予約：11月17日（火）午前11時 Weverseで事前予約\n#SENE #SEVENTEEN #MINITEEN #韓国旅行 #聖水 #セブチ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -904,10 +953,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-16T17:47+09:00"
+  "at": "2026-11-16T17:49+09:00"
  },
  "queue": {
-  "next": "2026-11-16T17:49+09:00",
+  "next": "2026-11-16T17:51+09:00",
   "n": 0,
   "gap": 20
  },
