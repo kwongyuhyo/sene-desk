@@ -440,7 +440,57 @@
     "why": "샤넬 2년 만의 홀리데이 팝업 21일 성수 — 이번 주 줄 설 곳, 미리 저장용",
     "at": "2026-11-16T11:41+09:00"
    },
-   "i18n_queued": "2026-11-16T11:42+09:00"
+   "i18n_queued": "2026-11-16T11:42+09:00",
+   "i18n": {
+    "at": "2026-11-16T11:44+09:00",
+    "confirm": [
+     "제품명 공식 표기 미확인: 'N°5 Eau de Parfum Spray (Winter Case)'·「N°5 オードゥ パルファム スプレー（ウィンターケース）」은 한국어 이름을 옮긴 것 — 샤넬 영어·일본어 공식 사이트에서 이 홀리데이 제품명을 찾지 못함",
+     "'La Crème Main' 한정판은 2026 홀리데이 한정으로 확인됨(세포라 프랑스). 'Holiday Edition'·「ホリデー エディション」이라는 이름 표기는 확인 못 함",
+     "숏폼 영어 아티스트 칸 '*CHANEL* holiday pop-up'은 별표를 빼고 21자라 20자 한도를 1자 넘음. 곡 칸은 '2년 만에'를 'returns'로 줄였고, 2년 만이라는 사실은 부제와 캡션에 남아 있음",
+     "숏폼 일본어는 11자 한도 때문에 '홀리데이'를 빼고 「*シャネル*ポップアップ、」로 씀",
+     "주소 영어·일본어 표기(Seongsui-ro 7ga-gil · 聖水二路7ガギル)는 도로명을 로마자·카타카나로 옮긴 것 — 지도 앱 표기와 한 번 대조 필요",
+     "영어 · 숏폼 아티스트 칸 '*CHANEL* holiday pop-up' 은 별표를 빼고 21자라 한 칸 20자 기준을 1자 넘음 (세 칸 합 39자로 40자 안이라 그대로 둠). 화면에서 잘리는지 봐야 함",
+     "영어 · 숏폼 곡 칸 'returns to Seongsu' 에는 원문의 '2년 만에'가 빠져 있음. 길이 때문에 그대로 둠",
+     "일본어 · 숏폼 아티스트 칸에서 '홀리데이(ホリデー)'가 빠짐. 길이 때문이라 그대로 둠",
+     "일본어 · 제품명 「N°5 オードゥ パルファム スプレー（ウィンターケース）」 · 샤넬 일본 공식몰은 스프레이를 「ヴァポリザター」로 적는 일이 많음. 이번 한정판의 일본 공식 이름을 확인 못 함",
+     "영어 · 표지 'CHANEL Opens a Winter Chalet' 은 진짜 산장을 연다는 뜻으로 읽힐 여지가 조금 있음 (부제에 pop-up이 있어 그대로 둠)"
+    ],
+    "review": {
+     "at": "2026-11-16T11:44+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · with snow falling outside → and a scene of falling snow — 원문에 없는 'outside(바깥)'가 붙어 있었음"
+     ],
+     "doubt": [
+      "영어 · 숏폼 아티스트 칸 '*CHANEL* holiday pop-up' 은 별표를 빼고 21자라 한 칸 20자 기준을 1자 넘음 (세 칸 합 39자로 40자 안이라 그대로 둠). 화면에서 잘리는지 봐야 함",
+      "영어 · 숏폼 곡 칸 'returns to Seongsu' 에는 원문의 '2년 만에'가 빠져 있음. 길이 때문에 그대로 둠",
+      "일본어 · 숏폼 아티스트 칸에서 '홀리데이(ホリデー)'가 빠짐. 길이 때문이라 그대로 둠",
+      "일본어 · 제품명 「N°5 オードゥ パルファム スプレー（ウィンターケース）」 · 샤넬 일본 공식몰은 스프레이를 「ヴァポリザター」로 적는 일이 많음. 이번 한정판의 일본 공식 이름을 확인 못 함",
+      "영어 · 표지 'CHANEL Opens a Winter Chalet' 은 진짜 산장을 연다는 뜻으로 읽힐 여지가 조금 있음 (부제에 pop-up이 있어 그대로 둠)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nCHANEL is opening a holiday pop-up for the first time in two years.\n\nThis year's theme is St. Moritz, Switzerland, where Gabrielle Chanel spent her winters. The brand says the Seongsu-dong space recreates a chalet on a snow-covered mountain and a scene of falling snow.\n\nFragrance is at the center of it. Visitors can browse CHANEL fragrances inside the chalet-style space. Holiday limited editions are also on display, including the 'N°5 Eau de Parfum Spray (Winter Case)', whose stopper wears a winter hat, and the 'La Crème Main Holiday Edition'.\n\nDates: Nov 21 (Sat) – Dec 31 (Thu)\nLocation: 9 Seongsui-ro 7ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: 11 a.m. – 8 p.m. (last entry 7:30 p.m.)\nReservations: Advance booking on the CHANEL holiday pop-up reservation site (walk-ins welcome)\n\n#SENE #CHANEL #SeoulPopup #Seongsu #SeongsuPopup\n\n[커버]\n소스: \n제목: CHANEL Opens a Winter|Chalet in Seongsu\n부제: Nov 21 – Dec 31, its first holiday pop-up in two years\n출처: \n",
+      "caption": "CHANEL is opening a holiday pop-up for the first time in two years.\n\nThis year's theme is St. Moritz, Switzerland, where Gabrielle Chanel spent her winters. The brand says the Seongsu-dong space recreates a chalet on a snow-covered mountain and a scene of falling snow.\n\nFragrance is at the center of it. Visitors can browse CHANEL fragrances inside the chalet-style space. Holiday limited editions are also on display, including the 'N°5 Eau de Parfum Spray (Winter Case)', whose stopper wears a winter hat, and the 'La Crème Main Holiday Edition'.\n\nDates: Nov 21 (Sat) – Dec 31 (Thu)\nLocation: 9 Seongsui-ro 7ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: 11 a.m. – 8 p.m. (last entry 7:30 p.m.)\nReservations: Advance booking on the CHANEL holiday pop-up reservation site (walk-ins welcome)\n\n#SENE #CHANEL #SeoulPopup #Seongsu #SeongsuPopup",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=7SfFKOG9Pe0\n구간: 0:20-0:38\n곡: returns to Seongsu\n아티스트: *CHANEL* holiday pop-up\n피처링:\n후킹: \n출처: CHANEL\n자막: 끔",
+      "caption": "CHANEL is opening a holiday pop-up for the first time in two years.\n\nThe video is 'The CHANEL winter getaway', the holiday film CHANEL posted on its official channels last month. Its winter scenery, moving from the lights of Paris to snow-covered mountains, comes to Seongsu-dong this Saturday.\n\nThe pop-up's theme is St. Moritz, Switzerland, where Gabrielle Chanel spent her winters. The brand says it has recreated a mountain chalet and falling snow in the space, where visitors can browse fragrances and holiday limited editions.\n\nDates: Nov 21 (Sat) – Dec 31 (Thu)\nLocation: 9 Seongsui-ro 7ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: 11 a.m. – 8 p.m. (last entry 7:30 p.m.)\nReservations: Advance booking on the CHANEL holiday pop-up reservation site (walk-ins welcome)\n\n#SENE #CHANEL #SeoulPopup #Seongsu #SeongsuPopup"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nシャネル（CHANEL）が2年ぶりにホリデーポップアップを開きます。\n\n今回のテーマは、ガブリエル・シャネルが毎年冬を過ごしたスイスのサンモリッツです。ブランドによると、聖水洞（ソンスドン）の空間に、雪に覆われた山の山荘と雪の降る風景を再現したといいます。\n\n主役は香水です。山荘のようにしつらえた空間でシャネルの香水を見て回ることができ、ストッパーに冬の帽子をかぶせた「N°5 オードゥ パルファム スプレー（ウィンターケース）」や「ラ クレーム マン ホリデー エディション」などのホリデー限定品も並びます。\n\n期間：11月21日（土）〜12月31日（木）\n場所：ソウル・聖水洞（ソンスドン）　ソウル特別市城東区聖水二路7ガギル 9\n営業時間：午前11時〜午後8時（最終入場 午後7時30分）\n予約：シャネル ホリデーポップアップ予約サイトで事前予約（当日訪問も可）\n\n#SENE #シャネル #韓国旅行 #聖水 #ソウルポップアップ\n\n[커버]\n소스: \n제목: シャネル、聖水に|冬の山荘ポップアップ\n부제: 11月21日〜12月31日、2年ぶりのホリデーポップアップ\n출처: \n",
+      "caption": "シャネル（CHANEL）が2年ぶりにホリデーポップアップを開きます。\n\n今回のテーマは、ガブリエル・シャネルが毎年冬を過ごしたスイスのサンモリッツです。ブランドによると、聖水洞（ソンスドン）の空間に、雪に覆われた山の山荘と雪の降る風景を再現したといいます。\n\n主役は香水です。山荘のようにしつらえた空間でシャネルの香水を見て回ることができ、ストッパーに冬の帽子をかぶせた「N°5 オードゥ パルファム スプレー（ウィンターケース）」や「ラ クレーム マン ホリデー エディション」などのホリデー限定品も並びます。\n\n期間：11月21日（土）〜12月31日（木）\n場所：ソウル・聖水洞（ソンスドン）　ソウル特別市城東区聖水二路7ガギル 9\n営業時間：午前11時〜午後8時（最終入場 午後7時30分）\n予約：シャネル ホリデーポップアップ予約サイトで事前予約（当日訪問も可）\n\n#SENE #シャネル #韓国旅行 #聖水 #ソウルポップアップ",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=7SfFKOG9Pe0\n구간: 0:20-0:38\n곡: 2年ぶりに聖水へ\n아티스트: *シャネル*ポップアップ、\n피처링:\n후킹: \n출처: CHANEL\n자막: 끔",
+      "caption": "シャネル（CHANEL）が2年ぶりにホリデーポップアップを開きます。\n\n映像は、シャネルが先月公式チャンネルで公開したホリデーフィルム『The CHANEL winter getaway』です。パリの灯りから雪に覆われた山へと続くこの冬の風景が、今週土曜日、聖水洞（ソンスドン）にやって来ます。\n\nポップアップのテーマは、ガブリエル・シャネルが毎年冬を過ごしたスイスのサンモリッツです。ブランドによると、雪山の山荘と雪の降る風景を空間に再現し、その中で香水やホリデー限定品を見て回れるようにしたといいます。\n\n期間：11月21日（土）〜12月31日（木）\n場所：ソウル・聖水洞（ソンスドン）　ソウル特別市城東区聖水二路7ガギル 9\n営業時間：午前11時〜午後8時（最終入場 午後7時30分）\n予約：シャネル ホリデーポップアップ予約サイトで事前予約（当日訪問も可）\n\n#SENE #シャネル #韓国旅行 #聖水 #ソウルポップアップ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -688,10 +738,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-16T11:42+09:00"
+  "at": "2026-11-16T11:44+09:00"
  },
  "queue": {
-  "next": "2026-11-16T11:44+09:00",
+  "next": "2026-11-16T11:46+09:00",
   "n": 0,
   "gap": 20
  },
