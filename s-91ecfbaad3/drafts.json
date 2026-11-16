@@ -88,7 +88,44 @@
    },
    "corner_name": "정리",
    "corner_no": 1,
-   "i18n_queued": "2026-11-17T08:29+09:00"
+   "i18n_queued": "2026-11-17T08:29+09:00",
+   "i18n": {
+    "at": "2026-11-17T08:30+09:00",
+    "confirm": [
+     "신세계 강남점 '파미에스테이션'의 영어 표기는 기사에서 Famille Station 으로 확인했습니다. 일본어 공식 표기는 찾지 못해 カタカナ 'ファミエステーション'으로 쓰고 처음 한 번 괄호 안에 원어를 붙였습니다.",
+     "'포켓가든'의 영어 Pocket Garden · 일본어 ポケットガーデン 은 확인 없이 옮긴 표기입니다.",
+     "캡션의 '오늘'은 11월 17일(화) 기준입니다(TXT 팝업 오픈 · 미니틴 예약 오픈일). 올리는 날이 바뀌면 '오늘'을 고쳐야 합니다.",
+     "해시태그는 한국어판과 같은 숫자를 맞추려다 기준인 4~5개보다 하나 많은 6개가 됐습니다(#SENE 포함). 필요하면 하나를 빼 주세요.",
+     "캡션의 'today/今日'(TXT 팝업 개장 · 미니틴 예약 오픈)은 11월 17일 게시를 전제로 함 — 게시일이 바뀌면 세 언어 모두 고쳐야 함",
+     "FAMILLE STATION 의 일본어 가나 표기는 공식 일본어 표기를 확인하지 못함 — 올리기 전에 신세계 일본어 안내가 있는지 확인할 것"
+    ],
+    "review": {
+     "at": "2026-11-17T08:30+09:00",
+     "fixes": [
+      "일본어 · ATEEZ 본문 칸 · ファミエステーション（파미에스테이션） → FAMILLE STATION（ファミエステーション） — 한글이 남아 있었음, 신세계 공식 영문 표기로 바꿈 (캡션 실용 정보 줄도 FAMILLE STATION 으로 맞춤)",
+      "일본어 · 표지 제목 · 今週開いている → 今週開催中の — 직역투, 행사에는 開催中이 자연스러움",
+      "영어 · 캡션 셋째 단락 · All three run on reservations first → At all three, reservations come first — 어색한 연어"
+     ],
+     "doubt": [
+      "캡션의 'today/今日'(TXT 팝업 개장 · 미니틴 예약 오픈)은 11월 17일 게시를 전제로 함 — 게시일이 바뀌면 세 언어 모두 고쳐야 함",
+      "FAMILLE STATION 의 일본어 가나 표기는 공식 일본어 표기를 확인하지 못함 — 올리기 전에 신세계 일본어 안내가 있는지 확인할 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nThree official idol pop-ups are open in Seoul this week.\n\nTOMORROW X TOGETHER (@txt_bighit) opens its pop-up today at the HYBE building in Yongsan, and it closes on Sunday the 22nd, the same day as the ATEEZ (@ateez_official_) pop-up at Shinsegae Department Store Gangnam. The winter pop-up for MINITEEN, SEVENTEEN's characters, follows on Friday the 20th in Seongsu-dong.\n\nAt all three, reservations come first. Visit reservations for the MINITEEN pop-up open on Weverse today at 11 a.m., and the TOMORROW X TOGETHER pop-up may admit visitors without a reservation depending on conditions on site.\n\nATEEZ: Nov 13 (Fri) – Nov 22 (Sun) · Pocket Garden, 1F Famille Station, Shinsegae Department Store Gangnam · Advance and on-site reservations\nTOMORROW X TOGETHER: Nov 17 (Tue) – Nov 22 (Sun) · 11:00–20:00 · 1F HYBE Building, 42 Hangang-daero, Yongsan-gu, Seoul · Advance reservations on Weverse\nMINITEEN: Nov 20 (Fri) – Nov 30 (Mon) · Seongsu-dong, Seongdong-gu, Seoul · Weverse reservations open Nov 17, 11 a.m.\n#SENE #KpopPopup #SeoulPopup #TXT #ATEEZ #MINITEEN\n\n[커버]\n소스: \n제목: Official Idol Pop-ups|Open This Week\n부제: ATEEZ · TOMORROW X TOGETHER · MINITEEN — by opening date\n출처: \n\n[슬라이드]\n소스: \n소제목: ATEEZ|GOLDEN HOUR : Part.6 Pop-up\n본문: Nov 13 (Fri) – Nov 22 (Sun)|Pocket Garden, 1F Famille Station, Shinsegae Department Store Gangnam|Advance and on-site reservations\n출처: \n\n[슬라이드]\n소스: \n소제목: TOMORROW X TOGETHER|PERFECT STORM Pop-up\n본문: Nov 17 (Tue) – Nov 22 (Sun) · 11:00–20:00|1F HYBE Building, 42 Hangang-daero, Yongsan-gu, Seoul|Advance reservations on Weverse (walk-ins may be admitted depending on conditions)\n출처: \n\n[슬라이드]\n소스: \n소제목: SEVENTEEN MINITEEN|SNOW with MINITEEN\n본문: Nov 20 (Fri) – Nov 30 (Mon)|Seongsu-dong, Seongdong-gu, Seoul|Weverse visit reservations open Nov 17, 11 a.m.\n출처: \n",
+      "caption": "Three official idol pop-ups are open in Seoul this week.\n\nTOMORROW X TOGETHER (@txt_bighit) opens its pop-up today at the HYBE building in Yongsan, and it closes on Sunday the 22nd, the same day as the ATEEZ (@ateez_official_) pop-up at Shinsegae Department Store Gangnam. The winter pop-up for MINITEEN, SEVENTEEN's characters, follows on Friday the 20th in Seongsu-dong.\n\nAt all three, reservations come first. Visit reservations for the MINITEEN pop-up open on Weverse today at 11 a.m., and the TOMORROW X TOGETHER pop-up may admit visitors without a reservation depending on conditions on site.\n\nATEEZ: Nov 13 (Fri) – Nov 22 (Sun) · Pocket Garden, 1F Famille Station, Shinsegae Department Store Gangnam · Advance and on-site reservations\nTOMORROW X TOGETHER: Nov 17 (Tue) – Nov 22 (Sun) · 11:00–20:00 · 1F HYBE Building, 42 Hangang-daero, Yongsan-gu, Seoul · Advance reservations on Weverse\nMINITEEN: Nov 20 (Fri) – Nov 30 (Mon) · Seongsu-dong, Seongdong-gu, Seoul · Weverse reservations open Nov 17, 11 a.m.\n#SENE #KpopPopup #SeoulPopup #TXT #ATEEZ #MINITEEN",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\n今週ソウルで行けるアイドルの公式ポップアップは3か所です。\n\nTOMORROW X TOGETHER（@txt_bighit）のポップアップが今日、HYBEの龍山（ヨンサン）社屋でオープンしますが、新世界百貨店 江南店のATEEZ（@ateez_official_）ポップアップと同じ22日（日）に終了します。SEVENTEENのキャラクター、MINITEENの冬のポップアップは20日（金）にソウル・聖水洞（ソンスドン）で続いてオープンします。\n\n3か所とも予約が基本です。MINITEENのポップアップは今日午前11時にWeverseで来場予約が始まり、TOMORROW X TOGETHERのポップアップは現場の状況により予約なしで入れる場合もあります。\n\nATEEZ：11月13日（金）〜22日（日）・新世界百貨店 江南店 FAMILLE STATION 1階 ポケットガーデン・事前予約／現場予約\nTOMORROW X TOGETHER：11月17日（火）〜22日（日）・11:00〜20:00・ソウル・龍山区 漢江大路42 HYBE社屋1階・Weverse事前予約\nMINITEEN：11月20日（金）〜30日（月）・ソウル・聖水洞（ソンスドン）・Weverse予約は11月17日午前11時から\n#SENE #韓国旅行 #ソウルポップアップ #聖水 #TXT #ATEEZ\n\n[커버]\n소스: \n제목: 今週開催中の|アイドル公式ポップアップ\n부제: ATEEZ・TOMORROW X TOGETHER・MINITEEN — オープン日順\n출처: \n\n[슬라이드]\n소스: \n소제목: ATEEZ|GOLDEN HOUR : Part.6 ポップアップ\n본문: 11月13日（金）〜22日（日）|新世界百貨店 江南店 FAMILLE STATION（ファミエステーション）1階 ポケットガーデン|事前予約・現場予約あり\n출처: \n\n[슬라이드]\n소스: \n소제목: TOMORROW X TOGETHER|PERFECT STORM ポップアップ\n본문: 11月17日（火）〜22日（日）・11:00〜20:00|ソウル・龍山区 漢江大路42 HYBE社屋1階|Weverseで事前予約（現場の状況により予約なしで入場できる場合あり）\n출처: \n\n[슬라이드]\n소스: \n소제목: SEVENTEEN MINITEEN|SNOW with MINITEEN\n본문: 11月20日（金）〜30日（月）|ソウル・聖水洞（ソンスドン）|Weverseの来場予約は11月17日午前11時から\n출처: \n",
+      "caption": "今週ソウルで行けるアイドルの公式ポップアップは3か所です。\n\nTOMORROW X TOGETHER（@txt_bighit）のポップアップが今日、HYBEの龍山（ヨンサン）社屋でオープンしますが、新世界百貨店 江南店のATEEZ（@ateez_official_）ポップアップと同じ22日（日）に終了します。SEVENTEENのキャラクター、MINITEENの冬のポップアップは20日（金）にソウル・聖水洞（ソンスドン）で続いてオープンします。\n\n3か所とも予約が基本です。MINITEENのポップアップは今日午前11時にWeverseで来場予約が始まり、TOMORROW X TOGETHERのポップアップは現場の状況により予約なしで入れる場合もあります。\n\nATEEZ：11月13日（金）〜22日（日）・新世界百貨店 江南店 FAMILLE STATION 1階 ポケットガーデン・事前予約／現場予約\nTOMORROW X TOGETHER：11月17日（火）〜22日（日）・11:00〜20:00・ソウル・龍山区 漢江大路42 HYBE社屋1階・Weverse事前予約\nMINITEEN：11月20日（金）〜30日（月）・ソウル・聖水洞（ソンスドン）・Weverse予約は11月17日午前11時から\n#SENE #韓国旅行 #ソウルポップアップ #聖水 #TXT #ATEEZ",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -336,10 +373,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-17T08:29+09:00"
+  "at": "2026-11-17T08:30+09:00"
  },
  "queue": {
-  "next": "2026-11-17T08:31+09:00",
+  "next": "2026-11-17T08:32+09:00",
   "n": 0,
   "gap": 20
  },
