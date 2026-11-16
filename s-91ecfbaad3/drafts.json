@@ -286,7 +286,42 @@
     "why": "슬램덩크 팝업 사전 예약이 내일(17일) 오전 10시 — 오늘 올려야 쓸모가 있는 날짜 정보",
     "at": "2026-11-16T11:41+09:00"
    },
-   "i18n_queued": "2026-11-16T11:42+09:00"
+   "i18n_queued": "2026-11-16T11:42+09:00",
+   "i18n": {
+    "at": "2026-11-16T11:45+09:00",
+    "confirm": [
+     "〈슬램덩크 디 오리진〉의 공식 영어·일본어 제목을 찾지 못했습니다. 영어는 로마자 'Slam Dunk The Origin', 일본어는 カタカナ 『スラムダンク ディ・オリジン』에 원어를 괄호로 붙였습니다. 일본 원제가 있으면(예: 『SLAM DUNK』 계열 영문 표기) 바꿔 주세요.",
+     "대원씨아이의 영어 표기는 흔히 쓰는 'Daewon C.I.', 일본어는 '大元CI（デウォンCI）'로 적었습니다. 공식 표기인지는 확인하지 못했습니다.",
+     "대원뮤지엄의 영어 'Daewon Museum'·일본어 '大元ミュージアム', 아이파크몰의 영어 'I'Park Mall Yongsan'·일본어 '龍山アイパークモール'은 공식 외국어 페이지에서 확인하지 못했습니다.",
+     "요일은 계산해 맞춰 봤습니다. 2026년 12월 11일은 금요일, 2027년 1월 10일은 일요일, 11월 17일은 화요일입니다.",
+     "영어·일본어 · 책 제목 · 〈슬램덩크 디 오리진〉의 공식 영어·일본어 표기를 검색으로 확인하지 못함 — 원작이 일본 쪽 'SLAM DUNK THE ORIGIN' 같은 표기라면 일본어판 『スラムダンク ディ・オリジン』을 원제 표기로 바꿔야 할 수 있음",
+     "영어 · 장소명 · 'Daewon Museum'·'I'Park Mall Yongsan' 공식 영문 표기, 일본어 '大元CI'·'大元ミュージアム' 표기를 대원씨아이 공지로 다시 확인",
+     "공통 · 요일 대조 · 12/11(금)·2027/1/10(일)·11/17(화)는 달력과 맞음 — 다만 팝업 일정 자체는 대원씨아이 11월 6일 게시물로 올리기 전에 다시 확인"
+    ],
+    "review": {
+     "at": "2026-11-16T11:45+09:00",
+     "fixes": [],
+     "doubt": [
+      "영어·일본어 · 책 제목 · 〈슬램덩크 디 오리진〉의 공식 영어·일본어 표기를 검색으로 확인하지 못함 — 원작이 일본 쪽 'SLAM DUNK THE ORIGIN' 같은 표기라면 일본어판 『スラムダンク ディ・オリジン』을 원제 표기로 바꿔야 할 수 있음",
+      "영어 · 장소명 · 'Daewon Museum'·'I'Park Mall Yongsan' 공식 영문 표기, 일본어 '大元CI'·'大元ミュージアム' 표기를 대원씨아이 공지로 다시 확인",
+      "공통 · 요일 대조 · 12/11(금)·2027/1/10(일)·11/17(화)는 달력과 맞음 — 다만 팝업 일정 자체는 대원씨아이 11월 6일 게시물로 올리기 전에 다시 확인"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nA pop-up store marking the release of 'Slam Dunk The Origin' opens in Yongsan, Seoul.\n\nPublisher Daewon C.I. announced it on its official account on Nov 6. The pop-up opens in December, but Naver pre-reservations start earlier, on Nov 17 at 10 AM.\n\nThe venue is Daewon Museum on the 6th floor of I'Park Mall Yongsan. Daewon C.I. said it will share details of the book and the pop-up separately.\n\nDates: Dec 11 (Fri) – Jan 10, 2027 (Sun)\nLocation: Daewon Museum, 6F, I'Park Mall Yongsan, Yongsan-gu, Seoul\nReservations: Naver pre-reservation (opens Nov 17 (Tue), 10 AM)\n#SENE #SlamDunk #SeoulPopup #Yongsan #IParkMall\n\n[커버]\n소스: \n제목: Slam Dunk Pop-Up in Yongsan|Booking Opens Nov 17, 10 AM\n부제: Marking the release of 'Slam Dunk The Origin' · Opens Dec 11\n출처: \n",
+      "caption": "A pop-up store marking the release of 'Slam Dunk The Origin' opens in Yongsan, Seoul.\n\nPublisher Daewon C.I. announced it on its official account on Nov 6. The pop-up opens in December, but Naver pre-reservations start earlier, on Nov 17 at 10 AM.\n\nThe venue is Daewon Museum on the 6th floor of I'Park Mall Yongsan. Daewon C.I. said it will share details of the book and the pop-up separately.\n\nDates: Dec 11 (Fri) – Jan 10, 2027 (Sun)\nLocation: Daewon Museum, 6F, I'Park Mall Yongsan, Yongsan-gu, Seoul\nReservations: Naver pre-reservation (opens Nov 17 (Tue), 10 AM)\n#SENE #SlamDunk #SeoulPopup #Yongsan #IParkMall",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n『スラムダンク ディ・オリジン』（슬램덩크 디 오리진）の刊行を記念したポップアップストアが、ソウル・龍山（ヨンサン）で開かれます。\n\n出版社の大元CI（デウォンCI）が11月6日に公式アカウントで告知したもので、ポップアップのオープンは12月ですが、NAVERでの事前予約はそれより早く11月17日午前10時に始まります。\n\n会場は龍山アイパークモール6階の大元ミュージアム（대원뮤지엄）です。書籍とポップアップの詳しい内容は、大元CIが改めて公開する予定だとしています。\n\n期間：12月11日（金）〜2027年1月10日（日）\n場所：ソウル・龍山区 龍山アイパークモール6階 大元ミュージアム\n予約：NAVER事前予約（11月17日（火）午前10時開始）\n#SENE #スラムダンク #韓国旅行 #ソウルポップアップ #龍山\n\n[커버]\n소스: \n제목: スラムダンクPOPUP、龍山に|予約は17日午前10時\n부제: 『スラムダンク ディ・オリジン』刊行記念・12月11日開幕\n출처: \n",
+      "caption": "『スラムダンク ディ・オリジン』（슬램덩크 디 오리진）の刊行を記念したポップアップストアが、ソウル・龍山（ヨンサン）で開かれます。\n\n出版社の大元CI（デウォンCI）が11月6日に公式アカウントで告知したもので、ポップアップのオープンは12月ですが、NAVERでの事前予約はそれより早く11月17日午前10時に始まります。\n\n会場は龍山アイパークモール6階の大元ミュージアム（대원뮤지엄）です。書籍とポップアップの詳しい内容は、大元CIが改めて公開する予定だとしています。\n\n期間：12月11日（金）〜2027年1月10日（日）\n場所：ソウル・龍山区 龍山アイパークモール6階 大元ミュージアム\n予約：NAVER事前予約（11月17日（火）午前10時開始）\n#SENE #スラムダンク #韓国旅行 #ソウルポップアップ #龍山",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -738,10 +773,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-16T11:44+09:00"
+  "at": "2026-11-16T11:45+09:00"
  },
  "queue": {
-  "next": "2026-11-16T11:46+09:00",
+  "next": "2026-11-16T11:47+09:00",
   "n": 0,
   "gap": 20
  },
