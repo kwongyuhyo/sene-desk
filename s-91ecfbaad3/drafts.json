@@ -738,7 +738,37 @@
     "at": "2026-11-17T17:43+09:00"
    },
    "corner_name": "이슈",
-   "i18n_queued": "2026-11-17T17:43+09:00"
+   "i18n_queued": "2026-11-17T17:43+09:00",
+   "i18n": {
+    "at": "2026-11-17T17:44+09:00",
+    "confirm": [
+     "수능 공식 영문 표기는 웹 검색으로 따로 확인하지 않았습니다. 영어판은 흔히 쓰는 'CSAT (Suneung)'으로, 일본어판은 '大学修学能力試験（修能・スヌン）'과 표지의 '韓国の共通テスト'로 옮겼습니다.",
+     "증시 '한 시간 늦게 열고 늦게 닫는다'를 일본어판에서는 뜻이 분명하도록 '1時間遅く開き、1時間遅く閉まります'로 풀어 썼습니다.",
+     "출처 칸은 원문처럼 비워 돌려줍니다.",
+     "시간 민감 정보(출근·지하철·항공·증시 시간)는 올리기 전에 최신 공식 발표를 다시 확인해 주세요."
+    ],
+    "review": {
+     "at": "2026-11-17T17:44+09:00",
+     "fixes": [
+      "일본어 · 캡션 둘째 단락 · 「要請しましたが、これは〜ためです」 → 「要請しました。受験生は〜ためです。」 — 「が」가 역접으로 읽혀 어색함"
+     ],
+     "doubt": []
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\nThis Thursday, Nov 19, is the day of Korea's college entrance exam, the CSAT (Suneung), and the morning commute starts later.\n\nThe government has asked public offices and businesses to push start times to 10 a.m. or later, since test-takers must be inside their exam sites by 8:10 a.m. Subways in the Seoul metropolitan area run more often from 6:00 to 8:10 a.m., and vehicles are not allowed within 200 meters of exam sites.\n\nIn the afternoon, the sky goes briefly quiet. During the English listening test, from 1:10 to 1:35 p.m., no planes or helicopters take off or land. The stock market also opens and closes an hour later than usual that day. If you pass near an exam site, please hold off on the horn.\n\nDate: Thu, Nov 19 · Exam 08:40–17:45 (general test-takers)\nCommute: Public offices and businesses start after 10 a.m. (government request)\nSubway: Extra trains in the Seoul metropolitan area, 06:00–08:10\nVehicles: No entry within 200 m of exam sites\nFlights: No takeoffs or landings 13:10–13:35 (check your airline for flight times)\nStock market: Regular session 10:00–16:30\n#SENE #CSAT #Suneung #Seoul #KoreaTravel\n\n[커버]\n소스: \n제목: Thursday Is CSAT Day —|Work Starts After 10 a.m.\n부제: Nov 19 · Extra subway trains · Flights pause for the listening test\n출처: \n",
+      "caption": "This Thursday, Nov 19, is the day of Korea's college entrance exam, the CSAT (Suneung), and the morning commute starts later.\n\nThe government has asked public offices and businesses to push start times to 10 a.m. or later, since test-takers must be inside their exam sites by 8:10 a.m. Subways in the Seoul metropolitan area run more often from 6:00 to 8:10 a.m., and vehicles are not allowed within 200 meters of exam sites.\n\nIn the afternoon, the sky goes briefly quiet. During the English listening test, from 1:10 to 1:35 p.m., no planes or helicopters take off or land. The stock market also opens and closes an hour later than usual that day. If you pass near an exam site, please hold off on the horn.\n\nDate: Thu, Nov 19 · Exam 08:40–17:45 (general test-takers)\nCommute: Public offices and businesses start after 10 a.m. (government request)\nSubway: Extra trains in the Seoul metropolitan area, 06:00–08:10\nVehicles: No entry within 200 m of exam sites\nFlights: No takeoffs or landings 13:10–13:35 (check your airline for flight times)\nStock market: Regular session 10:00–16:30\n#SENE #CSAT #Suneung #Seoul #KoreaTravel",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n이슈\n\n[캡션]\n今週木曜日（19日）は韓国の大学修学能力試験（修能・スヌン）の日のため、朝の出勤時間が遅くなります。\n\n政府が官公庁と企業に、出勤を午前10時以降に調整するよう要請しました。受験生は午前8時10分までに試験場に入らなければならないためです。首都圏の地下鉄は午前6時から8時10分まで運行本数が増え、試験場の200m手前からは車両が進入できません。\n\n午後には、空がしばらく静かになります。英語のリスニング試験が行われる1時10分から1時35分まで、航空機とヘリコプターの離着陸が止まります。株式市場もこの日は通常より1時間遅く開き、1時間遅く閉まります。試験場の近くを通るときは、クラクションを控えてください。\n\n日付：11月19日（木）・試験 08:40〜17:45（一般受験生）\n出勤：官公庁・企業 午前10時以降（政府の協力要請）\n地下鉄：首都圏 06:00〜08:10 増便\n車両：試験場200m手前から進入規制\n航空：13:10〜13:35 離着陸規制（便の時刻は航空会社の案内を確認）\n株式市場：通常取引 10:00〜16:30\n#SENE #スヌン #韓国 #ソウル #韓国旅行\n\n[커버]\n소스: \n제목: 木曜は韓国の共通テスト、|出勤は10時以降に\n부제: 11月19日・地下鉄増便・リスニング中は飛行機も止まります\n출처: \n",
+      "caption": "今週木曜日（19日）は韓国の大学修学能力試験（修能・スヌン）の日のため、朝の出勤時間が遅くなります。\n\n政府が官公庁と企業に、出勤を午前10時以降に調整するよう要請しました。受験生は午前8時10分までに試験場に入らなければならないためです。首都圏の地下鉄は午前6時から8時10分まで運行本数が増え、試験場の200m手前からは車両が進入できません。\n\n午後には、空がしばらく静かになります。英語のリスニング試験が行われる1時10分から1時35分まで、航空機とヘリコプターの離着陸が止まります。株式市場もこの日は通常より1時間遅く開き、1時間遅く閉まります。試験場の近くを通るときは、クラクションを控えてください。\n\n日付：11月19日（木）・試験 08:40〜17:45（一般受験生）\n出勤：官公庁・企業 午前10時以降（政府の協力要請）\n地下鉄：首都圏 06:00〜08:10 増便\n車両：試験場200m手前から進入規制\n航空：13:10〜13:35 離着陸規制（便の時刻は航空会社の案内を確認）\n株式市場：通常取引 10:00〜16:30\n#SENE #スヌン #韓国 #ソウル #韓国旅行",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -986,10 +1016,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-17T17:43+09:00"
+  "at": "2026-11-17T17:44+09:00"
  },
  "queue": {
-  "next": "2026-11-17T17:45+09:00",
+  "next": "2026-11-17T17:46+09:00",
   "n": 0,
   "gap": 20
  },
