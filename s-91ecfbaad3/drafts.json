@@ -91,7 +91,37 @@
     "at": "2026-11-18T08:26+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-18T08:27+09:00"
+   "i18n_queued": "2026-11-18T08:27+09:00",
+   "i18n": {
+    "at": "2026-11-18T08:28+09:00",
+    "confirm": [
+     "원문의 '17일'은 월 표기 없이 그대로 옮겼습니다(영어 'on the 17th', 일본어 '17日'). 11월 17일로 보이니 확인되면 영어는 'Nov 17'로 바꾸는 게 좋습니다.",
+     "출처 칸 '뉴스엔·Newsen'은 영어·일본어 모두 매체 공식 로마자 'Newsen'으로 줄였습니다.",
+     "일본어 영화 제목은 일본 개봉 공식 제목 『ティム・バートンのナイトメアー・ビフォア・クリスマス』, 매장명은 LVMH 일본어 보도의 'カサ ロエベ(CASA LOEWE)' 표기를 따랐습니다.",
+     "원문·번역 모두 '17일'에 월이 없음 — 영어 'on the 17th'는 외국 독자에게 몇 월인지 안 보임. 11월 17일이 맞는지 확인한 뒤 필요하면 'on Nov 17'로 적기"
+    ],
+    "review": {
+     "at": "2026-11-18T08:28+09:00",
+     "fixes": [
+      "일본어 · 숏폼 캡션 둘째 단락 · 「お披露目の場で、ジゼルは…務めています」 → 「お披露目の場でした。ジゼルは…」 — '발표 자리에서 앰배서더를 맡고 있다'로 잘못 이어 읽혀 두 문장으로 나눔"
+     ],
+     "doubt": [
+      "원문·번역 모두 '17일'에 월이 없음 — 영어 'on the 17th'는 외국 독자에게 몇 월인지 안 보임. 11월 17일이 맞는지 확인한 뒤 필요하면 'on Nov 17'로 적기"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=-uGdck2QbN0\n구간: 0:08-0:22\n곡: Loewe photo wall\n아티스트: *Giselle* in Cheongdam\n피처링:\n후킹: \n출처: Newsen\n자막: 끔",
+      "caption": "Giselle of aespa (@aespa_official) stepped onto the photo wall at Casa Loewe Seoul (@loewe) in Cheongdam-dong, Seoul, on the 17th.\n\nThe event marked the unveiling of Loewe's holiday collection, created with Disney and Tim Burton and inspired by the film 'Tim Burton's The Nightmare Before Christmas.' Giselle serves as an ambassador for the brand.\n\nThe collection runs from bags, accessories and clothing to fragrance and candles. Fellow ambassadors Song Kang, Wooyoung of ATEEZ (@ateez_official_), Lee Se-young and Zion.T also took their turns at the photo wall.\n\nCollection: Released Nov 12 · Bags, accessories, apparel, fragrance, candles\nLocation: Casa Loewe Seoul (Cheongdam-dong, Gangnam-gu, Seoul)\n#SENE #Giselle #aespa #Loewe #Cheongdam"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=-uGdck2QbN0\n구간: 0:08-0:22\n곡: ロエベのフォトウォール\n아티스트: *ジゼル*、清潭洞\n피처링:\n후킹: \n출처: Newsen\n자막: 끔",
+      "caption": "aespa（@aespa_official）のジゼルが17日、ソウル・清潭洞（チョンダムドン）のカサ ロエベ ソウル（CASA LOEWE Seoul・@loewe）のフォトウォールに立ちました。\n\nロエベがディズニー、ティム・バートンとともに、映画『ティム・バートンのナイトメアー・ビフォア・クリスマス』を出発点に手がけたホリデーコレクションのお披露目の場でした。ジゼルはこのブランドのアンバサダーを務めています。\n\nコレクションはバッグやアクセサリー、ウェアから、フレグランスやキャンドルまで広がります。この日のフォトウォールには、同じくアンバサダーのソン・ガン、ATEEZ（@ateez_official_）のウヨン、イ・セヨン、Zion.Tも順に登場しました。\n\nコレクション：11月12日発売 · バッグ、アクセサリー、ウェア、フレグランス、キャンドル\n場所：カサ ロエベ ソウル（ソウル・江南区清潭洞）\n#SENE #ジゼル #aespa #ロエベ #清潭洞"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -339,10 +369,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-18T08:27+09:00"
+  "at": "2026-11-18T08:28+09:00"
  },
  "queue": {
-  "next": "2026-11-18T08:29+09:00",
+  "next": "2026-11-18T08:30+09:00",
   "n": 0,
   "gap": 20
  },
