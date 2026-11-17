@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-18 07:36 KST",
+ "generated_at": "2026-11-18 08:36 KST",
  "cards": [
   {
    "id": "0b9d9c6b",
@@ -568,6 +568,81 @@
    "preempt": null,
    "made_at": "2026-11-18T01:36+09:00",
    "expires": "2026-11-21T01:36+09:00"
+  },
+  {
+   "id": "5b3c7bbd",
+   "key": "result:해밀턴:2026-11-15",
+   "kind": "result",
+   "kind_label": "지난 소식 결과",
+   "who": [
+    "해밀턴"
+   ],
+   "origin": {
+    "head": "해밀턴 — 10/28 첫 소식",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VbUFnLWNFSVIzaUprM0xoZ1RCcmI3UUFmRjg3XzZNa3Z1NU9WOWhyZUNObk9Wcnk1MzRNanVqU2FYUmdCS3pIVnFmczZKWUxLSll2WENGNW91ZzQwWGdxRVA0Mk5KOG9MdUdaTW13?oc=5",
+    "at": "2026-10-28T00:00+09:00",
+    "mult": null
+   },
+   "evidence": [
+    {
+     "from": "기사",
+     "at": "2026-11-15",
+     "title": "뮤지컬[해밀턴] VIP석 '22만 원'...티켓 상한선 바뀔까?"
+    }
+   ],
+   "news": [
+    {
+     "title": "해밀턴·페르스타펜이 들어 올린 20세 F1 챔피언…\"역사에 남을 사진\"",
+     "link": "https://www.gpkorea.com/news/articleView.html?idxno=148694",
+     "summary": "F1 7회 월드챔피언에 오른 루이스 해밀턴과 4회 챔피언 막스 페르스타펜이 새로운 챔피언을 어깨에 들어... 레이스 우승자 페르스타펜과 2위 해밀턴은 시상대에서 안토넬리를 어깨에 들어 올리며 축하했다. 토토 볼프...",
+     "date": "2026-11-17",
+     "kind": "news"
+    },
+    {
+     "title": "뮤지컬[해밀턴] VIP석 '22만 원'...티켓 상한선 바뀔까?",
+     "link": "https://www.ytn.co.kr/_ln/0106_202611150407069034",
+     "summary": "다음 달 한국에 오는 브로드웨이 히트작 '해밀턴'의 VIP석 티켓 값이 22만 원으로 책정되면서 다른 대형... 흥행작 '해밀턴', 첫 내한 공연을 앞두고 출연진은 물론 예매 정보가 공개됐습니다. 뮤지컬 애호가들의 관심을 끈...",
+     "date": "2026-11-15",
+     "kind": "news"
+    },
+    {
+     "title": "학교서 맞고도 아버지에겐 말 못했다…연봉 800억 페라리 스타의 고백",
+     "link": "https://www.segye.com/newsView/20261111518013?OutUrl=naver",
+     "summary": "‘왕따 소년’에서 F1 106승 전설로 킴 카다시안의 연인 루이스 해밀턴 어린 시절의 루이스 해밀턴. 해밀턴 SNS 캡처 “학교는 아마 내 인생에서 가장 큰 상처를 준 곳이었다.” 괴롭힘은 여섯 살 때 시작됐다. 다니던...",
+     "date": "2026-11-16",
+     "kind": "news"
+    }
+   ],
+   "plans": [
+    {
+     "format": "그 후",
+     "corner": "followup",
+     "title": "해밀턴 내한, 소식 이후",
+     "angle": "10/28 첫 소식부터 11/15 VIP석 22만 원 공개까지, 내한 공연 예매 소식을 날짜순으로 이어 정리합니다.",
+     "why": "다음 달 첫 내한을 앞두고 출연진과 예매 정보가 공개됐습니다.",
+     "check": "확인: 10/28 첫 소식 내용, 예매 오픈일과 회차는 공식 공지 기준."
+    },
+    {
+     "format": "비교",
+     "corner": "followup",
+     "title": "대형 뮤지컬 VIP석 가격표",
+     "angle": "해밀턴 VIP석 22만 원을 다른 대형 뮤지컬 VIP석과 나란히 놓고 가격만 정리합니다. 우열은 두지 않습니다.",
+     "why": "VIP석 22만 원 책정으로 티켓 상한선 이야기가 나왔습니다.",
+     "check": "확인: 비교할 작품 선정과 각 작품 VIP석 가격은 공식 예매처 기준."
+    },
+    {
+     "format": "현장 정리",
+     "corner": "followup",
+     "title": "해밀턴 내한 공연 한 장 정리",
+     "angle": "공연장·기간·좌석 등급·가격을 공식 예매 공지와 보도자료 기준으로 한 장에 정리합니다.",
+     "why": "첫 내한 출연진과 예매 정보가 공개돼 찾아보는 시기입니다.",
+     "check": "확인: 공연장·기간·좌석별 가격·출연진, 공식 포스터 사용 가능 여부."
+    }
+   ],
+   "score": 5.5,
+   "preempt": null,
+   "made_at": "2026-11-18T08:36+09:00",
+   "expires": "2026-11-21T08:36+09:00"
   }
  ]
 }
