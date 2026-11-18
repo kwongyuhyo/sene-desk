@@ -90,7 +90,41 @@
     "at": "2026-11-19T08:24+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-19T08:25+09:00"
+   "i18n_queued": "2026-11-19T08:25+09:00",
+   "i18n": {
+    "at": "2026-11-19T08:26+09:00",
+    "confirm": [
+     "검색으로 이번 겨울 캠페인이나 롯데월드몰 팝업을 다룬 영문 기사는 찾지 못했습니다. 번역은 원문의 사실만 따랐습니다.",
+     "제품명 '벨벳 질감 데님 재킷'·'데님 패딩 트러커 재킷'의 GUESS 공식 영어·일본어 이름을 확인하지 못해 풀어 썼습니다.",
+     "사전 예약(11월 12일 시작)은 이미 시작된 날짜라 원문 그대로 옮겼습니다. 아직 받는지 다시 확인이 필요합니다.",
+     "사전 예약 시작일(11월 12일)은 이미 지났습니다 — 올릴 때 '사전 예약 진행 중'처럼 표현을 바꿀지 원문과 함께 확인해 주세요"
+    ],
+    "review": {
+     "at": "2026-11-19T08:26+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · A denim customization service that laser-engraves graphics onto denim → A customization service that laser-engraves graphics onto denim — denim 중복",
+      "일본어 · 표지 제목 · ヒョンジンのGUESSの冬、→ GUESS×ヒョンジンの冬、 — 「の」가 두 번 이어져 어색함",
+      "일본어 · 캡션 둘째 단락 · 出発したものですが、→ 出発しており、 — 「ですが」가 역접으로 읽혀 직역투"
+     ],
+     "doubt": [
+      "사전 예약 시작일(11월 12일)은 이미 지났습니다 — 올릴 때 '사전 예약 진행 중'처럼 표현을 바꿀지 원문과 함께 확인해 주세요"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nGUESS (@guess) unveiled its winter campaign with Stray Kids' (@realstraykids) Hyunjin on Nov 18.\n\nShot with Hyunjin as global ambassador, the campaign starts from a 1990s alternative mood, weaving its scenes together through double exposures and collages of layered poses. At its center is outerwear, including a velvet-textured denim jacket and a padded denim trucker jacket.\n\nThe place to see this winter in person opens Nov 23 in Jamsil. The brand says shoppers will receive a limited-edition gift featuring unreleased visuals of Hyunjin, and visitors will receive a pop-up-exclusive pin badge, both first come, first served. A customization service that laser-engraves graphics onto denim also runs on site.\n\nDates: Nov 23 (Mon) – Dec 6 (Sun)\nLocation: B1, Lotte World Mall, Songpa-gu, Seoul (Jamsil)\nReservations: Advance booking from Nov 12, 12 p.m. · walk-ins also accepted\n#SENE #Hyunjin #StrayKids #GUESS #LotteWorldMall\n\n[커버]\n소스: \n제목: Hyunjin's GUESS Winter|Pops Up at Lotte World Mall\n부제: Nov 23 – Dec 6 · B1 Floor\n출처: \n",
+      "caption": "GUESS (@guess) unveiled its winter campaign with Stray Kids' (@realstraykids) Hyunjin on Nov 18.\n\nShot with Hyunjin as global ambassador, the campaign starts from a 1990s alternative mood, weaving its scenes together through double exposures and collages of layered poses. At its center is outerwear, including a velvet-textured denim jacket and a padded denim trucker jacket.\n\nThe place to see this winter in person opens Nov 23 in Jamsil. The brand says shoppers will receive a limited-edition gift featuring unreleased visuals of Hyunjin, and visitors will receive a pop-up-exclusive pin badge, both first come, first served. A customization service that laser-engraves graphics onto denim also runs on site.\n\nDates: Nov 23 (Mon) – Dec 6 (Sun)\nLocation: B1, Lotte World Mall, Songpa-gu, Seoul (Jamsil)\nReservations: Advance booking from Nov 12, 12 p.m. · walk-ins also accepted\n#SENE #Hyunjin #StrayKids #GUESS #LotteWorldMall",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nStray Kids（@realstraykids）ヒョンジンを起用したGUESS（@guess）の冬キャンペーンが、18日に公開されました。\n\nグローバルアンバサダーのヒョンジンと撮影した今回のキャンペーンは、1990年代のオルタナティブなムードから出発しており、いくつものポーズを重ねた二重露光とコラージュで場面をつないでいます。中心にあるのは、ベルベット調のデニムジャケットやデニムのパデッドトラッカージャケットといったアウターです。\n\nこの冬を直接見られる場は、23日に蚕室（チャムシル）にオープンします。ブランドによると、購入者にはヒョンジンの未公開ビジュアルを収めた限定ギフトを、来場者にはポップアップ限定のピンバッジを、それぞれ先着順で贈るとのことです。デニムにグラフィックをレーザーで刻むカスタマイズサービスも合わせて行います。\n\n期間：11月23日（月）〜12月6日（日）\n場所：ソウル・松坡区（ソンパグ）蚕室 ロッテワールドモール地下1階\n予約：事前予約は11月12日正午から・当日受付も実施\n#SENE #ヒョンジン #StrayKids #GUESS #韓国旅行\n\n[커버]\n소스: \n제목: GUESS×ヒョンジンの冬、|ロッテワールドモールへ\n부제: 11月23日〜12月6日・地下1階\n출처: \n",
+      "caption": "Stray Kids（@realstraykids）ヒョンジンを起用したGUESS（@guess）の冬キャンペーンが、18日に公開されました。\n\nグローバルアンバサダーのヒョンジンと撮影した今回のキャンペーンは、1990年代のオルタナティブなムードから出発しており、いくつものポーズを重ねた二重露光とコラージュで場面をつないでいます。中心にあるのは、ベルベット調のデニムジャケットやデニムのパデッドトラッカージャケットといったアウターです。\n\nこの冬を直接見られる場は、23日に蚕室（チャムシル）にオープンします。ブランドによると、購入者にはヒョンジンの未公開ビジュアルを収めた限定ギフトを、来場者にはポップアップ限定のピンバッジを、それぞれ先着順で贈るとのことです。デニムにグラフィックをレーザーで刻むカスタマイズサービスも合わせて行います。\n\n期間：11月23日（月）〜12月6日（日）\n場所：ソウル・松坡区（ソンパグ）蚕室 ロッテワールドモール地下1階\n予約：事前予約は11月12日正午から・当日受付も実施\n#SENE #ヒョンジン #StrayKids #GUESS #韓国旅行",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -338,10 +372,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-19T08:25+09:00"
+  "at": "2026-11-19T08:26+09:00"
  },
  "queue": {
-  "next": "2026-11-19T08:27+09:00",
+  "next": "2026-11-19T08:28+09:00",
   "n": 0,
   "gap": 20
  },
