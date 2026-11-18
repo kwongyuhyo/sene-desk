@@ -594,7 +594,44 @@
     "at": "2026-11-18T11:49+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-18T11:50+09:00"
+   "i18n_queued": "2026-11-18T11:50+09:00",
+   "i18n": {
+    "at": "2026-11-18T11:51+09:00",
+    "confirm": [
+     "원문은 '17일'만 적었는데, 영어판에는 'Nov 17'로 월을 붙였습니다. 컬렉션이 11월 12일 출시된 일정에 근거한 판단이니 행사 날짜(11월 17일)를 다시 확인해 주세요. 일본어판은 원문대로 '17日'만 적었습니다.",
+     "우영이 이 행사에 참석했다는 사실은 웹에서 따로 확인하지 못했습니다. 원문(스타뉴스)만 근거로 옮겼습니다.",
+     "출처 칸 '스타뉴스 STARNEWS'는 매체 이름이라 두 판 모두 그대로 두었습니다.",
+     "까사 로에베 서울의 일본어 표기는 LVMH 일본어 페이지의 'CASA LOEWE'에 맞춰, 처음 한 번 괄호 안에 원어로 적었습니다.",
+     "원문에 후킹 칸이 비어 있어 두 판 모두 빈 칸으로 돌려드립니다.",
+     "영어판은 '17일'을 'Nov 17'로 옮겨 월을 넣었음 — 기사 날짜로 11월 17일이 맞는지 확인 필요",
+     "원문의 '팀 버튼 감독의 〈크리스마스 악몽〉' — 이 영화의 감독은 헨리 셀릭이고 팀 버튼은 원작·제작을 맡음. 한국어 원문과 일본어판(ティム・バートン監督の)을 '팀 버튼의'로 고칠지 검토 필요 (영어판은 Tim Burton's라 문제없음)"
+    ],
+    "review": {
+     "at": "2026-11-18T11:51+09:00",
+     "fixes": [
+      "영어·일본어 · 출처 칸 · 스타뉴스 STARNEWS → STARNEWS — 외국어판에 한글이 남아 있었음 (매체의 영문 이름은 그대로 둠)",
+      "영어 · 캡션 1단락 · stepped onto the photo wall → appeared at the photo wall — 벽 '위에 올라섰다'는 뜻으로 읽힘",
+      "영어 · 캡션 2단락 · 'The occasion was …, and Wooyoung struck a pose imitating a cat' → 두 문장으로 나누고 'The event marked …' / 'struck a cat-like pose'로 고침 — 상관없는 두 절을 and로 이어 붙인 직역투",
+      "일본어 · 캡션 2단락 · 発表する場でしたが、→ 発表する場で、 — 'が'가 역접으로 읽혀 어색함"
+     ],
+     "doubt": [
+      "영어판은 '17일'을 'Nov 17'로 옮겨 월을 넣었음 — 기사 날짜로 11월 17일이 맞는지 확인 필요",
+      "원문의 '팀 버튼 감독의 〈크리스마스 악몽〉' — 이 영화의 감독은 헨리 셀릭이고 팀 버튼은 원작·제작을 맡음. 한국어 원문과 일본어판(ティム・バートン監督の)을 '팀 버튼의'로 고칠지 검토 필요 (영어판은 Tim Burton's라 문제없음)"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=5IKoZyoELK0\n구간: 0:05-0:20\n곡: Loewe photo wall\n아티스트: *Wooyoung*, Cheongdam\n피처링:\n후킹: \n출처: STARNEWS\n자막: 끔",
+      "caption": "ATEEZ (@ateez_official_) member Wooyoung appeared at the photo wall at Casa Loewe Seoul (@loewe) in Cheongdam-dong, Seoul, on Nov 17.\n\nThe event marked Loewe's unveiling of a holiday collection that reinterprets Tim Burton's 'The Nightmare Before Christmas'. Wooyoung struck a cat-like pose.\n\nAlso at the photo wall that day were brand ambassador Song Kang, aespa (@aespa_official) member Giselle, Lee Se-young and Zion.T.\n\nLocation: Casa Loewe Seoul (Cheongdam-dong, Gangnam-gu, Seoul)\n#SENE #Wooyoung #ATEEZ #LOEWE #Cheongdam"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=5IKoZyoELK0\n구간: 0:05-0:20\n곡: ロエベのフォトウォール\n아티스트: *ウヨン*、清潭洞\n피처링:\n후킹: \n출처: STARNEWS\n자막: 끔",
+      "caption": "ATEEZ（@ateez_official_）のウヨンが17日、ソウル・清潭洞（チョンダムドン）のカサ ロエベ ソウル（CASA LOEWE Seoul・@loewe）のフォトウォールに登場しました。\n\nロエベがティム・バートン監督の『ナイトメアー・ビフォア・クリスマス』を再解釈したホリデーコレクションを発表する場で、ウヨンは猫をまねたポーズを見せました。\n\nこの日のフォトウォールには、ブランドアンバサダーのソン・ガン、aespa（@aespa_official）のジゼル、イ・セヨン、Zion.Tも姿を見せました。\n\n場所：カサ ロエベ ソウル（ソウル・江南区清潭洞）\n#SENE #ウヨン #ATEEZ #ロエベ #清潭洞"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -842,10 +879,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-18T11:50+09:00"
+  "at": "2026-11-18T11:51+09:00"
  },
  "queue": {
-  "next": "2026-11-18T11:52+09:00",
+  "next": "2026-11-18T11:53+09:00",
   "n": 0,
   "gap": 20
  },
