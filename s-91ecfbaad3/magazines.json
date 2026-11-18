@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-18 21:01 KST",
+  "generated_at": "2026-11-18 22:36 KST",
   "window": {
     "mature_hours": 24,
     "max_age_days": 60,
@@ -40,12 +40,12 @@
         "뷰티",
         "패션"
       ],
-      "baseline": 6701.2,
+      "baseline": 6688.8,
       "per_format": {
-        "reel": 7689.0,
+        "reel": 7675.5,
         "post": 6217.0
       },
-      "n": 214,
+      "n": 215,
       "pinned": 0,
       "per_day": 7.5
     },
@@ -83,14 +83,14 @@
       "genres": [
         "패션"
       ],
-      "baseline": 1268.8,
+      "baseline": 1267.3,
       "per_format": {
-        "reel": 2276.3,
-        "post": 763.8
+        "reel": 2256.5,
+        "post": 766.8
       },
-      "n": 1000,
+      "n": 1007,
       "pinned": 0,
-      "per_day": 37.0
+      "per_day": 37.1
     },
     "dailyfood_news": {
       "followers": null,
@@ -98,14 +98,14 @@
       "genres": [
         "푸드"
       ],
-      "baseline": 735.2,
+      "baseline": 745.5,
       "per_format": {
         "reel": 761.9,
-        "post": 744.3
+        "post": 756.9
       },
-      "n": 95,
+      "n": 96,
       "pinned": 0,
-      "per_day": 3.2
+      "per_day": 3.3
     },
     "dazedkorea": {
       "followers": null,
@@ -147,12 +147,12 @@
         "공간",
         "컬처"
       ],
-      "baseline": 1292.6,
+      "baseline": 1296.4,
       "per_format": {
-        "reel": 2510.0,
+        "reel": 2524.8,
         "post": 819.6
       },
-      "n": 1053,
+      "n": 1054,
       "pinned": 0,
       "per_day": 38.9
     },
@@ -163,14 +163,14 @@
         "컬처",
         "이슈"
       ],
-      "baseline": 1496.8,
+      "baseline": 1503.7,
       "per_format": {
-        "reel": 2634.1,
-        "post": 848.2
+        "reel": 2625.8,
+        "post": 856.1
       },
-      "n": 1053,
+      "n": 1057,
       "pinned": 0,
-      "per_day": 37.1
+      "per_day": 37.2
     },
     "glowupmag": {
       "followers": null,
@@ -179,11 +179,11 @@
         "뷰티",
         "패션"
       ],
-      "baseline": 595.3,
+      "baseline": 594.3,
       "per_format": {
-        "post": 596.1
+        "post": 594.0
       },
-      "n": 640,
+      "n": 641,
       "pinned": 0,
       "per_day": 23.4
     },
@@ -242,12 +242,12 @@
         "패션",
         "공간"
       ],
-      "baseline": 567.7,
+      "baseline": 575.5,
       "per_format": {
-        "reel": 1497.0,
-        "post": 450.8
+        "reel": 1507.9,
+        "post": 454.5
       },
-      "n": 390,
+      "n": 392,
       "pinned": 0,
       "per_day": 14.2
     },
@@ -380,16 +380,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/reel/DfwxPY2COri/",
       "timestamp": "2026-11-15T12:38:42+00:00",
-      "hours": 71.4,
+      "hours": 73.0,
       "likes": 151735,
       "comments": 913,
       "views": 1268711,
       "is_reel": true,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/902586186_18651043150023030_1694234796169049940_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=I0I-OmL8ZZsQ7kNvwELQKWn&_nc_oc=AdrPra2j-8t2Lt8kLgF3JHnE1OzMQdpmK39MQGD6eKaXPBDTlSighiEwaOVDZ3XIOhY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AJ-jyNUEAAAA&_nc_gid=dT6CHb9CVxchPN62sfCyng&_nc_tpa=Q5bMBQKt5Ehz-c3qiwJUXapQiVe7FVXnFrdzehleooThxQ7q0yWLB8ygEx9qqe642a9tgYQKijQABx6qMg&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQ7zHDL_bjHG_NekfqOpsVpY8CVXmITpvHRKRcd6SYkhw&oe=6B008264",
       "score": 154474,
-      "baseline": 2510.0,
+      "baseline": 2524.8,
       "baseline_kind": "reel",
-      "multiple": 61.54,
+      "multiple": 61.18,
       "velocity": 7490.059504032381,
       "label": "sene",
       "kind": "unknown",
@@ -433,16 +433,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/reel/DfwmRYEgyFO/",
       "timestamp": "2026-11-15T10:48:09+00:00",
-      "hours": 73.2,
+      "hours": 74.8,
       "likes": 39822,
       "comments": 364,
       "views": 176351,
       "is_reel": true,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/892411535_18001087803053202_9186949122728273566_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=2uEEIQSuzPsQ7kNvwFu3hd7&_nc_oc=AdpSSYI2qN9Gzp3o-6_mIiNymvP3J1nEbpZqStcYA0b7oaknl1d2jEtQ0v7YqZFVOjQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=onP9RXj9sh1_AADyxtqRVw&_nc_tpa=Q5bMBQKPoU7AvSx5tpyXMlMErKUi2V6xaznC1JvsbZQfmaOA7W5u_aBWYAHHrKUaJPrmdyythQsij--j6g&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQR4j1SIdGYzViJHf5cbSBerhDacKpdpxcYI-_9JM4PihQ&oe=6AFF6FB9",
       "score": 40914,
-      "baseline": 2634.1,
+      "baseline": 2625.8,
       "baseline_kind": "reel",
-      "multiple": 15.53,
+      "multiple": 15.58,
       "velocity": 14437.31214372085,
       "label": "sene",
       "kind": "unknown",
@@ -493,7 +493,7 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/p/Dfyoc31BTym/",
       "timestamp": "2026-11-16T05:43:37+00:00",
-      "hours": 54.3,
+      "hours": 55.9,
       "likes": 6856,
       "comments": 223,
       "views": null,
@@ -551,16 +551,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/reel/Df34Vv5COkJ/",
       "timestamp": "2026-11-18T06:39:03+00:00",
-      "hours": 5.4,
+      "hours": 7.0,
       "likes": 9512,
       "comments": 64,
       "views": 195757,
       "is_reel": true,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/902586260_18652255522023030_7864250630032086422_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=83qUodI_ivEQ7kNvwFJzKra&_nc_oc=Adr0jBC1EpztgWunY1S7GiDn-rCR9fqF2KTdDzyKm9EU2I8Ky0MNRuQMS8RykhF3Tbw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nK888IDFmw6K--Fa2pCV4w&_nc_tpa=Q5bMBQKqOWHEM2HIh7kjI0XAFzo7OTjRKAM-32PsuT7pGX3KmGiHpHXN2eW2FZYglBIXkWdUT4Si8o3r_Q&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQSAmwbGiEt8_vCJjn39cw2iSvwXh2p5z5ot7oI5_tJtOA&oe=6B034B33",
       "score": 9704,
-      "baseline": 2510.0,
+      "baseline": 2524.8,
       "baseline_kind": "reel",
-      "multiple": 3.87,
+      "multiple": 3.84,
       "velocity": 1646.2926964732019,
       "label": "sene",
       "kind": "unknown",
@@ -585,8 +585,8 @@
       "mags": [
         "eyesmag"
       ],
-      "pace": 6.24,
-      "rank": 937,
+      "pace": 4.99,
+      "rank": 944,
       "who": "샤넬 홀리데이 팝업",
       "event_date": "2026-11-21",
       "end_date": "2026-12-31",
@@ -608,16 +608,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/reel/DfuNB1YCSPY/",
       "timestamp": "2026-11-14T12:29:34+00:00",
-      "hours": 95.5,
+      "hours": 97.1,
       "likes": 9494,
       "comments": 59,
       "views": 94887,
       "is_reel": true,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/902586035_18650450680023030_6516675285431714580_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tpQtP59n5NIQ7kNvwEanHfu&_nc_oc=AdpzA1xRhuzOd2cRVLK3wwLO0o0GZ-vgoJu0UyovbHSXSryVVH3upB42m25A_jcDGdA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=qc6d8jqvltmNJ5aM0t5Wzg&_nc_tpa=Q5bMBQLoSNMdcee46kIKdIDwzvAmzLhHLDObBELEN8GFqsQaYgD3kejEtuT_KxLIzYvpLdjVm1i0eaZNTQ&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQTvXR6waVXXA3eaoknGbuktOyeHd4-xNzeJXXfkV4hyyg&oe=6AFF58BD",
       "score": 9671,
-      "baseline": 2510.0,
+      "baseline": 2524.8,
       "baseline_kind": "reel",
-      "multiple": 3.85,
+      "multiple": 3.83,
       "velocity": 71.54009936124912,
       "label": "sene",
       "kind": "unknown",
@@ -643,7 +643,7 @@
         "eyesmag"
       ],
       "pace": null,
-      "rank": 965,
+      "rank": 970,
       "who": "NCT 드림",
       "event_date": "2026-11-14",
       "end_date": "",
@@ -665,16 +665,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/p/Df1_TBQFNgY/",
       "timestamp": "2026-11-17T13:00:02+00:00",
-      "hours": 23.0,
+      "hours": 24.6,
       "likes": 6189,
       "comments": 40,
       "views": null,
       "is_reel": false,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/904842468_18001444128053202_4319488388638355575_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=2CiaaWJxSb0Q7kNvwE6coH0&_nc_oc=Adph9nKchCzQDg4rVh6UeU4RTFCwFaFqa8kfvgo9SCwe5MsdwA_WaXx9BmwaOlG1PI0&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AJ-jyNUEAAAA&_nc_gid=nw2OQyp9PpyQgyPM4DUJhw&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQSGK_W3LqWTT1hgDoIcvpTdS7Dp72jYQr2pAioJbdJBGQ&oe=6B0333E2",
       "score": 6309,
-      "baseline": 848.2,
+      "baseline": 856.1,
       "baseline_kind": "post",
-      "multiple": 7.44,
+      "multiple": 7.37,
       "velocity": 296.5012991721554,
       "label": "unsure",
       "kind": "unknown",
@@ -698,8 +698,8 @@
       "mags": [
         "fastpapermag"
       ],
-      "pace": 8.89,
-      "rank": 1090,
+      "pace": 8.53,
+      "rank": 1092,
       "who": "김현주",
       "event_date": "2026-11-17",
       "end_date": "",
@@ -721,16 +721,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/p/DfuYVsUI8uF/",
       "timestamp": "2026-11-14T14:05:39+00:00",
-      "hours": 93.9,
+      "hours": 95.5,
       "likes": 2035,
       "comments": 10,
       "views": null,
       "is_reel": false,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/905316081_18079177865781551_3302094648769909880_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=P11gew_kFMoQ7kNvwFAAJZk&_nc_oc=AdrFVlYQ27fbYjx6DBp-o_QARaNs08ZMnry5SgQS0v6RHH0Q-R-c4Ev0oFKe8CwCq70&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=nuQXEFAINxS94rLDGU2GNg&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRrePuZm1ivMEStUilFmnQXMD9T1kult6jd9i9TG-575A&oe=6B0040BC",
       "score": 2065,
-      "baseline": 596.1,
+      "baseline": 594.0,
       "baseline_kind": "post",
-      "multiple": 3.46,
+      "multiple": 3.48,
       "velocity": 31.743754122452756,
       "label": "sene",
       "kind": "news",
@@ -756,7 +756,7 @@
         "glowupmag"
       ],
       "pace": null,
-      "rank": 2371,
+      "rank": 2366,
       "who": "GTA 6",
       "event_date": "2026-11-14",
       "end_date": "",
@@ -780,16 +780,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/reel/Df1wh_ZTSDS/",
       "timestamp": "2026-11-17T10:54:07+00:00",
-      "hours": 25.1,
+      "hours": 26.7,
       "likes": 29161,
       "comments": 185,
       "views": 220248,
       "is_reel": true,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/911069232_18137681102301319_5577265219079950125_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=tTdYl-5oSOcQ7kNvwHJWsYG&_nc_oc=AdpTvGS5Omf6BVB5Upwj00-HY8lmD4QsgenIty1fszbnWwCslfORQ6PiIALCVdv_qZQ&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AJ-jyNUEAAAA&_nc_gid=Df0t5J1-vQhOHXh7nYz2Cg&_nc_tpa=Q5bMBQKBmjdiMJCTcITAL6EvuCLbNpI2mcb9PjVQvPavxzX5kcgEAAwF8rGYdlIMqM1DwQDInddfyxbMQw&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQTU0xHVYK84ZdfcpGWlbnfVLeosPnvXKz7rn3SpXDhdNg&oe=6B02E896",
       "score": 29716,
-      "baseline": 2276.3,
+      "baseline": 2256.5,
       "baseline_kind": "reel",
-      "multiple": 13.05,
+      "multiple": 13.17,
       "velocity": 1880.1801623048075,
       "label": "sene",
       "kind": "unknown",
@@ -817,8 +817,8 @@
         "dailyfood_news",
         "dazedkorea"
       ],
-      "pace": 15.1,
-      "rank": 199,
+      "pace": 15.24,
+      "rank": 197,
       "who": "베이비몬스터",
       "event_date": "2026-11-17",
       "end_date": "",
@@ -840,16 +840,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/p/Df1qE35gTSJ/",
       "timestamp": "2026-11-17T09:55:20+00:00",
-      "hours": 26.1,
+      "hours": 27.7,
       "likes": 5667,
       "comments": 60,
       "views": null,
       "is_reel": false,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/911191441_18079683659781551_8500460327495777405_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=RXMiqi9YPikQ7kNvwHoIxfB&_nc_oc=Adqzl1r6EEitodFKX1TUsbynle4h6RNgPYZlrr53ivYeLe2Ms8exI3S6P9zPgJB5vmo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=EZBV01GiFK8oj1S5ZoUWFA&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQR_fNCrbTgS43qPau1V5HMDBmcbSBvKkgwsYXl3SO5jFA&oe=6B032176",
       "score": 5847,
-      "baseline": 596.1,
+      "baseline": 594.0,
       "baseline_kind": "post",
-      "multiple": 9.81,
+      "multiple": 9.84,
       "velocity": 250.2773844015123,
       "label": "sene",
       "kind": "news",
@@ -878,8 +878,8 @@
         "dailyfood_news",
         "dazedkorea"
       ],
-      "pace": 11.35,
-      "rank": 1105,
+      "pace": 11.39,
+      "rank": 1103,
       "who": "로에베",
       "event_date": "2026-11-17",
       "end_date": "",
@@ -901,16 +901,16 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/reel/Df3NOBjgcdj/",
       "timestamp": "2026-11-18T00:22:52+00:00",
-      "hours": 11.6,
+      "hours": 13.2,
       "likes": 11964,
       "comments": 87,
       "views": 131676,
       "is_reel": true,
       "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/909701473_18001522626053202_4049917447021009610_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=3JQWYblAE24Q7kNvwHLttJ_&_nc_oc=AdoajhowxLxfOYuaNeOMkdpTxQ_nx7wV3c1F4cTfYn00Bv37mueOaF6U51hWsSo9G5s&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AJ-jyNUEAAAA&_nc_gid=nw2OQyp9PpyQgyPM4DUJhw&_nc_tpa=Q5bMBQJjSidYCcmbDZtjAS923lezdjensBufSxhRtcux--JnjQPP_tmtOEsmFHgDQ0N7JllEBeuHJweyQA&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQBR-gWYF4noFsob0j-_sxg_0lfjlW0sshPbdWUr6-J7g&oe=6B03269B",
       "score": 12225,
-      "baseline": 2634.1,
+      "baseline": 2625.8,
       "baseline_kind": "reel",
-      "multiple": 4.64,
+      "multiple": 4.66,
       "velocity": 1422.8761799000556,
       "label": "sene",
       "kind": "unknown",
@@ -936,8 +936,8 @@
         "dailyfood_news",
         "dazedkorea"
       ],
-      "pace": 6.02,
-      "rank": 750,
+      "pace": 5.56,
+      "rank": 749,
       "who": "하츠투하츠",
       "event_date": "2026-11-18",
       "end_date": "",
@@ -959,7 +959,7 @@
       "acct_genres": [],
       "url": "https://www.instagram.com/p/DfzpMDjnVzj/",
       "timestamp": "2026-11-16T15:09:05+00:00",
-      "hours": 44.9,
+      "hours": 46.5,
       "likes": 3522,
       "comments": 69,
       "views": null,
@@ -996,8 +996,8 @@
         "dailyfood_news",
         "dazedkorea"
       ],
-      "pace": 5.26,
-      "rank": 1781,
+      "pace": 5.27,
+      "rank": 1783,
       "who": "로버트 패틴슨 제임스 본드",
       "event_date": "2026-11-16",
       "end_date": "",
@@ -1032,18 +1032,11 @@
           "summary": "(톱스타뉴스 이수현 기자) '치이카와 클리닉' 팝업스토어의 사전예약 일정과 입장 방법이 공개됐다.\n18일 대원미디어 팝업 공식 계정은 오는 27일 서울 영등포구 더현대 서울 5층 웨이브서울에서 문을 여는 '치이카와 클리닉' 팝업스토어의 운영 안내를 공개했다.\n팝업은 100% 사전예약제로 운영된다. 1차 사전예약은 오는 23일 오후 2시, 2차 사전예약은 12월 7일 오후 2시 오픈하며 예약은 '팝콘D플레이'를 통해 진행된다.\n1차 예약자는 11월 27일부터 12월 10일까지 입장할 수 있으며, 2차 예약 입장 기간은 12월 11일부"
         },
         {
-          "title": "치이카와 덕후들 진료받으러 가요! 더현대 클리닉 팝업 1·2차 예약 ....",
-          "url": "https://blog.naver.com/dengjju/224482418113",
+          "title": "더현대 서울 치이카와 팝업 사전예약 방법｜클리닉 일정·굿즈·특....",
+          "url": "https://blog.naver.com/uj_0117/224482601607",
           "source": "네이버 블로그",
           "at": "2026-11-18T12:00",
-          "summary": "운영할 예정 이에요. 기간만 보면 약 한 달 반이라 여유가 있어 보이는데요. 문제는 예약이죠.... 치이카와 클리닉 사전예약, 11월 23일 오후 2시 오픈 ! 이번 팝업 에서 가장 먼저 기억해야 할 날짜는 11월 23일..."
-        },
-        {
-          "title": "치이카와 팝업 인데 네이버 예약이 없습니다 | 더현대 치이카와 클리....",
-          "url": "https://blog.naver.com/chikasekai/224482415075",
-          "source": "네이버 블로그",
-          "at": "2026-11-18T12:00",
-          "summary": "예약 오픈 전에 회원가입과 본인인증을 미리 끝내두세요 ! 14시 정각에 가입 화면부터 뜨면 그... 캡슐토이를 판다는 것(1인 2회까지), 상품은 1인당 품목별 최대 1개만 가능 8월 성수 스시 팝업 은 일본..."
+          "summary": "치이카와 클리닉 팝업 선택 예약 오픈 시간에 맞춰 팝콘D플레이에서 치이카와 클리닉 팝업 사전예약... 일본에서는 11월 27일부터 인형, 마스코트, 키링, 문구, 생활용품 등 다양한 상품이 출시될 예정 인데..."
         }
       ],
       "days_ago": 0,
@@ -1052,81 +1045,14 @@
       "end_date": "2027-01-10",
       "score": 15,
       "verdict": "make",
-      "id": "sn_3db1cc2502"
-    },
-    {
-      "entity": "샤넬 홀리데이 팝업",
-      "multiple": 8,
-      "speech": 1,
-      "why": "공간 · 일정 11/21~12/31 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 8곳 · 기준표 +13: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1 · 씬+정보+1",
-      "articles": [
-        {
-          "title": "에스파 카리나 '예쁨이란 단어가 부족한 아름다움' [엑's 숏폼]",
-          "url": "https://www.xportsnews.com/article/2220854",
-          "source": "xportsnews.com",
-          "at": "2026-11-18T20:24",
-          "summary": "18일 오후 서울 성수동에서 '샤넬 홀리데이 팝업' 포토콜 행사가 진행됐다. 이날 행사에 참석한 에스파 카리나가 포즈를 취하고 있다."
-        },
-        {
-          "title": "[영상] 에스파 카리나, 성수동 밝힌 눈부신 미모…고급스러운 겨울 스타...",
-          "url": "https://www.thepowernews.co.kr/view.php?ud=2026111818365852352d6fc79969_7",
-          "source": "thepowernews.co.kr",
-          "at": "2026-11-18T18:40",
-          "summary": "[영상] 에스파 카리나, 성수동 밝힌 눈부신 미모…고급스러운 겨울 스타일링\n(07299) 서울 영등포구 경인로 775 에이스하이테크시티 2동 1108호 | 대표전화 : 02-784-7717 | 팩스 : 02-780-7719 제호 : 더파워 | 법인명 : 주식회사 더파워미디어 | 등록번호 : 서울 아05063 | 등록일 : 2018-03-31 | 발행일 : 2012-06-10 발행인 : 조기성 | 편집인 : 조기성 | 고문변호사 : 안형진 (법무법인건우) | 청소년보호책임자 : 이경호 | 고충처리인 : 이경호 더파워의 모든 콘텐츠(영"
-        },
-        {
-          "title": "에스파 카리나, AI급 완벽 자태",
-          "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943854",
-          "source": "sports.hankooki.com",
-          "at": "2026-11-18T18:20",
-          "summary": "[스포츠한국 이혜영 기자] '샤넬 홀리데이 팝업' 오픈 행사가 열렸다.\n샤넬 뷰티 앰배서더 에스파 카리나가 18일 서울 성동구 성수동에서 열린 오픈 행사에 참석해 포토타임을 갖고 있다.\n생모리츠의 설산과 겨울 풍경을 구현한 '샤넬 홀리데이 팝업'은 오는 21일부터 12월 31일까지 성수동에서 진행된다. 2026. 11. 18."
-        },
-        {
-          "title": "[포토] 카리나, 첫 눈꽃 하트",
-          "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525277",
-          "source": "enews.imbc.com",
-          "at": "2026-11-18T17:14",
-          "summary": "에스파(aespa) 카리나가 18일 오후 서울 성수동에 위치한 한 매장에서 열린 뷰티 패션 브랜드 팝업스토어 오픈 행사에 참석해 포즈를 취하고 있다.\n이날 카리나는 독특하게 두 가닥으로 묶은 애플 ‘뿌까’ 헤어에 기모 라펠이 포인트인 트위드 상하의 화이트 베이지 셋업과 블랙 힐로 우아한 눈꽃 패션을 뽐냈다. 카리나는 연신 ‘웃참’ 미소를 건네며 첫눈을 맞이할 것 같은 다양한 설레임 포즈로 행사를 즐겼다.\n주소: 서울시 마포구 성암로 255(상암동, 문화방송미디어센터 10층) 대표전화 및 사진구매 문의: 02-2105-1100"
-        },
-        {
-          "title": "카리나, 현실성 떨어지는 미모",
-          "url": "https://www.dailian.co.kr/news/view/1716811/?sc=Naver",
-          "source": "dailian.co.kr",
-          "at": "2026-11-18T16:42",
-          "summary": "방규현기자 (room1992@dailian.co.kr)\nⓒ데일리안 방규현 기자 에스파 카리나가 18일 오후 서울 성동구에서 열린 샤넬 홀리데이 팝업 스토어 오픈 행사에 참석해 포즈를 취하고 있다.\n에스파 카리나가 18일 오후 서울 성동구에서 열린 샤넬 홀리데이 팝업 스토어 오픈 행사에 참석해 포즈를 취하고 있다.\n단독 황경성 자료 제출되자…배현진 징계무효소송 선고일 전격 연기\n앞만 보며 달린 AI 개발, 부작용은 ‘커닝’만이 아니다\n'380억 혈세' 쏟아부을 조작기소 특검…국민에게 돌아올 이득은? [기자수첩-사회]\n당정, 'AI 커"
-        },
-        {
-          "title": "카리나, 예쁘다는 말로는 부족해",
-          "url": "https://www.dailian.co.kr/news/view/1716810/?sc=Naver",
-          "source": "dailian.co.kr",
-          "at": "2026-11-18T16:41",
-          "summary": "방규현기자 (room1992@dailian.co.kr)\nⓒ데일리안 방규현 기자 에스파 카리나가 18일 오후 서울 성동구에서 열린 샤넬 홀리데이 팝업 스토어 오픈 행사에 참석해 포즈를 취하고 있다.\n에스파 카리나가 18일 오후 서울 성동구에서 열린 샤넬 홀리데이 팝업 스토어 오픈 행사에 참석해 포즈를 취하고 있다.\n단독 황경성 자료 제출되자…배현진 징계무효소송 선고일 전격 연기\n앞만 보며 달린 AI 개발, 부작용은 ‘커닝’만이 아니다\n'380억 혈세' 쏟아부을 조작기소 특검…국민에게 돌아올 이득은? [기자수첩-사회]\n당정, 'AI 커"
-        }
-      ],
-      "days_ago": 0,
-      "category": "공간",
-      "event_date": "2026-11-21",
-      "end_date": "2026-12-31",
-      "score": 13,
-      "verdict": "make",
-      "id": "sn_c5344f4a43",
-      "also_in_magazine": [
-        "Df34Vv5COkJ"
-      ]
+      "id": "sn_585c4d7435"
     },
     {
       "entity": "다마고치",
-      "multiple": 4,
+      "multiple": 3,
       "speech": 1,
-      "why": "트렌드 · 일정 11/16 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 4곳 · 기준표 +13: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1 · 씬+정보+1",
+      "why": "트렌드 · 일정 11/16 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 3곳 · 기준표 +13: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1 · 씬+정보+1",
       "articles": [
-        {
-          "title": "2026 다마고치 30주년 팝업 스토어 더현대 서울 현장예약 웨이팅 굿즈 ....",
-          "url": "https://blog.naver.com/booty1020/224482276339",
-          "source": "네이버 블로그",
-          "at": "2026-11-18T12:00",
-          "summary": "상품 및 프로그램 일정 팝업 스토어 오픈 11월 20일 나의 랩 다마고치 판매 11월 20일부터 네온 플래닛츠 체험 행사기간 중 운영 네온 플래닛츠 선행 판매 11월 21일부터 신제품 구매를 목적으로 방문한다면..."
-        },
         {
           "title": "반다이남코코리아, 더현대 서울서 ‘30번째 생일’ 팝업스토어 - 중앙일보",
           "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kQXFDa1FYYU10aW92eFJ6RFBZTkJYSUkwcXlyUmprVUdZVklEUGYwaDNQYzZCQS1xVG9YM3E3V25MN2lRN3FkWEpxdmFDMXl2Nml5aENn?oc=5",
@@ -1155,7 +1081,53 @@
       "end_date": "",
       "score": 13,
       "verdict": "make",
-      "id": "sn_5b13414689"
+      "id": "sn_9e313405f2"
+    },
+    {
+      "entity": "샤넬 홀리데이 팝업",
+      "multiple": 3,
+      "speech": 1,
+      "why": "공간 · 일정 11/18~11/21 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 3곳 · 기준표 +13: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1 · 씬+정보+1",
+      "articles": [
+        {
+          "title": "에스파 카리나 '예쁨이란 단어가 부족한 아름다움' [엑's 숏폼]",
+          "url": "https://www.xportsnews.com/article/2220854",
+          "source": "xportsnews.com",
+          "at": "2026-11-18T20:24",
+          "summary": "18일 오후 서울 성수동에서 '샤넬 홀리데이 팝업' 포토콜 행사가 진행됐다. 이날 행사에 참석한 에스파 카리나가 포즈를 취하고 있다."
+        },
+        {
+          "title": "[영상] 에스파 카리나, 성수 동 밝힌 눈부신 미모…고급스러운 겨울 스타...",
+          "url": "https://www.thepowernews.co.kr/view.php?ud=2026111818365852352d6fc79969_7",
+          "source": "thepowernews.co.kr",
+          "at": "2026-11-18T18:40",
+          "summary": "[영상] 에스파 카리나, 성수동 밝힌 눈부신 미모…고급스러운 겨울 스타일링\n(07299) 서울 영등포구 경인로 775 에이스하이테크시티 2동 1108호 | 대표전화 : 02-784-7717 | 팩스 : 02-780-7719 제호 : 더파워 | 법인명 : 주식회사 더파워미디어 | 등록번호 : 서울 아05063 | 등록일 : 2018-03-31 | 발행일 : 2012-06-10 발행인 : 조기성 | 편집인 : 조기성 | 고문변호사 : 안형진 (법무법인건우) | 청소년보호책임자 : 이경호 | 고충처리인 : 이경호 더파워의 모든 콘텐츠(영"
+        },
+        {
+          "title": "검은 정장들 사이에 혼자 디즈니 공주?.. 순백 투피스 입은 여자아이....",
+          "url": "https://blog.naver.com/eork139/224482571288",
+          "source": "네이버 블로그",
+          "at": "2026-11-18T12:00",
+          "summary": "성수 동에 샤넬 홀리데이 팝업 이 오픈 하던 날, 포토콜에 등장한 카리나님 보고 웃음이 터졌어요ㅋㅋ 주변에 서 있던 경호원분들은 하나같이 검정 코트에 검정 정장, 그 사이로 혼자 새하얀 투피스 입고 걸어..."
+        },
+        {
+          "title": "카리나 샤넬 홀리데이 팝업 포토콜, 아이보리 트위드 겨울 룩 ( 성수 ....",
+          "url": "https://blog.naver.com/hackseok/224482561848",
+          "source": "네이버 블로그",
+          "at": "2026-11-18T12:00",
+          "summary": "카리나 인스타그램 게시물 https://www.instagram.com/p/Df4bkn-FEDx/ 카리나, 성수 \" \" \" \" 샤넬 홀리데이... 카리나는 샤넬 뷰티 앰버서더로 활동하고 있어서, 팝업 정식 오픈 (11월 21일)을 앞두고 먼저 자리를 빛낸..."
+        }
+      ],
+      "days_ago": 0,
+      "category": "공간",
+      "event_date": "2026-11-18",
+      "end_date": "2026-11-21",
+      "score": 13,
+      "verdict": "make",
+      "id": "sn_2b99ff9847",
+      "also_in_magazine": [
+        "Df34Vv5COkJ"
+      ]
     },
     {
       "entity": "버거킹 익선동 체험관",
@@ -1202,47 +1174,26 @@
       "id": "sn_dce071db48"
     },
     {
-      "entity": "도레도레",
-      "multiple": 4,
+      "entity": "샤넬 성수 팝업",
+      "multiple": 1,
       "speech": 1,
-      "why": "공간 · 일정 11/17 · 쓸모 정보 · 우리 씬 · 첫 소식 · 언론 4곳 · 기준표 +12: 쓸모 정보+3 · 우리 씬+2 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 씬+정보+1",
+      "why": "공간 · 일정 11/18~12/31 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 1곳 · 기준표 +13: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1 · 씬+정보+1",
       "articles": [
         {
-          "title": "2026 홍성 딸기잔치 용산 팝업 ｜도레도레 딸기 모찌치즈케이크 4종·....",
-          "url": "https://blog.naver.com/chio4466/224482452586",
+          "title": "카리나 샤넬 홀리데이 팝업 참석, 일반 방문과 예약은 언제부터 가....",
+          "url": "https://blog.naver.com/jacobysh/224482369176",
           "source": "네이버 블로그",
           "at": "2026-11-18T12:00",
-          "summary": "12월 18일부터는 서울 성수동에서 홍성 딸기 6개 품종을 비교 시식하는 팝업 이 열릴 예정 입니다. 시식 예정 품종은 다음과 같습니다. 설향 아리향 홍희 핑크캔디 조이베리 비타킹 용산에서는 설향 딸기로 만든..."
-        },
-        {
-          "title": "홍성 딸기, 도레도레 디저트로 재탄생…용산·성수서 팝업스토어 운영 - 뉴스플릭스",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TUG13N0ZaU09FUlppb1BVY2FhZzdMZFk2dDB0UXZZWHAyR3A2VEhWVDRBdXZSckE4RUI5OVJwb2liZnBuMGRyQUdmRWdPdTNZTW82UkdHWDBNZy16SUlSNFpxaU5lbUxkZzlDaQ?oc=5",
-          "source": "뉴스플릭스",
-          "at": "2026-11-18T11:47",
-          "summary": "홍성 딸기, 도레도레 디저트로 재탄생…용산·성수서 팝업스토어 운영 &nbsp;&nbsp; 뉴스플릭스"
-        },
-        {
-          "title": "홍성군-도레도레, 용산 아이파크몰에서 딸기 팝업 스토어 개최 - 충남일보",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iTDdXTkVlenROOFNPSkxMVXNhQmlvckNXOTNpTy0yUFVyS2RCWGJaNm51dlE4R0VSOWpfNmxWWF9FSDYzcG0yUlY3LUJCa2cxV0VNeGJNa2tNYlhRLVFjYlQxZ0l2d1MtLVpnNjBlZ09udG8?oc=5",
-          "source": "충남일보",
-          "at": "2026-11-18T09:27",
-          "summary": "홍성군-도레도레, 용산 아이파크몰에서 딸기 팝업 스토어 개최 &nbsp;&nbsp; 충남일보"
-        },
-        {
-          "title": "'비버 케이크' 도레도레, 성수 팝업 2곳 오픈…가격 1만3900원부터 - https://www.diarypoint.com/",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wV1BqRDlxeWd0R3BQQ21uLW8yYm9lZjNmNE9ma3hBUXhwbTBoOXNJYTR3S1lzcXRrTndKUGdzbTkzOXFUdTg1eFNTRWljMUNuaVcyem9YUi1DT2lFcXVMc1ZRUGVaVUhXRXpJ?oc=5",
-          "source": "https://www.diarypoint.com/",
-          "at": "2026-11-17T15:25",
-          "summary": "'비버 케이크' 도레도레, 성수 팝업 2곳 오픈…가격 1만3900원부터 &nbsp;&nbsp; https://www.diarypoint.com/"
+          "summary": "핵심 요약 ▶ 11/18 카리나, 성수 샤넬 팝업 오픈 행사 참석 ▶ 일반 오픈 11/21~12/31, 11시~20시 운영 ▶ 사전 예약 가능하고 현장 방문도 된대요 11월 18일 성수 동 오픈 행사 에스파 카리나가 18일 서울 성동구..."
         }
       ],
-      "days_ago": 1,
+      "days_ago": 0,
       "category": "공간",
-      "event_date": "2026-11-17",
-      "end_date": "",
-      "score": 12,
+      "event_date": "2026-11-18",
+      "end_date": "2026-12-31",
+      "score": 13,
       "verdict": "make",
-      "id": "sn_a70f4d2d0b"
+      "id": "sn_07d961f036"
     },
     {
       "entity": "에드워드 베스",
@@ -1279,6 +1230,42 @@
       "score": 12,
       "verdict": "make",
       "id": "sn_731cf6cb4e"
+    },
+    {
+      "entity": "도레도레",
+      "multiple": 3,
+      "speech": 1,
+      "why": "공간 · 일정 11/17 · 쓸모 정보 · 우리 씬 · 첫 소식 · 언론 3곳 · 기준표 +12: 쓸모 정보+3 · 우리 씬+2 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 씬+정보+1",
+      "articles": [
+        {
+          "title": "홍성 딸기, 도레도레 디저트로 재탄생…용산·성수서 팝업스토어 운영 - 뉴스플릭스",
+          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9TUG13N0ZaU09FUlppb1BVY2FhZzdMZFk2dDB0UXZZWHAyR3A2VEhWVDRBdXZSckE4RUI5OVJwb2liZnBuMGRyQUdmRWdPdTNZTW82UkdHWDBNZy16SUlSNFpxaU5lbUxkZzlDaQ?oc=5",
+          "source": "뉴스플릭스",
+          "at": "2026-11-18T11:47",
+          "summary": "홍성 딸기, 도레도레 디저트로 재탄생…용산·성수서 팝업스토어 운영 &nbsp;&nbsp; 뉴스플릭스"
+        },
+        {
+          "title": "홍성군-도레도레, 용산 아이파크몰에서 딸기 팝업 스토어 개최 - 충남일보",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iTDdXTkVlenROOFNPSkxMVXNhQmlvckNXOTNpTy0yUFVyS2RCWGJaNm51dlE4R0VSOWpfNmxWWF9FSDYzcG0yUlY3LUJCa2cxV0VNeGJNa2tNYlhRLVFjYlQxZ0l2d1MtLVpnNjBlZ09udG8?oc=5",
+          "source": "충남일보",
+          "at": "2026-11-18T09:27",
+          "summary": "홍성군-도레도레, 용산 아이파크몰에서 딸기 팝업 스토어 개최 &nbsp;&nbsp; 충남일보"
+        },
+        {
+          "title": "'비버 케이크' 도레도레, 성수 팝업 2곳 오픈…가격 1만3900원부터 - https://www.diarypoint.com/",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wV1BqRDlxeWd0R3BQQ21uLW8yYm9lZjNmNE9ma3hBUXhwbTBoOXNJYTR3S1lzcXRrTndKUGdzbTkzOXFUdTg1eFNTRWljMUNuaVcyem9YUi1DT2lFcXVMc1ZRUGVaVUhXRXpJ?oc=5",
+          "source": "https://www.diarypoint.com/",
+          "at": "2026-11-17T15:25",
+          "summary": "'비버 케이크' 도레도레, 성수 팝업 2곳 오픈…가격 1만3900원부터 &nbsp;&nbsp; https://www.diarypoint.com/"
+        }
+      ],
+      "days_ago": 1,
+      "category": "공간",
+      "event_date": "2026-11-17",
+      "end_date": "",
+      "score": 12,
+      "verdict": "make",
+      "id": "sn_6a2b08b353"
     },
     {
       "entity": "네이버 × 현대카드 THE SIX",
@@ -1376,26 +1363,29 @@
       "id": "sn_0eae50a09b"
     },
     {
-      "entity": "산리오 문방구",
+      "entity": "게스",
       "multiple": 1,
       "speech": 1,
-      "why": "트렌드 · 일정 11/19~11/30 · 쓸모 정보 · 품절·오픈런 · 저장각 · 언론 1곳 · 기준표 +12: 쓸모 정보+3 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 품절·오픈런+2 · 큰 이름 협업+1",
+      "why": "공간 · 일정 11/23 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 1곳 · 기준표 +12: 쓸모 정보+3 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1",
       "articles": [
         {
-          "title": "산리오 문방구 온라인 팝업 오픈 ! 11월 19일 카카오 선물하기에서 만....",
-          "url": "https://blog.naver.com/wc6427/224468210609",
+          "title": "현진 게스 겨울 캠페인 공개…스트레이 키즈, 23일 롯데월드몰 팝업 ....",
+          "url": "https://blog.naver.com/hamstar_-/224482583561",
           "source": "네이버 블로그",
           "at": "2026-11-18T12:00",
-          "summary": "시작일: 2026년 11월 19일 목요일 종료일: 2026년 11월 30일 월요일 오픈 시간: 오전 11시 판매처: 카카오톡 선물하기 이번 온라인 팝업 은 약 12일 동안 진행될 예정 입니다. 다만 준비된 수량이 모두 소진되면 별도..."
+          "summary": "• 11월 18일: 캠페인 공개 • 11월 23일: 롯데월드몰 팝업 시작 • 팝업 한정 제품과 현장 이벤트 운영 주말에 사람이 몰릴 수 있으니, 특정 제품을 노린다면 오픈 시간을 확인하고 가는 편이 좋습니다. ④ 겨울..."
         }
       ],
       "days_ago": 0,
-      "category": "트렌드",
-      "event_date": "2026-11-19",
-      "end_date": "2026-11-30",
+      "category": "공간",
+      "event_date": "2026-11-23",
+      "end_date": "",
       "score": 12,
       "verdict": "make",
-      "id": "sn_1950c825d0"
+      "id": "sn_cb829d7a32",
+      "also_in_magazine": [
+        "Dfodti4PhU-"
+      ]
     },
     {
       "entity": "루이뷔통",
@@ -1418,6 +1408,47 @@
       "score": 12,
       "verdict": "make",
       "id": "sn_a36789fe1b"
+    },
+    {
+      "entity": "카리나",
+      "multiple": 3,
+      "speech": 1,
+      "why": "패션 · 일정 11/18 · 쓸모 정보 · 우리 씬 · 언론 3곳 · 기준표 +11: 쓸모 정보+3 · 우리 씬+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1 · 씬+정보+1",
+      "articles": [
+        {
+          "title": "[포토] 카리나, 첫 눈꽃 하트",
+          "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525277",
+          "source": "enews.imbc.com",
+          "at": "2026-11-18T17:14",
+          "summary": "에스파(aespa) 카리나가 18일 오후 서울 성수동에 위치한 한 매장에서 열린 뷰티 패션 브랜드 팝업스토어 오픈 행사에 참석해 포즈를 취하고 있다.\n이날 카리나는 독특하게 두 가닥으로 묶은 애플 ‘뿌까’ 헤어에 기모 라펠이 포인트인 트위드 상하의 화이트 베이지 셋업과 블랙 힐로 우아한 눈꽃 패션을 뽐냈다. 카리나는 연신 ‘웃참’ 미소를 건네며 첫눈을 맞이할 것 같은 다양한 설레임 포즈로 행사를 즐겼다.\n주소: 서울시 마포구 성암로 255(상암동, 문화방송미디어센터 10층) 대표전화 및 사진구매 문의: 02-2105-1100"
+        },
+        {
+          "title": "에스파 카리나(aespa Karina), '퍼스널 컬러 윈터? 새하얀 겨울 공주님 같은 자태' [영상] - 스타뉴스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGOU0yeDNfRl9ZRGJsT2l3a1V1ZVY0OHcydHdwS2tUS0ozWkZmd1lKdmxUM3dydDBDUzAtMG5zc1MxbExUV2ZiMWVZcFNnek03SGZIblBNVHU0WWd0TnpUQlRlVGZsUllNNHdUMEJMOGtGeG8?oc=5",
+          "source": "스타뉴스",
+          "at": "2026-11-18T15:31",
+          "summary": "에스파 카리나(aespa Karina), '퍼스널 컬러 윈터? 새하얀 겨울 공주님 같은 자태' [영상] &nbsp;&nbsp; 스타뉴스"
+        },
+        {
+          "title": "순백 트위드에 퍼까지… 26세 카리나 샤넬 홀리데이 팝업 패션, 아이....",
+          "url": "https://blog.naver.com/na0eee-/224482529809",
+          "source": "네이버 블로그",
+          "at": "2026-11-18T12:00",
+          "summary": "출처: 카리나 인스타그램 @katarinabluu 카리나 코디 샤넬 홀리데이 팝업 , 순백 트위드 룩 에스파 카리나가 오늘 18일 성수 동 샤넬 홀리데이 팝업 오픈 행사에 다녀왔어요 인스타그램에도 \"미리해피홀리데이..."
+        }
+      ],
+      "days_ago": 0,
+      "category": "패션",
+      "event_date": "2026-11-18",
+      "end_date": "",
+      "score": 11,
+      "verdict": "make",
+      "id": "sn_31996a9cd2",
+      "also_in_magazine": [
+        "Df34Vv5COkJ",
+        "DfyqWqkgZhV",
+        "DfbdguEyQ__"
+      ]
     },
     {
       "entity": "맥도날드 세종DT점",
@@ -1485,67 +1516,39 @@
       "id": "sn_f256ee92c2"
     },
     {
-      "entity": "설아",
-      "multiple": 11,
+      "entity": "아주르 프로밀리아",
+      "multiple": 2,
       "speech": 1,
-      "why": "컬처 · 일정 12/27 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 11곳 · 기준표 +10: 쓸모 정보+3 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
+      "why": "트렌드 · 일정 11/18~11/26 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 2곳 · 기준표 +11: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 씬+정보+1",
       "articles": [
         {
-          "title": "이진솔, 12월 20일 단독 팬미팅 ...\"올 연말엔 팬들과 진솔하게\"",
-          "url": "http://www.metroseoul.co.kr/article/20261118500459",
-          "source": "metroseoul.co.kr",
-          "at": "2026-11-18T17:30",
-          "summary": "'JINSOL 2026 YEAR-END FAN MEETING' 라이브 무대부터 크리스마스 이벤트까지\n가수 이진솔이 한 해를 마무리하는 12월, 팬들과 마주 앉아 따뜻한 연말 추억을 쌓는다.\n그룹 에이프릴 출신 이진솔은 오는 12월 20일 단독 팬미팅 'JINSOL 2026 YEAR-END FAN MEETING'을 개최한다. 이번 팬미팅은 이름처럼 '음악'과 '진솔한 소통'에 중점을 둔다. 무대 위 아티스트로서의 면모를 만끽할 수 있는 감미로운 라이브 무대는 물론, 한 해를 함께 돌아보며 소소한 이야기를 나누는 토크 코너가 준비된다."
+          "title": "넥슨 '아주르 프로밀리아', 서울 도심서 출시 마케팅 총력… 글로벌 사...",
+          "url": "http://www.biztribune.co.kr/news/articleView.html?idxno=362768",
+          "source": "biztribune.co.kr",
+          "at": "2026-11-18T21:22",
+          "summary": "넥슨이 오는 26일 신작 판타지 월드 역할수행게임(RPG) '아주르 프로밀리아' 정식 출시를 앞두고 서울 주요 거점에서 대규모 옥외광고(OOH) 캠페인을 전개하며 이용자 접점 확대에 나섰다.\n18일 넥슨에 따르면 이번 캠페인은 강남과 홍대, 광화문, 용산 등 서울 주요 상권과 지하철 2호선을 중심으로 진행된다. 게임 속 주인공을 뜻하는 '성림자'를 이용자에게 직접 말을 거는 형식으로 활용해 일상 공간에서 게임 세계관을 경험하도록 기획했다.\n이번 마케팅은 글로벌 사전등록 3000만 돌파와 맞물려 진행된다는 점에서 주목된다.\n'아주르 "
         },
         {
-          "title": "닐로, 12월 31일 단독 콘서트 개최 …팬들과 함께할 특별한 연말",
-          "url": "https://www.news1.kr/entertain/music/6358435",
-          "source": "news1.kr",
-          "at": "2026-11-18T16:56",
-          "summary": "닐로는 오는 12월 31일 오후 8시 서울 홍대 롤링홀에서 연말 단독 콘서트 '아워 시즌: 스테이'(Our Season : Stay)를 개최 한다. 이번 공연은 한 해 동안 각자의 자리에서 바쁘게 달려온 관객들과 함께 지난 시간을 돌아보고..."
-        },
-        {
-          "title": "우주소녀 설아, 12월 서울 팬미팅 개최...꾸밈없는 매력 선보인다 - 뉴스브라이트",
-          "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB1bUZRTTQ0VlhDd2REeFozM3RGb2dQcEFLSEM5d28zRTZwNWNIT09RNmRiSTYzR0VhVnBVT3E4bWZzRndneE8xUzFQLXNuOHZ6NFNycjVfNG01TW1qVDFuMXhQZ0JUS2NGR250aQ?oc=5",
-          "source": "뉴스브라이트",
-          "at": "2026-11-17T22:20",
-          "summary": "우주소녀 설아, 12월 서울 팬미팅 개최...꾸밈없는 매력 선보인다 &nbsp;&nbsp; 뉴스브라이트"
-        },
-        {
-          "title": "정해인, 글로벌 팬미팅 투어 ‘밋 미 데어’ 요코하마·서울 추가 개최…총 9개 도시 순회 - 스페셜타임스",
-          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wMnRiODFwNTlmOTFGMmFXdGpQNzlHTU9nOFJLYkpuQ3UzeVB5SXZaS2tpcXYtc181TWsyQ0t2Q2M2S21OQlRMUmUtQzc0YzZ0TkFEbDNuQnQ4VUljRlNjYXhhdDVpYjhTRUdUNnVhU1lHMlE?oc=5",
-          "source": "스페셜타임스",
-          "at": "2026-11-17T09:55",
-          "summary": "정해인, 글로벌 팬미팅 투어 ‘밋 미 데어’ 요코하마·서울 추가 개최…총 9개 도시 순회 &nbsp;&nbsp; 스페셜타임스"
-        },
-        {
-          "title": "설아, 12월 27일 단독 팬미팅 개최…'설아와 현정'으로 팬들과 특별한 만남 - 뉴스인",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96TkZuWGxOWGl0bjVWekdpcU1ibTFfRXl1ejRzM0MxS3pzYXotbFRMX0dQdW9lblVjOWV3QTRGMnpGYkUxbG5Lbi1TWU9lN2FHYW8xX1dKMlFxUmtZSzdUWWJFZklQMjZ2NVRB?oc=5",
-          "source": "뉴스인",
-          "at": "2026-11-17T09:36",
-          "summary": "설아, 12월 27일 단독 팬미팅 개최…'설아와 현정'으로 팬들과 특별한 만남 &nbsp;&nbsp; 뉴스인"
-        },
-        {
-          "title": "정해인, 팬미팅 투어 요코하마·서울 추가..아시아부터 중남미까지 9개 도시 순회 - 브레이크뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TVk5iaXl0SnBXYWM2VHJjVXk1SmRXYlNWazd6ckZwallJQUxtX1pHWFdWd25jeEZoRzI2SXJ4QnY0ZUI5MS1Zdg?oc=5",
-          "source": "브레이크뉴스",
-          "at": "2026-11-17T09:31",
-          "summary": "정해인, 팬미팅 투어 요코하마·서울 추가..아시아부터 중남미까지 9개 도시 순회 &nbsp;&nbsp; 브레이크뉴스"
+          "title": "게임업계, 서브컬처로 눈 돌린다…'팬덤 잡기' 경쟁 본격화",
+          "url": "http://www.srtimes.kr/news/articleView.html?idxno=217853",
+          "source": "srtimes.kr",
+          "at": "2026-11-18T08:40",
+          "summary": "넥슨·엔씨·넷마블·스마일게이트, 신작 개발·글로벌 시장 공략 속도\n캐릭터·세계관 앞세워 충성 이용자 확보…굿즈·2차 창작 등 IP 확장성 주목\n[SRT(에스알 타임스) 편슬기 기자] 게임업계가 장르 다변화에 속도를 내면서 기존 MMORPG 중심의 포트폴리오에서 벗어나 다양한 장르의 신작을 선보이고 있다. 특히 서브컬처 신작 출시가 잇따르면서 취향이 뚜렷하고 게임 몰입도가 높은 핵심 이용자층을 선점하려는 업계의 움직임도 본격화되는 모습이다.\n18일 게임업계에 따르면 넥슨, 엔씨소프트, 넷마블, 스마일게이트 등 주요 게임사들이 서브컬처"
         }
       ],
-      "days_ago": 2,
-      "category": "컬처",
-      "event_date": "2026-12-27",
-      "end_date": "",
-      "score": 10,
+      "days_ago": 0,
+      "category": "트렌드",
+      "event_date": "2026-11-18",
+      "end_date": "2026-11-26",
+      "score": 11,
       "verdict": "make",
-      "id": "sn_587d34a1d7"
+      "id": "sn_2fd6417e3f"
     },
     {
       "entity": "태연",
-      "multiple": 10,
+      "multiple": 14,
       "speech": 1,
-      "why": "컬처 · 일정 1/15~1/17 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 10곳 · 기준표 +10: 쓸모 정보+3 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
+      "why": "컬처 · 일정 1/1 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 14곳 · 기준표 +10: 쓸모 정보+3 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
       "articles": [
         {
           "title": "태연, 단독 콘서트 1월 15~17일 KSPO DOME서 개최 ..亞투어 시작",
@@ -1576,127 +1579,84 @@
           "summary": "태연, 또 한 번 KSPO돔 오른다…내년 1월 단독 콘서트 &nbsp;&nbsp; 굿모닝경제"
         },
         {
-          "title": "태연 체조서 새 투어 시작…2027년 4월까지 바쁜 행보",
-          "url": "https://sports.donga.com/ent/article/all/20261118/135048175/1",
-          "source": "sports.donga.com",
-          "at": "2026-11-18T16:50",
-          "summary": "태연은 오는 2027년 1월 15일부터 17일까지 사흘간 서울 올림픽공원 KSPO DOME에서 일곱 번째 단독 콘서트 ‘TAEYEON CONCERT - F.L.Y. in Seoul’(태연 콘서트 - 플라이 인 서울)을 개최 한다. 지난해 3월 열린 ‘TAEYEON CONCERT..."
-        },
-        {
           "title": "태연, 내년 1월 15~17일 KSPO돔 단독 콘서트 확정 - 일간스포츠",
           "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB6dGp5Nzd2S2hpbGhGNkxKUUx1UjI3S3FiYmdDTkppdXFBaDIybUwtd09UdFRxY2NPLXpJUWNZTWpXamhra3pDeFZjN093X0F0S3dBUFQwWUgyMVlqWTlMWXlOY1Z4ZHJG?oc=5",
           "source": "일간스포츠",
           "at": "2026-11-18T14:44",
           "summary": "태연, 내년 1월 15~17일 KSPO돔 단독 콘서트 확정 &nbsp;&nbsp; 일간스포츠"
-        }
-      ],
-      "days_ago": 0,
-      "category": "컬처",
-      "event_date": "2027-01-15",
-      "end_date": "2027-01-17",
-      "score": 10,
-      "verdict": "make",
-      "id": "sn_6b14aa3820"
-    },
-    {
-      "entity": "더보이즈",
-      "multiple": 5,
-      "speech": 1,
-      "why": "컬처 · 일정 12/1~12/1 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 5곳 · 기준표 +10: 쓸모 정보+3 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
-      "articles": [
-        {
-          "title": "에릭, 첫 단독 팬미팅…더보이즈 멤버들 지원사격 - 뉴시스",
-          "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5JV2dVTlgtcHJ3WHNLSWptUnA3R3Noc3JadXBOTnNtUlUwZXlhRG5PTi1RZVp2Q2FJRTlLaHMxMmVWMjZBR0kyRWNtbVlER0h2alJhM1pSQ1lrRVc5MUd0NNIBeEFVX3lxTE9GOVc2S0xCMkN2WHAzMlppYnJhOWZkSjRiaU1vY0JhVGRybVplYnlJNnpvS2M2SVhNaEo3Wl9KdTB4bHpVSEFBYXEtdzhrb0o2aXg2WG0xZFVBejJPN0NhRlBvc3JlbmFfUVllMXNQZ01tSkNZZ3J0Vw?oc=5",
-          "source": "뉴시스",
-          "at": "2026-11-15T11:05",
-          "summary": "에릭, 첫 단독 팬미팅…더보이즈 멤버들 지원사격 &nbsp;&nbsp; 뉴시스"
         },
         {
-          "title": "더보이즈, 9인 체제 첫 무대…12월 KSPO돔 단독 콘서트 - 스포츠월드",
-          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBlTVpDUVF1SUo2ZHU3UTZqNWhMa1VJV0RDdHdpZjFicmYwaUFOWGZ1dzZWMEtBNndEU3VVVEI0ZGVlNzE4TUhhTUxyVWN4YnlmdElNNDFrZVZXSEVFQmF5a1FB?oc=5",
-          "source": "스포츠월드",
-          "at": "2026-11-14T11:32",
-          "summary": "더보이즈, 9인 체제 첫 무대…12월 KSPO돔 단독 콘서트 &nbsp;&nbsp; 스포츠월드"
-        },
-        {
-          "title": "더보이즈 에릭, 첫 국내 팬미팅 개최…'더비 페스타' 마무리 - 뉴스1",
-          "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBwM04yMDM4dlpTczJJb2phTV9PaFBoQ1llU2JkbDRjVmpWTlJmRUxaN2s4alBEeXluRTZFYUF5Rld5aWFtQjhSX2RoTHV2X05maTVkU0NON2YxUkhpRFhkX2p4dmY?oc=5",
-          "source": "뉴스1",
-          "at": "2026-11-14T11:27",
-          "summary": "더보이즈 에릭, 첫 국내 팬미팅 개최…'더비 페스타' 마무리 &nbsp;&nbsp; 뉴스1"
-        },
-        {
-          "title": "더보이즈 에릭 만나자! 첫 국내 단독 팬미팅 개최 - 전자신문",
-          "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAzOTctcWZXRml3SlhmWnJRUEJ1ZnRJZDdDaWxWempvVXNTUmc0N0JNLU1hRk1nS2ZQNDV4WlBhOU5pZUFGZ3R2b00wX2pHdw?oc=5",
-          "source": "전자신문",
-          "at": "2026-11-14T10:45",
-          "summary": "더보이즈 에릭 만나자! 첫 국내 단독 팬미팅 개최 &nbsp;&nbsp; 전자신문"
-        },
-        {
-          "title": "더보이즈, 연말 서울 KSPO돔서 4일간 단독 콘서트 - 연합뉴스",
-          "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBzMjRNaTlxTm5HX21ibzFMb013SzV2MGRpOGxaQWx5LWNEcDJTQW5XZTFhV19TekRibDZVVTg0Rml3andzZURaRUNiVTNpR3pYU0o3U1JVTmlDbWfSAWBBVV95cUxPX2k2VTFFSFFOdFpSWHRQbzZzb0tNQXktMmFKWVNlNjhyb1Q5anRHNWp0VDlKWEplcjVMY21XVnp3aVMyTTJRbkM1MldiWllrbW5rN01XcmxtSVhMUFJ4Q1o?oc=5",
-          "source": "연합뉴스",
-          "at": "2026-11-13T19:20",
-          "summary": "더보이즈, 연말 서울 KSPO돔서 4일간 단독 콘서트 &nbsp;&nbsp; 연합뉴스"
+          "title": "태연, 내년 1월 KSPO DOME서 단독 콘서트 '플라이'…1년10개월 만 - 브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9fM0ZBY0NHUzdfWTEyZ1Bfa2tIdnZ5eDlyV1Q3LWhqMTFFWFNaS2l3M3BZX3NtTGR6bzFDRFVMdkYxQQ?oc=5",
+          "source": "브레이크뉴스",
+          "at": "2026-11-18T14:42",
+          "summary": "태연, 내년 1월 KSPO DOME서 단독 콘서트 '플라이'…1년10개월 만 &nbsp;&nbsp; 브레이크뉴스"
         }
       ],
       "days_ago": 5,
       "category": "컬처",
-      "event_date": "2026-12-01",
-      "end_date": "2026-12-01",
-      "score": 10,
-      "verdict": "make",
-      "id": "sn_ee13370047"
-    },
-    {
-      "entity": "베즐리",
-      "multiple": 5,
-      "speech": 1,
-      "why": "공간 · 일정 11/15 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 5곳 · 기준표 +10: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 씬+정보+1",
-      "articles": [
-        {
-          "title": "[포토] \"더현대 서울서 즐기는 뉴욕 크리스마스\" - 매일경제",
-          "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rX3FFS0hnNldSemJ5VURuQmlVbndqaE9PRzU3UDhndDlKRzRSenZOYnhrU2VsYUFyUl9QM2k0TTViVGI3Qzc0QkhoSV91UjJMd25QdDhn?oc=5",
-          "source": "매일경제",
-          "at": "2026-11-15T17:17",
-          "summary": "[포토] \"더현대 서울서 즐기는 뉴욕 크리스마스\" &nbsp;&nbsp; 매일경제"
-        },
-        {
-          "title": "[포토뉴스] 베즐리, 더현대 서울서 뉴욕 테마 크리스마스 팝업 운영 - 파이낸셜포스트",
-          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xeE1WajNEanNrYlJiVVZ2VVUwRUlqdWFvaGNmRXdCcjV1TGlkbXZFbzluaVMycFRPdi1ETE1XVjBFVkp0T00zLWtzOWhFck51cmFhdFNCUzRHbG81Z3FPODkzNTBjLXVBU3BRcHNsZmN5eHUt?oc=5",
-          "source": "파이낸셜포스트",
-          "at": "2026-11-15T12:33",
-          "summary": "[포토뉴스] 베즐리, 더현대 서울서 뉴욕 테마 크리스마스 팝업 운영 &nbsp;&nbsp; 파이낸셜포스트"
-        },
-        {
-          "title": "현대그린푸드, 더현대 서울서 베즐리 크리스마스 팝업 운영 - BBS불교방송",
-          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pZE5mNXY2eTFQSUJ5VkxGZy1QRjdZZzltNjg4N1duNE8zcXJVRmVNYlhvbXVuSV9jSF8tSnlJOXlDV0dzbnNaejNFQjY4WHRKVFFNQkM2MV82VFNYOGxDaG9DS0Vwc0pUb0R3?oc=5",
-          "source": "BBS불교방송",
-          "at": "2026-11-15T11:20",
-          "summary": "현대그린푸드, 더현대 서울서 베즐리 크리스마스 팝업 운영 &nbsp;&nbsp; BBS불교방송"
-        },
-        {
-          "title": "현대백화점, 더현대 서울서 반려동물 초상화 팝업…다음달 27일까지 - 뉴스핌",
-          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hQnozb29RcVFQcUFfQnNmcWo3OFFsQUR6Qk92UjI3WUhLZG10U2VnbGtiNmJla2ZlaGQxenhiVmlrcjJJaFJlVXVvVmZndmZrNXVFRDZLd09OM3Bu?oc=5",
-          "source": "뉴스핌",
-          "at": "2026-11-12T15:23",
-          "summary": "현대백화점, 더현대 서울서 반려동물 초상화 팝업…다음달 27일까지 &nbsp;&nbsp; 뉴스핌"
-        },
-        {
-          "title": "[포토] “우리 집 막내를 그려주세요”… 더현대 서울서 반려동물 초상화 팝업 - 이투데이",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00T2N0ZFFmbE9KbThNbDJ2b29tejhaVmZjeDAtMnptM2NwUW1NVktwaE01clBrOGtJWWxaM3RzdUF3X0lVd2JCcE9aU2Fac2t3SUh4bg?oc=5",
-          "source": "이투데이",
-          "at": "2026-11-12T14:37",
-          "summary": "[포토] “우리 집 막내를 그려주세요”… 더현대 서울서 반려동물 초상화 팝업 &nbsp;&nbsp; 이투데이"
-        }
-      ],
-      "days_ago": 6,
-      "category": "공간",
-      "event_date": "2026-11-15",
+      "event_date": "2027-01-01",
       "end_date": "",
       "score": 10,
       "verdict": "make",
-      "id": "sn_72dad5147e"
+      "id": "sn_0741205f1f"
+    },
+    {
+      "entity": "설아",
+      "multiple": 10,
+      "speech": 1,
+      "why": "컬처 · 일정 12/27 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 10곳 · 기준표 +10: 쓸모 정보+3 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
+      "articles": [
+        {
+          "title": "이진솔, 12월 20일 단독 팬미팅 ...\"올 연말엔 팬들과 진솔하게\"",
+          "url": "http://www.metroseoul.co.kr/article/20261118500459",
+          "source": "metroseoul.co.kr",
+          "at": "2026-11-18T17:30",
+          "summary": "'JINSOL 2026 YEAR-END FAN MEETING' 라이브 무대부터 크리스마스 이벤트까지\n가수 이진솔이 한 해를 마무리하는 12월, 팬들과 마주 앉아 따뜻한 연말 추억을 쌓는다.\n그룹 에이프릴 출신 이진솔은 오는 12월 20일 단독 팬미팅 'JINSOL 2026 YEAR-END FAN MEETING'을 개최한다. 이번 팬미팅은 이름처럼 '음악'과 '진솔한 소통'에 중점을 둔다. 무대 위 아티스트로서의 면모를 만끽할 수 있는 감미로운 라이브 무대는 물론, 한 해를 함께 돌아보며 소소한 이야기를 나누는 토크 코너가 준비된다."
+        },
+        {
+          "title": "닐로, 12월 31일 단독 콘서트 개최 …팬들과 함께할 특별한 연말",
+          "url": "https://www.news1.kr/entertain/music/6358435",
+          "source": "news1.kr",
+          "at": "2026-11-18T16:56",
+          "summary": "닐로는 오는 12월 31일 오후 8시 서울 홍대 롤링홀에서 연말 단독 콘서트 '아워 시즌: 스테이'(Our Season : Stay)를 개최 한다. 이번 공연은 한 해 동안 각자의 자리에서 바쁘게 달려온 관객들과 함께 지난 시간을 돌아보고..."
+        },
+        {
+          "title": "정해인, 글로벌 팬미팅 투어 ‘밋 미 데어’ 요코하마·서울 추가 개최…총 9개 도시 순회 - 스페셜타임스",
+          "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1wMnRiODFwNTlmOTFGMmFXdGpQNzlHTU9nOFJLYkpuQ3UzeVB5SXZaS2tpcXYtc181TWsyQ0t2Q2M2S21OQlRMUmUtQzc0YzZ0TkFEbDNuQnQ4VUljRlNjYXhhdDVpYjhTRUdUNnVhU1lHMlE?oc=5",
+          "source": "스페셜타임스",
+          "at": "2026-11-17T09:55",
+          "summary": "정해인, 글로벌 팬미팅 투어 ‘밋 미 데어’ 요코하마·서울 추가 개최…총 9개 도시 순회 &nbsp;&nbsp; 스페셜타임스"
+        },
+        {
+          "title": "설아, 12월 27일 단독 팬미팅 개최…'설아와 현정'으로 팬들과 특별한 만남 - 뉴스인",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE96TkZuWGxOWGl0bjVWekdpcU1ibTFfRXl1ejRzM0MxS3pzYXotbFRMX0dQdW9lblVjOWV3QTRGMnpGYkUxbG5Lbi1TWU9lN2FHYW8xX1dKMlFxUmtZSzdUWWJFZklQMjZ2NVRB?oc=5",
+          "source": "뉴스인",
+          "at": "2026-11-17T09:36",
+          "summary": "설아, 12월 27일 단독 팬미팅 개최…'설아와 현정'으로 팬들과 특별한 만남 &nbsp;&nbsp; 뉴스인"
+        },
+        {
+          "title": "정해인, 팬미팅 투어 요코하마·서울 추가..아시아부터 중남미까지 9개 도시 순회 - 브레이크뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TVk5iaXl0SnBXYWM2VHJjVXk1SmRXYlNWazd6ckZwallJQUxtX1pHWFdWd25jeEZoRzI2SXJ4QnY0ZUI5MS1Zdg?oc=5",
+          "source": "브레이크뉴스",
+          "at": "2026-11-17T09:31",
+          "summary": "정해인, 팬미팅 투어 요코하마·서울 추가..아시아부터 중남미까지 9개 도시 순회 &nbsp;&nbsp; 브레이크뉴스"
+        },
+        {
+          "title": "정해인, 2027 글로벌 팬미팅 투어 개최…3월 서울서 피날레 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBrSzUyUEFjbmM5TWZ4LWxFUTIwbFBKV3dReVJ5bHhBMm9aWHBFc1B3YTJEbGs4Q2Z5b3VnbkJfY2xLM2xMVnZVTktxVTVHM3JBWjJSenhmM0p2WFgw?oc=5",
+          "source": "뉴스핌",
+          "at": "2026-11-17T08:38",
+          "summary": "정해인, 2027 글로벌 팬미팅 투어 개최…3월 서울서 피날레 &nbsp;&nbsp; 뉴스핌"
+        }
+      ],
+      "days_ago": 2,
+      "category": "컬처",
+      "event_date": "2026-12-27",
+      "end_date": "",
+      "score": 10,
+      "verdict": "make",
+      "id": "sn_587d34a1d7"
     },
     {
       "entity": "온그리디언츠",
@@ -1731,6 +1691,35 @@
       ]
     },
     {
+      "entity": "베즐리",
+      "multiple": 2,
+      "speech": 1,
+      "why": "공간 · 일정 11/15 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 2곳 · 기준표 +10: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 씬+정보+1",
+      "articles": [
+        {
+          "title": "[포토뉴스] 베즐리, 더현대 서울서 뉴욕 테마 크리스마스 팝업 운영 - 파이낸셜포스트",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4xeE1WajNEanNrYlJiVVZ2VVUwRUlqdWFvaGNmRXdCcjV1TGlkbXZFbzluaVMycFRPdi1ETE1XVjBFVkp0T00zLWtzOWhFck51cmFhdFNCUzRHbG81Z3FPODkzNTBjLXVBU3BRcHNsZmN5eHUt?oc=5",
+          "source": "파이낸셜포스트",
+          "at": "2026-11-15T12:33",
+          "summary": "[포토뉴스] 베즐리, 더현대 서울서 뉴욕 테마 크리스마스 팝업 운영 &nbsp;&nbsp; 파이낸셜포스트"
+        },
+        {
+          "title": "현대그린푸드, 더현대 서울서 베즐리 크리스마스 팝업 운영 - BBS불교방송",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5pZE5mNXY2eTFQSUJ5VkxGZy1QRjdZZzltNjg4N1duNE8zcXJVRmVNYlhvbXVuSV9jSF8tSnlJOXlDV0dzbnNaejNFQjY4WHRKVFFNQkM2MV82VFNYOGxDaG9DS0Vwc0pUb0R3?oc=5",
+          "source": "BBS불교방송",
+          "at": "2026-11-15T11:20",
+          "summary": "현대그린푸드, 더현대 서울서 베즐리 크리스마스 팝업 운영 &nbsp;&nbsp; BBS불교방송"
+        }
+      ],
+      "days_ago": 3,
+      "category": "공간",
+      "event_date": "2026-11-15",
+      "end_date": "",
+      "score": 10,
+      "verdict": "make",
+      "id": "sn_a6a48d7765"
+    },
+    {
       "entity": "산산기어",
       "multiple": 1,
       "speech": 1,
@@ -1751,28 +1740,6 @@
       "score": 10,
       "verdict": "make",
       "id": "sn_6b10cfb9da"
-    },
-    {
-      "entity": "999휴머니티",
-      "multiple": 1,
-      "speech": 1,
-      "why": "공간 · 일정 11/11 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 1곳 · 기준표 +10: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 2030 화제+2 · 씬+정보+1",
-      "articles": [
-        {
-          "title": "999휴머니티, 더현대 서울 팝업 스토어 오픈 - 아이즈매거진 | eyesmag",
-          "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB0a3ljNVVqUXVXYmNLVGRIUFI1NUNVTkRVajNuMklacDhZdVMteC0wOGRIeW5IVDNfN3p3ZEc3SGZKVkVQSl9yNHNWM2htbmxUdUczZDRTdGQ2bWZIelI3UUNBd21zM0JyN3dnUUNnWV9JM2NkUF9n?oc=5",
-          "source": "아이즈매거진 | eyesmag",
-          "at": "2026-11-12T21:23",
-          "summary": "999휴머니티, 더현대 서울 팝업 스토어 오픈 &nbsp;&nbsp; 아이즈매거진 | eyesmag"
-        }
-      ],
-      "days_ago": 7,
-      "category": "공간",
-      "event_date": "2026-11-11",
-      "end_date": "",
-      "score": 10,
-      "verdict": "make",
-      "id": "sn_93896f2e90"
     },
     {
       "entity": "아가트",
@@ -1841,6 +1808,28 @@
       "id": "sn_9c43fc880e"
     },
     {
+      "entity": "천천히 강렬하게",
+      "multiple": 1,
+      "speech": 1,
+      "why": "컬처 · 일정 12/11 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 1곳 · 기준표 +10: 쓸모 정보+3 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
+      "articles": [
+        {
+          "title": "'천천히 강렬하게' 송혜교, 노희경 작가와 세 번째 만남",
+          "url": "http://www.interview365.com/news/articleView.html?idxno=112379",
+          "source": "interview365.com",
+          "at": "2026-11-18T21:46",
+          "summary": "인터뷰365 이수진 기자 = 배우 송혜교가 ‘천천히 강렬하게’에서 악착같은 생활력과 거침없는 승부욕을 지닌 캐릭터로 또 다른 변신에 나선다.\n18일 넷플릭스에 따르면 송혜교는 내달 11일 첫 공개되는 넷플릭스 시리즈 ‘천천히 강렬하게’에서 민자 역을 맡았다.\n이 작품은 야만과 폭력이 판치던 1960~80년대 한국 연예계를 배경으로, 가진 건 없지만 빛나는 성공을 꿈꾸며 온몸을 던졌던 이들의 성장 스토리를 그린다.\n궂은일을 마다하지 않던 민자는 음반 산업에서 기회를 발견하고 신입 모찌(매니저)로 뛰어든다. 송혜교는 가수의 재능을 단번"
+        }
+      ],
+      "days_ago": 0,
+      "category": "컬처",
+      "event_date": "2026-12-11",
+      "end_date": "",
+      "score": 10,
+      "verdict": "make",
+      "id": "sn_7fd4df1492"
+    },
+    {
       "entity": "비도크",
       "multiple": 1,
       "speech": 1,
@@ -1851,7 +1840,7 @@
           "url": "https://www.gosiweek.com/article/1065602997899330",
           "source": "gosiweek.com",
           "at": "2026-11-18T17:56",
-          "summary": "창작 뮤지컬 ‘비도크’가 오는 12월 17일부터 27일까지 서울 종로구 대학로 공간 아울에서 관객과 만난다.... 판타지 뮤지컬 이다. 고전 속 인물을 현대적 시각으로 재해석해 정의와 용서, 화해의 의미를 다룬다. 주인공..."
+          "summary": "빅토르 위고의 소설 ‘레미제라블’에서 법과 원칙을 지키려 했던 쟈베르. 그의 실존 모델로 알려진 비도크가 현대의 무명 배우를 만나면서 새로운 이야기가 펼쳐진다. 창작뮤지컬 ‘비도크’가 오는 12월 17일부터 27일까지 서울 종로구 대학로 공간 아울에서 관객과 만난다. 작품은 빅토르 위고의 친구이자 쟈베르의 실제 모델로 알려진 비도크와 현대를 살아가는 배우의 만남을 그린 판타지 뮤지컬이다. 고전 속 인물을 현대적 시각으로 재해석해 정의와 용서, 화해의 의미를 다룬다. 주인공 차강호는 유명 배우를 꿈꾸며 10년째 무명 생활을 이어온 3"
         }
       ],
       "days_ago": 0,
@@ -1861,6 +1850,28 @@
       "score": 10,
       "verdict": "make",
       "id": "sn_8c1d1e8fcc"
+    },
+    {
+      "entity": "산리오 헬로키티",
+      "multiple": 1,
+      "speech": 1,
+      "why": "트렌드 · 일정 12/1~12/25 · 쓸모 정보 · 저장각 · 언론 1곳 · 기준표 +10: 쓸모 정보+3 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 협업+1 · 큰 이름 협업+1",
+      "articles": [
+        {
+          "title": "2026 용산 산리오 크리스마스 팝업 아이파크몰 헬로키티 포토존부터 ....",
+          "url": "https://blog.naver.com/surugi92jyj/224482591326",
+          "source": "네이버 블로그",
+          "at": "2026-11-18T12:00",
+          "summary": "기프트숍 팝업 도 오픈 해요. 행사 일정부터 굿즈, 구매 사은품, 스탬프 챌린지까지 정리해 볼게요.... 또한 12월 1일부터 25일까지는 멤버십 회원을 대상으로 어드벤트 캘린더 이벤트도 진행할 예정 이에요...."
+        }
+      ],
+      "days_ago": 0,
+      "category": "트렌드",
+      "event_date": "2026-12-01",
+      "end_date": "2026-12-25",
+      "score": 10,
+      "verdict": "make",
+      "id": "sn_2261b36554"
     },
     {
       "entity": "GS25",
@@ -1964,6 +1975,110 @@
       "id": "sn_61fd67cb99"
     },
     {
+      "entity": "더현대 서울",
+      "multiple": 3,
+      "speech": 1,
+      "why": "공간 · 일정 11/12~12/27 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 3곳 · 기준표 +9: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 큰 이름+1 · 씬+정보+1",
+      "articles": [
+        {
+          "title": "현대백화점, 더현대 서울서 반려동물 초상화 팝업…다음달 27일까지 - 뉴스핌",
+          "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hQnozb29RcVFQcUFfQnNmcWo3OFFsQUR6Qk92UjI3WUhLZG10U2VnbGtiNmJla2ZlaGQxenhiVmlrcjJJaFJlVXVvVmZndmZrNXVFRDZLd09OM3Bu?oc=5",
+          "source": "뉴스핌",
+          "at": "2026-11-12T15:23",
+          "summary": "현대백화점, 더현대 서울서 반려동물 초상화 팝업…다음달 27일까지 &nbsp;&nbsp; 뉴스핌"
+        },
+        {
+          "title": "[포토] “우리 집 막내를 그려주세요”… 더현대 서울서 반려동물 초상화 팝업 - 이투데이",
+          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE00T2N0ZFFmbE9KbThNbDJ2b29tejhaVmZjeDAtMnptM2NwUW1NVktwaE01clBrOGtJWWxaM3RzdUF3X0lVd2JCcE9aU2Fac2t3SUh4bg?oc=5",
+          "source": "이투데이",
+          "at": "2026-11-12T14:37",
+          "summary": "[포토] “우리 집 막내를 그려주세요”… 더현대 서울서 반려동물 초상화 팝업 &nbsp;&nbsp; 이투데이"
+        },
+        {
+          "title": "'반려동물 초상화' 더현대 서울 해외 유명 작가 3인 팝업 - 문화저널21",
+          "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBkMVUtNWtjTG14NVhSam5BU2s5YlhEb2R6czRlTVFhbVZhT2syb3ZNemVhM3VqQzFjTmVHWnB1RXlDbmRVUmJZWnNOaHlSd21yQ29GVUIwRUtfSEs4MmgwX044WV9DWEU?oc=5",
+          "source": "문화저널21",
+          "at": "2026-11-12T14:35",
+          "summary": "'반려동물 초상화' 더현대 서울 해외 유명 작가 3인 팝업 &nbsp;&nbsp; 문화저널21"
+        }
+      ],
+      "days_ago": 6,
+      "category": "공간",
+      "event_date": "2026-11-12",
+      "end_date": "2026-12-27",
+      "score": 9,
+      "verdict": "make",
+      "id": "sn_7217b586e9",
+      "also_in_magazine": [
+        "DfWNDr1T6Nq"
+      ]
+    },
+    {
+      "entity": "K베이커리 페스티벌 in 광화문",
+      "multiple": 3,
+      "speech": 1,
+      "why": "푸드 · 일정 11/18~11/20 · 쓸모 정보 · 품절·오픈런 · 저장각 · 언론 3곳 · 기준표 +9: 쓸모 정보+3 · 저장각+2 · 2030 화제+2 · 품절·오픈런+2",
+      "articles": [
+        {
+          "title": "“인기 빵집 다 모였네”… K베이커리 축제 ‘ 오픈런 ’",
+          "url": "https://www.segye.com/newsView/20261118520070?OutUrl=naver",
+          "source": "segye.com",
+          "at": "2026-11-18T20:58",
+          "summary": "18일 서울 광화문광장에서 개막한 ‘K베이커리 페스티벌 in 광화문’에서 방문객들이 각종 베이커리·디저트를 사기 위해 줄을 서고 있다. 전국 110여개 유명 베이커리가 참여한 가운데 20일까지 열리는 이번 페스티벌에서는 전국 소상공인 베이커리의 경쟁력을 한자리에서 확인할 수 있다.\nCopyright ⓒ 세계일보. 무단 전재 및 재배포 금지"
+        },
+        {
+          "title": "[현장] \"개막 첫날 현장 접수 조기 마감\"… 서울 광화문 K-베이커리 페스...",
+          "url": "http://www.economytalk.kr/news/articleView.html?idxno=425386",
+          "source": "economytalk.kr",
+          "at": "2026-11-18T15:24",
+          "summary": "[권신혁 기자 @이코노미톡뉴스] 18일 서울 광화문광장에서 막을 올린 ‘K-베이커리 페스티벌 in 광화문’이 개막 첫날부터 ‘오픈런’과 웨이팅 열풍까지 보이며 현장 접수가 조기 마감됐다.\n앞서 네이버 패스트패스 사전 예약 2만 명분이 전량 매진된 데 이어 당일 현장 방문객까지 몰리면서 첫날 현장 티켓이 동이 났다.\n대한제과협회 관계자는 “첫 회 행사인 데다 날씨까지 좋지 않아 이 정도로 많은 인파가 몰릴 줄 예상하지 못했다”며 “안전한 행사 운영을 위해 현장 접수를 조기 마감했다”고 밝혔다.\n대전 성심당, 광주 베비에르, 전북 풍년"
+        },
+        {
+          "title": "전국 빵집 모인다 〈2026 K-베이커리 페스티벌 in 광화문〉 - heyPOP",
+          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1YaWhOVThKNWppcEF3cjhvUGg0LXpnbFBOelhCYzhhY2N1ZC1Ud0xJdEtLNWI5cWRYbE9NUC1RaGg?oc=5",
+          "source": "heyPOP",
+          "at": "2026-11-17T13:01",
+          "summary": "전국 빵집 모인다 〈2026 K-베이커리 페스티벌 in 광화문〉 &nbsp;&nbsp; heyPOP"
+        }
+      ],
+      "days_ago": 0,
+      "category": "푸드",
+      "event_date": "2026-11-18",
+      "end_date": "2026-11-20",
+      "score": 9,
+      "verdict": "make",
+      "id": "sn_87d8958465"
+    },
+    {
+      "entity": "홍성 딸기잔치",
+      "multiple": 2,
+      "speech": 1,
+      "why": "푸드 · 일정 11/20~12/6 · 쓸모 정보 · 우리 씬 · 저장각 · 언론 2곳 · 기준표 +9: 쓸모 정보+3 · 우리 씬+2 · 저장각+2 · 협업+1 · 씬+정보+1",
+      "articles": [
+        {
+          "title": "홍성 딸기, 서울 용산서 디저트로 선보인다…12월엔 품종별 시식",
+          "url": "https://www.youngnong.co.kr/news/articleView.html?idxno=71971",
+          "source": "youngnong.co.kr",
+          "at": "2026-11-18T21:42",
+          "summary": "충남 홍성군이 지역에서 생산한 딸기와 가공식품을 수도권 소비자에게 알리는 ‘2026 홍성 딸기잔치’를 연다. 11월 20일부터 12월 6일까지 서울 용산역 아이파크몰 내 도레도레 매장에서 딸기를 활용한 디저트를 선보이고, 12월에는 성수동에서 여러 딸기 품종을 비교 시식하는 행사를 이어갈 계획이다.\n이번 행사는 홍주문화관광재단 홍성군문화도시센터가 추진하는 로컬콘텐츠 교류사업 ‘메이드인 홍성’의 일환이다. 디저트 브랜드 도레도레와 협업해 지역 농산물을 가공 메뉴로 소개하고, 캐릭터와 체험 콘텐츠를 함께 활용해 소비자 접점을 넓힌다는 "
+        },
+        {
+          "title": "충남 홍성군, 서울 도레도레와 ‘2026 홍성 딸기잔치’ 팝업스토어 개최 - 부패방지뉴스",
+          "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5hVnBqRGJBYWRodlpPeU1BZWpNbUhISy1JQkxyaGwyX285ek9KdVNMaVA5c3VScU9lQlpyM3czNVFUMTgzUkZCYnJMNFRMZVBxaS1jTi1aazhQaVJvUzFHcy1NOVE1XzNtbXd3?oc=5",
+          "source": "부패방지뉴스",
+          "at": "2026-11-18T13:13",
+          "summary": "충남 홍성군, 서울 도레도레와 ‘2026 홍성 딸기잔치’ 팝업스토어 개최 &nbsp;&nbsp; 부패방지뉴스"
+        }
+      ],
+      "days_ago": 0,
+      "category": "푸드",
+      "event_date": "2026-11-20",
+      "end_date": "2026-12-06",
+      "score": 9,
+      "verdict": "make",
+      "id": "sn_f8d554bebd"
+    },
+    {
       "entity": "리바이포유",
       "multiple": 2,
       "speech": 1,
@@ -1991,64 +2106,6 @@
       "score": 9,
       "verdict": "make",
       "id": "sn_3bcd2815e6"
-    },
-    {
-      "entity": "K-베이커리 페스티벌 in 광화문",
-      "multiple": 2,
-      "speech": 1,
-      "why": "푸드 · 일정 11/18 · 쓸모 정보 · 품절·오픈런 · 저장각 · 언론 2곳 · 기준표 +9: 쓸모 정보+3 · 저장각+2 · 2030 화제+2 · 품절·오픈런+2",
-      "articles": [
-        {
-          "title": "[현장] \"개막 첫날 현장 접수 조기 마감\"… 서울 광화문 K-베이커리 페스...",
-          "url": "http://www.economytalk.kr/news/articleView.html?idxno=425386",
-          "source": "economytalk.kr",
-          "at": "2026-11-18T15:24",
-          "summary": "[권신혁 기자 @이코노미톡뉴스] 18일 서울 광화문광장에서 막을 올린 ‘K-베이커리 페스티벌 in 광화문’이 개막 첫날부터 ‘오픈런’과 웨이팅 열풍까지 보이며 현장 접수가 조기 마감됐다.\n앞서 네이버 패스트패스 사전 예약 2만 명분이 전량 매진된 데 이어 당일 현장 방문객까지 몰리면서 첫날 현장 티켓이 동이 났다.\n대한제과협회 관계자는 “첫 회 행사인 데다 날씨까지 좋지 않아 이 정도로 많은 인파가 몰릴 줄 예상하지 못했다”며 “안전한 행사 운영을 위해 현장 접수를 조기 마감했다”고 밝혔다.\n대전 성심당, 광주 베비에르, 전북 풍년"
-        },
-        {
-          "title": "전국 빵집 모인다 〈2026 K-베이커리 페스티벌 in 광화문〉 - heyPOP",
-          "url": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE1YaWhOVThKNWppcEF3cjhvUGg0LXpnbFBOelhCYzhhY2N1ZC1Ud0xJdEtLNWI5cWRYbE9NUC1RaGg?oc=5",
-          "source": "heyPOP",
-          "at": "2026-11-17T13:01",
-          "summary": "전국 빵집 모인다 〈2026 K-베이커리 페스티벌 in 광화문〉 &nbsp;&nbsp; heyPOP"
-        }
-      ],
-      "days_ago": 0,
-      "category": "푸드",
-      "event_date": "2026-11-18",
-      "end_date": "",
-      "score": 9,
-      "verdict": "make",
-      "id": "sn_a31bc91687"
-    },
-    {
-      "entity": "성심당",
-      "multiple": 2,
-      "speech": 1,
-      "why": "푸드 · 일정 11/18 · 우리 씬 · 품절·오픈런 · 저장각 · 언론 2곳 · 기준표 +9: 우리 씬+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1 · 품절·오픈런+2",
-      "articles": [
-        {
-          "title": "캐리어 끌고 \"성심상 어디에요?\"…광화문 광장에 무슨 일이 [영상]",
-          "url": "https://www.hankyung.com/article/202611184955g",
-          "source": "hankyung.com",
-          "at": "2026-11-18T17:26",
-          "summary": "Google 검색에서 한국경제 기사를 더 자주 볼 수 있습니다.\n하나에 3만원인데 \"죽기 전에 꼭 먹어야\"…2030 푹 빠졌다 [트렌드+]\n2030세대 소비자 중심으로 '제철 코어'가 주요 식음 트렌드로 자리 잡은 가운데 올 여름에는 멜론이 주인공으로 떠올랐다. 특히 사회관계망서비스(SNS)에서 주황빛 과육과 높은 당도를 앞세운 '...\n반도체 불량 잡더니 성심당 빵까지…일상에 녹아든 '피지컬 AI' [영상]\n\"주문번호 1658번을 입력해 주세요.\" 16일 찾은 유·무인 하이브리드 매장 비트카페 야탑역점. 키오스크에 주문번호를 누르"
-        },
-        {
-          "title": "2026 광화문 빵축제 성심당 서울에 온다! 판매 메뉴·가격·배민 픽업....",
-          "url": "https://blog.naver.com/infolife365/224482418369",
-          "source": "네이버 블로그",
-          "at": "2026-11-18T12:00",
-          "summary": "성심당에서는 보문산메아리, 초코튀소, 순수마들렌을 현장에서 판매할 예정 이며, 순수롤은... 성심당 판매 예정 메뉴 4종 메뉴 안내 가격 구매 방법 보문산메아리 6,000원 현장 판매 초코튀소 2,000원 현장..."
-        }
-      ],
-      "days_ago": 0,
-      "category": "푸드",
-      "event_date": "2026-11-18",
-      "end_date": "",
-      "score": 9,
-      "verdict": "make",
-      "id": "sn_0d1e2a7f78"
     },
     {
       "entity": "편의점 스타 레시피",
@@ -2137,150 +2194,6 @@
       "score": 9,
       "verdict": "make",
       "id": "sn_c7e420c249"
-    },
-    {
-      "entity": "맘스터치 이타바시역점",
-      "multiple": 4,
-      "speech": 1,
-      "why": "푸드 · 일정 11/20 · 쓸모 정보 · 한국 첫 상륙 · 저장각 · 언론 4곳 · 기준표 +8: 쓸모 정보+3 · 한국 첫 상륙+3 · 저장각+2",
-      "articles": [
-        {
-          "title": "맘스터치, 일본 7호 매장 ‘이타바시역점’ 오픈… 가맹 2호점 현지 사업 가속화",
-          "url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68811",
-          "source": "푸드뱅크",
-          "at": "2026-11-18T11:29",
-          "summary": "맘스터치는 오는 20일 도쿄도 기타구에 일본 가맹 2호점인 ‘맘스터치 이타바시역점’을 그랜드 오픈하고 현지 가맹사업 확대에 속도를 낸다고 18일 밝혔다.이번 매장은 일본 7호점이자 첫 가맹점이다. 그동안 시부야, 하라주쿠 등 도쿄도 내 5개 직영점과 수도권에 위치한 치가사키 가맹점 등 6개 매장 운영을 통해 축적한 현지 사업 경험을 본격적인 가맹사업 확장으로 연결한다는 점에서 의미가 크다.JR 사이쿄선 이타바시역 동쪽 출구 인근에 위치한 이타바시역점은 주거지역과 역세권 상업시설이 어우러진 생활밀착형 상권에 위치해 인근 거주민과 직장"
-        },
-        {
-          "title": "맘스터치, 우즈베키스탄 타슈켄트에 첫 매장…중앙아시아 진출 확대 - 주간한국",
-          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBpX00zZzJwa1ZKNjV2Zmg0czFfNkpESzlseFVsNTBqRGZocU5RMklVZl9fV29Tc0ZiYWJpbG9jSHRjdmhMWS15TFQwYTYtSTlTU2hMeTIyaUVVQlgzdU04Z0Y5Y0J4VExKc0pHUmRwVkjSAXRBVV95cUxOZ0hRVjFBQk51a2J1MVJwQ0hZY2d6ZXltR1FFUFNOWER6b1IwWWpoaDNMcVNtUllzcVZudlFPbHBFYWpEd1ByaVVYeFF2bHNvQWpidkJSZk90OXUtRERqTEh6dDgta0lPa2trZnRKRVlIV3VlQg?oc=5",
-          "source": "주간한국",
-          "at": "2026-11-16T13:32",
-          "summary": "맘스터치, 우즈베키스탄 타슈켄트에 첫 매장…중앙아시아 진출 확대 &nbsp;&nbsp; 주간한국"
-        },
-        {
-          "title": "맘스터치, 우즈베키스탄 첫 매장 열어…중앙아시아 시장 공략 본격화 - 이투데이",
-          "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE96VF80b3ZEMXJxNVk5Mm42cmp3RnFoenNydHJKU09HdVBMMVJGUVBJYWc0UFNuS1ZKY1hiajgzaF81d3N6cE9GbmoxVXRDS0JXVm9mQw?oc=5",
-          "source": "이투데이",
-          "at": "2026-11-16T10:10",
-          "summary": "맘스터치, 우즈베키스탄 첫 매장 열어…중앙아시아 시장 공략 본격화 &nbsp;&nbsp; 이투데이"
-        },
-        {
-          "title": "맘스터치, 韓 QSR 첫 우즈벡 진출…타슈켄트 1호점 열고 중앙아시아 공략 - www.ebn.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5vUFMtQk9FNUxJXzN0bmczdDZVTVhiUENiUGVnN3dwZ29oMTYtTV9JbzVuZktNR1J0WFZNRDMySkpINENCMDJXSGRWZ3BpYjFHRjhKSENYUkVORzBXRTFPOG9mV0o1NXBz?oc=5",
-          "source": "www.ebn.co.kr",
-          "at": "2026-11-16T09:59",
-          "summary": "맘스터치, 韓 QSR 첫 우즈벡 진출…타슈켄트 1호점 열고 중앙아시아 공략 &nbsp;&nbsp; www.ebn.co.kr"
-        }
-      ],
-      "days_ago": 2,
-      "category": "푸드",
-      "event_date": "2026-11-20",
-      "end_date": "",
-      "score": 8,
-      "verdict": "make",
-      "id": "sn_a4e3ced321"
-    },
-    {
-      "entity": "애스턴 마틴 발키리",
-      "multiple": 4,
-      "speech": 1,
-      "why": "컬처 · 일정 11/16 · 한국 첫 상륙 · 첫 소식 · 저장각 · 언론 4곳 · 기준표 +8: 정보 한 가지+1 · 한국 첫 상륙+3 · 첫 소식+2 · 저장각+2",
-      "articles": [
-        {
-          "title": "‘런 유니버스 페스티벌 2026’ 전시차 라인업 공개 - 레이스위크",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE52dkhaMk5hS3N4U2sya01rQ3lGbHk3WDUtWFA3dGhlT0JubUNLLV85dFhHakx1VG1HYW1IbXdLT3dTMnJVdUE?oc=5",
-          "source": "레이스위크",
-          "at": "2026-11-16T17:23",
-          "summary": "‘런 유니버스 페스티벌 2026’ 전시차 라인업 공개 &nbsp;&nbsp; 레이스위크"
-        },
-        {
-          "title": "[런 유니버스 페스티벌 2026] 애스턴 마틴 발키리 국내 첫 공개 F1 데모 런 · 하이퍼카 총출동 - race24.co.kr",
-          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zVHNNVnQ5UzJ5ZnRkMVNwSGpkTnpqYjFpcGN1YVhES1FkeGY0MFJVNUNGZmxRWEdxejlyWk5tbnhwaXFtR1Fad0ktN0F2ckRoZTJhWmtVZnU?oc=5",
-          "source": "race24.co.kr",
-          "at": "2026-11-16T17:17",
-          "summary": "[런 유니버스 페스티벌 2026] 애스턴 마틴 발키리 국내 첫 공개 F1 데모 런 · 하이퍼카 총출동 &nbsp;&nbsp; race24.co.kr"
-        },
-        {
-          "title": "세계 150대 한정 '애스턴마틴 발키리' 국내 첫선…28일 인제서 슈퍼카 축제 - Daum",
-          "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9TbXhsVHg5aWhOaVdCVWVnc1BsVmVVUDVFSlZqNlJHLXYyWmFpLVhFcUhxVm5KRHlTQkc5cWhZRlNSbURLV2c?oc=5",
-          "source": "Daum",
-          "at": "2026-11-16T16:42",
-          "summary": "세계 150대 한정 '애스턴마틴 발키리' 국내 첫선…28일 인제서 슈퍼카 축제 &nbsp;&nbsp; Daum"
-        },
-        {
-          "title": "국내 첫 선을 보이는 애스턴 마틴 발키리와 함께 ‘런 유니버스 페스티벌 2026’ 전시 라인업 공개 - 웨이브진",
-          "url": "https://news.google.com/rss/articles/CBMiP0FVX3lxTE1WWi1yQWVyU25UWHQ1TFRwdUhBQjlyUWxENlRzdFprQl9LR1kzdWxUdmN6elRxdnN3cFMwdnpHNA?oc=5",
-          "source": "웨이브진",
-          "at": "2026-11-16T14:36",
-          "summary": "국내 첫 선을 보이는 애스턴 마틴 발키리와 함께 ‘런 유니버스 페스티벌 2026’ 전시 라인업 공개 &nbsp;&nbsp; 웨이브진"
-        }
-      ],
-      "days_ago": 2,
-      "category": "컬처",
-      "event_date": "2026-11-16",
-      "end_date": "",
-      "score": 8,
-      "verdict": "make",
-      "id": "sn_2e261028ff"
-    },
-    {
-      "entity": "어벤져스: 둠스데이",
-      "multiple": 2,
-      "speech": 1,
-      "why": "컬처 · 일정 11/13 · 첫 소식 · 저장각 · 언론 2곳 · 기준표 +8: 정보 한 가지+1 · 첫 소식+2 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
-      "articles": [
-        {
-          "title": "'어벤져스: 둠스데이' 캡틴 아메리카·토르 내한 확정... 그린카펫 일정은? - 금강일보",
-          "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB0b0FST1lNb1owb0twdWhPaGtYTGpQYWVHS0FrOVlLZGRScW5wMU9FdXRQVFhlVXlIaXFxRXRCOEIwLWlzbFdabnU4Ung4MTdubG83dVQxUFR4WUpvQVhkNzdwRk4xOEQxQXc?oc=5",
-          "source": "금강일보",
-          "at": "2026-11-13T13:14",
-          "summary": "'어벤져스: 둠스데이' 캡틴 아메리카·토르 내한 확정... 그린카펫 일정은? &nbsp;&nbsp; 금강일보"
-        },
-        {
-          "title": "'어벤져스: 둠스데이' 내한 그린카펫 확정…에반스·헴스워스 참석 - 싱글리스트",
-          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1LcWJqekdXbzl5VzUyeGNxMm5Tc0R4bm0tOGNKLXhyMkhadzRyZzd1d1UtTnpJenZsVDVjQVIwdWptbVZjZFhDVmJsUUYzcWNGZDZKNkZCR2pHeUUySVdZbEpkc0tWQQ?oc=5",
-          "source": "싱글리스트",
-          "at": "2026-11-13T08:10",
-          "summary": "'어벤져스: 둠스데이' 내한 그린카펫 확정…에반스·헴스워스 참석 &nbsp;&nbsp; 싱글리스트"
-        }
-      ],
-      "days_ago": 0,
-      "category": "컬처",
-      "event_date": "2026-11-13",
-      "end_date": "",
-      "score": 8,
-      "verdict": "make",
-      "id": "sn_9d10accf6a"
-    },
-    {
-      "entity": "지스타 2026",
-      "multiple": 2,
-      "speech": 1,
-      "why": "컬처 · 일정 11/19~11/22 · 쓸모 정보 · 저장각 · 언론 2곳 · 기준표 +8: 쓸모 정보+3 · 저장각+2 · 2030 화제+2 · 큰 이름+1",
-      "articles": [
-        {
-          "title": "'지스타 2026', 19일 부산 벡스코서 개막 …AI·웹툰·모빌리티 품고 외연...",
-          "url": "https://www.onews.tv/news/articleView.html?idxno=291994",
-          "source": "onews.tv",
-          "at": "2026-11-18T19:54",
-          "summary": "(부산=열린뉴스통신) 김한빈 기자 = 국내 최대 규모의 게임 축제인 '국제게임전시회 지스타 2026(G-STAR 2026)'이 오는 19일 부산 해운대구 벡스코(BEXCO)에서 나흘간의 대장정에 돌입한다.\n오는 22일까지 진행되는 제22회 지스타는 한국게임산업협회(K-GAMES)가 주최하고 지스타조직위원회와 부산정보산업진흥원이 공동으로 주관한다. 올해 전시는 전 세계 41개국에서 1237개 기업이 참가해 총 3445부스 규모로 관람객을 맞이할 예정이다.\n이번 행사의 핵심 키워드는 슬로건인 '당신의 지평을 넓혀라(Expand your"
-        },
-        {
-          "title": "AI·애니·모빌리티로 외연확장…지스타 1237개사 총출동",
-          "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20261119.22004005674",
-          "source": "kookje.co.kr",
-          "at": "2026-11-18T19:44",
-          "summary": "Á¤ÈñÀ± °ÅÀÎº´¿ø Á¤Çü¿Ü°ú °úÀå °üÀý¿° 4±â¸é ÀÎ°ø°üÀý ¼ö¼ú? Áõ»ó µû¶ó º¸Á¸Ä¡·áµµ °¡´É ÅðÇà¼º °üÀý¿°À¸·Î °í»ýÇÏ´Ù º´¿øÀ» Ã£´Â ÀÌµéÀÇ °ÆÁ¤Àº ´ë°³ µÎ °¥·¡´Ù. ÇÑÂÊ¿¡¼­´Â ¡°ÀÌ Á¤µµ¸é °á±¹, ÀÎ°ø°üÀý ¼ö¼úÀ» ÇØ¾ß ÇÏ´Â °Í ¾Æ´Ï³Ä¡±¸ç ¹Ì¸® °ÆÁ¤ÇÑ´Ù. ´Ù\nÀÌ¿µÁø ¼¼È­º´¿ø ºÎ¿øÀå ¹«Á¤ÀÚÁõ Ä¡·á, Ã¤ÃëºÎÅÍ ÀÓ½Å±îÁö À¯±â"
-        }
-      ],
-      "days_ago": 0,
-      "category": "컬처",
-      "event_date": "2026-11-19",
-      "end_date": "2026-11-22",
-      "score": 8,
-      "verdict": "make",
-      "id": "sn_ac45a18361"
     }
   ],
   "followups": [
@@ -3312,7 +3225,7 @@
           ]
         }
       ],
-      "generated_at": "2026-11-18 21:01 KST"
+      "generated_at": "2026-11-18 22:36 KST"
     },
     {
       "id": "launch-20261118",
@@ -3340,12 +3253,12 @@
           "value": "패션 · 일정 11/25~12/10 · 쓸모 정보 · 품절·오픈런 · 저"
         },
         {
-          "label": "맥도날드 세종DT점",
-          "value": "푸드 · 일정 11/13 · 한국 첫 상륙 · 첫 소식 · 저장각 · 언"
+          "label": "카리나",
+          "value": "패션 · 일정 11/18 · 쓸모 정보 · 우리 씬 · 언론 3곳"
         },
         {
-          "label": "무신사 스탠다드",
-          "value": "패션 · 일정 11/26 · 쓸모 정보 · 한국 첫 상륙 · 첫 소식 ·"
+          "label": "맥도날드 세종DT점",
+          "value": "푸드 · 일정 11/13 · 한국 첫 상륙 · 첫 소식 · 저장각 · 언"
         }
       ],
       "items": [
@@ -3415,6 +3328,27 @@
           ],
           "queries": [
             "루이뷔통"
+          ]
+        },
+        {
+          "id": "sn_31996a9cd2",
+          "name": "카리나",
+          "why": "패션 · 일정 11/18 · 쓸모 정보 · 우리 씬 · 언론 3곳",
+          "angles": [
+            "신상 모음 한 칸: 출시일·가격·판매처 — 랭킹·추천 말투 금지(정보만)"
+          ],
+          "links": [
+            {
+              "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525277",
+              "label": "enews.imbc.com"
+            },
+            {
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBGOU0yeDNfRl9ZRGJsT2l3a1V1ZVY0OHcydHdwS2tUS0ozWkZmd1lKdmxUM3dydDBDUzAtMG5zc1MxbExUV2ZiMWVZcFNnek03SGZIblBNVHU0WWd0TnpUQlRlVGZsUllNNHdUMEJMOGtGeG8?oc=5",
+              "label": "스타뉴스"
+            }
+          ],
+          "queries": [
+            "카리나"
           ]
         },
         {
@@ -3509,23 +3443,6 @@
           "queries": [
             "새우깡 커스텀 티셔츠"
           ]
-        },
-        {
-          "id": "sn_938aac2ceb",
-          "name": "GS25",
-          "why": "푸드 · 일정 11/20 · 쓸모 정보 · 첫 소식 · 저장각 · 언론 1곳",
-          "angles": [
-            "신상 모음 한 칸: 출시일·가격·판매처 — 랭킹·추천 말투 금지(정보만)"
-          ],
-          "links": [
-            {
-              "url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68801",
-              "label": "푸드뱅크"
-            }
-          ],
-          "queries": [
-            "GS25"
-          ]
         }
       ]
     },
@@ -3587,7 +3504,7 @@
       ]
     },
     {
-      "id": "buzz-2026111820",
+      "id": "buzz-2026111822",
       "kind": "buzz",
       "where": "news",
       "title": "지금 터진 것",
@@ -3595,36 +3512,32 @@
       "stat": "한 곳이면 잡음, 두세 곳이 같이 움직이면 '지금 터진 것' — 오픈런·품절 대란·첫 상륙이 여기서 먼저 보인다",
       "rows": [
         {
-          "label": "🔥 굿즈",
-          "value": "기사 18 · 매거진 12"
-        },
-        {
-          "label": "🔥 네이버",
-          "value": "기사 6 · 매거진 2 · 커뮤니티 2"
-        },
-        {
-          "label": "🔥 방탄소년단",
-          "value": "기사 3 · 매거진 4 · 커뮤니티 1"
-        },
-        {
           "label": "🔥 로버트 패틴슨",
-          "value": "기사 3 · 매거진 14 · 커뮤니티 1"
+          "value": "기사 3 · 매거진 16 · 커뮤니티 1"
         },
         {
-          "label": "🔥 더현대 서울",
-          "value": "기사 15 · 매거진 2"
+          "label": "🔥 붉은사막",
+          "value": "구글 트렌드 1 · 기사 1 · 매거진 1"
         },
         {
           "label": "🔥 지수",
-          "value": "기사 2 · 매거진 20 · 커뮤니티 1"
+          "value": "기사 2 · 매거진 19 · 커뮤니티 1"
         },
         {
-          "label": "🔥 다마고치",
-          "value": "기사 4 · 매거진 1"
+          "label": "🔥 에이티즈",
+          "value": "기사 1 · 매거진 23"
+        },
+        {
+          "label": "굿즈",
+          "value": "기사 18 · 매거진 12"
+        },
+        {
+          "label": "샤넬 홀리데이 팝업",
+          "value": "기사 6 · 매거진 6"
         },
         {
           "label": "넷플릭스",
-          "value": "기사 4 · 매거진 8"
+          "value": "기사 5 · 매거진 5"
         },
         {
           "label": "로드",
@@ -3632,147 +3545,25 @@
         },
         {
           "label": "구찌",
-          "value": "기사 4 · 매거진 4"
-        },
-        {
-          "label": "샤넬 홀리데이 팝업",
-          "value": "기사 4 · 매거진 3"
+          "value": "기사 4 · 매거진 5"
         },
         {
           "label": "🔥 GS25",
           "value": "기사 2 · 매거진 1"
+        },
+        {
+          "label": "태연",
+          "value": "기사 5 · 매거진 3"
+        },
+        {
+          "label": "방탄소년단",
+          "value": "기사 3 · 매거진 4"
         }
       ],
       "detail": [
         {
-          "theme": "굿즈",
-          "stat": "기사 18 · 매거진 12",
-          "posts": [
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 2026 다마고치 30주년 팝업 스토어 더현대 서울 현장예약 웨이팅 굿즈 ....",
-              "url": "https://blog.naver.com/booty1020/224482276339"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 팀홀튼, 캐나다 문화 담은 X-마스 캠페인 오픈",
-              "url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68798"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · \"350만개 판매 신화\" CU, 리센느 '리트와 메트' 신상 굿즈 선봬 - 뉴시스",
-              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zZ0NNOWVxWnVJaGpIdzNGbktDeHFmdGNFLUJhVU1tcmo2Yl8tUGVhWTFZdzRCV05RVXhCVHRxUEhsWnZiVm9FMF9zN2hwRDdFZjhTN2tIcjBRSzU5cVdpTtIBeEFVX3lxTE5zSGw2cWFNdDdTZlc4M0JHeFBuX0toeFV4TGc5THViS2ZvZ2xpOGNNTG83cTdJOGNxZGJRVEpKQXl6NE1yYUtzd2c2MDJfZ09rWldUR3JtZkRxalRkMDY2b3ZGeWlhZGRDV1RjLTY5eXdKV0d4dDMxTA?oc=5"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · “‘좋은 친구’ 기업철학 시너지”… CU, 리센느 캐릭터 굿즈 내고 협업 다각화 - 이코노",
-              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ELU5aSmJ4QUZBUmJMVEZvSDNhS0RTWG9jMVJlYm5NTEltTWI1NldNd2t1bEpXWnNVd0J4SGZRcGF0SmtPSE9ObjhSQnNkWHNMVGRGdzF5V00wMDNXaGZGTFUxT2ZpdGh0emJ3eg?oc=5"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · CU, '리센느' 협업 판 키운다···먹거리 넘어 굿즈까지 - 현대경제신문",
-              "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5Ib2pJQ2ZuaVNHRVZIWGZQMnlEOG03eFlrdzhVVTMtX0RqVDY4amJxR0MxLVN1TUoyM2p4MWhyWVVjUVBUNzFEcU5pdUlzUmJqT1I5X1FVVkhZOFVTNkQ4OWVUZzZJbk1rdDNR0gFrQVVfeXFMTkhvaklDZm5pU0dFVkhYZlAyeUQ4bTd4WWt3OFVVMy1fRGpUNjhqYnFHQzEtU3VNSjIzangxaHJZVWNRUFQ3MURxTml1SXNSYmpPUjlfUVVWSFk4VVM2RDg5ZVRnNkluTWt0M1E?oc=5"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 빵 속에 '어린왕자' 책갈피가?...이마트24, 문학 굿즈 담은 신상품 출시 - www.p",
-              "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9LNm9OUXZ5dTQwM1hTT3RIeXZBT2FmaXN5QXR3N3pwdnhHQkY4UzFEeWdFMGdXWjcxQlNvUkZQek9wODNPNS1QcEtJTUJDZ05YYS13MG5uQVJxRUJSNHNFdDNyT2c?oc=5"
-            }
-          ]
-        },
-        {
-          "theme": "네이버",
-          "stat": "기사 6 · 매거진 2 · 커뮤니티 2",
-          "posts": [
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 치이카와 팝업 인데 네이버 예약이 없습니다 | 더현대 치이카와 클리....",
-              "url": "https://blog.naver.com/chikasekai/224482415075"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 여자 테니스 최고 6명, 영종도서 크리스마스 빅매치",
-              "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=884826"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · ‘네이버 × 현대카드 THE SIX’ 대진 확정 크리스마스 테니스 빅매치 예...",
-              "url": "https://www.segye.com/newsView/20261118506488?OutUrl=naver"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · [현장] \"개막 첫날 현장 접수 조기 마감\"… 서울 광화문 K-베이커리 페스...",
-              "url": "http://www.economytalk.kr/news/articleView.html?idxno=425386"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · ‘크리스마스 코트 달군다’ 사발렌카·시비옹테크 등 6명 인천서 맞대...",
-              "url": "https://www.dailian.co.kr/news/view/1716693/?sc=Naver"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 1위 리바키나·2위 안드레예바에 나오미·시비옹테크까지…테니스 ‘TH...",
-              "url": "https://www.sportsseoul.com/news/read/1650598?ref=naver"
-            }
-          ]
-        },
-        {
-          "theme": "방탄소년단",
-          "stat": "기사 3 · 매거진 4 · 커뮤니티 1",
-          "posts": [
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · '보라해'전광판·'아미 Go'신호등...방탄소년단 가오슝 공연 D-1, 8년 기다...",
-              "url": "https://www.starnewskorea.com/music/2026/11/18/2026111817411678917"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · “방탄소년단 뷔 때문에 허리 찢어지게 벌었다” 글, 인기 폭발... 대체...",
-              "url": "https://www.wikitree.co.kr/articles/1175063"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 뷔가 올린 사진 한 장에…\"허리 찢어지게 벌었다\" 감사 인사",
-              "url": "https://www.hankyung.com/article/202611169570H"
-            },
-            {
-              "at": "",
-              "from": "매거진",
-              "head": "@dailyfood_news · BTS V SIGNS AT GOLDPIG SIKDANG 금돼지식당 에어컨에 사인하는 뷔 실",
-              "url": "https://www.instagram.com/reel/Df1lTPehHe8/"
-            },
-            {
-              "at": "",
-              "from": "매거진",
-              "head": "@dailyfashion_news · Jung kook X Calvin Klein 60-SECOND STYLE CHALLENGE",
-              "url": "https://www.instagram.com/reel/Df2ChUETx6a/"
-            },
-            {
-              "at": "",
-              "from": "매거진",
-              "head": "@hypebeastkr · 60초 안에 완성하는 정국의 룩. #방탄소년단 #BTS #정국 과 함께한 #캘빈클라인 ‘6",
-              "url": "https://www.instagram.com/p/Df2CiRpGr0G/"
-            }
-          ]
-        },
-        {
           "theme": "로버트 패틴슨",
-          "stat": "기사 3 · 매거진 14 · 커뮤니티 1",
+          "stat": "기사 3 · 매거진 16 · 커뮤니티 1",
           "posts": [
             {
               "at": "",
@@ -3795,68 +3586,50 @@
             {
               "at": "",
               "from": "매거진",
-              "head": "@curation_club · 배트맨이 제임스 본드가 됐다 🕶️ 로버트 패틴슨이 다니엘 크레이그를 잇는 7대 제임스 본드",
-              "url": "https://www.instagram.com/p/Df0wtnbk_oX/"
-            },
-            {
-              "at": "",
-              "from": "매거진",
-              "head": "@glowupmag · 차기 제임스 본드, ‘로버트 패틴슨’으로 확정되었습니다. 🕶️ 그는 15년간 제임스 본드 ",
-              "url": "https://www.instagram.com/p/Df0sVBghWrK/"
-            },
-            {
-              "at": "",
-              "from": "매거진",
               "head": "@dailyfashion_news · FROM VAMPIRE TO 007🎬 로버트 패틴슨 필모 서사 ㄴ이 부분 너무 감동 ‘해리",
               "url": "https://www.instagram.com/p/Df1c6CFk_-D/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@fastpapermag · 제임스 본드는 정해졌고, 본드걸은 누가 될까? 수많은 루머와 추측 끝에 로버트 패틴슨이 새",
+              "url": "https://www.instagram.com/p/Df1SmKzlMpB/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@fastpapermag · “국왕 폐하의 비밀 요원으로 환영합니다” 영국 왕실도 신입 007 환영 중. 제임스 본드로",
+              "url": "https://www.instagram.com/p/Df01WnZgC5O/"
             }
           ]
         },
         {
-          "theme": "더현대 서울",
-          "stat": "기사 15 · 매거진 2",
+          "theme": "붉은사막",
+          "stat": "구글 트렌드 1 · 기사 1 · 매거진 1",
           "posts": [
             {
               "at": "",
-              "from": "기사",
-              "head": "기사 · '치이카와 클리닉' 팝업스토어 , 사전 예약 예고... 일정·방법은?",
-              "url": "https://www.ggilbo.com/news/articleView.html?idxno=1194093"
+              "from": "구글 트렌드",
+              "head": "검색 급상승 'gta6 메타' 200+",
+              "url": "https://www.khan.co.kr/article/202611180744001"
             },
             {
               "at": "",
               "from": "기사",
-              "head": "기사 · '치이카와 클리닉' 팝업스토어 , 100% 사전예약제 운영…예약 방법→특전...",
-              "url": "https://www.topstarnews.net/news/articleView.html?idxno=16280064"
+              "head": "기사 · 펄어비스 붉은사막, 게임대상 8관왕…자체 엔진이 연 8년 만의 대상",
+              "url": "https://www.goodkyung.com/news/articleView.html?idxno=293611"
             },
             {
               "at": "",
-              "from": "기사",
-              "head": "기사 · 2026 다마고치 30주년 팝업 스토어 더현대 서울 현장예약 웨이팅 굿즈 ....",
-              "url": "https://blog.naver.com/booty1020/224482276339"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 반다이남코코리아, 더현대 서울서 ‘30번째 생일’ 팝업스토어 - 중앙일보",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kQXFDa1FYYU10aW92eFJ6RFBZTkJYSUkwcXlyUmprVUdZVklEUGYwaDNQYzZCQS1xVG9YM3E3V25MN2lRN3FkWEpxdmFDMXl2Nml5aENn?oc=5"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 반다이남코코리아, 더현대 서울에서 ‘World Tamagotchi Tour: 30번째 생일",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRW5naS1WLUcwbTVuQ0xwVm5ROV9DdUFVY25uVmcwN0NDVXpha3lZczJwTDZuVXVKQlNHNTNCZHFkYzJVVUp2UExUb1JEeEFTaHlHaXJQdXVpd9IBX0FVX3lxTFA5MXpwMmFwb296UWZlS2J1WjN6TVRzbmRYTnItSWNhU1RJTG1fSW5Wc0FCUmtPSWFNbnI1aXBCNWlCbXgwaUdrSUljMGpMVWVtb0RDUV91bEJ3OER6a2Zv?oc=5"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 반다이남코코리아, 더현대 서울에서 ‘World Tamagotchi Tour: 30번째 생일",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rejl2a2s4VEpSYU9pVDMzQTFrX0JZX0JDYkQza3RwVEdOaXNCcWtIY0Z1RFgtYnJmb2RQaHRZOGdCVWdFT28wZHAxY1MtWjRzUUpFSmhDOThHU2lRYXNNbTZnZEVDa1ZaOWxMbFNnZw?oc=5"
+              "from": "매거진",
+              "head": "@hypebeastkr · #락스타게임즈 의 신작 <#GTA6>가 정식 출시 전부터 '더 게임 어워드 2026(TGA",
+              "url": "https://www.instagram.com/p/Df3TGyJgXAM/"
             }
           ]
         },
         {
           "theme": "지수",
-          "stat": "기사 2 · 매거진 20 · 커뮤니티 1",
+          "stat": "기사 2 · 매거진 19 · 커뮤니티 1",
           "posts": [
             {
               "at": "",
@@ -3869,12 +3642,6 @@
               "from": "기사",
               "head": "기사 · 블랙핑크 지수, \"라우럴\" 밈 탄생에 넷플릭스도 가세…남다른 화제성 - 스포츠월드",
               "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xREdLLU9icmoxeGhldzIxRVFpMHFvYjAxZ2diTGpab3UzTDVfelM1OFRyUXRKbXgwTVBHalRueGpndlZ6NkxiWGhEdXJLLWxnNnQ2Rkhlb1dOYy1KVXc0RTln?oc=5"
-            },
-            {
-              "at": "",
-              "from": "매거진",
-              "head": "@glowupmag · ’진짜 라우럴의 아우라다 🎥‘ 지수(sooyaaa__)와 셀프 포트레이트(mrselfpor",
-              "url": "https://www.instagram.com/p/Df0rOFqgcI0/"
             },
             {
               "at": "",
@@ -3893,54 +3660,150 @@
               "from": "매거진",
               "head": "@marieclairekorea · #제작협찬 ‘고드롱(Godron)’, ‘클루 드 파리(Clou de Paris)’, ‘그로",
               "url": "https://www.instagram.com/reel/Df1mm0lhliD/"
-            }
-          ]
-        },
-        {
-          "theme": "다마고치",
-          "stat": "기사 4 · 매거진 1",
-          "posts": [
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 2026 다마고치 30주년 팝업 스토어 더현대 서울 현장예약 웨이팅 굿즈 ....",
-              "url": "https://blog.naver.com/booty1020/224482276339"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 반다이남코코리아, 더현대 서울서 ‘30번째 생일’ 팝업스토어 - 중앙일보",
-              "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kQXFDa1FYYU10aW92eFJ6RFBZTkJYSUkwcXlyUmprVUdZVklEUGYwaDNQYzZCQS1xVG9YM3E3V25MN2lRN3FkWEpxdmFDMXl2Nml5aENn?oc=5"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 반다이남코코리아, 더현대 서울에서 ‘World Tamagotchi Tour: 30번째 생일",
-              "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vRW5naS1WLUcwbTVuQ0xwVm5ROV9DdUFVY25uVmcwN0NDVXpha3lZczJwTDZuVXVKQlNHNTNCZHFkYzJVVUp2UExUb1JEeEFTaHlHaXJQdXVpd9IBX0FVX3lxTFA5MXpwMmFwb296UWZlS2J1WjN6TVRzbmRYTnItSWNhU1RJTG1fSW5Wc0FCUmtPSWFNbnI1aXBCNWlCbXgwaUdrSUljMGpMVWVtb0RDUV91bEJ3OER6a2Zv?oc=5"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 반다이남코코리아, 더현대 서울에서 ‘World Tamagotchi Tour: 30번째 생일",
-              "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rejl2a2s4VEpSYU9pVDMzQTFrX0JZX0JDYkQza3RwVEdOaXNCcWtIY0Z1RFgtYnJmb2RQaHRZOGdCVWdFT28wZHAxY1MtWjRzUUpFSmhDOThHU2lRYXNNbTZnZEVDa1ZaOWxMbFNnZw?oc=5"
             },
             {
               "at": "",
               "from": "매거진",
-              "head": "@popga_official · [팝가’s Pick!] 이번 주 서울 팝업 가는 분들 저장하세요 🚨 🖤 다마고치 30번째 ",
-              "url": "https://www.instagram.com/p/Df1rYdHkkYG/"
+              "head": "@hypebeastkr · #쿠사마야요이 의 1960년작 회화 <No. 3P.B.>가 소더비 뉴욕 경매에서 수수료 포",
+              "url": "https://www.instagram.com/p/Df1wUmsGszo/"
+            }
+          ]
+        },
+        {
+          "theme": "에이티즈",
+          "stat": "기사 1 · 매거진 23",
+          "posts": [
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · [TVis] “이모랑 챌린지 하자” 이유리, 에이티즈 산 향한 수줍은 팬심 (편스토랑) -",
+              "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE40WE9icVZ0ZHFJTkYtbzZhejZqQmlVN25NcWZzZFl5Sko3WjB4MjE1RVVfM0VGcUFRa19wVGxYQ3lpX3VnbjZ6OG1ENWdoS0xrTFZhcXl5dFBrbTg?oc=5"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@eyesmag · 이게 바로 재능형 날티입니다. 로에베 룩에서 드러나는 에이티즈 우영의 타고난 날티.💛 이 ",
+              "url": "https://www.instagram.com/reel/Df1nkfhCtDK/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@eyesmag · 로에베 우영 왜 이렇게 예뻐.👀 에이티니 에디터 로에베(loewe) 행사장에 등장한 에이티",
+              "url": "https://www.instagram.com/reel/Df1nB7RCDsu/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@eyesmag · #광고 에이티즈 홍중(no1likeme8_8)이 전 세계 5,724명의 참가자와 함께 ‘H",
+              "url": "https://www.instagram.com/reel/Df06aq3iuWB/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@eyesmag · 에이티즈가 미니 15집 [GOLDEN HOUR : Part.6] 발매를 기념해 아임도넛과 ",
+              "url": "https://www.instagram.com/p/Df0zvIPHTiR/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@dailyfashion_news · WOOYOUNG AT CASA LOEWE 우영 왕자님 비주얼 보고 데패뉴 기분 UP🤍 🎄’",
+              "url": "https://www.instagram.com/reel/Df1o6OxT2TY/"
+            }
+          ]
+        },
+        {
+          "theme": "굿즈",
+          "stat": "기사 18 · 매거진 12",
+          "posts": [
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 더현대 서울 치이카와 팝업 사전예약 방법｜클리닉 일정·굿즈·특....",
+              "url": "https://blog.naver.com/uj_0117/224482601607"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 게임업계, 서브컬처로 눈 돌린다…'팬덤 잡기' 경쟁 본격화",
+              "url": "http://www.srtimes.kr/news/articleView.html?idxno=217853"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 2026 용산 산리오 크리스마스 팝업 아이파크몰 헬로키티 포토존부터 ....",
+              "url": "https://blog.naver.com/surugi92jyj/224482591326"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 팀홀튼, 캐나다 문화 담은 X-마스 캠페인 오픈",
+              "url": "http://www.foodbank.co.kr/news/articleView.html?idxno=68798"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · \"350만개 판매 신화\" CU, 리센느 '리트와 메트' 신상 굿즈 선봬 - 뉴시스",
+              "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE4zZ0NNOWVxWnVJaGpIdzNGbktDeHFmdGNFLUJhVU1tcmo2Yl8tUGVhWTFZdzRCV05RVXhCVHRxUEhsWnZiVm9FMF9zN2hwRDdFZjhTN2tIcjBRSzU5cVdpTtIBeEFVX3lxTE5zSGw2cWFNdDdTZlc4M0JHeFBuX0toeFV4TGc5THViS2ZvZ2xpOGNNTG83cTdJOGNxZGJRVEpKQXl6NE1yYUtzd2c2MDJfZ09rWldUR3JtZkRxalRkMDY2b3ZGeWlhZGRDV1RjLTY5eXdKV0d4dDMxTA?oc=5"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · “‘좋은 친구’ 기업철학 시너지”… CU, 리센느 캐릭터 굿즈 내고 협업 다각화 - 이코노",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5ELU5aSmJ4QUZBUmJMVEZvSDNhS0RTWG9jMVJlYm5NTEltTWI1NldNd2t1bEpXWnNVd0J4SGZRcGF0SmtPSE9ObjhSQnNkWHNMVGRGdzF5V00wMDNXaGZGTFUxT2ZpdGh0emJ3eg?oc=5"
+            }
+          ]
+        },
+        {
+          "theme": "샤넬 홀리데이 팝업",
+          "stat": "기사 6 · 매거진 6",
+          "posts": [
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 에스파 카리나 '예쁨이란 단어가 부족한 아름다움' [엑's 숏폼]",
+              "url": "https://www.xportsnews.com/article/2220854"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · [영상] 에스파 카리나, 성수 동 밝힌 눈부신 미모…고급스러운 겨울 스타...",
+              "url": "https://www.thepowernews.co.kr/view.php?ud=2026111818365852352d6fc79969_7"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 검은 정장들 사이에 혼자 디즈니 공주?.. 순백 투피스 입은 여자아이....",
+              "url": "https://blog.naver.com/eork139/224482571288"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 카리나 샤넬 홀리데이 팝업 포토콜, 아이보리 트위드 겨울 룩 ( 성수 ....",
+              "url": "https://blog.naver.com/hackseok/224482561848"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 카리나 샤넬 홀리데이 팝업 참석, 일반 방문과 예약은 언제부터 가....",
+              "url": "https://blog.naver.com/jacobysh/224482369176"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 순백 트위드에 퍼까지… 26세 카리나 샤넬 홀리데이 팝업 패션, 아이....",
+              "url": "https://blog.naver.com/na0eee-/224482529809"
             }
           ]
         },
         {
           "theme": "넷플릭스",
-          "stat": "기사 4 · 매거진 8",
+          "stat": "기사 5 · 매거진 5",
           "posts": [
             {
               "at": "",
               "from": "기사",
-              "head": "기사 · ‘데블스 플랜: 데드 어게인’ 공개 일주일 만에 통했다… 넷플릭스 1위...",
-              "url": "https://www.wikitree.co.kr/articles/1175738"
+              "head": "기사 · '천천히 강렬하게' 송혜교, 노희경 작가와 세 번째 만남",
+              "url": "http://www.interview365.com/news/articleView.html?idxno=112379"
             },
             {
               "at": "",
@@ -3951,8 +3814,8 @@
             {
               "at": "",
               "from": "기사",
-              "head": "기사 · 블랙핑크 지수, \"라우럴\" 밈 탄생에 넷플릭스도 가세…남다른 화제성 - 스포츠월드",
-              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xREdLLU9icmoxeGhldzIxRVFpMHFvYjAxZ2diTGpab3UzTDVfelM1OFRyUXRKbXgwTVBHalRueGpndlZ6NkxiWGhEdXJLLWxnNnQ2Rkhlb1dOYy1KVXc0RTln?oc=5"
+              "head": "기사 · \"아는 맛에 신선함 더한 K로코…해외서도 통했죠\"",
+              "url": "https://www.edaily.co.kr/News/Read?newsId=04716646645647032&mediaCodeNo=257&utm_source=naver&utm_medium=referral&utm_campaign=news_syndication&utm_content=original_article"
             },
             {
               "at": "",
@@ -3962,15 +3825,15 @@
             },
             {
               "at": "",
-              "from": "매거진",
-              "head": "@eyesmag · 송혜교 x 공유 빨리요.🙏 넷플릭스가 시리즈 <천천히 강렬하게> 첫 공개일을 확정했습니다.",
-              "url": "https://www.instagram.com/p/Df0t7iCHQlr/"
+              "from": "기사",
+              "head": "기사 · 블랙핑크 지수, \"라우럴\" 밈 탄생에 넷플릭스도 가세…남다른 화제성 - 스포츠월드",
+              "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE8xREdLLU9icmoxeGhldzIxRVFpMHFvYjAxZ2diTGpab3UzTDVfelM1OFRyUXRKbXgwTVBHalRueGpndlZ6NkxiWGhEdXJLLWxnNnQ2Rkhlb1dOYy1KVXc0RTln?oc=5"
             },
             {
               "at": "",
               "from": "매거진",
-              "head": "@hypebeastkr · 노희경 작가, 이윤정 감독, #송혜교, #공유 가 합을 맞춘 넷플릭스 시리즈 <#천천히강렬",
-              "url": "https://www.instagram.com/p/Df0uDxPmp9A/"
+              "head": "@fastpapermag · 중식 대가의 등장이라.. 이연복 셰프, <흑백요리사3> 출전!? 👨🏻‍🍳 연복 셰프님을 흑",
+              "url": "https://www.instagram.com/p/Df1elMhO3ld/"
             }
           ]
         },
@@ -4018,7 +3881,7 @@
         },
         {
           "theme": "구찌",
-          "stat": "기사 4 · 매거진 4",
+          "stat": "기사 4 · 매거진 5",
           "posts": [
             {
               "at": "",
@@ -4036,7 +3899,7 @@
               "at": "",
               "from": "기사",
               "head": "기사 · 명품백 판매부진 장기화 결국 항복?...구찌 30% 가격인하, 루이비통은 버티기 - 패션엔",
-              "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5RQmdpUW90MGpaekpKc1NodDRheDBPSlRZMTFZQkRMd3pINnlEUE93Rk5XWlJBZHhlejlOMHZtZnU0QkVPaDd3RlFIU1BFaGY0QURXMEhlVmtzUDg1dUlNVExwYWd6NVZMS0pqN0hWeGRtMktyZWpN?oc=5"
+              "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQVE8tZW8tT3FaRlJCbEdLU3RtOHVvUE9GRWZuOXN4dkxzNkxyM0VOZXhVbXBDZHAxSkRuYW56RFlTb1Z0N0l1SmppazRuVTd3NkNYaXh5bjg1X1NaaTJkSHRsSG8xWWxtRGNsSU1Od3MyaVltaWlOcGIxUUF1WldNSUZTQQ?oc=5"
             },
             {
               "at": "",
@@ -4055,48 +3918,6 @@
               "from": "매거진",
               "head": "@dailyfashion_news · DFN EDITOR’S LIST FROM GUCCI’S PRESENTATION 에디터의 이",
               "url": "https://www.instagram.com/p/Df1mBJdk23R/"
-            }
-          ]
-        },
-        {
-          "theme": "샤넬 홀리데이 팝업",
-          "stat": "기사 4 · 매거진 3",
-          "posts": [
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 에스파 카리나 '예쁨이란 단어가 부족한 아름다움' [엑's 숏폼]",
-              "url": "https://www.xportsnews.com/article/2220854"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · [영상] 에스파 카리나, 성수동 밝힌 눈부신 미모…고급스러운 겨울 스타...",
-              "url": "https://www.thepowernews.co.kr/view.php?ud=2026111818365852352d6fc79969_7"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · 에스파 카리나, AI급 완벽 자태",
-              "url": "https://sports.hankooki.com/news/articleView.html?idxno=6943854"
-            },
-            {
-              "at": "",
-              "from": "기사",
-              "head": "기사 · [포토] 카리나, 첫 눈꽃 하트",
-              "url": "http://enews.imbc.com/News/RetrieveNewsInfo/525277"
-            },
-            {
-              "at": "",
-              "from": "매거진",
-              "head": "@dailyfashion_news · CHANEL’S WINTER WONDERLAND HAS ARRIVED 샤넬이 준비한 겨울 ",
-              "url": "https://www.instagram.com/p/Df3sGkbEzvY/"
-            },
-            {
-              "at": "",
-              "from": "매거진",
-              "head": "@eyesmag · 지민이가 샤넬 향수 뿌리는 법 알려줄게.💝 (짱구 공주님 정말 어쩌면 좋지요) 🎥 아이즈매",
-              "url": "https://www.instagram.com/reel/Df39wuLCTMa/"
             }
           ]
         },
@@ -4123,9 +3944,93 @@
               "url": "https://www.instagram.com/reel/Df1hEDMPK3b/"
             }
           ]
+        },
+        {
+          "theme": "태연",
+          "stat": "기사 5 · 매거진 3",
+          "posts": [
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 태연, 단독 콘서트 1월 15~17일 KSPO DOME서 개최 ..亞투어 시작",
+              "url": "https://www.heraldmuse.com/article/10941678?ref=naver"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · [속보] 태연, 2027년 1월 서울 KSPO DOME서 7번째 단독 콘서트 개최 - 스페",
+              "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZYWZfQzNSZFJ5SmNCY2hmTTBqcnJ2eTJOTVp6N25BS1BsbUtRRGtQcDZEcUkxcGVjdVZNeGdBd0VwZHlfalh2VHAzR2hkVmlEWkxtTG1QenJjLU84NUo1STRQTnRvQXpUNW85dkNxLUZNOVk?oc=5"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 태연, 컴백 이어 콘서트 까지…내년 1월 KSPO돔서 개최",
+              "url": "https://www.news1.kr/entertain/music/6358179"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 태연, 또 한 번 KSPO돔 오른다…내년 1월 단독 콘서트 - 굿모닝경제",
+              "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45a2Y1cTZRU0x0ejU5RnRGUERHdl9LTU45Nm55NVhsSTdYc3k5M2lEVFJzb3VJazNwS3c4WF9VWllzemtsSWJLWHhXa3UzRVFYVnIzZUdncExoemp0SFZzVTVxZG5tOEVjUmw2Tw?oc=5"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 사랑과 나눔의 선율…제주서 힐링 콘서트 개최",
+              "url": "https://www.jemin.com/news/articleView.html?idxno=847591"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@eyesmag · 찐코덕 태연부터 MC 라인업 인정이요.💄 쿠팡플레이 <저스트 메이크업 2>의 새로운 MC ",
+              "url": "https://www.instagram.com/p/Df0yZqJnbLv/"
+            }
+          ]
+        },
+        {
+          "theme": "방탄소년단",
+          "stat": "기사 3 · 매거진 4",
+          "posts": [
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · '보라해'전광판·'아미 Go'신호등...방탄소년단 가오슝 공연 D-1, 8년 기다...",
+              "url": "https://www.starnewskorea.com/music/2026/11/18/2026111817411678917"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · “방탄소년단 뷔 때문에 허리 찢어지게 벌었다” 글, 인기 폭발... 대체...",
+              "url": "https://www.wikitree.co.kr/articles/1175063"
+            },
+            {
+              "at": "",
+              "from": "기사",
+              "head": "기사 · 뷔가 올린 사진 한 장에…\"허리 찢어지게 벌었다\" 감사 인사",
+              "url": "https://www.hankyung.com/article/202611169570H"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@dailyfood_news · BTS V SIGNS AT GOLDPIG SIKDANG 금돼지식당 에어컨에 사인하는 뷔 실",
+              "url": "https://www.instagram.com/reel/Df1lTPehHe8/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@dailyfashion_news · Jung kook X Calvin Klein 60-SECOND STYLE CHALLENGE",
+              "url": "https://www.instagram.com/reel/Df2ChUETx6a/"
+            },
+            {
+              "at": "",
+              "from": "매거진",
+              "head": "@hypebeastkr · 60초 안에 완성하는 정국의 룩. #방탄소년단 #BTS #정국 과 함께한 #캘빈클라인 ‘6",
+              "url": "https://www.instagram.com/p/Df2CiRpGr0G/"
+            }
+          ]
         }
       ],
-      "generated_at": "2026-11-18 20:35 KST"
+      "generated_at": "2026-11-18 22:35 KST"
     }
   ],
   "by_account": {
@@ -4140,16 +4045,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfhcYpAmkIR/",
         "timestamp": "2026-11-09T13:30:44+00:00",
-        "hours": 214.5,
+        "hours": 216.1,
         "likes": 154744,
         "comments": 626,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/900732927_18646204699034349_4181260914093687641_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=Dto-rLajSV4Q7kNvwHhfjkS&_nc_oc=AdrI3bI0WkAuAb78geC6cIeyxmJ6PokaKjTPU3-rzj6U_A4koBUD25fXObFw_auSors&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=vGd4EEynSjyl8yLaGVlDyQ&oh=00_AQQlqMBvq4Ix8YRhHela8zvxOaYOOHj_D4Jwv5Vn32sqHw&oe=6AF8F29F",
         "score": 156622,
-        "baseline": 450.8,
+        "baseline": 454.5,
         "baseline_kind": "post",
-        "multiple": 347.43,
+        "multiple": 344.6,
         "velocity": 6500.809922710232,
         "label": "sene",
         "kind": "news",
@@ -4192,16 +4097,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfluh1vTacG/",
         "timestamp": "2026-11-11T05:27:57+00:00",
-        "hours": 174.6,
+        "hours": 176.1,
         "likes": 372148,
         "comments": 2202,
         "views": 2132693,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/903914996_18646825861034349_7585072313791781679_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=KS2jsv_8NtUQ7kNvwH09QDU&_nc_oc=AdoPZ-ulTqusvUeQ8NqyLJwKpgZ2aHLda779Y8e-0aMBzwRlEaBOCn392ulJs_QNH2M&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=QL3QeC8IY0Ab0g8TcjEVHQ&_nc_tpa=Q5bMBQKOYxx2vyMAIQnfQeTa-cel_YxeGNRyRzwLh07VxxWJQhZEMscNbaHEHfC9XR8G_R1nORdWARcNpw&_nc_ct=RQosPBUKFQQAAAA&oh=00_AQQa6785EJISMkmI36zyw9OYTI-NIWvy4omDVamaCh8u9w&oe=6AFB8B69",
         "score": 378754,
-        "baseline": 1497.0,
+        "baseline": 1507.9,
         "baseline_kind": "reel",
-        "multiple": 253.01,
+        "multiple": 251.18,
         "velocity": 11878.005521309988,
         "label": "sene",
         "kind": "unknown",
@@ -4241,16 +4146,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Df2CiRpGr0G/",
         "timestamp": "2026-11-17T13:29:03+00:00",
-        "hours": 22.5,
+        "hours": 24.1,
         "likes": 99094,
         "comments": 438,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/907644597_18649118653034349_7707206865671401439_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=MONsQ8TwJcAQ7kNvwH9U1wD&_nc_oc=AdrSzEbN5LEw70gtzeMEZbr6CDYmpsH5fnTvugD86nkHiY54hZapA5H-pqrA5BMYljM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=HSudiG03meHvu1Cq4e5qiQ&_nc_ct=RQosPBUKFQ4AAAA&oh=00_AQR-6wFox0RaIz2AOcRL34WlbQBOCuwtlaLaXd6nryUSkw&oe=6B0313F1",
         "score": 100408,
-        "baseline": 450.8,
+        "baseline": 454.5,
         "baseline_kind": "post",
-        "multiple": 222.73,
+        "multiple": 220.92,
         "velocity": 5840.337040121491,
         "label": "sene",
         "kind": "news",
@@ -4281,7 +4186,7 @@
           "dailyfood_news",
           "dazedkorea"
         ],
-        "pace": 266.24,
+        "pace": 255.66,
         "rank": 0,
         "who": "캘빈클라인 정국",
         "event_date": "2026-11-17",
@@ -4306,16 +4211,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfTS1hfTLko/",
         "timestamp": "2026-11-04T01:41:15+00:00",
-        "hours": 346.3,
+        "hours": 347.9,
         "likes": 96682,
         "comments": 76,
         "views": 469030,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/883002802_18644238616034349_4776800495719600166_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=111&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=RIeZVdQP_RQQ7kNvwFLtGsi&_nc_oc=Ado9GzDrVTC0mckhyoQCehbNg8IAKm6lBq0aXOWvmc8MeS-qlJ_1PKUgLOXHfq7ipBo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=IC7ugTXS07dfd_ewfPSrmQ&_nc_tpa=Q5bMBQKIJ-mcYgxXXyleeIhDDGLnzbtl12IYqPZDJ92cwDIlEr7RGJuMdD0KICush8Jx3bkO4CP92MwoBw&oh=00_AQSGTqrqMEthpiCqb_tEND7IaMqRJyZRVcsLAZbbXt1VAQ&oe=6AF22189",
         "score": 96910,
-        "baseline": 1497.0,
+        "baseline": 1507.9,
         "baseline_kind": "reel",
-        "multiple": 64.74,
+        "multiple": 64.27,
         "velocity": 3218.240402955501,
         "label": "sene",
         "kind": "news",
@@ -4358,16 +4263,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De_qlnqGgyN/",
         "timestamp": "2026-10-27T10:40:49+00:00",
-        "hours": 529.3,
+        "hours": 530.9,
         "likes": 78813,
         "comments": 301,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/867819683_18641411398034349_4764436737954998754_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=-qZn4Ja7j5QQ7kNvwEpZSEl&_nc_oc=AdqxM6L7PWumEbV9Z1yUDitYXTqHjjSTAe8K2laDoksNrNOmQP50gAA-9NHx_gdXsmM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=MK6iQ3MxE_a6jGteY-Xyuw&oh=00_AQT-97il4vVScw7o6Eo50jxCOgEe0gCPChTiUet2_A2O5A&oe=6AE7921F",
         "score": 79716,
-        "baseline": 450.8,
+        "baseline": 454.5,
         "baseline_kind": "post",
-        "multiple": 176.83,
+        "multiple": 175.39,
         "velocity": 3255.647215080361,
         "label": "sene",
         "kind": "unknown",
@@ -4408,16 +4313,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfwxPY2COri/",
         "timestamp": "2026-11-15T12:38:42+00:00",
-        "hours": 71.4,
+        "hours": 73.0,
         "likes": 151735,
         "comments": 913,
         "views": 1268711,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/902586186_18651043150023030_1694234796169049940_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=I0I-OmL8ZZsQ7kNvwELQKWn&_nc_oc=AdrPra2j-8t2Lt8kLgF3JHnE1OzMQdpmK39MQGD6eKaXPBDTlSighiEwaOVDZ3XIOhY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AJ-jyNUEAAAA&_nc_gid=dT6CHb9CVxchPN62sfCyng&_nc_tpa=Q5bMBQKt5Ehz-c3qiwJUXapQiVe7FVXnFrdzehleooThxQ7q0yWLB8ygEx9qqe642a9tgYQKijQABx6qMg&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQQ7zHDL_bjHG_NekfqOpsVpY8CVXmITpvHRKRcd6SYkhw&oe=6B008264",
         "score": 154474,
-        "baseline": 2510.0,
+        "baseline": 2524.8,
         "baseline_kind": "reel",
-        "multiple": 61.54,
+        "multiple": 61.18,
         "velocity": 7490.059504032381,
         "label": "sene",
         "kind": "unknown",
@@ -4461,16 +4366,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De3lD0GiT3G/",
         "timestamp": "2026-10-24T07:19:19+00:00",
-        "hours": 604.7,
+        "hours": 606.3,
         "likes": 63194,
         "comments": 339,
         "views": 952512,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/862054205_18640938484023030_1837273011586509949_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=drTy54HGPvkQ7kNvwGpMuzO&_nc_oc=AdpwXPxWDuWBUPMCGCmUUhXsxiU4g0E9aGmVAjktTyGJblPGXyXwGaXewEN8pXquKi8&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Y3td7NzqBvTlbnI3xllP1A&_nc_tpa=Q5bMBQL8uhgVp7UZmZFOb_lgW6K6ruwvsyPlTrGlV_2vNw2Pnao0RfJ3Do8hwwqROEPslsPW--0BLQjs3Q&oh=00_AQPsA1c1aYW6-kK552RCNpnhQqJXyZGLYAJcCpFZxSlRzA&oe=6AE28567",
         "score": 64211,
-        "baseline": 2510.0,
+        "baseline": 2524.8,
         "baseline_kind": "reel",
-        "multiple": 25.58,
+        "multiple": 25.43,
         "velocity": 19201.241208109226,
         "label": "sene",
         "kind": "unknown",
@@ -4508,7 +4413,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfFWQZsiSh_/",
         "timestamp": "2026-10-29T15:40:31+00:00",
-        "hours": 476.4,
+        "hours": 477.9,
         "likes": 41823,
         "comments": 448,
         "views": null,
@@ -4551,16 +4456,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De0r_s3iVGe/",
         "timestamp": "2026-10-23T04:22:07+00:00",
-        "hours": 631.7,
+        "hours": 633.2,
         "likes": 54712,
         "comments": 355,
         "views": 1142198,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/862927795_18640542865023030_3763210556006567870_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=klAfiFIy1dgQ7kNvwFiWSBG&_nc_oc=AdpMBvyXf9jS2Hf4chtRYfySrMx8tqN7Xu2eAUc-xYaCConpAYBYNZnoNewJnu6pyk8&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=fSfHx8D2TFld6SmyYCZ9cA&_nc_tpa=Q5bMBQLU391LJi1bubdyOZFv70_I8PuSUE_1BVIp0ys_WmZ1R9cK4g71GbBE0EGnCmo_xqR3QCpg6B9u1A&oh=00_AQM7bdGYnLd405O7vH-3GI4vtRO-h-nOVmfVrWv_WPQ3Fg&oe=6AE116E6",
         "score": 55777,
-        "baseline": 2510.0,
+        "baseline": 2524.8,
         "baseline_kind": "reel",
-        "multiple": 22.22,
+        "multiple": 22.09,
         "velocity": 10691.906457511308,
         "label": "sene",
         "kind": "unknown",
@@ -4597,16 +4502,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfmfzphiHdi/",
         "timestamp": "2026-11-11T12:38:13+00:00",
-        "hours": 167.4,
+        "hours": 169.0,
         "likes": 48860,
         "comments": 138,
         "views": 1192149,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/902586278_18648933742023030_7731916499618947488_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=jAiLtUdr-L0Q7kNvwHE1t__&_nc_oc=Ado0kx3zMS4FZH3yAlVL0uE4tbvRAw7UjAsiOj5mz5bsIMr_zudS2uTI5HTuDcphXdI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=AcGNd6E7iR1DV7GsKEgvQQ&_nc_tpa=Q5bMBQKb74K-zSZrhVLpMIU-kyKLjHAJmLOURjrw-sCywhSBKu9WzR8PaRLKx2XkyFqlhsBrnPNww7QbtA&_nc_ct=RQosPBUKAAAA&oh=00_AQScIoNb8QbkQPr8fbc9zSupaPvsThA6mt3Lp7J6m3IOpg&oe=6AFB45F3",
         "score": 49274,
-        "baseline": 2510.0,
+        "baseline": 2524.8,
         "baseline_kind": "reel",
-        "multiple": 19.63,
+        "multiple": 19.52,
         "velocity": 2136.5523996082275,
         "label": "sene",
         "kind": "curation",
@@ -4649,7 +4554,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Des0SubFI4V/",
         "timestamp": "2026-10-20T02:56:36+00:00",
-        "hours": 705.1,
+        "hours": 706.7,
         "likes": 223474,
         "comments": 1113,
         "views": null,
@@ -4701,16 +4606,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfCTLXqoyVl/",
         "timestamp": "2026-10-28T11:14:49+00:00",
-        "hours": 504.8,
+        "hours": 506.4,
         "likes": 79739,
         "comments": 343,
         "views": null,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869318819_18650792632041180_787526813183559167_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=109&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DtZpr68Rx4QQ7kNvwHYbuPB&_nc_oc=Ado0l8T5-jio7V_bNe7tH4CmQBKE0IkQFMt_HyOJgBIoOF2YKUEZ9iZ55tZb5coZFXo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=jKCqCq4Aa9IcS6Su2HUYCQ&_nc_tpa=Q5bMBQI1D59YiGIjtaKzad0HBWU7boVzuvgz-27e942IVV2wLfi9u7rlT-X0evThadH-A_5ljbTD3Y_4OA&oh=00_AQRPmEaEAryiyluso3Uv4-s2zqEvWgIAQzfL6EA4wv-Sng&oe=6AECF099",
         "score": 80768,
-        "baseline": 7689.0,
+        "baseline": 7675.5,
         "baseline_kind": "reel",
-        "multiple": 10.5,
+        "multiple": 10.52,
         "velocity": 823.7136309978474,
         "label": "sene",
         "kind": "unknown",
@@ -4741,7 +4646,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 152
+        "rank": 150
       },
       {
         "id": "DfHUUXClFRB",
@@ -4753,7 +4658,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfHUUXClFRB/",
         "timestamp": "2026-10-30T10:00:08+00:00",
-        "hours": 458.0,
+        "hours": 459.6,
         "likes": 51303,
         "comments": 348,
         "views": null,
@@ -4791,7 +4696,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 237
+        "rank": 238
       },
       {
         "id": "DfBXIY9ozrV",
@@ -4803,16 +4708,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfBXIY9ozrV/",
         "timestamp": "2026-10-28T02:31:36+00:00",
-        "hours": 513.5,
+        "hours": 515.1,
         "likes": 31328,
         "comments": 298,
         "views": null,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/869926014_18650660152041180_2930258728869021129_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DjpD2LJR78EQ7kNvwGJBaA4&_nc_oc=Adpq3xqCPHIiRlIlu9LQX_H7GRpWOlpUmxSr6ylB9WHfLnZFJOHW7cJPGCArc4UTf30&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=vvmKPfDqvOYFxBG_AJWFPw&_nc_tpa=Q5bMBQK_K1foTKMFZ3LNtVVGd0fXmopr6hg8Mt_U42U5q_0vQS1xpmSF8W9rOVrC6G9r1m2lh7liO2uwDQ&oh=00_AQQbDiNy8Jqj_wxIRNbFxdX1ZClMchwnzrKoHLLYxORssQ&oe=6AE9CB7F",
         "score": 32222,
-        "baseline": 7689.0,
+        "baseline": 7675.5,
         "baseline_kind": "reel",
-        "multiple": 4.19,
+        "multiple": 4.2,
         "velocity": 505.776741922678,
         "label": "off",
         "kind": "unknown",
@@ -4838,7 +4743,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 543
+        "rank": 541
       },
       {
         "id": "Df3K2IGFMy_",
@@ -4850,7 +4755,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Df3K2IGFMy_/",
         "timestamp": "2026-11-18T00:00:33+00:00",
-        "hours": 12.0,
+        "hours": 13.6,
         "likes": 19805,
         "comments": 215,
         "views": null,
@@ -4891,7 +4796,7 @@
           "dazedkorea"
         ],
         "pace": 3.93,
-        "rank": 761,
+        "rank": 760,
         "who": "이주안",
         "event_date": "2026-11-18",
         "end_date": "",
@@ -4915,16 +4820,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfb68TLMZEg/",
         "timestamp": "2026-11-07T10:03:26+00:00",
-        "hours": 266.0,
+        "hours": 267.6,
         "likes": 108407,
         "comments": 773,
         "views": 1793283,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/887198003_17999689113053202_8005467478038998070_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=gf5ntB7GMmIQ7kNvwE7Wmzf&_nc_oc=Adpb2taKbjtLaFwESnNDeyjcttaOL7Vx7Op-wZGw3XXRD3skff_XHkOZiaWJBfylCEI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=jTqZDdxLqSo9XCkL4rYntQ&_nc_tpa=Q5bMBQKEwxHgh60YTRLBhjvErH9EHA4GMkuBYMeGEOTRmoZ-mk1jW7s5uhd_Y4qQhNpdGU5U8OnlP0aC3w&oh=00_AQT5leS-__2CTjVbsfx6g45ify6Rn4kNzy1sVrJvjbycqw&oe=6AF60BAE",
         "score": 110726,
-        "baseline": 2634.1,
+        "baseline": 2625.8,
         "baseline_kind": "reel",
-        "multiple": 42.04,
+        "multiple": 42.17,
         "velocity": 5044.44098169069,
         "label": "unsure",
         "kind": "news",
@@ -4965,16 +4870,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfb-_PLgh-1/",
         "timestamp": "2026-11-07T10:38:09+00:00",
-        "hours": 265.4,
+        "hours": 267.0,
         "likes": 97550,
         "comments": 579,
         "views": 1865450,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/861528050_17999698785053202_1382320838279938515_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=DqzvBC3ptwMQ7kNvwHB3j95&_nc_oc=AdokWQM2IpI1kAd_AffTfPeDZLCOI2XwtH3qFLnO02vBRIJ24o3IJN5DPSHXj1JLDFE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=saVZiRUJi9A-aNzpHA6T0Q&_nc_tpa=Q5bMBQLRyB_VwR84K1O6SXCfqnhEJXHgaPoiarQ5HSDpyk8S9aPXo-UATL7yz8wRTxyhIMt92-zILFGTBA&oh=00_AQQJNPwtEf5wPQejZvc-JFZrJgdvf4MZrDMZ94v0Rv9yUA&oe=6AF666B0",
         "score": 99287,
-        "baseline": 2634.1,
+        "baseline": 2625.8,
         "baseline_kind": "reel",
-        "multiple": 37.69,
+        "multiple": 37.81,
         "velocity": 3633.8535961039947,
         "label": "off",
         "kind": "unknown",
@@ -5012,16 +4917,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfeBLy3hYgR/",
         "timestamp": "2026-11-08T05:37:05+00:00",
-        "hours": 246.4,
+        "hours": 248.0,
         "likes": 67918,
         "comments": 352,
         "views": 841888,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/892100513_17999826468053202_2208909246009302628_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=Zo_5I4WIyiQQ7kNvwGd297h&_nc_oc=AdrzWpct7rTse8AlF6t3dB1RWVujJfvrzAHi5UqINh8r9X-lpJNQIP4FuxKKuaoSsGA&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=y9_4I3U_Q_A4BUI1WOmqHg&_nc_tpa=Q5bMBQIyh_52vdemnXgXk1rv3R__HaXyn3SyIN_HnMOv5gt2oBkAiHW8Gn5QeS8TfkrRwIueBieBJHFSXA&oh=00_AQTsLL77sOadD2tdkuwpHsBjr0a7UFOSkA7eNWgimNfnsg&oe=6AF6E36E",
         "score": 68974,
-        "baseline": 2634.1,
+        "baseline": 2625.8,
         "baseline_kind": "reel",
-        "multiple": 26.19,
+        "multiple": 26.27,
         "velocity": 3387.1946589492686,
         "label": "sene",
         "kind": "news",
@@ -5061,16 +4966,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfR5M4-SPzh/",
         "timestamp": "2026-11-03T12:36:22+00:00",
-        "hours": 359.4,
+        "hours": 361.0,
         "likes": 63769,
         "comments": 240,
         "views": 1319690,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/881313531_17999117472053202_8343304004313492339_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=AmtVRdCfV14Q7kNvwHsUmBe&_nc_oc=AdqDcnNNCCdlTzngLkn0sqbiWb4KgPSwPQ4ESVYVdk3titmHRkas8Oi7YXtUDV_6Dhk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=KIqMvZKfVHIeVzfTY9yB2A&_nc_tpa=Q5bMBQIDrfVHsraTkTE28qjbIwPdRvjYFfUQGvtXqDM5umiBP1EBfx1-PklGTjQBEYUDJlDrJqvEUljqYw&oh=00_AQS_vBY3wBXn7E8kf9OkxFx8OeGwDABNFqdPJmdgsHQXzw&oe=6AF0F5F5",
         "score": 64489,
-        "baseline": 2634.1,
+        "baseline": 2625.8,
         "baseline_kind": "reel",
-        "multiple": 24.48,
+        "multiple": 24.56,
         "velocity": 2794.673946764286,
         "label": "sene",
         "kind": "unknown",
@@ -5111,16 +5016,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfhcPuGFJ2n/",
         "timestamp": "2026-11-09T13:29:40+00:00",
-        "hours": 214.5,
+        "hours": 216.1,
         "likes": 42811,
         "comments": 344,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/892810604_18000054867053202_2256283067026607710_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tq_P4uCRdpAQ7kNvwF3EZlb&_nc_oc=Adr1T9dD5j7r-KAn9w8TK7yoGp8D1SQQTsyJFzrIntvbsnRNO4fAEz541QROdPYxkCw&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=8Ijl056yeBFtUAabsTTZAA&oh=00_AQSX6LDEcBMDk8xS-vyOzOLx8HRyoNUkxpMj-q5u8H0qLg&oe=6AF8A05D",
         "score": 43843,
-        "baseline": 848.2,
+        "baseline": 856.1,
         "baseline_kind": "post",
-        "multiple": 51.69,
+        "multiple": 51.21,
         "velocity": 2372.3737877277263,
         "label": "sene",
         "kind": "unknown",
@@ -5165,7 +5070,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De_RWwjhsS9/",
         "timestamp": "2026-10-27T07:00:08+00:00",
-        "hours": 533.0,
+        "hours": 534.6,
         "likes": 207411,
         "comments": 1664,
         "views": 1900741,
@@ -5212,7 +5117,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De_fEMyhTqA/",
         "timestamp": "2026-10-27T09:00:06+00:00",
-        "hours": 531.0,
+        "hours": 532.6,
         "likes": 118424,
         "comments": 842,
         "views": 1419162,
@@ -5262,7 +5167,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfBM-YhGDLZ/",
         "timestamp": "2026-10-28T01:00:03+00:00",
-        "hours": 515.0,
+        "hours": 516.6,
         "likes": 56798,
         "comments": 125,
         "views": null,
@@ -5296,7 +5201,7 @@
           "wkorea"
         ],
         "pace": null,
-        "rank": 304
+        "rank": 302
       },
       {
         "id": "DfEou1yh4eH",
@@ -5308,7 +5213,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfEou1yh4eH/",
         "timestamp": "2026-10-29T09:00:07+00:00",
-        "hours": 483.0,
+        "hours": 484.6,
         "likes": 43828,
         "comments": 373,
         "views": 1141935,
@@ -5345,7 +5250,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 328
+        "rank": 327
       },
       {
         "id": "DfGdNLEyXWd",
@@ -5357,7 +5262,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfGdNLEyXWd/",
         "timestamp": "2026-10-30T02:00:26+00:00",
-        "hours": 466.0,
+        "hours": 467.6,
         "likes": 37697,
         "comments": 341,
         "views": 255536,
@@ -5409,7 +5314,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DesmpF6kyWq/",
         "timestamp": "2026-10-20T01:00:01+00:00",
-        "hours": 707.0,
+        "hours": 708.6,
         "likes": 96381,
         "comments": 164,
         "views": null,
@@ -5454,7 +5359,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De8mri6k_XP/",
         "timestamp": "2026-10-26T06:08:57+00:00",
-        "hours": 557.9,
+        "hours": 559.5,
         "likes": 15192,
         "comments": 82,
         "views": null,
@@ -5488,7 +5393,7 @@
           "luxmag.kr"
         ],
         "pace": null,
-        "rank": 373
+        "rank": 374
       },
       {
         "id": "DflkrfxE6VQ",
@@ -5500,7 +5405,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DflkrfxE6VQ/",
         "timestamp": "2026-11-11T04:00:19+00:00",
-        "hours": 176.0,
+        "hours": 177.6,
         "likes": 8942,
         "comments": 57,
         "views": null,
@@ -5531,7 +5436,7 @@
           "luxmag.kr"
         ],
         "pace": null,
-        "rank": 732
+        "rank": 731
       },
       {
         "id": "DfOHBprkwP-",
@@ -5543,7 +5448,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfOHBprkwP-/",
         "timestamp": "2026-11-02T01:18:40+00:00",
-        "hours": 394.7,
+        "hours": 396.3,
         "likes": 3418,
         "comments": 89,
         "views": null,
@@ -5588,7 +5493,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfO3SwJE02j/",
         "timestamp": "2026-11-02T08:20:26+00:00",
-        "hours": 387.7,
+        "hours": 389.3,
         "likes": 3341,
         "comments": 16,
         "views": null,
@@ -5634,7 +5539,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfN_KaVn3D8/",
         "timestamp": "2026-11-02T00:09:58+00:00",
-        "hours": 395.9,
+        "hours": 397.4,
         "likes": 172336,
         "comments": 274,
         "views": null,
@@ -5680,7 +5585,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DevFOI6Hw60/",
         "timestamp": "2026-10-21T00:06:27+00:00",
-        "hours": 683.9,
+        "hours": 685.5,
         "likes": 102309,
         "comments": 1532,
         "views": null,
@@ -5725,7 +5630,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De3cJyOO1US/",
         "timestamp": "2026-10-24T06:02:18+00:00",
-        "hours": 606.0,
+        "hours": 607.6,
         "likes": 95949,
         "comments": 1172,
         "views": 1417924,
@@ -5762,7 +5667,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 128
+        "rank": 129
       },
       {
         "id": "DfN_gDNn2_L",
@@ -5774,7 +5679,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfN_gDNn2_L/",
         "timestamp": "2026-11-02T00:12:55+00:00",
-        "hours": 395.8,
+        "hours": 397.4,
         "likes": 80512,
         "comments": 637,
         "views": null,
@@ -5821,7 +5726,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Df1uRezuZS4/",
         "timestamp": "2026-11-17T10:33:12+00:00",
-        "hours": 25.5,
+        "hours": 27.1,
         "likes": 76984,
         "comments": 544,
         "views": 465875,
@@ -5887,7 +5792,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfjv56dyXoD/",
         "timestamp": "2026-11-10T11:01:14+00:00",
-        "hours": 193.0,
+        "hours": 194.6,
         "likes": 173744,
         "comments": 4398,
         "views": 1001045,
@@ -5936,7 +5841,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfYZAmCB7mq/",
         "timestamp": "2026-11-06T01:09:08+00:00",
-        "hours": 298.9,
+        "hours": 300.5,
         "likes": 98828,
         "comments": 356,
         "views": 1031628,
@@ -5983,7 +5888,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfHh-QZuTkE/",
         "timestamp": "2026-10-30T12:01:08+00:00",
-        "hours": 456.0,
+        "hours": 457.6,
         "likes": 46027,
         "comments": 979,
         "views": 438404,
@@ -6018,7 +5923,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 150
+        "rank": 149
       },
       {
         "id": "DfBT3THB5Yh",
@@ -6030,7 +5935,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfBT3THB5Yh/",
         "timestamp": "2026-10-28T02:01:07+00:00",
-        "hours": 514.0,
+        "hours": 515.6,
         "likes": 27799,
         "comments": 178,
         "views": 123370,
@@ -6078,7 +5983,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfhEFG9Ozzg/",
         "timestamp": "2026-11-09T09:59:36+00:00",
-        "hours": 218.0,
+        "hours": 219.6,
         "likes": 28199,
         "comments": 146,
         "views": 147537,
@@ -6122,16 +6027,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De6J2nHzeIa/",
         "timestamp": "2026-10-25T07:21:19+00:00",
-        "hours": 580.7,
+        "hours": 582.3,
         "likes": 72196,
         "comments": 798,
         "views": 736422,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.71878-15/864301349_29118476134454611_5562575768453847009_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=110&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=-g5o7Syb4VQQ7kNvwHWxwhk&_nc_oc=AdqqIIhBwp6MCd9D6RxQmPKekkVfT-f7SAK7leaC8_1xFHHusQQEIJPwXVrBM2uIY-A&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=T-cMWNnL_bn7mTJmZyUoHg&_nc_tpa=Q5bMBQKVquqBAChvEQjm8Z53UsSsukqqwQyePqYGNnfRO5RgGYHyylzByBiyoEGlammO5J9JajrG7X7qJw&oh=00_AQOC0RePNu2tRmGl7MnkjCU9h2dQxdxiVYcFWk0Qm7o3ow&oe=6AE4D338",
         "score": 74590,
-        "baseline": 2276.3,
+        "baseline": 2256.5,
         "baseline_kind": "reel",
-        "multiple": 32.77,
+        "multiple": 33.06,
         "velocity": 2979.6997441922376,
         "label": "sene",
         "kind": "unknown",
@@ -6172,16 +6077,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Df3qnQ9Td6h/",
         "timestamp": "2026-11-18T04:39:22+00:00",
-        "hours": 7.4,
+        "hours": 9.0,
         "likes": 74001,
         "comments": 680,
         "views": 624950,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/907920613_18137776538301319_696707300423717538_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=K4TR_SnN5AkQ7kNvwFH8kIc&_nc_oc=AdrEF6qF0jYUSjeNPU2eztIsaio6OU3RXmm8zqx5cM_TR8Porcagnnrw3Bfbq8oaTWI&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AJ-jyNUEAAAA&_nc_gid=xfgvC0sGetiHfOU7SAMK8w&_nc_tpa=Q5bMBQK4GBXSBAfeHcFWeBAMwxV2MuVVkMGT5c_d0JmOTt65MJf_v3OOFiwXJk4tjKarg1I1CQUDXFz-pw&_nc_ct=RQosPBUKFQwAAAA&oh=00_AQRzr3FAe62UiDwaJuoVSW1HUcqGeMUJcZ4-wwt-hH5P6A&oe=6B035592",
         "score": 76041,
-        "baseline": 2276.3,
+        "baseline": 2256.5,
         "baseline_kind": "reel",
-        "multiple": 33.41,
+        "multiple": 33.7,
         "velocity": 7918.475285367492,
         "label": "sene",
         "kind": "unknown",
@@ -6207,8 +6112,8 @@
           "dailyfood_news",
           "dazedkorea"
         ],
-        "pace": 43.3,
-        "rank": 66,
+        "pace": 43.79,
+        "rank": 65,
         "who": "BTS",
         "event_date": "2026-11-18",
         "end_date": "",
@@ -6233,16 +6138,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfb_o-TThVJ/",
         "timestamp": "2026-11-07T10:45:26+00:00",
-        "hours": 265.3,
+        "hours": 266.9,
         "likes": 55432,
         "comments": 169,
         "views": 827922,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/893296738_18136246133301319_2940038943439919451_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzIifQ%3D%3D&_nc_ohc=3G4Ea30rav8Q7kNvwEXnjUh&_nc_oc=Adq0NuGokSeZaImjD9Sr60Sed6404F5RwoKBAQyjJpNvDhP0mEfRGSw5HT3digrF7sk&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=OW_OOAGdXmcJMnFII-0vTg&_nc_tpa=Q5bMBQIUe-X-YcPH8w2JRRaxs0PU28vPZ1Thv9UfPIk7nfgDLocQI4Q0SWHh0s2rn9339BhoWLNjswpcbg&oh=00_AQSZD1AwWy-zF4BcLK-z-fUb06mzD7jMOWkfcf_l5bje0A&oe=6AF639D6",
         "score": 55939,
-        "baseline": 2276.3,
+        "baseline": 2256.5,
         "baseline_kind": "reel",
-        "multiple": 24.57,
+        "multiple": 24.79,
         "velocity": 2190.4347423491827,
         "label": "sene",
         "kind": "news",
@@ -6272,7 +6177,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 76
+        "rank": 75
       },
       {
         "id": "DfRjfaGzGVR",
@@ -6284,16 +6189,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfRjfaGzGVR/",
         "timestamp": "2026-11-03T09:26:38+00:00",
-        "hours": 362.6,
+        "hours": 364.2,
         "likes": 56720,
         "comments": 136,
         "views": 1503368,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/864598894_3074624266225934_7856928878793388056_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=fzp3x5UTk5AQ7kNvwHgSmwx&_nc_oc=Adpc-OeA8_9G5YY1pymj6UbXcPHUyj90FG1JQeH2xCjh1tgLxFMwXS7yt8q1DBr5kEE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=qa2YQlvxmgRcXnFrXVFvOQ&_nc_tpa=Q5bMBQJOeC1Lsdvyy_GzHA7UBdBXb4OseahtLfkQYxjUWX6QdrTlbhKoDATpPefDkYE_6kITf2pGhNQXtw&oh=00_AQR4ycw-VEEz2WulrNsniCizl69sOUQz_pVuXvS6oq82mg&oe=6AF05A60",
         "score": 57128,
-        "baseline": 2276.3,
+        "baseline": 2256.5,
         "baseline_kind": "reel",
-        "multiple": 25.1,
+        "multiple": 25.32,
         "velocity": 3471.4448195555237,
         "label": "sene",
         "kind": "unknown",
@@ -6334,16 +6239,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfq2wAGTMFU/",
         "timestamp": "2026-11-13T05:16:07+00:00",
-        "hours": 126.8,
+        "hours": 128.3,
         "likes": 55284,
         "comments": 222,
         "views": 983943,
         "is_reel": true,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/900664763_18137054702301319_8484008120580541712_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0xJUFMuYmVzdF9pbWFnZV91cmxnZW4uQzMifQ%3D%3D&_nc_ohc=lGps8yzziOIQ7kNvwHWYVpU&_nc_oc=Adpn-dqloM6tNw1OBzFneXW--J0xd_jrNhRURvmwhaaPlxaJIT0xBn5Lm37QK5U3RGs&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=Xr-fn_0MgmgmXC7H8S1cfw&_nc_tpa=Q5bMBQKh6lut94m1yB4oYG2815XKsznxa3Obc51LbHOkBkSIpz273OIDE9MlMcN5L4CnO55G_RQ1qcRgKg&_nc_ct=RQosPBUKAAAA&oh=00_AQRleR1Zu4CZJWU6H8PIMue6zYbhK0yfh9aDPGjVUWLZdA&oe=6AFD79EF",
         "score": 55950,
-        "baseline": 2276.3,
+        "baseline": 2256.5,
         "baseline_kind": "reel",
-        "multiple": 24.58,
+        "multiple": 24.8,
         "velocity": 2122.5626225055175,
         "label": "sene",
         "kind": "curation",
@@ -6373,7 +6278,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 94
+        "rank": 93
       }
     ],
     "glowupmag": [
@@ -6387,16 +6292,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Dey8hRLAYGz/",
         "timestamp": "2026-10-22T12:07:22+00:00",
-        "hours": 647.9,
+        "hours": 649.5,
         "likes": 53297,
         "comments": 47,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857660425_18074964524781551_3354035004276047333_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=PHxOmtuaBsgQ7kNvwHg11Vb&_nc_oc=AdrYfWyYsK1cLpoVpExXRuGqe_6XZbDH7ClBqzVDit3_Kp3Bhe3fW0FHeX_ru6B27Mo&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=ndYj34wieNe-RJjp-zhNcw&oh=00_AQPbFLA1X5gb6zqHJ1mrEpLoJUqiJxmoIeIwQ6RliaeZaA&oe=6AE28314",
         "score": 53438,
-        "baseline": 596.1,
+        "baseline": 594.0,
         "baseline_kind": "post",
-        "multiple": 89.65,
+        "multiple": 89.96,
         "velocity": null,
         "label": "unsure",
         "kind": "news",
@@ -6433,16 +6338,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfqbAm-gWwZ/",
         "timestamp": "2026-11-13T01:12:02+00:00",
-        "hours": 130.8,
+        "hours": 132.4,
         "likes": 22264,
         "comments": 78,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/899304559_18078873740781551_2316077792513332851_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=qCKk1eCCcDMQ7kNvwFUsOxi&_nc_oc=Ado51G3q13g-v_P8IBJmIfEXah5XQNo8U0SztXqbtWatyt-locY_xhp3oQHC869UguY&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=aXU1YZHVBc8bFbccvxbttg&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQTopk2uz7ME6CE40P8VYMjYlB0w7jauNSGtfU9fh6gTZQ&oe=6AFD9120",
         "score": 22498,
-        "baseline": 596.1,
+        "baseline": 594.0,
         "baseline_kind": "post",
-        "multiple": 37.74,
+        "multiple": 37.88,
         "velocity": 935.8566567122716,
         "label": "sene",
         "kind": "news",
@@ -6485,16 +6390,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DewKdWcB1Gq/",
         "timestamp": "2026-10-21T10:11:58+00:00",
-        "hours": 673.8,
+        "hours": 675.4,
         "likes": 14855,
         "comments": 176,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/859668343_18074782103781551_3569577132276158092_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiRkVFRC5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tM_nQdozorYQ7kNvwGJTAOn&_nc_oc=Ado1dJNs7paIlf4ypxRYp_nnQD4ujvzG639_1aGbOwORqKyaADg3iuptGkpZeZnL-sE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=4BojBmQMBDiiTjLc3yMU4g&oh=00_AQNLjx1RmHU_mB4xprJrh6rs59Pcz2ANpQrAm5YIMczEMg&oe=6ADFAF4B",
         "score": 15383,
-        "baseline": 596.1,
+        "baseline": 594.0,
         "baseline_kind": "post",
-        "multiple": 25.81,
+        "multiple": 25.9,
         "velocity": 482.12165193297267,
         "label": "off",
         "kind": "news",
@@ -6530,16 +6435,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De0bnLSAZup/",
         "timestamp": "2026-10-23T01:58:18+00:00",
-        "hours": 634.1,
+        "hours": 635.6,
         "likes": 15088,
         "comments": 70,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/857674360_18075064430781551_7667994645270325508_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=1&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=tE8CihDgP7oQ7kNvwESiggL&_nc_oc=AdpljkDavvf2U4BRWLSTFKj215jSZbK0TLDoa9JJRO66ciGqP4jX6VGmL6j9RHvy8JM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=ndYj34wieNe-RJjp-zhNcw&oh=00_AQOGAyNaa5zAUF20JOHbCxJeK7U4ESYGbSbsqP6QimN3lw&oe=6AE2853D",
         "score": 15298,
-        "baseline": 596.1,
+        "baseline": 594.0,
         "baseline_kind": "post",
-        "multiple": 25.66,
+        "multiple": 25.75,
         "velocity": 195.45088861259416,
         "label": "sene",
         "kind": "news",
@@ -6581,16 +6486,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfBWNzEgVPo/",
         "timestamp": "2026-10-28T02:21:17+00:00",
-        "hours": 513.7,
+        "hours": 515.3,
         "likes": 14523,
         "comments": 49,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/866824976_18076042541781551_5222630306498823181_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=106&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=ePAOY5NwZG8Q7kNvwG_cZ41&_nc_oc=AdoWcEMaEk1cFDG3PZw6gl-y6QmB_JnyJsM1ji3MlfW85pZGmkXmc0jN4lo0Xk0lh1c&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=ywvPJrdcFp2ebdyecqE4-A&oh=00_AQQCWnkfTiJN-0exnwErPxGLD4uaqLOxyzpJvFvTItr8eg&oe=6AE7AFD4",
         "score": 14670,
-        "baseline": 596.1,
+        "baseline": 594.0,
         "baseline_kind": "post",
-        "multiple": 24.61,
+        "multiple": 24.7,
         "velocity": 2127.5009037855707,
         "label": "sene",
         "kind": "news",
@@ -6622,7 +6527,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 331
+        "rank": 333
       }
     ],
     "harpersbazaarkorea": [
@@ -6636,7 +6541,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfzMtOVR9IH/",
         "timestamp": "2026-11-16T11:00:08+00:00",
-        "hours": 49.0,
+        "hours": 50.6,
         "likes": 133383,
         "comments": 3097,
         "views": null,
@@ -6701,7 +6606,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfb_sfRSnFv/",
         "timestamp": "2026-11-07T10:46:10+00:00",
-        "hours": 265.3,
+        "hours": 266.8,
         "likes": 48267,
         "comments": 228,
         "views": null,
@@ -6740,7 +6645,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 300
+        "rank": 296
       },
       {
         "id": "De3ZghlyuoY",
@@ -6752,7 +6657,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De3ZghlyuoY/",
         "timestamp": "2026-10-24T05:40:01+00:00",
-        "hours": 606.4,
+        "hours": 607.9,
         "likes": 30923,
         "comments": 40,
         "views": null,
@@ -6792,7 +6697,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 573
+        "rank": 572
       },
       {
         "id": "DfjwEcGy2Hw",
@@ -6804,7 +6709,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfjwEcGy2Hw/",
         "timestamp": "2026-11-10T11:04:40+00:00",
-        "hours": 192.9,
+        "hours": 194.5,
         "likes": 24305,
         "comments": 78,
         "views": null,
@@ -6839,7 +6744,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 763
+        "rank": 764
       },
       {
         "id": "DfTg1JRSehU",
@@ -6851,7 +6756,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfTg1JRSehU/",
         "timestamp": "2026-11-04T03:42:00+00:00",
-        "hours": 344.3,
+        "hours": 345.9,
         "likes": 24045,
         "comments": 33,
         "views": null,
@@ -6892,7 +6797,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 778
+        "rank": 775
       }
     ],
     "dailyfood_news": [
@@ -6906,7 +6811,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Df1lTPehHe8/",
         "timestamp": "2026-11-17T09:23:56+00:00",
-        "hours": 26.6,
+        "hours": 28.2,
         "likes": 40640,
         "comments": 192,
         "views": 617988,
@@ -6939,7 +6844,7 @@
         "mags": [
           "dailyfood_news"
         ],
-        "pace": 62.59,
+        "pace": 62.6,
         "rank": 95
       },
       {
@@ -6952,7 +6857,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dey5HtRhjk8/",
         "timestamp": "2026-10-22T11:38:48+00:00",
-        "hours": 648.4,
+        "hours": 650.0,
         "likes": 20053,
         "comments": 181,
         "views": 1846870,
@@ -7002,16 +6907,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfrW8hGGYIj/",
         "timestamp": "2026-11-13T09:55:45+00:00",
-        "hours": 122.1,
+        "hours": 123.7,
         "likes": 7205,
         "comments": 54,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/901369195_18101688665426900_6976841219475044204_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=bvO6BxOa2AwQ7kNvwHYNSu8&_nc_oc=Adrf6mM7eNNvEOr7LevPqexp_NBL8wtR3iDVlN2ExEV78JiobxmcElRcRYuuB-DE2-k&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AJ-jyNUEAAAA&_nc_gid=WnTU38FlwkIuuqhpkzEHaw&_nc_ct=RQosPBUKFQIAAAA&oh=00_AQRPZeLDfq0y9DWGj8bwZdq8A4bxGufrSn6AZpi_c6hQkA&oe=6B001A77",
         "score": 7367,
-        "baseline": 744.3,
+        "baseline": 756.9,
         "baseline_kind": "post",
-        "multiple": 9.9,
+        "multiple": 9.73,
         "velocity": 104.47287704846201,
         "label": "sene",
         "kind": "news",
@@ -7037,7 +6942,7 @@
           "dailyfood_news"
         ],
         "pace": null,
-        "rank": 889
+        "rank": 895
       },
       {
         "id": "DfOSr49GXa7",
@@ -7049,16 +6954,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfOSr49GXa7/",
         "timestamp": "2026-11-02T03:00:34+00:00",
-        "hours": 393.0,
+        "hours": 394.6,
         "likes": 4640,
         "comments": 40,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/875191609_18100475990426900_5428669021702239582_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=104&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=BBzmTW9CHTAQ7kNvwG0c5xp&_nc_oc=AdoT3JK38R6FOlzcCLK56VcaLjYnyBmTDhn6ql4B1hpDeE2ejxwgrBnmAcGEciX5SDE&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=PTIPF0zhQ5TlP2flBXb6oQ&oh=00_AQRtCDH-sxiepJ5hSxkPdyqE9xUaDZTwSZFBgHkdx45_5Q&oe=6AF0D6A1",
         "score": 4760,
-        "baseline": 744.3,
+        "baseline": 756.9,
         "baseline_kind": "post",
-        "multiple": 6.4,
+        "multiple": 6.29,
         "velocity": 59.804434945231094,
         "label": "sene",
         "kind": "unknown",
@@ -7088,7 +6993,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 1458
+        "rank": 1469
       },
       {
         "id": "De1DgNdmbji",
@@ -7100,16 +7005,16 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De1DgNdmbji/",
         "timestamp": "2026-10-23T07:46:53+00:00",
-        "hours": 628.2,
+        "hours": 629.8,
         "likes": 4363,
         "comments": 35,
         "views": null,
         "is_reel": false,
         "image": "https://scontent-ssn1-1.cdninstagram.com/v/t51.82787-15/856770519_18099172049426900_7482681251684224159_n.jpg?stp=dst-jpg_e35_tt6&_nc_cat=105&ccb=7-5&_nc_sid=18de74&efg=eyJlZmdfdGFnIjoiQ0FST1VTRUxfSVRFTS5iZXN0X2ltYWdlX3VybGdlbi5DMyJ9&_nc_ohc=HRPXKaZj_90Q7kNvwGGpVpi&_nc_oc=AdrEiS4BKars_RxS3Fv6uS6fjPyPVXracJ6CD4J_U4oh-qBpPOOLC48zSIAr4xro1UM&_nc_zt=23&_nc_ht=scontent-ssn1-1.cdninstagram.com&edm=AL-3X8kEAAAA&_nc_gid=4XzzOI-NHB7WreV3vfWI5A&oh=00_AQPbscDEY5Mz_-tLzn01pXeuE0r6SMwMynHJl4UCdywolA&oe=6AE4CC54",
         "score": 4468,
-        "baseline": 744.3,
+        "baseline": 756.9,
         "baseline_kind": "post",
-        "multiple": 6.0,
+        "multiple": 5.9,
         "velocity": 7.359358414907418,
         "label": "sene",
         "kind": "curation",
@@ -7139,7 +7044,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 1557
+        "rank": 1559
       }
     ],
     "voguekorea": [
@@ -7153,7 +7058,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfRJ4vdidm2/",
         "timestamp": "2026-11-03T05:41:24+00:00",
-        "hours": 366.3,
+        "hours": 367.9,
         "likes": 105409,
         "comments": 409,
         "views": null,
@@ -7191,7 +7096,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 106
+        "rank": 107
       },
       {
         "id": "De852l8JXsI",
@@ -7203,7 +7108,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De852l8JXsI/",
         "timestamp": "2026-10-26T09:00:05+00:00",
-        "hours": 555.0,
+        "hours": 556.6,
         "likes": 72534,
         "comments": 79,
         "views": 920817,
@@ -7251,7 +7156,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfGYp2xTTzH/",
         "timestamp": "2026-10-30T01:19:52+00:00",
-        "hours": 466.7,
+        "hours": 468.3,
         "likes": 54655,
         "comments": 598,
         "views": 374593,
@@ -7286,7 +7191,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 230
+        "rank": 231
       },
       {
         "id": "DflLZYnvEzY",
@@ -7298,7 +7203,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DflLZYnvEzY/",
         "timestamp": "2026-11-11T00:20:10+00:00",
-        "hours": 179.7,
+        "hours": 181.3,
         "likes": 51120,
         "comments": 389,
         "views": 571525,
@@ -7345,7 +7250,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DetcJRHiaoE/",
         "timestamp": "2026-10-20T08:48:17+00:00",
-        "hours": 699.2,
+        "hours": 700.8,
         "likes": 47931,
         "comments": 1489,
         "views": null,
@@ -7381,7 +7286,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 320
+        "rank": 318
       }
     ],
     "marieclairekorea": [
@@ -7395,7 +7300,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfrQlalBZJ-/",
         "timestamp": "2026-11-13T09:00:06+00:00",
-        "hours": 123.0,
+        "hours": 124.6,
         "likes": 136898,
         "comments": 705,
         "views": 713750,
@@ -7445,7 +7350,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfyqWqkgZhV/",
         "timestamp": "2026-11-16T06:00:02+00:00",
-        "hours": 54.0,
+        "hours": 55.6,
         "likes": 75785,
         "comments": 240,
         "views": null,
@@ -7510,7 +7415,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfreZuKAccx/",
         "timestamp": "2026-11-13T11:00:06+00:00",
-        "hours": 121.0,
+        "hours": 122.6,
         "likes": 77237,
         "comments": 421,
         "views": null,
@@ -7546,7 +7451,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 220
+        "rank": 219
       },
       {
         "id": "DewQB8chZGG",
@@ -7558,7 +7463,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DewQB8chZGG/",
         "timestamp": "2026-10-21T11:00:07+00:00",
-        "hours": 673.0,
+        "hours": 674.6,
         "likes": 85492,
         "comments": 438,
         "views": null,
@@ -7598,7 +7503,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 230
+        "rank": 227
       },
       {
         "id": "DfHbP0Xhxdd",
@@ -7610,7 +7515,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfHbP0Xhxdd/",
         "timestamp": "2026-10-30T11:00:07+00:00",
-        "hours": 457.0,
+        "hours": 458.6,
         "likes": 80226,
         "comments": 316,
         "views": 325747,
@@ -7648,7 +7553,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 254
+        "rank": 253
       }
     ],
     "allurekorea": [
@@ -7662,7 +7567,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfJ-JhBMep0/",
         "timestamp": "2026-10-31T10:45:06+00:00",
-        "hours": 433.3,
+        "hours": 434.9,
         "likes": 93731,
         "comments": 246,
         "views": 655878,
@@ -7699,7 +7604,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 165
+        "rank": 164
       },
       {
         "id": "De_Dmpxo2-u",
@@ -7711,7 +7616,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De_Dmpxo2-u/",
         "timestamp": "2026-10-27T05:00:03+00:00",
-        "hours": 535.0,
+        "hours": 536.6,
         "likes": 47736,
         "comments": 272,
         "views": null,
@@ -7751,7 +7656,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 267
+        "rank": 266
       },
       {
         "id": "De-vSvRsOs4",
@@ -7763,7 +7668,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De-vSvRsOs4/",
         "timestamp": "2026-10-27T02:07:14+00:00",
-        "hours": 537.9,
+        "hours": 539.5,
         "likes": 63656,
         "comments": 274,
         "views": 1153673,
@@ -7811,7 +7716,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfjsnaGMVY2/",
         "timestamp": "2026-11-10T10:31:55+00:00",
-        "hours": 193.5,
+        "hours": 195.1,
         "likes": 47713,
         "comments": 324,
         "views": 1039065,
@@ -7846,7 +7751,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 410
+        "rank": 409
       },
       {
         "id": "DfwkrX-s7CL",
@@ -7858,7 +7763,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfwkrX-s7CL/",
         "timestamp": "2026-11-15T10:34:14+00:00",
-        "hours": 73.5,
+        "hours": 75.0,
         "likes": 37040,
         "comments": 88,
         "views": 213891,
@@ -7897,7 +7802,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 551,
+        "rank": 550,
         "who": "투모로우바이투게더",
         "event_date": "2026-11-15",
         "end_date": "",
@@ -7921,7 +7826,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De_qwwmzHP3/",
         "timestamp": "2026-10-27T10:49:22+00:00",
-        "hours": 529.2,
+        "hours": 530.8,
         "likes": 30539,
         "comments": 321,
         "views": 1658551,
@@ -7970,7 +7875,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfKD4kYzgW3/",
         "timestamp": "2026-10-31T11:38:27+00:00",
-        "hours": 432.4,
+        "hours": 434.0,
         "likes": 6328,
         "comments": 199,
         "views": 1075865,
@@ -8008,7 +7913,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 1391
+        "rank": 1390
       },
       {
         "id": "De6aacvTaZ8",
@@ -8020,7 +7925,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De6aacvTaZ8/",
         "timestamp": "2026-10-25T09:52:23+00:00",
-        "hours": 578.2,
+        "hours": 579.7,
         "likes": 5851,
         "comments": 149,
         "views": 985053,
@@ -8060,7 +7965,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 1557
+        "rank": 1559
       },
       {
         "id": "DfCZ7mMzO_t",
@@ -8072,7 +7977,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfCZ7mMzO_t/",
         "timestamp": "2026-10-28T12:15:55+00:00",
-        "hours": 503.8,
+        "hours": 505.3,
         "likes": 3845,
         "comments": 95,
         "views": 450321,
@@ -8123,7 +8028,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfO7iTDTBsM/",
         "timestamp": "2026-11-02T08:58:26+00:00",
-        "hours": 387.1,
+        "hours": 388.6,
         "likes": 3516,
         "comments": 9,
         "views": 307674,
@@ -8161,7 +8066,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 2798
+        "rank": 2796
       }
     ],
     "gq_korea": [
@@ -8175,7 +8080,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Dey02oxHTHk/",
         "timestamp": "2026-10-22T11:00:01+00:00",
-        "hours": 649.0,
+        "hours": 650.6,
         "likes": 52126,
         "comments": 198,
         "views": null,
@@ -8209,7 +8114,7 @@
           "gq_korea"
         ],
         "pace": null,
-        "rank": 267
+        "rank": 266
       },
       {
         "id": "De5zOoJHTHE",
@@ -8221,7 +8126,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De5zOoJHTHE/",
         "timestamp": "2026-10-25T04:00:04+00:00",
-        "hours": 584.0,
+        "hours": 585.6,
         "likes": 37538,
         "comments": 162,
         "views": null,
@@ -8252,7 +8157,7 @@
           "gq_korea"
         ],
         "pace": null,
-        "rank": 425
+        "rank": 423
       },
       {
         "id": "De3VSkphhZ6",
@@ -8264,7 +8169,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De3VSkphhZ6/",
         "timestamp": "2026-10-24T05:00:11+00:00",
-        "hours": 607.0,
+        "hours": 608.6,
         "likes": 24801,
         "comments": 80,
         "views": 274606,
@@ -8299,7 +8204,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 540
+        "rank": 541
       },
       {
         "id": "De3HjNDBgYS",
@@ -8311,7 +8216,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De3HjNDBgYS/",
         "timestamp": "2026-10-24T03:00:07+00:00",
-        "hours": 609.0,
+        "hours": 610.6,
         "likes": 18119,
         "comments": 124,
         "views": 257994,
@@ -8346,7 +8251,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 802
+        "rank": 803
       },
       {
         "id": "DfCf4vXHcFu",
@@ -8358,7 +8263,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfCf4vXHcFu/",
         "timestamp": "2026-10-28T13:05:01+00:00",
-        "hours": 502.9,
+        "hours": 504.5,
         "likes": 18675,
         "comments": 19,
         "views": null,
@@ -8392,7 +8297,7 @@
           "gq_korea"
         ],
         "pace": null,
-        "rank": 1083
+        "rank": 1082
       }
     ],
     "popga_official": [
@@ -8406,7 +8311,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De0Ug9KSeXG/",
         "timestamp": "2026-10-23T00:58:00+00:00",
-        "hours": 635.1,
+        "hours": 636.6,
         "likes": 12357,
         "comments": 168,
         "views": null,
@@ -8444,7 +8349,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 384
+        "rank": 383
       },
       {
         "id": "DfbdguEyQ__",
@@ -8456,7 +8361,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfbdguEyQ__/",
         "timestamp": "2026-11-07T05:45:57+00:00",
-        "hours": 270.3,
+        "hours": 271.8,
         "likes": 6761,
         "comments": 11,
         "views": 114643,
@@ -8510,7 +8415,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfWNDr1T6Nq/",
         "timestamp": "2026-11-05T04:46:18+00:00",
-        "hours": 319.3,
+        "hours": 320.8,
         "likes": 4742,
         "comments": 59,
         "views": 126376,
@@ -8564,7 +8469,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfZG142ymu2/",
         "timestamp": "2026-11-06T07:49:16+00:00",
-        "hours": 292.2,
+        "hours": 293.8,
         "likes": 3192,
         "comments": 18,
         "views": 57234,
@@ -8603,7 +8508,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 1702
+        "rank": 1701
       },
       {
         "id": "De0iy3Vypso",
@@ -8615,7 +8520,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De0iy3Vypso/",
         "timestamp": "2026-10-23T03:01:46+00:00",
-        "hours": 633.0,
+        "hours": 634.6,
         "likes": 2385,
         "comments": 10,
         "views": 92875,
@@ -8668,7 +8573,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfYs1ulIUXZ/",
         "timestamp": "2026-11-06T04:01:30+00:00",
-        "hours": 296.0,
+        "hours": 297.6,
         "likes": 10162,
         "comments": 198,
         "views": null,
@@ -8706,7 +8611,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 563
+        "rank": 564
       },
       {
         "id": "DfpHS42odBw",
@@ -8718,7 +8623,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfpHS42odBw/",
         "timestamp": "2026-11-12T13:00:01+00:00",
-        "hours": 143.0,
+        "hours": 144.6,
         "likes": 7757,
         "comments": 81,
         "views": null,
@@ -8762,7 +8667,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DeyNoMLk5d9/",
         "timestamp": "2026-10-22T05:17:38+00:00",
-        "hours": 654.7,
+        "hours": 656.3,
         "likes": 7387,
         "comments": 173,
         "views": null,
@@ -8808,7 +8713,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Dfyoc31BTym/",
         "timestamp": "2026-11-16T05:43:37+00:00",
-        "hours": 54.3,
+        "hours": 55.9,
         "likes": 6856,
         "comments": 223,
         "views": null,
@@ -8866,7 +8771,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De_KhpBk2OO/",
         "timestamp": "2026-10-27T06:00:03+00:00",
-        "hours": 534.0,
+        "hours": 535.6,
         "likes": 6444,
         "comments": 96,
         "views": null,
@@ -8912,7 +8817,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfWM29ZDyUJ/",
         "timestamp": "2026-11-05T04:43:34+00:00",
-        "hours": 319.3,
+        "hours": 320.9,
         "likes": 11423,
         "comments": 320,
         "views": null,
@@ -8956,7 +8861,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/De3yEPjzBAp/",
         "timestamp": "2026-10-24T09:13:26+00:00",
-        "hours": 602.8,
+        "hours": 604.4,
         "likes": 10947,
         "comments": 38,
         "views": 496763,
@@ -8995,7 +8900,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 757
+        "rank": 755
       },
       {
         "id": "DfpEEEzPLmc",
@@ -9007,7 +8912,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/DfpEEEzPLmc/",
         "timestamp": "2026-11-12T12:35:26+00:00",
-        "hours": 143.4,
+        "hours": 145.0,
         "likes": 8931,
         "comments": 70,
         "views": 144646,
@@ -9040,7 +8945,7 @@
           "hiphye_official"
         ],
         "pace": null,
-        "rank": 969
+        "rank": 970
       },
       {
         "id": "De3dZRHD77E",
@@ -9052,7 +8957,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De3dZRHD77E/",
         "timestamp": "2026-10-24T06:11:36+00:00",
-        "hours": 605.8,
+        "hours": 607.4,
         "likes": 7829,
         "comments": 34,
         "views": null,
@@ -9086,7 +8991,7 @@
           "hiphye_official"
         ],
         "pace": null,
-        "rank": 982
+        "rank": 983
       },
       {
         "id": "Dfodti4PhU-",
@@ -9098,7 +9003,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/reel/Dfodti4PhU-/",
         "timestamp": "2026-11-12T06:59:09+00:00",
-        "hours": 149.0,
+        "hours": 150.6,
         "likes": 7414,
         "comments": 54,
         "views": 355403,
@@ -9137,7 +9042,7 @@
           "dazedkorea"
         ],
         "pace": null,
-        "rank": 1236
+        "rank": 1237
       }
     ],
     "popply_official": [
@@ -9151,7 +9056,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/De_RVubEom9/",
         "timestamp": "2026-10-27T07:00:01+00:00",
-        "hours": 533.0,
+        "hours": 534.6,
         "likes": 324,
         "comments": 5,
         "views": null,
@@ -9185,7 +9090,7 @@
           "popply_official"
         ],
         "pace": null,
-        "rank": 3788
+        "rank": 3787
       },
       {
         "id": "Dfg9bNFndtH",
@@ -9197,7 +9102,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Dfg9bNFndtH/",
         "timestamp": "2026-11-09T09:00:02+00:00",
-        "hours": 219.0,
+        "hours": 220.6,
         "likes": 99,
         "comments": 4,
         "views": null,
@@ -9232,7 +9137,7 @@
           "popply_official"
         ],
         "pace": null,
-        "rank": 4841
+        "rank": 4839
       },
       {
         "id": "Deq4wIIEj54",
@@ -9244,7 +9149,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Deq4wIIEj54/",
         "timestamp": "2026-10-19T09:00:03+00:00",
-        "hours": 723.0,
+        "hours": 724.6,
         "likes": 92,
         "comments": 3,
         "views": null,
@@ -9291,7 +9196,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/DfO7130HYE3/",
         "timestamp": "2026-11-02T09:00:01+00:00",
-        "hours": 387.0,
+        "hours": 388.6,
         "likes": 91,
         "comments": 2,
         "views": null,
@@ -9325,7 +9230,7 @@
           "popply_official"
         ],
         "pace": null,
-        "rank": 4945
+        "rank": 4944
       },
       {
         "id": "Dfy_Bf8HT5M",
@@ -9337,7 +9242,7 @@
         "acct_genres": [],
         "url": "https://www.instagram.com/p/Dfy_Bf8HT5M/",
         "timestamp": "2026-11-16T09:00:26+00:00",
-        "hours": 51.0,
+        "hours": 52.6,
         "likes": 58,
         "comments": 2,
         "views": null,
@@ -9371,14 +9276,14 @@
           "popply_official"
         ],
         "pace": null,
-        "rank": 5413
+        "rank": 5410
       }
     ]
   },
   "stats": {
     "pool": 4519,
     "picked": 7,
-    "clusters": 1590,
+    "clusters": 1591,
     "skipped": {
       "curation": 61,
       "off": 496,
@@ -9387,10 +9292,10 @@
       "weak": 0,
       "weekly_tier": 0,
       "picked_before": 0,
-      "stale": 3763,
-      "gate": 100,
-      "crit": 11,
-      "no_event_date": 545,
+      "stale": 3774,
+      "gate": 99,
+      "crit": 12,
+      "no_event_date": 534,
       "quota": 32
     }
   }
