@@ -502,7 +502,45 @@
    },
    "corner_name": "왜 지금",
    "corner_no": 1,
-   "i18n_queued": "2026-11-18T11:50+09:00"
+   "i18n_queued": "2026-11-18T11:50+09:00",
+   "i18n": {
+    "at": "2026-11-18T11:52+09:00",
+    "confirm": [
+     "영어판 LVMH 본문 문장이 원문과 다릅니다. 'its CFO and team are discussing'로 되어 있어 원문에 없는 'team'이 들어갔고, 말한 주체도 CFO가 아닌 회사로 바뀌었습니다. 올리기 전에 'LVMH's chief financial officer said on its latest earnings call that the company is discussing internal measures, including price cuts.'로 바꿔 주세요.",
+     "제품명 영어 표기 'Mercato'는 NSS Magazine 기사에서, 'Quatre Classique Pendant, large model'은 부쉐론 공식 홈페이지에서 확인했습니다. 일본어 표기 「メルカート」「キャトル クラシック」는 카타카나로 옮긴 것이고, 각 브랜드 일본 공식 표기는 확인하지 못했습니다.",
+     "가격(445만→350만 원, 998만→890만 원)과 LVMH 논의 사실은 원문에 있는 그대로 옮겼습니다. 번역하면서 두 번째 출처로 다시 확인하지는 않았습니다.",
+     "'한국경제'는 영어 The Korea Economic Daily, 일본어 韓国経済新聞으로 옮겼습니다.",
+     "가격(445만→350만 원, 998만→890만 원)과 LVMH CFO 발언은 원문 보도에만 기대고 있음. 올리기 전에 한국경제 기사와 LVMH 실적 발표 원문으로 한 번 더 확인할 것",
+     "일본어 제목 둘째 줄 'なぜ値下がりしたのか'는 11자로 한도 안이지만, 화면에서 줄바꿈이 어떻게 되는지 확인할 것"
+    ],
+    "review": {
+     "at": "2026-11-18T11:52+09:00",
+     "fixes": [
+      "영어 · 표지 제목 · 'Why Did Gucci|Cut Its Bag Prices' 끝에 물음표 추가 — 영어 의문문 제목에 물음표가 없어 문장이 덜 끝난 것처럼 읽힘",
+      "영어 · 소제목 · 'Gucci cuts KRW 950,000 in Korea' → 'Gucci bag down KRW 950,000 in Korea' — 95만 원이 가방 한 개 값이 내린 폭이라는 점이 드러나지 않아, 매출을 줄였다거나 전체에서 깎았다는 뜻으로도 읽힘",
+      "영어 · LVMH 본문 · 'LVMH… said… that its CFO and team are discussing internal measures' → 'The CFO of parent company LVMH said… that measures including price cuts are being discussed internally' — 원문은 CFO가 발언한 것인데 번역에서는 발언 주체가 바뀌었고, 원문에 없는 'team'이 들어갔음. 'latest'도 원문대로 'recent'로 고침",
+      "일본어 · 표지 제목 · 'なぜ値下げしたのか' → 'なぜ値下がりしたのか' — 바로 앞 주어가 'バッグは'라서 가방이 스스로 값을 내린 꼴이 됨. 자동사로 고침"
+     ],
+     "doubt": [
+      "가격(445만→350만 원, 998만→890만 원)과 LVMH CFO 발언은 원문 보도에만 기대고 있음. 올리기 전에 한국경제 기사와 LVMH 실적 발표 원문으로 한 번 더 확인할 것",
+      "일본어 제목 둘째 줄 'なぜ値下がりしたのか'는 11자로 한도 안이지만, 화면에서 줄바꿈이 어떻게 되는지 확인할 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nGucci (@gucci) has lowered prices on some products in Korea.\n\nThe clearest example is the 'Mercato' small tote bag, which dropped 21.3%, from KRW 4,450,000 to KRW 3,500,000. Gucci has been lowering prices on some items since this summer.\n\nGucci is not alone. Boucheron cut the price of its 'Quatre Classique' pendant, large model, by 10.8%, and LVMH, Louis Vuitton's parent company, said it is discussing price cuts internally. Price tags that only ever went up are now moving the other way as demand shrinks.\n\nGucci 'Mercato' small tote bag: KRW 4,450,000 → KRW 3,500,000 (Korea, as reported by The Korea Economic Daily)\nBoucheron 'Quatre Classique' pendant, large model: KRW 9,980,000 → KRW 8,900,000\nLouis Vuitton: price cuts under discussion (per LVMH)\n#SENE #Gucci #Boucheron #LouisVuitton #LuxuryPrices\n\n[커버]\n소스: \n제목: Why Did Gucci|Cut Its Bag Prices?\n부제: Yearly price hikes, now in reverse\n출처: \n\n[슬라이드]\n소스: \n소제목: Gucci bag down KRW 950,000 in Korea\n본문: The 'Mercato' small tote bag has dropped from KRW 4,450,000 to KRW 3,500,000, a 21.3% cut. Gucci has been lowering prices on some items since this summer.\n출처: \n\n[슬라이드]\n소스: \n소제목: Boucheron cuts too\n본문: The 'Quatre Classique' pendant, large model, has dropped 10.8%, from KRW 9,980,000 to KRW 8,900,000. Some high jewelry and watch items have also been marked down.\n출처: \n\n[슬라이드]\n소스: \n소제목: Louis Vuitton weighs its options\n본문: The CFO of parent company LVMH said on a recent earnings call that measures including price cuts are being discussed internally.\n출처: \n\n[슬라이드]\n소스: \n소제목: Why now\n본문: Reports point to the same reasons: demand has fallen, and shoppers have stopped spending after prices rose too far. Gucci's sales have kept declining.\n출처: \n",
+      "caption": "Gucci (@gucci) has lowered prices on some products in Korea.\n\nThe clearest example is the 'Mercato' small tote bag, which dropped 21.3%, from KRW 4,450,000 to KRW 3,500,000. Gucci has been lowering prices on some items since this summer.\n\nGucci is not alone. Boucheron cut the price of its 'Quatre Classique' pendant, large model, by 10.8%, and LVMH, Louis Vuitton's parent company, said it is discussing price cuts internally. Price tags that only ever went up are now moving the other way as demand shrinks.\n\nGucci 'Mercato' small tote bag: KRW 4,450,000 → KRW 3,500,000 (Korea, as reported by The Korea Economic Daily)\nBoucheron 'Quatre Classique' pendant, large model: KRW 9,980,000 → KRW 8,900,000\nLouis Vuitton: price cuts under discussion (per LVMH)\n#SENE #Gucci #Boucheron #LouisVuitton #LuxuryPrices",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nグッチ（@gucci）が韓国で一部製品の価格を引き下げました。\n\n代表的なのが「メルカート」スモール トートバッグで、4,450,000ウォンだった価格が3,500,000ウォンへと21.3%下がりました。グッチは今年の夏から一部製品の価格を下げてきました。\n\n動いたのはグッチだけではありません。ブシュロンは「キャトル クラシック」ペンダント ラージの価格を10.8%引き下げ、ルイ・ヴィトンの親会社LVMHは値下げを社内で検討していると明らかにしました。毎年上がる一方だった値札が、縮んだ需要を前に逆向きに動いているといえます。\n\nグッチ「メルカート」スモール トートバッグ：4,450,000ウォン → 3,500,000ウォン（韓国、韓国経済新聞の報道より）\nブシュロン「キャトル クラシック」ペンダント ラージ：9,980,000ウォン → 8,900,000ウォン\nルイ・ヴィトン：値下げを検討中（LVMH発表）\n#SENE #グッチ #ブシュロン #ルイヴィトン #ハイブランド\n\n[커버]\n소스: \n제목: グッチのバッグは|なぜ値下がりしたのか\n부제: 毎年上がっていた値札が逆向きに\n출처: \n\n[슬라이드]\n소스: \n소제목: グッチ、韓国で95万ウォン値下げ\n본문: 「メルカート」スモール トートバッグが4,450,000ウォンから3,500,000ウォンになりました。21.3%の値下げです。グッチは今年の夏から一部製品の価格を下げてきました。\n출처: \n\n[슬라이드]\n소스: \n소제목: ブシュロンも値下げ\n본문: 「キャトル クラシック」ペンダント ラージが9,980,000ウォンから8,900,000ウォンへ、10.8%値下がりしました。ハイジュエリーや時計でも一部の品目が値下がりしています。\n출처: \n\n[슬라이드]\n소스: \n소제목: ルイ・ヴィトンは検討中\n본문: 親会社LVMHの最高財務責任者は、最近の決算発表で値下げを含む措置を社内で検討していると明らかにしました。\n출처: \n\n[슬라이드]\n소스: \n소제목: なぜ今なのか\n본문: 報道が挙げる理由は共通しています。需要が落ち込み、上がりすぎた価格に消費者が財布のひもを締めたというものです。グッチは売上の減少が続いています。\n출처: \n",
+      "caption": "グッチ（@gucci）が韓国で一部製品の価格を引き下げました。\n\n代表的なのが「メルカート」スモール トートバッグで、4,450,000ウォンだった価格が3,500,000ウォンへと21.3%下がりました。グッチは今年の夏から一部製品の価格を下げてきました。\n\n動いたのはグッチだけではありません。ブシュロンは「キャトル クラシック」ペンダント ラージの価格を10.8%引き下げ、ルイ・ヴィトンの親会社LVMHは値下げを社内で検討していると明らかにしました。毎年上がる一方だった値札が、縮んだ需要を前に逆向きに動いているといえます。\n\nグッチ「メルカート」スモール トートバッグ：4,450,000ウォン → 3,500,000ウォン（韓国、韓国経済新聞の報道より）\nブシュロン「キャトル クラシック」ペンダント ラージ：9,980,000ウォン → 8,900,000ウォン\nルイ・ヴィトン：値下げを検討中（LVMH発表）\n#SENE #グッチ #ブシュロン #ルイヴィトン #ハイブランド",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -879,10 +917,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-18T11:51+09:00"
+  "at": "2026-11-18T11:53+09:00"
  },
  "queue": {
-  "next": "2026-11-18T11:53+09:00",
+  "next": "2026-11-18T11:55+09:00",
   "n": 0,
   "gap": 20
  },
