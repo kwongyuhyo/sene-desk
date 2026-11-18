@@ -760,7 +760,47 @@
     "at": "2026-11-18T17:45+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-18T17:46+09:00"
+   "i18n_queued": "2026-11-18T17:46+09:00",
+   "i18n": {
+    "at": "2026-11-18T17:47+09:00",
+    "confirm": [
+     "카리나·포토콜 날짜는 확인 못 했습니다. 검색에서 팝업 정보(11/21~12/31, 성수이로7가길 9, 11:00~20:00, 입장 마감 19:30, 사전 예약·현장 방문)와 생모리츠 콘셉트는 확인됐지만, 18일 포토콜에 카리나가 온 일과 샤넬 뷰티 앰배서더라는 점은 iMBC연예 기사로 다시 확인해야 합니다.",
+     "숏폼 세 칸: 영어는 '*Karina* in Seongsu at the' + 'Chanel photo wall', 일본어는 '聖水で*カリナ*が' + 'シャネルのフォトコール' 로 이어 읽히게 했습니다. 화면 순서가 아티스트 → 곡이 아니면 문장 부호와 어순을 다시 맞춰야 합니다.",
+     "출처 칸의 'iMBC연예' 는 매체 이름이라 그대로 뒀습니다. 영어판에서 'iMBC Entertainment' 로 쓸지 정해 주세요.",
+     "일본어 주소 '聖水二路7ガ街9' 는 공식 일본어 표기가 없어 한자로 옮긴 것입니다. 표기를 확인해 주세요.",
+     "출처 칸 'iMBC연예'에 한글이 남음 — 매체 이름이라 규칙대로 두었지만, 영어·일본어 계정에서도 그대로 쓸지 확인",
+     "iMBC연예 사진·영상의 사용 권한 확인",
+     "영어판 출처에 한글이 남음",
+     "일본어판 출처에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-18T17:47+09:00",
+     "fixes": [
+      "영어 · 숏폼 아티스트 칸 · '*Karina* in Seongsu at the' → '*Karina* in Seongsu,' — 한 줄 20자, 세 칸 합 40자 초과",
+      "일본어 · 숏폼 아티스트 칸 · '聖水で*カリナ*が' → '*カリナ*、聖水で' — 곡 칸과 이으면 「が」 뒤에 동사가 없어 문장이 끊김",
+      "일본어 · 캡션 장소 · 聖水二路7ガ街9 → 聖水二路7ガギル9 — 7가길 표기가 어색함",
+      "영어 · 캡션 첫 문장 · stepped onto the photo wall → posed at the photo wall — 포토월(배경막)에 어울리지 않는 동사"
+     ],
+     "doubt": [
+      "출처 칸 'iMBC연예'에 한글이 남음 — 매체 이름이라 규칙대로 두었지만, 영어·일본어 계정에서도 그대로 쓸지 확인",
+      "iMBC연예 사진·영상의 사용 권한 확인",
+      "영어판 출처에 한글이 남음",
+      "일본어판 출처에 한글이 남음"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=ZT14rCT5J9Y\n구간: 0:05-0:20\n곡: Chanel photo wall\n아티스트: *Karina* in Seongsu,\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
+      "caption": "aespa (@aespa_official) member Karina posed at the photo wall of Chanel's holiday pop-up in Seongsu-dong, Seoul, on Nov 18.\n\nThe photocall came ahead of the pop-up's Nov 21 opening. Karina attended as a Chanel Beauty (@chanel.beauty) ambassador.\n\nThe pop-up brings winter in St. Moritz, Switzerland, to Seoul. Fragrance experiences and the holiday makeup collection sit among an Alpine-style chalet and snow-covered scenery.\n\nDates: Nov 21 (Sat) – Dec 31 (Thu)\nLocation: 9 Seongsui-ro 7ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: 11:00 – 20:00 (last entry 19:30)\nReservations: Advance booking (walk-ins available)\n#SENE #Karina #aespa #ChanelBeauty #SeoulPopup #Seongsu"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=ZT14rCT5J9Y\n구간: 0:05-0:20\n곡: シャネルのフォトコール\n아티스트: *カリナ*、聖水で\n피처링:\n후킹: \n출처: iMBC연예\n자막: 끔",
+      "caption": "aespa（@aespa_official）のカリナが18日、ソウル・聖水洞（ソンスドン）のシャネル ホリデー ポップアップのフォトウォールに登場しました。\n\n21日のオープンを前に開かれたフォトコールで、カリナはシャネル ビューティ（@chanel.beauty）のアンバサダーとして参加しました。\n\nポップアップはスイス・サンモリッツの冬を再現しています。アルプス風の山小屋と雪景色の中に、香りの体験とホリデー メイクアップ コレクションが並びます。\n\n期間：11月21日（土）〜12月31日（木）\n場所：ソウル・城東区 聖水二路7ガギル9（聖水洞）\n営業時間：11:00〜20:00（最終入場19:30）\n予約：事前予約制（当日来場も可）\n#SENE #カリナ #aespa #シャネル #韓国旅行 #聖水"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1008,10 +1048,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-18T17:46+09:00"
+  "at": "2026-11-18T17:47+09:00"
  },
  "queue": {
-  "next": "2026-11-18T17:48+09:00",
+  "next": "2026-11-18T17:49+09:00",
   "n": 0,
   "gap": 20
  },
