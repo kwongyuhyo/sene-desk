@@ -89,7 +89,46 @@
    },
    "corner_name": "정리",
    "corner_no": 1,
-   "i18n_queued": "2026-11-20T08:27+09:00"
+   "i18n_queued": "2026-11-20T08:27+09:00",
+   "i18n": {
+    "at": "2026-11-20T08:28+09:00",
+    "confirm": [
+     "상품명 '맵달반반샌드'의 공식 영어·일본어 표기를 찾지 못했습니다. 영어는 로마자 'Maepdal Banban Sand', 일본어는 「メプタルバンバンサンド」로 옮겼습니다.",
+     "GS25 매장명(인천공항 T2서편점 · 뉴안녕인사동점 · DXLAB점)의 공식 영어·일본어 표기를 찾지 못해 직접 옮겼습니다.",
+     "PERFECT STORM 팝업이나 GS25 협업을 다룬 영어 자료가 검색에서 나오지 않아 원문 사실을 그대로 옮겼습니다. 주소 '한강대로 42' 영어·일본어 표기는 직접 옮긴 것입니다.",
+     "영어·일본어 캡션에서 팝업 줄을 기간·운영 시간·장소로 나눴습니다. 정해진 머리말(Dates·Hours·Location / 期間·営業時間·場所)에 맞추려고 그랬습니다.",
+     "GS25 매장명 영어·일본어 표기(Incheon Airport T2 West / 仁川空港T2西側店, New Annyeong Insadong / ニューアンニョン仁寺洞店)는 공식 표기를 확인하지 못한 직역임 — 올리기 전에 확인 필요",
+     "캡션의 '이번 일요일(this Sunday / 今週の日曜日)'은 11월 22일(일) 기준이라 게시가 22일 이후로 밀리면 고쳐야 함",
+     "영어 해시태그가 #SENE 뒤로 5개라 규칙 상한(4~5개)에 걸쳐 있음 — 그대로 두었음"
+    ],
+    "review": {
+     "at": "2026-11-20T08:28+09:00",
+     "fixes": [
+      "영어 · 캡션 셋째 단락 · 'is sold ... since Nov 17' → 'has been on sale ... since Nov 17' — since 와 현재형이 어긋나는 문법 오류",
+      "일본어 · 캡션 둘째 단락 · ミニ9集 → 9thミニアルバム — 한국어 '집' 직역, 일본 독자에게 더 자연스러운 표기",
+      "일본어 · 해시태그 · #투바투 → #韓国コンビニ — 일본어판에 한글 태그가 남아 있었음"
+     ],
+     "doubt": [
+      "GS25 매장명 영어·일본어 표기(Incheon Airport T2 West / 仁川空港T2西側店, New Annyeong Insadong / ニューアンニョン仁寺洞店)는 공식 표기를 확인하지 못한 직역임 — 올리기 전에 확인 필요",
+      "캡션의 '이번 일요일(this Sunday / 今週の日曜日)'은 11월 22일(일) 기준이라 게시가 22일 이후로 밀리면 고쳐야 함",
+      "영어 해시태그가 #SENE 뒤로 5개라 규칙 상한(4~5개)에 걸쳐 있음 — 그대로 두었음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nA sandwich made by TOMORROW X TOGETHER (@txt_bighit) and GS25 (@gs25_official) hit convenience stores on Nov 19.\n\nThe collaboration marks the release of the group's 9th mini album 'PERFECT STORM'. The 'Maepdal Banban Sand' (spicy-sweet half-and-half sandwich) has a whole pork cutlet with spicy mayo on one side and egg salad with strawberry jam on the other. GS25 says each pack includes one of six mini photocards of the members, at random.\n\nThe album is at convenience stores too: it has been on sale at eight GS25 locations since Nov 17. The place to visit in person is the PERFECT STORM pop-up in Yongsan, which closes this Sunday.\n\nSandwich: KRW 3,900 · GS25 (out Nov 19)\nAlbum: 8 GS25 stores, including Incheon Airport T2 West, New Annyeong Insadong and DXLAB\nDates: Pop-up until Sun, Nov 22\nHours: 11:00–20:00\nLocation: 1F, 42 Hangang-daero, Yongsan-gu, Seoul\nReservations: Advance booking on Weverse (walk-ins allowed depending on crowds)\n#SENE #TXT #TOMORROW_X_TOGETHER #GS25 #SeoulPopup #Yongsan\n\n[커버]\n소스: \n제목: TXT Comeback Week:|What to Pick Up in Seoul\n부제: GS25 sandwich · album · Yongsan pop-up until Nov 22\n출처: \n\n[슬라이드]\n소스: \n소제목: GS25 'Maepdal Banban Sand'\n본문: Out Nov 19 · KRW 3,900|Spicy mayo pork cutlet on one side, egg salad and strawberry jam on the other|One of 6 member mini photocards, at random\n출처: \n\n[슬라이드]\n소스: \n소제목: Albums at GS25\n본문: At 8 GS25 stores from Nov 17|Incheon Airport T2 West, New Annyeong Insadong, DXLAB and more\n출처: \n\n[슬라이드]\n소스: \n소제목: PERFECT STORM Pop-up\n본문: Until Sun, Nov 22 · 11:00–20:00|1F, 42 Hangang-daero, Yongsan-gu, Seoul|Advance booking on Weverse (walk-ins depending on crowds)\n출처: \n",
+      "caption": "A sandwich made by TOMORROW X TOGETHER (@txt_bighit) and GS25 (@gs25_official) hit convenience stores on Nov 19.\n\nThe collaboration marks the release of the group's 9th mini album 'PERFECT STORM'. The 'Maepdal Banban Sand' (spicy-sweet half-and-half sandwich) has a whole pork cutlet with spicy mayo on one side and egg salad with strawberry jam on the other. GS25 says each pack includes one of six mini photocards of the members, at random.\n\nThe album is at convenience stores too: it has been on sale at eight GS25 locations since Nov 17. The place to visit in person is the PERFECT STORM pop-up in Yongsan, which closes this Sunday.\n\nSandwich: KRW 3,900 · GS25 (out Nov 19)\nAlbum: 8 GS25 stores, including Incheon Airport T2 West, New Annyeong Insadong and DXLAB\nDates: Pop-up until Sun, Nov 22\nHours: 11:00–20:00\nLocation: 1F, 42 Hangang-daero, Yongsan-gu, Seoul\nReservations: Advance booking on Weverse (walk-ins allowed depending on crowds)\n#SENE #TXT #TOMORROW_X_TOGETHER #GS25 #SeoulPopup #Yongsan",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n트렌드\n\n[캡션]\nTOMORROW X TOGETHER（@txt_bighit）とGS25（@gs25_official）が一緒に作ったサンドイッチが、19日にコンビニに登場しました。\n\n9thミニアルバム『PERFECT STORM』の発売に合わせたコラボで、片方にはプルマヨ（ピリ辛マヨ）ソースを塗った厚切りとんかつ、もう片方には卵サラダといちごジャムを挟んだ「メプタルバンバンサンド（맵달반반샌드）」です。GS25は、メンバーの写真入りミニフォトカード6種のうち1枚がランダムで入っていると説明しています。\n\nアルバムもコンビニで買えます。17日からGS25の8店舗で販売中です。実際に足を運べるのは龍山のPERFECT STORMポップアップで、今週の日曜日に終了します。\n\nサンドイッチ：3,900ウォン・GS25（11月19日発売）\nアルバム：GS25 仁川空港T2西側店・ニューアンニョン仁寺洞店・DXLAB店など8店舗\n期間：ポップアップは11月22日（日）まで\n営業時間：11:00〜20:00\n場所：ソウル・龍山区（ヨンサング）漢江大路42 1階\n予約：Weverseで事前予約（現場の状況により予約なしで入場可）\n#SENE #TXT #韓国コンビニ #GS25 #韓国旅行 #龍山\n\n[커버]\n소스: \n제목: TXTカムバック週、|ソウルで手にするもの\n부제: GS25サンド・アルバム・龍山ポップアップは22日まで\n출처: \n\n[슬라이드]\n소스: \n소제목: GS25「メプタルバンバンサンド」\n본문: 11月19日発売・3,900ウォン|片方はプルマヨとんかつ、片方は卵サラダといちごジャム|メンバーのミニフォトカード6種から1種ランダム\n출처: \n\n[슬라이드]\n소스: \n소제목: GS25でアルバム販売\n본문: 11月17日からGS25の8店舗で|仁川空港T2西側店・ニューアンニョン仁寺洞店・DXLAB店など\n출처: \n\n[슬라이드]\n소스: \n소제목: PERFECT STORM ポップアップ\n본문: 11月22日（日）まで・11:00〜20:00|ソウル・龍山区（ヨンサング）漢江大路42 1階|Weverseで事前予約（現場の状況により予約なしで入場可）\n출처: \n",
+      "caption": "TOMORROW X TOGETHER（@txt_bighit）とGS25（@gs25_official）が一緒に作ったサンドイッチが、19日にコンビニに登場しました。\n\n9thミニアルバム『PERFECT STORM』の発売に合わせたコラボで、片方にはプルマヨ（ピリ辛マヨ）ソースを塗った厚切りとんかつ、もう片方には卵サラダといちごジャムを挟んだ「メプタルバンバンサンド（맵달반반샌드）」です。GS25は、メンバーの写真入りミニフォトカード6種のうち1枚がランダムで入っていると説明しています。\n\nアルバムもコンビニで買えます。17日からGS25の8店舗で販売中です。実際に足を運べるのは龍山のPERFECT STORMポップアップで、今週の日曜日に終了します。\n\nサンドイッチ：3,900ウォン・GS25（11月19日発売）\nアルバム：GS25 仁川空港T2西側店・ニューアンニョン仁寺洞店・DXLAB店など8店舗\n期間：ポップアップは11月22日（日）まで\n営業時間：11:00〜20:00\n場所：ソウル・龍山区（ヨンサング）漢江大路42 1階\n予約：Weverseで事前予約（現場の状況により予約なしで入場可）\n#SENE #TXT #韓国コンビニ #GS25 #韓国旅行 #龍山",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -418,10 +457,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-20T08:27+09:00"
+  "at": "2026-11-20T08:28+09:00"
  },
  "queue": {
-  "next": "2026-11-20T08:29+09:00",
+  "next": "2026-11-20T08:30+09:00",
   "n": 0,
   "gap": 20
  },
