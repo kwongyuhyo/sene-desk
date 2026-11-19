@@ -814,7 +814,46 @@
    },
    "corner_name": "정리",
    "corner_no": 1,
-   "i18n_queued": "2026-11-19T17:46+09:00"
+   "i18n_queued": "2026-11-19T17:46+09:00",
+   "i18n": {
+    "at": "2026-11-19T17:47+09:00",
+    "confirm": [
+     "고유명사 표기는 웹 검색 없이 널리 쓰이는 공식 표기로 넣었습니다(THE BOYZ, TAEYEON/テヨン, EPIK HIGH, ソン・シギョン, KSPO DOME). 올리기 전에 일본어 공식 표기를 한 번 더 확인해 주세요.",
+     "에픽하이 본문의 '예매는 10월에 진행'은 오늘(11/19) 기준으로 이미 지난 일이라 과거형으로 옮겼습니다(영어 'went on sale', 일본어 '実施').",
+     "캡션의 '어제 태연이 발표'는 '어제(yesterday/昨日)' 그대로 옮겼습니다. 올리는 날이 바뀌면 고쳐 주세요.",
+     "DAY6 팬클럽 선예매(11월 19일 오후 8시)가 오늘이라 올리는 시점에는 이미 지났을 수 있습니다.",
+     "캡션의 '어제(yesterday·昨日)'와 '가장 가까운 예매 = DAY6 일반 예매 11/20' 은 오늘(11/19) 기준 — 11/20 이후에 올리면 세 언어 모두 고쳐야 함",
+     "DAY6 팬클럽 선예매가 오늘(11/19) 오후 8시라 올리는 시각에 따라 이미 지난 정보가 됨",
+     "에픽하이 '예매는 10월에 진행' — 세 언어 모두 '이미 진행됨'으로 옮김. 원문이 '10월에 진행 예정'을 뜻했던 거라면 실제 예매 일정을 다시 확인해야 함"
+    ],
+    "review": {
+     "at": "2026-11-19T17:47+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · the year-end lineup is now complete → the year-end and New Year schedule is now all in one place — 원문 '한자리에 모였다'에 없는 '라인업 확정(더 없음)' 뜻이 더해짐",
+      "영어 · 캡션 둘째 단락 · announcing the January shows → announcing her January shows — 누구의 공연인지 바로 읽히게",
+      "일본어 · 캡션 둘째 단락 · 「出そろいましたが、12月18日の…」 → 「出そろいました。12月18日の…」 — '〜が'가 역접으로 읽히는 직역투라 문장을 나눔"
+     ],
+     "doubt": [
+      "캡션의 '어제(yesterday·昨日)'와 '가장 가까운 예매 = DAY6 일반 예매 11/20' 은 오늘(11/19) 기준 — 11/20 이후에 올리면 세 언어 모두 고쳐야 함",
+      "DAY6 팬클럽 선예매가 오늘(11/19) 오후 8시라 올리는 시각에 따라 이미 지난 정보가 됨",
+      "에픽하이 '예매는 10월에 진행' — 세 언어 모두 '이미 진행됨'으로 옮김. 원문이 '10월에 진행 예정'을 뜻했던 거라면 실제 예매 일정을 다시 확인해야 함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nFive acts take the stage one after another at KSPO DOME in Olympic Park this December and January.\n\nWith TAEYEON (@taeyeon_ss) announcing her January shows yesterday, the year-end and New Year schedule is now all in one place. It opens Dec 18 with DAY6 (@day6kilogram)'s 'The Present' and runs through EPIK HIGH's first solo KSPO DOME concert on Jan 24. THE BOYZ (@official_theboyz) play four days starting Christmas Eve, and Sung Si-kyung spends New Year's Eve night and the first three days of the new year at the venue.\n\nThe next ticket sale is DAY6's general sale, opening Nov 20 (Fri) at 8 PM on NOL.\n\nDates: Dec 18, 2026 (Fri) – Jan 24, 2027 (Sun)\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\n#SENE #KSPODOME #DAY6 #THEBOYZ #TAEYEON #EPIKHIGH\n\n[커버]\n소스: \n제목: KSPO DOME This Winter|Concerts by Date\n부제: DAY6 · THE BOYZ · Sung Si-kyung · TAEYEON · EPIK HIGH\n출처: \n\n[슬라이드]\n소스: \n소제목: Dec 18 – 20 · DAY6\n본문: 2026 DAY6 Special Concert 'The Present'|Fan club presale Nov 19 (Thu), 8 PM|General sale Nov 20 (Fri), 8 PM · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: Dec 24 – 27 · THE BOYZ\n본문: 2026 Concert 'ZENERATION Ⅲ'|Four days, Dec 24 (Thu) – 27 (Sun)\n출처: \n\n[슬라이드]\n소스: \n소제목: Dec 31 – Jan 3 · Sung Si-kyung\n본문: 2026 Sung Si-kyung Year-End Concert 'Sung Si-kyung'|Dec 31 (Thu) 9 PM · Jan 1 (Fri) 7 PM|Jan 2 (Sat) · Jan 3 (Sun) 6 PM · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: Jan 15 – 17 · TAEYEON\n본문: TAEYEON CONCERT - F.L.Y. in Seoul|Three days, Jan 15 (Fri) – 17 (Sun)\n출처: \n\n[슬라이드]\n소스: \n소제목: Jan 22 – 24 · EPIK HIGH\n본문: 2027 EPIK HIGH Concert|First solo show at KSPO DOME since debut|Tickets went on sale in October\n출처: \n",
+      "caption": "Five acts take the stage one after another at KSPO DOME in Olympic Park this December and January.\n\nWith TAEYEON (@taeyeon_ss) announcing her January shows yesterday, the year-end and New Year schedule is now all in one place. It opens Dec 18 with DAY6 (@day6kilogram)'s 'The Present' and runs through EPIK HIGH's first solo KSPO DOME concert on Jan 24. THE BOYZ (@official_theboyz) play four days starting Christmas Eve, and Sung Si-kyung spends New Year's Eve night and the first three days of the new year at the venue.\n\nThe next ticket sale is DAY6's general sale, opening Nov 20 (Fri) at 8 PM on NOL.\n\nDates: Dec 18, 2026 (Fri) – Jan 24, 2027 (Sun)\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\n#SENE #KSPODOME #DAY6 #THEBOYZ #TAEYEON #EPIKHIGH",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\n12月と1月、ソウル・オリンピック公園のKSPO DOMEで5組の公演が続けて開かれます。\n\n昨日、テヨン（태연・@taeyeon_ss）が1月の公演を発表し、年末年始の日程が出そろいました。12月18日のDAY6（@day6kilogram）『The Present』に始まり、1月24日のEPIK HIGH初のKSPO DOME単独公演まで続きます。THE BOYZ（@official_theboyz）はクリスマスイブから4日間、ソン・シギョン（성시경）は12月31日の夜から新年の3日間をこの会場で過ごします。\n\n直近のチケット販売はDAY6の一般販売で、11月20日（金）午後8時にNOLで始まります。\n\n期間：2026年12月18日（金）〜2027年1月24日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\n#SENE #韓国旅行 #KSPODOME #DAY6 #テヨン #THEBOYZ\n\n[커버]\n소스: \n제목: KSPO DOMEの冬|公演を日付順に\n부제: DAY6 · THE BOYZ · ソン・シギョン · テヨン · EPIK HIGH\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.18〜12.20 · DAY6\n본문: 2026 DAY6 Special Concert 'The Present'|ファンクラブ先行 11月19日（木）午後8時|一般販売 11月20日（金）午後8時 · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.24〜12.27 · THE BOYZ\n본문: 2026 コンサート 'ZENERATION Ⅲ'|12月24日（木）〜27日（日）の4日間\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.31〜1.3 · ソン・シギョン\n본문: 2026 ソン・シギョン年末コンサート『ソン・シギョン』|31日（木）午後9時 · 1日（金）午後7時|2日（土）· 3日（日）午後6時 · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: 1.15〜1.17 · テヨン\n본문: TAEYEON CONCERT - F.L.Y. in Seoul|1月15日（金）〜17日（日）の3日間\n출처: \n\n[슬라이드]\n소스: \n소제목: 1.22〜1.24 · EPIK HIGH\n본문: 2027 EPIK HIGH コンサート|デビュー後初のKSPO DOME単独公演|チケット販売は10月に実施\n출처: \n",
+      "caption": "12月と1月、ソウル・オリンピック公園のKSPO DOMEで5組の公演が続けて開かれます。\n\n昨日、テヨン（태연・@taeyeon_ss）が1月の公演を発表し、年末年始の日程が出そろいました。12月18日のDAY6（@day6kilogram）『The Present』に始まり、1月24日のEPIK HIGH初のKSPO DOME単独公演まで続きます。THE BOYZ（@official_theboyz）はクリスマスイブから4日間、ソン・シギョン（성시경）は12月31日の夜から新年の3日間をこの会場で過ごします。\n\n直近のチケット販売はDAY6の一般販売で、11月20日（金）午後8時にNOLで始まります。\n\n期間：2026年12月18日（金）〜2027年1月24日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\n#SENE #韓国旅行 #KSPODOME #DAY6 #テヨン #THEBOYZ",
+      "preview": null
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1062,10 +1101,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-19T17:46+09:00"
+  "at": "2026-11-19T17:47+09:00"
  },
  "queue": {
-  "next": "2026-11-19T17:48+09:00",
+  "next": "2026-11-19T17:49+09:00",
   "n": 0,
   "gap": 20
  },
