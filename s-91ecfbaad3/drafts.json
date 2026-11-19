@@ -582,7 +582,43 @@
     "at": "2026-11-19T11:50+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-19T11:52+09:00"
+   "i18n_queued": "2026-11-19T11:52+09:00",
+   "i18n": {
+    "at": "2026-11-19T11:54+09:00",
+    "confirm": [
+     "일본어 이름 '테yeon=テヨン'은 SM 일본 활동에서 흔히 쓰는 표기지만, 이번 작업에서 WebSearch로 따로 확인하지는 않았습니다.",
+     "KSPO DOME과 멜론티켓(Melon Ticket)은 원문의 영문·공식 표기를 그대로 썼습니다. 일본어판에서는 '예매' 줄의 머리말을 '予約：' 대신 'チケット：'로 바꿨습니다.",
+     "일본어 해시태그 #少女時代 은 원문에 없는 태그입니다. 일본 독자가 실제로 찾는 태그라서 넣었으니, 필요하면 빼 주세요.",
+     "일본어 해시태그 #少女時代 는 원문에 없는 태그 — 태연 본인 소속 그룹이라 남겼지만, 단독 공연 글에 그룹 태그를 달아도 되는지 확인 필요",
+     "영어·일본어 캡션의 'next January / last year / 来年·昨年' 은 2026년에 올리는 기준 — 해를 넘겨 올리면 고쳐야 함"
+    ],
+    "review": {
+     "at": "2026-11-19T11:54+09:00",
+     "fixes": [
+      "영어 · 캡션 · her first in one year and 10 months → her first in a year and 10 months — 직역투",
+      "영어 · 해시태그 · #TAEYEON #Taeyeon 중복(해시태그는 대소문자 구분 없음) → #Taeyeon 빼고 #OlympicPark 추가",
+      "일본어 · 캡션 첫 문장 · テヨン（태연・@taeyeon_ss） → テヨン（@taeyeon_ss） — 공식 일본어 표기 テヨン이 있어 남은 한글 삭제"
+     ],
+     "doubt": [
+      "일본어 해시태그 #少女時代 는 원문에 없는 태그 — 태연 본인 소속 그룹이라 남겼지만, 단독 공연 글에 그룹 태그를 달아도 되는지 확인 필요",
+      "영어·일본어 캡션의 'next January / last year / 来年·昨年' 은 2026년에 올리는 기준 — 해를 넘겨 올리면 고쳐야 함"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nTaeyeon (@taeyeon_ss) returns to the KSPO DOME stage at Olympic Park, Seoul, next January.\n\nThe show is titled 'TAEYEON CONCERT - F.L.Y. in Seoul.' It is her seventh solo concert, and her first in a year and 10 months, after 'The TENSE' at the same venue in March last year.\n\nSeoul is the first of six Asian cities on the tour. It then continues to Macau, Bangkok, Hong Kong, Taipei and Tokyo, running through April next year.\n\nDates: Jan 15 (Fri) – Jan 17 (Sun), 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nTickets: Melon Ticket — fan club presale Dec 1 (Tue), 8 p.m. · global presale Dec 2 (Wed) · general sale Dec 3 (Thu)\n#SENE #TAEYEON #KSPODOME #OlympicPark #SeoulConcert\n\n[커버]\n소스: \n제목: Taeyeon Returns to|KSPO DOME in January\n부제: TAEYEON CONCERT - F.L.Y. in Seoul\n출처: \n",
+      "caption": "Taeyeon (@taeyeon_ss) returns to the KSPO DOME stage at Olympic Park, Seoul, next January.\n\nThe show is titled 'TAEYEON CONCERT - F.L.Y. in Seoul.' It is her seventh solo concert, and her first in a year and 10 months, after 'The TENSE' at the same venue in March last year.\n\nSeoul is the first of six Asian cities on the tour. It then continues to Macau, Bangkok, Hong Kong, Taipei and Tokyo, running through April next year.\n\nDates: Jan 15 (Fri) – Jan 17 (Sun), 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nTickets: Melon Ticket — fan club presale Dec 1 (Tue), 8 p.m. · global presale Dec 2 (Wed) · general sale Dec 3 (Thu)\n#SENE #TAEYEON #KSPODOME #OlympicPark #SeoulConcert",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n컬처\n\n[캡션]\nテヨン（@taeyeon_ss）が来年1月、ソウル・オリンピック公園のKSPO DOMEのステージに再び立ちます。\n\n公演タイトルは「TAEYEON CONCERT - F.L.Y. in Seoul」。昨年3月に同じ会場で開かれた「The TENSE」以来、1年10か月ぶりとなる7回目の単独コンサートです。\n\nソウルはアジア6都市ツアーの最初の都市です。その後マカオ・バンコク・香港・台北・東京と続き、来年4月まで開催されます。\n\n期間：2027年1月15日（金）〜17日（日）\n場所：ソウル・松坡区（ソンパグ） オリンピック公園 KSPO DOME\nチケット：メロンチケット（Melon Ticket）— ファンクラブ先行 12月1日（火）午後8時・グローバル先行 12月2日（水）・一般販売 12月3日（木）\n#SENE #テヨン #TAEYEON #少女時代 #韓国コンサート\n\n[커버]\n소스: \n제목: テヨン、来年1月に|KSPO DOME公演\n부제: TAEYEON CONCERT - F.L.Y. in Seoul\n출처: \n",
+      "caption": "テヨン（@taeyeon_ss）が来年1月、ソウル・オリンピック公園のKSPO DOMEのステージに再び立ちます。\n\n公演タイトルは「TAEYEON CONCERT - F.L.Y. in Seoul」。昨年3月に同じ会場で開かれた「The TENSE」以来、1年10か月ぶりとなる7回目の単独コンサートです。\n\nソウルはアジア6都市ツアーの最初の都市です。その後マカオ・バンコク・香港・台北・東京と続き、来年4月まで開催されます。\n\n期間：2027年1月15日（金）〜17日（日）\n場所：ソウル・松坡区（ソンパグ） オリンピック公園 KSPO DOME\nチケット：メロンチケット（Melon Ticket）— ファンクラブ先行 12月1日（火）午後8時・グローバル先行 12月2日（水）・一般販売 12月3日（木）\n#SENE #テヨン #TAEYEON #少女時代 #韓国コンサート",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -944,10 +980,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-19T11:53+09:00"
+  "at": "2026-11-19T11:54+09:00"
  },
  "queue": {
-  "next": "2026-11-19T11:55+09:00",
+  "next": "2026-11-19T11:56+09:00",
   "n": 0,
   "gap": 20
  },
