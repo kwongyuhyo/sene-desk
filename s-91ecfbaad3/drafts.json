@@ -1,766 +1,39 @@
 {
  "schema": 1,
- "date": "2026-11-19",
- "generated_at": "2026-11-19 08:23 KST",
+ "date": "2026-11-20",
+ "generated_at": "2026-11-20 08:23 KST",
  "items": [
   {
    "source": {
-    "id": "claude:hyunjin-guess-winter-popup",
-    "account": "패션비즈 · 싱글리스트 · RNX · @guess",
-    "url": "https://fashionbiz.co.kr/article/231077",
+    "id": "claude:txt-perfect-storm-week-seoul",
+    "account": "콕스뉴스 · 스페셜타임스 · 머니투데이 · 위버스 TXT 공지",
+    "url": "https://www.coxnews.co.kr/news/articleView.html?idxno=6822",
     "image": null,
-    "head": "게스 'THE WINTER – 2026 POP-UP' · 11/23~12/6 · 롯데월드몰 지하 1층 · 사전 예약 11/12 12시부터 · 현",
+    "head": "GS25 '맵달반반샌드' 19일 출시 · 3,900원 · 미니 포토카드 6종 중 1종 무작위 · 앨범 17일부터 8개 매장",
     "multiple": null,
     "is_reel": false,
     "kind": "claude"
    },
-   "made_at": "2026-11-19T08:24+09:00",
-   "key": "f094ef94",
+   "made_at": "2026-11-20T08:27+09:00",
+   "key": "1ae3d735",
    "by": "claude",
    "subjects": [
-    "현진",
-    "스트레이 키즈",
-    "게스"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "정리 — 11/18 공개된 현진의 게스 겨울 캠페인을 11/23~12/6 롯데월드몰 팝업에서 직접 보는 법 (기간·층·예약·선착순 혜택)",
-    "why": "기획안 slot mo · 케이팝 연결 · 캠페인 공개 다음 날, 팝업 개막 나흘 전"
-   },
-   "added": "claude",
-   "added_at": "2026-11-19T08:24+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n패션\n\n[캡션]\n스트레이 키즈(@realstraykids) 현진의 게스(@guess) 겨울 캠페인이 18일 공개됐습니다.\n\n글로벌 앰배서더 현진과 찍은 이번 캠페인은 1990년대 얼터너티브 무드에서 출발했는데요, 여러 포즈를 겹친 이중 노출과 콜라주로 장면을 엮었습니다. 중심에는 벨벳 질감 데님 재킷과 데님 패딩 트러커 재킷 같은 아우터가 있습니다.\n\n이 겨울을 직접 볼 수 있는 자리는 23일 잠실에 열립니다. 브랜드는 구매 고객에게 현진의 미공개 비주얼을 담은 한정판 기프트를, 방문 고객에게 팝업 한정 핀뱃지를 선착순으로 준다고 밝혔습니다. 데님에 그래픽을 레이저로 새기는 커스터마이징도 함께 운영합니다.\n\n기간: 11월 23일(월) ~ 12월 6일(일)\n장소: 서울 송파구 롯데월드몰 지하 1층\n예약: 사전 예약 11월 12일 낮 12시부터 · 현장 접수 병행\n#SENE #현진 #스트레이키즈 #게스 #롯데월드몰\n\n[커버]\n소스: \n제목: 현진의 게스 겨울,|롯데월드몰 팝업으로\n부제: 11월 23일부터 12월 6일까지 · 지하 1층\n출처:\n",
-    "caption": "스트레이 키즈(@realstraykids) 현진의 게스(@guess) 겨울 캠페인이 18일 공개됐습니다.\n\n글로벌 앰배서더 현진과 찍은 이번 캠페인은 1990년대 얼터너티브 무드에서 출발했는데요, 여러 포즈를 겹친 이중 노출과 콜라주로 장면을 엮었습니다. 중심에는 벨벳 질감 데님 재킷과 데님 패딩 트러커 재킷 같은 아우터가 있습니다.\n\n이 겨울을 직접 볼 수 있는 자리는 23일 잠실에 열립니다. 브랜드는 구매 고객에게 현진의 미공개 비주얼을 담은 한정판 기프트를, 방문 고객에게 팝업 한정 핀뱃지를 선착순으로 준다고 밝혔습니다. 데님에 그래픽을 레이저로 새기는 커스터마이징도 함께 운영합니다.\n\n기간: 11월 23일(월) ~ 12월 6일(일)\n장소: 서울 송파구 롯데월드몰 지하 1층\n예약: 사전 예약 11월 12일 낮 12시부터 · 현장 접수 병행\n#SENE #현진 #스트레이키즈 #게스 #롯데월드몰",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "현진의 게스 겨울,|롯데월드몰 팝업으로",
-      "sub": "11월 23일부터 12월 6일까지 · 지하 1층"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "스트레이 키즈 현진,|게스 겨울 팝업 날짜",
-      "sub": "롯데월드몰 지하 1층 · 11/23~12/6"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 사실(기간·지하 1층·혜택·커스터마이징·캠페인 무드·아우터)은 패션비즈·싱글리스트·RNX 원문과 맞음. 다만 미리보기 표지에 사진이 하나도 안 붙음(인스타 CDN·기사 사진 해상도 미달, Cloudinary 401) — 사진 없이 글자 표지로 올라감. 사진을 다시 붙여야 함. 사전 예약 11/12 12시는 패션비즈 한 곳에만 있음",
-     "표지 사진 없음 — 08:20 회차에 사진 호스팅 실패(ImgBB 한도·Cloudinary 401). @guess 11/18 현진 릴스 썸네일·싱글리스트 게스 제공 사진을 앱에서 다시 붙일 것",
-     "운영 시간·사전 예약 채널은 기사에 없음 — 게스 코리아 공식 계정에서 확인되면 캡션에 한 줄 더할 것 (사전 예약 시각 11/12 12시는 패션비즈 한 곳 기준)",
-     "숏폼 소스 없음 — yt_find 'GUESS Hyunjin winter 2026 campaign'·'GUESS Holiday 2026 Hyunjin'·'GUESS Holiday '26 Campaign': 현진 필름은 @guess 인스타 릴스뿐(유튜브 공식 없음)",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "패션비즈 (11/13) — 게스, 롯데월드몰 팝업 23일 오픈… 현진 한정 기프트 · 11/23~12/6 · 지하 1층 · 사전 예약 11/12 12시 · 현장 접수",
-      "link": "https://fashionbiz.co.kr/article/231077"
-     },
-     {
-      "title": "싱글리스트 (11/12) — 'THE WINTER – 2026 팝업' 23일부터 12월 6일까지 롯데월드몰 지하 1층 · 미공개 비주얼 기프트·핀뱃지 선착순 · 레이저 커스터마이징",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=781119"
-     },
-     {
-      "title": "RNX (11/18) — 2026 WINTER 캠페인 18일부터 순차 공개 · 1990년대 얼터너티브 무드 · 이중 노출·콜라주 · 소프트 터치 아우터",
-      "link": "https://www.rnx.kr/news/articleView.html?idxno=919774"
-     },
-     {
-      "title": "싱글리스트 (11/18) — 현진 게스 윈터 캠페인 공개 · 23일부터 롯데월드몰 팝업",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=782756"
-     },
-     {
-      "title": "@guess 인스타그램 (11/18) — The Holiday '26 campaign with Hyunjin",
-      "link": "https://www.instagram.com/guess/"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식",
-   "i18n_queued": "2026-11-19T08:25+09:00",
-   "i18n": {
-    "at": "2026-11-19T08:26+09:00",
-    "confirm": [
-     "검색으로 이번 겨울 캠페인이나 롯데월드몰 팝업을 다룬 영문 기사는 찾지 못했습니다. 번역은 원문의 사실만 따랐습니다.",
-     "제품명 '벨벳 질감 데님 재킷'·'데님 패딩 트러커 재킷'의 GUESS 공식 영어·일본어 이름을 확인하지 못해 풀어 썼습니다.",
-     "사전 예약(11월 12일 시작)은 이미 시작된 날짜라 원문 그대로 옮겼습니다. 아직 받는지 다시 확인이 필요합니다.",
-     "사전 예약 시작일(11월 12일)은 이미 지났습니다 — 올릴 때 '사전 예약 진행 중'처럼 표현을 바꿀지 원문과 함께 확인해 주세요"
-    ],
-    "review": {
-     "at": "2026-11-19T08:26+09:00",
-     "fixes": [
-      "영어 · 캡션 셋째 단락 · A denim customization service that laser-engraves graphics onto denim → A customization service that laser-engraves graphics onto denim — denim 중복",
-      "일본어 · 표지 제목 · ヒョンジンのGUESSの冬、→ GUESS×ヒョンジンの冬、 — 「の」가 두 번 이어져 어색함",
-      "일본어 · 캡션 둘째 단락 · 出発したものですが、→ 出発しており、 — 「ですが」가 역접으로 읽혀 직역투"
-     ],
-     "doubt": [
-      "사전 예약 시작일(11월 12일)은 이미 지났습니다 — 올릴 때 '사전 예약 진행 중'처럼 표현을 바꿀지 원문과 함께 확인해 주세요"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nGUESS (@guess) unveiled its winter campaign with Stray Kids' (@realstraykids) Hyunjin on Nov 18.\n\nShot with Hyunjin as global ambassador, the campaign starts from a 1990s alternative mood, weaving its scenes together through double exposures and collages of layered poses. At its center is outerwear, including a velvet-textured denim jacket and a padded denim trucker jacket.\n\nThe place to see this winter in person opens Nov 23 in Jamsil. The brand says shoppers will receive a limited-edition gift featuring unreleased visuals of Hyunjin, and visitors will receive a pop-up-exclusive pin badge, both first come, first served. A customization service that laser-engraves graphics onto denim also runs on site.\n\nDates: Nov 23 (Mon) – Dec 6 (Sun)\nLocation: B1, Lotte World Mall, Songpa-gu, Seoul (Jamsil)\nReservations: Advance booking from Nov 12, 12 p.m. · walk-ins also accepted\n#SENE #Hyunjin #StrayKids #GUESS #LotteWorldMall\n\n[커버]\n소스: \n제목: Hyunjin's GUESS Winter|Pops Up at Lotte World Mall\n부제: Nov 23 – Dec 6 · B1 Floor\n출처: \n",
-      "caption": "GUESS (@guess) unveiled its winter campaign with Stray Kids' (@realstraykids) Hyunjin on Nov 18.\n\nShot with Hyunjin as global ambassador, the campaign starts from a 1990s alternative mood, weaving its scenes together through double exposures and collages of layered poses. At its center is outerwear, including a velvet-textured denim jacket and a padded denim trucker jacket.\n\nThe place to see this winter in person opens Nov 23 in Jamsil. The brand says shoppers will receive a limited-edition gift featuring unreleased visuals of Hyunjin, and visitors will receive a pop-up-exclusive pin badge, both first come, first served. A customization service that laser-engraves graphics onto denim also runs on site.\n\nDates: Nov 23 (Mon) – Dec 6 (Sun)\nLocation: B1, Lotte World Mall, Songpa-gu, Seoul (Jamsil)\nReservations: Advance booking from Nov 12, 12 p.m. · walk-ins also accepted\n#SENE #Hyunjin #StrayKids #GUESS #LotteWorldMall",
-      "preview": null
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nStray Kids（@realstraykids）ヒョンジンを起用したGUESS（@guess）の冬キャンペーンが、18日に公開されました。\n\nグローバルアンバサダーのヒョンジンと撮影した今回のキャンペーンは、1990年代のオルタナティブなムードから出発しており、いくつものポーズを重ねた二重露光とコラージュで場面をつないでいます。中心にあるのは、ベルベット調のデニムジャケットやデニムのパデッドトラッカージャケットといったアウターです。\n\nこの冬を直接見られる場は、23日に蚕室（チャムシル）にオープンします。ブランドによると、購入者にはヒョンジンの未公開ビジュアルを収めた限定ギフトを、来場者にはポップアップ限定のピンバッジを、それぞれ先着順で贈るとのことです。デニムにグラフィックをレーザーで刻むカスタマイズサービスも合わせて行います。\n\n期間：11月23日（月）〜12月6日（日）\n場所：ソウル・松坡区（ソンパグ）蚕室 ロッテワールドモール地下1階\n予約：事前予約は11月12日正午から・当日受付も実施\n#SENE #ヒョンジン #StrayKids #GUESS #韓国旅行\n\n[커버]\n소스: \n제목: GUESS×ヒョンジンの冬、|ロッテワールドモールへ\n부제: 11月23日〜12月6日・地下1階\n출처: \n",
-      "caption": "Stray Kids（@realstraykids）ヒョンジンを起用したGUESS（@guess）の冬キャンペーンが、18日に公開されました。\n\nグローバルアンバサダーのヒョンジンと撮影した今回のキャンペーンは、1990年代のオルタナティブなムードから出発しており、いくつものポーズを重ねた二重露光とコラージュで場面をつないでいます。中心にあるのは、ベルベット調のデニムジャケットやデニムのパデッドトラッカージャケットといったアウターです。\n\nこの冬を直接見られる場は、23日に蚕室（チャムシル）にオープンします。ブランドによると、購入者にはヒョンジンの未公開ビジュアルを収めた限定ギフトを、来場者にはポップアップ限定のピンバッジを、それぞれ先着順で贈るとのことです。デニムにグラフィックをレーザーで刻むカスタマイズサービスも合わせて行います。\n\n期間：11月23日（月）〜12月6日（日）\n場所：ソウル・松坡区（ソンパグ）蚕室 ロッテワールドモール地下1階\n予約：事前予約は11月12日正午から・当日受付も実施\n#SENE #ヒョンジン #StrayKids #GUESS #韓国旅行",
-      "preview": null
-     }
-    }
-   },
-   "pick": {
-    "rank": 1,
-    "why": "개막 나흘 전 저장할 정보 — 현진 팬이 사전예약·혜택을 한 장에서 확인",
-    "at": "2026-11-19T17:45+09:00"
-   }
-  },
-  {
-   "source": {
-    "id": "claude:brk-f5c0c1f5",
-    "account": "@속보",
-    "url": "https://sports.donga.com/ent/article/all/20261119/135051671/1",
-    "image": null,
-    "head": "로이킴, 데뷔 첫 KSPO DOME 공연 11/20~22 사흘간 (3회 전석 매진)",
-    "multiple": null,
-    "is_reel": true,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-19T08:43+09:00",
-   "key": "8cfd4c4b",
-   "by": "claude",
-   "subjects": [
-    "로이킴"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "로이킴 데뷔 첫 KSPO DOME 공연이 내일부터 사흘간 — 회차별 시간·장소·관람 규칙",
-    "why": "추가 회차까지 3회 전석 매진, 공연 D-1 기사 6곳이 동시에 냈음"
-   },
-   "added": "claude",
-   "added_at": "2026-11-19T08:43+09:00",
-   "corner": "concert",
-   "card": {
-    "form": "[카테고리]\n컬처\n\n[캡션]\n로이킴(@roykim_official)이 내일부터 사흘간 KSPO DOME 무대에 섭니다.\n\n데뷔 후 처음으로 서는 구 올림픽 체조경기장인데요, 처음엔 21일과 22일 이틀 공연이었지만 두 회차가 매진되며 금요일인 20일 공연이 더해졌고, 이 회차까지 모두 전석 매진됐습니다.\n\n투어 이름 [R:O:Y]는 'A REFUGE FOR OUR YESTERDAYS'의 약자로, 우리의 지난날들을 위한 안식처라는 뜻입니다. 로이킴은 \"오랜 시간 꿈꿔온 무대에서 사흘 동안 팬 여러분들과 만날 수 있다는 사실 자체만으로도 감사한 마음이 크다\"고 전했습니다. 서울 공연 뒤에는 내년 1~2월 홍콩·방콕·타이베이·도쿄로 이어집니다.\n\n공연: 2026-27 로이킴 LIVE TOUR [R:O:Y] in SEOUL\n기간: 11월 20일(금) 오후 8시 · 21일(토) 오후 6시 · 22일(일) 오후 5시\n장소: 서울 송파구 올림픽로 424 KSPO DOME (방이동)\n가격: VIP석 165,000원 · R석 154,000원 (NOL 티켓)\n관람: 만 7세 이상\n#SENE #로이킴 #KSPODOME #체조경기장 #송파구\n\n[커버]\n소스: \n제목: 로이킴, 내일부터|체조경기장 사흘\n부제: 데뷔 첫 KSPO DOME 공연 · 11/20~22\n출처:\n",
-    "caption": "로이킴(@roykim_official)이 내일부터 사흘간 KSPO DOME 무대에 섭니다.\n\n데뷔 후 처음으로 서는 구 올림픽 체조경기장인데요, 처음엔 21일과 22일 이틀 공연이었지만 두 회차가 매진되며 금요일인 20일 공연이 더해졌고, 이 회차까지 모두 전석 매진됐습니다.\n\n투어 이름 [R:O:Y]는 'A REFUGE FOR OUR YESTERDAYS'의 약자로, 우리의 지난날들을 위한 안식처라는 뜻입니다. 로이킴은 \"오랜 시간 꿈꿔온 무대에서 사흘 동안 팬 여러분들과 만날 수 있다는 사실 자체만으로도 감사한 마음이 크다\"고 전했습니다. 서울 공연 뒤에는 내년 1~2월 홍콩·방콕·타이베이·도쿄로 이어집니다.\n\n공연: 2026-27 로이킴 LIVE TOUR [R:O:Y] in SEOUL\n기간: 11월 20일(금) 오후 8시 · 21일(토) 오후 6시 · 22일(일) 오후 5시\n장소: 서울 송파구 올림픽로 424 KSPO DOME (방이동)\n가격: VIP석 165,000원 · R석 154,000원 (NOL 티켓)\n관람: 만 7세 이상\n#SENE #로이킴 #KSPODOME #체조경기장 #송파구",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "로이킴, 내일부터|체조경기장 사흘",
-      "sub": "데뷔 첫 KSPO DOME 공연 · 11/20~22"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "로이킴 첫 KSPO DOME|사흘 모두 매진",
-      "sub": "11월 20일(금)~22일(일) · 송파구 방이동"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "로이킴 체조경기장|회차별 시간 정리",
-      "sub": "금 오후 8시 · 토 오후 6시 · 일 오후 5시"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 미리보기 표지(tmp/claude_prev/8cfd4c4b/01.jpg)에 로이킴 사진이 안 들어가고 글자만 나옴 — 공식 인스타 사진 4장이 표지에 붙는지 앱에서 확인",
-     "클립 위험: 낮음 — 로이킴 Roy Kim 공식 채널. [검증] 구간을 음악만 나오던 0:05-0:25 에서 로이킴 인사·촬영 불가 안내가 자막으로 확인되는 0:48-1:32 로 옮김",
-     "추가 좌석(11/2 오픈)이 남아 있는지 NOL 티켓 페이지에서 올리기 전 확인",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "NOL 티켓 — 2026-27 로이킴 LIVE TOUR [R:O:Y] in SEOUL (공식 예매 페이지)",
-      "link": "https://nol.yanolja.com/ticket/products/26013078"
-     },
-     {
-      "title": "로이킴, KSPO DOME 첫 입성…20~22일 '라이브 투어 인 서울' 무대 (swtvnews)",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065567836293759"
-     },
-     {
-      "title": "로이킴, 데뷔 첫 KSPO돔 입성 D-1 (스포츠월드)",
-      "link": "https://www.sportsworldi.com/newsView/20261119502749"
-     },
-     {
-      "title": "로이킴, 데뷔 첫 KSPO DOME 입성 D-1 (메가경제)",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065565536121770"
-     },
-     {
-      "title": "로이킴, 첫 KSPO돔 콘서트 3일 전석 매진 (일간스포츠)",
-      "link": "https://isplus.com/article/view/isp202610140170"
-     },
-     {
-      "title": "[속보] 로이킴, 공연 직전 긴급 기자회견 (로이킴 Roy Kim 공식 유튜브)",
-      "link": "https://www.youtube.com/watch?v=K3JXJ2j9bkk"
-     }
-    ],
-    "by": "claude"
-   },
-   "shorts": {
-    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=K3JXJ2j9bkk\n구간: 0:48-1:32\n곡: 영상 촬영은 불가합니다\n아티스트: 공연 중에 사진이나\n피처링:\n후킹: *로이킴* 긴급 기자회견\n출처: 로이킴 Roy Kim\n자막: 끔",
-    "caption": "로이킴(@roykim_official)이 내일부터 사흘간 KSPO DOME 무대에 섭니다.\n\n영상은 로이킴이 공식 채널에 올린 공연 전 '긴급 기자회견' 콘셉트 영상인데요, 기자회견 형식을 빌려 공연장 관람 안내를 직접 전합니다. 영상 속 첫 안내는 공연 중 사진·영상 촬영이 불가하다는 것입니다.\n\n데뷔 후 처음 서는 구 올림픽 체조경기장으로, 처음엔 이틀 공연이었지만 매진 뒤 20일 회차가 더해졌고 사흘 모두 전석 매진됐습니다.\n\n공연: 2026-27 로이킴 LIVE TOUR [R:O:Y] in SEOUL\n기간: 11월 20일(금) 오후 8시 · 21일(토) 오후 6시 · 22일(일) 오후 5시\n장소: 서울 송파구 올림픽로 424 KSPO DOME (방이동)\n#SENE #로이킴 #KSPODOME #체조경기장 #송파구",
-    "hooks": {
-     "A": "*로이킴* 긴급 기자회견 / 공연 중에 사진이나 / 영상 촬영은 불가합니다",
-     "B": "*로이킴* 첫 KSPO DOME / 내일부터 사흘",
-     "C": "추가 회차까지 / 사흘 모두 매진"
-    },
-    "video": {
-     "url": "https://www.youtube.com/watch?v=K3JXJ2j9bkk",
-     "credit": "로이킴 Roy Kim",
-     "range": [
-      48.0,
-      92.0
-     ]
-    },
-    "guided": {
-     "rec": "A",
-     "lint": []
-    },
-    "issues": [],
-    "confirm": [
-     "[검증] 미리보기 표지(tmp/claude_prev/8cfd4c4b/01.jpg)에 로이킴 사진이 안 들어가고 글자만 나옴 — 공식 인스타 사진 4장이 표지에 붙는지 앱에서 확인",
-     "클립 위험: 낮음 — 로이킴 Roy Kim 공식 채널. [검증] 구간을 음악만 나오던 0:05-0:25 에서 로이킴 인사·촬영 불가 안내가 자막으로 확인되는 0:48-1:32 로 옮김",
-     "추가 좌석(11/2 오픈)이 남아 있는지 NOL 티켓 페이지에서 올리기 전 확인"
-    ],
-    "research": [
-     {
-      "title": "NOL 티켓 — 2026-27 로이킴 LIVE TOUR [R:O:Y] in SEOUL (공식 예매 페이지)",
-      "link": "https://nol.yanolja.com/ticket/products/26013078"
-     },
-     {
-      "title": "로이킴, KSPO DOME 첫 입성…20~22일 '라이브 투어 인 서울' 무대 (swtvnews)",
-      "link": "https://swtvnews.com/news/newsview.php?ncode=1065567836293759"
-     },
-     {
-      "title": "로이킴, 데뷔 첫 KSPO돔 입성 D-1 (스포츠월드)",
-      "link": "https://www.sportsworldi.com/newsView/20261119502749"
-     },
-     {
-      "title": "로이킴, 데뷔 첫 KSPO DOME 입성 D-1 (메가경제)",
-      "link": "https://www.megaeconomy.co.kr/news/newsview.php?ncode=1065565536121770"
-     },
-     {
-      "title": "로이킴, 첫 KSPO돔 콘서트 3일 전석 매진 (일간스포츠)",
-      "link": "https://isplus.com/article/view/isp202610140170"
-     },
-     {
-      "title": "[속보] 로이킴, 공연 직전 긴급 기자회견 (로이킴 Roy Kim 공식 유튜브)",
-      "link": "https://www.youtube.com/watch?v=K3JXJ2j9bkk"
-     }
-    ],
-    "thumb": "https://i.ytimg.com/vi/K3JXJ2j9bkk/maxresdefault.jpg",
-    "render": {
-     "status": "queued",
-     "at": "2026-11-19T08:45+09:00"
-    }
-   },
-   "corner_name": "콘서트 가는 날",
-   "corner_no": 1
-  },
-  {
-   "source": {
-    "id": "claude:brk-5d9e8113",
-    "account": "@속보",
-    "url": "https://blog.naver.com/9ataraxia/224482961878",
-    "image": null,
-    "head": "샤넬 홀리데이 팝업, 11/21 성수 오픈 — 생모리츠 산장 콘셉트, 2년 만",
-    "multiple": null,
-    "is_reel": true,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-19T08:53+09:00",
-   "key": "f59fc6cb",
-   "by": "claude",
-   "subjects": [
-    "샤넬"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "샤넬이 홀리데이 팝업을 이번 주 토요일(11/21) 성수에 연다 — 18일 카리나 포토콜로 먼저 알려짐",
-    "why": "포토콜 다음 날 반응 급증 · 오픈 이틀 전이라 이번 주말 갈 수 있는 소식"
-   },
-   "added": "claude",
-   "added_at": "2026-11-19T08:53+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n샤넬이 이번 주 토요일 성수동에 홀리데이 팝업을 엽니다.\n\n가브리엘 샤넬이 겨울마다 머물던 스위스 생모리츠에서 출발한 공간인데요, 그곳 설산 속 산장과 눈 내리는 풍경을 그대로 옮겼습니다. 18일 오후에는 오픈을 앞두고 샤넬 뷰티(@chanel.beauty) 앰배서더 카리나가 참석한 포토콜이 열렸습니다.\n\n중심은 향수입니다. 스토퍼에 흰 겨울 모자를 씌운 'N°5 오 드 빠르펭 스프레이(윈터 케이스)', 홀리데이 체인을 단 'N°5 펄스 스프레이', 흰 파우치가 딸린 '라 크렘 망 홀리데이 에디션' 같은 한정 제품을 현장에서 볼 수 있습니다.\n\n기간: 11월 21일(토) ~ 12월 31일(목)\n장소: 서울 성동구 성수이로7가길 9\n운영: 11:00 ~ 20:00 (마지막 입장 19:30)\n예약: 사전 예약 또는 현장 방문\n#SENE #샤넬 #샤넬홀리데이팝업 #성수팝업 #성수동\n\n[커버]\n소스: \n제목: 샤넬, 성수에|겨울 산장 팝업\n부제: 11월 21일 ~ 12월 31일 · 성수이로7가길\n출처:\n",
-    "caption": "샤넬이 이번 주 토요일 성수동에 홀리데이 팝업을 엽니다.\n\n가브리엘 샤넬이 겨울마다 머물던 스위스 생모리츠에서 출발한 공간인데요, 그곳 설산 속 산장과 눈 내리는 풍경을 그대로 옮겼습니다. 18일 오후에는 오픈을 앞두고 샤넬 뷰티(@chanel.beauty) 앰배서더 카리나가 참석한 포토콜이 열렸습니다.\n\n중심은 향수입니다. 스토퍼에 흰 겨울 모자를 씌운 'N°5 오 드 빠르펭 스프레이(윈터 케이스)', 홀리데이 체인을 단 'N°5 펄스 스프레이', 흰 파우치가 딸린 '라 크렘 망 홀리데이 에디션' 같은 한정 제품을 현장에서 볼 수 있습니다.\n\n기간: 11월 21일(토) ~ 12월 31일(목)\n장소: 서울 성동구 성수이로7가길 9\n운영: 11:00 ~ 20:00 (마지막 입장 19:30)\n예약: 사전 예약 또는 현장 방문\n#SENE #샤넬 #샤넬홀리데이팝업 #성수팝업 #성수동",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "샤넬, 성수에|겨울 산장 팝업",
-      "sub": "11월 21일 ~ 12월 31일 · 성수이로7가길"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "토요일 성수에 여는|샤넬 홀리데이 팝업",
-      "sub": "11월 21일 ~ 12월 31일"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "생모리츠 산장이|성수에 열린다",
-      "sub": "샤넬 홀리데이 팝업 · 12월 31일까지"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 미리보기 표지에 사진이 붙지 않음(Cloudinary 401) · 숏폼 영상 내려받기 403 실패 — 사진·영상 붙은 뒤 사람·워터마크 다시 확인",
-     "[검증] '2년 만'(공감신문만)·'홀리데이 메이크업 컬렉션'(엘르만)은 한 곳에서만 확인돼 캡션·표지 B에서 뺐습니다 — 숏폼 영상은 자막이 없어(0:15-0:30) 장면만 확인 필요",
-     "클립 위험: 중간 — CBC World (포토월 매체 영상) · 0:15-0:30 구간에 카리나가 또렷이 보이는지 눈으로 확인",
-     "예약 경로 — 기사마다 '샤넬 뷰티 카카오톡 채널' / '홀리데이 팝업 예약 사이트'로 달라 캡션엔 '사전 예약 또는 현장 방문'만 적음",
-     "이어지는 소식 — 11-16에 다룬 소재. 새 사실: 11/16 초안 뒤 18일 오후 카리나(샤넬 뷰티 앰배서더) 참석 오픈 기념 포토콜이 열렸고, 운영 시간(11:00~20:00, 마지막 입장 19:30)·주소(성수이로7가길 9)·",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "W Korea — 성수에 펼쳐지는 샤넬의 겨울, 샤넬 홀리데이 팝업",
-      "link": "https://www.wkorea.com/2026/11/03/%EC%84%B1%EC%88%98%EC%97%90-%ED%8E%BC%EC%B3%90%EC%A7%80%EB%8A%94-%EC%83%A4%EB%84%AC%EC%9D%98-%EA%B2%A8%EC%9A%B8-%EC%83%A4%EB%84%AC-%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4-%ED%8C%9D%EC%97%85"
-     },
-     {
-      "title": "보그 코리아 — 샤넬이 초대하는 생모리츠의 겨울",
-      "link": "https://www.vogue.co.kr/2026/11/03/%ec%83%a4%eb%84%ac%ec%9d%b4-%ec%b4%88%eb%8c%80%ed%95%98%eb%8a%94-%ec%83%9d%eb%aa%a8%eb%a6%ac%ec%b8%a0%ec%9d%98-%ea%b2%a8%ec%9a%b8/"
-     },
-     {
-      "title": "공감신문 — 샤넬 2년 만에 홀리데이 팝업…21일 성수동서 '생모리츠 산장' 재현",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=884279"
-     },
-     {
-      "title": "아주경제 — [포토] 카리나, '볼하트로 사르륵'",
-      "link": "https://www.ajunews.com/view/20261118160910852"
-     },
-     {
-      "title": "오뉴스 — 카리나, 눈부신 미모 '샤넬 홀리데이 팝업' 포토콜",
-      "link": "https://www.ohnews.co.kr/news/articleView.html?idxno=31204"
-     },
-     {
-      "title": "CBC World — 에스파 카리나 / 샤넬 홀리데이 팝업 포토월",
-      "link": "https://www.youtube.com/watch?v=BlNp7ruIK7I"
-     }
-    ],
-    "by": "claude"
-   },
-   "shorts": {
-    "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=BlNp7ruIK7I\n구간: 0:15-0:30\n곡: 샤넬 겨울 산장\n아티스트: *카리나*가 다녀간\n피처링:\n후킹: \n출처: CBC World\n자막: 끔",
-    "caption": "샤넬이 이번 주 토요일 성수동에 홀리데이 팝업을 엽니다.\n\n오픈을 앞둔 18일 오후, 팝업 현장에서 샤넬 뷰티(@chanel.beauty) 앰배서더 카리나가 참석한 포토콜이 열렸는데요, 공간은 가브리엘 샤넬이 겨울마다 머물던 스위스 생모리츠의 설산 산장을 옮겨 왔습니다.\n\n안에서는 겨울 모자를 씌운 'N°5' 윈터 케이스 같은 향수 한정 제품을 볼 수 있습니다.\n\n기간: 11월 21일(토) ~ 12월 31일(목)\n장소: 서울 성동구 성수이로7가길 9\n운영: 11:00 ~ 20:00 (마지막 입장 19:30)\n예약: 사전 예약 또는 현장 방문\n영상: CBC World\n#SENE #샤넬 #카리나 #샤넬홀리데이팝업 #성수팝업",
-    "hooks": {
-     "A": "*카리나*가 다녀간 / 샤넬 겨울 산장",
-     "B": "토요일 성수에 / *샤넬* 홀리데이 팝업",
-     "C": "산장 앞에 선 / 겨울의 *카리나*"
-    },
-    "video": {
-     "url": "https://www.youtube.com/watch?v=BlNp7ruIK7I",
-     "credit": "CBC World",
-     "range": [
-      15.0,
-      30.0
-     ]
-    },
-    "guided": {
-     "rec": "A",
-     "lint": []
-    },
-    "issues": [],
-    "confirm": [
-     "[검증] 미리보기 표지에 사진이 붙지 않음(Cloudinary 401) · 숏폼 영상 내려받기 403 실패 — 사진·영상 붙은 뒤 사람·워터마크 다시 확인",
-     "[검증] '2년 만'(공감신문만)·'홀리데이 메이크업 컬렉션'(엘르만)은 한 곳에서만 확인돼 캡션·표지 B에서 뺐습니다 — 숏폼 영상은 자막이 없어(0:15-0:30) 장면만 확인 필요",
-     "클립 위험: 중간 — CBC World (포토월 매체 영상) · 0:15-0:30 구간에 카리나가 또렷이 보이는지 눈으로 확인",
-     "예약 경로 — 기사마다 '샤넬 뷰티 카카오톡 채널' / '홀리데이 팝업 예약 사이트'로 달라 캡션엔 '사전 예약 또는 현장 방문'만 적음",
-     "이어지는 소식 — 11-16에 다룬 소재. 새 사실: 11/16 초안 뒤 18일 오후 카리나(샤넬 뷰티 앰배서더) 참석 오픈 기념 포토콜이 열렸고, 운영 시간(11:00~20:00, 마지막 입장 19:30)·주소(성수이로7가길 9)·"
-    ],
-    "research": [
-     {
-      "title": "W Korea — 성수에 펼쳐지는 샤넬의 겨울, 샤넬 홀리데이 팝업",
-      "link": "https://www.wkorea.com/2026/11/03/%EC%84%B1%EC%88%98%EC%97%90-%ED%8E%BC%EC%B3%90%EC%A7%80%EB%8A%94-%EC%83%A4%EB%84%AC%EC%9D%98-%EA%B2%A8%EC%9A%B8-%EC%83%A4%EB%84%AC-%ED%99%80%EB%A6%AC%EB%8D%B0%EC%9D%B4-%ED%8C%9D%EC%97%85"
-     },
-     {
-      "title": "보그 코리아 — 샤넬이 초대하는 생모리츠의 겨울",
-      "link": "https://www.vogue.co.kr/2026/11/03/%ec%83%a4%eb%84%ac%ec%9d%b4-%ec%b4%88%eb%8c%80%ed%95%98%eb%8a%94-%ec%83%9d%eb%aa%a8%eb%a6%ac%ec%b8%a0%ec%9d%98-%ea%b2%a8%ec%9a%b8/"
-     },
-     {
-      "title": "공감신문 — 샤넬 2년 만에 홀리데이 팝업…21일 성수동서 '생모리츠 산장' 재현",
-      "link": "https://www.gokorea.kr/news/articleView.html?idxno=884279"
-     },
-     {
-      "title": "아주경제 — [포토] 카리나, '볼하트로 사르륵'",
-      "link": "https://www.ajunews.com/view/20261118160910852"
-     },
-     {
-      "title": "오뉴스 — 카리나, 눈부신 미모 '샤넬 홀리데이 팝업' 포토콜",
-      "link": "https://www.ohnews.co.kr/news/articleView.html?idxno=31204"
-     },
-     {
-      "title": "CBC World — 에스파 카리나 / 샤넬 홀리데이 팝업 포토월",
-      "link": "https://www.youtube.com/watch?v=BlNp7ruIK7I"
-     }
-    ],
-    "thumb": "https://i.ytimg.com/vi/BlNp7ruIK7I/maxresdefault.jpg",
-    "render": {
-     "status": "queued",
-     "at": "2026-11-19T08:55+09:00"
-    }
-   },
-   "corner_name": "소식"
-  },
-  {
-   "source": {
-    "id": "claude:brk-2259b974",
-    "account": "@속보",
-    "url": "https://blog.naver.com/yonjjang0919/224482960385",
-    "image": null,
-    "head": "일본 티파티 카페가 서울숲에 — 11/29까지, 전 좌석 사전예약",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-19T08:58+09:00",
-   "key": "951076a0",
-   "by": "claude",
-   "subjects": [
-    "카드캡터 사쿠라 콜라보 카페"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "일본에서만 열렸던 '사쿠라와 토모요의 티파티'가 서울숲에 — 11월 29일까지, 사전예약자만 입장·굿즈 구매",
-    "why": "국내 첫 카드캡터 사쿠라 콜라보 카페, 종료까지 열흘 남짓이라 지금 가 볼 수 있는 소식"
-   },
-   "added": "claude",
-   "added_at": "2026-11-19T08:58+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n〈카드캡터 사쿠라〉 콜라보 카페가 서울숲에서 11월 29일까지 열립니다.\n\n지난해 일본에서 열린 '사쿠라와 토모요의 티파티'를 옮겨 온 자리인데요, 그때 나온 굿즈 15종도 함께 들여왔습니다. 티컵·소서·플레이트에 자수 캔배지, 아크릴 스탠드 키홀더까지 있습니다.\n\n음료는 '사쿠라의 스트로베리 쇼트케이크 드링크', '샤오랑의 멜론 크림 소다'처럼 캐릭터를 딴 6종입니다. 전 좌석 사전예약제라 굿즈도 예약하고 들어간 사람만 살 수 있습니다.\n\n입장하면 레플리카 티켓을 받고, 음료를 사면 코스터 12종 가운데 하나를, 굿즈를 사면 포스트카드 7종 가운데 하나를 무작위로 받습니다. 수량이 떨어지면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 서울숲2길 43, 무신사 스페이스 서울숲\n운영 시간: 매일 10:00~19:00\n예약: 팝가(POPGA) 사전예약 (회차당 1인 최대 4매)\n\n#SENE #카드캡터사쿠라 #서울숲 #서울숲팝업 #콜라보카페\n\n[커버]\n소스: \n제목: 카드캡터 사쿠라 카페,|서울숲에서 29일까지\n부제: 일본 '티파티' 카페를 옮겨 온 자리\n출처:\n",
-    "caption": "〈카드캡터 사쿠라〉 콜라보 카페가 서울숲에서 11월 29일까지 열립니다.\n\n지난해 일본에서 열린 '사쿠라와 토모요의 티파티'를 옮겨 온 자리인데요, 그때 나온 굿즈 15종도 함께 들여왔습니다. 티컵·소서·플레이트에 자수 캔배지, 아크릴 스탠드 키홀더까지 있습니다.\n\n음료는 '사쿠라의 스트로베리 쇼트케이크 드링크', '샤오랑의 멜론 크림 소다'처럼 캐릭터를 딴 6종입니다. 전 좌석 사전예약제라 굿즈도 예약하고 들어간 사람만 살 수 있습니다.\n\n입장하면 레플리카 티켓을 받고, 음료를 사면 코스터 12종 가운데 하나를, 굿즈를 사면 포스트카드 7종 가운데 하나를 무작위로 받습니다. 수량이 떨어지면 끝납니다.\n\n기간: 11월 11일(수) ~ 11월 29일(일)\n장소: 서울 성동구 서울숲2길 43, 무신사 스페이스 서울숲\n운영 시간: 매일 10:00~19:00\n예약: 팝가(POPGA) 사전예약 (회차당 1인 최대 4매)\n\n#SENE #카드캡터사쿠라 #서울숲 #서울숲팝업 #콜라보카페",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "카드캡터 사쿠라 카페,|서울숲에서 29일까지",
-      "sub": "일본 '티파티' 카페를 옮겨 온 자리"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "사쿠라와 토모요의|티파티가 서울숲에",
-      "sub": "11월 29일까지 · 전 좌석 사전예약"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "예약한 사람만|굿즈를 살 수 있는 카페",
-      "sub": "카드캡터 사쿠라 콜라보 카페 · 서울숲"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "운영 시간(10:00~19:00)·회차당 1인 최대 4매는 팝플리 페이지 한 곳에서만 확인 — 팝가 예약 페이지에서 한 번 더",
-     "숏폼 없음 — 유튜브에 공식·매체 영상이 없고 개인 브이로그뿐이라 비움",
-     "표지 사진 없음 — 팝가 배포 사진이 모두 저해상도(300~369px)라 붙지 않음. 팝가 예약 페이지의 큰 사진이나 공식 계정 사진으로 채워 주세요",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "센트럴경제 — '카드캡터 사쿠라' 콜라보 카페, 11월 서울숲 개장 (10/27)",
-      "link": "http://www.newskr.kr/news/articleView.html?idxno=107472"
-     },
-     {
-      "title": "싱글리스트 — '카드캡터 사쿠라' 콜라보 카페, 서울숲서 개최 (10/26)",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=776334"
-     },
-     {
-      "title": "벤처스퀘어 — 카드캡터 사쿠라, 서울숲서 일본 한정 굿즈 만난다 (10/26)",
-      "link": "https://www.venturesquare.net/1123060"
-     },
-     {
-      "title": "팝플리 — 카드캡터 사쿠라 콜라보 카페",
-      "link": "https://popply.co.kr/popup/6600"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식"
-  },
-  {
-   "source": {
-    "id": "claude:taeyeon-fly-kspo-news",
-    "account": "싱글리스트",
-    "url": "https://www.slist.kr/news/articleView.html?idxno=782840",
-    "image": null,
-    "head": "태연, 내년 1월 KSPO돔 콘서트 'F.L.Y.' 개최…아시아 6개 도시 투어",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-19T11:50+09:00",
-   "key": "e874897c",
-   "by": "claude",
-   "subjects": [
-    "태연"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "태연 7번째 단독 콘서트 — 날짜·장소·예매 일정만 정확히",
-    "why": "11/18 SM 발표 · 여러 매체 보도 — 안 다루면 'SENE 엔 왜 없지' 할 큰 공식 발표"
-   },
-   "added": "claude",
-   "added_at": "2026-11-19T11:50+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n컬처\n\n[캡션]\n태연(@taeyeon_ss)이 내년 1월 서울 올림픽공원 KSPO DOME 무대에 다시 섭니다.\n\n공연 이름은 'TAEYEON CONCERT - F.L.Y. in Seoul'인데요, 지난해 3월 같은 공연장에서 열린 'The TENSE' 이후 1년 10개월 만에 여는 일곱 번째 단독 콘서트입니다.\n\n서울은 아시아 6개 도시 투어의 첫 도시입니다. 이후 마카오·방콕·홍콩·타이베이·도쿄로 이어져 내년 4월까지 계속됩니다.\n\n기간: 2027년 1월 15일(금) ~ 17일(일)\n장소: 서울 송파구 올림픽공원 KSPO DOME\n예매: 멜론티켓 — 팬클럽 선예매 12월 1일(화) 오후 8시 · 글로벌 선예매 12월 2일(수) · 일반 예매 12월 3일(목)\n#SENE #태연 #TAEYEON #KSPO돔 #올림픽공원\n\n[커버]\n소스: \n제목: 태연, 내년 1월|체조경기장 콘서트\n부제: TAEYEON CONCERT - F.L.Y. in Seoul\n출처:\n",
-    "caption": "태연(@taeyeon_ss)이 내년 1월 서울 올림픽공원 KSPO DOME 무대에 다시 섭니다.\n\n공연 이름은 'TAEYEON CONCERT - F.L.Y. in Seoul'인데요, 지난해 3월 같은 공연장에서 열린 'The TENSE' 이후 1년 10개월 만에 여는 일곱 번째 단독 콘서트입니다.\n\n서울은 아시아 6개 도시 투어의 첫 도시입니다. 이후 마카오·방콕·홍콩·타이베이·도쿄로 이어져 내년 4월까지 계속됩니다.\n\n기간: 2027년 1월 15일(금) ~ 17일(일)\n장소: 서울 송파구 올림픽공원 KSPO DOME\n예매: 멜론티켓 — 팬클럽 선예매 12월 1일(화) 오후 8시 · 글로벌 선예매 12월 2일(수) · 일반 예매 12월 3일(목)\n#SENE #태연 #TAEYEON #KSPO돔 #올림픽공원",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "태연, 내년 1월|체조경기장 콘서트",
-      "sub": "TAEYEON CONCERT - F.L.Y. in Seoul"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "표지 사진 없음 — 사진 호스트 실패(ImgBB 한도·Cloudinary 401) · 태연 공식 인스타 11/18 콘서트 공지 사진으로 바꿔 넣기",
-     "공연 시작 시각·글로벌/일반 예매 시각은 기사에 없음 — SM·멜론티켓 공지 나오면 덧붙이기",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "싱글리스트 — 태연, 내년 1월 KSPO돔 콘서트 'F.L.Y.' 개최",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=782840"
-     },
-     {
-      "title": "텐아시아 — 소녀시대 태연, 새 앨범 내고 콘서트까지…아시아 6개 도시 투어",
-      "link": "https://www.tenasia.co.kr/article/2026111847514"
-     },
-     {
-      "title": "헤럴드뮤즈 — 태연 콘서트",
-      "link": "https://www.heraldmuse.com/article/10941678?ref=naver"
-     },
-     {
-      "title": "일간스포츠 — 태연, 내년 1월 15~17일 KSPO돔 단독 콘서트 확정",
-      "link": "https://isplus.com/article/view/isp202611180130"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식",
-   "i18n_queued": "2026-11-19T11:52+09:00",
-   "i18n": {
-    "at": "2026-11-19T11:54+09:00",
-    "confirm": [
-     "일본어 이름 '테yeon=テヨン'은 SM 일본 활동에서 흔히 쓰는 표기지만, 이번 작업에서 WebSearch로 따로 확인하지는 않았습니다.",
-     "KSPO DOME과 멜론티켓(Melon Ticket)은 원문의 영문·공식 표기를 그대로 썼습니다. 일본어판에서는 '예매' 줄의 머리말을 '予約：' 대신 'チケット：'로 바꿨습니다.",
-     "일본어 해시태그 #少女時代 은 원문에 없는 태그입니다. 일본 독자가 실제로 찾는 태그라서 넣었으니, 필요하면 빼 주세요.",
-     "일본어 해시태그 #少女時代 는 원문에 없는 태그 — 태연 본인 소속 그룹이라 남겼지만, 단독 공연 글에 그룹 태그를 달아도 되는지 확인 필요",
-     "영어·일본어 캡션의 'next January / last year / 来年·昨年' 은 2026년에 올리는 기준 — 해를 넘겨 올리면 고쳐야 함"
-    ],
-    "review": {
-     "at": "2026-11-19T11:54+09:00",
-     "fixes": [
-      "영어 · 캡션 · her first in one year and 10 months → her first in a year and 10 months — 직역투",
-      "영어 · 해시태그 · #TAEYEON #Taeyeon 중복(해시태그는 대소문자 구분 없음) → #Taeyeon 빼고 #OlympicPark 추가",
-      "일본어 · 캡션 첫 문장 · テヨン（태연・@taeyeon_ss） → テヨン（@taeyeon_ss） — 공식 일본어 표기 テヨン이 있어 남은 한글 삭제"
-     ],
-     "doubt": [
-      "일본어 해시태그 #少女時代 는 원문에 없는 태그 — 태연 본인 소속 그룹이라 남겼지만, 단독 공연 글에 그룹 태그를 달아도 되는지 확인 필요",
-      "영어·일본어 캡션의 'next January / last year / 来年·昨年' 은 2026년에 올리는 기준 — 해를 넘겨 올리면 고쳐야 함"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nTaeyeon (@taeyeon_ss) returns to the KSPO DOME stage at Olympic Park, Seoul, next January.\n\nThe show is titled 'TAEYEON CONCERT - F.L.Y. in Seoul.' It is her seventh solo concert, and her first in a year and 10 months, after 'The TENSE' at the same venue in March last year.\n\nSeoul is the first of six Asian cities on the tour. It then continues to Macau, Bangkok, Hong Kong, Taipei and Tokyo, running through April next year.\n\nDates: Jan 15 (Fri) – Jan 17 (Sun), 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nTickets: Melon Ticket — fan club presale Dec 1 (Tue), 8 p.m. · global presale Dec 2 (Wed) · general sale Dec 3 (Thu)\n#SENE #TAEYEON #KSPODOME #OlympicPark #SeoulConcert\n\n[커버]\n소스: \n제목: Taeyeon Returns to|KSPO DOME in January\n부제: TAEYEON CONCERT - F.L.Y. in Seoul\n출처: \n",
-      "caption": "Taeyeon (@taeyeon_ss) returns to the KSPO DOME stage at Olympic Park, Seoul, next January.\n\nThe show is titled 'TAEYEON CONCERT - F.L.Y. in Seoul.' It is her seventh solo concert, and her first in a year and 10 months, after 'The TENSE' at the same venue in March last year.\n\nSeoul is the first of six Asian cities on the tour. It then continues to Macau, Bangkok, Hong Kong, Taipei and Tokyo, running through April next year.\n\nDates: Jan 15 (Fri) – Jan 17 (Sun), 2027\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\nTickets: Melon Ticket — fan club presale Dec 1 (Tue), 8 p.m. · global presale Dec 2 (Wed) · general sale Dec 3 (Thu)\n#SENE #TAEYEON #KSPODOME #OlympicPark #SeoulConcert",
-      "preview": null
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nテヨン（@taeyeon_ss）が来年1月、ソウル・オリンピック公園のKSPO DOMEのステージに再び立ちます。\n\n公演タイトルは「TAEYEON CONCERT - F.L.Y. in Seoul」。昨年3月に同じ会場で開かれた「The TENSE」以来、1年10か月ぶりとなる7回目の単独コンサートです。\n\nソウルはアジア6都市ツアーの最初の都市です。その後マカオ・バンコク・香港・台北・東京と続き、来年4月まで開催されます。\n\n期間：2027年1月15日（金）〜17日（日）\n場所：ソウル・松坡区（ソンパグ） オリンピック公園 KSPO DOME\nチケット：メロンチケット（Melon Ticket）— ファンクラブ先行 12月1日（火）午後8時・グローバル先行 12月2日（水）・一般販売 12月3日（木）\n#SENE #テヨン #TAEYEON #少女時代 #韓国コンサート\n\n[커버]\n소스: \n제목: テヨン、来年1月に|KSPO DOME公演\n부제: TAEYEON CONCERT - F.L.Y. in Seoul\n출처: \n",
-      "caption": "テヨン（@taeyeon_ss）が来年1月、ソウル・オリンピック公園のKSPO DOMEのステージに再び立ちます。\n\n公演タイトルは「TAEYEON CONCERT - F.L.Y. in Seoul」。昨年3月に同じ会場で開かれた「The TENSE」以来、1年10か月ぶりとなる7回目の単独コンサートです。\n\nソウルはアジア6都市ツアーの最初の都市です。その後マカオ・バンコク・香港・台北・東京と続き、来年4月まで開催されます。\n\n期間：2027年1月15日（金）〜17日（日）\n場所：ソウル・松坡区（ソンパグ） オリンピック公園 KSPO DOME\nチケット：メロンチケット（Melon Ticket）— ファンクラブ先行 12月1日（火）午後8時・グローバル先行 12月2日（水）・一般販売 12月3日（木）\n#SENE #テヨン #TAEYEON #少女時代 #韓国コンサート",
-      "preview": null
-     }
-    }
-   }
-  },
-  {
-   "source": {
-    "id": "claude:photocall-1119-reel",
-    "account": "톱스타뉴스",
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16279750",
-    "image": null,
-    "head": "트와이스 사나, 커버낫 명동 플래그십 포토월 (11/18)",
-    "multiple": null,
-    "is_reel": true,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-19T11:50+09:00",
-   "key": "447bbf94",
-   "by": "claude",
-   "subjects": [
-    "사나",
-    "트와이스"
-   ],
-   "lane": "클립",
-   "editor": {
-    "grade": "A",
-    "kind": "클립",
-    "angle": "트와이스 사나, 커버낫 명동 플래그십 리뉴얼 오픈 포토콜 — 말 없는 포토월 한 구간",
-    "why": "11/19 서울 포토콜은 정오까지 보도 없음(수능일) — 지난 3일 안 다룬 11/18 명동 포토콜로 대신"
-   },
-   "added": "claude",
-   "added_at": "2026-11-19T11:50+09:00",
-   "corner": "moment",
-   "shorts": {
-    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=Hz8ArjXfyXI\n구간: 0:15-0:32\n곡: 커버낫 명동 포토월\n아티스트: *사나*,\n피처링:\n후킹: \n출처: topstarnews(톱스타뉴스)\n자막: 끔",
-    "caption": "트와이스 사나가 11월 18일 오전 명동 포토월에 섰습니다.\n\n커버낫이 명동 플래그십 스토어를 새로 단장하고 다시 문을 열며 마련한 포토콜인데요, 같은 자리에는 투모로우바이투게더(@txt_bighit) 수빈도 함께했습니다.\n\n영상은 톱스타뉴스가 현장에서 찍은 포토타임의 한 장면입니다.\n\n장소: 서울 중구 명동 커버낫 명동 플래그십 스토어\n#SENE #사나 #트와이스 #커버낫 #명동",
-    "hooks": {
-     "A": "*사나*, / 커버낫 명동 포토월",
-     "B": "명동에 선 / 트와이스 *사나*",
-     "C": "*사나*의 / 명동 아침 포토월"
-    },
-    "video": {
-     "url": "https://www.youtube.com/watch?v=Hz8ArjXfyXI",
-     "credit": "topstarnews(톱스타뉴스)",
-     "range": [
-      15.0,
-      32.0
-     ]
-    },
-    "guided": {
-     "rec": "A",
-     "lint": []
-    },
-    "issues": [],
-    "confirm": [
-     "클립 위험: 중간 — topstarnews(톱스타뉴스)",
-     "첫 올림 때 영상 받기 403 — 앱에서 영상이 붙었는지 확인 · 구간 0:15-0:32 는 장면 캡처 실패로 눈으로 못 봄 — 첫 1초에 사나가 또렷한지 미리보기로 확인 · 앰배서더 여부는 톱스타뉴스 한 곳뿐이라 캡션에서 뺌"
-    ],
-    "research": [
-     {
-      "title": "톱스타뉴스 — [HD포토] 트와이스 사나 (커버낫 포토월)",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16279750"
-     },
-     {
-      "title": "뉴스인스타 — 사나-수빈 (커버낫 명동 플래그십 리뉴얼 오픈 기념 포토콜)",
-      "link": "https://www.newsinstar.com/news/article.html?no=84311"
-     },
-     {
-      "title": "유튜브 topstarnews — 트와이스 사나 커버낫 포토월",
-      "link": "https://www.youtube.com/watch?v=Hz8ArjXfyXI"
-     }
-    ],
-    "thumb": "https://i.ytimg.com/vi/Hz8ArjXfyXI/maxresdefault.jpg",
-    "render": {
-     "status": "queued",
-     "at": "2026-11-19T11:52+09:00"
-    }
-   },
-   "corner_name": "오늘의 순간",
-   "corner_no": 1,
-   "i18n_queued": "2026-11-19T11:52+09:00",
-   "i18n": {
-    "at": "2026-11-19T11:53+09:00",
-    "confirm": [
-     "11/18 커버낫 명동 플래그십 재오픈 포토콜(사나·수빈 참석)은 웹 검색으로 따로 확인하지 못했습니다. 원문 사실만 옮겼으니 원문 근거를 다시 확인해 주세요.",
-     "커버낫의 일본어 표기는 공식 일본어 표기를 찾지 못해 여행 매체(creatrip)가 쓴 'カバーナット'를 따르고, 처음 나올 때 괄호 안에 COVERNAT를 적었습니다.",
-     "숏폼 칸 순서는 '아티스트 → 곡'으로 이어 읽는다고 보고 'Sana at / Covernat Myeong-dong', 'サナ、/ カバーナット明洞店'으로 맞췄습니다. 한 줄 글자 수 제한 때문에 '포토월'은 숏폼 칸에서 뺐습니다.",
-     "장소 줄에는 원문에 있는 범위(중구 명동)만 적었습니다. 번지는 넣지 않았습니다.",
-     "영어·일본어 · 숏폼 제목 · 원문 '커버낫 명동 포토월'의 '포토월'이 글자 수 제한(영어 20자·일본어 11자) 때문에 빠져 'Sana at Covernat Myeong-dong' / 'サナ、カバーナット明洞店'(매장 이름처럼 읽힘)로 나갑니다 — 이대로 올려도 되는지 확인 필요"
-    ],
-    "review": {
-     "at": "2026-11-19T11:53+09:00",
-     "fixes": [
-      "영어 · 숏폼 캡션 · TOMORROW X TOGETHER's (@txt_bighit) Soobin → TOMORROW X TOGETHER (@txt_bighit) member Soobin — 괄호 앞 소유격이 어색함",
-      "영어 · 숏폼 캡션 · joined her at the same spot → was there at the same spot — 원문 '함께했습니다'는 같은 행사에 있었다는 뜻이라, 사나와 나란히 섰다는 뜻으로 읽히지 않게 고침"
-     ],
-     "doubt": [
-      "영어·일본어 · 숏폼 제목 · 원문 '커버낫 명동 포토월'의 '포토월'이 글자 수 제한(영어 20자·일본어 11자) 때문에 빠져 'Sana at Covernat Myeong-dong' / 'サナ、カバーナット明洞店'(매장 이름처럼 읽힘)로 나갑니다 — 이대로 올려도 되는지 확인 필요"
-     ]
-    },
-    "en": {
-     "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=Hz8ArjXfyXI\n구간: 0:15-0:32\n곡: Covernat Myeong-dong\n아티스트: *Sana* at\n피처링:\n후킹: \n출처: topstarnews (Topstar News)\n자막: 끔",
-      "caption": "TWICE's Sana stepped up to a photo wall in Myeong-dong on the morning of Nov 18.\n\nThe photo call marked Covernat's reopening of its renovated Myeong-dong flagship store, and TOMORROW X TOGETHER (@txt_bighit) member Soobin was there at the same spot.\n\nThe clip is a moment from the photo session Topstar News filmed on site.\n\nLocation: Covernat Myeong-dong Flagship Store, Myeong-dong, Jung-gu, Seoul\n#SENE #Sana #TWICE #Covernat #Myeongdong"
-     }
-    },
-    "ja": {
-     "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=Hz8ArjXfyXI\n구간: 0:15-0:32\n곡: カバーナット明洞店\n아티스트: *サナ*、\n피처링:\n후킹: \n출처: topstarnews（トップスターニュース）\n자막: 끔",
-      "caption": "TWICEのサナが11月18日の午前、明洞のフォトウォールに立ちました。\n\nカバーナット（COVERNAT）が明洞のフラッグシップストアをリニューアルし、再オープンに合わせて設けたフォトコールで、同じ場にはTOMORROW X TOGETHER（@txt_bighit）のスビンも参加しました。\n\n映像は、トップスターニュースが現場で撮影したフォトタイムの一場面です。\n\n場所：ソウル・中区明洞（ミョンドン）カバーナット明洞フラッグシップストア\n#SENE #サナ #TWICE #カバーナット #明洞"
-     }
-    }
-   },
-   "pick": {
-    "rank": 3,
-    "why": "오늘 유일한 숏폼 — 사나는 영어·일본어 독자가 가장 많이 찾는 이름",
-    "at": "2026-11-19T17:45+09:00"
-   }
-  },
-  {
-   "source": {
-    "id": "claude:kspo-dome-winter-concerts",
-    "account": "톱스타뉴스 외",
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16273727",
-    "image": null,
-    "head": "12~1월 KSPO DOME 공연 날짜순 — DAY6·더보이즈·성시경·태연·에픽하이",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-19T17:45+09:00",
-   "key": "da083e26",
-   "by": "claude",
-   "subjects": [
-    "DAY6",
-    "더보이즈",
-    "태연"
+    "투모로우바이투게더",
+    "GS25"
    ],
    "lane": "정리",
    "editor": {
     "grade": "A",
     "kind": "정리",
-    "angle": "12월~1월 올림픽공원 KSPO DOME 공연 다섯 — 기사 두 곳 이상으로 확인된 날짜·회차 시각·예매만 날짜순",
-    "why": "태연 1월 발표(11/18)로 연말연시 달력이 모였고 DAY6 일반 예매가 11/20 저녁 — 저장할 일정표"
+    "angle": "모으기 — TXT 미니 9집 주간에 서울에서 직접 손에 쥘 수 있는 것 셋: GS25 협업 샌드위치 · GS25 앨범 판매 매장 · 하이브 용산 팝업 마지막 날",
+    "why": "기획안 slot mo · 케이팝 연결 · 샌드위치 19일 출시 · 용산 팝업 22일(일) 종료"
    },
    "added": "claude",
-   "added_at": "2026-11-19T17:45+09:00",
+   "added_at": "2026-11-20T08:27+09:00",
    "corner": "roundup",
    "card": {
-    "form": "[카테고리]\n컬처\n\n[캡션]\n12월과 1월, 올림픽공원 KSPO DOME 에서 다섯 팀의 공연이 차례로 열립니다.\n\n어제 태연(@taeyeon_ss)이 1월 공연을 발표하면서 연말연시 일정이 한자리에 모였는데요, 12월 18일 DAY6(@day6kilogram) 의 'The Present' 에서 시작해 1월 24일 에픽하이의 첫 KSPO DOME 단독 공연까지 이어집니다. 더보이즈(@official_theboyz)는 크리스마스이브부터 나흘, 성시경은 12월 31일 밤부터 새해 사흘을 이 공연장에서 보냅니다.\n\n가장 가까운 예매는 DAY6 일반 예매로, 11월 20일(금) 오후 8시 NOL 에서 열립니다.\n\n기간: 2026년 12월 18일(금) ~ 2027년 1월 24일(일)\n장소: 서울 송파구 올림픽공원 KSPO DOME\n#SENE #KSPO돔 #데이식스 #더보이즈 #태연 #에픽하이\n\n[커버]\n소스: \n제목: 체조경기장 겨울|공연 날짜순\n부제: DAY6 · 더보이즈 · 성시경 · 태연 · 에픽하이\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.18 ~ 12.20 · DAY6\n본문: 2026 DAY6 Special Concert 'The Present'|팬클럽 선예매 11월 19일(목) 오후 8시|일반 예매 11월 20일(금) 오후 8시 · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.24 ~ 12.27 · 더보이즈\n본문: 2026 콘서트 'ZENERATION Ⅲ'|12월 24일(목) ~ 27일(일) 나흘\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.31 ~ 1.3 · 성시경\n본문: 2026 성시경 연말 콘서트 '성시경'|31일(목) 오후 9시 · 1일(금) 오후 7시|2일(토) · 3일(일) 오후 6시 · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: 1.15 ~ 1.17 · 태연\n본문: TAEYEON CONCERT - F.L.Y. in Seoul|1월 15일(금) ~ 17일(일) 사흘\n출처: \n\n[슬라이드]\n소스: \n소제목: 1.22 ~ 1.24 · 에픽하이\n본문: 2027 에픽하이 콘서트|데뷔 뒤 처음 여는 KSPO DOME 단독 공연|예매는 10월에 진행\n출처:\n",
-    "caption": "12월과 1월, 올림픽공원 KSPO DOME 에서 다섯 팀의 공연이 차례로 열립니다.\n\n어제 태연(@taeyeon_ss)이 1월 공연을 발표하면서 연말연시 일정이 한자리에 모였는데요, 12월 18일 DAY6(@day6kilogram) 의 'The Present' 에서 시작해 1월 24일 에픽하이의 첫 KSPO DOME 단독 공연까지 이어집니다. 더보이즈(@official_theboyz)는 크리스마스이브부터 나흘, 성시경은 12월 31일 밤부터 새해 사흘을 이 공연장에서 보냅니다.\n\n가장 가까운 예매는 DAY6 일반 예매로, 11월 20일(금) 오후 8시 NOL 에서 열립니다.\n\n기간: 2026년 12월 18일(금) ~ 2027년 1월 24일(일)\n장소: 서울 송파구 올림픽공원 KSPO DOME\n#SENE #KSPO돔 #데이식스 #더보이즈 #태연 #에픽하이",
+    "form": "[카테고리]\n트렌드\n\n[캡션]\n투모로우바이투게더(@txt_bighit)와 GS25(@gs25_official) 가 함께 만든 샌드위치가 19일 편의점에 나왔습니다.\n\n미니 9집 'PERFECT STORM' 발매에 맞춘 협업인데요, 한쪽에는 불마요 소스를 바른 통돈가스를, 다른 쪽에는 달걀샐러드와 딸기잼을 넣은 '맵달반반샌드'입니다. GS25 는 멤버 사진을 담은 미니 포토카드 6종 가운데 하나가 무작위로 들어 있다고 밝혔습니다.\n\n앨범도 편의점에서 삽니다. 17일부터 GS25 8개 매장에서 팔고 있습니다. 직접 가 볼 곳은 용산의 PERFECT STORM 팝업인데, 이번 일요일에 문을 닫습니다.\n\n샌드위치: 3,900원 · GS25 (11월 19일 출시)\n앨범: GS25 인천공항 T2서편점 · 뉴안녕인사동점 · DXLAB점 등 8개 매장\n팝업: 11월 22일(일)까지 · 11:00~20:00 · 서울 용산구 한강대로 42 1층\n예약: 위버스 사전 예약 (현장 상황에 따라 예약 없이 입장)\n#SENE #투모로우바이투게더 #TXT #GS25 #용산팝업\n\n[커버]\n소스: \n제목: 투바투 컴백 주,|서울에서 손에 쥘 것\n부제: GS25 샌드위치 · 앨범 · 용산 팝업 22일까지\n출처: \n\n[슬라이드]\n소스: \n소제목: GS25 '맵달반반샌드'\n본문: 11월 19일 출시 · 3,900원|한쪽은 불마요 통돈가스, 한쪽은 달걀샐러드와 딸기잼|멤버 미니 포토카드 6종 중 1종 무작위\n출처: \n\n[슬라이드]\n소스: \n소제목: GS25 앨범 판매\n본문: 11월 17일부터 GS25 8개 매장|인천공항 T2서편점 · 뉴안녕인사동점 · DXLAB점 등\n출처: \n\n[슬라이드]\n소스: \n소제목: PERFECT STORM 팝업\n본문: 11월 22일(일)까지 · 11:00~20:00|서울 용산구 한강대로 42 1층|위버스 사전 예약 (현장 상황에 따라 예약 없이 입장)\n출처:\n",
+    "caption": "투모로우바이투게더(@txt_bighit)와 GS25(@gs25_official) 가 함께 만든 샌드위치가 19일 편의점에 나왔습니다.\n\n미니 9집 'PERFECT STORM' 발매에 맞춘 협업인데요, 한쪽에는 불마요 소스를 바른 통돈가스를, 다른 쪽에는 달걀샐러드와 딸기잼을 넣은 '맵달반반샌드'입니다. GS25 는 멤버 사진을 담은 미니 포토카드 6종 가운데 하나가 무작위로 들어 있다고 밝혔습니다.\n\n앨범도 편의점에서 삽니다. 17일부터 GS25 8개 매장에서 팔고 있습니다. 직접 가 볼 곳은 용산의 PERFECT STORM 팝업인데, 이번 일요일에 문을 닫습니다.\n\n샌드위치: 3,900원 · GS25 (11월 19일 출시)\n앨범: GS25 인천공항 T2서편점 · 뉴안녕인사동점 · DXLAB점 등 8개 매장\n팝업: 11월 22일(일)까지 · 11:00~20:00 · 서울 용산구 한강대로 42 1층\n예약: 위버스 사전 예약 (현장 상황에 따라 예약 없이 입장)\n#SENE #투모로우바이투게더 #TXT #GS25 #용산팝업",
     "photos": [],
     "photo_pool": [],
     "shape": "맥락",
@@ -768,98 +41,142 @@
      {
       "key": "A",
       "hook": "Claude",
-      "title": "체조경기장 겨울|공연 날짜순",
-      "sub": "DAY6 · 더보이즈 · 성시경 · 태연 · 에픽하이"
+      "title": "투바투 컴백 주,|서울에서 손에 쥘 것",
+      "sub": "GS25 샌드위치 · 앨범 · 용산 팝업 22일까지"
+     },
+     {
+      "key": "B",
+      "hook": "다른 안",
+      "title": "투모로우바이투게더|편의점 샌드위치와 팝업",
+      "sub": "용산 팝업은 이번 일요일까지"
      }
     ],
     "issues": [],
     "confirm": [
-     "[검증] 더보이즈 회차 시각(톱스타뉴스)·태연 예매 일정(12/1 팬클럽·12/2 글로벌·12/3 일반·멜론티켓, 싱글리스트)은 기사 한 곳에만 있어 장에서 뺐음 — 공식 공지(IST·SM/위버스·멜론티켓)로 확인되면 다시 넣기",
-     "사진 없음 — 사진 호스트 실패(ImgBB 한도·Cloudinary 401) · 장마다 공식 포스터(더보이즈 @official_theboyz 11/16 · 태연 @taeyeon_ss 11/18 · DAY6 11/10 포스터) 넣기",
-     "더보이즈 예매 일정·DAY6 회차 시각은 기사에 없어 뺐음 — 공식 공지 나오면 그 장에 한 줄 · 성시경 '전석 매진'은 한 곳뿐이라 뺐음 · 이 다섯 말고 12~1월 KSPO DOME 공연이 더 있는지 공연장 일정표로 한 번 확인",
+     "앨범 판매 8개 매장 중 기사에 이름이 나온 건 셋(인천공항 T2서편점·뉴안녕인사동점·DXLAB점)뿐 — 나머지는 '등'으로 둠 · 샌드위치 판매 기간은 기사에 없음",
+     "팝업 종료일·운영 시간은 11/17 위버스 공지 기준 — 마지막 주말 전 위버스 최신 공지로 한 번 더",
+     "사진 전부 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401, GS리테일 기사 사진은 600px 해상도 미달) · @txt_bighit 11/19 사진을 지정해 둠 — 앱에서 사진 붙일 것",
      "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
     ],
     "research": [
      {
-      "title": "톱스타뉴스 — DAY6, 12월 KSPO DOME서 스페셜 콘서트 'The Present' 개최 (11/11)",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16273727"
+      "title": "콕스뉴스 (11/19) — 맵달반반샌드 19일 출시 · 3,900원 · 불마요 통돈가스 / 양배추·달걀샐러드·딸기잼 · 미니 포토카드 6종 중 1종 무작위 · 앨범 17일부터 인천공항 T2서편점·뉴안녕인사동점·DXLAB점 등 8개 매장",
+      "link": "https://www.coxnews.co.kr/news/articleView.html?idxno=6822"
      },
      {
-      "title": "스포츠월드 — 데이식스, 12월 KSPO돔서 스페셜 단독 콘서트 (NOL 예매)",
-      "link": "https://www.sportsworldi.com/newsView/20261111509896?OutUrl=google"
+      "title": "스페셜타임스 (11/19) — 가격 3,900원 · 미니포토카드 6종 무작위 동봉 · 앨범 8개 매장 · 우리동네GS 앱 사전예약(2일부터)",
+      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=487547"
      },
      {
-      "title": "스페셜타임스 — DAY6, 12월 18일부터 20일까지 KSPO DOME",
-      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=484352"
+      "title": "머니투데이 (11/19) — GS25, TXT 컴백 맞춰 협업 샌드위치 출시 · 앨범 온·오프라인 판매",
+      "link": "https://www.mt.co.kr/living/2026/11/19/2026111909593434401"
      },
      {
-      "title": "톱스타뉴스 — 더보이즈 'ZENERATION Ⅲ' 12/24~27 회차 시각 (11/13)",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16275950"
+      "title": "위버스 TXT 공지 — PERFECT STORM POP-UP 11/17(화)~11/22(일) · 11:00~20:00 · 서울 용산구 한강대로 42, 1F · 온라인 사전 예약 · 현장 상황에 따라 워크인",
+      "link": "https://weverse.io/txt/notice/40808?hl=ko"
      },
      {
-      "title": "싱글리스트 — 더보이즈 콘서트 '제너레이션 Ⅲ' 12월 개최",
-      "link": "https://www.slist.kr/news/articleView.html?idxno=781552"
+      "title": "팝플리 — 투모로우바이투게더 팝업 PERFECT STORM 11/17~22 · 11:00~20:00 · 용산구 한강대로 42 1F",
+      "link": "https://popply.co.kr/popup/6640"
+     }
+    ],
+    "by": "claude"
+   },
+   "pick": {
+    "rank": 1,
+    "why": "케이팝 연결 · 용산 팝업 마지막 주말 전 금요일 아침 — 샌드위치·앨범·팝업을 한 장에 저장할 정보",
+    "at": "2026-11-20T08:27+09:00"
+   },
+   "corner_name": "정리",
+   "corner_no": 1,
+   "i18n_queued": "2026-11-20T08:27+09:00"
+  },
+  {
+   "source": {
+    "id": "claude:plave-gocheok-encore-news",
+    "account": "노컷뉴스 · 스페셜타임스 · 텐아시아 · @plave_official",
+    "url": "https://www.nocutnews.co.kr/news/6609855",
+    "image": null,
+    "head": "2026 PLAVE WORLD TOUR 'KEEP IT MANIC' 앙코르 · 2027.1.22 19시 / 23 18시 / 24 17시 · 고척",
+    "multiple": null,
+    "is_reel": false,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-20T08:27+09:00",
+   "key": "e0a21655",
+   "by": "claude",
+   "subjects": [
+    "플레이브"
+   ],
+   "lane": "정보",
+   "editor": {
+    "grade": "A",
+    "kind": "정보",
+    "angle": "소식 — 플레이브 첫 월드투어 'KEEP IT MANIC' 앙코르, 2027년 1월 22~24일 고척스카이돔 3회 · 회차별 시각과 예매 일정",
+    "why": "기획안 slot mo · 케이팝 큰 공식 발표 (11/19 · 25개 매체)"
+   },
+   "added": "claude",
+   "added_at": "2026-11-20T08:27+09:00",
+   "corner": "news",
+   "card": {
+    "form": "[카테고리]\n컬처\n\n[캡션]\n플레이브(@plave_official)가 내년 1월 고척스카이돔에서 첫 월드투어를 마무리합니다.\n\n'2026 PLAVE WORLD TOUR KEEP IT MANIC' 의 앙코르 공연인데요, 지난해 아시아 투어 서울 앙코르를 열었던 고척에 다시 섭니다. 그때 2회였던 공연이 이번에는 사흘, 3회로 늘었습니다.\n\n시작 시각은 날마다 다릅니다. 금요일은 저녁 7시, 토요일은 6시, 일요일은 5시입니다.\n\n기간: 2027년 1월 22일(금) ~ 24일(일)\n장소: 서울 구로구 고척스카이돔\n시간: 22일 오후 7시 · 23일 오후 6시 · 24일 오후 5시\n예매: NOL 티켓 · 팬클럽 선예매 12월 1일(화) 오후 8시 · 일반 예매 12월 4일(금) 오후 8시\n#SENE #플레이브 #PLAVE #고척스카이돔 #킵잇매닉\n\n[커버]\n소스: \n제목: 플레이브, 1월|고척돔 앙코르 3회\n부제: 2027년 1월 22일 ~ 24일 · 선예매 12월 1일\n출처:\n",
+    "caption": "플레이브(@plave_official)가 내년 1월 고척스카이돔에서 첫 월드투어를 마무리합니다.\n\n'2026 PLAVE WORLD TOUR KEEP IT MANIC' 의 앙코르 공연인데요, 지난해 아시아 투어 서울 앙코르를 열었던 고척에 다시 섭니다. 그때 2회였던 공연이 이번에는 사흘, 3회로 늘었습니다.\n\n시작 시각은 날마다 다릅니다. 금요일은 저녁 7시, 토요일은 6시, 일요일은 5시입니다.\n\n기간: 2027년 1월 22일(금) ~ 24일(일)\n장소: 서울 구로구 고척스카이돔\n시간: 22일 오후 7시 · 23일 오후 6시 · 24일 오후 5시\n예매: NOL 티켓 · 팬클럽 선예매 12월 1일(화) 오후 8시 · 일반 예매 12월 4일(금) 오후 8시\n#SENE #플레이브 #PLAVE #고척스카이돔 #킵잇매닉",
+    "photos": [],
+    "photo_pool": [],
+    "shape": "단신",
+    "covers": [
+     {
+      "key": "A",
+      "hook": "Claude",
+      "title": "플레이브, 1월|고척돔 앙코르 3회",
+      "sub": "2027년 1월 22일 ~ 24일 · 선예매 12월 1일"
      },
      {
-      "title": "톱스타뉴스 — 성시경 KSPO DOME 연말 콘서트·예매 일정 (10/30)",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16263918"
+      "key": "B",
+      "hook": "다른 안",
+      "title": "플레이브 월드투어,|고척에서 마무리",
+      "sub": "1월 22일 ~ 24일 · 3회"
+     }
+    ],
+    "issues": [],
+    "confirm": [
+     "예매처 표기는 기사마다 '놀 티켓'·'NOL' — 캡션은 'NOL 티켓'. 블래스트·NOL 공식 공지에서 예매 시각 한 번 더",
+     "사진 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401) · @plave_official 11/15 미국 투어 사진·11/19 앙코르 포스터를 지정해 둠 — 앱에서 사진 붙일 것",
+     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
+    ],
+    "research": [
+     {
+      "title": "노컷뉴스 (11/20) — '문학 입성' 플레이브, 1월 22~24일 고척돔 앙코르 · 22일 오후 7시·23일 6시·24일 5시 · 놀 티켓 · 팬클럽 선예매 12월 1일 오후 8시 · 일반 12월 4일 오후 8시 · 블래스트",
+      "link": "https://www.nocutnews.co.kr/news/6609855"
+     },
+     {
+      "title": "스페셜타임스 (11/19) — 2027년 1월 22~24일 고척스카이돔 · 같은 회차 시각 · NOL · 선예매 12/1 20시 · 일반 12/4 20시",
+      "link": "https://www.specialtimes.co.kr/news/articleView.html?idxno=487653"
+     },
+     {
+      "title": "텐아시아 (11/19) — 고척돔 또 간다 · 지난 아시아 투어 'DASH: Quantum Leap' 서울 앙코르도 고척 2회 매진",
+      "link": "https://www.tenasia.co.kr/article/2026111975194"
+     },
+     {
+      "title": "@plave_official (11/19) — 2026 PLAVE World Tour [KEEP IT MANIC] Encore 2027.01.22 공식 포스터",
+      "link": "https://www.instagram.com/plave_official/"
      }
     ],
     "by": "claude"
    },
    "pick": {
     "rank": 2,
-    "why": "DAY6 일반 예매가 내일(11/20) 저녁 8시 — 퇴근길에 저장할 연말연시 공연 달력, 태연 발표도 안에 담김",
-    "at": "2026-11-19T17:45+09:00"
+    "why": "케이팝 큰 공식 발표 · 25개 매체 — 회차 시각·선예매 날짜를 정확히 한 장으로",
+    "at": "2026-11-20T08:27+09:00"
    },
-   "corner_name": "정리",
-   "corner_no": 1,
-   "i18n_queued": "2026-11-19T17:46+09:00",
-   "i18n": {
-    "at": "2026-11-19T17:47+09:00",
-    "confirm": [
-     "고유명사 표기는 웹 검색 없이 널리 쓰이는 공식 표기로 넣었습니다(THE BOYZ, TAEYEON/テヨン, EPIK HIGH, ソン・シギョン, KSPO DOME). 올리기 전에 일본어 공식 표기를 한 번 더 확인해 주세요.",
-     "에픽하이 본문의 '예매는 10월에 진행'은 오늘(11/19) 기준으로 이미 지난 일이라 과거형으로 옮겼습니다(영어 'went on sale', 일본어 '実施').",
-     "캡션의 '어제 태연이 발표'는 '어제(yesterday/昨日)' 그대로 옮겼습니다. 올리는 날이 바뀌면 고쳐 주세요.",
-     "DAY6 팬클럽 선예매(11월 19일 오후 8시)가 오늘이라 올리는 시점에는 이미 지났을 수 있습니다.",
-     "캡션의 '어제(yesterday·昨日)'와 '가장 가까운 예매 = DAY6 일반 예매 11/20' 은 오늘(11/19) 기준 — 11/20 이후에 올리면 세 언어 모두 고쳐야 함",
-     "DAY6 팬클럽 선예매가 오늘(11/19) 오후 8시라 올리는 시각에 따라 이미 지난 정보가 됨",
-     "에픽하이 '예매는 10월에 진행' — 세 언어 모두 '이미 진행됨'으로 옮김. 원문이 '10월에 진행 예정'을 뜻했던 거라면 실제 예매 일정을 다시 확인해야 함"
-    ],
-    "review": {
-     "at": "2026-11-19T17:47+09:00",
-     "fixes": [
-      "영어 · 캡션 둘째 단락 · the year-end lineup is now complete → the year-end and New Year schedule is now all in one place — 원문 '한자리에 모였다'에 없는 '라인업 확정(더 없음)' 뜻이 더해짐",
-      "영어 · 캡션 둘째 단락 · announcing the January shows → announcing her January shows — 누구의 공연인지 바로 읽히게",
-      "일본어 · 캡션 둘째 단락 · 「出そろいましたが、12月18日の…」 → 「出そろいました。12月18日の…」 — '〜が'가 역접으로 읽히는 직역투라 문장을 나눔"
-     ],
-     "doubt": [
-      "캡션의 '어제(yesterday·昨日)'와 '가장 가까운 예매 = DAY6 일반 예매 11/20' 은 오늘(11/19) 기준 — 11/20 이후에 올리면 세 언어 모두 고쳐야 함",
-      "DAY6 팬클럽 선예매가 오늘(11/19) 오후 8시라 올리는 시각에 따라 이미 지난 정보가 됨",
-      "에픽하이 '예매는 10월에 진행' — 세 언어 모두 '이미 진행됨'으로 옮김. 원문이 '10월에 진행 예정'을 뜻했던 거라면 실제 예매 일정을 다시 확인해야 함"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\nFive acts take the stage one after another at KSPO DOME in Olympic Park this December and January.\n\nWith TAEYEON (@taeyeon_ss) announcing her January shows yesterday, the year-end and New Year schedule is now all in one place. It opens Dec 18 with DAY6 (@day6kilogram)'s 'The Present' and runs through EPIK HIGH's first solo KSPO DOME concert on Jan 24. THE BOYZ (@official_theboyz) play four days starting Christmas Eve, and Sung Si-kyung spends New Year's Eve night and the first three days of the new year at the venue.\n\nThe next ticket sale is DAY6's general sale, opening Nov 20 (Fri) at 8 PM on NOL.\n\nDates: Dec 18, 2026 (Fri) – Jan 24, 2027 (Sun)\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\n#SENE #KSPODOME #DAY6 #THEBOYZ #TAEYEON #EPIKHIGH\n\n[커버]\n소스: \n제목: KSPO DOME This Winter|Concerts by Date\n부제: DAY6 · THE BOYZ · Sung Si-kyung · TAEYEON · EPIK HIGH\n출처: \n\n[슬라이드]\n소스: \n소제목: Dec 18 – 20 · DAY6\n본문: 2026 DAY6 Special Concert 'The Present'|Fan club presale Nov 19 (Thu), 8 PM|General sale Nov 20 (Fri), 8 PM · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: Dec 24 – 27 · THE BOYZ\n본문: 2026 Concert 'ZENERATION Ⅲ'|Four days, Dec 24 (Thu) – 27 (Sun)\n출처: \n\n[슬라이드]\n소스: \n소제목: Dec 31 – Jan 3 · Sung Si-kyung\n본문: 2026 Sung Si-kyung Year-End Concert 'Sung Si-kyung'|Dec 31 (Thu) 9 PM · Jan 1 (Fri) 7 PM|Jan 2 (Sat) · Jan 3 (Sun) 6 PM · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: Jan 15 – 17 · TAEYEON\n본문: TAEYEON CONCERT - F.L.Y. in Seoul|Three days, Jan 15 (Fri) – 17 (Sun)\n출처: \n\n[슬라이드]\n소스: \n소제목: Jan 22 – 24 · EPIK HIGH\n본문: 2027 EPIK HIGH Concert|First solo show at KSPO DOME since debut|Tickets went on sale in October\n출처: \n",
-      "caption": "Five acts take the stage one after another at KSPO DOME in Olympic Park this December and January.\n\nWith TAEYEON (@taeyeon_ss) announcing her January shows yesterday, the year-end and New Year schedule is now all in one place. It opens Dec 18 with DAY6 (@day6kilogram)'s 'The Present' and runs through EPIK HIGH's first solo KSPO DOME concert on Jan 24. THE BOYZ (@official_theboyz) play four days starting Christmas Eve, and Sung Si-kyung spends New Year's Eve night and the first three days of the new year at the venue.\n\nThe next ticket sale is DAY6's general sale, opening Nov 20 (Fri) at 8 PM on NOL.\n\nDates: Dec 18, 2026 (Fri) – Jan 24, 2027 (Sun)\nLocation: KSPO DOME, Olympic Park, Songpa-gu, Seoul\n#SENE #KSPODOME #DAY6 #THEBOYZ #TAEYEON #EPIKHIGH",
-      "preview": null
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n컬처\n\n[캡션]\n12月と1月、ソウル・オリンピック公園のKSPO DOMEで5組の公演が続けて開かれます。\n\n昨日、テヨン（태연・@taeyeon_ss）が1月の公演を発表し、年末年始の日程が出そろいました。12月18日のDAY6（@day6kilogram）『The Present』に始まり、1月24日のEPIK HIGH初のKSPO DOME単独公演まで続きます。THE BOYZ（@official_theboyz）はクリスマスイブから4日間、ソン・シギョン（성시경）は12月31日の夜から新年の3日間をこの会場で過ごします。\n\n直近のチケット販売はDAY6の一般販売で、11月20日（金）午後8時にNOLで始まります。\n\n期間：2026年12月18日（金）〜2027年1月24日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\n#SENE #韓国旅行 #KSPODOME #DAY6 #テヨン #THEBOYZ\n\n[커버]\n소스: \n제목: KSPO DOMEの冬|公演を日付順に\n부제: DAY6 · THE BOYZ · ソン・シギョン · テヨン · EPIK HIGH\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.18〜12.20 · DAY6\n본문: 2026 DAY6 Special Concert 'The Present'|ファンクラブ先行 11月19日（木）午後8時|一般販売 11月20日（金）午後8時 · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.24〜12.27 · THE BOYZ\n본문: 2026 コンサート 'ZENERATION Ⅲ'|12月24日（木）〜27日（日）の4日間\n출처: \n\n[슬라이드]\n소스: \n소제목: 12.31〜1.3 · ソン・シギョン\n본문: 2026 ソン・シギョン年末コンサート『ソン・シギョン』|31日（木）午後9時 · 1日（金）午後7時|2日（土）· 3日（日）午後6時 · NOL\n출처: \n\n[슬라이드]\n소스: \n소제목: 1.15〜1.17 · テヨン\n본문: TAEYEON CONCERT - F.L.Y. in Seoul|1月15日（金）〜17日（日）の3日間\n출처: \n\n[슬라이드]\n소스: \n소제목: 1.22〜1.24 · EPIK HIGH\n본문: 2027 EPIK HIGH コンサート|デビュー後初のKSPO DOME単独公演|チケット販売は10月に実施\n출처: \n",
-      "caption": "12月と1月、ソウル・オリンピック公園のKSPO DOMEで5組の公演が続けて開かれます。\n\n昨日、テヨン（태연・@taeyeon_ss）が1月の公演を発表し、年末年始の日程が出そろいました。12月18日のDAY6（@day6kilogram）『The Present』に始まり、1月24日のEPIK HIGH初のKSPO DOME単独公演まで続きます。THE BOYZ（@official_theboyz）はクリスマスイブから4日間、ソン・シギョン（성시경）は12月31日の夜から新年の3日間をこの会場で過ごします。\n\n直近のチケット販売はDAY6の一般販売で、11月20日（金）午後8時にNOLで始まります。\n\n期間：2026年12月18日（金）〜2027年1月24日（日）\n場所：ソウル・松坡区（ソンパグ）オリンピック公園 KSPO DOME\n#SENE #韓国旅行 #KSPODOME #DAY6 #テヨン #THEBOYZ",
-      "preview": null
-     }
-    }
-   }
+   "corner_name": "소식",
+   "i18n_queued": "2026-11-20T08:27+09:00"
   }
  ],
  "skipped": [],
  "corners": {
   "week": "11/16~11/22",
-  "days_left": 4,
+  "days_left": 3,
   "done": 0,
   "goal": 39,
   "corners": [
@@ -869,11 +186,11 @@
     "weekly": 10,
     "done": 0,
     "left": 10,
-    "need_today": 3,
+    "need_today": 4,
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 4,
+    "drafts": 1,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -895,7 +212,7 @@
     "weekly": 1,
     "done": 0,
     "left": 1,
-    "need_today": 0,
+    "need_today": 1,
     "day": 4,
     "mday": null,
     "next_no": 1,
@@ -967,7 +284,7 @@
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 1,
+    "drafts": 0,
     "why": "큰 공연장(고척·KSPO·인스파이어·잠실·체조) 공연 전날·당일 — 가는 길·먹고 갈 곳·굿즈 줄·물품보관 (공식 공지 기준)"
    },
    {
@@ -976,11 +293,11 @@
     "weekly": 7,
     "done": 0,
     "left": 7,
-    "need_today": 0,
+    "need_today": 1,
     "day": null,
     "mday": null,
     "next_no": 1,
-    "drafts": 1,
+    "drafts": 0,
     "why": "매일 숏폼 하나 — 공식 영상 속 한 사람의 표정·반응·작은 사건 10~30초 (무대·음악 자체는 PLOT)"
    },
    {
@@ -1028,7 +345,7 @@
     "weekly": 4,
     "done": 0,
     "left": 4,
-    "need_today": 1,
+    "need_today": 2,
     "day": null,
     "mday": null,
     "next_no": null,
@@ -1101,10 +418,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-19T17:47+09:00"
+  "at": "2026-11-20T08:27+09:00"
  },
  "queue": {
-  "next": "2026-11-19T17:49+09:00",
+  "next": "2026-11-20T08:29+09:00",
   "n": 0,
   "gap": 20
  },
