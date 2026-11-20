@@ -143,7 +143,66 @@
    },
    "corner_name": "오늘의 순간",
    "corner_no": 1,
-   "i18n_queued": "2026-11-21T08:31+09:00"
+   "i18n_queued": "2026-11-21T08:31+09:00",
+   "i18n": {
+    "at": "2026-11-21T08:32+09:00",
+    "confirm": [
+     "Tiffany 공식 매장 페이지의 영문 표기는 'House of Icons'(복수형)이고 위치는 롯데월드타워 에비뉴엘 B1층(2024년 12월 개장 매장)입니다. 원문은 '1층 다이버홀'이라 2025년 홀리데이 카페와 같은 공간인지 확인하지 못했습니다 — 층수 확인 필요.",
+     "이번 카페('하우스 오브 아이콘' 홀리데이 카페 · 11월 20일 개장)와 가원·박진영·김도연 참석은 검색으로 확인하지 못했습니다. 원문 그대로 옮겼습니다.",
+     "'다이버홀'의 공식 영문·일문 표기를 찾지 못해 Diver Hall / ダイバーホール 로 임시 표기했습니다.",
+     "박진영이 배우 박진영(GOT7 진영)인지 확인 필요 — 영문 표기 'Park Jinyoung'은 배우 쪽 표기를 따랐습니다. 다른 사람이면 표기를 고쳐야 합니다.",
+     "MEOVV 가원의 공식 표기(영문 GAWON 대문자 여부, 일문 ガウォン)는 소속사 표기로 한 번 더 확인 필요.",
+     "출처: https://nl.tiffany.com/stores/en/korea/house-of-icons-lotte-world-tower-avenuel-b1f-289 · https://www.allkpop.com/article/2024/12/enhypens-sunghoon-jake-meovvs-ella-steal-the-spotlight-at-tiffany-house-of-icons-pop-up-store-in-seoul",
+     "장소 층수 — 티파니 공식 매장 페이지에는 'House of Icons' 매장이 롯데월드타워 에비뉴엘 B1F 로 나와 있음. 이번 홀리데이 카페 위치가 '1층 다이버홀' 이 맞는지 공식 발표로 다시 확인 필요 (원문 한국어판도 같이 봐야 함)",
+     "박진영 — GOT7 진영(배우 박진영)인지 JYP 박진영인지 원문만으로는 알 수 없음. 영어 표기 'Park Jinyoung' 과 일본어 표기가 맞는 사람을 가리키는지 확인 필요",
+     "출처 칸 '비하인드 BEHIND' 와 'Video:/映像:' 줄에 한글이 남아 있음 — 매체 이름은 그대로 두라는 규칙대로 뒀지만, 채널의 공식 영문 표기가 'BEHIND' 하나뿐이라면 영어·일본어판은 그걸로 바꿀지 결정 필요",
+     "'House of Icons' 를 복수로 쓴 것은 티파니 공식 매장 이름과 일치함. 한국어 원문 '하우스 오브 아이콘' 은 단수라 한국어판 표기도 맞출지 검토 필요",
+     "영어판 출처에 한글이 남음",
+     "영어판 숏폼 캡션에 한글이 남음",
+     "일본어판 출처에 한글이 남음",
+     "일본어판 숏폼 캡션에 한글이 남음"
+    ],
+    "review": {
+     "at": "2026-11-21T08:32+09:00",
+     "fixes": [
+      "영어 · 캡션 둘째 단락 · it is decorated with pieces that reinterpret → its decor reinterprets — 'pieces' 가 주얼리 작품으로도 읽혀서 원문의 '장식' 으로 뜻을 하나로 맞춤",
+      "영어 · 캡션 둘째 단락 · stepped onto the photo wall → posed at the photo wall — 'step onto a wall' 은 영어로 말이 안 되는 연어라 숏폼 캡션과 같은 표현으로 바꿈",
+      "영어 · 캡션 셋째 단락 · the café shows → the café displays — 주얼리 전시에 맞는 동사로 바꿈"
+     ],
+     "doubt": [
+      "장소 층수 — 티파니 공식 매장 페이지에는 'House of Icons' 매장이 롯데월드타워 에비뉴엘 B1F 로 나와 있음. 이번 홀리데이 카페 위치가 '1층 다이버홀' 이 맞는지 공식 발표로 다시 확인 필요 (원문 한국어판도 같이 봐야 함)",
+      "박진영 — GOT7 진영(배우 박진영)인지 JYP 박진영인지 원문만으로는 알 수 없음. 영어 표기 'Park Jinyoung' 과 일본어 표기가 맞는 사람을 가리키는지 확인 필요",
+      "출처 칸 '비하인드 BEHIND' 와 'Video:/映像:' 줄에 한글이 남아 있음 — 매체 이름은 그대로 두라는 규칙대로 뒀지만, 채널의 공식 영문 표기가 'BEHIND' 하나뿐이라면 영어·일본어판은 그걸로 바꿀지 결정 필요",
+      "'House of Icons' 를 복수로 쓴 것은 티파니 공식 매장 이름과 일치함. 한국어 원문 '하우스 오브 아이콘' 은 단수라 한국어판 표기도 맞출지 검토 필요",
+      "영어판 출처에 한글이 남음",
+      "영어판 숏폼 캡션에 한글이 남음",
+      "일본어판 출처에 한글이 남음",
+      "일본어판 숏폼 캡션에 한글이 남음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nMEOVV's Gawon visited the Tiffany & Co. holiday café that opened in Jamsil on the 20th.\n\nThe café is called House of Icons, and its decor reinterprets jewelry designer Jean Schlumberger's Bird on a Rock motif with a contemporary touch. Park Jinyoung and Kim Doyeon also attended the opening event, where Gawon posed at the photo wall in a black pinstripe off-the-shoulder dress.\n\nAlongside special drinks, the café displays Tiffany & Co.'s signature jewelry and a new collection the brand says is being unveiled here for the first time anywhere in the world.\n\nDates: From Fri, Nov 20\nLocation: Diver Hall, 1F, Lotte Department Store Avenuel World Tower, Songpa-gu, Seoul\n#SENE #MEOVV #Gawon #TiffanyAndCo #Jamsil\n\n[커버]\n소스: \n제목: MEOVV's Gawon at|Tiffany Café in Jamsil\n부제: Avenuel World Tower, 1F · From Nov 20\n출처: \n",
+      "caption": "MEOVV's Gawon visited the Tiffany & Co. holiday café that opened in Jamsil on the 20th.\n\nThe café is called House of Icons, and its decor reinterprets jewelry designer Jean Schlumberger's Bird on a Rock motif with a contemporary touch. Park Jinyoung and Kim Doyeon also attended the opening event, where Gawon posed at the photo wall in a black pinstripe off-the-shoulder dress.\n\nAlongside special drinks, the café displays Tiffany & Co.'s signature jewelry and a new collection the brand says is being unveiled here for the first time anywhere in the world.\n\nDates: From Fri, Nov 20\nLocation: Diver Hall, 1F, Lotte Department Store Avenuel World Tower, Songpa-gu, Seoul\n#SENE #MEOVV #Gawon #TiffanyAndCo #Jamsil",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=WTEaFUSpoOw\n구간: 0:08-0:23\n곡: Tiffany Café, Jamsil\n아티스트: MEOVV *Gawon*,\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
+      "caption": "MEOVV's Gawon attended the opening event for House of Icons, the Tiffany & Co. holiday café that opened on the 20th at Lotte Department Store Avenuel in Jamsil.\n\nThe brand set up the café for the holiday season, and Gawon posed at the photo wall in a black off-the-shoulder dress. Park Jinyoung and Kim Doyeon were also there.\n\nDates: From Fri, Nov 20\nLocation: Diver Hall, 1F, Lotte Department Store Avenuel World Tower, Songpa-gu, Seoul\nVideo: 비하인드 BEHIND\n#SENE #MEOVV #Gawon #TiffanyAndCo #Jamsil"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nMEOVVのガウォン（가원）が、20日にソウル・蚕室（チャムシル）にオープンしたティファニーのホリデーカフェを訪れました。\n\n「ハウス オブ アイコンズ」という名前のカフェで、ジュエリーデザイナー、ジャン・シュランバージェの「バード オン ア ロック」のモチーフを今の感覚で再解釈した装飾で彩られています。この日のお披露目イベントにはパク・ジニョン（박진영）とキム・ドヨン（김도연）も登場し、ガウォンはピンストライプのブラックのオフショルダードレス姿でフォトウォールに立ちました。\n\nカフェではスペシャルドリンクとともに、ティファニーの代表的なジュエリー、そしてブランドが世界で初めて公開するとしている新コレクションを見ることができます。\n\n期間：11月20日（金）から\n場所：ソウル・松坡区（ソンパグ） ロッテ百貨店 アベニュエル ワールドタワー店 1階 ダイバーホール\n#SENE #MEOVV #ガウォン #ティファニー #蚕室 #韓国旅行\n\n[커버]\n소스: \n제목: MEOVV ガウォン、|蚕室のティファニーカフェ\n부제: アベニュエル ワールドタワー店1階・11月20日から\n출처: \n",
+      "caption": "MEOVVのガウォン（가원）が、20日にソウル・蚕室（チャムシル）にオープンしたティファニーのホリデーカフェを訪れました。\n\n「ハウス オブ アイコンズ」という名前のカフェで、ジュエリーデザイナー、ジャン・シュランバージェの「バード オン ア ロック」のモチーフを今の感覚で再解釈した装飾で彩られています。この日のお披露目イベントにはパク・ジニョン（박진영）とキム・ドヨン（김도연）も登場し、ガウォンはピンストライプのブラックのオフショルダードレス姿でフォトウォールに立ちました。\n\nカフェではスペシャルドリンクとともに、ティファニーの代表的なジュエリー、そしてブランドが世界で初めて公開するとしている新コレクションを見ることができます。\n\n期間：11月20日（金）から\n場所：ソウル・松坡区（ソンパグ） ロッテ百貨店 アベニュエル ワールドタワー店 1階 ダイバーホール\n#SENE #MEOVV #ガウォン #ティファニー #蚕室 #韓国旅行",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=WTEaFUSpoOw\n구간: 0:08-0:23\n곡: 蚕室ティファニーカフェ\n아티스트: MEOVV *ガウォン*、\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
+      "caption": "MEOVVのガウォン（가원）が、20日にソウル・蚕室（チャムシル）のロッテ百貨店アベニュエルにオープンしたティファニーのホリデーカフェ「ハウス オブ アイコンズ」のお披露目イベントに登場しました。\n\nブランドがホリデーシーズンに合わせて用意したカフェで、この日ガウォンはブラックのオフショルダードレス姿でフォトウォールに立ちました。同じ場にはパク・ジニョンとキム・ドヨンも姿を見せました。\n\n期間：11月20日（金）から\n場所：ソウル・松坡区（ソンパグ） ロッテ百貨店 アベニュエル ワールドタワー店 1階 ダイバーホール\n映像：비하인드 BEHIND\n#SENE #MEOVV #ガウォン #ティファニー #蚕室 #韓国旅行"
+     }
+    }
+   }
   },
   {
    "source": {
@@ -470,10 +529,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-21T08:31+09:00"
+  "at": "2026-11-21T08:32+09:00"
  },
  "queue": {
-  "next": "2026-11-21T08:33+09:00",
+  "next": "2026-11-21T08:34+09:00",
   "n": 0,
   "gap": 20
  },
