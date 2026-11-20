@@ -643,7 +643,42 @@
     "at": "2026-11-20T11:45+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-20T11:47+09:00"
+   "i18n_queued": "2026-11-20T11:47+09:00",
+   "i18n": {
+    "at": "2026-11-20T11:48+09:00",
+    "confirm": [
+     "검색으로 2026 디올 뷰티 홀리데이 팝업(신세계 강남점)이나 해린 참석을 다시 확인하지 못했습니다. 그래서 원문 사실을 그대로 옮기기만 했습니다.",
+     "확인한 표기: 'Open Stage, 1F, Shinsegae Department Store Gangnam'은 2025년 1월 같은 자리에서 열린 디올 립 글로우 팝업 기사(asiae) 표기를 참고했습니다.",
+     "'디올 메달리옹 쿠키'의 공식 영어·일본어 표기는 확인하지 못했습니다. 'Dior Médaillon cookie' · 'ディオール メダイヨン クッキー'로 임시로 썼습니다.",
+     "'30 몽테뉴'는 영어 '30 Montaigne'(디올 본점 주소명), 일본어 '30 モンテーニュ'로 옮겼습니다.",
+     "숏폼 세 칸은 글자 수 제한(영어 한 칸 20자, 일본어 11자) 때문에 '포토월'을 영어 'at Dior Beauty', 일본어 'ディオールに登場'으로 줄였습니다. 이어 읽으면 'Haerin, at Dior Beauty' / 'ヘリン、ディオールに登場'입니다.",
+     "출처는 매체 영문명 'Newsen'만 남겼습니다.",
+     "영어·일본어 · 숏폼 '곡' 칸 · 원문 '디올 뷰티 포토월'이 글자 수 제한 때문에 en 'at Dior Beauty' · ja 'ディオールに登場'으로 줄면서 '포토월'이 빠졌습니다 — 화면 제목으로 괜찮은지 한 번 봐 주세요",
+     "영어 · 'Kim Yuna'는 영어 매체에서 'Yuna Kim'으로도 많이 씁니다 — 함께 나오는 다른 이름들과 맞춰 한국식 순서로 두었습니다"
+    ],
+    "review": {
+     "at": "2026-11-20T11:48+09:00",
+     "fixes": [
+      "일본어 · 숏폼 캡션 둘째 단락 · アンバサダーを務めることになりました → アンバサダーに就任しました — 한국어 '맡게 됐는데요'를 그대로 옮긴 직역투"
+     ],
+     "doubt": [
+      "영어·일본어 · 숏폼 '곡' 칸 · 원문 '디올 뷰티 포토월'이 글자 수 제한 때문에 en 'at Dior Beauty' · ja 'ディオールに登場'으로 줄면서 '포토월'이 빠졌습니다 — 화면 제목으로 괜찮은지 한 번 봐 주세요",
+      "영어 · 'Kim Yuna'는 영어 매체에서 'Yuna Kim'으로도 많이 씁니다 — 함께 나오는 다른 이름들과 맞춰 한국식 순서로 두었습니다"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=yWC7zUf_2-Y\n구간: 0:04-0:19\n곡: at Dior Beauty\n아티스트: *Haerin*,\n피처링:\n후킹: \n출처: Newsen\n자막: 끔",
+      "caption": "NewJeans' Haerin steps onto the photo wall at the Dior Beauty (@diorbeauty) holiday pop-up on the morning of the 20th.\n\nHaerin became a Dior ambassador in 2023, across jewelry, fashion and beauty. The opening event took place at the 1st-floor Open Stage of Shinsegae Department Store Gangnam, and Han So-hee, Kim Yuna and Heo Nam-jun also attended.\n\nThe pop-up is designed as a cinnamon gingerbread dessert atelier inspired by the House of Dior's '30 Montaigne'. It carries fragrances and the 2026 holiday makeup and skincare collections. According to Dior Beauty, it offers wrapping and engraving, and customers who make a purchase receive a 'Dior Médaillon cookie'.\n\nDates: Nov 20 (Fri) – Dec 1 (Tue)\nLocation: Open Stage, 1F, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nVideo: Newsen\n#SENE #Haerin #NewJeans #DiorBeauty #ShinsegaeGangnam"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=yWC7zUf_2-Y\n구간: 0:04-0:19\n곡: ディオールに登場\n아티스트: *ヘリン*、\n피처링:\n후킹: \n출처: Newsen\n자막: 끔",
+      "caption": "NewJeansのヘリンが20日午前、ディオール ビューティー（@diorbeauty）のホリデーポップアップでフォトウォールに立ちました。\n\nヘリンは2023年、ディオールのジュエリー・ファッション・ビューティーの3部門でアンバサダーに就任しました。この日、新世界（シンセゲ）百貨店 江南店1階のオープンステージで開かれたオープンイベントには、ハン・ソヒ、キム・ヨナ、ホ・ナムジュンも出席しました。\n\nポップアップは、ディオール メゾンの「30 モンテーニュ」から着想を得た、シナモン ジンジャーブレッドのデザートアトリエとして作られています。会場には香水と2026年ホリデーのメイクアップ・スキンケアコレクションが並びます。ディオール ビューティーによると、ラッピングと刻印のサービスがあり、購入者には「ディオール メダイヨン クッキー」が贈られます。\n\n期間：11月20日（金）〜12月1日（火）\n場所：ソウル・瑞草区（ソチョグ） 新世界百貨店 江南店 1階 オープンステージ\n映像：Newsen\n#SENE #ヘリン #NewJeans #ディオール #韓国旅行"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -891,10 +926,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-20T11:47+09:00"
+  "at": "2026-11-20T11:48+09:00"
  },
  "queue": {
-  "next": "2026-11-20T11:49+09:00",
+  "next": "2026-11-20T11:50+09:00",
   "n": 0,
   "gap": 20
  },
