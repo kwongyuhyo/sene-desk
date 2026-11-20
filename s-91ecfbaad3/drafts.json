@@ -763,7 +763,47 @@
     "at": "2026-11-20T17:44+09:00"
    },
    "corner_name": "현장",
-   "i18n_queued": "2026-11-20T17:46+09:00"
+   "i18n_queued": "2026-11-20T17:46+09:00",
+   "i18n": {
+    "at": "2026-11-20T17:47+09:00",
+    "confirm": [
+     "'챕터 1' 공식 영문·일문 표기(Chapter 1 / CHAPTER 1) 확인 못 함 — 공식 계정 표기 확인",
+     "'MAMA 팬 페스타' 공식 영문·일문 표기(MAMA Fan Festa 대소문자) 확인 필요",
+     "최미나수 영문 표기는 'Choi Mina-sue'로 둠 (Korea Herald 기사 기준) — MAMA 공식 표기 확인",
+     "레드카펫 MC(이대휘·최미나수)는 일본 보도자료 한 곳에서만 확인 — 공식 채널로 한 번 더 확인",
+     "일본어 숏폼 첫 칸 'MAMAレッドカーペット'은 13자로 11자 기준을 조금 넘음 (영문 반각 포함) — 화면에서 잘리는지 확인",
+     "'챕터 1' 공식 표기 — 영어판은 'Chapter 1', 일본어판은 「CHAPTER 1」로 서로 다름. MAMA 공식 표기를 확인한 뒤 둘을 맞출 것",
+     "일본어 숏폼 칸 · 「MAMAレッドカーペット」와 「ENHYPEN」 사이에 구분 부호가 없어 화면에서 붙어 읽힘. 영어판처럼 '—' 같은 부호를 넣을지 정할 것",
+     "'MAMA Fan Festa' 영어·일본어 공식 표기 확인 필요",
+     "캡션의 '내일'(11월 21일)은 20일에 올릴 때만 맞는 말. 올리는 날짜를 확인할 것"
+    ],
+    "review": {
+     "at": "2026-11-20T17:47+09:00",
+     "fixes": [
+      "영어 · 숏폼 캡션 · Lee Dae-hwi and Choi Mina-sue → Lee Daehwi and Choi Mina Sue — 보도에서 쓰는 영어 표기로 맞춤",
+      "일본어 · 숏폼 캡션 · 「開催されるのですが、」 → 「開催され、」 — '~는데요'를 그대로 옮긴 직역투",
+      "일본어 · 숏폼 캡션 · 「日本・大阪の京セラドーム大阪」 → 「大阪・京セラドーム大阪」 — '大阪'가 두 번 나와 군더더기"
+     ],
+     "doubt": [
+      "'챕터 1' 공식 표기 — 영어판은 'Chapter 1', 일본어판은 「CHAPTER 1」로 서로 다름. MAMA 공식 표기를 확인한 뒤 둘을 맞출 것",
+      "일본어 숏폼 칸 · 「MAMAレッドカーペット」와 「ENHYPEN」 사이에 구분 부호가 없어 화면에서 붙어 읽힘. 영어판처럼 '—' 같은 부호를 넣을지 정할 것",
+      "'MAMA Fan Festa' 영어·일본어 공식 표기 확인 필요",
+      "캡션의 '내일'(11월 21일)은 20일에 올릴 때만 맞는 말. 올리는 날짜를 확인할 것"
+     ]
+    },
+    "en": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Mf58ZBgdBCY\n구간: 0:02-0:17\n곡: MAMA Red Carpet —\n아티스트: *ENHYPEN*\n피처링:\n후킹: \n출처: Source: Mnet\n자막: 끔",
+      "caption": "ENHYPEN walked the red carpet on day one of the 2026 MAMA AWARDS (@mnet_mama), held Nov 20 at Kyocera Dome Osaka in Japan.\n\nThis year's MAMA runs over two days, Nov 20 and 21, at the same venue. ENHYPEN is on the lineup for day one, 'Chapter 1'. The red carpet is hosted by Lee Daehwi and Choi Mina Sue.\n\nThe ceremony airs on Mnet and Mnet Plus, and the day-two red carpet and ceremony follow tomorrow. Across Osaka, the fan event 'MAMA Fan Festa' continues through Nov 21.\n\nDates: Nov 20 (Fri) – Nov 21 (Sat)\nLocation: Kyocera Dome Osaka, Osaka, Japan\nBroadcast: Mnet · Mnet Plus\nVideo: Mnet\n#SENE #ENHYPEN #MAMAAWARDS #2026MAMA #Osaka"
+     }
+    },
+    "ja": {
+     "shorts": {
+      "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Mf58ZBgdBCY\n구간: 0:02-0:17\n곡: MAMAレッドカーペット\n아티스트: *ENHYPEN*\n피처링:\n후킹: \n출처: 出典：Mnet\n자막: 끔",
+      "caption": "ENHYPENが20日、大阪・京セラドーム大阪で開かれた2026 MAMA AWARDS（@mnet_mama）初日のレッドカーペットに登場しました。\n\n今年のMAMAは20日と21日の2日間、同じ会場で開催され、ENHYPENは初日「CHAPTER 1」の出演者に名を連ねました。レッドカーペットの進行はイ・デフィとチェ・ミナスが務めました。\n\n授賞式はMnetとMnet Plusで中継され、明日は2日目のレッドカーペットと授賞式が続きます。大阪市内では21日まで、ファン参加型イベント「MAMA Fan Festa」が開かれています。\n\n期間：11月20日（金）〜11月21日（土）\n場所：日本・大阪 京セラドーム大阪\n中継：Mnet・Mnet Plus\n映像：Mnet\n#SENE #ENHYPEN #MAMAAWARDS #京セラドーム大阪 #大阪"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1011,10 +1051,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-20T17:46+09:00"
+  "at": "2026-11-20T17:47+09:00"
  },
  "queue": {
-  "next": "2026-11-20T17:48+09:00",
+  "next": "2026-11-20T17:49+09:00",
   "n": 0,
   "gap": 20
  },
