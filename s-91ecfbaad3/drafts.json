@@ -125,9 +125,9 @@
     }
    },
    "pick": {
-    "rank": 2,
-    "why": "용산 팝업 22일(일) 종료 전 마지막 주말 — 금요일에 저장할 정보",
-    "at": "2026-11-20T11:45+09:00"
+    "rank": 3,
+    "why": "용산 팝업 22일(일) 종료 전 마지막 주말 — 퇴근길에 저장할 정보",
+    "at": "2026-11-20T17:44+09:00"
    }
   },
   {
@@ -244,11 +244,6 @@
       "preview": null
      }
     }
-   },
-   "pick": {
-    "rank": 3,
-    "why": "어제 발표된 대형 공연 확정 — 예매 일정이 저장 이유",
-    "at": "2026-11-20T11:45+09:00"
    }
   },
   {
@@ -637,11 +632,6 @@
      "at": "2026-11-20T11:47+09:00"
     }
    },
-   "pick": {
-    "rank": 1,
-    "why": "오늘 오전 포토월 · 해린 디올 3부문 앰배서더 · 말 없는 그림 릴스라 지금 바로 올리기 좋다",
-    "at": "2026-11-20T11:45+09:00"
-   },
    "corner_name": "현장",
    "i18n_queued": "2026-11-20T11:47+09:00",
    "i18n": {
@@ -678,7 +668,102 @@
       "caption": "NewJeansのヘリンが20日午前、ディオール ビューティー（@diorbeauty）のホリデーポップアップでフォトウォールに立ちました。\n\nヘリンは2023年、ディオールのジュエリー・ファッション・ビューティーの3部門でアンバサダーに就任しました。この日、新世界（シンセゲ）百貨店 江南店1階のオープンステージで開かれたオープンイベントには、ハン・ソヒ、キム・ヨナ、ホ・ナムジュンも出席しました。\n\nポップアップは、ディオール メゾンの「30 モンテーニュ」から着想を得た、シナモン ジンジャーブレッドのデザートアトリエとして作られています。会場には香水と2026年ホリデーのメイクアップ・スキンケアコレクションが並びます。ディオール ビューティーによると、ラッピングと刻印のサービスがあり、購入者には「ディオール メダイヨン クッキー」が贈られます。\n\n期間：11月20日（金）〜12月1日（火）\n場所：ソウル・瑞草区（ソチョグ） 新世界百貨店 江南店 1階 オープンステージ\n映像：Newsen\n#SENE #ヘリン #NewJeans #ディオール #韓国旅行"
      }
     }
+   },
+   "pick": {
+    "rank": 2,
+    "why": "해린 디올 뷰티 포토월 — 다른 매거진 릴스가 평소의 15배 · 팝업은 12/1까지라 주말에 갈 수 있다",
+    "at": "2026-11-20T17:44+09:00"
    }
+  },
+  {
+   "source": {
+    "id": "claude:mama-day1-redcarpet-reel",
+    "account": "Mnet",
+    "url": "https://www.youtube.com/watch?v=Mf58ZBgdBCY",
+    "image": null,
+    "head": "[#2026MAMA] Red Carpet with ENHYPEN (엔하이픈) | Mnet 261120 방송",
+    "multiple": null,
+    "is_reel": true,
+    "kind": "claude"
+   },
+   "made_at": "2026-11-20T17:44+09:00",
+   "key": "e29f596d",
+   "by": "claude",
+   "subjects": [
+    "엔하이픈",
+    "MAMA AWARDS"
+   ],
+   "lane": "클립",
+   "editor": {
+    "grade": "A",
+    "kind": "클립",
+    "angle": "엔하이픈, 11/20 오사카 교세라 돔 2026 MAMA AWARDS 첫날 레드카펫 — Mnet 공식 영상에서 걸음·포즈 한 구간(MC 소개 멘트 깔림) + 시상식 일정·중계",
+    "why": "오늘 첫날 '챕터 1' 출연 · Mnet 공식 레드카펫 영상 · 같은 날 조선일보·OSEN 레드카펫 사진 기사 · 다른 매거진 엔하이픈 릴스 8배 신호"
+   },
+   "added": "claude",
+   "added_at": "2026-11-20T17:44+09:00",
+   "corner": "scene",
+   "shorts": {
+    "form": "[영상]\n카테고리: 컬처\nURL: https://www.youtube.com/watch?v=Mf58ZBgdBCY\n구간: 0:02-0:17\n곡: MAMA 레드카펫\n아티스트: *엔하이픈*,\n피처링:\n후킹: \n출처: Mnet\n자막: 끔",
+    "caption": "엔하이픈이 20일 일본 오사카 교세라 돔에서 열린 2026 MAMA AWARDS(@mnet_mama) 첫날 레드카펫에 섰습니다.\n\n올해 MAMA는 20일과 21일 이틀 동안 같은 자리에서 열리는데요, 엔하이픈은 첫날인 '챕터 1' 출연진으로 이름을 올렸습니다. 레드카펫 진행은 이대휘와 최미나수가 맡았습니다.\n\n시상식은 Mnet과 Mnet Plus로 중계되고, 내일은 둘째 날 레드카펫과 시상식이 이어집니다. 오사카 시내에서는 21일까지 팬 참여 행사 'MAMA 팬 페스타'가 열립니다.\n\n일정: 11월 20일(금) ~ 21일(토)\n장소: 일본 오사카 교세라 돔\n중계: Mnet · Mnet Plus\n영상: Mnet\n#SENE #엔하이픈 #MAMA #마마어워즈 #오사카",
+    "hooks": {
+     "A": "*엔하이픈*, / MAMA 레드카펫",
+     "B": "오사카 교세라 돔, / *엔하이픈*의 레드카펫",
+     "C": "MAMA 첫날 / *엔하이픈*"
+    },
+    "video": {
+     "url": "https://www.youtube.com/watch?v=Mf58ZBgdBCY",
+     "credit": "Mnet",
+     "range": [
+      2.0,
+      17.0
+     ]
+    },
+    "guided": {
+     "rec": "A",
+     "lint": []
+    },
+    "issues": [],
+    "confirm": [
+     "[검증] 0:02-0:17 은 말 없는 구간이 아님 — 레드카펫 MC 소개 멘트(\"이곳이 바로 파라다이스입니다… 환영합니다\", 0:14~ 다섯 번째 더블 밀리언셀러 소개)가 깔림. 자막은 꺼져 있지만 소리 그대로 쓸지, 화면이 멤버 걸음·포즈인지 미리보기로 확인",
+     "클립 위험: 높음 — Mnet (30초 안 · 0:02-0:17)",
+     "장면 캡처·자막이 안 돼 구간을 눈으로 못 봤음 — 첫 1초에 멤버들이 또렷한지, 인터뷰(말) 구간이 아닌지 미리보기에서 확인 · 의상 크레딧은 확인 못 해 쓰지 않음"
+    ],
+    "research": [
+     {
+      "title": "Mnet 공식 — [#2026MAMA] Red Carpet with ENHYPEN | Mnet 261120 방송",
+      "link": "https://www.youtube.com/watch?v=Mf58ZBgdBCY"
+     },
+     {
+      "title": "파이낸셜뉴스 — 2026 MAMA 11/20~21 교세라 돔 오사카 · 첫날 '챕터 1' 출연(엔하이픈 포함) · 레드카펫 진행 이대휘·최미나수 · Mnet·Mnet Plus 중계 · 팬 페스타 11/9~21",
+      "link": "https://www.fnnews.com/news/202610291511022060"
+     },
+     {
+      "title": "코리아데일리 — 11/20~21 교세라 돔 · 레드카펫 MC 이대휘·최미나수",
+      "link": "https://www.koreadaily.com/article/20261026162850160"
+     },
+     {
+      "title": "OSEN — [사진]엔하이픈 성훈 (11/20 MAMA 레드카펫)",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1CS0M3MnRfOVlLSFVRR0Q1UGhsQzV5LWsyWlFiRjhIcnhwX1Vtc3pSb3ZzSTBhaWtHcUpVNXV6cGsxblNuTXZPSU1MNTdMSnY3U0d2eg?oc=5"
+     },
+     {
+      "title": "조선일보 — [사진]엔하이픈 정원 (11/20 MAMA)",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYW9idmlTMmFRX0NiRWE5T1JZQ01qWFJqVmFndnB1dHlxUTVOaVlHMWEyNEJ6RzM3QW50eVhwNDIyc2RxS3ZGSXBaUHBRXy1kd2VIQkVmTWNlS0tNcWRaTnkta2R5NWFjUkdvMzlnT2tzS2lkXzd5NFRZekwwTEp3WVVreW0tRGZJSXNzSTZNanp3ZzZGMHQw?oc=5"
+     }
+    ],
+    "thumb": "https://i.ytimg.com/vi/Mf58ZBgdBCY/maxresdefault.jpg",
+    "render": {
+     "status": "queued",
+     "at": "2026-11-20T17:46+09:00"
+    }
+   },
+   "pick": {
+    "rank": 1,
+    "why": "MAMA 첫날 시상식이 지금 진행 중 · 오늘 저녁 가장 뜨거운 케이팝 현장 · 말 없는 레드카펫 릴스",
+    "at": "2026-11-20T17:44+09:00"
+   },
+   "corner_name": "현장",
+   "i18n_queued": "2026-11-20T17:46+09:00"
   }
  ],
  "skipped": [],
@@ -857,7 +942,7 @@
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 1,
+    "drafts": 2,
     "why": "팝업·공간·매장 현장 영상과 사진 — 가 보면 무엇이 보이나"
    },
    {
@@ -926,10 +1011,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-20T11:48+09:00"
+  "at": "2026-11-20T17:46+09:00"
  },
  "queue": {
-  "next": "2026-11-20T11:50+09:00",
+  "next": "2026-11-20T17:48+09:00",
   "n": 0,
   "gap": 20
  },
