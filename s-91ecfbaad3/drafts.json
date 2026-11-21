@@ -726,7 +726,47 @@
     "at": "2026-11-21T11:47+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-21T11:48+09:00"
+   "i18n_queued": "2026-11-21T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-21T11:49+09:00",
+    "confirm": [
+     "'파미에스테이션'의 공식 영문 표기를 확인하지 못했습니다. 영어판에는 'Famille Station', 일본어판에는 'ファミエステーション'으로 적었으니 신세계백화점 공식 표기와 맞는지 확인해 주세요.",
+     "Part.6 팝업 자체(기간·장소·굿즈·특전)는 영어 검색으로 확인하지 못했습니다. 번역은 원문 내용만 옮겼습니다. 15집 발매일 11월 13일은 영어 매체 보도와 맞습니다.",
+     "'30평'을 영어·일본어 독자용으로 '약 100㎡'라고 함께 적었습니다(30평 ≈ 99㎡). 원문에 없는 환산이라 빼려면 그 괄호만 지우면 됩니다.",
+     "날짜 요일을 확인했습니다. 2026년 11월 13일은 금요일, 22일은 일요일입니다.",
+     "영어 · 제목 'This Sunday' 는 11월 22일 전에 올릴 때만 맞음 — 올리는 날짜를 확인할 것",
+     "영어·일본어 · 30평에 붙인 '약 100㎡' 환산은 원문에 없음 (30평은 약 99.2㎡라 숫자는 맞음) — 그대로 둘지 결정할 것",
+     "파미에스테이션 영문 표기 FAMILLE STATION 은 이번에 검색으로 확인하지 않음 — 신세계 공식 표기를 한 번 확인할 것"
+    ],
+    "review": {
+     "at": "2026-11-21T11:49+09:00",
+     "fixes": [
+      "영어 · 캡션 첫 문장 · ATEEZ (@ateez_official_)'s → The ATEEZ (@ateez_official_) pop-up … — 괄호 뒤 소유격 's 가 어색함",
+      "영어 · 캡션 셋째 단락 · muffler → scarf — 미국 영어에서 muffler 는 자동차 소음기로 먼저 읽힘",
+      "일본어 · 캡션 둘째 단락 · ファミエステーション（파미에스테이션） → ファミエステーション（FAMILLE STATION） — 한글이 남아 있었고, 일본 독자에게는 공식 영문 표기가 통함",
+      "일본어 · 캡션 둘째 단락 · 単独ポップアップなのですが、 → 単独ポップアップで、 — '~인데요' 를 그대로 옮긴 직역투"
+     ],
+     "doubt": [
+      "영어 · 제목 'This Sunday' 는 11월 22일 전에 올릴 때만 맞음 — 올리는 날짜를 확인할 것",
+      "영어·일본어 · 30평에 붙인 '약 100㎡' 환산은 원문에 없음 (30평은 약 99.2㎡라 숫자는 맞음) — 그대로 둘지 결정할 것",
+      "파미에스테이션 영문 표기 FAMILLE STATION 은 이번에 검색으로 확인하지 않음 — 신세계 공식 표기를 한 번 확인할 것"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nThe ATEEZ (@ateez_official_) pop-up 'GOLDEN HOUR : Part.6' closes on Sunday, Nov 22.\n\nThe standalone pop-up opened on Nov 13, the day the group's 15th mini album came out, at Famille Station in Shinsegae Department Store's Gangnam branch. The roughly 30-pyeong (about 100㎡) space holds a photo zone, an exhibition built around the album concept and an interactive game zone, and albums signed by the members are on display.\n\nVisitors who complete the missions inside and collect every stamp receive an acrylic keyring. The store sells five versions of the album and six official merchandise items, including a pouch, a scarf and a keyring, with limited-edition photocards and postcards given out depending on how much you spend.\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Pocket Garden, 1F, Famille Station, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nEntry: Advance and on-site reservations both available\n#SENE #ATEEZ #GOLDENHOUR #SeoulPopup #KpopPopup #Gangnam\n\n[커버]\n소스: \n제목: ATEEZ Pop-Up Closes|This Sunday, Nov 22\n부제: Shinsegae Gangnam Famille Station · Through Nov 22\n출처: \n",
+      "caption": "The ATEEZ (@ateez_official_) pop-up 'GOLDEN HOUR : Part.6' closes on Sunday, Nov 22.\n\nThe standalone pop-up opened on Nov 13, the day the group's 15th mini album came out, at Famille Station in Shinsegae Department Store's Gangnam branch. The roughly 30-pyeong (about 100㎡) space holds a photo zone, an exhibition built around the album concept and an interactive game zone, and albums signed by the members are on display.\n\nVisitors who complete the missions inside and collect every stamp receive an acrylic keyring. The store sells five versions of the album and six official merchandise items, including a pouch, a scarf and a keyring, with limited-edition photocards and postcards given out depending on how much you spend.\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Pocket Garden, 1F, Famille Station, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nEntry: Advance and on-site reservations both available\n#SENE #ATEEZ #GOLDENHOUR #SeoulPopup #KpopPopup #Gangnam",
+      "preview": null
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n공간\n\n[캡션]\nATEEZ（エイティーズ・@ateez_official_）の「GOLDEN HOUR : Part.6」ポップアップが、22日（日）に幕を閉じます。\n\n15thミニアルバムが発売された13日に、新世界（シンセゲ）百貨店 江南店のファミエステーション（FAMILLE STATION）でオープンした単独ポップアップで、約30坪（約100㎡）の空間にフォトゾーン、アルバムのコンセプト展示、体験型のゲームゾーンを設け、メンバーの直筆サイン入りアルバムも展示されています。\n\n会場内でミッションをこなしてスタンプをすべて集めると、アクリルキーホルダーがもらえます。アルバム5バージョンと、ポーチ・マフラー・キーホルダーなど公式グッズ6種を販売し、購入金額に応じて限定フォトカードとポストカードがプレゼントされます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・瑞草区（ソチョグ）新世界百貨店 江南店 ファミエステーション1階 ポケットガーデン\n入場：事前予約と当日予約を併用\n#SENE #ATEEZ #エイティーズ #韓国旅行 #ソウル旅行 #ポップアップストア\n\n[커버]\n소스: \n제목: ATEEZポップアップ、|22日（日）まで\n부제: 新世界百貨店 江南店 ファミエステーション・11月22日まで\n출처: \n",
+      "caption": "ATEEZ（エイティーズ・@ateez_official_）の「GOLDEN HOUR : Part.6」ポップアップが、22日（日）に幕を閉じます。\n\n15thミニアルバムが発売された13日に、新世界（シンセゲ）百貨店 江南店のファミエステーション（FAMILLE STATION）でオープンした単独ポップアップで、約30坪（約100㎡）の空間にフォトゾーン、アルバムのコンセプト展示、体験型のゲームゾーンを設け、メンバーの直筆サイン入りアルバムも展示されています。\n\n会場内でミッションをこなしてスタンプをすべて集めると、アクリルキーホルダーがもらえます。アルバム5バージョンと、ポーチ・マフラー・キーホルダーなど公式グッズ6種を販売し、購入金額に応じて限定フォトカードとポストカードがプレゼントされます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・瑞草区（ソチョグ）新世界百貨店 江南店 ファミエステーション1階 ポケットガーデン\n入場：事前予約と当日予約を併用\n#SENE #ATEEZ #エイティーズ #韓国旅行 #ソウル旅行 #ポップアップストア",
+      "preview": null
+     }
+    }
+   }
   },
   {
    "source": {
@@ -1066,10 +1106,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-21T11:48+09:00"
+  "at": "2026-11-21T11:49+09:00"
  },
  "queue": {
-  "next": "2026-11-21T11:50+09:00",
+  "next": "2026-11-21T11:51+09:00",
   "n": 0,
   "gap": 20
  },
