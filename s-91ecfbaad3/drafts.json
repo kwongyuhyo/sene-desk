@@ -1,39 +1,39 @@
 {
  "schema": 1,
- "date": "2026-11-21",
- "generated_at": "2026-11-21 08:23 KST",
+ "date": "2026-11-22",
+ "generated_at": "2026-11-22 08:24 KST",
  "items": [
   {
    "source": {
-    "id": "claude:gawon-tiffany-holiday-cafe",
-    "account": "아시아투데이 · 톱스타뉴스 · 스타데일리뉴스",
-    "url": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008166",
+    "id": "claude:hyunjin-guess-winter-film",
+    "account": "패션비즈 · 싱글리스트 · 게스 코리아 유튜브",
+    "url": "https://fashionbiz.co.kr/article/231077",
     "image": null,
-    "head": "티파니앤코 홀리데이 카페 '하우스 오브 아이콘' 11/20 오픈 · 롯데백화점 에비뉴엘 월드타워점 1층 다이버홀 · 미야오 가원 참석",
+    "head": "게스 'THE WINTER – 2026 POP-UP' 11/23~12/6 롯데월드몰 지하 1층 · 사전 예약 + 현장 접수 · 현진 미공개 비주",
     "multiple": null,
     "is_reel": true,
     "kind": "claude"
    },
-   "made_at": "2026-11-21T08:29+09:00",
-   "key": "2ed682f0",
+   "made_at": "2026-11-22T08:30+09:00",
+   "key": "570cb939",
    "by": "claude",
    "subjects": [
-    "미야오 가원",
-    "티파니앤코"
+    "현진",
+    "게스"
    ],
    "lane": "클립",
    "editor": {
     "grade": "A",
     "kind": "클립",
-    "angle": "모으기 — 11/20 잠실 에비뉴엘 티파니앤코 홀리데이 카페 '하우스 오브 아이콘' 공개 행사에 온 가원 · 같은 날 박진영·김도연 · 카페 장소",
-    "why": "기획안 slot mo · 케이팝 연결 · 포토월 릴스"
+    "angle": "순간 + 정리 — 게스 코리아 공식 겨울 필름 속 현진 한 구간 · 내일(11/23) 롯데월드몰 지하 1층 'THE WINTER – 2026 POP-UP' 기간·예약·선착순 혜택",
+    "why": "기획안 slot mo · 케이팝 연결 · 오픈 전날"
    },
    "added": "claude",
-   "added_at": "2026-11-21T08:29+09:00",
+   "added_at": "2026-11-22T08:30+09:00",
    "corner": "moment",
    "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n미야오 가원이 20일 잠실에 문을 연 티파니앤코 홀리데이 카페에 다녀왔습니다.\n\n'하우스 오브 아이콘' 이라는 이름의 카페인데요, 주얼리 디자이너 잔 슐럼버제의 '버드 온 어 락' 모티프를 지금의 감각으로 다시 풀어낸 장식으로 꾸며졌습니다. 이날 공개 행사에는 박진영과 김도연도 함께 섰고, 가원은 핀스트라이프 블랙 오프숄더 드레스 차림으로 포토월에 올랐습니다.\n\n카페에서는 스페셜 드링크와 함께 티파니앤코의 대표 주얼리, 그리고 브랜드가 전 세계에서 처음 공개한다고 밝힌 새 컬렉션을 볼 수 있습니다.\n\n기간: 11월 20일(금)부터\n장소: 서울 송파구 롯데백화점 에비뉴엘 월드타워점 1층 다이버홀\n#SENE #미야오 #가원 #티파니앤코 #잠실\n\n[커버]\n소스: \n제목: 미야오 가원,|잠실 티파니 카페\n부제: 에비뉴엘 월드타워점 1층 · 11월 20일부터\n출처:\n",
-    "caption": "미야오 가원이 20일 잠실에 문을 연 티파니앤코 홀리데이 카페에 다녀왔습니다.\n\n'하우스 오브 아이콘' 이라는 이름의 카페인데요, 주얼리 디자이너 잔 슐럼버제의 '버드 온 어 락' 모티프를 지금의 감각으로 다시 풀어낸 장식으로 꾸며졌습니다. 이날 공개 행사에는 박진영과 김도연도 함께 섰고, 가원은 핀스트라이프 블랙 오프숄더 드레스 차림으로 포토월에 올랐습니다.\n\n카페에서는 스페셜 드링크와 함께 티파니앤코의 대표 주얼리, 그리고 브랜드가 전 세계에서 처음 공개한다고 밝힌 새 컬렉션을 볼 수 있습니다.\n\n기간: 11월 20일(금)부터\n장소: 서울 송파구 롯데백화점 에비뉴엘 월드타워점 1층 다이버홀\n#SENE #미야오 #가원 #티파니앤코 #잠실",
+    "form": "[카테고리]\n패션\n\n[캡션]\n스트레이 키즈(@realstraykids) 현진이 얼굴이 된 게스(@guess)의 겨울 팝업이 내일 잠실에서 문을 엽니다.\n\n현진은 게스의 글로벌 앰버서더인데요, 이번 팝업은 그와 함께한 2026년 겨울 캠페인 비주얼과 데님 제품을 거는 갤러리형 공간으로 꾸려집니다. 색은 흰색과 은색으로 맞췄습니다.\n\n구매 고객에게는 현진의 미공개 비주얼이 담긴 한정판 기프트를, 방문 고객에게는 팝업 한정 핀배지를 선착순으로 준다고 브랜드는 밝혔습니다. 데님에 원하는 그래픽을 레이저로 새겨 주는 자리도 있습니다.\n\n기간: 11월 23일(월) ~ 12월 6일(일)\n장소: 서울 송파구 롯데월드몰 지하 1층\n예약: 사전 예약 (현장 접수 병행)\n#SENE #현진 #스트레이키즈 #게스 #롯데월드몰팝업\n\n[커버]\n소스: \n제목: 스트레이 키즈 현진,|내일 잠실 게스 팝업\n부제: 롯데월드몰 지하 1층 · 11월 23일 ~ 12월 6일\n출처:\n",
+    "caption": "스트레이 키즈(@realstraykids) 현진이 얼굴이 된 게스(@guess)의 겨울 팝업이 내일 잠실에서 문을 엽니다.\n\n현진은 게스의 글로벌 앰버서더인데요, 이번 팝업은 그와 함께한 2026년 겨울 캠페인 비주얼과 데님 제품을 거는 갤러리형 공간으로 꾸려집니다. 색은 흰색과 은색으로 맞췄습니다.\n\n구매 고객에게는 현진의 미공개 비주얼이 담긴 한정판 기프트를, 방문 고객에게는 팝업 한정 핀배지를 선착순으로 준다고 브랜드는 밝혔습니다. 데님에 원하는 그래픽을 레이저로 새겨 주는 자리도 있습니다.\n\n기간: 11월 23일(월) ~ 12월 6일(일)\n장소: 서울 송파구 롯데월드몰 지하 1층\n예약: 사전 예약 (현장 접수 병행)\n#SENE #현진 #스트레이키즈 #게스 #롯데월드몰팝업",
     "photos": [],
     "photo_pool": [],
     "shape": "단신",
@@ -41,61 +41,57 @@
      {
       "key": "A",
       "hook": "Claude",
-      "title": "미야오 가원,|잠실 티파니 카페",
-      "sub": "에비뉴엘 월드타워점 1층 · 11월 20일부터"
+      "title": "스트레이 키즈 현진,|내일 잠실 게스 팝업",
+      "sub": "롯데월드몰 지하 1층 · 11월 23일 ~ 12월 6일"
      },
      {
       "key": "B",
       "hook": "다른 안",
-      "title": "가원이 다녀간|티파니 홀리데이 카페",
-      "sub": "롯데백화점 에비뉴엘 월드타워점"
+      "title": "현진의 게스 겨울,|내일 잠실에서",
+      "sub": "THE WINTER – 2026 POP-UP"
      }
     ],
     "issues": [],
     "confirm": [
-     "[검증] 캡션의 '〈100일의 거짓말〉' 작품명·'조명' 은 원문 어디에도 없어 뺐다 · 영상은 공식 채널 아닌 언론사(비하인드) 포토콜 영상 — 자막 없음([music]만), 설명란에 가원 포토콜 확인 · 사진 미첨부라 사람·워터마크 확인 못 함",
-     "클립 위험: 중간 — 비하인드 BEHIND · 구간 0:08-0:23 은 자막 없는 포토월이라 시각을 눈으로 못 봤다 — 첫 1초에 가원 얼굴인지 미리보기로",
-     "종료일 2027.1.3 은 스타데일리뉴스 한 곳뿐이라 캡션엔 시작일만 — 티파니·롯데 공지로 확인되면 '~ 1월 3일(일)' 추가 · 운영 시간·예약 방식 미확인 · 사진 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401), 아시아투데이·톱스타뉴스 포토콜 기사 사진을 지정해 둠 — 앱에서 사진 붙일 것",
+     "클립 위험: 낮음 — GUESS KOREA (브랜드 공식) · 31초 필름이라 자막 없음 — 구간 0:02-0:17 은 눈으로 못 봤다, 첫 1초에 현진 얼굴인지 미리보기로",
+     "운영 시간·사전 예약 페이지 주소는 기사에 없어 뺐다 · 사진 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401), @guess 11/19 현진 홀리데이 캠페인 사진을 지정해 둠 — 앱에서 사진 붙일 것",
+     "이어지는 소식 — 11-19에 다룬 소재. 새 사실: 11/19 카드는 예고 — 오늘은 오픈 전날, 게스 코리아 공식 겨울 필름(MAIN ver) 릴스와 선착순 혜택·커스터마이징을 더했다",
      "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
     ],
     "research": [
      {
-      "title": "아시아투데이 (11/20) — 가원, 티파니 카페서 손하트 · 핀스트라이프 블랙 오프숄더 드레스 · 에비뉴엘 월드타워점 1층 다이버홀",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008166"
+      "title": "패션비즈 (11/13) — 'THE WINTER – 2026 POP-UP' 11월 23일~12월 6일 롯데월드몰 지하 1층 · 사전 예약 11/12 12시부터, 현장 접수 병행 · 한정판 기프트·핀뱃지·레이저 커스터마이징",
+      "link": "https://fashionbiz.co.kr/article/231077"
      },
      {
-      "title": "아시아투데이 (11/20) — 티파니앤코 홀리데이 카페 오픈 · 스페셜 드링크 · 아이코닉 컬렉션과 전 세계 첫 공개 신규 컬렉션 · 윤여정·박주미·김도연·고현정·가원·박진영 참석",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008169"
+      "title": "싱글리스트 (11/12) — 게스 글로벌 앰버서더 현진 · 23일~12월 6일 롯데월드몰 지하 1층 · 화이트·실버 갤러리형 공간 · 선착순 기프트·핀뱃지",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=781119"
      },
      {
-      "title": "톱스타뉴스 (11/20) — 미야오 가원 티파니앤코 포토콜 · 에비뉴엘 월드타워점 1층 다이버홀",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16281511"
+      "title": "싱글리스트 (11/18) — 게스 × 현진 2026 윈터 캠페인 · 1990년대 얼터너티브 무드 · 23일부터 롯데월드몰 팝업",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=782756"
      },
      {
-      "title": "스타데일리뉴스 (11/20) — 하우스 오브 아이콘 공개 행사 · 운영 11/20 ~ 2027.1.3",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602734"
-     },
-     {
-      "title": "비하인드 BEHIND (유튜브) — 미야오 가원 오프숄더 드레스 · TiffanyAndCo 포토월",
-      "link": "https://www.youtube.com/watch?v=WTEaFUSpoOw"
+      "title": "GUESS KOREA (유튜브) — GUESS 26 WINTER With HYUNJIN (MAIN ver) · 31초",
+      "link": "https://www.youtube.com/watch?v=4UrhLALlWBM"
      }
     ],
     "by": "claude"
    },
    "shorts": {
-    "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=WTEaFUSpoOw\n구간: 0:08-0:23\n곡: 잠실 티파니 카페\n아티스트: 미야오 *가원*,\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
-    "caption": "미야오 가원이 20일 잠실 롯데백화점 에비뉴엘에 문을 연 티파니앤코 홀리데이 카페 '하우스 오브 아이콘' 공개 행사에 왔습니다.\n\n브랜드가 홀리데이 시즌에 맞춰 꾸린 카페인데요, 이날 포토월에는 블랙 오프숄더 드레스 차림으로 섰습니다. 같은 자리에 박진영과 김도연도 함께했습니다.\n\n기간: 11월 20일(금)부터\n장소: 서울 송파구 롯데백화점 에비뉴엘 월드타워점 1층 다이버홀\n영상: 비하인드 BEHIND\n#SENE #미야오 #가원 #티파니앤코 #잠실",
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=4UrhLALlWBM\n구간: 0:02-0:17\n곡: 게스 겨울 필름\n아티스트: *현진*,\n피처링:\n후킹: \n출처: GUESS KOREA\n자막: 끔",
+    "caption": "스트레이 키즈(@realstraykids) 현진이 얼굴이 된 게스(@guess) 코리아의 2026년 겨울 필름입니다.\n\n이 캠페인을 중심으로 꾸린 팝업이 내일 잠실 롯데월드몰 지하 1층에서 문을 여는데요, 캠페인 비주얼과 데님 제품을 거는 갤러리형 공간입니다. 구매·방문 고객에게 주는 선착순 기프트도 있다고 브랜드는 밝혔습니다.\n\n기간: 11월 23일(월) ~ 12월 6일(일)\n장소: 서울 송파구 롯데월드몰 지하 1층\n영상: GUESS KOREA\n#SENE #현진 #스트레이키즈 #게스 #롯데월드몰팝업",
     "hooks": {
-     "A": "미야오 *가원*, / 잠실 티파니 카페",
-     "B": "*가원*, / 티파니 포토월",
-     "C": "티파니 홀리데이 카페에 / 온 *가원*"
+     "A": "*현진*, / 게스 겨울 필름",
+     "B": "내일 잠실에 여는 / *현진* 게스 팝업",
+     "C": "스트레이 키즈 *현진*의 / 게스 겨울"
     },
     "video": {
-     "url": "https://www.youtube.com/watch?v=WTEaFUSpoOw",
-     "credit": "비하인드 BEHIND",
+     "url": "https://www.youtube.com/watch?v=4UrhLALlWBM",
+     "credit": "GUESS KOREA",
      "range": [
-      8.0,
-      23.0
+      2.0,
+      17.0
      ]
     },
     "guided": {
@@ -104,712 +100,85 @@
     },
     "issues": [],
     "confirm": [
-     "[검증] 캡션의 '〈100일의 거짓말〉' 작품명·'조명' 은 원문 어디에도 없어 뺐다 · 영상은 공식 채널 아닌 언론사(비하인드) 포토콜 영상 — 자막 없음([music]만), 설명란에 가원 포토콜 확인 · 사진 미첨부라 사람·워터마크 확인 못 함",
-     "클립 위험: 중간 — 비하인드 BEHIND · 구간 0:08-0:23 은 자막 없는 포토월이라 시각을 눈으로 못 봤다 — 첫 1초에 가원 얼굴인지 미리보기로",
-     "종료일 2027.1.3 은 스타데일리뉴스 한 곳뿐이라 캡션엔 시작일만 — 티파니·롯데 공지로 확인되면 '~ 1월 3일(일)' 추가 · 운영 시간·예약 방식 미확인 · 사진 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401), 아시아투데이·톱스타뉴스 포토콜 기사 사진을 지정해 둠 — 앱에서 사진 붙일 것"
+     "클립 위험: 낮음 — GUESS KOREA (브랜드 공식) · 31초 필름이라 자막 없음 — 구간 0:02-0:17 은 눈으로 못 봤다, 첫 1초에 현진 얼굴인지 미리보기로",
+     "운영 시간·사전 예약 페이지 주소는 기사에 없어 뺐다 · 사진 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401), @guess 11/19 현진 홀리데이 캠페인 사진을 지정해 둠 — 앱에서 사진 붙일 것",
+     "이어지는 소식 — 11-19에 다룬 소재. 새 사실: 11/19 카드는 예고 — 오늘은 오픈 전날, 게스 코리아 공식 겨울 필름(MAIN ver) 릴스와 선착순 혜택·커스터마이징을 더했다"
     ],
     "research": [
      {
-      "title": "아시아투데이 (11/20) — 가원, 티파니 카페서 손하트 · 핀스트라이프 블랙 오프숄더 드레스 · 에비뉴엘 월드타워점 1층 다이버홀",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008166"
+      "title": "패션비즈 (11/13) — 'THE WINTER – 2026 POP-UP' 11월 23일~12월 6일 롯데월드몰 지하 1층 · 사전 예약 11/12 12시부터, 현장 접수 병행 · 한정판 기프트·핀뱃지·레이저 커스터마이징",
+      "link": "https://fashionbiz.co.kr/article/231077"
      },
      {
-      "title": "아시아투데이 (11/20) — 티파니앤코 홀리데이 카페 오픈 · 스페셜 드링크 · 아이코닉 컬렉션과 전 세계 첫 공개 신규 컬렉션 · 윤여정·박주미·김도연·고현정·가원·박진영 참석",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008169"
+      "title": "싱글리스트 (11/12) — 게스 글로벌 앰버서더 현진 · 23일~12월 6일 롯데월드몰 지하 1층 · 화이트·실버 갤러리형 공간 · 선착순 기프트·핀뱃지",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=781119"
      },
      {
-      "title": "톱스타뉴스 (11/20) — 미야오 가원 티파니앤코 포토콜 · 에비뉴엘 월드타워점 1층 다이버홀",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16281511"
+      "title": "싱글리스트 (11/18) — 게스 × 현진 2026 윈터 캠페인 · 1990년대 얼터너티브 무드 · 23일부터 롯데월드몰 팝업",
+      "link": "https://www.slist.kr/news/articleView.html?idxno=782756"
      },
      {
-      "title": "스타데일리뉴스 (11/20) — 하우스 오브 아이콘 공개 행사 · 운영 11/20 ~ 2027.1.3",
-      "link": "https://www.stardailynews.co.kr/news/articleView.html?idxno=602734"
-     },
-     {
-      "title": "비하인드 BEHIND (유튜브) — 미야오 가원 오프숄더 드레스 · TiffanyAndCo 포토월",
-      "link": "https://www.youtube.com/watch?v=WTEaFUSpoOw"
+      "title": "GUESS KOREA (유튜브) — GUESS 26 WINTER With HYUNJIN (MAIN ver) · 31초",
+      "link": "https://www.youtube.com/watch?v=4UrhLALlWBM"
      }
     ],
-    "thumb": "https://i.ytimg.com/vi/WTEaFUSpoOw/maxresdefault.jpg",
+    "thumb": "https://i.ytimg.com/vi/4UrhLALlWBM/maxresdefault.jpg",
     "render": {
      "status": "queued",
-     "at": "2026-11-21T08:31+09:00"
-    }
-   },
-   "corner_name": "오늘의 순간",
-   "corner_no": 1,
-   "i18n_queued": "2026-11-21T08:31+09:00",
-   "i18n": {
-    "at": "2026-11-21T08:32+09:00",
-    "confirm": [
-     "Tiffany 공식 매장 페이지의 영문 표기는 'House of Icons'(복수형)이고 위치는 롯데월드타워 에비뉴엘 B1층(2024년 12월 개장 매장)입니다. 원문은 '1층 다이버홀'이라 2025년 홀리데이 카페와 같은 공간인지 확인하지 못했습니다 — 층수 확인 필요.",
-     "이번 카페('하우스 오브 아이콘' 홀리데이 카페 · 11월 20일 개장)와 가원·박진영·김도연 참석은 검색으로 확인하지 못했습니다. 원문 그대로 옮겼습니다.",
-     "'다이버홀'의 공식 영문·일문 표기를 찾지 못해 Diver Hall / ダイバーホール 로 임시 표기했습니다.",
-     "박진영이 배우 박진영(GOT7 진영)인지 확인 필요 — 영문 표기 'Park Jinyoung'은 배우 쪽 표기를 따랐습니다. 다른 사람이면 표기를 고쳐야 합니다.",
-     "MEOVV 가원의 공식 표기(영문 GAWON 대문자 여부, 일문 ガウォン)는 소속사 표기로 한 번 더 확인 필요.",
-     "출처: https://nl.tiffany.com/stores/en/korea/house-of-icons-lotte-world-tower-avenuel-b1f-289 · https://www.allkpop.com/article/2024/12/enhypens-sunghoon-jake-meovvs-ella-steal-the-spotlight-at-tiffany-house-of-icons-pop-up-store-in-seoul",
-     "장소 층수 — 티파니 공식 매장 페이지에는 'House of Icons' 매장이 롯데월드타워 에비뉴엘 B1F 로 나와 있음. 이번 홀리데이 카페 위치가 '1층 다이버홀' 이 맞는지 공식 발표로 다시 확인 필요 (원문 한국어판도 같이 봐야 함)",
-     "박진영 — GOT7 진영(배우 박진영)인지 JYP 박진영인지 원문만으로는 알 수 없음. 영어 표기 'Park Jinyoung' 과 일본어 표기가 맞는 사람을 가리키는지 확인 필요",
-     "출처 칸 '비하인드 BEHIND' 와 'Video:/映像:' 줄에 한글이 남아 있음 — 매체 이름은 그대로 두라는 규칙대로 뒀지만, 채널의 공식 영문 표기가 'BEHIND' 하나뿐이라면 영어·일본어판은 그걸로 바꿀지 결정 필요",
-     "'House of Icons' 를 복수로 쓴 것은 티파니 공식 매장 이름과 일치함. 한국어 원문 '하우스 오브 아이콘' 은 단수라 한국어판 표기도 맞출지 검토 필요",
-     "영어판 출처에 한글이 남음",
-     "영어판 숏폼 캡션에 한글이 남음",
-     "일본어판 출처에 한글이 남음",
-     "일본어판 숏폼 캡션에 한글이 남음"
-    ],
-    "review": {
-     "at": "2026-11-21T08:32+09:00",
-     "fixes": [
-      "영어 · 캡션 둘째 단락 · it is decorated with pieces that reinterpret → its decor reinterprets — 'pieces' 가 주얼리 작품으로도 읽혀서 원문의 '장식' 으로 뜻을 하나로 맞춤",
-      "영어 · 캡션 둘째 단락 · stepped onto the photo wall → posed at the photo wall — 'step onto a wall' 은 영어로 말이 안 되는 연어라 숏폼 캡션과 같은 표현으로 바꿈",
-      "영어 · 캡션 셋째 단락 · the café shows → the café displays — 주얼리 전시에 맞는 동사로 바꿈"
-     ],
-     "doubt": [
-      "장소 층수 — 티파니 공식 매장 페이지에는 'House of Icons' 매장이 롯데월드타워 에비뉴엘 B1F 로 나와 있음. 이번 홀리데이 카페 위치가 '1층 다이버홀' 이 맞는지 공식 발표로 다시 확인 필요 (원문 한국어판도 같이 봐야 함)",
-      "박진영 — GOT7 진영(배우 박진영)인지 JYP 박진영인지 원문만으로는 알 수 없음. 영어 표기 'Park Jinyoung' 과 일본어 표기가 맞는 사람을 가리키는지 확인 필요",
-      "출처 칸 '비하인드 BEHIND' 와 'Video:/映像:' 줄에 한글이 남아 있음 — 매체 이름은 그대로 두라는 규칙대로 뒀지만, 채널의 공식 영문 표기가 'BEHIND' 하나뿐이라면 영어·일본어판은 그걸로 바꿀지 결정 필요",
-      "'House of Icons' 를 복수로 쓴 것은 티파니 공식 매장 이름과 일치함. 한국어 원문 '하우스 오브 아이콘' 은 단수라 한국어판 표기도 맞출지 검토 필요",
-      "영어판 출처에 한글이 남음",
-      "영어판 숏폼 캡션에 한글이 남음",
-      "일본어판 출처에 한글이 남음",
-      "일본어판 숏폼 캡션에 한글이 남음"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nMEOVV's Gawon visited the Tiffany & Co. holiday café that opened in Jamsil on the 20th.\n\nThe café is called House of Icons, and its decor reinterprets jewelry designer Jean Schlumberger's Bird on a Rock motif with a contemporary touch. Park Jinyoung and Kim Doyeon also attended the opening event, where Gawon posed at the photo wall in a black pinstripe off-the-shoulder dress.\n\nAlongside special drinks, the café displays Tiffany & Co.'s signature jewelry and a new collection the brand says is being unveiled here for the first time anywhere in the world.\n\nDates: From Fri, Nov 20\nLocation: Diver Hall, 1F, Lotte Department Store Avenuel World Tower, Songpa-gu, Seoul\n#SENE #MEOVV #Gawon #TiffanyAndCo #Jamsil\n\n[커버]\n소스: \n제목: MEOVV's Gawon at|Tiffany Café in Jamsil\n부제: Avenuel World Tower, 1F · From Nov 20\n출처: \n",
-      "caption": "MEOVV's Gawon visited the Tiffany & Co. holiday café that opened in Jamsil on the 20th.\n\nThe café is called House of Icons, and its decor reinterprets jewelry designer Jean Schlumberger's Bird on a Rock motif with a contemporary touch. Park Jinyoung and Kim Doyeon also attended the opening event, where Gawon posed at the photo wall in a black pinstripe off-the-shoulder dress.\n\nAlongside special drinks, the café displays Tiffany & Co.'s signature jewelry and a new collection the brand says is being unveiled here for the first time anywhere in the world.\n\nDates: From Fri, Nov 20\nLocation: Diver Hall, 1F, Lotte Department Store Avenuel World Tower, Songpa-gu, Seoul\n#SENE #MEOVV #Gawon #TiffanyAndCo #Jamsil",
-      "preview": null
-     },
-     "shorts": {
-      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=WTEaFUSpoOw\n구간: 0:08-0:23\n곡: Tiffany Café, Jamsil\n아티스트: MEOVV *Gawon*,\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
-      "caption": "MEOVV's Gawon attended the opening event for House of Icons, the Tiffany & Co. holiday café that opened on the 20th at Lotte Department Store Avenuel in Jamsil.\n\nThe brand set up the café for the holiday season, and Gawon posed at the photo wall in a black off-the-shoulder dress. Park Jinyoung and Kim Doyeon were also there.\n\nDates: From Fri, Nov 20\nLocation: Diver Hall, 1F, Lotte Department Store Avenuel World Tower, Songpa-gu, Seoul\nVideo: 비하인드 BEHIND\n#SENE #MEOVV #Gawon #TiffanyAndCo #Jamsil"
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nMEOVVのガウォン（가원）が、20日にソウル・蚕室（チャムシル）にオープンしたティファニーのホリデーカフェを訪れました。\n\n「ハウス オブ アイコンズ」という名前のカフェで、ジュエリーデザイナー、ジャン・シュランバージェの「バード オン ア ロック」のモチーフを今の感覚で再解釈した装飾で彩られています。この日のお披露目イベントにはパク・ジニョン（박진영）とキム・ドヨン（김도연）も登場し、ガウォンはピンストライプのブラックのオフショルダードレス姿でフォトウォールに立ちました。\n\nカフェではスペシャルドリンクとともに、ティファニーの代表的なジュエリー、そしてブランドが世界で初めて公開するとしている新コレクションを見ることができます。\n\n期間：11月20日（金）から\n場所：ソウル・松坡区（ソンパグ） ロッテ百貨店 アベニュエル ワールドタワー店 1階 ダイバーホール\n#SENE #MEOVV #ガウォン #ティファニー #蚕室 #韓国旅行\n\n[커버]\n소스: \n제목: MEOVV ガウォン、|蚕室のティファニーカフェ\n부제: アベニュエル ワールドタワー店1階・11月20日から\n출처: \n",
-      "caption": "MEOVVのガウォン（가원）が、20日にソウル・蚕室（チャムシル）にオープンしたティファニーのホリデーカフェを訪れました。\n\n「ハウス オブ アイコンズ」という名前のカフェで、ジュエリーデザイナー、ジャン・シュランバージェの「バード オン ア ロック」のモチーフを今の感覚で再解釈した装飾で彩られています。この日のお披露目イベントにはパク・ジニョン（박진영）とキム・ドヨン（김도연）も登場し、ガウォンはピンストライプのブラックのオフショルダードレス姿でフォトウォールに立ちました。\n\nカフェではスペシャルドリンクとともに、ティファニーの代表的なジュエリー、そしてブランドが世界で初めて公開するとしている新コレクションを見ることができます。\n\n期間：11月20日（金）から\n場所：ソウル・松坡区（ソンパグ） ロッテ百貨店 アベニュエル ワールドタワー店 1階 ダイバーホール\n#SENE #MEOVV #ガウォン #ティファニー #蚕室 #韓国旅行",
-      "preview": null
-     },
-     "shorts": {
-      "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=WTEaFUSpoOw\n구간: 0:08-0:23\n곡: 蚕室ティファニーカフェ\n아티스트: MEOVV *ガウォン*、\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
-      "caption": "MEOVVのガウォン（가원）が、20日にソウル・蚕室（チャムシル）のロッテ百貨店アベニュエルにオープンしたティファニーのホリデーカフェ「ハウス オブ アイコンズ」のお披露目イベントに登場しました。\n\nブランドがホリデーシーズンに合わせて用意したカフェで、この日ガウォンはブラックのオフショルダードレス姿でフォトウォールに立ちました。同じ場にはパク・ジニョンとキム・ドヨンも姿を見せました。\n\n期間：11月20日（金）から\n場所：ソウル・松坡区（ソンパグ） ロッテ百貨店 アベニュエル ワールドタワー店 1階 ダイバーホール\n映像：비하인드 BEHIND\n#SENE #MEOVV #ガウォン #ティファニー #蚕室 #韓国旅行"
-     }
-    }
-   },
-   "pick": {
-    "rank": 3,
-    "why": "케이팝 연결 · 이번 주말부터 일반 손님이 가는 잠실 카페 — 카드와 숏폼 둘 다",
-    "at": "2026-11-21T17:44+09:00"
-   }
-  },
-  {
-   "source": {
-    "id": "claude:lisa-f1-pretty-fast-korea",
-    "account": "MK스포츠 · 스포츠월드 · 마리끌레르 코리아",
-    "url": "https://www.mksports.co.kr/news/sports/12214456",
-    "image": null,
-    "head": "리사 × F1 'Pretty Fast' 11/20 한국 시간 공개 · 국내 파나틱스 코리아 공식 온라인 스토어 단독 · 레이싱 재킷·후디·티셔츠",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-21T08:29+09:00",
-   "key": "e3cf6774",
-   "by": "claude",
-   "subjects": [
-    "리사",
-    "F1"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "소식 — 리사가 크리에이티브를 이끈 F1 의류 컬렉션 'Pretty Fast', 11/20 공개 · 국내는 파나틱스 코리아 공식 온라인 스토어 단독",
-    "why": "기획안 slot mo · 케이팝 큰 이름 · 국내 구매처가 정해진 첫날"
-   },
-   "added": "claude",
-   "added_at": "2026-11-21T08:29+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n패션\n\n[캡션]\n블랙핑크 리사가 디자인을 이끈 F1 의류 컬렉션 'Pretty Fast' 가 20일 공개됐습니다.\n\nF1 공식 의류 협업에서 아티스트가 크리에이티브를 맡은 건 이번이 처음인데요, 레이싱에서 가져온 그래픽과 옛 모터스포츠의 분위기를 지금의 실루엣으로 다시 풀었습니다.\n\n레이싱 재킷과 후디, 티셔츠에 볼캡과 토트백, 헬멧까지 나왔습니다. 국내에서는 파나틱스 코리아 공식 온라인 스토어에서 팝니다.\n\n공개: 11월 20일(금) 한국 시간\n판매: 파나틱스 코리아 공식 온라인 스토어\n구성: 레이싱 재킷 · 풀오버 후디 · 티셔츠 · 볼캡 · 레이싱 토트 · 헬멧\n#SENE #리사 #블랙핑크 #F1 #프리티패스트\n\n[커버]\n소스: \n제목: 리사가 만든 F1 옷,|국내는 파나틱스\n부제: 'Pretty Fast' · 11월 20일 공개\n출처:\n",
-    "caption": "블랙핑크 리사가 디자인을 이끈 F1 의류 컬렉션 'Pretty Fast' 가 20일 공개됐습니다.\n\nF1 공식 의류 협업에서 아티스트가 크리에이티브를 맡은 건 이번이 처음인데요, 레이싱에서 가져온 그래픽과 옛 모터스포츠의 분위기를 지금의 실루엣으로 다시 풀었습니다.\n\n레이싱 재킷과 후디, 티셔츠에 볼캡과 토트백, 헬멧까지 나왔습니다. 국내에서는 파나틱스 코리아 공식 온라인 스토어에서 팝니다.\n\n공개: 11월 20일(금) 한국 시간\n판매: 파나틱스 코리아 공식 온라인 스토어\n구성: 레이싱 재킷 · 풀오버 후디 · 티셔츠 · 볼캡 · 레이싱 토트 · 헬멧\n#SENE #리사 #블랙핑크 #F1 #프리티패스트",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "리사가 만든 F1 옷,|국내는 파나틱스",
-      "sub": "'Pretty Fast' · 11월 20일 공개"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "블랙핑크 리사,|F1 컬렉션을 이끌다",
-      "sub": "국내는 파나틱스 코리아에서"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] '국내 단독'·해외 판매처(리사 공식 웹사이트·F1 공식 스토어)는 각각 한 매체(스포츠월드·마리끌레르)에만 있어 캡션·표지에서 뺐다 — 파나틱스 코리아·F1 공지로 확인되면 되살릴 것 · '리사의 감각으로' 는 원문에 없어 '지금의 실루엣으로' 로 바꿈",
-     "국내 원화 가격 미확인 — 파나틱스 코리아 상품 페이지에서 확인되면 캡션에 한 줄 (해외 매체엔 재킷 300달러 · 티셔츠 60달러) · 사진 빠짐 — 호스팅 실패, MK스포츠 기사 사진은 660px 로 해상도 미달 — 앱에서 F1 배포 사진 붙일 것",
-     "숏폼 소스 없음 — 'LISA Pretty Fast F1' · 'FORMULA 1 LISA Pretty Fast collection official' 로 찾았으나 F1·리사 공식 채널 영상 없음 (팬·해외 뉴스 채널뿐)",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "MK스포츠 (11/20) — 국내 파나틱스 코리아 공식 온라인 스토어 · 레이싱 재킷·풀오버 후디·유니섹스 티셔츠 · 1:2 미니 헬멧·풀사이즈 레플리카 헬멧·볼캡·패딩 레이싱 토트·텀블러 · F1 의류 협업 첫 아티스트 크리에이티브",
-      "link": "https://www.mksports.co.kr/news/sports/12214456"
-     },
-     {
-      "title": "스포츠월드 (11/20) — F1, 리사와 아티스트 메인 첫 어패럴 컬렉션 · 파나틱스 코리아 단독 · 11/20 한국 시간",
-      "link": "https://www.sportsworldi.com/newsView/20261120507454?OutUrl=google"
-     },
-     {
-      "title": "마리끌레르 코리아 — 글로벌 11/19 · 국내 11/20 파나틱스 코리아 · 리사 공식 웹사이트·F1 공식 스토어·라스베이거스 현장",
-      "link": "https://www.marieclairekorea.com/fashion/2026/11/f1/"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식",
-   "i18n_queued": "2026-11-21T08:31+09:00",
-   "i18n": {
-    "at": "2026-11-21T08:33+09:00",
-    "confirm": [
-     "검색으로 'Pretty Fast' 컬렉션 자체를 확인하지 못했습니다 — 리사·F1·파나틱스 공식 발표에서 컬렉션 영문 표기(대소문자)와 공개일을 다시 확인해 주세요.",
-     "'F1 공식 의류 협업에서 아티스트가 크리에이티브를 맡은 첫 사례'는 원문 그대로 옮겼습니다 — 공식 출처의 표현과 맞는지 확인이 필요합니다.",
-     "'Fanatics Korea' 영문 표기와 일본어 'ファナティクス・コリア' 표기는 공식 표기를 확인하지 못해 관례 표기로 썼습니다.",
-     "해시태그(#PrettyFast 등)는 실제 영어·일본어 독자 검색량을 확인하지 않았습니다.",
-     "컬렉션 이름 'Pretty Fast'와 파나틱스 코리아 판매 정보를 웹 검색으로 확인하지 못함 — 올리기 전에 공식 표기(대소문자·따옴표)와 판매처를 F1·파나틱스 공식 발표로 다시 확인할 것",
-     "'F1 공식 의류 협업에서 아티스트가 크리에이티브를 맡은 건 처음'이라는 '최초' 주장 — 원문 근거(공식 발표 문장)가 있는지 확인 필요"
-    ],
-    "review": {
-     "at": "2026-11-21T08:33+09:00",
-     "fixes": [
-      "영어 · 캡션 첫 문장 · on the 20th → on Nov 20 — 영어권 독자에게 '20일'만으로는 몇 월인지 바로 안 읽힘"
-     ],
-     "doubt": [
-      "컬렉션 이름 'Pretty Fast'와 파나틱스 코리아 판매 정보를 웹 검색으로 확인하지 못함 — 올리기 전에 공식 표기(대소문자·따옴표)와 판매처를 F1·파나틱스 공식 발표로 다시 확인할 것",
-      "'F1 공식 의류 협업에서 아티스트가 크리에이티브를 맡은 건 처음'이라는 '최초' 주장 — 원문 근거(공식 발표 문장)가 있는지 확인 필요"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\n'Pretty Fast', an F1 apparel collection with design led by BLACKPINK's LISA, was released on Nov 20.\n\nIt is the first time an artist has taken creative charge of an official F1 apparel collaboration. The collection reworks racing graphics and the feel of vintage motorsport into today's silhouettes.\n\nThe lineup includes racing jackets, hoodies and T-shirts, plus ball caps, tote bags and a helmet. In Korea, it is sold through the Fanatics Korea official online store.\n\nRelease: Fri, Nov 20 (Korea time)\nWhere to buy: Fanatics Korea official online store\nLineup: Racing jacket · Pullover hoodie · T-shirt · Ball cap · Racing tote · Helmet\n#SENE #LISA #BLACKPINK #F1 #PrettyFast\n\n[커버]\n소스: \n제목: LISA's F1 Collection,|Sold in Korea by Fanatics\n부제: 'Pretty Fast' · Released Nov 20\n출처: \n",
-      "caption": "'Pretty Fast', an F1 apparel collection with design led by BLACKPINK's LISA, was released on Nov 20.\n\nIt is the first time an artist has taken creative charge of an official F1 apparel collaboration. The collection reworks racing graphics and the feel of vintage motorsport into today's silhouettes.\n\nThe lineup includes racing jackets, hoodies and T-shirts, plus ball caps, tote bags and a helmet. In Korea, it is sold through the Fanatics Korea official online store.\n\nRelease: Fri, Nov 20 (Korea time)\nWhere to buy: Fanatics Korea official online store\nLineup: Racing jacket · Pullover hoodie · T-shirt · Ball cap · Racing tote · Helmet\n#SENE #LISA #BLACKPINK #F1 #PrettyFast",
-      "preview": null
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n패션\n\n[캡션]\nBLACKPINKのリサ（LISA）がデザインを率いたF1のアパレルコレクション『Pretty Fast』が20日に公開されました。\n\nF1公式アパレルのコラボレーションで、アーティストがクリエイティブを担当するのは今回が初めてです。レースから取り入れたグラフィックと往年のモータースポーツの雰囲気を、今のシルエットで描き直しています。\n\nレーシングジャケットやフーディー、Tシャツに加え、キャップ、トートバッグ、ヘルメットまでそろいます。韓国ではファナティクス・コリア（Fanatics Korea）の公式オンラインストアで販売されます。\n\n公開：11月20日（金）韓国時間\n販売：ファナティクス・コリア公式オンラインストア\n構成：レーシングジャケット・プルオーバーフーディー・Tシャツ・キャップ・レーシングトート・ヘルメット\n#SENE #LISA #リサ #BLACKPINK #F1\n\n[커버]\n소스: \n제목: リサが手がけたF1ウェア、|韓国ではファナティクス\n부제: 『Pretty Fast』・11月20日公開\n출처: \n",
-      "caption": "BLACKPINKのリサ（LISA）がデザインを率いたF1のアパレルコレクション『Pretty Fast』が20日に公開されました。\n\nF1公式アパレルのコラボレーションで、アーティストがクリエイティブを担当するのは今回が初めてです。レースから取り入れたグラフィックと往年のモータースポーツの雰囲気を、今のシルエットで描き直しています。\n\nレーシングジャケットやフーディー、Tシャツに加え、キャップ、トートバッグ、ヘルメットまでそろいます。韓国ではファナティクス・コリア（Fanatics Korea）の公式オンラインストアで販売されます。\n\n公開：11月20日（金）韓国時間\n販売：ファナティクス・コリア公式オンラインストア\n構成：レーシングジャケット・プルオーバーフーディー・Tシャツ・キャップ・レーシングトート・ヘルメット\n#SENE #LISA #リサ #BLACKPINK #F1",
-      "preview": null
-     }
-    }
-   }
-  },
-  {
-   "source": {
-    "id": "claude:brk-b1d5f353",
-    "account": "@속보",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1CMnYzZklPeHhWYnFoenNTc0ZKQkYtMXhmaThUZXUtUXNTSVpLeC1qeU4yemxwUkhZMVlLVnMzbnZId21WM1hPMUNnXzdUVUJTdEVhT01LVWZBUHNJZXRR?oc=5",
-    "image": null,
-    "head": "강남·용산을 거친 무민 팝업이 잠실 롯데월드몰에서 24일까지",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-21T08:40+09:00",
-   "key": "c45417f1",
-   "by": "claude",
-   "subjects": [
-    "무민"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "서울을 도는 무민 팝업의 세 번째 장소 잠실 — 24일(화) 종료 전 마지막 주말",
-    "why": "백화점 주말 팝업 기사(뉴시스·연합뉴스)에 함께 실렸고, 종료가 사흘 남아 이번 주말에 갈 수 있는 소식"
-   },
-   "added": "claude",
-   "added_at": "2026-11-21T08:40+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n핀란드 캐릭터 무민(@moominshop_kr)의 팝업스토어가 잠실 롯데월드몰에서 24일까지 열립니다.\n\n올해 서울을 차례로 돌고 있는 팝업인데요, 8월 신세계백화점 강남점과 10월 아이파크몰 용산점을 거쳐 세 번째로 잠실에 자리를 잡았습니다.\n\n잠실 매장에는 패브릭 캘린더와 머그·플레이트 세트 같은 생활용품, 포근한 의류가 나왔습니다. 국내 무민 리테일을 맡은 대원미디어는 2027년 상설 매장 '무민 공식 숍'을 열 계획이라고 밝혀 왔습니다.\n\n기간: 11월 24일(화)까지\n장소: 서울 송파구 롯데월드몰 지하 1층 (잠실)\n\n#SENE #무민 #무민팝업 #잠실팝업 #롯데월드몰\n\n[커버]\n소스: \n제목: 무민 팝업, 잠실에서|24일까지\n부제: 강남·용산 거쳐 롯데월드몰로\n출처:\n",
-    "caption": "핀란드 캐릭터 무민(@moominshop_kr)의 팝업스토어가 잠실 롯데월드몰에서 24일까지 열립니다.\n\n올해 서울을 차례로 돌고 있는 팝업인데요, 8월 신세계백화점 강남점과 10월 아이파크몰 용산점을 거쳐 세 번째로 잠실에 자리를 잡았습니다.\n\n잠실 매장에는 패브릭 캘린더와 머그·플레이트 세트 같은 생활용품, 포근한 의류가 나왔습니다. 국내 무민 리테일을 맡은 대원미디어는 2027년 상설 매장 '무민 공식 숍'을 열 계획이라고 밝혀 왔습니다.\n\n기간: 11월 24일(화)까지\n장소: 서울 송파구 롯데월드몰 지하 1층 (잠실)\n\n#SENE #무민 #무민팝업 #잠실팝업 #롯데월드몰",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "무민 팝업, 잠실에서|24일까지",
-      "sub": "강남·용산 거쳐 롯데월드몰로"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "강남·용산 거친 무민|이번엔 잠실",
-      "sub": "롯데월드몰 · 11월 24일까지"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "무민 팝업 잠실점|캘린더·머그까지",
-      "sub": "패브릭 캘린더 · 머그 · 플레이트 세트"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 미리보기 표지에 사진이 안 들어가고 글자만 나옴 (Cloudinary 401로 사진 업로드 실패) — 사진 들어간 표지로 다시 만들 것",
-     "[검증] '잠실 단독 굿즈'는 기사에 없고 @moominshop_kr 게시물을 열 수 없어 '잠실에서만'·'단독' 표현을 뺌 — 공식 계정에서 단독 MD 확인되면 다시 넣을 것",
-     "숏폼 비움 — 유튜브에 공식 영상이 없음(개인 브이로그뿐), 공식 릴스는 인스타라 원본으로 못 씀",
-     "24일 종료는 뉴시스·연합뉴스 기준 — 올리기 전 @moominshop_kr 최신 공지로 연장 여부 확인",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "K-팝의 현재, 백화점서 확인한다…마마·에이티즈 팝업[위클리 쇼핑] - 뉴시스",
-      "link": "https://www.newsis.com/view/NISX20261120_0003877142"
-     },
-     {
-      "title": "[이번주뭘살까] 백화점 K-팝·다마고치 팝업…제철 수산물 할인 - 연합뉴스(뉴스통 게재)",
-      "link": "https://www.newstong.co.kr/view3.aspx?seq=14831083"
-     },
-     {
-      "title": "대원미디어, 신세계 강남점에 '무민(MOOMIN)' 팝업스토어 오픈 - KPI뉴스",
-      "link": "https://www.kpinews.kr/newsView/1065606505451571"
-     },
-     {
-      "title": "일본 공식 굿즈 232종 국내 첫선…신세계 강남에 '무민 골짜기' 열린다 - 뉴스탭",
-      "link": "https://www.newstap.co.kr/news/articleView.html?idxno=331855"
-     },
-     {
-      "title": "무민 공식 인스타그램 @moominshop_kr (11/02 잠실 예고 · 11/11 잠실 오픈·단독 MD 공개)",
-      "link": "https://www.instagram.com/moominshop_kr/"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식"
-  },
-  {
-   "source": {
-    "id": "claude:brk-eb45f77d",
-    "account": "@속보",
-    "url": "https://www.segye.com/newsView/20261121502244?OutUrl=naver",
-    "image": null,
-    "head": "팔도비빔면 윈터에디션 — 계란탕 분말 스프 별첨, 300만 개 한정, 여덟 번째 겨울 한정판",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-21T08:44+09:00",
-   "key": "1ab09023",
-   "by": "claude",
-   "subjects": [
-    "팔도비빔면"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "차가운 비빔면이 계란탕 스프를 넣은 여덟 번째 겨울 한정판으로 돌아왔다",
-    "why": "11/19 팔도 발표 뒤 겨울 한정판 경쟁 기사가 이어지고 있는 푸드 신제품 — 300만 개 한정"
-   },
-   "added": "claude",
-   "added_at": "2026-11-21T08:44+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n푸드\n\n[캡션]\n팔도비빔면이 계란탕 스프를 넣은 겨울 한정판으로 돌아왔습니다.\n\n차갑게 비벼 먹는 면인데요, 이번 '팔도비빔면 윈터에디션'에는 계란탕 분말 스프가 따로 들어 있습니다. 비빔면을 조리한 뒤 종이컵 한 컵 분량의 따뜻한 물에 스프를 풀면 계란탕 국물이 됩니다.\n\n팔도가 내는 여덟 번째 겨울 한정판으로, 팔도는 앞서 나온 시즌 에디션이 모두 완판됐다고 밝혔습니다. 차가운 면 옆에 따뜻한 국물 한 그릇이 놓이는 구성입니다.\n\n수량: 300만 개 한정 (팔도 발표 기준)\n구성: 비빔면 + 계란탕 분말 스프\n발표: 11월 19일\n#SENE #팔도비빔면 #윈터에디션 #겨울한정판 #계란탕\n\n[커버]\n소스: \n제목: 팔도비빔면에|계란탕 스프가 들었다\n부제: 여덟 번째 겨울 한정판 · 300만 개\n출처:\n",
-    "caption": "팔도비빔면이 계란탕 스프를 넣은 겨울 한정판으로 돌아왔습니다.\n\n차갑게 비벼 먹는 면인데요, 이번 '팔도비빔면 윈터에디션'에는 계란탕 분말 스프가 따로 들어 있습니다. 비빔면을 조리한 뒤 종이컵 한 컵 분량의 따뜻한 물에 스프를 풀면 계란탕 국물이 됩니다.\n\n팔도가 내는 여덟 번째 겨울 한정판으로, 팔도는 앞서 나온 시즌 에디션이 모두 완판됐다고 밝혔습니다. 차가운 면 옆에 따뜻한 국물 한 그릇이 놓이는 구성입니다.\n\n수량: 300만 개 한정 (팔도 발표 기준)\n구성: 비빔면 + 계란탕 분말 스프\n발표: 11월 19일\n#SENE #팔도비빔면 #윈터에디션 #겨울한정판 #계란탕",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "팔도비빔면에|계란탕 스프가 들었다",
-      "sub": "여덟 번째 겨울 한정판 · 300만 개"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "차가운 비빔면 옆에|계란탕 한 그릇",
-      "sub": "팔도비빔면 윈터에디션"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "팔도비빔면 윈터에디션|300만 개 한정",
-      "sub": "계란탕 분말 스프 별첨"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 사실(300만 개·8번째·종이컵 한 컵·시즌 에디션 완판·11/19 발표)은 아시아경제·인사이트와 일치. 미리보기 표지에 사진이 없음 — 이미지 호스트(Cloudinary) 401 오류와 600x400 해상도 미달 사진 탓으로 보임. 앱에서 표지 사진을 넣고 출시일·가격·판매처는 원문에 없어 비워 둠",
-     "미리보기 표지에 사진이 안 보입니다 — 앱에서 표지 사진(@paldofood 11/19 릴스 썸네일 · 팔도 제공 보도사진)이 들어갔는지 확인",
-     "숏폼 비움 — 유튜브의 팔도 공식 윈터에디션 영상은 2021년 어묵국물판이라 올해 제품이 아님 (올해 영상은 @paldofood 릴스뿐)",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "비빔면에 계란탕, 죽 그릇엔 초코케이크…유통업계 겨울 한정판 경쟁 (세계일보)",
-      "link": "https://www.segye.com/newsView/20261121502244?OutUrl=naver"
-     },
-     {
-      "title": "[오늘의신상] \"따뜻한 계란탕과 함께\"…'팔도비빔면 윈터에디션' (아시아경제)",
-      "link": "https://view.asiae.co.kr/article/2026111908380490931"
-     },
-     {
-      "title": "차가운 비빔면에 따뜻한 계란탕...팔도, 겨울 한정판 300만 개 출시 (소비자경제)",
-      "link": "http://www.dailycnc.com/news/articleView.html?idxno=245702"
-     },
-     {
-      "title": "차가운 비빔면에 뜨끈한 계란탕까지... 팔도비빔면 윈터에디션 300만개 한정 출시 (인사이트)",
-      "link": "https://www.insight.co.kr/news/582728"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식"
-  },
-  {
-   "source": {
-    "id": "claude:brk-cbaf079d",
-    "account": "@속보",
-    "url": "https://blog.naver.com/kkkkk71524/224485606053",
-    "image": null,
-    "head": "더현대 크리스마스 빌리지 2차 예약 마감, 남은 길은 2~4층 QR 현장 웨이팅",
-    "multiple": null,
-    "is_reel": true,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-21T08:53+09:00",
-   "key": "037e2109",
-   "by": "claude",
-   "subjects": [
-    "더현대 서울"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "예약을 놓쳤다면 — 더현대 크리스마스 빌리지 2~4층 QR 현장 웨이팅",
-    "why": "2차 예약분(11/27~12/9)이 11/19 마감돼 예약 놓친 사람들의 현장 입장 검색이 몰리는 주말"
-   },
-   "added": "claude",
-   "added_at": "2026-11-21T08:53+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n더현대 서울(@thehyundai_seoul) 크리스마스 빌리지는 예약이 없어도 들어갈 길이 있습니다.\n\n빌리지는 사전 예약제로 운영되는데요, 예약을 놓쳤다면 더현대 서울 2층부터 4층까지 층마다 놓인 QR코드로 현장 대기를 걸 수 있습니다.\n\n올해 마을의 주제는 'Christmas in New York City'입니다. 5층 사운즈 포레스트에 붉은 벽돌로 마감한 최대 10m 높이 건물 13개동이 서고, 빌보드와 네온사인, 노란 택시가 1980~90년대 뉴욕 거리를 옮겨 놓았습니다.\n\n기간: 11월 10일(화) ~ 12월 31일(목)\n장소: 서울 영등포구 여의대로 108 더현대 서울 5층 사운즈 포레스트\n입장: 사전 예약 · 현장 웨이팅은 2~4층 QR코드\n#SENE #더현대서울 #크리스마스빌리지 #여의도 #크리스마스마켓\n\n[커버]\n소스: \n제목: 더현대 크리스마스|예약 없이 가는 법\n부제: 2~4층 QR코드로 현장 웨이팅\n출처:\n",
-    "caption": "더현대 서울(@thehyundai_seoul) 크리스마스 빌리지는 예약이 없어도 들어갈 길이 있습니다.\n\n빌리지는 사전 예약제로 운영되는데요, 예약을 놓쳤다면 더현대 서울 2층부터 4층까지 층마다 놓인 QR코드로 현장 대기를 걸 수 있습니다.\n\n올해 마을의 주제는 'Christmas in New York City'입니다. 5층 사운즈 포레스트에 붉은 벽돌로 마감한 최대 10m 높이 건물 13개동이 서고, 빌보드와 네온사인, 노란 택시가 1980~90년대 뉴욕 거리를 옮겨 놓았습니다.\n\n기간: 11월 10일(화) ~ 12월 31일(목)\n장소: 서울 영등포구 여의대로 108 더현대 서울 5층 사운즈 포레스트\n입장: 사전 예약 · 현장 웨이팅은 2~4층 QR코드\n#SENE #더현대서울 #크리스마스빌리지 #여의도 #크리스마스마켓",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "더현대 크리스마스|예약 없이 가는 법",
-      "sub": "2~4층 QR코드로 현장 웨이팅"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "예약 못 했다면|2~4층 QR코드로",
-      "sub": "더현대 서울 크리스마스 빌리지 현장 웨이팅"
-     },
-     {
-      "key": "C",
-      "hook": "다른 안",
-      "title": "더현대 5층에 들어선|8090 뉴욕 거리",
-      "sub": "12월 31일까지"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 표지에 사진이 안 붙음 — 인스타 사진 2장 업로드 실패(Cloudinary 401), 기사 사진 3장은 해상도 미달. 더현대 서울 공식 사진을 다시 넣을 것",
-     "[검증] '2차 사전 예약 마감(11/19)'은 공식 공지·기사로 확인 못 함 — 블로그들은 11/19을 2차 예약 '오픈일'(관람 11/27~12/9)로 적음. 캡션·표지·후킹에서 2차 예약 마감 문장을 빼고 현장 QR 웨이팅(이투데이·한경·핀포인트) 중심으로 고침. 더현대 서울 인스타 공지로 2차 일정·마감을 확인하면 다시 넣을 것",
-     "[검증] 운영 시간(10:30~19:30)·휴무일(11/26·12/18)·입장 무료는 금강일보 한 곳에만 있어 실용 정보에서 뺌 — 공식 공지로 확인되면 다시 넣을 것",
-     "클립 위험: 중간 — 뜨로렌즈 ThroughLenss Korea (개인 4K 워킹 영상, 말 없음) · 0:20-0:38 장면에 빌리지 거리가 잘 보이는지",
-     "운영 시간(10:30~19:30)·휴무일(11/26·12/18)은 금강일보 기사 기준 — 더현대 서울 공식 인스타 11/12 공지와 대조",
-     "이어지는 소식 — 11-20에 다룬 소재. 새 사실: 어제 글은 빌리지 안 베즐리 팝업 — 오늘은 빌리지 자체의 2차 사전 예약 마감(11/19 공식 공지)과 2~4층 QR 현장 웨이팅",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "더현대 서울 공식 인스타그램 — 2차 사전 예약 마감 안내 (11/19)",
-      "link": "https://www.instagram.com/thehyundai_seoul/"
-     },
-     {
-      "title": "한국경제 — 여기가 뉴욕이야 서울이야…크리스마스 예약 전쟁 벌어진 곳 (11/05)",
-      "link": "https://www.hankyung.com/article/202611058663g"
-     },
-     {
-      "title": "이투데이 — 현대백화점, 8090 뉴욕 크리스마스 거리로 변신 (10/30)",
-      "link": "https://www.etoday.co.kr/news/view/2642093"
-     },
-     {
-      "title": "금강일보 — 더현대 서울, '크리스마스 빌리지' 사전예약 시작 (11/04)",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1191238"
-     },
-     {
-      "title": "세계일보 — 더현대 서울에 '크리스마스 인 뉴욕 시티' (11/09)",
-      "link": "https://www.segye.com/newsView/20261109515475"
-     },
-     {
-      "title": "뜨로렌즈 ThroughLenss Korea — 2026 더현대 서울 크리스마스 빌리지 4K",
-      "link": "https://www.youtube.com/watch?v=1gxkFySy_tA"
-     }
-    ],
-    "by": "claude"
-   },
-   "shorts": {
-    "form": "[영상]\n카테고리: 공간\nURL: https://www.youtube.com/watch?v=1gxkFySy_tA\n구간: 0:20-0:38\n곡: *뉴욕* 크리스마스 거리\n아티스트: 여의도에 옮겨 온\n피처링:\n후킹: \n출처: 뜨로렌즈 ThroughLenss Korea\n자막: 끔",
-    "caption": "더현대 서울(@thehyundai_seoul) 5층에 1980~90년대 뉴욕 거리가 들어섰습니다.\n\n올해 크리스마스 빌리지의 주제는 'Christmas in New York City'인데요, 붉은 벽돌로 마감한 최대 10m 높이 건물 13개동 사이로 빌보드와 네온사인, 노란 택시가 놓였습니다.\n\n빌리지는 사전 예약제로 운영되고, 예약을 놓쳤다면 더현대 서울 2층부터 4층까지 층마다 놓인 QR코드로 현장 대기를 걸 수 있습니다. 영상은 뜨로렌즈 ThroughLenss Korea 가 빌리지 안을 걸으며 찍은 장면입니다.\n\n기간: 11월 10일(화) ~ 12월 31일(목)\n장소: 서울 영등포구 여의대로 108 더현대 서울 5층 사운즈 포레스트\n입장: 사전 예약 · 현장 웨이팅은 2~4층 QR코드\n#SENE #더현대서울 #크리스마스빌리지 #여의도 #크리스마스마켓",
-    "hooks": {
-     "A": "여의도에 옮겨 온 / *뉴욕* 크리스마스 거리",
-     "B": "예약 못 했다면 / *QR코드*로 현장 웨이팅",
-     "C": "노란 택시와 네온 / *붉은 벽돌* 골목"
-    },
-    "video": {
-     "url": "https://www.youtube.com/watch?v=1gxkFySy_tA",
-     "credit": "뜨로렌즈 ThroughLenss Korea",
-     "range": [
-      20.0,
-      38.0
-     ]
-    },
-    "guided": {
-     "rec": "A",
-     "lint": []
-    },
-    "issues": [],
-    "confirm": [
-     "[검증] 표지에 사진이 안 붙음 — 인스타 사진 2장 업로드 실패(Cloudinary 401), 기사 사진 3장은 해상도 미달. 더현대 서울 공식 사진을 다시 넣을 것",
-     "[검증] '2차 사전 예약 마감(11/19)'은 공식 공지·기사로 확인 못 함 — 블로그들은 11/19을 2차 예약 '오픈일'(관람 11/27~12/9)로 적음. 캡션·표지·후킹에서 2차 예약 마감 문장을 빼고 현장 QR 웨이팅(이투데이·한경·핀포인트) 중심으로 고침. 더현대 서울 인스타 공지로 2차 일정·마감을 확인하면 다시 넣을 것",
-     "[검증] 운영 시간(10:30~19:30)·휴무일(11/26·12/18)·입장 무료는 금강일보 한 곳에만 있어 실용 정보에서 뺌 — 공식 공지로 확인되면 다시 넣을 것",
-     "클립 위험: 중간 — 뜨로렌즈 ThroughLenss Korea (개인 4K 워킹 영상, 말 없음) · 0:20-0:38 장면에 빌리지 거리가 잘 보이는지",
-     "운영 시간(10:30~19:30)·휴무일(11/26·12/18)은 금강일보 기사 기준 — 더현대 서울 공식 인스타 11/12 공지와 대조",
-     "이어지는 소식 — 11-20에 다룬 소재. 새 사실: 어제 글은 빌리지 안 베즐리 팝업 — 오늘은 빌리지 자체의 2차 사전 예약 마감(11/19 공식 공지)과 2~4층 QR 현장 웨이팅"
-    ],
-    "research": [
-     {
-      "title": "더현대 서울 공식 인스타그램 — 2차 사전 예약 마감 안내 (11/19)",
-      "link": "https://www.instagram.com/thehyundai_seoul/"
-     },
-     {
-      "title": "한국경제 — 여기가 뉴욕이야 서울이야…크리스마스 예약 전쟁 벌어진 곳 (11/05)",
-      "link": "https://www.hankyung.com/article/202611058663g"
-     },
-     {
-      "title": "이투데이 — 현대백화점, 8090 뉴욕 크리스마스 거리로 변신 (10/30)",
-      "link": "https://www.etoday.co.kr/news/view/2642093"
-     },
-     {
-      "title": "금강일보 — 더현대 서울, '크리스마스 빌리지' 사전예약 시작 (11/04)",
-      "link": "https://www.ggilbo.com/news/articleView.html?idxno=1191238"
-     },
-     {
-      "title": "세계일보 — 더현대 서울에 '크리스마스 인 뉴욕 시티' (11/09)",
-      "link": "https://www.segye.com/newsView/20261109515475"
-     },
-     {
-      "title": "뜨로렌즈 ThroughLenss Korea — 2026 더현대 서울 크리스마스 빌리지 4K",
-      "link": "https://www.youtube.com/watch?v=1gxkFySy_tA"
-     }
-    ],
-    "thumb": "https://i.ytimg.com/vi/1gxkFySy_tA/maxresdefault.jpg",
-    "render": {
-     "status": "queued",
-     "at": "2026-11-21T08:54+09:00"
-    }
-   },
-   "corner_name": "소식"
-  },
-  {
-   "source": {
-    "id": "claude:ateez-golden-hour-popup-last-day",
-    "account": "메트로서울 · 브릿지경제 · 뉴시스 · 팝업 공식 X",
-    "url": "https://www.metroseoul.co.kr/article/20261106500320",
-    "image": null,
-    "head": "에이티즈 'GOLDEN HOUR : Part.6' 단독 팝업 · 11/13~22 · 신세계 강남점 파미에스테이션 1층 포켓가든 · 사전·현장예약",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
-   },
-   "made_at": "2026-11-21T11:47+09:00",
-   "key": "9dfc47e0",
-   "by": "claude",
-   "subjects": [
-    "에이티즈",
-    "신세계백화점"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "A",
-    "kind": "정보",
-    "angle": "정리 — 에이티즈 미니 15집 기념 신세계 강남점 단독 팝업 11/22(일) 마지막 · 운영 시간·입장 방식·스탬프 혜택을 공식 공지와 기사로 한 장에",
-    "why": "기획안 slot am · 케이팝 연결 · 마지막 주말"
-   },
-   "added": "claude",
-   "added_at": "2026-11-21T11:47+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n공간\n\n[캡션]\n에이티즈(@ateez_official_)의 'GOLDEN HOUR : Part.6' 팝업이 22일 일요일에 문을 닫습니다.\n\n미니 15집이 나온 13일에 신세계백화점 강남점 파미에스테이션에 연 단독 팝업인데요, 약 30평 공간에 포토존과 앨범 콘셉트 전시, 체험형 게임존을 꾸렸고 멤버들의 친필 사인 앨범도 전시돼 있습니다.\n\n안에서 미션을 돌며 스탬프를 다 모으면 아크릴 키링을 받습니다. 앨범 다섯 가지 버전과 파우치·머플러·키링 같은 공식 굿즈 6종을 팔고, 구매 금액에 따라 한정 포토카드와 엽서를 줍니다.\n\n기간: 11월 13일(금) ~ 11월 22일(일)\n장소: 서울 서초구 신세계백화점 강남점 파미에스테이션 1층 포켓가든\n입장: 사전예약과 현장예약 함께 운영\n#SENE #에이티즈 #ATEEZ #골든아워 #신세계강남\n\n[커버]\n소스: \n제목: 에이티즈 팝업,|22일 일요일까지\n부제: 신세계 강남점 파미에스테이션 · 11월 22일까지\n출처:\n",
-    "caption": "에이티즈(@ateez_official_)의 'GOLDEN HOUR : Part.6' 팝업이 22일 일요일에 문을 닫습니다.\n\n미니 15집이 나온 13일에 신세계백화점 강남점 파미에스테이션에 연 단독 팝업인데요, 약 30평 공간에 포토존과 앨범 콘셉트 전시, 체험형 게임존을 꾸렸고 멤버들의 친필 사인 앨범도 전시돼 있습니다.\n\n안에서 미션을 돌며 스탬프를 다 모으면 아크릴 키링을 받습니다. 앨범 다섯 가지 버전과 파우치·머플러·키링 같은 공식 굿즈 6종을 팔고, 구매 금액에 따라 한정 포토카드와 엽서를 줍니다.\n\n기간: 11월 13일(금) ~ 11월 22일(일)\n장소: 서울 서초구 신세계백화점 강남점 파미에스테이션 1층 포켓가든\n입장: 사전예약과 현장예약 함께 운영\n#SENE #에이티즈 #ATEEZ #골든아워 #신세계강남",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "에이티즈 팝업,|22일 일요일까지",
-      "sub": "신세계 강남점 파미에스테이션 · 11월 22일까지"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "일요일에 닫는|에이티즈 팝업",
-      "sub": "신세계 강남점 파미에스테이션 1층"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 운영 시간 줄을 캡션에서 뺐다 — 기사 세 곳(메트로서울·뉴시스·브릿지경제)에 없고 공식 X 는 열리지 않음(402), 웨이보 재게시만으로는 부족 · 공식 X 에서 '금~일 10:30~20:30' 확인되면 '운영:' 줄 다시 넣을 것",
-     "운영 시간(금~일 10:30~20:30)은 공식 X 공지를 직접 못 열고 검색 요약·웨이보 재게시로 확인 — 팝업 공식 X 에서 한 번 보고 올릴 것 · 사전예약 창구(플랫폼)와 사은품 기준 금액은 어디에도 없어 뺐다",
-     "사진 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401) · 기사 사진(메트로서울·브릿지경제)·에이티즈 공식 인스타 사진을 지정해 둠 — 앱에서 사진 붙일 것 · 숏폼 소스 없음 — '에이티즈 GOLDEN HOUR Part.6 팝업스토어' 로 찾았으나 공식 영상 없이 팬 브이로그뿐 · 팝업 굿즈 온라인 판매(11/24 23:59까지)는 공식 X 한 곳이라 캡션에서 뺐다",
-     "이어지는 소식 — 11-18에 다룬 소재. 새 사실: 11/18 초안은 우영의 로에베 포토콜 — 이번은 에이티즈 단독 팝업(신세계 강남점)이 11/22 마지막 날, 다른 소재",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "메트로서울 (11/6) — 11/13~22 · 강남점 파미에스테이션 1층 포켓가든 · 앨범 5종·굿즈 6종 · 스탬프 완성 시 아크릴 키링 · 구매 금액별 한정 포토카드·엽서 · 친필 사인 앨범 전시 · 사전·현장예약 병행",
-      "link": "https://www.metroseoul.co.kr/article/20261106500320"
-     },
-     {
-      "title": "브릿지경제 (11/8) — 같은 내용 · 약 30평 · 포토존·콘셉트 전시·게임존",
-      "link": "https://www.viva100.com/article/20261108500197"
-     },
-     {
-      "title": "뉴시스 (11/20) — 22일까지 · 사전·현장예약 병행 · 공식 굿즈 6종",
-      "link": "https://www.newsis.com/view/NISX20261120_0003877142"
-     },
-     {
-      "title": "에이티즈 팝업 공식 X — OFFLINE EVENT 11/13~11/22 · 월~목 10:30 · (본문 일부)",
-      "link": "https://x.com/ATEEZPOPUP/status/2118599270538347006"
-     },
-     {
-      "title": "웨이보 재게시(공식 공지 정리) — 월~목 10:30~20:00 · 금~일 10:30~20:30 · 럭키드로우 11/22 23:59까지",
-      "link": "https://www.sina.cn/weibo/detail/5364727018685482.html"
-     },
-     {
-      "title": "에이티즈 팝업 공식 X — 팝업 굿즈 온라인 판매 11/13~11/24 23:59",
-      "link": "https://x.com/ATEEZPOPUP/status/2121093155386978507"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식",
-   "i18n_queued": "2026-11-21T11:48+09:00",
-   "i18n": {
-    "at": "2026-11-21T11:49+09:00",
-    "confirm": [
-     "'파미에스테이션'의 공식 영문 표기를 확인하지 못했습니다. 영어판에는 'Famille Station', 일본어판에는 'ファミエステーション'으로 적었으니 신세계백화점 공식 표기와 맞는지 확인해 주세요.",
-     "Part.6 팝업 자체(기간·장소·굿즈·특전)는 영어 검색으로 확인하지 못했습니다. 번역은 원문 내용만 옮겼습니다. 15집 발매일 11월 13일은 영어 매체 보도와 맞습니다.",
-     "'30평'을 영어·일본어 독자용으로 '약 100㎡'라고 함께 적었습니다(30평 ≈ 99㎡). 원문에 없는 환산이라 빼려면 그 괄호만 지우면 됩니다.",
-     "날짜 요일을 확인했습니다. 2026년 11월 13일은 금요일, 22일은 일요일입니다.",
-     "영어 · 제목 'This Sunday' 는 11월 22일 전에 올릴 때만 맞음 — 올리는 날짜를 확인할 것",
-     "영어·일본어 · 30평에 붙인 '약 100㎡' 환산은 원문에 없음 (30평은 약 99.2㎡라 숫자는 맞음) — 그대로 둘지 결정할 것",
-     "파미에스테이션 영문 표기 FAMILLE STATION 은 이번에 검색으로 확인하지 않음 — 신세계 공식 표기를 한 번 확인할 것"
-    ],
-    "review": {
-     "at": "2026-11-21T11:49+09:00",
-     "fixes": [
-      "영어 · 캡션 첫 문장 · ATEEZ (@ateez_official_)'s → The ATEEZ (@ateez_official_) pop-up … — 괄호 뒤 소유격 's 가 어색함",
-      "영어 · 캡션 셋째 단락 · muffler → scarf — 미국 영어에서 muffler 는 자동차 소음기로 먼저 읽힘",
-      "일본어 · 캡션 둘째 단락 · ファミエステーション（파미에스테이션） → ファミエステーション（FAMILLE STATION） — 한글이 남아 있었고, 일본 독자에게는 공식 영문 표기가 통함",
-      "일본어 · 캡션 둘째 단락 · 単独ポップアップなのですが、 → 単独ポップアップで、 — '~인데요' 를 그대로 옮긴 직역투"
-     ],
-     "doubt": [
-      "영어 · 제목 'This Sunday' 는 11월 22일 전에 올릴 때만 맞음 — 올리는 날짜를 확인할 것",
-      "영어·일본어 · 30평에 붙인 '약 100㎡' 환산은 원문에 없음 (30평은 약 99.2㎡라 숫자는 맞음) — 그대로 둘지 결정할 것",
-      "파미에스테이션 영문 표기 FAMILLE STATION 은 이번에 검색으로 확인하지 않음 — 신세계 공식 표기를 한 번 확인할 것"
-     ]
-    },
-    "en": {
-     "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nThe ATEEZ (@ateez_official_) pop-up 'GOLDEN HOUR : Part.6' closes on Sunday, Nov 22.\n\nThe standalone pop-up opened on Nov 13, the day the group's 15th mini album came out, at Famille Station in Shinsegae Department Store's Gangnam branch. The roughly 30-pyeong (about 100㎡) space holds a photo zone, an exhibition built around the album concept and an interactive game zone, and albums signed by the members are on display.\n\nVisitors who complete the missions inside and collect every stamp receive an acrylic keyring. The store sells five versions of the album and six official merchandise items, including a pouch, a scarf and a keyring, with limited-edition photocards and postcards given out depending on how much you spend.\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Pocket Garden, 1F, Famille Station, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nEntry: Advance and on-site reservations both available\n#SENE #ATEEZ #GOLDENHOUR #SeoulPopup #KpopPopup #Gangnam\n\n[커버]\n소스: \n제목: ATEEZ Pop-Up Closes|This Sunday, Nov 22\n부제: Shinsegae Gangnam Famille Station · Through Nov 22\n출처: \n",
-      "caption": "The ATEEZ (@ateez_official_) pop-up 'GOLDEN HOUR : Part.6' closes on Sunday, Nov 22.\n\nThe standalone pop-up opened on Nov 13, the day the group's 15th mini album came out, at Famille Station in Shinsegae Department Store's Gangnam branch. The roughly 30-pyeong (about 100㎡) space holds a photo zone, an exhibition built around the album concept and an interactive game zone, and albums signed by the members are on display.\n\nVisitors who complete the missions inside and collect every stamp receive an acrylic keyring. The store sells five versions of the album and six official merchandise items, including a pouch, a scarf and a keyring, with limited-edition photocards and postcards given out depending on how much you spend.\n\nDates: Nov 13 (Fri) – Nov 22 (Sun)\nLocation: Pocket Garden, 1F, Famille Station, Shinsegae Department Store Gangnam, Seocho-gu, Seoul\nEntry: Advance and on-site reservations both available\n#SENE #ATEEZ #GOLDENHOUR #SeoulPopup #KpopPopup #Gangnam",
-      "preview": null
-     }
-    },
-    "ja": {
-     "card": {
-      "form": "[카테고리]\n공간\n\n[캡션]\nATEEZ（エイティーズ・@ateez_official_）の「GOLDEN HOUR : Part.6」ポップアップが、22日（日）に幕を閉じます。\n\n15thミニアルバムが発売された13日に、新世界（シンセゲ）百貨店 江南店のファミエステーション（FAMILLE STATION）でオープンした単独ポップアップで、約30坪（約100㎡）の空間にフォトゾーン、アルバムのコンセプト展示、体験型のゲームゾーンを設け、メンバーの直筆サイン入りアルバムも展示されています。\n\n会場内でミッションをこなしてスタンプをすべて集めると、アクリルキーホルダーがもらえます。アルバム5バージョンと、ポーチ・マフラー・キーホルダーなど公式グッズ6種を販売し、購入金額に応じて限定フォトカードとポストカードがプレゼントされます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・瑞草区（ソチョグ）新世界百貨店 江南店 ファミエステーション1階 ポケットガーデン\n入場：事前予約と当日予約を併用\n#SENE #ATEEZ #エイティーズ #韓国旅行 #ソウル旅行 #ポップアップストア\n\n[커버]\n소스: \n제목: ATEEZポップアップ、|22日（日）まで\n부제: 新世界百貨店 江南店 ファミエステーション・11月22日まで\n출처: \n",
-      "caption": "ATEEZ（エイティーズ・@ateez_official_）の「GOLDEN HOUR : Part.6」ポップアップが、22日（日）に幕を閉じます。\n\n15thミニアルバムが発売された13日に、新世界（シンセゲ）百貨店 江南店のファミエステーション（FAMILLE STATION）でオープンした単独ポップアップで、約30坪（約100㎡）の空間にフォトゾーン、アルバムのコンセプト展示、体験型のゲームゾーンを設け、メンバーの直筆サイン入りアルバムも展示されています。\n\n会場内でミッションをこなしてスタンプをすべて集めると、アクリルキーホルダーがもらえます。アルバム5バージョンと、ポーチ・マフラー・キーホルダーなど公式グッズ6種を販売し、購入金額に応じて限定フォトカードとポストカードがプレゼントされます。\n\n期間：11月13日（金）〜11月22日（日）\n場所：ソウル・瑞草区（ソチョグ）新世界百貨店 江南店 ファミエステーション1階 ポケットガーデン\n入場：事前予約と当日予約を併用\n#SENE #ATEEZ #エイティーズ #韓国旅行 #ソウル旅行 #ポップアップストア",
-      "preview": null
-     }
+     "at": "2026-11-22T08:32+09:00"
     }
    },
    "pick": {
     "rank": 1,
-    "why": "케이팝 연결 · 내일(22일) 닫는 팝업 — 퇴근길에 보고 주말에 바로 갈 수 있는 저장용 정보",
-    "at": "2026-11-21T17:44+09:00"
-   }
+    "why": "케이팝 큰 이름 · 내일 오픈하는 서울 팝업 — 공식 필름 릴스와 기간·층·예약을 저장할 카드",
+    "at": "2026-11-22T08:30+09:00"
+   },
+   "corner_name": "오늘의 순간",
+   "corner_no": 1,
+   "i18n_queued": "2026-11-22T08:32+09:00"
   },
   {
    "source": {
-    "id": "claude:park-jinyoung-tiffany-photocall-reel",
-    "account": "톱스타뉴스 · 아시아투데이 · 비하인드 BEHIND",
-    "url": "https://www.topstarnews.net/news/articleView.html?idxno=16281495",
+    "id": "claude:lesserafim-mama-redcarpet-reel",
+    "account": "Mnet K-POP (공식)",
+    "url": "https://www.youtube.com/watch?v=GmFi4IC8CTo",
     "image": null,
-    "head": "갓세븐 박진영, 11/20 티파니앤코 포토콜 · 롯데백화점 에비뉴엘 월드타워 1층 홀리데이 카페 '하우스 오브 아이콘'",
+    "head": "[#2026MAMA] Red Carpet with LE SSERAFIM | Mnet Aired 11/21/26",
     "multiple": null,
     "is_reel": true,
     "kind": "claude"
    },
-   "made_at": "2026-11-21T11:47+09:00",
-   "key": "cc4a070a",
+   "made_at": "2026-11-22T08:30+09:00",
+   "key": "3b3d231b",
    "by": "claude",
    "subjects": [
-    "박진영",
-    "티파니앤코"
+    "르세라핌",
+    "MAMA AWARDS"
    ],
    "lane": "클립",
    "editor": {
     "grade": "A",
     "kind": "클립",
-    "angle": "순간 — 11/20 잠실 에비뉴엘 티파니앤코 홀리데이 카페 공개 행사 포토월에 선 갓세븐 박진영 · 말 없는 그림 10~20초",
-    "why": "기획안 slot am · 케이팝 연결 · 포토월 릴스 (가원 편과 다른 사람)"
+    "angle": "순간 — 11/21 2026 MAMA AWARDS 둘째 날 레드카펫, 르세라핌이 포즈를 잡는 20초 (Mnet 공식)",
+    "why": "기획안 slot mo · 케이팝 연결 · 밤사이 나온 공식 포토월 영상"
    },
    "added": "claude",
-   "added_at": "2026-11-21T11:47+09:00",
+   "added_at": "2026-11-22T08:30+09:00",
    "corner": "moment",
    "shorts": {
-    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=_liiys4Lp78\n구간: 0:05-0:20\n곡: 잠실 티파니 포토월\n아티스트: *박진영*,\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
-    "caption": "갓세븐 박진영이 20일 잠실 티파니앤코 홀리데이 카페 공개 행사 포토월에 섰습니다.\n\n롯데백화점 에비뉴엘 월드타워점 1층에 문을 연 카페 '하우스 오브 아이콘' 의 첫날이었는데요, tvN 〈100일의 거짓말〉에서 사토 히데오 역을 맡은 그가 포토콜 행사에 참석했습니다. 같은 자리에 미야오 가원과 김도연도 함께했습니다.\n\n기간: 11월 20일(금)부터\n장소: 서울 송파구 롯데백화점 에비뉴엘 월드타워점 1층 다이버홀\n영상: 비하인드 BEHIND\n#SENE #박진영 #갓세븐 #티파니앤코 #잠실",
+    "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=GmFi4IC8CTo\n구간: 0:45-1:05\n곡: 마마 레드카펫\n아티스트: *르세라핌*,\n피처링:\n후킹: \n출처: Mnet K-POP\n자막: 끔",
+    "caption": "르세라핌(@le_sserafim)이 21일 일본 오사카 교세라 돔에서 열린 2026 MAMA AWARDS(@mnet_mama) 레드카펫에 섰습니다.\n\n이틀 일정 가운데 둘째 날이었는데요, 르세라핌은 3년 만에 나오는 마마라 레드카펫 의상에 특히 신경을 썼다며 '패션쇼 못지않게 준비했다'고 말했습니다.\n\n영상은 멤버들이 포토월 앞에서 차례로 포즈를 잡는 장면입니다.\n\n행사: 2026 MAMA AWARDS 둘째 날 · 11월 21일(토)\n장소: 일본 오사카 교세라 돔\n영상: Mnet K-POP\n#SENE #르세라핌 #LESSERAFIM #2026MAMA #마마어워즈",
     "hooks": {
-     "A": "*박진영*, / 잠실 티파니 포토월",
-     "B": "'잠실에 뜬 히데오' / *박진영*",
-     "C": "티파니 홀리데이 카페에 / 선 *박진영*"
+     "A": "*르세라핌*, / 마마 레드카펫",
+     "B": "3년 만의 마마, / *르세라핌* 레드카펫",
+     "C": "오사카 마마에 선 / *르세라핌*"
     },
     "video": {
-     "url": "https://www.youtube.com/watch?v=_liiys4Lp78",
-     "credit": "비하인드 BEHIND",
+     "url": "https://www.youtube.com/watch?v=GmFi4IC8CTo",
+     "credit": "Mnet K-POP",
      "range": [
-      5.0,
-      20.0
+      45.0,
+      65.0
      ]
     },
     "guided": {
@@ -818,190 +187,45 @@
     },
     "issues": [],
     "confirm": [
-     "[검증] '수트 차림'은 기사·영상 설명 어디에도 없고 화면도 못 봐 캡션·후킹 B 에서 뺐다 (B 는 영상 제목 속 '잠실에 뜬 히데오'로 교체) · yt_subs 결과 0:05-0:20 은 음악뿐, 말 없음 확인",
-     "클립 위험: 중간 — 비하인드 BEHIND · 자막 없는 포토월이고 장면 캡처도 실패해 구간 0:05-0:20 을 눈으로 못 봤다 — 첫 1초에 박진영이 또렷한지 미리보기로 · 같은 채널의 가원 영상(오전 초안)과는 다른 영상",
-     "사진 없음 — 숏폼만 · 착장 브랜드는 기사에 없어 쓰지 않았다",
-     "이어지는 소식 — 11-21에 다룬 소재. 새 사실: 오전 초안은 가원이 주인공 — 이번은 같은 행사의 박진영 포토월 영상(다른 영상)만 쓰는 릴스"
+     "클립 위험: 높음 — Mnet K-POP · 구간 0:45-1:05 (20초) 은 자막상 멤버 포즈 구간(MC '윤진 씨도 멋진 포즈' · '은채 씨와 채원 씨')이지만 화면은 못 봤다 — 첫 1초에 멤버 얼굴인지 미리보기로",
+     "착용 브랜드는 공식 크레딧을 못 찾아 쓰지 않았다",
+     "이어지는 소식 — 11-20에 다룬 소재. 새 사실: 11-20 초안은 첫날(11/20) 엔하이픈 레드카펫 — 이번은 둘째 날(11/21) 르세라핌, 다른 사람·다른 날의 공식 영상",
+     "[작문 P1] 캡션: 첫 문장 82자 → 첫 문장은 한 호흡 — 두 사실을 한 문장에 몰지 않는다 (80자 안)"
     ],
     "research": [
      {
-      "title": "톱스타뉴스 (11/20) — 갓세븐 멤버 겸 배우 박진영 티파니앤코 포토콜 · 에비뉴엘 월드타워 · '하우스 오브 아이콘' 오픈",
-      "link": "https://www.topstarnews.net/news/articleView.html?idxno=16281495"
+      "title": "Mnet K-POP — [#2026MAMA] Red Carpet with LE SSERAFIM (11/21) · 자막 1:57 '3년 만에 마마에 출연하게 되어서 레드카펫 의상도 굉장히 신경을 많이 썼다' · 2:08 '패션쇼 못지않게 준비를 해 봤습니다'",
+      "link": "https://www.youtube.com/watch?v=GmFi4IC8CTo"
      },
      {
-      "title": "아시아투데이 (11/20) — 홀리데이 카페 오픈 · 윤여정·박주미·김도연·고현정·가원·박진영 참석",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010008169"
+      "title": "스포츠경향 (10/29) — 2026 MAMA AWARDS 11/20~21 일본 오사카 교세라 돔",
+      "link": "https://sports.khan.co.kr/article/202610291208003"
      },
      {
-      "title": "iMBC연예 (10/27) — tvN 토일드라마 〈100일의 거짓말〉 사토 히데오 역 · 토·일 오후 9시 10분",
-      "link": "https://enews.imbc.com/M/Detail/522532"
-     },
-     {
-      "title": "iMBC연예 — 〈100일의 거짓말〉 박진영 사토 히데오",
-      "link": "https://enews.imbc.com/News/RetrieveNewsInfo/521677"
-     },
-     {
-      "title": "비하인드 BEHIND (유튜브) — 박진영 TiffanyAndCo 포토월 4K",
-      "link": "https://www.youtube.com/watch?v=_liiys4Lp78"
+      "title": "CJ ENM — 2026 MAMA AWARDS 11월 20·21일 교세라 돔 오사카",
+      "link": "https://cjenm.com/en/news/2026-mama-awards-to-take-place-in-japan---from-november-2021/"
      }
     ],
-    "thumb": "https://i.ytimg.com/vi/_liiys4Lp78/maxresdefault.jpg",
+    "thumb": "https://i.ytimg.com/vi/GmFi4IC8CTo/maxresdefault.jpg",
     "render": {
      "status": "queued",
-     "at": "2026-11-21T11:48+09:00"
-    }
-   },
-   "corner_name": "오늘의 순간",
-   "corner_no": 2,
-   "i18n_queued": "2026-11-21T11:48+09:00",
-   "i18n": {
-    "at": "2026-11-21T11:50+09:00",
-    "confirm": [
-     "층 표기: 원문은 '1층 다이버홀'인데, 티파니 공식 매장 페이지에는 House of Icons가 롯데월드타워 에비뉴엘 B1층으로 나옵니다. 이번 홀리데이 카페가 기존 매장과 다른 곳(1층 다이버홀)에 따로 열린 것인지 공식 공지로 확인이 필요합니다.",
-     "카페 이름: 'House of Icons'는 티파니 매장 이름으로는 확인했지만, 홀리데이 카페의 공식 영문 표기는 확인하지 못했습니다. 일본어 「ハウス オブ アイコン」은 가타카나로 옮긴 것입니다.",
-     "드라마 제목은 영어 '100 Days of Lies', 일본어 『100日の嘘』로 확인했습니다. 일본어 배역명 佐藤英雄은 일본 매체 표기를 따랐습니다.",
-     "김도연의 공식 영문·일본어 표기(Kim Do-yeon / キム・ドヨン)와 소속은 확인하지 못해 로마자·가타카나로 적었습니다.",
-     "카페 운영 종료일은 원문에 없어 'From Nov 20' / '11月20日から'로만 적었습니다.",
-     "출처 '비하인드 BEHIND'는 매체 이름이라 바꾸지 않고 그대로 두었습니다.",
-     "tvN 〈100일의 거짓말〉의 공식 영어 제목('100 Days of Lies')과 일본어 제목(『100日の嘘』)을 확인하지 못함 — 직역 표기이니 공식 제목이 있으면 바꿀 것",
-     "배역 '사토 히데오'의 공식 한자 표기가 있으면 일본어판에 반영할 것",
-     "카페 이름 'House of Icons' — 티파니가 2023년 에비뉴엘 잠실 팝업에서 같은 이름을 썼다는 기록은 있으나 이번 카페의 공식 영문 표기는 확인 못 함",
-     "'다이버홀' 영문·일문 표기(Diver Hall / ダイバーホール)를 공식 안내에서 확인하지 못함",
-     "출처 칸 '비하인드 BEHIND' 의 한글이 영어·일본어판에 그대로 남음 — 매체 이름이라 규칙대로 두었으나, 공식 영문 채널명만 쓸지 볼 것",
-     "원문 '미야오 가원과 김도연' — 김도연에게는 MEOVV 소속이 붙지 않게 번역함, 원문의 뜻이 그게 맞는지 확인",
-     "영어판 출처에 한글이 남음",
-     "영어판 숏폼 캡션에 한글이 남음",
-     "일본어판 출처에 한글이 남음",
-     "일본어판 숏폼 캡션에 한글이 남음"
-    ],
-    "review": {
-     "at": "2026-11-21T11:50+09:00",
-     "fixes": [
-      "일본어 · 캡션 · 佐藤英雄役 → サトウ・ヒデオ役 — 원문은 한글 '사토 히데오'뿐이라 한자 표기를 확인할 수 없음, 지어낸 한자를 빼고 가타카나로"
-     ],
-     "doubt": [
-      "tvN 〈100일의 거짓말〉의 공식 영어 제목('100 Days of Lies')과 일본어 제목(『100日の嘘』)을 확인하지 못함 — 직역 표기이니 공식 제목이 있으면 바꿀 것",
-      "배역 '사토 히데오'의 공식 한자 표기가 있으면 일본어판에 반영할 것",
-      "카페 이름 'House of Icons' — 티파니가 2023년 에비뉴엘 잠실 팝업에서 같은 이름을 썼다는 기록은 있으나 이번 카페의 공식 영문 표기는 확인 못 함",
-      "'다이버홀' 영문·일문 표기(Diver Hall / ダイバーホール)를 공식 안내에서 확인하지 못함",
-      "출처 칸 '비하인드 BEHIND' 의 한글이 영어·일본어판에 그대로 남음 — 매체 이름이라 규칙대로 두었으나, 공식 영문 채널명만 쓸지 볼 것",
-      "원문 '미야오 가원과 김도연' — 김도연에게는 MEOVV 소속이 붙지 않게 번역함, 원문의 뜻이 그게 맞는지 확인",
-      "영어판 출처에 한글이 남음",
-      "영어판 숏폼 캡션에 한글이 남음",
-      "일본어판 출처에 한글이 남음",
-      "일본어판 숏폼 캡션에 한글이 남음"
-     ]
-    },
-    "en": {
-     "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=_liiys4Lp78\n구간: 0:05-0:20\n곡: at Tiffany in Jamsil\n아티스트: *Park Jinyoung*,\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
-      "caption": "GOT7's Park Jinyoung stood at the photo wall of the Tiffany & Co. holiday cafe launch event in Jamsil on the 20th.\n\nIt was opening day for the cafe 'House of Icons' on the first floor of Lotte Department Store Avenuel World Tower. Park, who plays Sato Hideo in the tvN series '100 Days of Lies', attended the photocall. MEOVV's Gawon and Kim Do-yeon were also at the event.\n\nDates: From Nov 20 (Fri)\nLocation: Diver Hall, 1F, Lotte Department Store Avenuel World Tower, Songpa-gu, Seoul\nVideo: 비하인드 BEHIND\n#SENE #ParkJinyoung #GOT7 #TiffanyAndCo #Jamsil"
-     }
-    },
-    "ja": {
-     "shorts": {
-      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=_liiys4Lp78\n구간: 0:05-0:20\n곡: 蚕室ティファニーに登場\n아티스트: *パク・ジニョン*、\n피처링:\n후킹: \n출처: 비하인드 BEHIND\n자막: 끔",
-      "caption": "GOT7のパク・ジニョンが20日、ソウル・蚕室（チャムシル）で開かれたティファニー（Tiffany & Co.）のホリデーカフェ公開イベントでフォトウォールに立ちました。\n\nロッテ百貨店アベニュエル ワールドタワー店1階にオープンしたカフェ「ハウス オブ アイコン（House of Icons）」の初日だったのですが、tvN『100日の嘘』でサトウ・ヒデオ役を演じるパク・ジニョンがフォトコールに参加しました。同じ場にはMEOVVのガウォンとキム・ドヨンも姿を見せました。\n\n期間：11月20日（金）から\n場所：ソウル・松坡区（ソンパグ） ロッテ百貨店アベニュエル ワールドタワー店1階 ダイバーホール\n映像：비하인드 BEHIND\n#SENE #パクジニョン #GOT7 #ティファニー #韓国旅行"
-     }
+     "at": "2026-11-22T08:32+09:00"
     }
    },
    "pick": {
     "rank": 2,
-    "why": "말 없는 포토월 릴스 · 오늘 밤 〈100일의 거짓말〉 방영일 — 숏폼 한 편은 넣는다",
-    "at": "2026-11-21T17:44+09:00"
-   }
-  },
-  {
-   "source": {
-    "id": "claude:oliveyoung-color-ground-hongdae",
-    "account": "데일리안 · 디지털데일리 · 이코노미톡 · 아시아타임즈 · 아시아투데이 · 올리브영 공식 인스타",
-    "url": "https://www.dailian.co.kr/news/view/1717741/",
-    "image": null,
-    "head": "CJ올리브영 첫 색조 특화 매장 '컬러 그라운드 홍대' 11/20 오픈 · 4개 층 174평 · 약 200개 브랜드 · 색조 약 80% · 무신",
-    "multiple": null,
-    "is_reel": false,
-    "kind": "claude"
+    "why": "어젯밤 마마 레드카펫 공식 영상 — 말 없이 보는 포토월 릴스, 남들이 다룬 베몬·아이브와 다른 사람",
+    "at": "2026-11-22T08:30+09:00"
    },
-   "made_at": "2026-11-21T17:44+09:00",
-   "key": "290b2401",
-   "by": "claude",
-   "subjects": [
-    "올리브영",
-    "컬러 그라운드 홍대"
-   ],
-   "lane": "정보",
-   "editor": {
-    "grade": "B",
-    "kind": "정보",
-    "angle": "[실험] 맥락 — 올리브영 첫 색조 특화 매장 '컬러 그라운드 홍대'(11/20 오픈) · 브랜드 대신 제품 종류·제형별 진열 · 왜 홍대인가(홍대 일대 매장 외국인 매출 84%, 올리브영 설명)",
-    "why": "기획안 slot pm · 11/20 오픈 첫 주말 · 개점 전 줄이 기사 두 곳(이코노미톡·아시아타임즈)에 · 이번 주말 갈 곳"
-   },
-   "added": "claude",
-   "added_at": "2026-11-21T17:44+09:00",
-   "corner": "news",
-   "card": {
-    "form": "[카테고리]\n뷰티\n\n[캡션]\n올리브영(@oliveyoung_official)이 홍대에 첫 색조 특화 매장 '컬러 그라운드 홍대'를 열었습니다.\n\n4개 층 매장에 들어온 브랜드의 약 80%가 색조인데요, 립·아이·블러셔를 브랜드별이 아니라 제품 종류와 제형별로 모아 두어 한 매대에서 여러 브랜드를 견줘 볼 수 있습니다. 입점 색조 브랜드 넷 중 하나는 올리브영에 처음 들어온 곳입니다.\n\n홍대를 고른 데는 손님이 있습니다. 올해 1~10월 홍대 일대 올리브영 매장 매출의 84%가 외국인 고객에게서 나왔고, 올리브영은 국내외 젊은 손님이 모이고 뷰티 유행이 빨리 퍼지는 동네라 유망 색조 브랜드를 외국인 관광객에게 소개하기 좋다고 설명합니다. 문을 연 20일 오전엔 입장을 기다리는 줄이 길게 섰습니다.\n\n1층에선 헤라와 함께 맞춤 파운데이션을 조색해 주고, 4층엔 4만 원 이상 사면 돌릴 수 있는 '시크릿 가챠'가 있습니다.\n\n오픈: 11월 20일(금)\n장소: 서울 마포구 서교동, 무신사 뷰티 홍대점 옆\n체험: 헤라 맞춤 파운데이션 조색 · 10~15분 무료 퀵 터치업(매장 현장 예약)\n#SENE #올리브영 #컬러그라운드 #홍대 #홍대뷰티\n\n[커버]\n소스: \n제목: 색조만 모은 올리브영,|홍대에 열렸다\n부제: 컬러 그라운드 홍대 · 11월 20일 오픈\n출처:\n",
-    "caption": "올리브영(@oliveyoung_official)이 홍대에 첫 색조 특화 매장 '컬러 그라운드 홍대'를 열었습니다.\n\n4개 층 매장에 들어온 브랜드의 약 80%가 색조인데요, 립·아이·블러셔를 브랜드별이 아니라 제품 종류와 제형별로 모아 두어 한 매대에서 여러 브랜드를 견줘 볼 수 있습니다. 입점 색조 브랜드 넷 중 하나는 올리브영에 처음 들어온 곳입니다.\n\n홍대를 고른 데는 손님이 있습니다. 올해 1~10월 홍대 일대 올리브영 매장 매출의 84%가 외국인 고객에게서 나왔고, 올리브영은 국내외 젊은 손님이 모이고 뷰티 유행이 빨리 퍼지는 동네라 유망 색조 브랜드를 외국인 관광객에게 소개하기 좋다고 설명합니다. 문을 연 20일 오전엔 입장을 기다리는 줄이 길게 섰습니다.\n\n1층에선 헤라와 함께 맞춤 파운데이션을 조색해 주고, 4층엔 4만 원 이상 사면 돌릴 수 있는 '시크릿 가챠'가 있습니다.\n\n오픈: 11월 20일(금)\n장소: 서울 마포구 서교동, 무신사 뷰티 홍대점 옆\n체험: 헤라 맞춤 파운데이션 조색 · 10~15분 무료 퀵 터치업(매장 현장 예약)\n#SENE #올리브영 #컬러그라운드 #홍대 #홍대뷰티",
-    "photos": [],
-    "photo_pool": [],
-    "shape": "단신",
-    "covers": [
-     {
-      "key": "A",
-      "hook": "Claude",
-      "title": "색조만 모은 올리브영,|홍대에 열렸다",
-      "sub": "컬러 그라운드 홍대 · 11월 20일 오픈"
-     },
-     {
-      "key": "B",
-      "hook": "다른 안",
-      "title": "브랜드 대신 색으로|고르는 올리브영",
-      "sub": "홍대 컬러 그라운드 · 4개 층"
-     }
-    ],
-    "issues": [],
-    "confirm": [
-     "[검증] 다시 올린 뒤에도 표지에 사진이 없음 (Cloudinary 401, 글자만 있는 표지) — 앱에서 사진을 붙이기 전엔 발행 보류 · 운영 시간은 여전히 확인 안 됨",
-     "도로명 주소 '홍익로 20'은 아시아투데이 한 곳뿐이라 '서교동, 무신사 뷰티 홍대점 옆'(기사 여럿)으로 썼다 · 운영 시간은 어느 기사에도 없어 뺐다 — 올리브영 앱 매장 정보로 확인되면 넣을 것",
-     "사진 빠짐 — 호스팅 실패(ImgBB 한도·Cloudinary 401)로 표지가 글자뿐 · 올리브영 공식 인스타 11/17·11/18 매장 사진과 아시아투데이 1층 전경(CJ올리브영 제공)을 지정해 둠 — 앱에서 사진 붙일 것",
-     "외국인 매출 84%(1~10월)는 기사 네 곳이 같은 숫자지만 집계 주체를 밝히지 않음(올리브영 자료로 보임) · '오전 7시부터 줄'은 한국면세뉴스 제목 하나라 뺐다 · 공식 인스타 '2만 원 이상 구매 시 색조 키트' 오픈 혜택은 기간을 못 읽어 뺐다",
-     "쓸 만한 사진을 못 찾았습니다 — 스튜디오에서 넣어 주세요"
-    ],
-    "research": [
-     {
-      "title": "데일리안 (11/20) — 지상 4개 층 174평 · 약 200개 브랜드 1,100여 상품 · 신규 색조 브랜드 26% · 4층 시크릿 가챠 4만 원 이상 · 올리브영 관계자 '국내외 젊은 고객이 모이고 트렌드가 빠르게 확산' · 무신사 뷰티 옆 · 홍대 지역 외국인 매출 84%",
-      "link": "https://www.dailian.co.kr/news/view/1717741/"
-     },
-     {
-      "title": "디지털데일리 (11/20) — 서교동 · 4개 층 174평 · 약 200개 브랜드 · 2층 상품군별 진열·웜톤/쿨톤 조명 · 외국인 매출 84%(1~10월)",
-      "link": "https://www.ddaily.co.kr/page/view/2026112015202520203"
-     },
-     {
-      "title": "이코노미톡뉴스 (11/20) — 서교동 · 174평 · 색조 약 80% · 1층 헤라 조색·퀵 터치업 약 15분 · '오픈런' 행렬",
-      "link": "http://www.economytalk.kr/news/articleView.html?idxno=425443"
-     },
-     {
-      "title": "아시아타임즈 (11/20) — 홍대 사거리 앞 · 색조 약 80% · 신규 26% · 긴 줄 · 4층 가챠 4만 원 이상",
-      "link": "https://www.asiatime.co.kr/article/20261120500312"
-     },
-     {
-      "title": "아시아투데이 (11/20) — 마포구 홍익로 20 · 약 200개 브랜드 · 색조 약 80% · 외국인 매출 84% · 1층 전경 사진 CJ올리브영 제공",
-      "link": "https://www.asiatoday.co.kr/kn/view.php?key=20261120010007983"
-     },
-     {
-      "title": "한국면세뉴스 (11/20, 제목만 확인) — 추위에도 오전 7시부터 오픈런",
-      "link": "https://www.kdfnews.com/news/articleView.html?idxno=191215"
-     }
-    ],
-    "by": "claude"
-   },
-   "corner_name": "소식"
+   "corner_name": "오늘의 순간",
+   "corner_no": 2,
+   "i18n_queued": "2026-11-22T08:32+09:00"
   }
  ],
  "skipped": [],
  "corners": {
   "week": "11/16~11/22",
-  "days_left": 2,
+  "days_left": 1,
   "done": 0,
   "goal": 39,
   "corners": [
@@ -1011,11 +235,11 @@
     "weekly": 10,
     "done": 0,
     "left": 10,
-    "need_today": 5,
+    "need_today": 10,
     "day": null,
     "mday": null,
     "next_no": null,
-    "drafts": 6,
+    "drafts": 0,
     "why": "오픈·출시·컬렉션·콜라보·내한 — 기사형은 표지 한 장 + 캡션"
    },
    {
@@ -1024,7 +248,7 @@
     "weekly": 2,
     "done": 0,
     "left": 2,
-    "need_today": 1,
+    "need_today": 2,
     "day": null,
     "mday": null,
     "next_no": 1,
@@ -1144,7 +368,7 @@
     "weekly": 1,
     "done": 0,
     "left": 1,
-    "need_today": 1,
+    "need_today": 0,
     "day": 5,
     "mday": null,
     "next_no": 1,
@@ -1157,7 +381,7 @@
     "weekly": 1,
     "done": 0,
     "left": 1,
-    "need_today": 0,
+    "need_today": 1,
     "day": 6,
     "mday": null,
     "next_no": 1,
@@ -1170,7 +394,7 @@
     "weekly": 4,
     "done": 0,
     "left": 4,
-    "need_today": 2,
+    "need_today": 4,
     "day": null,
     "mday": null,
     "next_no": null,
@@ -1183,7 +407,7 @@
     "weekly": 2,
     "done": 0,
     "left": 2,
-    "need_today": 1,
+    "need_today": 2,
     "day": null,
     "mday": null,
     "next_no": null,
@@ -1196,7 +420,7 @@
     "weekly": 2,
     "done": 0,
     "left": 2,
-    "need_today": 1,
+    "need_today": 2,
     "day": null,
     "mday": null,
     "next_no": 1,
@@ -1222,7 +446,7 @@
     "weekly": 2,
     "done": 0,
     "left": 2,
-    "need_today": 1,
+    "need_today": 2,
     "day": null,
     "mday": null,
     "next_no": null,
@@ -1243,10 +467,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-21T17:44+09:00"
+  "at": "2026-11-22T08:32+09:00"
  },
  "queue": {
-  "next": "2026-11-21T17:46+09:00",
+  "next": "2026-11-22T08:34+09:00",
   "n": 0,
   "gap": 20
  },
