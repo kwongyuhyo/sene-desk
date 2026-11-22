@@ -144,7 +144,51 @@
     "at": "2026-11-23T08:28+09:00"
    },
    "corner_name": "소식",
-   "i18n_queued": "2026-11-23T08:30+09:00"
+   "i18n_queued": "2026-11-23T08:30+09:00",
+   "i18n": {
+    "at": "2026-11-23T08:31+09:00",
+    "confirm": [
+     "I couldn't find Dior's Nov 20 announcement of Hyunjin as an ambassador or any report of it, in English or Japanese. Coverage only shows him attending Dior's men's Fall/Winter 2026-2027 show (Jan 21, Paris) and posing with Jonathan Anderson. Check Dior's official accounts and press release before posting.",
+     "Not confirmed in sources: the rooftop shoot of the first official visual, the 'Sauvage' bottle, and that he attended two more womenswear shows.",
+     "Japanese name of 'Sauvage' — I used 'ソヴァージュ' and need to confirm it against Dior Japan's official spelling.",
+     "Japanese name of Dior Beauty — I used 'ディオール ビューティー' and need to confirm it against the official Japanese spelling.",
+     "부제가 영어(약 50자)·일본어(약 32자) 모두 한 줄 길이 기준을 크게 넘고 '|' 줄나눔도 없음. 원문 부제도 길어서 사실을 빼지 않고는 줄일 수 없었음. 화면에서 잘리는지 확인 필요",
+     "'Jonathan Anderson's fashion collections' / 「ジョナサン・アンダーソンのファッションコレクション」은 해외 독자가 앤더슨 본인 브랜드(JW Anderson)로 잘못 읽을 수 있음. 디올 컬렉션이라는 점을 덧붙일지 사람이 판단 필요 (원문에 없는 말이라 손대지 않음)"
+    ],
+    "review": {
+     "at": "2026-11-23T08:31+09:00",
+     "fixes": [
+      "영어 · 캡션·숏폼 캡션 첫 문장 · \"Stray Kids' (@realstraykids) Hyunjin\" → \"Hyunjin of Stray Kids (@realstraykids)\": 소유격 뒤에 괄호 핸들이 끼어 어색하게 읽힘",
+      "일본어 · 숏폼 곡 칸 · ディオール大使に → Diorアンバサダーに: 「大使」는 외교관처럼 읽히고 제목의 アンバサダー와도 맞지 않음 (11자 안에 맞추려고 Dior 로 표기)"
+     ],
+     "doubt": [
+      "부제가 영어(약 50자)·일본어(약 32자) 모두 한 줄 길이 기준을 크게 넘고 '|' 줄나눔도 없음. 원문 부제도 길어서 사실을 빼지 않고는 줄일 수 없었음. 화면에서 잘리는지 확인 필요",
+      "'Jonathan Anderson's fashion collections' / 「ジョナサン・アンダーソンのファッションコレクション」은 해외 독자가 앤더슨 본인 브랜드(JW Anderson)로 잘못 읽을 수 있음. 디올 컬렉션이라는 점을 덧붙일지 사람이 판단 필요 (원문에 없는 말이라 손대지 않음)"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nHyunjin of Stray Kids (@realstraykids) is now an ambassador for Dior (@dior).\n\nThe role Dior announced on Nov 20 covers both beauty and Jonathan Anderson's fashion collections. Hyunjin first sat front row at Paris Fashion Week at Dior's menswear show in January this year, and has since attended two more of its womenswear shows.\n\nThe first official visual was shot on a Paris rooftop. In it, Hyunjin holds a bottle of Dior 'Sauvage'.\n\nAnnounced: Nov 20 (Dior)\nCategories: Dior Beauty (@diorbeauty) · Jonathan Anderson's fashion collections\n#SENE #Hyunjin #StrayKids #Dior #DiorSauvage\n\n[커버]\n소스: \n제목: Stray Kids' Hyunjin|Named Dior Ambassador\n부제: Beauty and Jonathan Anderson's fashion collections\n출처: \n",
+      "caption": "Hyunjin of Stray Kids (@realstraykids) is now an ambassador for Dior (@dior).\n\nThe role Dior announced on Nov 20 covers both beauty and Jonathan Anderson's fashion collections. Hyunjin first sat front row at Paris Fashion Week at Dior's menswear show in January this year, and has since attended two more of its womenswear shows.\n\nThe first official visual was shot on a Paris rooftop. In it, Hyunjin holds a bottle of Dior 'Sauvage'.\n\nAnnounced: Nov 20 (Dior)\nCategories: Dior Beauty (@diorbeauty) · Jonathan Anderson's fashion collections\n#SENE #Hyunjin #StrayKids #Dior #DiorSauvage",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=4TcE1mf1CMU\n구간: 1:19-1:45\n곡: a Dior ambassador\n아티스트: *Hyunjin*,\n피처링:\n후킹: \n출처: Christian Dior\n자막: 끔",
+      "caption": "Hyunjin of Stray Kids (@realstraykids) is now an ambassador for Dior (@dior).\n\nThe video is a vlog Dior posted of Hyunjin's first Dior show. It follows his day heading to Dior's menswear show in Paris this January. That day, Hyunjin said he wore a Dior tweed jacket with a tuxedo shirt and denim pants.\n\nTen months later, on Nov 20, Dior announced Hyunjin as an ambassador for its beauty line and Jonathan Anderson's fashion collections.\n\nAnnounced: Nov 20 (Dior)\nVideo: Christian Dior\n#SENE #Hyunjin #StrayKids #Dior #ParisFashionWeek"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n패션\n\n[캡션]\nStray Kids（@realstraykids）のヒョンジンが、ディオール（@dior）のアンバサダーに就任しました。\n\nディオールが11月20日に発表したのは、ビューティーとジョナサン・アンダーソンのファッションコレクションをあわせて担うアンバサダーです。ヒョンジンは今年1月、ディオールのメンズショーで初めてパリ・ファッションウィークのフロントロウに座り、その後ウィメンズのショーにも2回出席しています。\n\n最初の公式ビジュアルはパリの屋根の上で撮影されました。写真のヒョンジンの手には、ディオール「ソヴァージュ」のボトルがあります。\n\n発表：11月20日（ディオール）\n分野：ディオール ビューティー（@diorbeauty）・ジョナサン・アンダーソンのファッションコレクション\n#SENE #ヒョンジン #StrayKids #ディオール #ソヴァージュ\n\n[커버]\n소스: \n제목: Stray Kids ヒョンジン、|ディオールのアンバサダーに\n부제: ビューティーとジョナサン・アンダーソンのファッションコレクション\n출처: \n",
+      "caption": "Stray Kids（@realstraykids）のヒョンジンが、ディオール（@dior）のアンバサダーに就任しました。\n\nディオールが11月20日に発表したのは、ビューティーとジョナサン・アンダーソンのファッションコレクションをあわせて担うアンバサダーです。ヒョンジンは今年1月、ディオールのメンズショーで初めてパリ・ファッションウィークのフロントロウに座り、その後ウィメンズのショーにも2回出席しています。\n\n最初の公式ビジュアルはパリの屋根の上で撮影されました。写真のヒョンジンの手には、ディオール「ソヴァージュ」のボトルがあります。\n\n発表：11月20日（ディオール）\n分野：ディオール ビューティー（@diorbeauty）・ジョナサン・アンダーソンのファッションコレクション\n#SENE #ヒョンジン #StrayKids #ディオール #ソヴァージュ",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 패션\nURL: https://www.youtube.com/watch?v=4TcE1mf1CMU\n구간: 1:19-1:45\n곡: Diorアンバサダーに\n아티스트: *ヒョンジン*、\n피처링:\n후킹: \n출처: Christian Dior\n자막: 끔",
+      "caption": "Stray Kids（@realstraykids）のヒョンジンが、ディオール（@dior）のアンバサダーに就任しました。\n\n映像はディオールが公開した、ヒョンジンにとって初めてのディオールのショーのVlogです。今年1月、パリで開かれたディオールのメンズショーへ向かう一日を収めています。この日ヒョンジンは、ディオールのツイードジャケットにタキシードシャツ、デニムパンツを合わせたと自ら紹介しました。\n\nそれから10か月後の11月20日、ディオールはヒョンジンをビューティーとジョナサン・アンダーソンのファッションコレクションのアンバサダーとして発表しました。\n\n発表：11月20日（ディオール）\n映像：Christian Dior\n#SENE #ヒョンジン #StrayKids #ディオール #パリコレ"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -392,10 +436,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-23T08:30+09:00"
+  "at": "2026-11-23T08:31+09:00"
  },
  "queue": {
-  "next": "2026-11-23T08:32+09:00",
+  "next": "2026-11-23T08:33+09:00",
   "n": 0,
   "gap": 20
  },
