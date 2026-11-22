@@ -858,7 +858,56 @@
    },
    "corner_name": "오늘의 순간",
    "corner_no": 3,
-   "i18n_queued": "2026-11-22T11:48+09:00"
+   "i18n_queued": "2026-11-22T11:48+09:00",
+   "i18n": {
+    "at": "2026-11-22T11:49+09:00",
+    "confirm": [
+     "원문의 'N°5 펄스 스프레이'는 샤넬의 'Purse Spray'(일본 공식 표기 パース スプレイ)를 잘못 옮긴 것으로 보고 Purse Spray로 번역함. 한국어 원문 표기도 '퍼스 스프레이'인지 확인 필요",
+     "'N°5 오 드 빠르펭 스프레이'의 일본어는 샤넬 재팬 관례 표기 'N°5 オードゥ パルファム（ヴァポリザター）'를 씀. 2026 홀리데이 한정판의 정확한 일본 제품명은 확인 못 함",
+     "더팩트 영문·일문 표기는 'The Fact' / 'THE FACT'로 씀",
+     "주소 로마자 'Seongsui-ro 7ga-gil'·일본어 '聖水二路7ガギル'는 표기 관례를 따라 옮긴 것으로, 공식 안내에서 따로 확인하지는 않음",
+     "숏폼 세 칸: 후킹 칸이 비어 있어 아티스트 칸 끝 쉼표는 빼고 곡 칸 끝에 문장 부호를 붙임 (EN 'Chanel Pop-Up Photocall — Karina' · JA 'シャネルのフォトコール、カリナ')",
+     "일본어 제품명 'N°5 パース スプレイ' 가 샤넬 재팬 공식 표기와 맞는지 확인 필요 (검색은 하지 않음)",
+     "영어 숏폼 곡 칸에서 'Pop-Up' 을 줄였음 — 캡션에는 pop-up 이라고 그대로 있음"
+    ],
+    "review": {
+     "at": "2026-11-22T11:49+09:00",
+     "fixes": [
+      "영어 · 숏폼 아티스트·곡 칸 · 화면은 아티스트→곡 순서로 이어지므로 원문처럼 쉼표를 아티스트 칸으로 옮김 ('*Karina*,' / 곡 끝 '—' 삭제) — 'Karina Chanel… —' 로 끊겨 읽힘",
+      "영어 · 숏폼 곡 칸 · Chanel Pop-Up Photocall — (25자) → Chanel Photocall — 한 줄 20자 제한 초과",
+      "일본어 · 숏폼 아티스트·곡 칸 · 쉼표를 곡 칸 끝에서 아티스트 칸으로 옮김 ('*カリナ*、' / 'シャネルのフォトコール') — 순서가 맞지 않음",
+      "일본어 · 표지 제목 1줄 · カリナが先に立った → カリナがひと足先に — '先に立った' 는 직역투이고 '앞장섰다'로도 읽힘",
+      "일본어 · 캡션 첫 문장 · フォトコールに先に立った → フォトコールにひと足先に登場した — 직역투",
+      "영어 · 캡션 첫 문장 · Karina stood first at the opening photocall → Karina posed at the opening photocall before anyone else — 'stood first' 는 직역투이고 뜻이 모호함"
+     ],
+     "doubt": [
+      "일본어 제품명 'N°5 パース スプレイ' 가 샤넬 재팬 공식 표기와 맞는지 확인 필요 (검색은 하지 않음)",
+      "영어 숏폼 곡 칸에서 'Pop-Up' 을 줄였음 — 캡션에는 pop-up 이라고 그대로 있음"
+     ]
+    },
+    "en": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\nChanel's holiday pop-up in Seongsu-dong, Seoul, where aespa (@aespa_official)'s Karina posed at the opening photocall before anyone else, has reached its first weekend.\n\nKarina is an ambassador for Chanel Beauty (@chanel.beauty). On the afternoon of Nov 18, three days before the official opening, she attended a photocall in the space to mark the launch. Since Nov 21, that same space has been a pop-up open to everyone.\n\nThe space recreates the chalet and snowy landscape of St. Moritz, Switzerland, where Gabrielle Chanel stayed every winter. Visitors can see the holiday editions of 'N°5 Eau de Parfum Spray' and 'N°5 Purse Spray' in winter cases, along with 'La Crème Main'.\n\nDates: Nov 21 (Sat) – Dec 31 (Thu)\nLocation: 9 Seongsui-ro 7ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: 11:00 – 20:00 (last entry 19:30)\nReservations: Advance booking (walk-ins welcome)\n#SENE #Karina #aespa #ChanelHoliday #SeoulPopup #Seongsu\n\n[커버]\n소스: \n제목: Karina Stood Here First|Chanel Seongsu Pop-Up\n부제: Nov 21 – Dec 31 · Seongsui-ro 7ga-gil\n출처: \n",
+      "caption": "Chanel's holiday pop-up in Seongsu-dong, Seoul, where aespa (@aespa_official)'s Karina posed at the opening photocall before anyone else, has reached its first weekend.\n\nKarina is an ambassador for Chanel Beauty (@chanel.beauty). On the afternoon of Nov 18, three days before the official opening, she attended a photocall in the space to mark the launch. Since Nov 21, that same space has been a pop-up open to everyone.\n\nThe space recreates the chalet and snowy landscape of St. Moritz, Switzerland, where Gabrielle Chanel stayed every winter. Visitors can see the holiday editions of 'N°5 Eau de Parfum Spray' and 'N°5 Purse Spray' in winter cases, along with 'La Crème Main'.\n\nDates: Nov 21 (Sat) – Dec 31 (Thu)\nLocation: 9 Seongsui-ro 7ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: 11:00 – 20:00 (last entry 19:30)\nReservations: Advance booking (walk-ins welcome)\n#SENE #Karina #aespa #ChanelHoliday #SeoulPopup #Seongsu",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=TVxc0qkxuow\n구간: 0:05-0:23\n곡: Chanel Photocall\n아티스트: *Karina*,\n피처링:\n후킹: \n출처: The Fact\n자막: 끔",
+      "caption": "aespa (@aespa_official)'s Karina attended a photocall on Nov 18 marking the opening of Chanel's holiday pop-up in Seongsu-dong, Seoul.\n\nKarina is an ambassador for Chanel Beauty (@chanel.beauty). The space officially opened on Nov 21 and is now open to everyone. It recreates a chalet and snowy landscape in St. Moritz, Switzerland.\n\nDates: Nov 21 (Sat) – Dec 31 (Thu)\nLocation: 9 Seongsui-ro 7ga-gil, Seongdong-gu, Seoul (Seongsu-dong)\nHours: 11:00 – 20:00 (last entry 19:30)\nVideo: The Fact\n#SENE #Karina #aespa #ChanelHoliday #SeoulPopup #Seongsu"
+     }
+    },
+    "ja": {
+     "card": {
+      "form": "[카테고리]\n뷰티\n\n[캡션]\naespa（@aespa_official）のカリナがオープン記念フォトコールにひと足先に登場した、ソウル・聖水洞（ソンスドン）のシャネル ホリデー ポップアップが、最初の週末を迎えました。\n\nカリナはシャネル ビューティ（@chanel.beauty）のアンバサダーです。正式オープン3日前の18日午後、この空間で開かれたオープン記念フォトコールに登場しました。その場所が、21日から誰でも入れるポップアップになりました。\n\n空間は、ガブリエル・シャネルが毎冬滞在したスイス・サンモリッツの山荘と雪景色を再現しています。ウィンターケースをまとった「N°5 オードゥ パルファム（ヴァポリザター）」と「N°5 パース スプレイ」、「ラ クレーム マン」のホリデーエディションを見ることができます。\n\n期間：11月21日（土）〜12月31日（木）\n場所：ソウル特別市城東区聖水二路7ガギル9（聖水洞）\n営業時間：11:00〜20:00（最終入場19:30）\n予約：事前予約（当日入場も可）\n#SENE #カリナ #aespa #シャネル #韓国旅行 #聖水\n\n[커버]\n소스: \n제목: カリナがひと足先に|聖水シャネルポップアップ\n부제: 11月21日〜12月31日・聖水二路7ガギル\n출처: \n",
+      "caption": "aespa（@aespa_official）のカリナがオープン記念フォトコールにひと足先に登場した、ソウル・聖水洞（ソンスドン）のシャネル ホリデー ポップアップが、最初の週末を迎えました。\n\nカリナはシャネル ビューティ（@chanel.beauty）のアンバサダーです。正式オープン3日前の18日午後、この空間で開かれたオープン記念フォトコールに登場しました。その場所が、21日から誰でも入れるポップアップになりました。\n\n空間は、ガブリエル・シャネルが毎冬滞在したスイス・サンモリッツの山荘と雪景色を再現しています。ウィンターケースをまとった「N°5 オードゥ パルファム（ヴァポリザター）」と「N°5 パース スプレイ」、「ラ クレーム マン」のホリデーエディションを見ることができます。\n\n期間：11月21日（土）〜12月31日（木）\n場所：ソウル特別市城東区聖水二路7ガギル9（聖水洞）\n営業時間：11:00〜20:00（最終入場19:30）\n予約：事前予約（当日入場も可）\n#SENE #カリナ #aespa #シャネル #韓国旅行 #聖水",
+      "preview": null
+     },
+     "shorts": {
+      "form": "[영상]\n카테고리: 뷰티\nURL: https://www.youtube.com/watch?v=TVxc0qkxuow\n구간: 0:05-0:23\n곡: シャネルのフォトコール\n아티스트: *カリナ*、\n피처링:\n후킹: \n출처: THE FACT\n자막: 끔",
+      "caption": "aespa（@aespa_official）のカリナが18日、ソウル・聖水洞（ソンスドン）のシャネル ホリデー ポップアップのオープン記念フォトコールに登場しました。\n\nカリナはシャネル ビューティ（@chanel.beauty）のアンバサダーです。この空間は21日に正式オープンし、今は誰でも入ることができます。スイス・サンモリッツの山荘と雪景色を再現した空間です。\n\n期間：11月21日（土）〜12月31日（木）\n場所：ソウル特別市城東区聖水二路7ガギル9（聖水洞）\n営業時間：11:00〜20:00（最終入場19:30）\n映像：THE FACT\n#SENE #カリナ #aespa #シャネル #韓国旅行 #聖水"
+     }
+    }
+   }
   }
  ],
  "skipped": [],
@@ -1106,10 +1155,10 @@
     "why": "덜 터졌지만 좋았던 SENE 글을 새 표지로"
    }
   ],
-  "at": "2026-11-22T11:48+09:00"
+  "at": "2026-11-22T11:49+09:00"
  },
  "queue": {
-  "next": "2026-11-22T11:50+09:00",
+  "next": "2026-11-22T11:51+09:00",
   "n": 0,
   "gap": 20
  },
