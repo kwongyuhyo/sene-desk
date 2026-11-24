@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "generated_at": "2026-11-23 22:37 KST",
+ "generated_at": "2026-11-24 11:01 KST",
  "weeks": [],
  "kinds": [],
  "top": [],
@@ -19,7 +19,7 @@
  },
  "note": "결 배수는 주차별 도달 중앙값으로 보정한 값이다. stable=false 는 한 주만 빼도 방향이 바뀌므로 판단 근거로 쓰지 않는다.",
  "runs": {
-  "daily": "2026-11-23 21:01 KST"
+  "daily": "2026-11-23 22:37 KST"
  },
  "feed": {
   "fetched_at": "",
@@ -27,25 +27,20 @@
  },
  "drafts": {
   "days": 28,
-  "drafts": 220,
+  "drafts": 199,
   "posted": 0,
   "posts": 0,
   "rate": 0.0,
   "adopted_mult": null,
   "own_mult": null,
   "lanes": {
-   "정리": {
-    "drafts": 30,
-    "posted": 0,
-    "mult": null
-   },
    "정보": {
-    "drafts": 149,
+    "drafts": 133,
     "posted": 0,
     "mult": null
    },
    "클립": {
-    "drafts": 33,
+    "drafts": 29,
     "posted": 0,
     "mult": null
    },
@@ -53,31 +48,31 @@
     "drafts": 8,
     "posted": 0,
     "mult": null
+   },
+   "정리": {
+    "drafts": 29,
+    "posted": 0,
+    "mult": null
    }
   },
   "corners": {
-   "roundup": {
-    "drafts": 16,
-    "posted": 0,
-    "mult": null
-   },
-   "news": {
-    "drafts": 145,
-    "posted": 0,
-    "mult": null
-   },
-   "mal": {
+   "issue": {
     "drafts": 6,
     "posted": 0,
     "mult": null
    },
-   "issue": {
-    "drafts": 7,
+   "news": {
+    "drafts": 130,
     "posted": 0,
     "mult": null
    },
    "followup": {
-    "drafts": 2,
+    "drafts": 1,
+    "posted": 0,
+    "mult": null
+   },
+   "mal": {
+    "drafts": 3,
     "posted": 0,
     "mult": null
    },
@@ -88,6 +83,11 @@
    },
    "weekend": {
     "drafts": 1,
+    "posted": 0,
+    "mult": null
+   },
+   "roundup": {
+    "drafts": 15,
     "posted": 0,
     "mult": null
    },
