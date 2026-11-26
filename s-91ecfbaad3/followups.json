@@ -1,7 +1,135 @@
 {
  "schema": 1,
- "generated_at": "2026-11-26 22:36 KST",
+ "generated_at": "2026-11-27 00:36 KST",
  "cards": [
+  {
+   "id": "b19bdbc3",
+   "key": "closing:미니틴:2026-11-30",
+   "kind": "closing",
+   "kind_label": "종료 임박",
+   "who": [
+    "미니틴"
+   ],
+   "origin": {
+    "head": "미니틴 · 2026-11-24~2026-11-30",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1NSkhjSjVYUFNHb1B3bDVpVDZJaHdoUlVoclo5V0NMVXRXalF5Z0hzZlFWbWNkQVlReU00d29lclEyYWFTWmxSdUd0aUlEM1hW?oc=5",
+    "at": "2026-11-24",
+    "mult": null
+   },
+   "evidence": [
+    {
+     "from": "시사N라이프",
+     "at": "2026-11-30",
+     "title": "3일 뒤 종료 · "
+    }
+   ],
+   "news": [
+    {
+     "title": "세븐틴 공식 캐릭터 ‘미니틴’, 겨울 맞이 스노우 테마 팝업 개최",
+     "link": "https://sports.khan.co.kr/article/202611162308003?pt=nv",
+     "summary": "캐릭터 미니틴이 겨울을 맞아 눈사람 마을로 팬들을 초대한다. 16일 하이브 뮤직그룹 레이블 플레디스 엔터테인먼트에 따르면 미니틴의 네 번째 팝업 ‘SNOW with MINITEEN’이 오는 20~30일 11일간 서울 성수동에서...",
+     "date": "2026-11-16",
+     "kind": "news"
+    },
+    {
+     "title": "세븐틴 공식 캐릭터 ‘미니틴’, 팝업 개최… 사전 예약 일정",
+     "link": "https://www.bntnews.co.kr/article/view/bnt202611160218",
+     "summary": "캐릭터 미니틴이 오는 11월 20일부터 30일까지 11일간 서울 성수동에서 네 번째 팝업 ‘SNOW with MINITEEN’을 열고 팬들을 겨울 눈사람 마을로 초대한다. 미니틴의 네 번째 팝업 ‘SNOW with MINITEEN’이 20~30일 11일간...",
+     "date": "2026-11-16",
+     "kind": "news"
+    },
+    {
+     "title": "세븐틴 공식캐릭터 ‘미니틴’ 만난다…겨울 맞이 스노우 테마 팝업 개...",
+     "link": "http://www.osen.co.kr/article/G1112910977",
+     "summary": "그룹 세븐틴의 공식 캐릭터 미니틴(MINITEEN)이 겨울 감성을 가득 담은 팝업스토어로 글로벌 팬들을 만난다. 16일 하이브 뮤직그룹 레이블 플레디스 엔터테인먼트에 따르면 미니틴의 네 번째 팝업스토어 ‘SNOW with...",
+     "date": "2026-11-16",
+     "kind": "news"
+    }
+   ],
+   "plans": [
+    {
+     "format": "종료 임박 정리",
+     "corner": "followup",
+     "title": "미니틴 눈사람 마을, 30일 폐장",
+     "angle": "성수동 'SNOW with MINITEEN'을 마지막 주말(28~29일) 동선으로, 기간·장소·입장 방법·현장 대기만 정리합니다.",
+     "why": "30일 종료까지 사흘 남아 마지막 주말이 코앞입니다.",
+     "check": "확인: 시작일 20일(보도)·24일(기존 소식) 불일치, 주소·운영시간·예약 방식"
+    },
+    {
+     "format": "그 후",
+     "corner": "followup",
+     "title": "미니틴 팝업, 열고 난 뒤",
+     "angle": "개막 이후 웨이팅·굿즈 소진·연장 여부가 어떻게 이어졌는지, 공식 공지 기준으로 날짜순 정리합니다.",
+     "why": "종료를 앞두고 열하루 동안 벌어진 일을 정리할 시점입니다.",
+     "check": "확인: 공식 인스타의 웨이팅·품절·연장 공지 날짜 (없으면 보류)"
+    },
+    {
+     "format": "비교",
+     "corner": "followup",
+     "title": "미니틴 팝업 1~4번째 나란히",
+     "angle": "네 번째 팝업까지 시기·장소·기간·테마를 사실만 나란히 놓고, 우열은 매기지 않습니다.",
+     "why": "네 번째 팝업이 막바지라 지난 팝업과 견줘 볼 때입니다.",
+     "check": "확인: 1~3번째 팝업의 기간·장소·테마 (현재 자료에 없음)"
+    }
+   ],
+   "score": 7.0,
+   "preempt": null,
+   "made_at": "2026-11-27T00:36+09:00",
+   "expires": "2026-11-30T00:36+09:00"
+  },
+  {
+   "id": "382a90b4",
+   "key": "closing:BMW 코리아 미래재단:2026-11-29",
+   "kind": "closing",
+   "kind_label": "종료 임박",
+   "who": [
+    "BMW 코리아 미래재단"
+   ],
+   "origin": {
+    "head": "BMW 코리아 미래재단 · 2026-11-27~2026-11-29",
+    "url": "https://www.lawissue.co.kr/view.php?ud=202611262354487384204ead0791_12",
+    "at": "2026-11-27",
+    "mult": null
+   },
+   "evidence": [
+    {
+     "from": "lawissue.co.kr",
+     "at": "2026-11-29",
+     "title": "2일 뒤 종료 · "
+    }
+   ],
+   "news": [
+    {
+     "title": "BMW 코리아 미래재단 \"대학생 아이디어로 지속가능한 미래 그린다\"",
+     "link": "https://www.fnnews.com/news/202611260923158199",
+     "summary": "BMW 코리아 미래재단이 대학생들의 창의적인 아이디어를 실제 사회문제 해결 방안으로 구현하는 미래 인재 육성에 나섰다. 환경보호와 교통안전, 지역사회 발전 등 다양한 분야에서 대학생들이 직접 개발한 결과물을...",
+     "date": "2026-11-26",
+     "kind": "news"
+    }
+   ],
+   "plans": [
+    {
+     "format": "종료 임박 정리",
+     "corner": "followup",
+     "title": "BMW 미래재단, 마지막 주말",
+     "angle": "11월 27~29일 열리는 BMW 코리아 미래재단 행사를 마지막 주말 동선으로 정리합니다.",
+     "why": "11월 29일 종료를 이틀 앞두고 종료 임박 소식이 붙었습니다.",
+     "check": "확인: 행사 장소·운영 시간·입장 방법·현장 대기 여부"
+    },
+    {
+     "format": "현장 정리",
+     "corner": "followup",
+     "title": "대학생 아이디어가 놓인 자리",
+     "angle": "대학생이 개발한 환경보호·교통안전·지역사회 결과물을 공식 사진 기준으로 정리합니다.",
+     "why": "11월 26일 기사로 재단의 대학생 프로젝트가 막 알려졌습니다.",
+     "check": "확인: 이번 행사에 나오는 결과물과 공식 사진 제공 여부"
+    }
+   ],
+   "score": 7.0,
+   "preempt": null,
+   "made_at": "2026-11-27T00:36+09:00",
+   "expires": "2026-11-30T00:36+09:00"
+  },
   {
    "id": "47218a76",
    "key": "closing:K-브랜드 글로우위크 팝업:2026-11-29",
